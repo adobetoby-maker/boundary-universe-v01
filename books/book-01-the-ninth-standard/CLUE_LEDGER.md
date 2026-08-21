@@ -2,83 +2,97 @@
 
 Update after every chapter promoted to the working manuscript.
 
-## Chapter 1 — The Kid in Room Four
+## Chapters 1–6 — established clue base
+- Kade instinctively questions stated system boundaries before any formal Boundary explanation.
+- `REDEFINE` appears only after he draws a non-object-based boundary.
+- `000` is a restricted route/protocol result, not an ordinary score.
+- Zero Protocol has historical precedent roughly three decades earlier.
+- Kade baselines at `0.00` conventional field output.
+- Sen personally monitors him and Park lacks clearance for historical Zero answers.
+- Kade perceives transfer relationships during a Standard Six fight without sensing the field normally.
+- Forty-Seven Second Fight shows incoming momentum resolving into arena structure despite zero measured output.
+- Telemetry measures the consequence but not the transfer path.
 
-### Planted clues
-- Kade instinctively questions the stated boundary of a simple physics problem; this foreshadows his later Boundary architecture.
-- Kade resolves Darius's attempted walkout by modeling the surrounding system—attendance contract, review timing, and family consequences—rather than confronting him physically. This foreshadows Consensus as a people-and-systems ability, not just combat power.
-- The national exam becomes more responsive as Kade reasons in terms of system boundaries rather than object labels.
-- The hidden prompt **REDEFINE** appears only after Kade draws a non-object-based boundary.
-- Kade's final adaptive task asks him to define an active system with no visible objects, suggesting the test has entered an abnormal protocol.
-- Score **000** is not accompanied by normal percentile/section data.
-- The proctor reacts to 000 with recognition and fear rather than dismissal.
-- Kade's score remains visible while the national testing network terminates.
-- A phone call confirms that someone outside Northline immediately recognizes the significance of Kade Mercer and the 000 result.
-
-## Chapter 2 — Zero Protocol
-
+## Chapter 7 — The Suppression Order
 ### Payoffs
-- Confirms `000` is not an ordinary aptitude score; it is a restricted routing/protocol result.
-- Confirms the public exam entered a diagnostic path not expected to be reached.
-- Confirms the valid route has historical precedent roughly three decades earlier.
-
+- Sen imposes the conservative restriction promised earlier.
+- Kade interprets the restriction as institutional suppression even though Sen frames it as uncertainty/safety.
 ### New clues
-- Zero Protocol is described as a failsafe whose original program has classified history.
-- The timing—roughly thirty-one years—parallels the public discovery of Resonance.
-- Federal/Asterion authority can compel evaluation under Resonance safety law, implying the protocol predates ordinary admissions practice.
-- Vale is more forthcoming than Renn, establishing institutional disagreement about how much Kade should know.
+- Sen admits fear of repetition rather than punishment.
+- Kade's response is to find legal/non-field ways to improve, establishing agency rather than victimhood.
 
-### Questions created
-- Who triggered Zero before Kade?
-- Why was the diagnostic branch preserved inside a public test?
-- Why can Asterion invoke classified admission authority?
+## Chapter 8 — The Ladder
+### New clues
+- Eli independently identifies repeated low-level transfer anomalies across Kade's fights.
+- The anomalies correlate with Kade thinking about connected systems rather than force itself.
+- Taren begins supplying unusually useful opponent information, a soft future clue to his hidden observation role.
 
-## Chapter 3 — Asterion
+## Chapter 9 — Meridian Night
+### Character/mystery seeds
+- Julian Cross is introduced as honorable, deliberately undercutting expected antagonist framing.
+- Mara checks Kade's rank independently and asks about Northline, moving skepticism toward personal curiosity.
+- Kade admits he used indifference to avoid discovering whether failure mattered.
+- Taren repeatedly appears with unusually precise timing/social information.
 
-### Planted clues
-- Asterion is visibly both school and strategic infrastructure: null-lift transport, major field facilities, enormous training capacity.
-- The academy ranking culture makes human capability legible to institutions; this later supports the reveal that competition also serves selection/research functions.
-- Kade's emotional attachment begins before he admits it, setting up the cost of later betrayal.
+## Chapter 10 — Vector Class
+### New clues
+- Kade understands coupled physical systems conceptually before he can express them formally.
+- He criticizes a two-user coupling model because it treats operators as independent when their corrections alter the shared system.
+- This directly foreshadows Consensus: multiple agents must sometimes be modeled as one active system while retaining agency.
 
-## Chapter 4 — Ten Thousand Four Hundred Eighty-Two
-
-### Planted clues
-- Kade shows zero conventional field output and no ordinary passive field perception.
-- He excels at adaptive route selection/stress systems despite weak conventional Resonance metrics.
-- Dr. Sen personally observes low-level baseline work that a director normally would not need to watch.
-- Dr. Park refuses historical Zero questions based on clearance, reinforcing that the secret is compartmentalized.
-- Sen asks whether Kade will leave and has read his behavioral history, suggesting his psychology matters to whatever Asterion expects from him.
-
-### Payoff targets
-- Chapter 6: demonstrate a real anomalous effect despite `0.00` output.
-- Chapter 7: Sen's conservative training order should initially look like suppression but later be revealed as protection/concealment.
-
-## Chapter 5 — House Meridian
-
-### Planted clues
-- Kade notices force transfer during a Standard Six match without sensing the Resonance field itself.
-- He frames the fight in terms of the fighter not being the entire system.
-- Mara immediately notices that Kade is perceiving something different.
-- Sera shares alternative-school history, establishing that Kade's path is unusual but not uniquely stigmatized within Asterion.
-- Taren approaches Kade as a campus guide; SECRET motive remains observation assignment, but his social usefulness is genuine.
-
-## Chapter 6 — Forty-Seven Seconds
-
+## Chapter 11 — The Broken Floor
 ### Major evidence
-- Kade cannot beat Priya conventionally; rare architecture is explicitly not mastery.
-- Under stress, he experiences the arena as linked transfer relationships rather than isolated objects.
-- Priya's incoming momentum resolves into the wall instead of Kade's body despite Kade having zero conventional measurable output.
-- Telemetry drops out for six frames during the anomalous transfer.
-- The structural system records the energy while the source remains unresolved.
-- Dr. Sen and Dr. Park immediately recognize the event as requiring restricted review.
+- Jonah Pike's bout is an open challenge, explaining legality across the rank gap.
+- Kade experiences Pike, himself and the arena structure as one connected system.
+- Existing force resolves into arena structure, cracking the floor without free-energy generation.
+- Neurological symptoms recur.
+- Sen immediately recognizes the phenomenon strongly enough to use the term `Boundary architecture`.
 
-### Questions created
-- Did Kade redirect momentum, redefine the active system, or perform a different phenomenon entirely?
-- Why does the effect cause headache, tremor and transient neurologic signs?
-- Why can academy telemetry measure the consequence but not the transfer path?
+## Chapter 12 — Boundary Conditions
+### Payoffs
+- Sen explains the distinction between ordinary Resonance within assumed systems and Kade's apparent ability to alter system definition.
+### New clues
+- Sen already possesses terminology for the phenomenon.
+- She answers historical-precedent questions too narrowly (`verified modern program`).
+- She lies directly when asked whether she knew Aaron Mercer.
+- Consent is emphasized when Sen requires Kade to ask Eli before turning over Eli's model; this supports later Consensus ethics.
+
+## Chapter 13 — Cross Examination
+### Character payoff
+- Julian identifies Kade's improvisation as a defense against trusting plans.
+- Kade forces Julian to change plans once, showing earned improvement without making him superior.
+
+## Chapters 14–15 — House Trial
+### Thematic payoff
+- Kade's best strategy changes relationships among other actors rather than maximizing his own power.
+- Meridian's plan survives Kade's elimination.
+- Mara acts on Kade's calls without hesitation and later independently finds the final scoring solution.
+- Team victory therefore foreshadows Standard Nine as distributed capability, not chosen-one dominance.
+### Rank payoff
+- House Trial weighting moves Kade to #1,904.
+
+## Chapter 16 — Famous for Tuesday
+### Character payoff
+- Kade experiences the difference between being seen and being known.
+- Elena's observation that pre-fame relationships are `information` reinforces the found-family arc.
+### Soft mystery seed
+- Sponsor language uses `BREAK THE BOUNDARY`; currently treated as coincidence. Do not overplay unless later chosen as a deliberate institutional leak.
+
+## Chapter 17 — Home
+### Emotional midpoint payoff
+- Kade accepts responsibility for his own failures without accepting institutional revisionism.
+- Ms. Alvarez apologizes for assuming better fit would solve everything.
+- Kade invites Northline students to Asterion and explicitly promises to return.
+- Kade now experiences both Northline and Asterion as forms of home; belonging is no longer the question, its cost is.
 
 ## Long-range payoff map
-- Mid-book: connect the prior Zero case to Aaron Mercer.
-- Mid-book: reveal that Kade's effect is not ordinary redirection but boundary architecture.
-- Late-book: connect Zero, Aaron and Standard Nine/Consensus.
-- Late-book: reveal that the academy's ranking/competition architecture has an additional selection function beyond sport and training.
+- Chapter 18: Mara's father reveals knowledge he should not possess, reactivating hidden-history plot.
+- Chapter 19: connect prior Zero case to Aaron Mercer.
+- Chapter 20: betrayal/secrecy triggers Kade's abandonment defense.
+- Chapters 21–22: Mara defeats Kade through planning, paying off Julian's critique.
+- Chapter 23: identify Aaron as erased twelfth Standard Eight.
+- Chapter 24: Contact Zero / quiet-war partial truth.
+- Chapter 25: Taren's observation assignment revealed; prior information-access clues should become legible in hindsight.
+- Chapters 26–29: Eli's apparent death tests whether Kade can remain connected under grief.
+- Chapters 30–32: distributed academy relationships become the practical architecture of Consensus.
+- Chapter 33: payoff Kade's first rank and redefine what ranking means.
