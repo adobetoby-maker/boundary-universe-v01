@@ -4,27 +4,35 @@ The first thing Aaron Mercer said to his son was not hello.
 
 It was, “You weren’t supposed to be able to do this too.”
 
-Kade stood on the lower platform while alarms filled the chamber.
+Kade stood on the upper platform while alarms filled the chamber.
 
 For a second, nothing else existed.
 
-Not the glowing object beneath the containment lattice.
+Not the black shape suspended beneath layers of failing containment.
 
-Not Sen shouting orders over comms.
+Not Directorate personnel retreating through lower access tunnels.
 
-Not Taren sealing the security door behind them.
+Not Mara beside him.
+
+Not Julian at the door.
+
+Not Taren sealing the legacy lock behind them.
 
 His father was alive.
 
-Seventeen years of grief, anger, absence, and invented explanations stood ten meters away wearing a gray containment suit.
-
-Kade’s throat closed.
+Seventeen years of grief, anger, absence, and secondhand stories stood twenty meters away in a gray containment suit with one hand pressed against a glowing rail.
 
 Aaron looked older than the photograph.
 
 Of course he did.
 
 That obvious fact felt cruel.
+
+His face was thinner. Hair longer. Shoulders narrower than Kade had imagined. A scar crossed one side of his jaw and disappeared beneath the collar.
+
+But the eyes were the same as the photograph.
+
+And disturbingly similar to Kade’s in the mirror.
 
 “You’re alive,” Kade said.
 
@@ -46,85 +54,177 @@ Then control.
 
 The chamber shook.
 
-A section of containment flickered.
+A containment arc snapped white across the lower platform.
 
-Aaron moved instantly, raising one hand.
+Aaron moved instantly.
+
+His hand tightened on the rail.
 
 The failing field stabilized.
 
 Kade felt it.
 
-Not the field itself.
+Not the Resonance itself.
 
 The relationship.
 
-Aaron was tied into the whole chamber.
+Aaron was connected to the entire chamber.
 
 Not metaphorically.
 
 Physically.
 
-Every support, conduit, and containment lattice resolved through him like tension through a web.
+Every support, conduit, containment ring, thermal sink, and signal damper resolved through him like tension through a web.
 
-Kade stared.
+Kade forgot to breathe.
 
-“You’re holding it together.”
+“You’re part of it.”
 
-Aaron nodded once.
+Aaron looked at him.
 
-“For seventeen years.”
+“Yes.”
 
-Mara whispered, “That’s impossible.”
+“How long?”
 
-Aaron looked at her.
+“Seventeen years.”
 
-“It should be.”
+Mara whispered, “That should kill someone.”
 
-Eli had gone completely silent.
+Aaron gave her a tired look.
 
-That was more alarming than anything else in the room.
+“It has been trying.”
 
-Kade stepped forward.
+Kade moved down the first stair.
 
-“What is it?”
+“Why?”
 
-Aaron looked toward the object.
+Aaron looked toward the black object.
 
 The Refuge Node.
 
-Though Kade did not know the name yet.
+The name appeared on one surviving status panel.
 
-“It came here damaged,” Aaron said. “It was hiding.”
+**REFUGE NODE — SIGNAL CONTAINMENT 42%**
 
-“From what?”
+“What is a Refuge Node?” Eli asked over comms.
+
+Aaron glanced toward Kade’s earpiece.
+
+“Who is that?”
+
+“My roommate.”
+
+“Formerly dead,” Eli added.
+
+Aaron stared.
+
+Kade said, “Long week.”
+
+Something almost like humor crossed Aaron’s face.
+
+It vanished quickly.
+
+“The object came here damaged,” Aaron said. “It was hiding.”
+
+“From what?” Kade asked.
 
 “We never learned enough to be certain.”
 
-“Then why keep it here?”
+“Then why keep it under a school?” Julian asked.
 
-“Because once we understood that its signal could be detected, we understood something else might hear it.”
+Aaron looked toward him.
 
-Kade looked at the layered containment system.
+“Because the school was built around the containment site, not the other way around.”
 
-“You’ve been blocking the signal.”
+Kade felt that answer settle into every strange thing about Asterion.
+
+The island.
+
+The old infrastructure.
+
+The classified sublevels.
+
+The obsession with measuring people.
+
+“Why suppress the signal?” Mara asked.
+
+Aaron’s attention returned to the Refuge Node.
+
+“When we first understood that it was transmitting, we thought the signal was distress.”
+
+“And?”
+
+“We later realized it had spent years trying not to transmit.”
+
+The room went quiet.
+
+Eli said, “That seems important.”
+
+“It was hiding,” Kade said.
 
 Aaron nodded.
 
+“From something capable of hearing it.”
+
+Kade looked at the layered dampers.
+
+“You’ve been stopping the signal for seventeen years.”
+
 “Among other things.”
 
-Another field failed.
+“Why you?”
+
+Aaron looked at him.
+
+“Because after the final Consensus experiment, I could interact with the system differently than anyone else.”
+
+Kade stepped down another stair.
+
+“Boundary architecture.”
+
+Aaron’s expression tightened.
+
+“That is what Sen calls it now?”
+
+“Yes.”
+
+“Better than some of the names we used.”
+
+Kade almost asked what names.
+
+The chamber shook again.
 
 Aaron staggered.
 
 Kade moved without thinking.
 
-He caught his father’s arm.
+He crossed the remaining distance and caught his father’s arm.
 
-The contact changed everything.
+Contact changed everything.
 
-For one instant, Kade perceived Aaron not as a person standing beside him, but as a system boundary connected to the chamber.
+For one instant, Kade perceived Aaron not as one person beside him but as a boundary controller woven through the chamber.
 
-Aaron felt it too.
+Containment loads.
+
+Field corrections.
+
+Signal suppression.
+
+Thermal transfer.
+
+Pain.
+
+Kade felt the last one most clearly.
+
+Not Aaron’s thoughts.
+
+Not memories.
+
+The fact of strain.
+
+A human nervous system carrying work no human nervous system had been built to carry.
+
+Aaron felt Kade perceive it.
 
 His eyes widened.
 
@@ -136,17 +236,21 @@ Kade pulled back.
 
 Aaron looked frightened.
 
+Not for himself.
+
+For Kade.
+
 “Zero was never a score.”
 
 “I know.”
 
 “No. You know the label.”
 
-Aaron looked toward Sen as she entered through the emergency access door.
+Aaron looked toward the upper entrance as Sen arrived through the emergency access with Park behind her.
 
 “You didn’t tell him.”
 
-Sen said, “I didn’t know if he could do it.”
+Sen said, “I didn’t know whether he could do it.”
 
 “Do what?” Kade demanded.
 
@@ -154,25 +258,37 @@ Aaron looked at him.
 
 “Join boundaries between minds.”
 
-The room went quiet despite the alarms.
+Even the alarms seemed quieter.
 
-Kade thought of Darius.
+Kade thought of Vector Class.
 
-Mara.
+Two operators modeled as one active system.
 
-Eli.
+House Trial.
 
-The House Trial.
+A plan continuing after he was eliminated.
 
-The arena feeling like one thing.
+Mara saying she trusted him.
 
-“Consensus,” Sen said.
+Eli’s model.
 
-Aaron closed his eyes.
+Sera’s evacuation routes.
 
-“The old project name.”
+Julian teaching him to plan beyond one move.
 
-Kade stared at them.
+Taren choosing to burn his access.
+
+“What does that mean?” Kade asked.
+
+Sen answered.
+
+“The old project called it Consensus.”
+
+Aaron closed his eyes briefly.
+
+“Yes.”
+
+Kade looked at them.
 
 “You built Standard Nine.”
 
@@ -180,42 +296,172 @@ Kade stared at them.
 
 He opened his eyes.
 
-“We discovered that Standard Eight wasn’t the end.”
+“We discovered that the Standards were describing the wrong thing.”
 
-The object below them pulsed.
+Kade frowned.
 
-A shock moved through the chamber.
+Aaron gestured weakly toward the chamber.
 
-Every containment line turned white.
+“Standards One through Eight describe what one Resonant can do with increasingly complex systems. Consensus is not more of the same.”
 
-Aaron dropped to one knee.
+“What is it?” Mara asked.
 
-Sen looked at the diagnostics.
+“A change in the definition of the operator.”
 
-“We’re losing suppression.”
+Eli whispered, “Oh.”
 
-Aaron said, “Then the signal goes out.”
+That was all.
+
+Coming from Eli, it meant the explanation had landed hard.
+
+Aaron continued.
+
+“Normally a Resonant treats themselves as one side of the interaction. World on one side. Operator on the other. Consensus lets multiple people share a boundary model without becoming one person.”
+
+Kade thought of the hidden exam.
+
+*Define the active system.*
+
+A blank screen.
+
+His fingers drawing a boundary around nothing.
+
+“The people become part of the same operator.”
+
+“For a limited purpose,” Aaron said. “If it is done correctly.”
+
+“And incorrectly?” Sera asked.
+
+Aaron’s face went still.
+
+“The Directorate’s command experiments tried to make one person dominant.”
+
+Taren looked sick.
+
+Aaron continued.
+
+“Compliance was mistaken for stability. It was not.”
+
+Kade understood.
+
+“You can’t force it.”
+
+“No.”
+
+“Because the other people stop being active operators.”
+
+Aaron stared at him.
+
+“Yes.”
+
+Sen looked at Kade too.
+
+He suddenly hated that everyone seemed impressed.
+
+The Refuge Node pulsed.
+
+A pressure wave hit the chamber.
+
+Containment dropped to thirty-one percent.
+
+Aaron collapsed to one knee.
+
+Park moved toward him.
+
+He waved her back.
+
+“Not yet.”
+
+Sen checked the diagnostic.
+
+“The Directorate bypassed three signal dampers. We cannot restore them locally.”
 
 “How long?” Mara asked.
 
-Eli looked at the collapsing telemetry.
+Eli answered over comms.
 
-“Minutes.”
+“Signal suppression reaches zero in two minutes twenty.”
+
+Kade looked at the Refuge Node.
+
+“If the signal gets out?”
+
+Aaron did not answer immediately.
+
+“That depends on whether anyone is still listening.”
+
+“Thirty-one years later?”
+
+“Yes.”
 
 Kade looked at Aaron.
 
 “Tell me what to do.”
 
-Aaron gave a tired, almost disbelieving laugh.
+Aaron gave a tired, disbelieving laugh.
 
 “That is the problem.”
 
 “What?”
 
-“You can’t command Consensus.”
+“You cannot command Consensus.”
 
-The chamber shook again.
+Kade looked around.
 
-Aaron looked at Kade’s friends.
+Mara.
 
-“You have to ask.”
+Sera.
+
+Julian.
+
+Taren.
+
+Sen.
+
+Eli somewhere above them in the network.
+
+People carrying different skills, different loyalties, different reasons to be afraid.
+
+Aaron said, “If you make yourself the center, it fails.”
+
+Kade almost laughed.
+
+His entire life had been preparation for not wanting to be the center.
+
+“What do I do?”
+
+Aaron looked at his friends.
+
+Then back at Kade.
+
+“You ask.”
+
+Kade stared at him.
+
+All the things he had wanted to say to Aaron remained between them.
+
+Where were you?
+
+Why did you leave us?
+
+Why didn’t you come back?
+
+Did you know about me?
+
+Did you choose this?
+
+None of them mattered less.
+
+They simply had to wait.
+
+Kade nodded once.
+
+“We are having a very long conversation after this.”
+
+Aaron’s eyes closed briefly.
+
+“I hope so.”
+
+It was the first thing he said that sounded like a father.
+
+Kade turned toward his friends as containment fell below twenty-five percent.
