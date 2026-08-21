@@ -6,15 +6,47 @@ The first took nineteen seconds.
 
 The second took twenty-three.
 
-By the fifth, Kade understood why Rank One was Rank One.
+The third took fifteen because Kade became irritated by the first two and attempted something ambitious.
+
+By the fifth, he understood why Rank One was Rank One.
 
 Julian did not look fast.
 
 He removed decisions.
 
-Every step closed an option. Every feint forced Kade toward a worse position. By the time the strike arrived, losing had happened several seconds earlier.
+Every step closed an option. Every feint moved Kade toward a worse answer. Every small pressure forced a response Julian had already planned for. By the time the final strike arrived, losing had happened several seconds earlier.
 
-On the twelfth reset, Kade stayed on the mat.
+It was deeply annoying.
+
+On reset six, Kade tried waiting.
+
+Julian waited better.
+
+On reset seven, Kade attacked first.
+
+Julian used the attack to decide where Kade would be standing three exchanges later.
+
+On reset eight, Kade attempted to become unpredictable.
+
+Julian swept him in fourteen seconds.
+
+“You looked pleased,” Kade said from the floor.
+
+“I enjoy when opponents announce strategy with facial expressions.”
+
+“I did not.”
+
+“You did.”
+
+“Traitorous face.”
+
+On reset nine, Kade lasted thirty-one seconds.
+
+Ten lasted forty-two.
+
+Eleven ended when Julian placed Kade exactly where Kade had spent the entire exchange trying not to go.
+
+On the twelfth reset, Kade remained on the mat.
 
 Julian offered a hand.
 
@@ -26,15 +58,21 @@ Kade looked at it.
 
 Kade laughed and took it.
 
-They were alone in a side training room. No spectators. No rankings. No recording beyond the academy safety system.
+They were alone in a side training room before first period. No spectators. No ladder consequences. The safety system recorded only injury-relevant telemetry.
 
-Julian had invited him after hearing about the broken floor.
+Julian had invited Kade after the Broken Floor video escaped.
 
-Kade had expected curiosity.
+Kade had expected questions.
 
-Instead Julian had said, “Your footwork is improving, but you still solve the problem you’re currently in instead of the next one.”
+What did you feel?
 
-Then he had hit him eleven times.
+What can you do?
+
+Was the crack real?
+
+Instead, Julian had watched one ordinary match and said, “Your footwork is improving, but you still solve the problem you are currently in instead of the next one.”
+
+Then he had hit Kade eleven times.
 
 “Again?” Julian asked.
 
@@ -44,17 +82,27 @@ Then he had hit him eleven times.
 
 Kade blinked.
 
-“You’re supposed to say perseverance builds character.”
+“You are supposed to say perseverance builds character.”
 
 “Perseverance while exhausted builds bad habits.”
+
+“That sounds annoyingly reasonable.”
+
+“It often is.”
 
 Julian sat against the wall.
 
 Kade joined him.
 
-For a minute neither spoke.
+The training room smelled faintly of mat cleaner and warm composite. Outside the glass, morning light had barely reached the courtyard.
+
+For a minute, neither spoke.
+
+Kade liked silence more around Julian than he expected. Julian did not seem to treat it as an invitation to ask personal questions.
 
 Then Julian said, “You’re trying to understand why I’m helping.”
+
+Kade looked over.
 
 “I was being subtle.”
 
@@ -62,7 +110,7 @@ Then Julian said, “You’re trying to understand why I’m helping.”
 
 “Tragic.”
 
-Julian took a drink of water.
+Julian drank water.
 
 “I saw the Meridian Night thing with Reid.”
 
@@ -70,9 +118,9 @@ Julian took a drink of water.
 
 “I prefer that version.”
 
-“You still haven’t answered.”
+“You still have not answered.”
 
-Julian looked at the empty mat.
+Julian looked across the empty mat.
 
 “Because everyone here needs someone who can beat them.”
 
@@ -80,13 +128,17 @@ Kade waited.
 
 “That sounds like rank-one philosophy.”
 
-“It means if nobody exposes your weaknesses, you start protecting them.”
+“It means if nobody exposes your weaknesses, you start protecting them instead of fixing them.”
 
-Kade thought of Northline.
+Kade thought about Northline.
 
-Of Ms. Alvarez.
+Ms. Alvarez.
 
-Of Mara tapping his ankle every time his foot landed wrong.
+Sera telling him his feet were bad.
+
+Mara tapping his ankle every time he planted early.
+
+Park listing deficiencies like groceries.
 
 “Who beats you?” he asked.
 
@@ -97,6 +149,50 @@ Julian smiled.
 “That is comforting.”
 
 “It should be.”
+
+“Do you enjoy it?”
+
+“No.”
+
+That answer came immediately.
+
+Kade looked at him.
+
+Julian shrugged.
+
+“I enjoy learning. Losing is often how the lesson arrives. I do not have to enjoy delivery.”
+
+There.
+
+Competitive.
+
+Not saintly.
+
+Much better.
+
+“Why me?” Kade asked.
+
+Julian’s expression changed slightly.
+
+“Because your improvement curve is steep.”
+
+“That sounds flattering.”
+
+“It is also inconvenient.”
+
+Kade smiled.
+
+Julian continued.
+
+“If you become good, I want to understand you before I have to fight you in a bracket.”
+
+“Finally. Selfishness.”
+
+“Did that make you more comfortable?”
+
+“Considerably.”
+
+Julian laughed.
 
 They trained twice more that week.
 
@@ -110,11 +206,67 @@ He asked why Kade stepped left under pressure.
 
 Why he held his breath before counters.
 
-Why he always chose improvisation over preparation.
+Why his first plan in almost every exchange lasted less than two seconds.
+
+Why he interpreted structure as a trap.
 
 The last question bothered Kade.
 
-“Because plans break.”
+They were working through a simple scenario: Julian held center; Kade had to create an opening without leaving the legal engagement zone.
+
+Kade improvised three different entries.
+
+Julian stopped all three.
+
+“Again,” Julian said.
+
+Kade reset.
+
+“I need a different entry.”
+
+“No.”
+
+“You stopped that one.”
+
+“Yes.”
+
+“So—”
+
+“Use it again.”
+
+“That seems stupid.”
+
+“Use it differently.”
+
+Kade frowned.
+
+They started.
+
+Same first step.
+
+Julian responded the same way.
+
+Kade changed the second step.
+
+Julian adjusted and stopped him.
+
+Again.
+
+Same first step.
+
+Same initial response.
+
+Kade changed the third choice.
+
+This time he gained half a meter before Julian turned him out.
+
+“Again,” Julian said.
+
+By the sixth repetition, Kade was angry.
+
+“Plans break.”
+
+Julian did not move from his starting position.
 
 “So?”
 
@@ -122,19 +274,23 @@ The last question bothered Kade.
 
 Julian stared at him.
 
-“That may be the most incorrect confident statement I’ve heard this month.”
+“That may be the most incorrect confident statement I have heard this month.”
 
 Kade smiled.
 
 Julian pointed at him.
 
-“That. You do that when you don’t want to answer.”
+“That.”
+
+“What?”
+
+“You do that when you don’t want to answer.”
 
 The smile disappeared.
 
-Julian continued.
+Julian stepped out of stance.
 
-“You’re good at adapting because you’ve spent years assuming the environment will become hostile.”
+“You are good at adapting because you have spent years assuming the environment will become hostile.”
 
 Kade’s shoulders tightened.
 
@@ -148,17 +304,55 @@ Kade’s shoulders tightened.
 
 Kade looked away.
 
-Julian stood.
+Julian waited.
+
+No follow-up question.
+
+No forced insight.
+
+That was somehow worse.
+
+Kade looked back at the engagement zone.
+
+“At school, plans were usually somebody else deciding what I was supposed to do.”
+
+Julian nodded once.
+
+“That explains disliking other people’s plans.”
+
+“Thank you.”
+
+“It does not explain refusing your own.”
+
+Kade stared at him.
+
+Julian lifted his hands.
 
 “Again.”
 
-This time Kade lasted two minutes.
+This time Kade used the same opening seven times.
 
-He still lost.
+On the eighth, Julian anticipated the adjustment Kade had used on six.
 
-But for the first time, Julian had to change his plan.
+Kade did not make it.
 
-Afterward, Julian nodded once.
+He stayed with the original plan one beat longer.
+
+Julian’s weight shifted toward an answer Kade never gave him.
+
+For the first time, Julian had to change his feet instead of Kade changing his.
+
+Kade entered.
+
+Julian blocked, rotated, and still put him on the mat.
+
+But it took two minutes.
+
+Kade lay there breathing hard.
+
+Julian stood over him.
+
+Then nodded once.
 
 Kade had learned enough Asterion language to recognize praise when it tried not to look like praise.
 
@@ -172,9 +366,57 @@ Julian laughed.
 
 “Needs calibration.”
 
-As Kade left the room, his tablet updated.
+---
 
-A message from Mara:
+The third training session ended with Julian beating Kade nine times instead of eleven.
+
+Progress.
+
+Afterward they walked toward breakfast together.
+
+Students noticed.
+
+Kade could feel it in the glances. Rank one and Zero Mercer crossing the courtyard made a social equation people immediately wanted to solve.
+
+“You enjoy this?” Kade asked.
+
+Julian looked around. “People watching?”
+
+“Being known.”
+
+Julian considered the question.
+
+“No.”
+
+Kade looked at him.
+
+“Really?”
+
+“I enjoy winning. Fame is a tax on it.”
+
+That answer sounded too practiced.
+
+Kade filed it away.
+
+At the dining hall entrance, a first-year stopped Julian to ask about a challenge recording. Julian answered seriously, then corrected the student’s stance for thirty seconds before continuing.
+
+“You do that a lot,” Kade said.
+
+“What?”
+
+“Help people who might eventually compete with you.”
+
+Julian shrugged.
+
+“A weak ladder makes the top meaningless.”
+
+“That is the most rank-one thing you have said.”
+
+“It is still true.”
+
+Kade’s tablet vibrated.
+
+A message from Mara.
 
 **You trained with Cross.**
 
@@ -194,11 +436,25 @@ No rivalry theater.
 
 Just advice.
 
-He typed:
+Julian glanced at him.
+
+“Problem?”
+
+“Mara Vey told me to learn everything from you.”
+
+Julian’s eyebrows rose.
+
+“That is almost a compliment.”
+
+“Apparently everyone here communicates through technical hostility.”
+
+“It saves time.”
+
+Kade typed:
 
 **Already getting punched efficiently.**
 
-Her reply came immediately.
+Mara replied immediately.
 
 **Progress.**
 
@@ -207,3 +463,35 @@ Kade smiled.
 Not the defensive one.
 
 The other kind was becoming easier.
+
+He put the tablet away.
+
+Julian opened the dining-hall door.
+
+“Same time Thursday?”
+
+Kade looked at him.
+
+“You want another eleven wins?”
+
+“I want to see whether you make me change the plan sooner.”
+
+There it was again.
+
+Not charity.
+
+Challenge.
+
+Kade stepped through the door.
+
+“Fine.”
+
+Julian smiled.
+
+“Good.”
+
+For the first time in Kade’s life, somebody better than him was not asking him to become less difficult.
+
+Julian was asking him to become difficult in a more disciplined way.
+
+Kade could work with that.
