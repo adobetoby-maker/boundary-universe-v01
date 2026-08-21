@@ -3,66 +3,112 @@
 Update after every completed chapter.
 
 ## Current writing position
-- Manuscript status: Chapter 1 canonical.
-- Last completed canonical chapter: Chapter 1 — The Kid in Room Four.
-- Next chapter: Chapter 2 — Zero Protocol.
-- Canonical Chapter 1: `books/book-01-the-ninth-standard/manuscript/chapter-01-the-kid-in-room-four.md`
+- Manuscript status: Chapters 1–6 drafted; Chapter 1 previously canonical, Chapters 2–6 pending branch promotion.
+- Latest drafted chapter: Chapter 6 — Forty-Seven Seconds.
+- Next planned chapter: Chapter 7 — The Suppression Order.
+- Working clean-content rule is LOCKED in `CANON_RULES.md`.
 
-## Kade
-- Rank: not yet enrolled at Asterion.
-- Standard: unclassified.
-- Physical condition: mild post-exam pressure/headache symptoms only; no lasting injury established.
-- Knows: nothing about Boundary Field secret history.
+## Kade Mercer
+- Age: 17.
+- Location after Chapter 6: Asterion Academy, House Meridian.
+- Rank: **10,482 / 10,482** among incoming first-years.
+- Standard: unclassified / no confirmed public Standard.
+- Measured field output at baseline: 0.00.
+- Physical state after Chapter 6: headache, hand tremor, transient pupil asymmetry after anomalous combat event; no major injury established.
+- Knows: `000` is a restricted routing/protocol code rather than an ordinary exam score; Zero Protocol has not validly surfaced in roughly three decades; it triggers mandatory Asterion evaluation under federal Resonance safety rules.
+- Does not know: Aaron Mercer is connected to the prior case; the true Boundary Field cosmology; why Sen is protecting/suppressing his progression.
 - Believes: father died in an industrial accident.
-- Newly knows: his Aptitude Ascension result is `000`; the result triggered or coincided with an abnormal national testing shutdown; at least one proctor recognized the result as significant.
-- Relationships: mother strained but loving; Ms. Alvarez is a trusted but non-sentimental mentor figure; Darius is a Northline peer/friend; Asterion cast not yet met.
-- Emotional state: for once he genuinely tried at an institutional test, so the apparent failure lands harder than he wants to admit.
+- Emotional trajectory: has stopped pretending Asterion means nothing to him; humiliation at last place becomes determination rather than withdrawal.
+- Ability evidence: cannot consciously sense normal Resonance fields, but intuitively models transfers/system boundaries; during combat he redirected Priya Shah's incoming momentum into the arena wall despite zero measurable output.
 
-## Northline
-- Forty-two students across six classrooms.
-- Located in a repurposed county records building between a tire warehouse and self-storage facility.
-- Staff includes two social workers and one security officer who often fixes bicycles.
-- District branding: `personalized transitional learning campus`.
+## Elena Mercer
+- Kade's mother.
+- Emergency-department nurse at St. Vincent Medical.
+- Practical, protective, direct; recognizes Kade's preemptive rejection behavior.
+- Requires informed consent for non-emergency testing and keeps pressure on institutional authority.
+- Key emotional statement: Kade has spent years asking to be measured by what he can actually do; he should not reject the opportunity because he is afraid of what it might mean.
 
-## Darius Bell
-- Age: 16.
-- Northline student.
-- Larger/athletic build; prior suspension after putting another student through a glass panel.
-- Attendance contract at 4/5 unexcused exits as of Chapter 1.
-- Mother has difficulty getting time off work for school review meetings.
-- Relationship with Kade: teasing, confrontational friendship; trusts Kade more than he says.
+## Northline relationships
 
-## Ms. Alvarez
-- Northline teacher in Room Four.
-- Calm, dry, observant.
-- Recognizes Kade's habit of deciding something does not matter before finding out whether he can succeed.
-- Tells him explicitly to `Try` before the examination.
+### Darius Bell
+- Age 16; Northline friend.
+- Continues teasing friendship via messages.
+- First outside friend to celebrate Asterion opportunity without treating Kade as a specimen.
 
-## Mara
-- Rank: #7 incoming freshman.
-- Knows: family version of Resonance history.
-- Does not know: father has prior knowledge of Kade.
+### Ms. Alvarez
+- Northline teacher/mentor.
+- Her instruction to `Try` remains a repeated emotional trigger for Kade.
 
-## Eli
-- Rank: #8,911.
-- Alive: yes.
-- Secret knowledge: none.
+## Asterion
+- Artificial island academy off the California coast.
+- Incoming first-year cohort: 10,482.
+- Public student rankings are culturally pervasive.
+- Provisional students are still ranked.
+- House Meridian stands 12th of 20 Houses at introduction.
 
-## Taren
-- Rank: #34.
-- SECRET: has accepted an observation assignment concerning Kade.
+## House Meridian cast
 
-## Aaron
-- Public status: dead.
-- SECRET actual status: alive in containment complex.
+### Eli Navarro
+- Rank #8,911.
+- Kade's assigned roommate.
+- Engineering talent; weak combat reputation.
+- Fast, optimistic, experimental; has already damaged a drone while testing safety limits.
+
+### Mara Vey
+- Rank #7.
+- Precise, controlled, highly observant.
+- Initially skeptical of Kade's special admission and notices his unusual perception during a Standard Six fight.
+- First tiny signs of humor/respect established; rivalry remains primary.
+
+### Sera Vale
+- Age 19, first-year.
+- Alternative-school history (three alternative placements before Asterion).
+- Quickly recognizes Kade's defensive patterns and class/status discomfort.
+- Tells Kade that predictable resentment is not the same as justified resentment.
+
+### Taren Holt
+- Rank #34.
+- Has met Kade socially on the Meridian roof and positions himself as an interpreter of campus politics.
+- SECRET: initial interest in Kade is tied to an observation assignment.
+
+### Julian Cross
+- Rank #1 incoming first-year.
+- Has not yet met Kade directly as of Chapter 6.
+
+## Faculty / authority
+
+### Dr. Amara Sen
+- Director of Asterion; Standard Eight.
+- Personally watches Kade's baseline and combat assessment.
+- Tells Kade not to confuse being unusual with being important.
+- After Chapter 6, knows Kade produced an anomalous momentum-transfer event with zero conventional output.
+
+### Dr. Lian Park
+- Baseline/testing physician-scientist.
+- Efficient, unsentimental, attentive to symptoms.
+- Has insufficient clearance to answer Kade's questions about Zero history.
+
+### David Renn
+- International Resonance Authority official.
+- Presents Zero Protocol as restricted failsafe/routing mechanism.
+
+### Lieutenant Commander Nia Vale
+- Federal Resonance Security.
+- More willing than Renn to give Kade partial truth.
+- Reveals the valid Zero route last surfaced around three decades ago.
+- Relationship, if any, to Sera Vale is currently OPEN and should not be implied accidentally without decision.
+
+## Known public events
+- Zero result/national testing shutdown produced online attention.
+- Baseline ranking places Kade last in cohort and becomes campus discussion.
+- Chapter 6 combat clip becomes known as **The Forty-Seven Second Fight**; final six seconds are flagged for restricted review.
 
 ## Open mystery promises
-- Meaning of score 000.
-- Why Zero Protocol exists.
-- Why the test exposed Kade to REDEFINE/boundary tasks.
-- Whether Kade caused or merely triggered the national shutdown.
-- Who contacted the Northline proctor and already knew Kade's name/result.
-- What Sen knows.
-- Aaron's history.
-- Purpose of the academy system.
+- Exact meaning/origin of Zero Protocol.
+- Identity of the prior valid Zero case.
+- Why the exam still contained the hidden REDEFINE path.
+- Why Kade has zero ordinary output but can alter transfer resolution.
+- What Sen knows and why she will soon restrict his training.
+- Aaron Mercer's hidden Asterion history.
+- Purpose of the academy system beyond public training/sport.
 - Nature of the Refuge Node.
