@@ -14,7 +14,7 @@ Kade learned this when Eli dragged him away from a perfectly useful tactical rec
 
 “Eight hundred and twelve.”
 
-Eli stopped in the hallway.
+Eli stopped in the corridor.
 
 “That correction is exactly why you need to come upstairs.”
 
@@ -26,21 +26,45 @@ Kade looked at him.
 
 “Your argument is weakening.”
 
-But Eli was already walking.
+“You promised Sera.”
 
-Meridian Night happened whenever the House moved up in the inter-house standings or won something worth pretending mattered. Tonight, the official reason was a second-place finish in an engineering relay and three strong combat placements.
+“I did not.”
+
+“You nodded while she was talking.”
+
+“That is not legally binding.”
+
+Eli kept walking.
+
+Kade followed because the alternative was admitting he had been considering going anyway.
+
+Meridian Night happened whenever the House moved upward in the inter-house standings or won something worth pretending mattered. Tonight the official reason was a second-place engineering relay, three strong combat placements, and a successful emergency-response practical by a fourth-year team.
 
 The unofficial reason was Friday.
 
-The roof had been transformed.
+The roof had transformed.
 
-Light ribbons hung between antenna towers. Portable heaters glowed along the railings. Someone had smuggled up enough food to supply a small evacuation center. Music played at a volume that made conversation possible only if people actually meant to have it.
+Light ribbons hung between antenna towers. Portable heaters glowed along the railings. Someone had moved couches outside. Folding tables carried enough food to supply a small evacuation center. Music played loudly enough to fill the open air but quietly enough that conversation remained possible if people actually wanted it.
 
 Kade liked that less than he expected.
 
 Which meant he liked it more.
 
-Sera found him within two minutes.
+The first twenty minutes were harder than a combat simulation.
+
+He knew how to behave when somebody wanted to hit him.
+
+He had much less experience with people who simply expected him to stand nearby and enjoy himself.
+
+Students argued about House Trial strategy, classes, rankings, a professor who apparently graded lab reports based on handwriting despite everything being digital, and whether one of the upper-year residence towers was haunted.
+
+Nobody asked Kade what he could do.
+
+For nearly six minutes.
+
+It was a record.
+
+Sera found him near a ventilation stack.
 
 “You look alarmed.”
 
@@ -60,19 +84,21 @@ Kade tasted it.
 
 “Meridian standard.”
 
-Across the roof, Taren stood in the center of a group telling a story with his whole body. Mara sat on the low wall near the greenhouse, listening to another student while looking as though she could leave at any second.
+Across the roof, Taren stood in the middle of a group telling a story with his whole body. Mara sat on the low wall near the greenhouse, listening to another student while looking as though she could leave at any second.
 
-Eli vanished toward a table where somebody had dismantled a speaker.
+Eli had vanished toward a table where somebody had dismantled a speaker.
 
 Kade was considering escape when a voice beside him said, “You’re Mercer.”
 
 He turned.
 
-The speaker was tall, neat, and wearing an expensive academy jacket despite being indoors five minutes earlier.
+The speaker was tall, neat, and wearing an academy jacket that fit too well to have come from standard issue.
 
-Kade recognized him from the ranking board.
+Kade recognized him from the rankings.
 
-Cal Reid. Rank #183.
+Cal Reid.
+
+Rank #183.
 
 “Last I checked.”
 
@@ -90,15 +116,13 @@ Kade’s shoulders tightened.
 
 “Not the whole fight. The end.”
 
-Cal stepped closer.
+Cal moved half a step closer.
 
 “Whatever that was, enjoy it before Sen takes it away.”
 
-Kade smiled.
+Kade’s face produced the automatic smile.
 
-The automatic one.
-
-The door-closing smile.
+The door-closing one.
 
 “Thanks for the concern.”
 
@@ -106,7 +130,15 @@ Cal’s gaze dropped to Kade’s drink.
 
 “Meridian really will adopt anything.”
 
-A voice behind them said, “Reid.”
+Kade felt heat climb his neck.
+
+He knew the version of himself that would answer.
+
+A sentence sharp enough to make the next sentence sharper.
+
+A confrontation he could later claim somebody else had started.
+
+Before he chose, a voice behind them said, “Reid.”
 
 Cal’s expression changed.
 
@@ -116,7 +148,7 @@ Julian Cross stood three steps away.
 
 Rank one looked disappointingly normal in person.
 
-Same age. Dark hair. Plain black training shirt. No entourage.
+Same age. Dark hair. Plain black training shirt. No entourage. No dramatic stillness suggesting a secret orchestra had begun playing behind him.
 
 Cal straightened.
 
@@ -136,7 +168,7 @@ Barely.
 
 He moved.
 
-Julian took a plate, selected two dumplings, and looked at Kade.
+Julian stepped past, took a plate, selected two dumplings, and looked at Kade.
 
 “You’re Mercer.”
 
@@ -144,9 +176,7 @@ Kade sighed.
 
 “This is becoming a theme.”
 
-Julian smiled.
-
-“Sorry. I’m Julian.”
+Julian smiled. “Sorry. I’m Julian.”
 
 “I know.”
 
@@ -160,15 +190,15 @@ That made Kade suspicious.
 
 Julian nodded toward Cal’s retreating back.
 
-“He does that to everyone he thinks might pass him.”
+“He does that to everyone he thinks might eventually pass him.”
 
-“I’m eight thousand places away.”
+“I’m more than eight thousand places away.”
 
 “Cal plans long-term.”
 
 Kade laughed before he meant to.
 
-Julian took a bite.
+Julian bit into a dumpling and considered it with the seriousness of a laboratory sample.
 
 “These are excellent.”
 
@@ -180,11 +210,37 @@ Julian took a bite.
 
 “I get that a lot.”
 
-Then someone called Julian’s name and he left with a small wave.
+Kade looked at him more carefully.
+
+“Do you know everybody’s rank?”
+
+“Mostly.”
+
+“That seems unhealthy.”
+
+“It is useful.”
+
+“Those are not mutually exclusive.”
+
+Julian’s smile sharpened.
+
+“No. They aren’t.”
+
+Somebody across the roof called his name.
+
+Julian lifted the plate.
+
+“Good luck with the climb, Mercer.”
+
+“Planning long-term?”
+
+“I plan everything long-term.”
+
+Then he left.
 
 Kade stared after him.
 
-Sera appeared beside him.
+Sera appeared beside Kade with the timing of someone who had absolutely been listening.
 
 “You look betrayed.”
 
@@ -196,6 +252,14 @@ Sera appeared beside him.
 
 “You’ll recover.”
 
+Kade watched Julian join a group near the heaters. He was competitive even while talking—Kade could see it in the way he followed every conversation, the way his attention never drifted, the way three people subtly oriented toward him without being asked.
+
+Nice, Kade decided, was not the same as harmless.
+
+That helped.
+
+---
+
 Later, after the music shifted quieter and the crowd separated into smaller groups, Kade found Mara alone by the east railing.
 
 He considered leaving her alone.
@@ -206,11 +270,11 @@ Kade walked over.
 
 “Do you sense indecision?”
 
-“No. You reflect in the glass.”
+“No. You reflect in the greenhouse glass.”
 
-He looked at the greenhouse panel.
+He looked.
 
-His reflection was obvious.
+His reflection stood directly behind her.
 
 “Less impressive.”
 
@@ -218,15 +282,11 @@ His reflection was obvious.
 
 They stood in silence.
 
-Below them, the academy glowed in terraces down toward the water. Training towers marked the skyline. Arena lights swept slowly over the ocean.
+Below them, the academy glowed in terraces toward the water. Training towers marked the skyline. Arena lights swept slowly across the ocean. Farther out, the navigation lights of cargo vessels moved along the horizon like patient stars.
 
-Kade nodded toward a distant cluster of buildings.
+Kade nodded toward a cluster of buildings beyond the upper residences.
 
 “What’s that?”
-
-“Upper-year residential.”
-
-“And beyond it?”
 
 “Research.”
 
@@ -234,11 +294,15 @@ Kade nodded toward a distant cluster of buildings.
 
 “Some.”
 
-“You know a lot.”
+“Do you actually read every orientation document?”
 
-“I read orientation materials.”
+“Yes.”
 
 “That feels like cheating.”
+
+“It is called reading.”
+
+“Strong branding.”
 
 She glanced at him.
 
@@ -266,7 +330,9 @@ The silence returned.
 
 This one felt less awkward.
 
-Mara looked at the ocean.
+That bothered him more than awkwardness would have.
+
+Mara looked toward the ocean.
 
 “Why Northline?”
 
@@ -282,21 +348,21 @@ Kade’s smile stayed in place.
 
 “I don’t know yet.”
 
-That answer stopped him.
+That stopped him.
 
 No pity.
 
-No curiosity disguised as kindness.
+No curiosity dressed as concern.
 
 Just accuracy.
 
-Kade leaned on the rail.
+Kade leaned against the rail.
 
 “I got good at making school optional.”
 
 “How?”
 
-“Didn’t turn things in. Argued when I should’ve stopped. Left class. Made teachers choose between ignoring me and fighting with me.”
+“Didn’t turn things in. Argued when I should have stopped. Left class. Made teachers choose between ignoring me and fighting with me.”
 
 “Why?”
 
@@ -308,9 +374,11 @@ He looked at her.
 
 He almost changed the subject.
 
-Then he heard Ms. Alvarez in his head.
+He could feel the joke forming, bright and useful.
 
-Try.
+Then Ms. Alvarez’s voice came back.
+
+*Try.*
 
 “I liked being the reason,” he said.
 
@@ -318,21 +386,17 @@ Mara waited.
 
 “If I failed because I didn’t care, then I didn’t have to find out what happened if I cared.”
 
-He regretted the words immediately.
+The words felt too exposed the instant they existed.
 
-Too honest.
-
-Too open.
-
-He reached for a joke.
+Kade reached for the joke.
 
 Mara said, “That sounds exhausting.”
 
-Kade blinked.
+He blinked.
 
-He laughed.
+Then laughed.
 
-Not because it was particularly funny.
+Not because it was especially funny.
 
 Because it was exactly right.
 
@@ -340,17 +404,59 @@ Because it was exactly right.
 
 Mara’s mouth curved slightly.
 
-Then a shout rose from the other side of the roof.
+She took a sip from her drink.
 
-Eli had somehow turned the dismantled speaker into a smoke machine.
+“My father would call that inefficient risk management.”
+
+“Your father continues sounding delightful.”
+
+“He likes systems.”
+
+“So do I.”
+
+“No.”
+
+Kade frowned.
+
+Mara looked at him.
+
+“You like finding where systems are wrong.”
+
+That was different enough to make him quiet.
+
+“Maybe.”
+
+“My father likes systems because he thinks they can be made correct.”
+
+“And you?”
+
+Mara’s eyes moved back to the water.
+
+“I like knowing where I stand.”
+
+Kade looked toward the ranking board visible through the roof entrance.
+
+“Rank seven.”
+
+“That is not what I meant.”
+
+He wanted to ask what she did mean.
+
+Before he could, a shout rose from the other side of the roof.
+
+Eli had turned the dismantled speaker into a smoke machine.
 
 Sera yelled, “Navarro!”
 
 Eli yelled back, “It is technically functioning!”
 
-Kade and Mara both looked over.
+A cloud of harmless white vapor rolled across the food table.
 
-For one second, they laughed at the same time.
+Julian Cross stood beside the speaker holding two disconnected wires and looking genuinely offended by the machine.
+
+Kade and Mara both laughed.
+
+At the same time.
 
 Kade noticed.
 
@@ -358,13 +464,13 @@ He wished he had not.
 
 Mara noticed him noticing.
 
-Her expression reset.
+Her expression reset almost instantly.
 
 “Good night, Mercer.”
 
 She walked away.
 
-Kade watched her go.
+Kade remained at the railing.
 
 Taren appeared beside him with impossible timing.
 
@@ -386,23 +492,55 @@ Kade groaned.
 
 Taren laughed.
 
-Across the roof, Julian Cross was helping Eli disconnect the smoking speaker while Sera gave both of them instructions.
+“You are terrible at being subtle.”
 
-Kade looked around at Meridian.
+“I was not doing anything.”
 
-It was loud.
+“Exactly. You normally do three things at once to avoid doing one honest thing.”
+
+Kade looked at him.
+
+Taren’s grin remained easy.
+
+That was an unusually precise observation for someone Kade had known less than two weeks.
+
+He filed it away.
+
+“Do you study people professionally?”
+
+Taren lifted his drink.
+
+“Everyone at Asterion does. Some of us admit it.”
+
+Then he wandered toward another group.
+
+Kade watched him go.
+
+Across the roof, Julian was helping Eli disconnect the smoking speaker while Sera issued instructions neither of them followed quickly enough.
+
+Mara had joined the cleanup without being asked.
+
+Students argued and laughed. Someone started the music again. The old Meridian bell stood dark above the courtyard below.
+
+The roof was loud.
 
 Messy.
 
 Too many people.
 
-Too many ways to become attached to something temporary.
+Too many possible attachments to something temporary.
 
-His first instinct was to leave before that became a problem.
+Kade’s first instinct was to leave before that became a problem.
 
-Instead he walked toward Eli.
+He recognized the instinct now.
 
-“Do not touch that wire,” Kade said.
+That did not make it disappear.
+
+It only gave him a choice.
+
+Kade walked toward Eli.
+
+“Do not touch that wire.”
 
 Eli looked offended.
 
@@ -413,6 +551,8 @@ The speaker sparked.
 Julian stepped back.
 
 Sera closed her eyes.
+
+Mara said, “That was predictable.”
 
 Kade laughed.
 
