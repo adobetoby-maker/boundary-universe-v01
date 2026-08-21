@@ -2,7 +2,7 @@
 
 **Updated:** 2026-08-21
 **Project:** The Boundary Universe / Asterion Trilogy
-**Current phase:** Book 1 first-half polish complete; second-half polish next
+**Current phase:** Book 1 developmental/prose polish complete; production/listening pass next
 
 ## Locked project decisions
 - Connected universe name (working): **The Boundary Universe**.
@@ -15,121 +15,126 @@
 - **Family-clean standard is LOCKED:** no real-world profanity or obscene gestures; no explicit sexual content; age-appropriate romance; intense but non-gratuitously-gory action.
 
 ## Manuscript status
-- **Chapters 1–33:** complete rapid structural draft.
-- **Chapters 1–17:** first full polish/expansion pass complete on `polish/first-half`.
-- **Chapters 18–33:** remain rapid working draft and are the next polish block.
-- Chapter 1 was deliberately preserved during this pass because it already served as the desired voice benchmark.
+- **Chapters 1–33: developmental/prose polish complete.**
 - First-half polish audit: `books/book-01-the-ninth-standard/FIRST_HALF_POLISH_AUDIT.md`.
+- Second-half polish audit: `books/book-01-the-ninth-standard/SECOND_HALF_POLISH_AUDIT.md`.
 - Whole-draft structural audit: `books/book-01-the-ninth-standard/BOOK_ONE_DRAFT_AUDIT.md`.
 - End-state continuity: `books/book-01-the-ninth-standard/STATE_LEDGER.md`.
 - Mystery/payoff accounting: `books/book-01-the-ninth-standard/CLUE_LEDGER.md`.
+- No major plot/character/power-system rewrite is required before production testing.
 
-## First-half quality standard now established
-Polished Chapters 1–17 should be used as the benchmark for the second half:
-- close-third Kade voice: dry, observant, emotionally defensive without becoming flippant;
-- humor reveals/deflects character rather than undercutting stakes;
-- school life and ordinary relationships receive real scene time;
-- action geography is clear enough for one-pass audiobook comprehension;
-- Resonance obeys physical bookkeeping and Boundary events do not create free energy;
-- meaningful Boundary events carry neurological cost;
-- Kade earns conventional improvement through conditioning, academics, footwork, planning and losses;
+## Quality standard now established across full book
+- close-third Kade voice remains dry, observant and emotionally defensive without becoming flippant;
+- humor reveals/deflects character and does not undercut grief or danger;
+- school life remains important even as cosmic stakes emerge;
+- action geography is designed for one-pass audiobook comprehension;
+- Resonance obeys conservation/physical bookkeeping;
+- meaningful Boundary events produce neurological cost;
+- Kade earns conventional progress through conditioning, academics, planning and losses;
 - Mara remains technical/rivalry/trust first, romance second;
-- supporting characters retain their own competence and choices;
-- institutional adults may be flawed/secretive without becoming caricatures;
-- mysteries answer something when they deepen rather than merely refusing information;
+- supporting characters have independent ambitions/pressures;
+- Sen/Taren remain morally complicated rather than simplistically redeemed or condemned;
+- Consensus is voluntary shared-operator architecture, not mind control or a simple power-up;
 - family-clean rule remains absolute.
 
-## Polished first-half trajectory
-### Ch. 1–5
-Kade genuinely tries → `000` activates Zero Protocol → Elena forces him not to reject the opportunity preemptively → Asterion becomes desirable before he admits it → conventional baseline places him #10,482 → Meridian begins as possibility rather than instant belonging.
-
-### Ch. 6–10
-Forty-Seven event shows an unexplained transfer with real neurological cost → Sen/medical restrictions are credible → Kade accepts boring weaknesses and begins an earned ladder climb → ordinary academy life deepens → Vector Class formalizes his systems intuition and foreshadows shared-state control.
-
-### Ch. 11–13
-Pike open challenge legally creates the Broken Floor event → `Boundary architecture` terminology exposes Sen's prior knowledge → Sen gives a real scientific partial explanation and lies narrowly about history/Aaron → Julian becomes an honorable but self-interested rival who teaches Kade planning.
-
-### Ch. 14–15
-Meridian's strategies are collaboratively built → Kade's plan survives his elimination and improves without him → coupled-scoring final foreshadows Consensus → the Meridian bell rings → team-event recalculation moves Kade from #8,159 to #1,904 with explicit in-world rationale.
-
-### Ch. 16–17
-Fame tests being seen versus being known → sponsor interest makes Kade's pain economically useful → Aaron receives subtle family-history seeds → Kade returns to Northline, accepts responsibility without accepting institutional revisionism, opens Asterion to his old peers, and accepts two homes as chosen vulnerability.
-
-## Important first-half continuity additions from polish
-- Professor Amadi's full name is **Ife Amadi**.
-- House Trial qualifier roster includes **Nessa Kim (#4,118)** and **Anton Bell (#3,602)** along with Kade, Mara, Eli, Sera, Taren and Priya Shah.
-- Priya remains a friendly/competitive Meridian peer after the Forty-Seven fight rather than resenting Kade.
-- Elena gives two subtle pre-reveal Aaron clues: an aborted `Your father would have—` thought before Asterion, and later that Aaron disliked cameras because people `perform themselves` for them; she still falls back to the official industrial-systems story.
-- Taren's information/access clues now include unusually precise opponent knowledge, private messages during House Trial planning, precise social observations, and legitimate-but-broad House/team schedule visibility.
-- Kade's meaningful Boundary events continue to correlate with headache/tremor/neurological strain.
-
-## Character states at Chapter 17 polish point
-### Kade
-Belonging is now established. He has learned that accepting help, plans, instruction and team success does not erase agency. Second half must test whether he can stay connected when trust becomes dangerous.
+## Polished second-half anchors
 
 ### Mara
-Skepticism → technical respect → tactical trust. Her independent investigative arc begins in Chapter 18. Do not convert this into romance-led motivation.
+- Independently investigates Aaron after Alaric Vey reveals knowledge he should not possess.
+- Discovers Asterion precursor connection before Kade does.
+- Defeats Kade 4–1 at Midyear by planning ahead.
+- Ends #4 and remains Kade's partner-in-progress rather than a resolved romance.
 
 ### Eli
-Competence/loyalty are established through tactical modeling, systems work and House Trial contributions. Second-half polish must deepen his personal ambition before Lab Six.
+- Independent ambition: affordable civilian field stabilization for rescue/hospital use.
+- Earns Systems Lab fellowship by end of Book 1.
+- Discovers Lab Six surveillance and turns back during attack to isolate compromised coolant controls.
+- Ghost Protocol survival is mechanically seeded and emotionally costly.
 
 ### Sera
-Alternative-school mirror and older-sibling role are strong. Second-half polish must give her a concrete independent goal/fear before siege.
+- Independent ambition: Disaster Response Corps.
+- Earlier placement fire explains part of that drive.
+- Leads real evacuation/response during siege and receives accelerated assessment.
 
 ### Taren
-Friendship feels genuine; subtle access clues now exist. Keep him warm/useful enough that Chapter 25 betrayal hurts and reads fairly in hindsight.
+- Teenage Directorate recruitment tied to family security/analysis culture.
+- House Trial leverage questions are the point he begins doubting handlers.
+- Reduces reporting usefulness, then burns access to free the group.
+- Later infiltrates handlers long enough to obtain Sublevel Nine key.
+- Betrayal remains real; friendship also remains real.
 
 ### Julian
-Competitive, self-interested, honorable rival. Second-half polish should expose personal/family pressure so excellence has a cost.
+- Helps Kade partly because strong rivals benefit him.
+- Father equates leadership with ownership/control, creating independent pressure.
+- Julian consciously rejects that model during siege leadership and Consensus.
 
 ### Sen
-Protection/restriction is medically defensible; secrecy remains morally contestable. Her narrowly worded lies must pay off cleanly without retroactively making her irrational.
+- Former Continuity Directorate involvement now explicit.
+- Protection and secrecy remain morally contestable.
+- Suppression Order and Ghost Protocol are understandable but not automatically justified.
 
-## Immediate next task
-**Polish Chapter 18 — The Vey Problem**, then continue through Chapter 33 in coherent blocks.
+### Aaron
+- `000`, hidden twelfth Standard Eight, early coupled/Consensus subject.
+- Official accident follows precursor transfer; Elena never saw a body.
+- Alive in Sublevel Nine after ~17 years integrated with Refuge Node containment.
+- Kade relationship remains unresolved after repeated difficult conversations.
 
-### Ch. 18–24 priorities
-- Make Mara's investigation a genuine independent POV/agency thread.
-- Expand Aaron/Elena history gradually and emotionally.
-- Slow Kade's rank progression after #1,904.
-- Let Mara's Midyear win pay off Julian's planning lesson.
-- Make the Twelfth Name and Contact Zero reveals answer prior clues rather than arrive as exposition dumps.
-- Give Sera an independent ambition/fear and deepen Eli's personal stakes.
+## Consensus / Standard IX — locked Book 1 interpretation
+- Not merely a higher raw-power Standard.
+- Changes the definition of the operator from one person to a voluntary shared system.
+- Consent is structural: participants must actively join and retain the ability to choose again under stress.
+- Participants keep identity/intention and contribute distinct capabilities.
+- Centralized domination is the explicit failure mode.
+- Kade's role is shared relationship/boundary modeling, not command.
+- Physical/neurologic load remains real.
 
-### Ch. 25–29 priorities
-- Ensure Taren's betrayal pays off the new first-half access clues.
-- Strengthen Eli surveillance/Ghost Protocol mechanics before the apparent death.
-- Give grief scenes room; Kade must be tempted to disconnect without simply repeating Chapter 20.
-- Preserve no-cheap-resurrection rule.
-
-### Ch. 30–33 priorities
-- Clarify siege geography through previously familiar school locations.
-- Deepen Aaron/Kade reunion and Elena/Aaron history; do not resolve family wounds neatly.
-- Make Consensus comprehensible in audio: voluntary, distributed, role-preserving, physically costly.
-- Ensure final victory depends on previously established relationships rather than new powers.
-- Give aftermath enough space before coordinates/countdown Book 2 hook.
-
-## Rank anchors
+## Rank anchors — polished
 - Ch. 4: #10,482.
 - Ch. 8: #8,971.
 - Ch. 9: #8,159.
-- Ch. 11: Jonah Pike #2,301 reachable via **open challenge** only.
-- Ch. 15: #1,904 through House Trial tactical/team recalculation.
-- Ch. 22 working endpoint: #211 after Midyear tournament recalculation; verify/earn during second-half polish.
-- Ch. 33 working endpoint: #37 at new-semester reset; verify final context during second-half polish.
+- Ch. 11: Pike #2,301 via open challenge; no direct rank teleport.
+- Ch. 15: #1,904 via House Trial recalculation.
+- Ch. 21: live Midyear projection #286 after weighted wins.
+- Ch. 22: #211 after quarterfinal loss to Mara and tournament recalculation.
+- Ch. 33: #37 via new-semester full-performance recalculation.
+
+## Book 1 ending
+- Stable modern Consensus restores Refuge Node containment.
+- 0.83-second signal escapes before stabilization completes.
+- Lunar Far-Side Array receives rapid response: coordinates outside solar system + countdown.
+- Three months later, Asterion displays are overridden by the same coordinates/countdown.
+- Public system labels Kade `STANDARD: IX`.
+- Final emotional line remains Kade no longer caring where the exit is.
+
+## Immediate next task: production/listening pass
+Do **not** begin Book 2 prose yet unless explicitly requested.
+
+Recommended sequence:
+1. Word-count/chapter-length audit against the 187k target.
+2. Generate current audio derivatives from clean manuscript.
+3. A/B Google SSML vs ElevenLabs on Chapters 1–3 and at least one action/emotional chapter from second half (recommended Ch. 26, 28, 32).
+4. Select production TTS/narration workflow.
+5. Listen through whole book and log audio comprehension/repetition issues.
+6. Run family-clean automated + manual lint.
+7. Audit pronunciation dictionary and all proper nouns.
+8. Rank/timeline continuity verification.
+9. Copyedit/full-text style consistency.
+10. Selectively expand any under-length chapters that feel rushed in audio.
+11. Final publication-format manuscript and audiobook production files.
 
 ## Audio system
-- Clean manuscript remains the only prose source of truth.
-- Generate Google SSML and ElevenLabs derivatives from manuscript, never edit parallel narrative copies.
-- Shared pronunciation guide remains canonical.
-- Polished prose is written for single-narrator comprehension and restrained character interpretation.
-- TTS/listening pass remains required before publication promotion.
+- Clean manuscript is the only prose source of truth.
+- Google SSML and ElevenLabs derivatives are generated from manuscript.
+- Never edit a parallel narrative copy to fix audio; fix source manuscript, then regenerate.
+- Shared pronunciation guide is canonical.
+- Single-narrator interpretation remains the intended performance style.
 
 ## Guardrails
 Do not make Kade unbeatable.
 Do not convert Standards into simple raw power levels.
 Do not erase moral ambiguity around Sen or Taren.
 Do not let cosmic stakes erase academy life.
-Do not introduce real-world profanity during polish.
+Do not introduce real-world profanity during production edits.
 Do not accelerate Kade/Mara romance at the expense of trust/rivalry.
+Do not over-explain Quieters/Severance in Book 1.
 Preserve the core thematic rule: Kade's greatest capability emerges through relationships and voluntary interdependence.

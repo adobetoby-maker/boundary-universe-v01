@@ -1,16 +1,20 @@
 # Chapter 19 — Aaron Mercer
 
-Kade found his father because Mara finally decided that “not enough” had become enough.
+Kade found his father because Mara finally decided that *not enough* had become enough.
 
 She showed him the archive marker after breakfast.
 
-He read it twice.
+They sat in an engineering-library alcove where the walls damped conversation and the tables had built-in projection surfaces. Eli occupied the third chair with a mug of coffee large enough to qualify as equipment.
 
-Then a third time.
+Mara placed one line of text between them.
 
 **MERCER, A. — ASTERION PRECURSOR PROGRAM**
 
-“That could be anyone,” Kade said.
+Kade read it twice.
+
+Then a third time.
+
+“That could be anyone.”
 
 Mara did not answer.
 
@@ -26,61 +30,129 @@ He hated that.
 
 Neither did he.
 
-Eli helped them access the old student-research terminal beneath the engineering library, where databases existed in formats too obsolete for the modern filters to hide gracefully.
+The name should not have mattered as much as it did.
 
-They searched Aaron Mercer.
+Aaron was a photograph in Elena’s hallway.
 
-Nothing.
+A box Kade had opened twice and regretted both times.
 
-Then Mara searched the precursor program identifier.
+A face with Kade’s eyebrows and a smile he had been told was similar to his.
 
-A roster appeared.
+A story that always ended the same way.
 
-Most names were blocked.
+Industrial accident.
+
+Too fast.
+
+Nothing anyone could have done.
+
+Mara touched the archive line.
+
+“I found it because my father knew about your structural event.”
+
+Kade looked at her.
+
+“What?”
+
+“He asked whether you had repeated it.”
+
+“Your father has access to Asterion restricted telemetry?”
+
+“He should not.”
+
+Kade felt the first cold edge of anger.
+
+“And he reacted to my dad.”
+
+“Yes.”
+
+“How?”
+
+“By ordering me not to investigate.”
+
+Eli whistled softly.
+
+“That is a catastrophically poor strategy with Mara.”
+
+She ignored him.
+
+Kade stared at the archive marker.
+
+“What now?”
+
+Eli rotated his coffee mug once.
+
+“Now we use something Asterion spent a great deal of money trying to forget exists.”
+
+He led them beneath the engineering library to a row of legacy research terminals preserved for compatibility with pre-standard data.
+
+The room smelled faintly of dust and coolant.
+
+“Why keep these?” Kade asked.
+
+“Because old systems are terrible,” Eli said. “And important systems are immortal.”
+
+Mara sat at the first terminal.
+
+Modern search filters returned nothing for Aaron Mercer.
+
+So they searched the precursor program identifier instead.
+
+The screen paused long enough to make all three of them hold still.
+
+Then a roster appeared.
+
+Most names were replaced by black classification bars.
 
 One was not.
 
 **MERCER, AARON J.**
 
-Kade stopped moving.
+Kade stopped breathing.
 
 Age at entry: twenty-two.
 
-Status: research subject.
+Civilian technical designation: systems analyst.
 
-Aptitude classification:
+Research status: subject/participant.
+
+Aptitude route:
 
 **000**
 
-The room went silent.
+For a moment, the room made no sound except the cooling fans.
 
 Eli whispered, “Kade.”
 
 Kade did not answer.
 
-His father had scored zero.
+His father had not merely known about Zero.
 
-Not failed.
+His father had been Zero.
 
-Zero.
+The same impossible route.
 
-The same impossible number.
+The same three digits that had shut down Kade’s test and brought federal officials to Northline.
 
-Mara touched his arm once, lightly.
+Mara touched his forearm once.
 
 He pulled away before he meant to.
 
-Her hand dropped.
+Her hand dropped immediately.
 
-Regret came instantly.
+Regret came so fast it almost hurt physically.
 
-He did not apologize.
+“Sorry,” he said.
 
-Not yet.
+Mara nodded.
 
-The file continued.
+No reassurance.
 
-Most of it was sealed.
+That helped.
+
+Eli opened the next surviving field.
+
+Most of it was corrupted or sealed.
 
 One line remained readable.
 
@@ -88,25 +160,25 @@ One line remained readable.
 
 The date was seventeen years ago.
 
-Three weeks before the industrial accident that had supposedly killed Aaron Mercer.
+Twenty-three days before the industrial accident that had supposedly killed Aaron Mercer.
 
 Kade stared until the letters blurred.
 
-Every childhood story shifted underneath him.
+Every childhood memory shifted by one degree and became untrustworthy.
 
-His mother crying on the anniversary.
+His mother crying on the anniversary when she thought he was asleep.
 
-The photograph in the hallway.
+The photograph she never moved.
 
-The small box of Aaron’s things.
+The small metal watch in Aaron’s box that did not work.
 
 The explanation that some accidents happened too fast for goodbyes.
 
 All of it might still be true.
 
-Or none of it.
+Or it might be true in the way official histories were true at Asterion: technically, selectively, and uselessly.
 
-Kade stood.
+Kade stood so quickly the chair rolled backward.
 
 “I need to call my mom.”
 
@@ -116,15 +188,23 @@ Mara said, “Kade—”
 
 He left before either of them could answer.
 
+He made it to an empty stairwell before calling.
+
 Elena picked up on the second ring.
 
 “You’re calling before noon. What happened?”
 
-Kade almost laughed.
+Kade put one hand against the concrete wall.
 
-Instead he said, “Did Dad work at Asterion?”
+“Did Dad work at Asterion?”
 
 Silence.
+
+Not confusion.
+
+Not the pause of someone searching memory.
+
+Recognition.
 
 That was the answer.
 
@@ -140,7 +220,9 @@ His chest tightened.
 
 One syllable.
 
-Seventeen years of history collapsed into it.
+Seventeen years of certainty broke around it.
+
+Kade closed his eyes.
 
 “Why didn’t you tell me?”
 
@@ -152,91 +234,272 @@ Seventeen years of history collapsed into it.
 
 “You can. You’re choosing not to.”
 
-“I am choosing to keep you safe.”
+“I am choosing not to tell you something I was warned could put you in danger.”
 
-He almost ended the call.
+“Warned by Asterion?”
 
-Old instinct.
+Another pause.
 
-Leave first.
+“Mom.”
 
-He forced himself to stay.
+“I was twenty-four years old, Kade. Your father disappeared. Men I had never met came to our apartment and told me there had been an accident involving classified Resonance research. They said talking about his work could put you at risk.”
 
-“What was Zero Protocol?”
+Kade stopped.
 
-Another silence.
+The anger did not vanish.
 
-“I don’t know,” Elena said.
+It changed direction.
 
-He believed her.
-
-That somehow hurt more.
-
-“What happened to him?”
-
-“I was told there was an accident.”
-
-“You were told?”
+“They came to the apartment?”
 
 “Yes.”
 
-“You didn’t see—”
+“You never told me that.”
 
 “No.”
 
-Her voice broke on the word.
+“Did you see a body?”
 
-Kade closed his eyes.
+Elena breathed in.
 
-Anger remained.
+“No.”
 
-But it had changed shape.
+The word cracked.
 
-She had been lied to too.
+Kade leaned harder against the wall.
 
-“Did Sen know him?” he asked.
+“What did they give you?”
 
-“I don’t know.”
+“A report. Personal effects. A death certificate.”
 
-“Did anyone at Asterion ever contact you after?”
+“The watch?”
 
-A breath.
+Silence.
 
 “Yes.”
 
+He thought of the dead watch in the box.
+
+“Did you believe them?”
+
+“At first.”
+
+That answer was worse than no.
+
+“What changed?”
+
+“A woman came three weeks later.”
+
+Kade already knew.
+
+He did not want to hear it.
+
 “Who?”
 
-“I don’t know her current title. Her name was Amara Sen.”
+“She was younger than I was. She said Aaron had done something important. She said there were people who would use his work if they could. She told me the safest thing I could do for you was let the official story stand.”
 
-Kade opened his eyes.
+Kade’s mouth had gone dry.
 
-The world became very still.
+“Name.”
+
+“Kade—”
+
+“Mom. Please.”
+
+Elena went quiet.
+
+“Amara Sen.”
+
+The stairwell seemed to tilt.
 
 Director Sen had known his father.
 
-Director Sen had known exactly who Kade was before he arrived.
+Director Sen had met his mother after Aaron supposedly died.
 
-And she had looked him in the eye and told him no one had ever done what he did.
+Director Sen had looked Kade in the eye and said no verified modern program had seen Boundary architecture before.
 
-Kade said, “I have to go.”
+Then she had said she did not know Aaron Mercer.
 
-“Kade, don’t do something just because you’re angry.”
+Kade laughed once.
 
-“That eliminates most of my options.”
+There was no humor in it.
+
+“I have to go.”
+
+“Kade, wait.”
+
+He kept the call open.
+
+Barely.
+
+Elena continued.
+
+“I need you to hear one thing before you decide what to do next.”
+
+“What?”
+
+“I did not keep this from you because I thought you were weak.”
+
+He said nothing.
+
+“I kept it because I was scared.”
+
+The honesty cut through the anger in a way justification would not have.
+
+Elena’s voice softened.
+
+“I had already lost him. I was twenty-four and angry and I had a baby who looked exactly like the man everyone told me not to ask about. So I stopped asking.”
+
+Kade’s throat tightened.
+
+“You always tell me not to run.”
+
+“Yes.”
+
+“You did.”
+
+“Yes.”
+
+No defense.
+
+No excuse.
+
+Just yes.
+
+Kade slid down until he was sitting on the stair.
+
+For a long moment neither spoke.
+
+“What was Zero Protocol?” he asked.
+
+“I don’t know.”
+
+He believed her.
+
+“What happened to him?”
+
+“I don’t know.”
+
+“Was he Resonant?”
+
+A pause.
+
+“Yes.”
+
+Kade’s head snapped up.
+
+“You knew that?”
+
+“I knew he could do things nobody could explain. I did not know what classification they gave him.”
+
+Kade looked at the archive image still open on his tablet.
+
+000.
+
+“What Standard?”
+
+“I was never told.”
+
+That answer would matter later.
+
+Right now it simply hurt.
+
+Elena said, “Do not confront Sen alone while you are this angry.”
+
+“That eliminates most of my plan.”
 
 “I’m serious.”
 
 “So am I.”
 
-He ended the call.
+“Kade.”
 
-Then he stood in the empty corridor for a long time.
+He closed his eyes.
 
-He wanted to run.
+“I’m not hanging up.”
 
-Not away from Asterion.
+“Good.”
 
-At Sen.
+They stayed on the call another two minutes without saying anything useful.
 
-That frightened him almost as much.
+When he finally ended it, Kade remained in the stairwell.
 
+He wanted to leave Asterion.
+
+He wanted to find Sen.
+
+He wanted to go home.
+
+He wanted home to mean something simpler than it did now.
+
+The stairwell door opened.
+
+Mara stood there.
+
+She did not ask whether he was okay.
+
+Kade appreciated her for that.
+
+“She knew,” he said.
+
+“Your mother?”
+
+“Some. Not all.”
+
+“Sen?”
+
+Kade looked up.
+
+“Sen knew my father. She went to my mother after he died.”
+
+Mara’s expression became very still.
+
+“Then she lied to you.”
+
+“Yes.”
+
+Mara sat one step below him.
+
+Not touching.
+
+Not leaving.
+
+Kade stared at his hands.
+
+“I want to run at her.”
+
+“That sounds like you.”
+
+“I also want to leave.”
+
+“That also sounds like you.”
+
+He gave her a tired look.
+
+“Helpful.”
+
+“I’m not trying to be helpful.”
+
+“Then what are you doing?”
+
+Mara looked toward the closed stairwell door.
+
+“Making sure the next thing you do is your decision.”
+
+Kade sat with that.
+
+For once, anger did not feel like clarity.
+
+It felt like weather.
+
+Powerful.
+
+Real.
+
+Temporary.
+
+And underneath it was a question he had not expected to have to ask.
+
+If Aaron Mercer had not died the way Kade had been told—
+
+what, exactly, had happened to him?

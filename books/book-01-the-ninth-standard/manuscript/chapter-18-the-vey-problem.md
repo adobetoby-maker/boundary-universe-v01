@@ -1,12 +1,12 @@
 # Chapter 18 — The Vey Problem
 
-Mara Vey’s father had a talent for making questions sound like statements.
+Mara Vey’s father had a talent for making questions sound like conclusions.
 
 “How is Mercer adapting?” he asked.
 
-Mara looked up from the training report on her tablet.
+Mara looked up from the coupled-field paper on her tablet.
 
-Her father’s face occupied the wall display in her dorm room, precise even through the slight transmission delay. Director Alaric Vey wore a dark civilian jacket rather than academy formalwear. Somehow that made him look more official.
+Her father’s face occupied the wall display in her dorm room, sharp despite the slight transmission delay. Director Alaric Vey wore a dark civilian jacket rather than the formal uniform he preferred for public appearances. Somehow that made him look more official.
 
 “Which Mercer?” Mara asked.
 
@@ -22,35 +22,43 @@ She enjoyed that more than she should have.
 
 “Father.”
 
-A pause.
+Three seconds of silence.
 
 He knew she was being difficult.
 
 She knew he knew.
 
-That was most of their relationship condensed into three seconds.
+That was most of their relationship condensed efficiently enough to please them both.
 
 “He’s adapting,” she said.
 
 “To Asterion?”
 
-“To being watched.”
+“To being observed.”
 
-That earned the smallest shift around his eyes.
+That earned the smallest movement around his eyes.
 
 Interesting.
 
+Alaric Vey had spent Mara’s childhood insisting that attention was information. Cameras, rankings, interviews, opponents, teachers. Every person who watched you was measuring something, whether they admitted it or not.
+
+Mara had learned the lesson too well.
+
 Her father asked, “Has he repeated the structural event?”
 
-Mara’s fingers stopped moving.
+Her stylus stopped.
 
-The room suddenly felt quieter.
+The room changed.
+
+Not physically.
+
+In the way rooms changed when one sentence contained knowledge it should not.
 
 “What structural event?”
 
 Another pause.
 
-Too small for anyone else to notice.
+Too short for most people to notice.
 
 Not for Mara.
 
@@ -66,23 +74,19 @@ Not for Mara.
 
 Mara leaned back.
 
-The Mercer Fault had been restricted within minutes. The official campus version was that a training-floor defect had coincided with an anomalous match reading.
-
-Students knew better.
-
-Students always knew better.
+The broken-floor telemetry had been restricted within minutes. The public academy notice described a composite-floor failure coinciding with an anomalous combat reading. Students knew that was incomplete because students were remarkably efficient at discovering whatever institutions labeled confidential.
 
 But her father did not work at Asterion.
 
-He should not have had access to the restricted telemetry.
+He should not know the event involved anything beyond a structural fault.
 
 “Why do you care?” Mara asked.
 
 “Professional curiosity.”
 
-“About a first-year ranked below two thousand?”
+“About a first-year ranked nineteen hundred?”
 
-“Unusual cases deserve attention.”
+“About an unusual case.”
 
 “You sound like Director Sen.”
 
@@ -92,15 +96,15 @@ There it was again.
 
 Not the answer.
 
-The thing around the answer.
+The shape around the answer.
 
-Kade did that constantly. He noticed the shape of missing information.
+Kade did that constantly. He noticed what people had to step around to avoid saying the thing they meant.
 
 Mara had begun finding the habit irritatingly useful.
 
 “Did you know his father?” she asked.
 
-Her father went still.
+Alaric Vey went still.
 
 Not much.
 
@@ -128,25 +132,27 @@ She kept her face neutral.
 
 “Because there are histories that do not improve through curiosity.”
 
-“That is one of the least convincing sentences you’ve ever said.”
+“That may be the least convincing sentence you’ve ever said to me.”
 
 “Mara.”
 
 He rarely repeated her name twice in one call.
 
-She filed that away too.
+She filed that away.
 
-“Does Director Sen know you’re asking me about him?” she said.
+“Does Director Sen know you’re asking me about him?”
 
 Silence.
 
 There.
 
-That was enough.
+Enough.
 
 “I have to go,” her father said.
 
-“No, you have to avoid answering.”
+“No. You have to avoid answering.”
+
+His expression softened by a fraction.
 
 “I love you.”
 
@@ -156,11 +162,15 @@ That was enough.
 
 The call ended.
 
-Mara stared at the blank wall display.
+Mara sat alone with her reflection in the dark display.
 
-Then she reopened Kade Mercer’s public file.
+She had spent most of her life being told that discipline meant resisting impulses.
 
-Most of it was boring.
+Sometimes discipline meant choosing which impulse deserved to win.
+
+She reopened Kade Mercer’s public file.
+
+Most of it was aggressively ordinary.
 
 Northline Alternative.
 
@@ -168,9 +178,13 @@ Three prior suspensions.
 
 Two school transfers.
 
+A semester of academic failure inconsistent with aptitude records.
+
 Unremarkable medical history.
 
-Father deceased.
+Mother: Elena Mercer.
+
+Father: deceased.
 
 Aaron Mercer.
 
@@ -178,29 +192,29 @@ Industrial accident.
 
 Mara stared at the name.
 
-Then at the death date.
+Then the date.
 
 Seventeen years earlier.
 
-Almost exactly Kade’s age.
+Close enough to Kade’s birth that the two events almost touched.
 
-She searched the public archive.
-
-Nothing unusual.
+She searched public archives.
 
 Employment records.
 
+Tax filings.
+
 A death certificate.
 
-A short local-news item.
+A short local-news item about an industrial containment accident outside the city.
 
 No Asterion connection.
 
-No Resonance record.
+No Resonance registration.
 
 No reason her father should have reacted.
 
-Mara opened a second window and searched older International Resonance Authority databases available to elite student researchers.
+She opened an International Resonance Authority research index available to high-clearance student scholars.
 
 No Aaron Mercer.
 
@@ -210,7 +224,7 @@ People disappeared from public history all the time.
 
 People did not disappear from bureaucracies.
 
-Bureaucracies loved records more than people.
+Bureaucracies loved records more reliably than people.
 
 She searched variants.
 
@@ -220,11 +234,13 @@ A. J. Mercer.
 
 Mercer, Aaron.
 
-No result.
+Nothing.
 
-Then she tried an old archive index rather than the searchable database.
+She switched from the searchable database to the archived identifier index.
 
-One entry appeared.
+Old systems were ugly, slow, and wonderfully literal.
+
+One result appeared.
 
 **MERCER, A. — RESEARCH CLEARANCE RESTRICTED**
 
@@ -232,17 +248,29 @@ No details.
 
 No date.
 
-No agency.
+No sponsoring agency.
 
-Just a dead link and a classification marker.
+Just a dead link and a classification marker older than Asterion Academy’s current charter.
 
-Mara sat very still.
+Mara felt her pulse change.
 
-Someone knocked.
+A second search produced a fragment associated with the same identifier.
 
-She closed the window instantly.
+**RELATED FACILITY: ASTERION PRECURSOR PROGRAM**
 
-Kade leaned through the open doorway.
+She read it twice.
+
+Asterion had not existed under that name thirty-one years ago.
+
+But something had existed on this site.
+
+And Aaron Mercer had been connected to it.
+
+A soft knock sounded at her door.
+
+Mara closed the archive instantly.
+
+Kade leaned through the doorway holding two nutrition bars.
 
 “You studying?”
 
@@ -254,9 +282,7 @@ Kade leaned through the open doorway.
 
 “Now it sounds more guilty.”
 
-Mara looked at him.
-
-He held two nutrition bars.
+He stepped inside without waiting for permission, which should have irritated her more than it did.
 
 “One is allegedly chocolate,” he said. “The other admits defeat and calls itself protein.”
 
@@ -266,15 +292,15 @@ He held two nutrition bars.
 
 “So Eli sent you?”
 
-“No. Eli suggested a drone delivery. I’m preventing property damage.”
+“No. Eli proposed a drone delivery. I’m preventing property damage.”
 
-She almost smiled.
+Mara almost smiled.
 
 Almost.
 
-Kade placed the bars on her desk.
+Kade placed both bars on her desk.
 
-His gaze moved to the blank display.
+His gaze moved to the blank wall display.
 
 “You really were studying.”
 
@@ -292,21 +318,17 @@ Kade stared at her.
 
 He waited.
 
-Mara considered telling him.
+Mara considered telling him everything.
 
-Not yet.
+Then she imagined him walking straight into Sen’s office before she had enough evidence to know which question to ask.
 
-The evidence was too thin.
-
-And if her father was frightened enough to warn her off, she needed to understand why before Kade charged directly into it.
-
-He had many strengths.
+Kade had many strengths.
 
 Patience remained theoretical.
 
 “Vector theory,” she said.
 
-Kade made a face.
+He made a face.
 
 “You’re terrible at lying.”
 
@@ -334,7 +356,7 @@ He leaned against the doorframe.
 
 “Mara.”
 
-She hated when people used her name like that.
+She disliked people using her name like that.
 
 Mostly because it worked.
 
@@ -354,7 +376,9 @@ He stared at her.
 
 She stared back.
 
-Finally he nodded.
+A month ago he would have pushed until one of them became angry.
+
+Instead he looked at the closed archive window, then at her.
 
 “Okay.”
 
@@ -364,7 +388,7 @@ That surprised her.
 
 “I’m growing.”
 
-She recognized the phrase from Darius stories.
+She recognized the phrase from his Darius stories.
 
 Kade picked up the protein bar and tossed it to her.
 
@@ -378,7 +402,7 @@ He looked back.
 
 “Do you know anything about your father’s work?”
 
-For the first time since she had met him, Kade’s face became completely unreadable.
+His face became completely unreadable.
 
 “No.”
 
@@ -388,25 +412,64 @@ For the first time since she had met him, Kade’s face became completely unread
 
 Mara nodded.
 
-Kade looked at her for another second.
+Kade watched her for another second.
 
 Then he left.
 
 The door closed.
 
-Mara reopened the restricted archive entry.
+Mara reopened the archive.
 
-**MERCER, A.**
+Before she could continue, her tablet chimed.
 
-Beneath it, a line she had missed before appeared when she expanded the metadata.
+A message from Taren Holt.
 
-**RELATED FACILITY: ASTERION PRECURSOR PROGRAM**
+**You missed dinner. Everything okay?**
 
-Mara stopped breathing.
+Mara frowned.
 
-Asterion Academy had not existed under that name thirty-one years ago.
+She had told no one she was staying in.
 
-But something had existed here.
+Eli knew because he had passed her in the library.
 
-And Aaron Mercer had been part of it.
+Kade knew because Eli told him.
 
+Taren should not know yet.
+
+She typed:
+
+**Fine. Studying.**
+
+His response came immediately.
+
+**Terrible hobby. See you tomorrow.**
+
+Innocent.
+
+Probably.
+
+Mara stared at it longer than necessary.
+
+Then returned to Aaron Mercer.
+
+The old archive page had one more collapsed metadata field.
+
+She opened it.
+
+**PROGRAM STATUS: DISCONTINUED AFTER CONTACT EVENT**
+
+No explanation.
+
+No public reference.
+
+Mara sat very still.
+
+Her father had asked about Kade’s broken floor.
+
+He had reacted to Aaron Mercer’s name.
+
+He had warned her not to investigate.
+
+And someone had buried Aaron inside a program that predated Asterion itself.
+
+For the first time in her life, Mara looked at the academy she had spent years trying to enter and wondered what, exactly, she had been admitted into.

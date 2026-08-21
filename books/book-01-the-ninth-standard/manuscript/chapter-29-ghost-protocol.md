@@ -2,33 +2,77 @@
 
 Eli was alive.
 
-Kade repeated that sentence three times before it felt like language.
+Kade repeated the sentence three times before it felt like language.
 
-The meeting happened in a sealed maintenance room beneath Meridian, because apparently being alive was now classified.
+The meeting happened in a sealed maintenance room beneath Meridian because apparently being alive was now classified.
 
-Eli looked exhausted.
+Mara came with him.
+
+Sera arrived two minutes later after receiving a message containing only:
+
+**COME TO SUBLEVEL M-3. DO NOT HIT ANYONE UNTIL YOU SEE WHO DESERVES IT.**
+
+She walked in prepared to ignore the second sentence.
+
+Eli stood beside a maintenance console wearing borrowed academy clothes and a medical patch on his neck.
+
+He looked exhausted.
 
 Also smug.
 
-Kade hit him in the shoulder.
+Sera stopped.
 
-Not hard.
+The expression on her face changed so quickly Kade could not follow it.
 
-“Reasonable,” Eli said.
+Relief.
 
-Kade hit him again.
+Anger.
+
+Relief again.
+
+Then pure, focused violence.
+
+Eli raised both hands.
+
+“Before anyone reacts—”
+
+Sera crossed the room and hit him in the shoulder.
+
+Harder than Kade had.
+
+Eli winced.
+
+“Reasonable.”
+
+She hit him again.
 
 “Also reasonable.”
 
-Then Kade hugged him.
+Then she hugged him.
 
-That surprised both of them.
+Eli froze.
 
-Eli went completely still.
+Sera held on for three seconds.
+
+Then shoved him away.
+
+“If you ever fake your death again, I will make the paperwork accurate.”
+
+“Understood.”
+
+Kade laughed.
+
+It came out too close to crying, so he stopped.
+
+Then he stepped forward and hugged Eli too.
+
+That surprised both of them even though it should not have anymore.
+
+Eli went still.
 
 Then hugged him back.
 
-“Okay,” Eli said into Kade’s shoulder. “This is much worse than getting hit.”
+“Okay,” Eli said into Kade’s shoulder. “This is significantly worse than being hit.”
 
 Kade stepped away.
 
@@ -36,35 +80,167 @@ Kade stepped away.
 
 Dr. Sen stood near the door.
 
-That should have made Kade angry.
+Kade had been deliberately not looking at her.
 
-It did.
+Now he did.
 
-But Eli was alive, which occupied most of the available space.
+Anger returned immediately.
 
-Eli explained first.
+It had to share space with relief, but it was still there.
 
-He had found surveillance embedded in Lab Six’s maintenance network weeks earlier.
+“Start with why I gave a memorial speech for a living person.”
 
-Not campus security.
+Sen did not flinch.
 
-Something layered underneath it.
+“I will.”
 
-Taren’s handlers.
+Eli raised a hand.
 
-When the archive breach triggered Directorate attention, Eli realized the engineering wing was being watched in real time.
+“I should start.”
 
-He warned Sen.
+Kade looked at him.
 
-Sen activated an old emergency protocol.
+Eli opened a network map.
 
-Ghost Protocol.
+“Six weeks ago I found maintenance traffic in Lab Six that did not match academy monitoring. Tiny packets. Regular enough to be deliberate, hidden inside coolant diagnostics.”
 
-Fake the casualty.
+“Why didn’t you tell me?”
 
-Remove the target from the visible system.
+“I thought it was a faculty experiment.”
 
-Kade stared at her.
+Sera glared.
+
+Eli corrected himself.
+
+“I thought it was a faculty experiment and I was curious, which I now recognize is a character flaw with documentation.”
+
+Mara said, “You investigated.”
+
+“Obviously.”
+
+He enlarged the traffic map.
+
+“The packets went nowhere inside Asterion. They jumped through a dead maintenance relay and disappeared into an encrypted external route.”
+
+Taren’s route.
+
+Or his handlers’.
+
+Kade stared at the red line.
+
+Eli continued.
+
+“After the archive lockout, the packet frequency tripled. Then one of the Lab Six pressure monitors reported a test signal from a controller that did not exist.”
+
+“You knew the attack was coming,” Kade said.
+
+“I knew something was about to happen. Not what.”
+
+“Then why were you still there?”
+
+Eli looked uncomfortable.
+
+“Because the coolant controller was exposed through the same maintenance layer. If I left without isolating it, whoever had access could vent the chamber upward.”
+
+Kade remembered Eli turning back.
+
+*The coolant chamber is venting.*
+
+“You went back on purpose.”
+
+“Yes.”
+
+“That was incredibly stupid.”
+
+“Yes.”
+
+“You could have died.”
+
+“Yes.”
+
+Kade ran out of words.
+
+Eli’s expression lost the last trace of smugness.
+
+“I know.”
+
+That mattered.
+
+Sen stepped closer.
+
+“Eli warned me about the external surveillance fourteen hours before the archive breach.”
+
+Kade looked at her.
+
+“And you did what?”
+
+“Prepared Ghost Protocol.”
+
+A new document appeared.
+
+Old.
+
+Pre-Asterion.
+
+**GHOST PROTOCOL — COMPROMISED OBSERVATION COUNTERMEASURE**
+
+Remove a target from the adversary’s perceived system.
+
+False casualty.
+
+False data trail.
+
+Physical relocation through infrastructure not visible to normal campus telemetry.
+
+Kade stared.
+
+“That is your entire institution in one sentence.”
+
+Sen accepted the criticism.
+
+“Yes.”
+
+Eli said, “The plan was twelve hours.”
+
+Kade turned on him.
+
+“How long has it been?”
+
+“Thirty-six.”
+
+Sera made a sound.
+
+Eli raised both hands again.
+
+“In fairness, several things became complicated.”
+
+“What things?” Kade asked.
+
+Sen answered.
+
+“The surveillance remained active after the attack. Whoever was watching checked Eli’s casualty status repeatedly. If he reappeared too soon, they would know the deception and likely change tactics.”
+
+“So you let the whole academy believe it.”
+
+“Yes.”
+
+“You let his parents believe it?”
+
+Eli answered quickly.
+
+“No. My mother was told privately after the first eight hours.”
+
+Kade looked at him.
+
+“Eight?”
+
+“She threatened to fly here and expose the entire operation herself.”
+
+Sera said, “I like her.”
+
+“You would.”
+
+Kade looked back at Sen.
 
 “You let me think he was dead.”
 
@@ -72,13 +248,13 @@ Sen’s face tightened.
 
 “Yes.”
 
-“You let all of us think it.”
+“You watched me stand in the Hall of Names.”
 
 “Yes.”
 
-“Why?”
+“You heard what I said.”
 
-“Because the people watching needed to believe it.”
+“Yes.”
 
 Kade stepped toward her.
 
@@ -88,73 +264,33 @@ Sen did not move.
 
 “You are right.”
 
-He stopped.
+The answer stopped him.
 
-“I am not asking forgiveness,” she said. “I am telling you why.”
+“I am not asking you to forgive the decision,” Sen said. “I am telling you that I made it.”
 
-Kade looked at Eli.
+“That is not enough.”
 
-“You agreed?”
+“No.”
 
-Eli winced.
+Again.
 
-“I agreed to fake my death for twelve hours.”
-
-“How long has it been?”
-
-“Thirty-six.”
-
-Kade looked back at Sen.
-
-Eli raised a hand.
-
-“In fairness, several things became complicated.”
-
-Kade laughed once despite himself.
-
-Sera would hit Eli much harder.
-
-That thought was comforting.
-
-Sen activated a display.
-
-The Suppression Order appeared.
-
-The real one.
-
-Not the leaked version.
-
-It did not say hold Kade back.
-
-It said conceal rate of progression, restrict unsupervised Boundary events, and prevent outside telemetry access.
-
-Kade read it twice.
-
-“You weren’t suppressing me.”
-
-“I was suppressing information about you.”
-
-“Same word.”
-
-“Very different target.”
+No defense.
 
 Mara stood beside Kade.
 
-She had been quiet throughout.
+“You could have told him something,” she said. “Not Eli’s status. Enough to prevent the memorial from becoming part of the deception.”
 
-Now she said, “You could have told him enough to prevent the misunderstanding.”
+Sen looked at her.
 
-Sen nodded.
+“I considered it.”
 
-“Yes.”
+“And?”
 
-“Why didn’t you?”
+“I did not know whether Kade’s communications were compromised. Or yours. Or Sera’s. Or mine.”
 
-“Because I did not know who around him was compromised.”
+Everyone looked toward the empty space where Taren would normally have stood.
 
-Everyone looked at the empty chair where Taren would have sat.
-
-Kade felt the betrayal again.
+The betrayal returned.
 
 Different now.
 
@@ -162,21 +298,105 @@ More complicated.
 
 Taren had lied.
 
-Taren had also opened the archive door when he could have left them trapped.
+Taren had also burned his Directorate identity to get them out.
 
 Truth and betrayal occupied the same person.
 
-Kade was beginning to hate complicated systems.
+Kade was beginning to resent reality for refusing clean categories.
 
-Which was probably unfair coming from him.
+Sen activated a second document.
 
-Eli said, “There’s more.”
+**SUPPRESSION ORDER — FULL TEXT**
 
-He pulled up a map of Asterion.
+Kade read.
 
-Red markers appeared under the island.
+The leaked version had focused on training restrictions.
 
-“Someone is moving personnel through sealed infrastructure.”
+The actual order was broader.
+
+**Conceal rate of anomalous progression.**
+
+**Restrict unsupervised Boundary events due neurologic risk.**
+
+**Prevent outside telemetry replication.**
+
+**Compartmentalize historical Zero references.**
+
+**Preserve subject autonomy where operational security permits.**
+
+Kade stopped at the last line.
+
+“Subject.”
+
+Sen’s expression changed.
+
+“The language predates you.”
+
+“Still there.”
+
+“Yes.”
+
+He read the order again.
+
+“You weren’t suppressing me.”
+
+“I was suppressing information about you.”
+
+“Same word.”
+
+“Different target.”
+
+“And you thought that justified letting me believe everyone wanted me weak.”
+
+“No.”
+
+Kade looked at her.
+
+Sen continued.
+
+“I thought the misunderstanding was safer than explaining what I was protecting you from.”
+
+“Which was wrong.”
+
+“Yes.”
+
+Mara’s eyes sharpened.
+
+Kade almost laughed.
+
+He had spent months wanting Sen to admit she was wrong.
+
+It was much less satisfying when the consequences were real.
+
+Eli cleared his throat.
+
+“There is more.”
+
+“Of course there is,” Kade said.
+
+Eli opened a map of Asterion.
+
+The island appeared in layers.
+
+Public campus.
+
+Utilities.
+
+Emergency service routes.
+
+Then an older map beneath all of them.
+
+Precursor infrastructure.
+
+Red markers moved through sealed corridors below the Spire.
+
+“Those are people?” Sera asked.
+
+“Personnel tags with academy identifiers disabled.”
+
+“How many?”
+
+“Twenty-three confirmed. Maybe more.”
 
 Sen’s expression hardened.
 
@@ -189,3 +409,73 @@ Sen’s expression hardened.
 Sen looked at him.
 
 “We are about to find out.”
+
+Eli changed the display.
+
+One route ended near a label Kade had never seen.
+
+**SUBLEVEL NINE — LEGACY CONTAINMENT**
+
+His skin went cold.
+
+“Nine,” he said.
+
+Mara looked at him.
+
+No one needed to explain why the number mattered.
+
+Kade looked from the map to Sen.
+
+“What is down there?”
+
+Sen’s silence answered before her words did.
+
+“Something the Directorate wants.”
+
+“Contact Zero?” Eli asked.
+
+“Part of it.”
+
+Kade felt the room shrink.
+
+“And my father?”
+
+Sen looked at him.
+
+For once, there was no practiced answer ready.
+
+“I do not know.”
+
+Kade believed her.
+
+He wished he did not.
+
+Sera stood.
+
+“If twenty-three unauthorized people are moving under this island, Response Corps protocols say we should start staged evacuation now.”
+
+Sen nodded.
+
+“Already initiated under storm-preparedness cover.”
+
+Sera’s eyes narrowed with reluctant approval.
+
+Julian’s voice came through Sen’s tablet from a secure channel.
+
+“Director, House Sol is reporting access failures on lower transit.”
+
+Sen answered, “Begin student shelter protocol. Quietly.”
+
+“Understood.”
+
+Kade stared at the map.
+
+Eli was alive.
+
+The Directorate was inside Asterion.
+
+Sublevel Nine existed beneath them.
+
+And the quiet war Sen had described was no longer quiet.
+
+For the first time since Northline, Kade wished the problem were only whether he belonged at school.
