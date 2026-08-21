@@ -2,11 +2,11 @@
 
 At six fifteen the next morning, Kade discovered that Asterion believed breakfast was something people earned after needles.
 
-He sat on an examination table in the intake clinic while a technician filled four vials with his blood and explained, with offensive cheerfulness, that the academy's baseline protocol was “comprehensive.”
+He sat on an examination table in the intake clinic while a technician filled four vials with his blood and explained, with offensive cheerfulness, that the academy’s baseline protocol was “comprehensive.”
 
 “That word keeps finding me,” Kade said.
 
-The technician removed the needle.
+The technician removed the needle and pressed a seal over the puncture.
 
 “You’re the Zero candidate, right?”
 
@@ -24,11 +24,15 @@ She looked at his wrist band.
 
 At least she was honest.
 
-By six forty-five he had been scanned, weighed, measured, photographed, tested for color perception, lung capacity, reflex response, joint stability, hearing range, balance, sleep debt, and several things he suspected had been invented to justify the clinic’s budget.
+By six forty-five, he had been scanned, weighed, measured, photographed, tested for color perception, lung capacity, reflex response, joint stability, hearing range, balance, sleep debt, reaction latency, blood chemistry, Conduit compatibility markers, and several things Kade suspected existed solely to justify expensive equipment.
+
+He received a protein bar after the third machine.
+
+Apparently breakfast could be earned incrementally.
 
 At six fifty-eight, a training aide escorted him underground.
 
-The elevator descended for long enough that Kade stopped pretending it was taking them to a basement.
+The elevator descended long enough that Kade stopped pretending it was taking them to a basement.
 
 “How far?” he asked.
 
@@ -38,25 +42,27 @@ The elevator descended for long enough that Kade stopped pretending it was takin
 
 “Field containment.”
 
-The doors opened.
+“Comforting answer.”
 
-Kade stepped into a corridor built of dark composite panels and thick glass.
+The aide did not respond.
 
-Every few meters, a symbol on the wall showed concentric circles crossed by a diagonal line.
+The doors opened onto a corridor of dark composite panels and glass thick enough to make Kade wonder what the academy expected to hit it.
+
+Every few meters, a wall symbol showed concentric circles crossed by a diagonal line.
 
 **RESONANCE TESTING — CONTROLLED ACCESS**
 
-This part of Asterion did not look like the broadcasts.
+This part of Asterion did not appear in recruitment videos.
 
 No marble.
 
 No ocean views.
 
-No green lawns.
+No carefully chosen students laughing on green lawns.
 
-Just quiet corridors, sealed doors, and people carrying tablets without looking at one another.
+Just sealed doors, quiet corridors, embedded sensors, and people carrying tablets without looking at one another.
 
-The aide handed Kade to a woman named Dr. Lian Park.
+The aide delivered Kade to Dr. Lian Park.
 
 Park was small, silver-haired, and moved like someone who had decided years ago that wasted motion was a personal insult.
 
@@ -74,19 +80,15 @@ He removed them.
 
 He paused.
 
-Park looked at him.
+Park looked at him over the rim of her glasses.
 
 “Medical sensors, Mr. Mercer. I have no interest in your fashion decisions.”
 
 Kade took off the shirt.
 
-Thirty adhesive contacts later, he stood inside a circular room twenty meters across.
+Thirty adhesive contacts later, he stood in the center of a circular room twenty meters across.
 
-The floor beneath his bare feet was marked by concentric rings.
-
-The walls were glass.
-
-Behind them sat a control room containing six technicians and one person Kade recognized immediately.
+The floor beneath his bare feet was marked with concentric rings. The walls were glass. Behind them sat a control room containing six technicians, two banks of equipment, and one person Kade recognized immediately.
 
 Dr. Amara Sen.
 
@@ -108,9 +110,9 @@ Just a dark jacket over a plain shirt and a cup of tea in one hand.
 
 She watched him through the glass.
 
-Kade raised one hand.
+Kade lifted one hand.
 
-Sen raised hers back.
+Sen lifted hers back.
 
 Park said, “Try not to entertain the director.”
 
@@ -118,7 +120,7 @@ Park said, “Try not to entertain the director.”
 
 “You were absolutely planning to.”
 
-Kade liked her too.
+Kade decided he liked Park.
 
 A speaker clicked on.
 
@@ -126,13 +128,13 @@ A speaker clicked on.
 
 A metal sphere rose from the floor ten meters away.
 
-“Tell me when you feel anything unusual.”
+“Tell me the instant you perceive any change not attributable to normal senses.”
 
 Kade waited.
 
 Nothing.
 
-The sphere began to vibrate.
+The sphere began vibrating.
 
 Still nothing.
 
@@ -144,7 +146,7 @@ The vibration increased until he could hear it.
 
 “My left foot is cold.”
 
-Park looked at a monitor.
+Park checked a monitor.
 
 “That is unrelated.”
 
@@ -152,49 +154,55 @@ Park looked at a monitor.
 
 The sphere stopped.
 
-Another device rose.
+A second apparatus rose.
 
-This one resembled a frame holding two blocks of black material apart in empty air.
-
-The space between them shimmered.
+Two blocks of black material floated in a rigid frame with empty air between them. The space shimmered faintly.
 
 Kade watched.
 
 Nothing.
 
-A pressure built in his ears.
+A pressure developed in his ears.
 
 Not field perception.
 
 Just pressure.
 
-“Nothing,” he said.
+“Nothing.”
 
-The test repeated.
+The tests repeated.
 
 Gravity differential.
 
-Electromagnetic field.
+Electromagnetic gradient.
 
-Kinetic transfer.
+Kinetic storage field.
 
-Thermal gradient.
+Thermal transfer.
 
-Each time, the same result.
+Localized structural cohesion.
+
+Each time, Park asked the same kind of question.
+
+Each time Kade gave the same answer.
 
 Nothing.
 
-The technicians’ interest began to drain from their faces.
+At first the technicians watched every screen.
+
+Then one started checking another workstation between trials.
+
+Another whispered to the person beside him.
 
 Kade knew that process.
 
 He had watched it happen in classrooms.
 
-At first, adults expected something interesting from him.
+At first, adults expected something interesting.
 
 Then he disappointed them.
 
-Then they started looking at the clock.
+Then they looked at the clock.
 
 Park did not look at the clock.
 
@@ -204,45 +212,51 @@ That helped less than he expected.
 
 Stage two tested active response.
 
-Kade stood inside the first ring and was told to move a one-kilogram steel puck across a table without touching it.
+Kade stood inside the innermost ring and faced a one-kilogram steel puck on a low table.
 
-He stared at the puck.
+“Move it,” Park said.
 
-The puck continued being a puck.
+“With what?”
 
-“How?” he asked.
+“Resonance.”
+
+“That clarification did not improve the instructions.”
 
 “However feels natural.”
 
 “Nothing about this feels natural.”
 
-“Try.”
+Park waited.
 
-He hated that word now.
+Kade stared at the puck.
+
+The puck continued being a puck.
 
 He concentrated.
 
 Nothing.
 
-He imagined force.
+He imagined pushing it.
 
 Nothing.
 
-He pictured the puck sliding.
+He pictured it sliding.
 
 Nothing.
 
-He thought about momentum.
+He thought of acceleration, friction, weight, every physical thing that should matter.
 
 Nothing.
 
-He thought about the exam.
+He thought about the examination.
 
-The sphere.
+A sphere hanging in a chamber.
 
-The chamber.
+The floor beneath the chamber.
 
-The line he had drawn through objects that were supposed to be whole.
+The foundation beneath the floor.
+
+A line he had drawn through objects that were supposed to be whole.
 
 Something tingled at the base of his skull.
 
@@ -252,9 +266,9 @@ Kade’s heart jumped.
 
 Then a technician opened the testing-room door.
 
-Air pressure had shifted it half a centimeter.
+Air pressure had shifted the puck half a centimeter.
 
-Kade stared at the puck.
+Kade stared at it.
 
 Park said, “Environmental artifact.”
 
@@ -264,25 +278,37 @@ They reset.
 
 Nothing.
 
+They changed the object.
+
+Nothing.
+
+They gave him a training bead designed to respond to first-time Resonants.
+
+Nothing.
+
+They gave him a suspended ribbon sensitive to microscopic field interaction.
+
+Nothing.
+
 By nine thirty, Kade’s official output remained zero.
 
 Not `000`.
 
 Actual zero.
 
+The distinction did not improve his mood.
+
 He sat on the floor while Park reviewed the data.
 
-Through the glass, one technician whispered to another.
+Through the glass, a technician whispered to another.
 
 Kade could not hear the words.
 
 He did not need to.
 
-Their expressions were familiar.
+Their faces were familiar.
 
-Park came into the room.
-
-She handed him a bottle of water.
+Park came into the room and handed him a bottle of water.
 
 “You are dehydrated.”
 
@@ -312,15 +338,15 @@ He drank.
 
 The water tasted faintly metallic.
 
-“Does Zero Protocol ever pick people with no Resonance?”
+“Does Zero Protocol ever select people with no Resonance?”
 
-Park’s face became neutral.
+Park’s expression changed so little that someone else might have missed it.
 
 “Above my clearance.”
 
 “You run the test.”
 
-“I run today’s test.”
+“I run today’s tests.”
 
 “What happened thirty-one years ago?”
 
@@ -332,7 +358,7 @@ Kade watched her.
 
 “I know that your questions have become less random.”
 
-“That’s not an answer.”
+“That is not an answer.”
 
 “No.”
 
@@ -348,7 +374,7 @@ Kade sighed.
 
 “Finally. Something I’ve trained for.”
 
-Stage three put him inside a moving platform while lights, sound, acceleration, and projected obstacles attacked his attention from six directions.
+Stage three put him on a moving platform while light, sound, acceleration, projected obstacles, and false alerts attacked his attention from six directions.
 
 He did better.
 
@@ -360,11 +386,33 @@ A static classroom demanded that he hold still and accept somebody else’s fram
 
 A collapsing simulation gave him problems that actually needed solving.
 
-He caught a dropped tool before it struck the floor.
+The platform lurched.
 
-Avoided a swinging barrier.
+A training arm swung at shoulder height.
 
-Redirected his own body through a gap that appeared too narrow until the last instant.
+Kade ducked, caught a dropped tool with his left hand, and stepped through a gap that appeared too narrow until the last instant.
+
+A display flashed route options.
+
+He ignored all three and used the maintenance rail.
+
+A red warning appeared.
+
+**UNAUTHORIZED PATH**
+
+Then a green one.
+
+**OBJECTIVE COMPLETE**
+
+Kade smiled.
+
+Park’s voice came over the speaker.
+
+“Do not look so pleased.”
+
+“The machine and I disagree about authority.”
+
+“Shocking.”
 
 His reaction metrics climbed.
 
@@ -382,13 +430,17 @@ Then the field portion resumed.
 
 Nothing.
 
-At eleven forty-seven, Dr. Sen entered the testing room.
+Every time the system measured him as quick, adaptive, spatially unusual, or good under pressure, the next Resonance metric returned to zero.
+
+The pattern began to feel almost deliberate.
+
+At eleven forty-seven, Dr. Sen entered the room.
 
 Everyone else left.
 
 Kade noticed that too.
 
-He sat on the edge of the platform wearing his shirt again and trying not to look tired.
+He sat on the edge of the platform wearing his shirt again and pretending not to be tired.
 
 Sen carried no tablet.
 
@@ -406,9 +458,9 @@ Sen smiled faintly.
 
 Kade looked at her.
 
-“That might be the nicest thing anyone’s said today.”
+“That might be the nicest thing anyone has said today.”
 
-She walked to the center of the room.
+She walked to the center ring.
 
 “Do you know why rankings exist?”
 
@@ -418,7 +470,7 @@ She walked to the center of the room.
 
 He blinked.
 
-Sen continued.
+Sen continued before he could decide whether she had made a joke.
 
 “Rankings make performance legible. Students understand them. Coaches understand them. Sponsors understand them. Governments especially understand them.”
 
@@ -430,7 +482,7 @@ Sen continued.
 
 Sen looked pleased.
 
-“Your baseline numbers are being entered now.”
+“Your baseline data is being entered now.”
 
 Kade’s stomach tightened.
 
@@ -442,13 +494,13 @@ Kade’s stomach tightened.
 
 “Because everyone is.”
 
-“That’s a terrible reason.”
+“That is a terrible reason.”
 
 “It is also the true one.”
 
-The wall display behind her illuminated.
+A wall display illuminated behind her.
 
-A student profile appeared.
+Kade’s profile appeared.
 
 **MERCER, KADE A.**
 
@@ -462,7 +514,9 @@ A student profile appeared.
 
 **COMBAT: UNRATED**
 
-Then the final line appeared.
+For a moment, nothing else happened.
+
+Then the final line resolved.
 
 **FIRST-YEAR RANK: 10,482 / 10,482**
 
@@ -476,7 +530,7 @@ It arrived precisely on schedule.
 
 Of course.
 
-He had come to the most selective academy on Earth through a classified back door and immediately proven himself the least capable person there.
+He had reached the most selective academy on Earth through a classified back door and immediately proven himself the least capable person there.
 
 “That seems efficient,” he said.
 
@@ -488,8 +542,6 @@ He had come to the most selective academy on Earth through a classified back doo
 
 Kade looked at her.
 
-Sen’s face was unreadable.
-
 “You’re enjoying this.”
 
 “A little.”
@@ -498,35 +550,41 @@ Sen’s face was unreadable.
 
 She set the tea on the floor.
 
-“Mr. Mercer, last place is useful.”
+“Last place is useful.”
 
 “People in first say that.”
 
 “You cannot fall.”
 
-He almost laughed.
+The sentence landed differently than she intended.
 
-Almost.
+Or perhaps exactly as she intended.
 
-Then the wall display changed.
+Kade looked again at the number.
 
-A notification appeared.
+Ten thousand four hundred eighty-two.
 
-**PUBLIC LADDER UPDATED**
+The last name in a cohort larger than his entire hometown high school district.
 
-Kade’s phone began vibrating on the bench.
+He imagined the number on every public board he had walked past yesterday.
+
+His phone started vibrating on the bench.
 
 Then again.
 
 Then continuously.
 
-He looked at Sen.
+The wall display flashed.
+
+**PUBLIC LADDER UPDATED**
+
+Kade looked at Sen.
 
 “What did you do?”
 
 “I did nothing.”
 
-His phone displayed seventeen new messages.
+His phone showed seventeen messages.
 
 Darius first.
 
@@ -548,11 +606,7 @@ Sen said, “Friend?”
 
 Another message appeared from an unknown number.
 
-**ZERO BOY = 10,482 LOL**
-
-Another.
-
-**WELCOME TO ASTERION, LAST PLACE.**
+**ZERO = 10,482. WELCOME TO ASTERION.**
 
 Another.
 
@@ -564,7 +618,7 @@ Kade stared at the screen.
 
 For one second, Northline seemed very far away.
 
-At Northline, everybody already had a file.
+At Northline everybody already had a file.
 
 Nobody could pretend theirs made them better.
 
@@ -572,11 +626,15 @@ Here, ten thousand four hundred eighty-one people had a number proving they were
 
 His chest tightened.
 
-The old instinct came instantly.
+The old reflex arrived instantly.
 
 *Doesn’t matter.*
 
-He nearly said it aloud.
+He almost said it.
+
+Almost laughed.
+
+Almost turned the whole thing into a joke before the number could become real.
 
 Instead he looked back at the wall.
 
@@ -584,13 +642,15 @@ Instead he looked back at the wall.
 
 He thought of Ms. Alvarez.
 
-He thought of his mother.
+*Try.*
 
-He thought of how tired he was of pretending not to care.
+He thought of Elena at the kitchen table.
+
+*Do not get scared now that somebody finally asked the right question.*
 
 Sen watched him.
 
-“What?” he said.
+“What?” Kade said.
 
 “I was waiting.”
 
@@ -598,13 +658,11 @@ Sen watched him.
 
 “To see whether you would leave.”
 
-Kade’s jaw tightened.
+His jaw tightened.
 
 “You think I’m going to?”
 
 “I think you have a history of leaving things before they can judge you.”
-
-His eyes narrowed.
 
 “You read my file.”
 
@@ -616,6 +674,46 @@ Sen picked up her tea.
 
 “Keep telling yourself that.”
 
+Kade stood.
+
+Not to leave.
+
+Just because sitting suddenly felt too much like being observed.
+
+“What do you think Zero means?” he asked.
+
+Sen’s face went still.
+
+“Today?”
+
+He frowned. “What does that mean?”
+
+“It means today your measured Resonant output is zero, your conventional perception is unconfirmed, and your adaptive cognition is unusual enough to justify further evaluation.”
+
+“That was very careful.”
+
+“Yes.”
+
+“You know more.”
+
+“Yes.”
+
+The admission surprised him.
+
+“Will you tell me?”
+
+“Not yet.”
+
+“Why?”
+
+“Because incomplete explanations can become instructions.”
+
+Kade stared at her.
+
+“That sounds like something people say before doing something suspicious.”
+
+“Probably.”
+
 She walked toward the door.
 
 Kade looked at the ranking again.
@@ -626,11 +724,9 @@ Sen stopped.
 
 “What happens next?”
 
-She looked over her shoulder.
-
 “Tomorrow you move into House Meridian.”
 
-“I thought assignment followed testing.”
+“I thought House assignment followed testing.”
 
 “It does.”
 
@@ -660,17 +756,17 @@ He frowned.
 
 She left.
 
-Kade sat alone beneath his ranking.
+Kade remained beneath his ranking.
 
 Ten thousand four hundred eighty-two.
 
 Last.
 
-He took a picture of the display.
+A minute passed.
 
-Sent it to Darius.
+Then two.
 
-Then typed:
+He took a picture of the display and sent it to Darius.
 
 **Enjoy it while you can.**
 
@@ -678,12 +774,26 @@ Darius responded immediately.
 
 **IS THAT A THREAT**
 
-Kade looked at the rank again.
+Kade looked at the number again.
 
-For the first time since arriving at Asterion, he smiled without using it to hide anything.
+The shame was still there.
+
+So was anger.
+
+So was the small, deeply inconvenient thing he had felt looking at the island from the air.
+
+Want.
+
+For once, he did not make any of those feelings cancel the others.
+
+He typed:
 
 **No.**
 
-He typed.
+Then:
 
 **It’s a plan.**
+
+Kade hit send.
+
+For the first time since arriving at Asterion, he smiled without using it to hide anything.

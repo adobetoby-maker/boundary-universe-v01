@@ -1,6 +1,6 @@
 # Chapter 8 — The Ladder
 
-The first thing Kade learned about climbing the Asterion rankings was that everyone lied about why they cared.
+The first thing Kade learned about climbing Asterion’s rankings was that everyone lied about why they cared.
 
 They said it was about placement.
 
@@ -16,33 +16,53 @@ All true.
 
 But by the time Kade had watched fourteen challenge recordings before breakfast, he understood the deeper reason.
 
-Nobody liked being beneath someone they thought they could beat.
+Nobody liked being beneath someone they believed they could beat.
 
-He understood that perfectly.
+Kade understood that perfectly.
 
-His restriction blocked official ranked bouts, but Instructor Hale approved an alternative after two days of complaints, forms, and one meeting in which Kade promised not to “interpret supervised simulation as a philosophical category.”
+Asterion’s first-year ladder looked simple until someone tried to move on it.
 
-Kade had not known that was a sentence adults could say with straight faces.
+Students could normally challenge within a fixed band above or below their current rank. Winning did not simply exchange two numbers. The system recalculated performance based on opponent rating, margin, safety compliance, field efficiency, recent results, and something the academy called *competitive confidence*, which Kade suspected had been invented by mathematicians who disliked happiness.
+
+Open challenges existed, but they were rare. House events used different weighting. Tournament results could cause larger recalculations.
+
+And every fight cost training time.
+
+“You cannot just challenge upward every six hours,” Hale told him.
+
+“Why not?”
+
+“Because muscles exist.”
+
+“Administrative failure.”
+
+“You will appreciate muscles after somebody tears one.”
+
+Kade’s restriction still blocked official ranked bouts, but Hale approved an alternative after two days of requests, forms, and one meeting in which Kade promised not to “interpret supervised simulation as a philosophical category.”
+
+Kade had not known adults could say sentences like that with straight faces.
 
 The compromise was simple.
 
-He could enter tactical simulations against students within two hundred ranks of him. If his performance met safety thresholds for three consecutive sessions, Hale would reconsider challenge clearance.
+He could enter tactical simulations against students near his rank. If he completed three sessions without neurological symptoms, anomalous structural transfers, or attempting to reproduce the Forty-Seven event, Hale would restore conditional challenge access.
 
-“You realize,” Eli said as they walked toward Simulation Hall Four, “that there is nobody below you.”
+Eli studied the authorization as they walked toward Simulation Hall Four.
 
-“I’ve noticed.”
+“You realize there is nobody below you.”
+
+“I have noticed.”
 
 “So every opponent is technically above you.”
 
 “Thank you.”
 
-“I’m helping.”
+“I am helping.”
 
-“You’re narrating gravity.”
+“You are narrating gravity.”
 
 Eli grinned.
 
-The first opponent was Rank 10,311, a broad-shouldered student named Mason Cole who had a strong Redirection profile and the relaxed confidence of someone who had been told his entire life that fundamentals mattered.
+The first opponent was Rank 10,311, a broad-shouldered student named Mason Cole with a strong Redirection profile and the relaxed confidence of someone who had been told his entire life that fundamentals mattered.
 
 They did.
 
@@ -56,9 +76,7 @@ Kade left the hall furious.
 
 Not because he lost.
 
-Because every loss made sense afterward.
-
-He saw the mistakes one beat too late.
+Because every loss became obvious one beat too late.
 
 His stance was too high.
 
@@ -68,17 +86,23 @@ He watched shoulders and ignored hips.
 
 He chased hands instead of center mass.
 
-Sera found him in the dining hall picking apart video frame by frame.
+He planted his rear foot before he knew which direction he needed to leave.
 
-“You look cheerful,” she said.
+Worst of all, none of those mistakes required classified physics to fix.
+
+Sera found him at lunch with three fight recordings projected above his tray.
+
+“You look cheerful.”
 
 “I’ve lost three times.”
 
 “That explains it.”
 
-Kade glanced at her.
+She stole a roasted potato.
 
-She stole a piece of roasted potato from his tray.
+Kade moved the tray farther away.
+
+She moved it back.
 
 “Your problem,” she said, “is that you think seeing a system means you’re outside it.”
 
@@ -108,17 +132,45 @@ Stance drills.
 
 Balance drills.
 
-Falling.
+Falls.
 
-Recovering.
+Recoveries.
 
 Foot placement.
 
 Breathing.
 
+Grip breaks.
+
+Hip escapes.
+
+He ran stairs without field assistance until his lungs felt too small. He spent an hour learning how to fall correctly and discovered he had been doing that wrong too. Hale made him repeat a three-step lateral movement so many times that Kade began to suspect the instructor had confused training with revenge.
+
 He hated all of it.
 
 Which was how he knew Sera was probably right.
+
+Ordinary academy life continued around the punishment of fundamentals.
+
+He attended mathematics at eight and discovered Asterion taught first-years vector calculus before some of his Northline classmates had finished algebra.
+
+He missed an assignment deadline because the academy calendar used three parallel scheduling systems.
+
+Eli helped him appeal the late penalty and somehow turned the process into a discussion about distributed databases.
+
+Kade called Elena every night, as promised.
+
+On the third call she listened to him complain about conditioning for two minutes, then said, “So you like it.”
+
+“I did not say that.”
+
+“You complained about the work, not about being there.”
+
+Kade looked at the dark ocean outside his window.
+
+“Good night, Mom.”
+
+She laughed.
 
 Mara passed him twice during conditioning and said nothing.
 
@@ -154,6 +206,10 @@ Tap.
 
 Again.
 
+“Too square.”
+
+Again.
+
 “Better.”
 
 Kade paused.
@@ -166,7 +222,7 @@ Kade paused.
 
 Mara walked away.
 
-Eli, watching from the bleachers, leaned toward him.
+Eli, watching from the bleachers, leaned toward Kade.
 
 “She likes you.”
 
@@ -184,13 +240,17 @@ On the fifth day, Kade beat Rank 10,205 in an unranked simulation.
 
 Not elegantly.
 
-He absorbed two clean impacts, missed a sweep, recovered badly, and won because he recognized his opponent always shifted weight before accelerating.
+He absorbed two clean impacts, missed a sweep, recovered badly, and won because he recognized that his opponent always shifted weight before accelerating.
 
-No anomaly.
+No cold line behind his eyes.
 
 No impossible transfer.
 
+No missing telemetry.
+
 Just timing.
+
+The lack of mystery felt unexpectedly good.
 
 Hale reviewed the footage.
 
@@ -202,15 +262,51 @@ Lost the third.
 
 Won two more.
 
-His clearance returned the following morning with a warning banner.
+No symptoms.
+
+No anomalies.
+
+His challenge clearance returned the next morning with a yellow warning banner.
 
 **RANKED CHALLENGE ACCESS: CONDITIONAL**
 
+**FIELD-ACTIVE TECHNIQUES: PROHIBITED PENDING REVIEW**
+
 Eli nearly celebrated harder than Kade did.
 
-His first official challenge was Rank 10,401.
+“Do you want the statistics?” he asked.
 
-Kade won in two minutes and eleven seconds.
+“No.”
+
+“I already made them.”
+
+“Of course.”
+
+Kade’s first official challenge was Rank 10,401.
+
+The student’s name was Mae Larson, a compact fighter who knew exactly what Kade’s public footage showed and exactly what it did not.
+
+“You’re not allowed to use the wall thing,” she said as they took their marks.
+
+“I am barely allowed to use myself.”
+
+“Good.”
+
+She attacked his right side for the first thirty seconds because his early simulations showed a delayed pivot there.
+
+Kade lost the first exchange.
+
+Adjusted.
+
+Lost the second by less.
+
+On the third, he stopped trying to catch her and started denying the route she preferred.
+
+Mae stepped where she expected space.
+
+Kade was already there.
+
+He won in two minutes and eleven seconds on boundary control.
 
 The ranking board updated before he left the arena.
 
@@ -218,29 +314,67 @@ The ranking board updated before he left the arena.
 
 He stared at it longer than he wanted anyone to notice.
 
+It was only eighty-one places.
+
+It felt enormous.
+
+Not because the number mattered.
+
+Because he knew exactly how he had earned it.
+
 Then came 10,177.
 
 9,982.
 
 9,604.
 
-He lost at 9,433.
+The wins did not arrive in a montage when Kade actually lived them.
 
-Won the rematch two days later.
+Between them were sore mornings, ordinary classes, laundry, a failed mechanics quiz because he had used the right reasoning with notation the professor refused to accept, two dinners where he was too tired to talk, and one spectacularly bad challenge that ended with Kade face-down at the boundary while Eli shouted useful advice approximately three seconds too late.
 
-The climb was not dramatic from the outside.
+At Rank 9,433, Kade lost.
 
-No single fight made campus headlines.
+Cleanly.
 
-But inside Meridian, people started noticing.
+His opponent, Aiden Knox, exploited the same retreat habit three times in two minutes.
+
+Kade spent that night replaying it.
+
+The old version of him would have found a reason the loss did not count.
+
+The new version wrote down the error.
+
+He won the rematch two days later.
+
+Inside Meridian, people started noticing.
 
 Students who had laughed when his name appeared at the bottom began asking Eli for footage.
 
-Taren started sending him opponent notes with no explanation.
+Taren started sending opponent notes with no explanation.
+
+**Knox protects left knee after long sessions. Don’t target it—watch how it changes his rotation.**
+
+**Larson hates being backed toward transparent barriers. Says reflections mess with peripheral vision.**
+
+**Rank 9,112 has an open challenge posted but do not take it today. He wants your publicity.**
+
+Kade read the third message twice.
+
+**How do you know that?**
+
+Taren replied:
+
+**People talk. I listen.**
+
+Useful.
+
+And slightly too good.
+
+Kade filed that away.
 
 Sera continued stealing food.
 
-Mara continued criticizing foot placement as though it were an ethical duty.
+Mara continued criticizing foot placement as if it were an ethical obligation.
 
 And Eli built a spreadsheet.
 
@@ -262,7 +396,7 @@ It had twenty-three columns.
 
 Kade scrolled.
 
-The model tracked opponent tendencies, Kade’s reaction time, failed approaches, distance control, and something Eli called **transfer opportunities**.
+The model tracked opponent tendencies, Kade’s reaction time, failed approaches, distance control, fatigue, and something Eli called **TRANSFER OPPORTUNITIES**.
 
 Kade stopped.
 
@@ -274,21 +408,21 @@ Eli looked less playful.
 
 “You’re going to have to narrow that.”
 
-“In your fights, there are moments when force should resolve one way and doesn’t.”
+“In some of your fights there are moments where force resolves slightly differently than the model predicts.”
 
 Kade’s hand went still.
 
 “I thought we weren’t studying that.”
 
-“We aren’t. Officially.”
+“We are not trying to reproduce it.”
 
-“Eli.”
+“That was careful wording.”
 
-“I’m not trying to trigger it. I’m tracking conditions.”
+“I am tracking conditions.”
 
 Kade looked at the screen.
 
-Priya’s fight appeared in one cell.
+Priya’s fight appeared first.
 
 Then three later matches.
 
@@ -298,11 +432,11 @@ A stumble that went farther than expected.
 
 A block that displaced an opponent sideways.
 
-A collision where Kade felt almost nothing despite taking the hit.
+A collision where Kade felt less impact than the acceleration model predicted.
 
-None had been strong enough to flag.
+None were strong enough to flag.
 
-All had one thing in common.
+All shared one thing.
 
 Kade had not been thinking about force.
 
@@ -312,13 +446,21 @@ Eli leaned back.
 
 “You want me to delete it?”
 
-Kade considered the question.
+The question mattered.
 
-“No.”
+Sen had forbidden attempts to reproduce the anomaly.
 
-“That sounded responsible. I’m worried.”
+She had not forbidden thinking.
 
-“Don’t test anything.”
+But Kade had spent too much of his life treating technical permission as moral permission.
+
+He looked at Eli.
+
+“No. Keep the observations.”
+
+Eli nodded.
+
+“Do not design experiments around them.”
 
 “I won’t.”
 
@@ -328,7 +470,13 @@ Eli sighed.
 
 “I promise.”
 
-Kade looked at his updated rank.
+Kade held his gaze another second.
+
+Then nodded.
+
+Trust, apparently, was partly asking someone to stop before they had done anything wrong.
+
+Kade’s updated rank glowed on the corner of the model.
 
 **8,971**
 
@@ -358,7 +506,7 @@ She nodded once.
 
 “You’re learning.”
 
-Kade waited for the insult.
+Kade waited for the qualifier.
 
 None came.
 
@@ -366,7 +514,7 @@ None came.
 
 Mara took an apple from the center bowl.
 
-“Don’t make it unpleasant.”
+“Do not make it unpleasant.”
 
 She left.
 
@@ -382,8 +530,12 @@ Eli raised both hands.
 
 Kade laughed.
 
-Then he looked back at the ranking board.
+Then he looked at the ranking board.
 
 For the first time, he did not see ten thousand people above him.
 
-He saw the next name.
+He saw a ladder.
+
+And ladders, unlike verdicts, had a useful property.
+
+They were meant to be climbed.
