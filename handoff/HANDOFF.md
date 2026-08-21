@@ -16,8 +16,8 @@
 - **Family-clean standard is LOCKED:** no real-world profanity/obscene gestures, no explicit sexual content, age-appropriate romance, intense but non-gratuitously-gory action. Serious themes remain allowed.
 
 ## Working prose status
-- Chapter 1 — **The Kid in Room Four**: canonical foundation; family-clean editorial pass required before next release build because the original draft contains a few legacy phrases now prohibited by Rule 9.
-- Chapter 2 — **Zero Protocol**: working draft complete on rapid-draft branch.
+- Chapter 1 — **The Kid in Room Four**: complete; family-clean pass completed on the rapid-draft branch (legacy mild profanity/gesture references removed).
+- Chapter 2 — **Zero Protocol**: working draft complete.
 - Chapter 3 — **Asterion**: working draft complete.
 - Chapter 4 — **Ten Thousand Four Hundred Eighty-Two**: working draft complete.
 - Chapter 5 — **House Meridian**: working draft complete.
