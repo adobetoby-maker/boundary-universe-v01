@@ -2,7 +2,7 @@
 
 **Updated:** 2026-08-21
 **Project:** The Boundary Universe / Asterion Trilogy
-**Current phase:** Book 1 rapid working-draft production
+**Current phase:** Book 1 structural draft complete; begin polish/expansion
 
 ## Locked project decisions
 - Connected universe name (working): **The Boundary Universe**.
@@ -11,68 +11,68 @@
 - Book 1 target: ~187k words / ~20.1 hours audio.
 - Book 1 structure: 33 chapters.
 - Narration strategy: one male narrator performing restrained character interpretations.
-- GitHub repository is the source of truth; website is a viewer.
-- Story remains original.
-- **Family-clean standard is LOCKED:** no real-world profanity/obscene gestures, no explicit sexual content, age-appropriate romance, intense but non-gratuitously-gory action.
+- GitHub repository is source of truth.
+- **Family-clean standard is LOCKED:** no real-world profanity or obscene gestures; no explicit sexual content; age-appropriate romance; intense but non-gratuitously-gory action.
 
-## Working prose status
-- **Chapters 1–17 drafted. First-half working draft complete.**
-- Chapter 1 has a completed family-clean pass.
-- Chapters 2–17 are rapid working drafts and intentionally below final target length; expand later by deepening scenes, school life, relationships and consequences rather than adding filler.
-- Next chapter: **Chapter 18 — The Vey Problem**.
+## Manuscript status
+- **Chapters 1–33 drafted. Book 1 rapid structural draft is complete.**
+- Chapters are intentionally uneven/short versus final targets; the next pass is expansion and polish, not plot invention.
+- Full structural audit: `books/book-01-the-ninth-standard/BOOK_ONE_DRAFT_AUDIT.md`.
+- End-state continuity: `books/book-01-the-ninth-standard/STATE_LEDGER.md`.
+- Mystery/payoff accounting: `books/book-01-the-ninth-standard/CLUE_LEDGER.md`.
 
-## First-half trajectory
-- Ch. 1–2: Kade genuinely tries; `000` challenges his failure narrative.
-- Ch. 3–6: Kade wants Asterion despite himself; last-place humiliation leads to anomalous transfer evidence.
-- Ch. 7–10: restriction becomes agency; fundamentals improve; Meridian relationships deepen; Mara becomes technical peer.
-- Ch. 11–13: broken-floor event establishes Boundary architecture and cost; Sen lies; Julian becomes honorable rival/teacher.
-- Ch. 14–15: Meridian wins House Trial because Kade empowers a team whose plan survives his elimination; Kade reaches #1,904.
-- Ch. 16–17: fame tests false belonging; Northline return confirms genuine growth and turns the midpoint question toward the cost of belonging.
+## End-of-Book-1 anchors
+- Kade ends at Asterion, rank **#37**, public Standard **IX**.
+- Consensus is revealed as voluntary shared boundary control preserving individual agency.
+- Aaron Mercer is alive and was the erased twelfth Standard Eight / prior Zero-linked subject.
+- Contact Zero was damaged nonhuman technology; Resonance history is incomplete.
+- Taren's original observation assignment is exposed; friendship was nevertheless genuine.
+- Eli survives via Ghost Protocol; apparent death remains a protective deception, not resurrection.
+- Suppression Order pays off as information concealment/safety, not deliberate sabotage of Kade's development.
+- A 0.83-second signal escapes; the response is coordinates + countdown.
+- Final emotional payoff: Kade no longer looks for the exit.
 
-Full editorial assessment: `books/book-01-the-ninth-standard/FIRST_HALF_AUDIT.md`.
+## Book 2 bridge
+- Kade is now famous/politically significant but remains beatable one-on-one.
+- Consensus depends on consent/cooperation and should retain hard limits/costs.
+- International academies can expand the school-world before the wider conflict dominates.
+- Second Zero identity remains OPEN.
+- Responders, Quieters, Severance history, and countdown meaning remain deliberately unresolved.
 
-## Character guardrails for second half
-- **Kade:** belonging is now established. Test whether he can remain connected under secrecy, betrayal and grief without reverting to preemptive abandonment.
-- **Mara:** Chapter 18 must give her independent investigative agency through her family; romance remains secondary to rivalry/trust.
-- **Eli:** add at least two personal/emotional beats before Lab Six so apparent death has maximum weight.
-- **Sera:** establish an ambition/fear unrelated to Kade before Chapter 20.
-- **Taren:** plant 2–3 subtle information/access clues before Chapter 25 while keeping his friendship genuinely real.
-- **Julian:** remain honorable but highly competitive; do not make him saintly.
-- **Sen:** protection must remain defensible in hindsight; secrecy cannot become arbitrary.
+## Immediate next task: polish/expansion
+Polish Book 1 in blocks rather than chapter-isolation.
 
-## Continuity decisions through Chapter 17
-- Kade rank progression: #10,482 → #8,971 → #8,159 → #1,904 after House Trial.
-- Jonah Pike (#2,301) is legally reachable via an **open challenge**, resolving the rank-band continuity issue.
-- Meaningful Boundary events cause headache/tremor/neurologic symptoms.
-- Sen uses `Boundary architecture` and deliberately lies about historical precedent / knowing Aaron.
-- Kade's strongest team success works after his elimination, preserving Consensus foreshadowing.
-- Northline students are invited to a future Asterion exhibition.
+Recommended order:
+1. **Ch. 1–6:** establish final voice, world exposition density, clean-language baseline, and audio cadence.
+2. **Ch. 7–12:** formalize rank mechanics and Boundary costs; strengthen school-life breathing room.
+3. **Ch. 13–17:** deepen Julian/Sera/Eli independent texture and House Trial mechanics.
+4. **Ch. 18–24:** expand Mara agency, Aaron/Elena history, tournament flow, and Contact Zero reveal.
+5. **Ch. 25–29:** strengthen Taren clue seeding, Eli surveillance setup, grief, and Ghost Protocol mechanics.
+6. **Ch. 30–33:** expand siege geography, Aaron reunion, Consensus climax, and aftermath.
 
-## Audio production system
-- Clean manuscript remains sole prose source.
-- Google SSML and ElevenLabs derivatives are generated from manuscript.
-- Shared pronunciation guide remains canonical.
-- A/B test Chapters 1–3 in Google and ElevenLabs before final engine selection.
+## High-priority polish constraints
+- Final book needs substantially more prose than rapid draft; deepen scenes rather than adding filler.
+- Formalize challenge/tournament/ranking rules and audit each rank jump.
+- Make Boundary energy/force bookkeeping legible and consistent.
+- Track neurological/physical costs every time Kade uses meaningful Boundary architecture.
+- Give Sera the strongest independent supporting-character expansion.
+- Deepen Eli's personal ambition before Ch. 26.
+- Give Julian more personal pressure beyond being honorable/excellent.
+- Seed Taren's unusual access 3–5 times before Ch. 25.
+- Expand Aaron/Kade reunion and Elena/Aaron history without resolving their relationship too neatly.
+- Keep Mara/Kade romance understated and family-clean.
+- Do not over-explain Quieters/Severance in Book 1; those are later-series mysteries.
 
-## Immediate next writing task
-Draft Chapter 18, **The Vey Problem**.
+## Audio system
+- Clean manuscript remains the only prose source of truth.
+- Generate Google SSML and ElevenLabs derivatives from source.
+- Shared pronunciation guide is canonical.
+- Read every polished chapter aloud/TTS before promotion.
 
-Requirements:
-1. Give Mara meaningful POV/agency.
-2. Her father asks specific questions about Kade that he should not know to ask.
-3. Mara recognizes the discrepancy and begins investigating independently.
-4. Do not reveal Aaron yet; Chapter 19 owns that rupture.
-5. Begin subtle Taren clue seeding and deepen Eli/Sera personal stakes over Chapters 18–20.
-
-## Remaining architecture
-Proceed with the existing Chapter 18–33 plan. The first-half audit finds **no structural rewrite needed** before continuing.
-
-## Authoring guardrails
-Do not rush the academy.
+## Guardrails
 Do not make Kade unbeatable.
-After #1,904, slow rank progression substantially.
-Do not use mystery as an excuse for irrational behavior.
-Do not over-explain physics during emotional peaks.
-Do not let the cosmic story erase the school story.
-Keep reveals seeded and check them against the clue ledger.
-Preserve family-clean co-reading while retaining serious stakes.
+Do not convert Standards into simple raw power levels.
+Do not erase moral ambiguity around Sen or Taren.
+Do not let cosmic stakes erase academy life.
+Do not introduce real-world profanity during polish.
+Preserve the core thematic rule: Kade's greatest capability emerges through relationships and voluntary interdependence.
