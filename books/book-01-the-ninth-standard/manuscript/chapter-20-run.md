@@ -4,7 +4,23 @@ Kade packed in eleven minutes.
 
 Most of that time was spent finding socks.
 
-Eli watched from the desk chair.
+The efficiency should have felt satisfying.
+
+One bag in.
+
+One bag out.
+
+No complicated logistics.
+
+No furniture.
+
+No boxes.
+
+No reason to look back.
+
+That had always been one of the advantages of not owning much.
+
+Eli watched from the desk chair while Kade folded nothing and shoved everything into the grocery-store duffel.
 
 “You know this is a terrible plan.”
 
@@ -12,15 +28,7 @@ Eli watched from the desk chair.
 
 “Good. I wanted to establish common ground.”
 
-Kade shoved the last shirt into his bag.
-
-He had arrived at Asterion with almost nothing.
-
-Leaving should have been easy.
-
-It wasn’t.
-
-That annoyed him.
+Kade pushed a shirt into the side pocket.
 
 “Where are you going?” Eli asked.
 
@@ -34,9 +42,69 @@ That annoyed him.
 
 Kade zipped the bag.
 
+The sound was louder than it needed to be.
+
+He had arrived at Asterion carrying almost nothing.
+
+Leaving should have been easy.
+
+It wasn’t.
+
+That annoyed him more than the lies.
+
+Eli glanced toward his own desk.
+
+A projection hovered above it: a compact field-stabilization rig with half the components highlighted red.
+
+Kade had seen versions of it for weeks.
+
+“What is that?” he asked, mostly because it was easier than talking about the bag.
+
+Eli looked over.
+
+“My application.”
+
+“For what?”
+
+“Systems Lab fellowship.”
+
+Kade paused.
+
+“You didn’t tell me.”
+
+“You have been busy discovering secret family history.”
+
+“Fair.”
+
+Eli rotated the model.
+
+“I want to build low-cost stabilization hardware. Not arena gear. Civilian stuff. Rescue crews. Rural hospitals. Places that can’t buy a Conduit subsystem worth more than a building.”
+
+Kade stared at him.
+
+Eli looked uncomfortable.
+
+“What?”
+
+“Nothing.”
+
+“That sounded suspiciously sincere.”
+
+“Don’t make it weird.”
+
+“You made it weird by looking at me like I have dimensions.”
+
+Kade almost smiled.
+
+Then the bag reminded him why it was on his shoulder.
+
 The door opened.
 
-Sera stepped in, looked at the bag, then at him.
+Sera stepped in.
+
+She looked at the duffel.
+
+Then Kade.
 
 “No.”
 
@@ -56,9 +124,11 @@ Eli pointed at her.
 
 Kade lifted the strap.
 
-Sera blocked the doorway.
+Sera stood in the doorway.
 
-He stared at her.
+Not blocking it exactly.
+
+Occupying it with intent.
 
 “You’re not actually going to stop me.”
 
@@ -77,6 +147,12 @@ Sera said, “I’m going to make you say out loud why you’re leaving.”
 “Because my father was here.”
 
 “Also true.”
+
+“Because my mother got threatened into silence.”
+
+Sera’s expression changed slightly.
+
+“That one matters.”
 
 “Because everyone knew more about my life than I did.”
 
@@ -106,13 +182,17 @@ Kade turned.
 
 Sera folded her arms.
 
-“I know this one,” she said. “New school. New program. New people. Something goes wrong, and suddenly you were never invested anyway.”
+“I know this one.”
+
+“No, you don’t.”
+
+“New school. New program. New people. Something goes wrong, and suddenly you were never invested anyway.”
 
 “That’s not what this is.”
 
 “Isn’t it?”
 
-He felt anger rise.
+Anger rose faster than thought.
 
 “Don’t psychoanalyze me.”
 
@@ -130,7 +210,7 @@ She shrugged.
 
 Kade waited.
 
-“The second one lasted a month. I left because a counselor lied to me.”
+“The second lasted a month. I left because a counselor lied to me.”
 
 “That sounds reasonable.”
 
@@ -142,13 +222,77 @@ Kade waited.
 
 Kade looked away.
 
-Sera said, “That made leaving hurt. So I made the lie the whole story.”
+Sera continued.
 
-Eli had gone silent.
+“That made leaving hurt. So I made the lie the whole story.”
 
-Sera continued, “Maybe Sen deserves your anger. Maybe Asterion deserves some too. But don’t confuse being angry with being free.”
+Eli had gone quiet.
 
-Kade gripped the bag strap.
+Sera rarely talked about herself longer than a sentence at a time.
+
+Kade said, “Why’d you stop?”
+
+“Stop what?”
+
+“Leaving.”
+
+She considered the question.
+
+“Because I got tired of letting the worst person in every building decide whether I got to keep the good people.”
+
+That landed harder than he wanted.
+
+Sera leaned against the frame.
+
+“And because I want something.”
+
+Kade looked at her.
+
+“What?”
+
+“Disaster Response Corps.”
+
+He blinked.
+
+Sera rarely talked about future plans at all.
+
+“You?”
+
+Her eyes narrowed.
+
+“Careful.”
+
+“I mean—”
+
+“I know what you mean.”
+
+She looked past him toward the window and the training towers beyond it.
+
+“They don’t care where I went to high school. They care whether I can get forty people out of a collapsed building without losing one.”
+
+Kade heard the seriousness under the flat tone.
+
+“That why you know every evacuation route in Meridian?” Eli asked.
+
+Sera looked at him.
+
+“You noticed.”
+
+“I contain multitudes.”
+
+She ignored him.
+
+“My first placement had a kitchen fire. Staff froze. Kids didn’t. I decided I was done being in places where the person with authority was automatically the person everyone expected to know what to do.”
+
+Kade thought about Sen.
+
+About Renn.
+
+About his mother at twenty-four with men in an apartment explaining what questions she was allowed to ask.
+
+Sera said, “Maybe Sen deserves your anger. Maybe Asterion deserves some too. But don’t confuse being angry with being free.”
+
+Kade gripped the strap.
 
 “You think I should just stay?”
 
@@ -164,7 +308,7 @@ Kade sat on the edge of the bed.
 
 The bag remained on his shoulder.
 
-After a while, Eli said, “For the record, if you leave, I’m keeping your desk.”
+Eli said, “For the record, if you leave, I’m keeping your desk.”
 
 Kade looked at him.
 
@@ -176,15 +320,99 @@ Sera’s mouth twitched.
 
 Kade let the bag slide to the floor.
 
-He stayed.
+He did not unpack.
+
+Not yet.
+
+The three of them sat there in a silence that would have felt unbearable six months earlier.
+
+Eventually Eli returned to his stabilization model.
+
+Sera took the chair beside the window and opened a disaster-response tactics manual.
+
+Neither of them watched Kade.
+
+That helped.
+
+After ten minutes, the door opened again.
+
+Mara stood outside.
+
+She looked at the duffel.
+
+Then at Kade.
+
+Then at Sera.
+
+Sera said, “Resolved provisionally.”
+
+Mara nodded.
+
+Kade frowned.
+
+“Do people file reports on my emotions now?”
+
+“Only the dangerous ones,” Mara said.
+
+She stepped inside and handed him a tablet.
+
+On it was a single appointment request.
+
+**DIRECTOR SEN — AVAILABLE AT YOUR DISCRETION**
+
+No order.
+
+No mandatory report time.
+
+Kade stared at it.
+
+“She sent that to you?”
+
+“No. To you. You weren’t checking messages.”
+
+“Why did you bring it?”
+
+“Because you would interpret silence as manipulation and an order as control.”
+
+Kade looked at her.
+
+“That is irritatingly fair.”
+
+Mara’s gaze moved to the bag.
+
+“You leaving?”
+
+Kade looked around the room.
+
+Eli’s ridiculous model.
+
+Sera’s manual.
+
+Mara standing there pretending the answer did not matter to her.
+
+The patched duffel that had once represented everything he needed because he had trained himself not to need much.
+
+“Not today,” he said.
+
+Mara nodded once.
+
+No celebration.
+
+No relief he was required to acknowledge.
+
+She left.
+
+Kade unpacked the first shirt.
+
+Then the second.
 
 Not because he trusted Sen.
 
-Not because Asterion deserved trust.
+Not because Asterion had earned trust.
 
 Because Mara had brought him evidence instead of hiding it.
 
-Because Eli had spent nights building models to help him understand what he could do.
+Because Eli had spent nights building models to understand him and still had ambitions that existed beyond him.
 
 Because Sera had recognized the ugliest version of his habit and refused to let him pretend it was strength.
 
@@ -194,13 +422,12 @@ That was inconvenient.
 
 It was also true.
 
-Kade unpacked the shirts.
+He folded the empty duffel and put it under the bed.
 
-He left the bag beside the bed.
+Not thrown away.
 
-Not put away.
+Not forgotten.
 
-Not yet.
+But no longer packed.
 
-But empty.
-
+For Kade Mercer, that counted as commitment.
