@@ -4,6 +4,10 @@ Kade’s opponent was ranked 2,301.
 
 That number alone made the arena feel larger.
 
+Jonah Pike had posted an open challenge that morning. Open challenges were one of Asterion’s favorite bad ideas: any cleared first-year could accept regardless of rank, but the lower-ranked student gained almost nothing from losing and a great deal from winning.
+
+Kade had accepted it in twelve seconds.
+
 “Why did you challenge him?” Eli asked.
 
 Kade rolled his shoulders.
