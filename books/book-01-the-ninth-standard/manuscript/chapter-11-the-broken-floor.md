@@ -4,35 +4,83 @@ Kade’s opponent was ranked 2,301.
 
 That number alone made the arena feel larger.
 
-Jonah Pike had posted an open challenge that morning. Open challenges were one of Asterion’s favorite bad ideas: any cleared first-year could accept regardless of rank, but the lower-ranked student gained almost nothing from losing and a great deal from winning.
+Jonah Pike had posted an open challenge that morning. Open challenges were one of Asterion’s favorite bad ideas: any cleared first-year could accept regardless of rank, the higher-ranked fighter gained almost nothing from winning, and the lower-ranked fighter gained very little from losing.
 
-Kade had accepted it in twelve seconds.
+But if the lower-ranked fighter won—or even performed far above expectation—the ladder model paid attention.
 
-“Why did you challenge him?” Eli asked.
+Kade had accepted in twelve seconds.
 
-Kade rolled his shoulders.
+Hale had taken eleven minutes to approve it.
 
-“He was available.”
+“Why?” the instructor had asked.
 
-“That is not a strategy.”
+“Because he posted it.”
 
-“He overcommits.”
+“That is not a reason.”
 
-“That is a strategy.”
+“He overcommits his right side.”
 
-Sera, sitting behind them in the prep bay, said, “A bad one if you’re wrong.”
+“That is a reason.”
+
+“He also thinks nobody outside the top three thousand is worth planning for.”
+
+Hale had looked at him.
+
+“That sounds personal.”
+
+“It sounds observable.”
+
+Hale approved the match with a field restriction and enough safety language to qualify as a small novel.
+
+Now Kade sat in the prep bay rolling his shoulders while Eli displayed Pike’s last six fights in miniature above a tablet.
+
+“He has won five,” Eli said.
+
+“I counted.”
+
+“The one loss was to Rank 1,772.”
+
+“I watched it.”
+
+“He hits harder than Shah.”
+
+“I noticed.”
+
+“You say ‘I noticed’ in a way that makes me think you have not emotionally processed the thing you noticed.”
+
+Kade looked at him.
+
+Sera, sitting behind them with her boots on another chair, said, “That was almost insightful.”
+
+Eli brightened.
+
+“Thank you.”
+
+“It was not praise.”
 
 Mara said nothing.
 
-Kade looked at her.
-
-She was watching the opponent warm up through the glass.
+She stood by the glass watching Jonah Pike warm up.
 
 Name: Jonah Pike.
 
-Strong Redirection profile. Moderate Amplification. Fast first step. Heavy right-side preference.
+Rank: #2,301.
 
-“He does overcommit,” Mara said.
+Strong Redirection profile.
+
+Moderate Amplification.
+
+Fast first step.
+
+Heavy right-side preference.
+
+Habit of increasing output when frustrated.
+
+Kade looked at Mara.
+
+“Well?”
+
+“He does overcommit.”
 
 Kade smiled.
 
@@ -40,41 +88,225 @@ Sera pointed at him.
 
 “Do not smile like that. It makes me nervous.”
 
+“I have been practicing.”
+
+“Stop.”
+
+Mara finally turned from the window.
+
+“He is also better than you.”
+
+“Helpful.”
+
+“I am helping.”
+
+“You and Eli have merged.”
+
+Mara ignored that.
+
+“You are accepting an open challenge because his style exposes the exact kind of transfer you keep seeing.”
+
+Kade did not answer.
+
+Eli’s head snapped up.
+
+Sera’s boots came off the chair.
+
+Mara’s expression sharpened.
+
+“You told them?” Kade asked Eli.
+
+“No.”
+
+“I have eyes,” Mara said.
+
+Kade leaned back.
+
+He had told himself the match was about rank.
+
+That was true.
+
+He had told himself Pike’s overcommitment made the fight strategically interesting.
+
+Also true.
+
+He had not admitted the third reason.
+
+Pike generated large, clean transfers.
+
+The kind Kade had begun to recognize around the edge of his awareness.
+
+He wanted to know what would happen if he stood inside one.
+
+Sen had forbidden deliberate attempts to reproduce the Forty-Seven event.
+
+Kade was not planning to reproduce anything.
+
+Technically.
+
+Sera watched his face.
+
+“Kade.”
+
+“I am not trying the wall thing.”
+
+“Good.”
+
+“I am accepting a legal challenge.”
+
+“Those can both be true while you are still being clever in a dangerous direction.”
+
+Kade looked away.
+
 The arena lights shifted.
 
-Kade stepped onto the floor.
+Mara said, “If the cold-line sensation starts, stop.”
 
-The first exchange nearly proved everyone right.
+Kade frowned.
 
-Pike hit him hard enough to spin him halfway around.
+“How do you know about that?”
 
-Kade recovered before falling, but barely.
+“You described it after Shah.”
 
-The second attack came low.
+“I did?”
 
-He checked it.
+“You were medicated.”
 
-Third high.
+“That feels unfair.”
 
-He blocked late.
+“You were very honest.”
+
+Kade decided he did not want to know what else he had said.
+
+Hale’s voice came over the prep speaker.
+
+“Mercer. Arena.”
+
+Kade stood.
+
+Eli held out a fist.
+
+Kade bumped it.
+
+Sera said, “Boring feet.”
+
+Mara said, “Do not chase the first exchange.”
+
+Kade stepped through the barrier.
+
+Jonah Pike waited inside the opposite circle.
+
+Pike was built like an upper-year student who had been accidentally left in the first-year cohort. Broad shoulders. Thick legs. A calm face that suggested he had no urgent reason to prove anything.
+
+That changed when he saw Kade.
+
+“Mercer.”
+
+“Pike.”
+
+“You’re lower than I expected.”
+
+Kade looked up at the rank display.
+
+**MERCER — #8,159**
+
+**PIKE — #2,301**
+
+“Numbers are visible,” Kade said.
 
 Pike smiled.
 
+“I meant in person.”
+
+“That was almost good.”
+
+The barrier sealed.
+
+Hale gave the safety rules.
+
+Field caps.
+
+Controlled strikes.
+
+No head contact.
+
+The same warnings Kade had heard a dozen times.
+
+His heart beat too fast anyway.
+
+He looked at the floor beneath Pike.
+
+Not at Pike.
+
+At what Pike would have to push against in order to move.
+
+The signal turned green.
+
+Pike attacked.
+
+The first exchange nearly proved everyone right.
+
+He hit Kade hard enough to spin him halfway around.
+
+Kade recovered before falling, but barely.
+
+The impact traveled through his shoulder, ribs, hips, then into the floor in a chain Kade could understand only after it had already happened.
+
+Pike did not rush the follow-up.
+
+He walked forward.
+
 “Thought you were faster.”
 
-Kade breathed.
+Kade breathed once through the ache.
 
 “Thought you were quieter.”
 
-Pike came again.
+Pike came low.
 
-This time Kade saw it.
+Kade checked it.
 
-Not the fist.
+High.
 
-Not the foot.
+Blocked late.
 
-The whole sequence.
+The force jarred both arms.
+
+Pike smiled.
+
+He liked control.
+
+That was useful.
+
+Kade circled.
+
+Pike cut him off.
+
+Kade tried the footwork Mara had drilled into him.
+
+Boring feet.
+
+Rear foot later.
+
+Do not cross.
+
+Pike’s next strike missed by centimeters.
+
+Kade felt a flash of satisfaction.
+
+Then Pike’s shoulder caught him and erased it.
+
+Kade slid.
+
+The crowd made the low collective noise people made when a hit landed cleanly.
+
+Kade heard none of the words.
+
+He watched the floor.
+
+Pike attacked again.
+
+This time Kade saw the sequence before the strike existed.
 
 Weight moved.
 
@@ -84,23 +316,73 @@ Shoulder committed.
 
 Force began before impact.
 
+Not magic.
+
+Not even Resonance yet.
+
+A body asking the floor for permission to become dangerous.
+
 Kade shifted inside the line.
 
-For one instant, the arena changed.
+Pike’s fist passed his shoulder.
 
-Not visually.
+Kade touched Pike’s forearm and pivoted away.
 
-In his head.
+No attempt to redirect.
 
-Pike was not separate from the floor.
+No cold line.
+
+Good.
+
+Pike’s eyes narrowed.
+
+“Better.”
+
+“You people keep saying that right before hurting me.”
+
+Pike accelerated.
+
+The floor accepted the load.
+
+Kade saw the support lattice under the mat in his mind because he had studied the arena schematics after Shah’s fight. Structural ribs ran west-east. Dampers sat beneath each third of the floor. The transparent barrier anchored into the same subframe.
+
+He knew that.
+
+He was not supposed to *feel* it.
+
+Yet for one instant, Pike was not separate from the floor.
 
 Neither was Kade.
 
-The mat, the anchors beneath it, the support lattice, the concrete slab—all of it connected.
+Mat.
+
+Anchors.
+
+Support lattice.
+
+Concrete slab.
+
+Barrier.
+
+Bodies.
+
+One connected answer to one physical question.
+
+The cold line formed behind Kade’s eyes.
+
+He should have stopped.
+
+Mara had told him to stop.
+
+Sen had told him not to deliberately reproduce the event.
+
+But Pike’s strike was already coming.
 
 Kade did not think *redirect*.
 
-He thought:
+He did not think *use it*.
+
+He thought only one thing.
 
 *There.*
 
@@ -108,31 +390,43 @@ Pike’s strike landed.
 
 The sound was wrong.
 
-A deep crack ran through the arena floor.
+Not a sharp impact.
 
-The surface dipped beneath them.
+A deep structural report beneath their feet.
+
+The arena floor cracked.
+
+A fracture line ran outward from beneath Kade’s front foot, split around one embedded sensor panel, then continued to the western edge of the ring.
+
+The surface dipped by several centimeters.
 
 Pike stumbled backward.
 
 Kade froze.
 
-A red safety field flashed across the ring.
+Red safety fields flashed around them.
 
 **MATCH SUSPENDED**
 
-Silence spread through the stands.
+Silence moved through the stands.
 
-Then everyone started talking at once.
+Then everyone spoke at once.
 
 Kade looked down.
 
-A fracture line ran from beneath his front foot to the western edge of the arena.
+He had not struck the floor.
 
-He had not hit the floor.
+Pike had not struck the floor.
 
-Neither had Pike.
+The energy had gone there anyway.
 
-Instructor Hale entered at a run.
+The cold line behind Kade’s eyes became heat.
+
+Then pain.
+
+His hands began to shake.
+
+Hale entered the ring at a run.
 
 “Both of you stay still.”
 
@@ -140,15 +434,25 @@ Instructor Hale entered at a run.
 
 “That was not a request.”
 
+Kade tried to say the same thing.
+
+His tongue felt half a beat late.
+
+He decided not to.
+
 Dr. Park appeared seconds later with two technicians.
 
-Kade felt the headache beginning before she asked.
+She looked first at Kade’s face.
 
 “Symptoms?”
 
 “Pressure.”
 
-“Hands?”
+“Scale.”
+
+“Five.”
+
+“Hands.”
 
 He held them out.
 
@@ -158,13 +462,21 @@ Park’s expression tightened.
 
 Sen arrived last.
 
-Kade had seen her angry before.
+Kade had seen her angry.
 
 This was different.
 
 Focused.
 
-She looked at the crack, then at Kade, then at the sensor data.
+The way Elena looked at an emergency-room monitor when something did not fit the story a patient had told.
+
+Sen looked at the crack.
+
+Then Pike.
+
+Then Kade.
+
+Then the sensor feed.
 
 “What did you do?” she asked.
 
@@ -172,11 +484,23 @@ Kade swallowed.
 
 “I don’t know.”
 
-Pike laughed once, without humor.
+Pike laughed once without humor.
 
 “Good answer.”
 
-The arena was cleared.
+Hale turned toward him.
+
+“Pike.”
+
+“What? I hit him. The building lost.”
+
+The stands were evacuated.
+
+That alone guaranteed the video would spread.
+
+Asterion students could smell forbidden information through concrete.
+
+---
 
 Kade spent two hours in medical testing.
 
@@ -184,11 +508,39 @@ No structural injury.
 
 No abnormal Conduit discharge.
 
-No measurable Resonant output that explained anything.
+No measurable Resonant output sufficient to explain the floor.
 
 Again.
 
-When he finally returned to Meridian, the video had already escaped containment.
+Park made him repeat memory tests until he could recite the day, time, room number, match opponent, and last five meals with insulting accuracy.
+
+“Tuesday dinner was noodles,” Kade said.
+
+“It was rice.”
+
+“No, that was Monday.”
+
+Park checked the record.
+
+Then frowned.
+
+Kade smiled.
+
+“Victory.”
+
+“Do not become smug about orientation testing.”
+
+“I take wins where I can find them.”
+
+The tremor faded more slowly than after the Shah fight.
+
+That concerned Park.
+
+It concerned Kade too.
+
+He did not make that part into a joke.
+
+When he finally returned to Meridian, the video had escaped containment exactly as expected.
 
 Eli met him at the elevator.
 
@@ -214,71 +566,167 @@ Eli grinned.
 
 “Too late.”
 
-Mara waited inside their common room.
+Kade started walking.
 
-She looked at Kade’s hands.
+“How many views?”
+
+Eli’s grin weakened.
+
+“Internal or external?”
+
+Kade stopped again.
+
+“External?”
+
+“Clips escaped.”
+
+“Of course they did.”
+
+“The official footage is gone, but—”
+
+“Someone filmed a screen.”
+
+“Several someones.”
+
+Kade rubbed one temple.
+
+“Human progress.”
+
+Mara waited in the Meridian common room.
+
+She looked at his hands before his face.
 
 “Still shaking?”
 
 “A little.”
 
-“You scared?”
+“You were supposed to stop.”
 
-He almost answered automatically.
+Kade sat.
 
-No.
+“I did not choose it.”
 
-Instead he sat down.
+Mara’s jaw tightened.
 
-“Yes.”
+“That is not the same thing as being unable to avoid the conditions.”
 
-Mara nodded.
+He looked at her.
 
-No pity.
+She was angry.
 
-That helped.
+Not because he had ignored her.
 
-“What did it feel like?” she asked.
+Because she had been worried.
+
+That realization felt too intimate, so Kade focused on the table.
+
+“I know.”
+
+Mara’s expression shifted slightly.
+
+“You know?”
+
+“I should have backed off when I felt it.”
+
+She stared at him for a second.
+
+Then sat across from him.
+
+“That may be the most responsible thing you have ever said.”
+
+“Do not tell anybody.”
+
+Eli dropped into the chair beside Kade.
+
+“What did it feel like?”
 
 Kade closed his eyes.
 
+He considered lying.
+
+The people around the table had earned better.
+
 “Like the arena was one thing.”
 
-“Meaning?”
+“Meaning?” Mara asked.
 
-“Like the boundaries were optional.”
+“Pike wasn’t separate from the floor. I wasn’t separate from the floor. The mat, anchors, support lattice, barrier—none of it felt like separate objects.”
 
 Eli stopped moving.
 
-Mara’s expression sharpened.
+“Felt?”
+
+“Not through the Conduit.”
+
+“How?”
+
+“I don’t know.”
 
 Kade opened his eyes.
 
-“That sounded strange.”
+“The boundaries felt optional.”
 
-“It did,” Mara said.
+Mara’s expression sharpened.
 
-Sera entered carrying food.
+Eli whispered, “That is an alarming sentence.”
+
+Sera entered carrying a paper bag of food.
 
 “What did I miss?”
 
 Eli pointed at Kade.
 
-“He casually redefined matter.”
+“He casually redefined reality.”
 
 “I did not.”
 
-“Good. We’re all calm then.”
+“Good. We’re calm then.”
 
-Kade rubbed his temples.
+Sera handed Kade the bag.
+
+“Eat.”
+
+“I ate at medical.”
+
+“What?”
+
+“Protein bar.”
+
+“That is not food.”
+
+“Technically—” Eli began.
+
+Sera looked at him.
+
+Eli stopped.
+
+Kade opened the bag.
+
+Inside was a sandwich, fruit, and one of the pastries Eli liked.
+
+“You stole his pastry.”
+
+“I bought it.”
+
+“Less likely.”
+
+Sera sat.
+
+For ten minutes, nobody asked Kade about physics.
+
+They argued about the Mercer Fault name instead.
+
+Kade lost four to one.
+
+That ordinary argument helped more than Park’s scan results.
 
 His tablet chimed.
 
-A priority message.
+A priority message appeared.
 
 **DIRECTOR SEN — PRIVATE CONFERENCE — 20:00**
 
-He looked at the time.
+Kade looked at the clock.
 
 19:42.
 
@@ -292,7 +740,7 @@ Mara said, “Kade.”
 
 He looked back.
 
-“Whatever she tells you,” Mara said, “ask what she isn’t telling you.”
+“Whatever she tells you, ask what she isn’t telling you.”
 
 He smiled faintly.
 
@@ -302,15 +750,19 @@ He smiled faintly.
 
 “Recovered.”
 
-At 20:00, Kade entered Sen’s office.
+---
 
-The cracked-floor footage was already on the wall.
+At exactly twenty hundred, Kade entered Sen’s office.
+
+The cracked-floor footage covered one wall.
 
 Sen stood beneath it.
 
-This time there was no Dr. Park.
+No Park.
 
 No Hale.
+
+No tea.
 
 Just Sen.
 
@@ -320,20 +772,68 @@ Kade sat.
 
 “Tell me exactly what you perceived,” she said.
 
-Kade did.
+He did.
+
+This time he left nothing out.
+
+The way Pike’s weight became part of the floor before the strike.
+
+The support lattice he knew was there without seeing it.
+
+The moment separate objects stopped feeling separate.
+
+The cold line.
+
+The thought—*there*—that had not felt like an instruction so much as a selection.
 
 When he finished, Sen remained silent for a long time.
 
-Then she said two words he had never heard before.
+Kade waited.
 
-“Boundary architecture.”
+He was learning that silence could be useful if he did not rush to fill it.
 
-Kade stared at her.
+Finally Sen said, “You need a vocabulary before you accidentally invent the wrong one.”
 
-“What is that?”
+Kade leaned forward.
 
-Sen looked at the frozen image of the fracture line.
+“That sounds promising.”
+
+“It is not.”
+
+“Recovered.”
+
+Sen looked at the frozen fracture line.
 
 Then back at him.
 
+“Boundary architecture.”
+
+The two words seemed too ordinary for how carefully she said them.
+
+Kade stared.
+
+“What is that?”
+
+Sen’s eyes stayed on him.
+
 “Something we need to discuss very carefully.”
+
+Kade heard Mara’s voice in his head.
+
+*Ask what she isn’t telling you.*
+
+He looked at Sen.
+
+“You already had a name for it.”
+
+Sen did not answer.
+
+Kade’s stomach tightened.
+
+The floor had cracked less than four hours ago.
+
+Sen had not invented those words tonight.
+
+Whatever Boundary architecture was, Asterion had known enough about it to name it before Kade Mercer ever arrived.
+
+And that was the first thing Sen did not tell him.
