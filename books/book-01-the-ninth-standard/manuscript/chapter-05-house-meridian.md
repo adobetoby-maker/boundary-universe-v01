@@ -8,9 +8,9 @@ Not a notification tone.
 
 A bell.
 
-An enormous bronze one hung over the entrance courtyard, suspended from a black frame three stories tall.
+An enormous bronze one hung over the entrance courtyard, suspended from a black steel frame three stories tall. Its surface had been polished where generations of students had apparently climbed things they were not supposed to climb and touched it for luck.
 
-Kade stood beneath it with his duffel bag over one shoulder and stared upward.
+Kade stood beneath it with his duffel over one shoulder and stared upward.
 
 Enrollment Officer Cole had given him exactly one useful fact about the bell.
 
@@ -22,7 +22,9 @@ Cole had kept walking.
 
 Kade had decided that was probably an answer.
 
-The House itself occupied three connected residence towers around a central courtyard. Blue banners hung from balconies. Students crossed open walkways overhead. Someone on the fourth floor had stretched a handwritten sign between two windows.
+House Meridian occupied three residence towers joined around a central courtyard. Blue banners hung from open walkways. Students crossed bridges overhead. The lower levels held classrooms, common rooms, a dining hall, training bays, and enough glass to make Kade wonder whether privacy had been ranked and eliminated.
+
+Someone on the fourth floor had stretched a handwritten sign between two windows.
 
 **WELCOME BACK, MEDIOCRITY**
 
@@ -34,17 +36,17 @@ Kade liked the place immediately.
 
 That concerned him.
 
-A boy burst through the main doors carrying three tablets, a tool case, a half-eaten pastry, and what appeared to be an entire dismantled drone.
+A boy burst through the main doors carrying three tablets, a tool case, half a pastry, and what appeared to be an entire dismantled drone.
 
 He collided with Kade.
 
-The drone pieces launched into the air.
+The drone parts launched into the air.
 
 Kade caught one.
 
 The boy caught none.
 
-Metal and polymer scattered across the stone.
+Metal and polymer scattered over the stone.
 
 The pastry survived.
 
@@ -58,7 +60,7 @@ Kade held up the component he had caught.
 
 The boy blinked at him.
 
-Then at Kade’s duffel.
+Then at the duffel.
 
 Then at Kade’s face.
 
@@ -94,9 +96,9 @@ The boy pointed at himself proudly.
 
 “That’s an optimistic interpretation.”
 
-“It’s the only kind worth having.”
+“It is the only kind worth having.”
 
-Eli crouched and began gathering drone parts.
+Eli crouched and started gathering drone parts.
 
 Kade set down his bag and helped.
 
@@ -104,7 +106,7 @@ Kade set down his bag and helped.
 
 “Nothing.”
 
-Kade held up a broken rotor assembly.
+Kade held up a rotor with one blade missing.
 
 “This looks like something.”
 
@@ -122,6 +124,8 @@ Eli took the broken rotor.
 
 Kade laughed.
 
+The sound surprised him.
+
 A girl’s voice came from behind them.
 
 “Navarro, please tell me you did not crash another machine into the east stairwell.”
@@ -132,7 +136,7 @@ He whispered, “Be calm.”
 
 Kade looked over his shoulder.
 
-The girl approaching them wore training black rather than standard academy blue. She was tall, dark-haired, and moved with the controlled economy of someone who never needed to hurry because other people would eventually get out of her way.
+The girl approaching them wore training black rather than academy blue. Tall. Dark-haired. Controlled in the way some people were fast: not because they rushed, but because they wasted nothing.
 
 Kade recognized her from the rankings.
 
@@ -148,7 +152,7 @@ It stopped.
 
 He could almost see the calculation.
 
-“Mercer,” she said.
+“Mercer.”
 
 “Vey.”
 
@@ -226,7 +230,7 @@ Eli went pale.
 
 “Right.”
 
-He gathered the last pieces and hurried inside.
+He gathered the last components and hurried inside.
 
 Kade picked up his duffel.
 
@@ -240,17 +244,25 @@ Mara nodded toward the doors.
 
 “It was informational.”
 
-Kade followed her inside.
+“People here keep saying that.”
 
-House Meridian’s lobby looked less expensive than his temporary residence and far more lived in.
+“Perhaps you find information threatening.”
 
-Old competition banners covered one wall. Students had written names and dates directly onto several of them. A long table near the entrance had been repaired so many times that none of the legs matched. A bulletin board advertised tutoring, sparring partners, instrument groups, debate night, three different running clubs, and something called **Unauthorized Astronomy — Officially Authorized This Year**.
+Kade looked at her.
 
-A large digital board showed House standings.
+Mara kept walking.
+
+He followed.
+
+House Meridian’s lobby looked less expensive than his temporary residence and far more alive.
+
+Old competition banners covered one wall. Students had written names and dates directly onto several. A long table near the entrance had been repaired so often that none of its legs matched. One sofa had a patch shaped like a continent. The bulletin board advertised tutoring, sparring partners, instrument groups, debate night, three running clubs, and something called **UNAUTHORIZED ASTRONOMY — OFFICIALLY AUTHORIZED THIS YEAR**.
+
+A digital board displayed House standings.
 
 Meridian sat twelfth of twenty Houses.
 
-Below it, somebody had taped a paper sign.
+Below it someone had taped a paper sign.
 
 **TOP HALF ADJACENT**
 
@@ -266,7 +278,7 @@ Mara noticed.
 
 “Maybe I was recruited for culture.”
 
-This time she did smile.
+This time she smiled.
 
 Very briefly.
 
@@ -274,13 +286,11 @@ Kade counted it.
 
 A woman came down the central stairs.
 
-Nineteen, maybe twenty. Short dark hair. A narrow scar crossed one eyebrow. Tattoos disappeared beneath the sleeves of a plain gray shirt.
-
-She wore no visible ranking badge.
+Nineteen, maybe twenty. Short dark hair. A narrow scar crossed one eyebrow. Tattoos disappeared beneath the sleeves of a plain gray shirt. She wore no visible ranking badge.
 
 She did not need one.
 
-The lobby became quieter around her.
+The lobby became quieter around her without anyone quite admitting it had.
 
 “Sera,” Mara said.
 
@@ -296,11 +306,11 @@ Kade’s grip tightened.
 
 Before he could answer, Sera took one handle.
 
-“This thing’s going to tear.”
+“This thing is going to tear.”
 
 “I can carry it.”
 
-“I didn’t say you couldn’t.”
+“I did not say you couldn’t.”
 
 She took half the weight anyway.
 
@@ -330,7 +340,7 @@ Mara went the other direction without saying goodbye.
 
 In the elevator, Sera pressed eight.
 
-“You went to alternative school,” she said.
+“You went to alternative school.”
 
 Kade glanced at her.
 
@@ -362,15 +372,31 @@ He followed.
 
 “No.”
 
-She stopped outside a room.
+She stopped outside room 814.
 
-814.
+Kade shifted the weight of the bag.
 
-Sera handed back his half of the bag.
+“Why’d you end up here?”
+
+Sera’s face did something complicated and then settled.
+
+“Because being bad at one system turned out not to mean I was bad at everything.”
+
+The sentence hit too close.
+
+Kade looked away.
+
+Sera gave the bag back.
 
 “People here will call you lucky.”
 
-Kade frowned.
+“I am lucky.”
+
+“That is not the same thing as owing them shame.”
+
+Kade looked at her.
+
+She continued.
 
 “They’ll say you skipped lines. They’ll say somebody made a political decision. They’ll say Zero got you a place they trained years to earn.”
 
@@ -378,17 +404,29 @@ Kade frowned.
 
 “No. It seems predictable.”
 
-She looked at him.
+“What’s the difference?”
 
-“Those are not the same thing.”
+“Whether it is true.”
 
-Kade said nothing.
-
-Sera nodded at the door.
+She nodded toward his door.
 
 “You don’t owe anyone shame for arriving by a different road.”
 
-Then she walked away.
+Kade said nothing.
+
+Sera started away.
+
+“Vale.”
+
+She looked back.
+
+“What’s your rank?”
+
+Her mouth tilted.
+
+“High enough not to tell you.”
+
+Then she left.
 
 Kade stood still for a moment.
 
@@ -398,11 +436,9 @@ They complicated things.
 
 Room 814 contained two beds, two desks, and approximately one hundred twenty-seven percent too much Eli Navarro.
 
-Equipment covered every flat surface.
+Equipment covered every available surface. A half-built sensor rig occupied one desk. Two disassembled training gauntlets sat on the floor. A projection of an energy-transfer model rotated above the other bed. The wall panel near the window was open.
 
-A half-built sensor rig occupied one desk. Two disassembled training gauntlets sat on the floor. A projection of an energy-transfer model rotated above the other bed.
-
-Eli looked up from inside an open wall panel.
+Eli looked up from inside it.
 
 “Good news.”
 
@@ -424,7 +460,31 @@ Kade put his bag on the empty bed.
 
 Eli grinned.
 
-By dinner, Kade had learned six things about House Meridian.
+“You have no idea how many people tried to switch into this room after your assignment posted.”
+
+Kade stopped unpacking.
+
+“How many?”
+
+“Seventeen requests before housing locked the form.”
+
+“Why?”
+
+Eli looked at him as though the answer were obvious.
+
+“Because you are the most interesting person in the incoming class.”
+
+“I am literally last.”
+
+“Those things are unrelated.”
+
+Kade stared at him.
+
+Eli returned to the wall.
+
+The sentence lodged somewhere unpleasantly useful.
+
+By dinner Kade had learned seven things about House Meridian.
 
 First: everybody knew everybody’s rank.
 
@@ -436,13 +496,19 @@ Fourth: the best tables were not claimed by rank but by arrival time, which caus
 
 Fifth: Meridian students considered being twelfth an institutional injustice while simultaneously making jokes about being twelfth.
 
-Sixth: nobody let Kade eat quietly.
+Sixth: the House bell had not rung in a major trial in fourteen months, a number students quoted with the wounded precision of historical scholars.
+
+Seventh: nobody let Kade eat quietly.
 
 A first-year named Anton asked whether Zero Protocol gave him classified powers.
 
 A girl named Nessa asked whether government agents really escorted him.
 
-Someone else wanted to know if his father was famous.
+Someone asked whether the national network had shut down because he hacked it.
+
+Another wanted to know why he had attended Northline.
+
+Then somebody Kade did not know asked, “Your dad Resonant too?”
 
 Kade’s fork stopped halfway to his mouth.
 
@@ -450,7 +516,7 @@ Kade’s fork stopped halfway to his mouth.
 
 The answer came too fast.
 
-Sera, sitting two places away, noticed.
+Sera, two seats away, noticed.
 
 Nobody else did.
 
@@ -458,11 +524,13 @@ Eli changed the subject by announcing that the potatoes had an unacceptable stru
 
 It worked.
 
-Across the hall, a cheer rose.
+Kade looked at him.
 
-Kade turned.
+Eli continued complaining about potato engineering with no sign he expected thanks.
 
-A massive display above the dining room switched to an arena feed.
+Across the dining hall, a cheer rose.
+
+A massive display above the far wall switched to an arena feed.
 
 Two upperclassmen stood inside a white combat circle.
 
@@ -472,7 +540,7 @@ Names appeared.
 
 **KESSLER, TOMAS — YEAR 4 — STANDARD SIX**
 
-The room’s conversations faded.
+Conversations faded.
 
 Even Mara, three tables away, turned to watch.
 
@@ -480,11 +548,7 @@ Kade had seen Standard Six bouts online.
 
 This feed was internal.
 
-No commentary.
-
-No edited angles.
-
-Just a wide view of the arena.
+No commentators explaining what viewers were supposed to admire. No edited angles. Just a broad view of the arena and two students capable of treating ordinary physics as a negotiation.
 
 The signal sounded.
 
@@ -506,7 +570,7 @@ Changed.
 
 She flew sideways.
 
-Her body rotated in the air, feet touching the wall for less than a second before she pushed off.
+Her body rotated in the air, boots touching the wall for less than a second before she pushed off.
 
 The wall bowed.
 
@@ -514,7 +578,7 @@ The energy went somewhere.
 
 Kade leaned forward.
 
-The dining hall disappeared around him.
+The dining hall disappeared.
 
 Dai struck.
 
@@ -528,7 +592,7 @@ Not the field.
 
 Not Resonance itself.
 
-The relationships.
+Relationships.
 
 Force entering one system and leaving through another.
 
@@ -536,9 +600,9 @@ The same hidden question.
 
 Where did the thing end?
 
-His headache returned.
+The pressure behind his eyes returned.
 
-He pressed two fingers to his temple.
+He pressed two fingers to one temple.
 
 Mara appeared beside the table.
 
@@ -564,7 +628,7 @@ Dai attacked again.
 
 Kessler redirected.
 
-The force traveled through the floor.
+The force traveled through the floor, then into a barrier brace that flexed just enough to bleed the transfer away.
 
 Kade could almost feel the path without feeling the field itself.
 
@@ -574,7 +638,9 @@ Mara’s expression changed.
 
 “What does that mean?”
 
-Kade shook his head.
+Kade blinked.
+
+The dining hall returned around him.
 
 “Nothing.”
 
@@ -590,15 +656,21 @@ Kade stared.
 
 Eli looked delighted.
 
-“Oh, she’s going to be very good for you.”
+“Oh, she is going to be very good for you.”
 
-“Please eat your unstable potatoes.”
+“Please eat your structurally unacceptable potatoes.”
 
 The match ended with Dai pinned against a barrier by her own redirected acceleration.
 
 The dining hall erupted.
 
-Kade sat back.
+Students argued instantly about whether she had committed too much force to the second exchange. Numbers and Standard terms flew across the table.
+
+Kade listened.
+
+For once, he did not mind being the least informed person in the conversation.
+
+It meant there was something to learn.
 
 His phone vibrated.
 
@@ -606,33 +678,33 @@ A message from an unknown campus account.
 
 **TAREN HOLT — #34**
 
-**You’re Mercer. Come to Meridian roof after dinner. I’ll explain why half the school already hates you and why the other half wants to buy you lunch.**
+**You’re Mercer. Meridian roof after dinner. I’ll explain why half the school already hates you and why the other half wants to buy you lunch.**
 
 A second message followed.
 
 **Do not accept the lunch. There is always a catch.**
 
-Kade looked around.
+Kade looked around the dining hall.
 
-At ten thousand students who knew their place down to the number.
+At thousands of students who understood their place down to a number.
 
-At Mara Vey, number seven, studying him like a problem.
+At Mara Vey, number seven, watching him like a problem worth solving.
 
-At Eli, number eight thousand nine hundred eleven, trying to determine whether potatoes could fail engineering standards.
+At Eli, number eight thousand nine hundred eleven, who had apparently decided friendship could begin with a broken drone and require no paperwork.
 
-At Sera, whose rank Kade still did not know.
+At Sera, whose rank he still did not know and whose advice he already resented for being useful.
 
-At the arena feed replaying impossible physics.
+At an arena replay showing impossible physics frame by frame.
 
-For the first time since Northline, Kade felt something unfamiliar.
-
-Not belonging.
+The feeling that came was not belonging.
 
 Not yet.
 
+It was smaller and more dangerous.
+
 Possibility.
 
-He looked at the old Meridian banner hanging over the dining hall.
+Kade looked toward the old Meridian banner hanging above the dining hall.
 
 Then at the ranking board.
 
@@ -640,6 +712,8 @@ Then at the ranking board.
 
 Last place.
 
-Kade smiled.
+He smiled.
 
-He was beginning to think last place might be an interesting place to start.
+Last place was beginning to look less like an ending.
+
+It looked like a coordinate.
