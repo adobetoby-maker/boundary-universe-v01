@@ -1,0 +1,4 @@
+# Rendered audio is reproducible from the SSML — keep it out of git.
+*.mp3
+parts/
+_body.json
