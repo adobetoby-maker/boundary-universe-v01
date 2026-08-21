@@ -1,129 +1,106 @@
 # STATE LEDGER — BOOK 1
 
-Update after every completed chapter.
-
-## Current writing position
-- Working manuscript now drafted through **Chapter 17 — Home**.
-- Chapters 1–17 constitute the first-half working draft.
-- Next planned chapter: **Chapter 18 — The Vey Problem**.
+## Manuscript status
+- Rapid working draft complete through **Chapter 33 — First Day**.
+- Book 1 structural draft is complete.
+- Next phase: full polish/expansion pass toward ~187,000 words and ~20-hour audio target.
 - Family-clean rule remains LOCKED.
 
-## Kade Mercer
+## Kade Mercer — end of Book 1
 - Age: 17.
-- Location after Chapter 17: returning from Northline to Asterion.
-- Rank: **1,904 / 10,482** after House Trial recalculation.
-- Standard: unclassified / no confirmed public Standard.
-- Conventional measured field output: 0.00 at baseline.
-- Physical state: no lasting injury; meaningful Boundary events cause headache, tremor and transient neurologic symptoms.
-- Knows: `000` is a restricted protocol/routing result; valid historical precedent exists roughly three decades earlier; Sen calls his anomaly `Boundary architecture`; Sen is withholding/lying about historical context.
-- Does not know: Aaron Mercer is the prior Zero-linked case; true Boundary cosmology; purpose of the Refuge Node; full reason Sen protects/restricts him.
-- Believes publicly that Aaron died in an industrial accident.
-- Ability evidence: intuitively models transfers/system boundaries; redirected Priya Shah's momentum; later caused a major force transfer into arena structure, cracking the floor without measurable conventional output.
-- Emotional trajectory through Ch. 17: preemptive detachment → genuine effort → last-place humiliation → determination → accepting instruction → team trust → allowing success to matter → integrating Northline and Asterion as parts of his identity.
+- Location: Asterion Academy.
+- Rank: **#37** at new-semester reset.
+- Standard: publicly displayed as **IX** after stable Consensus event.
+- Conventional measured field output remains atypical/near-zero compared with ordinary Resonants.
+- Physical cost of Boundary events: headache, tremor, transient neurologic strain; large-scale Consensus requires shared load and cannot be treated as cost-free.
+- Knows: Zero Protocol is tied to old precursor/Consensus research; Aaron Mercer was the hidden twelfth Standard Eight; Contact Zero was nonhuman first contact; Resonance was learned from a damaged nonhuman Refuge Node; academy institutions have a hidden strategic/selection role; stable Consensus can join multiple people without erasing individual agency.
+- Does not know: full origin/motivation of the Quieters; full history of the Severance; what the returned coordinates/countdown ultimately mean.
+- Aaron status: alive, medically fragile, partially freed from carrying containment alone.
+- Emotional arc complete for Book 1: preemptive detachment → genuine effort → humiliation → earned competence → belonging → betrayal/grief → voluntary trust. Final image: Kade no longer looks for the exit.
 
 ## Elena Mercer
 - Kade's mother; emergency-department nurse at St. Vincent Medical.
-- Practical, protective, direct.
-- Recognizes and challenges Kade's preemptive rejection behavior.
-- Relationship with Kade is strained by history but loving and increasingly candid.
+- Revealed that Aaron worked at Asterion and that she herself received incomplete/false information after his disappearance.
+- Relationship with Kade ends Book 1 more candid and trusting, though family history remains unresolved.
 
-## Northline
-- Forty-two students across six classrooms in repurposed county records building.
-- Kade now explicitly treats Northline as home, even if he resists saying so.
-- Kade has invited Northline students to a future Asterion exhibition.
+## Mara Vey
+- Entry rank #7; end-of-book rank **#4**.
+- Arc: skepticism → technical respect → tactical trust → investigative ally → emotionally significant partner-in-progress.
+- Attraction with Kade remains acknowledged/subtextual and family-clean; no melodramatic relationship resolution.
+- Independently discovers Aaron's precursor connection and confronts family secrecy.
+- Participates voluntarily in first stable Consensus network.
 
-### Darius Bell
-- Age 16.
-- Teasing, confrontational friendship with Kade.
-- Remains an emotional tether to Kade's pre-Asterion life.
+## Eli Navarro
+- Entry rank #8,911.
+- Kade's roommate, tactical analyst, engineer, and first uncomplicated Asterion friend.
+- Apparent death in Lab Six is a seeded protective deception (Ghost Protocol), not supernatural resurrection.
+- Survives Book 1 and becomes central to the technical interpretation of Consensus and the escaped signal.
 
-### Ms. Alvarez
-- Trusted Northline teacher/mentor.
-- `Try` remains a major emotional trigger.
-- In Chapter 17 apologizes for previously assuming Kade could solve his problems simply by fitting systems better.
-
-## Asterion / House Meridian
-- House Meridian wins the House Trial Final.
-- Team identity is now emotionally important to Kade.
-- Thematically, Meridian succeeds because Kade's strategy empowers others and survives his elimination.
-
-### Eli Navarro
-- Rank introduced #8,911; current exact rank not fixed after House Trial.
-- Kade's roommate and first uncomplicated Asterion friend.
-- Engineering/tactical competence established through opponent model, relay control and House Trial systems work.
-- Needs deeper personal stakes seeded before Lab Six apparent death.
-
-### Mara Vey
-- Rank #7 at entry.
-- Technical peer/rival; skepticism has become respect and tactical trust.
-- Tutors Kade in notation; accepts his critique of coupled-system modeling.
-- Explicitly trusts Kade's House Trial calls.
-- Attraction remains subtextual and family-clean; rivalry/respect is primary.
-- Next arc: investigative agency through father/family in Chapter 18.
-
-### Sera Vale
+## Sera Vale
 - Age 19; alternative-school background.
-- Older-sibling/mentor role; calls out Kade's defensive patterns.
-- Needs an independent ambition/fear established in second half.
+- Arc: older-sibling/mentor figure → independent protector/evacuation leader during siege.
+- Calls out Kade's preemptive abandonment and later helps anchor Meridian under real danger.
+- Relationship to Lt. Cmdr. Nia Vale remains OPEN; no canon relation established.
 
-### Taren Holt
-- Rank #34 at entry.
-- Social interpreter and genuine Meridian teammate.
-- Has unusually good opponent/campus information.
-- SECRET: original interest tied to observation assignment.
-- Friendship must remain genuine despite later betrayal.
+## Taren Holt
+- Entry rank #34.
+- SECRET/REVEALED: original relationship with Kade began as a Continuity Directorate observation assignment.
+- Friendship became genuine; betrayal remains real and consequential.
+- Helps the group escape the archive and later opens the route to Sublevel Nine.
+- Ends Book 1 under restricted/investigative status at Asterion; not forgiven, not discarded.
 
-### Julian Cross
-- Rank #1.
-- Introduced directly in Chapter 9 as courteous rather than stereotypical antagonist.
-- Privately trains Kade in Chapter 13 and repeatedly beats him.
-- Teaches Kade to plan beyond immediate improvisation.
+## Julian Cross
+- Rank #1 throughout Book 1.
+- Arc: apparent privileged rival → honorable peer/mentor → calm field leader during siege.
+- Helps teach Kade that rare architecture is not mastery.
+- Participates voluntarily in Consensus.
 
-## Faculty / authority
-
-### Dr. Amara Sen
+## Dr. Amara Sen
 - Director of Asterion; Standard Eight.
-- Restricts Kade after Forty-Seven Second anomaly for safety/concealment reasons.
-- Names `Boundary architecture` after broken-floor event.
-- Deliberately lies/evades about prior historical examples and about knowing Aaron Mercer.
-- Her actions must remain defensible in hindsight, not merely secretive for plot convenience.
+- Knew Aaron Mercer and Contact Zero history.
+- Suppression Order revealed as concealment/safety protocol rather than an attempt to stunt Kade.
+- Uses secrecy in ways that remain morally contestable; Book 1 does not absolve her.
+- Helps activate Ghost Protocol and protect Eli.
 
-### Dr. Lian Park
-- Testing physician-scientist; monitors Kade's neurological symptoms.
+## Aaron Mercer
+- Public status through most of Book 1: dead.
+- True status: alive in Sublevel Nine containment complex.
+- Historical role: Zero candidate, hidden twelfth Standard Eight, early Consensus/precursor subject, opponent of weaponization.
+- Spent ~17 years helping suppress Refuge Node signal/containment.
+- Relationship with Kade ends Book 1 unresolved and difficult, not repaired.
 
-### David Renn
-- International Resonance Authority official; presents Zero Protocol as restricted failsafe/routing mechanism.
+## Asterion / hidden history
+- Contact Zero: damaged nonhuman artificial object discovered ~31 years before Book 1.
+- Public Resonance history is incomplete; human Resonance science derived from studying Contact Zero emissions.
+- Refuge Node was hiding and suppressing/distorting its own signal.
+- Continuity Directorate represents centralized-control/weaponization faction.
+- Asterion is both real school and strategic research/training infrastructure.
+- Competitive rankings also function as high-resolution observation/selection architecture.
 
-### Lieutenant Commander Nia Vale
-- Federal Resonance Security.
-- Partial-truth source on Zero history.
-- Relationship to Sera remains OPEN; do not imply one accidentally.
+## Consensus / Standard Nine
+- Standard Nine is not simply greater individual power.
+- Stable Consensus joins multiple consenting people as a shared boundary-control system while preserving agency.
+- Kade cannot command it by force; participation/permission is structurally important.
+- First stable Book 1 network includes Kade, Mara, Eli, Sera, Julian, and Taren, with Sen/Aaron supporting the containment context.
+- The system works because different participants retain distinct functions rather than being flattened into one mind.
 
-## Rank progression — Kade
-- Ch. 4: 10,482 / 10,482.
-- Ch. 8: 8,971 after lower-ladder climb.
-- Ch. 9: 8,159.
-- Ch. 11: accepts Jonah Pike's open challenge (#2,301), resolving normal challenge-band issue.
-- Ch. 15: House Trial recalculation to **1,904**.
-- Requirement: advancement should slow substantially after this point.
+## End-of-book signal
+- A 0.83-second transmission escapes before containment is restored.
+- Lunar far-side detection receives a response: coordinates plus a countdown.
+- New-semester public display is overridden by the same coordinates/countdown.
+- Exact meaning remains OPEN for Book 2.
 
-## Known public/campus events
-- Zero result and testing shutdown attract online attention.
-- Kade baselines last in incoming cohort.
-- Forty-Seven Second Fight becomes restricted-review phenomenon.
-- Broken-floor event becomes known informally as `Mercer Fault`.
-- Meridian wins House Trial; Kade becomes briefly campus/nationally famous.
+## Kade rank progression (working draft)
+- Ch. 4: #10,482 / 10,482.
+- Ch. 8: #8,971.
+- Ch. 9: #8,159.
+- Ch. 15: #1,904 after House Trial.
+- Ch. 22: #211 after Midyear Open / Mara loss recalculation.
+- Ch. 33: #37 at new-semester reset.
+- Polish requirement: verify every intermediate rank jump and ensure the second-half progression feels slower/earned.
 
-## Open mystery promises
-- Exact origin and meaning of Zero Protocol.
-- Identity of prior valid Zero case.
-- Why hidden REDEFINE diagnostic remains in public exam.
-- Why Kade has zero ordinary output but can alter transfer resolution.
-- What Sen knows and why she knew the term Boundary architecture.
-- Aaron Mercer's hidden Asterion history.
-- Purpose of academy ranking/competition beyond public training/sport.
-- Nature of Refuge Node / larger threat.
-
-## First-half continuity status
-- Full editorial audit: `FIRST_HALF_AUDIT.md`.
-- No structural rewrite required before Chapter 18.
+## Book 2 bridge
+- International academy expansion remains planned.
+- Second Zero candidate remains OPEN.
+- Countdown/coordinates create first-contact pressure.
+- Kade enters Book 2 famous, politically significant, but still beatable one-on-one and dependent on consent/cooperation for Consensus.
