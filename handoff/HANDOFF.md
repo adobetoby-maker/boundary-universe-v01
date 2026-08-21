@@ -12,59 +12,67 @@
 - Book 1 structure: 33 chapters.
 - Narration strategy: one male narrator performing restrained character interpretations.
 - GitHub repository is the source of truth; website is a viewer.
-- Story remains original; no reuse of another franchise's protected setting/mechanics/characters.
-- **Family-clean standard is LOCKED:** no real-world profanity/obscene gestures, no explicit sexual content, age-appropriate romance, intense but non-gratuitously-gory action. Serious themes remain allowed.
+- Story remains original.
+- **Family-clean standard is LOCKED:** no real-world profanity/obscene gestures, no explicit sexual content, age-appropriate romance, intense but non-gratuitously-gory action.
 
 ## Working prose status
-- Chapter 1 — **The Kid in Room Four**: complete; family-clean pass completed on the rapid-draft branch (legacy mild profanity/gesture references removed).
-- Chapter 2 — **Zero Protocol**: working draft complete.
-- Chapter 3 — **Asterion**: working draft complete.
-- Chapter 4 — **Ten Thousand Four Hundred Eighty-Two**: working draft complete.
-- Chapter 5 — **House Meridian**: working draft complete.
-- Chapter 6 — **Forty-Seven Seconds**: working draft complete.
-- Next chapter: Chapter 7 — **The Suppression Order**.
+- **Chapters 1–17 drafted. First-half working draft complete.**
+- Chapter 1 has a completed family-clean pass.
+- Chapters 2–17 are rapid working drafts and intentionally below final target length; expand later by deepening scenes, school life, relationships and consequences rather than adding filler.
+- Next chapter: **Chapter 18 — The Vey Problem**.
 
-## Key decisions established in Chapters 2–6
-- Kade's mother is **Elena Mercer**, an emergency-department nurse at St. Vincent Medical.
-- `000` is a Zero Protocol routing/result code, not an ordinary score.
-- Zero Protocol's last valid historical route was roughly three decades earlier.
-- Asterion can compel classified evaluation under federal Resonance safety authority.
-- Kade arrives at Asterion, wants to stay despite himself, then baselines at **0.00 field output** and rank **10,482/10,482**.
-- Kade is assigned to House Meridian and meets Eli Navarro, Mara Vey, Sera Vale, and Taren Holt.
-- In his first combat assessment against Priya Shah, Kade loses officially but redirects/relocates impact into the arena wall through an unresolved transfer event. Final six seconds are restricted-review data.
+## First-half trajectory
+- Ch. 1–2: Kade genuinely tries; `000` challenges his failure narrative.
+- Ch. 3–6: Kade wants Asterion despite himself; last-place humiliation leads to anomalous transfer evidence.
+- Ch. 7–10: restriction becomes agency; fundamentals improve; Meridian relationships deepen; Mara becomes technical peer.
+- Ch. 11–13: broken-floor event establishes Boundary architecture and cost; Sen lies; Julian becomes honorable rival/teacher.
+- Ch. 14–15: Meridian wins House Trial because Kade empowers a team whose plan survives his elimination; Kade reaches #1,904.
+- Ch. 16–17: fame tests false belonging; Northline return confirms genuine growth and turns the midpoint question toward the cost of belonging.
+
+Full editorial assessment: `books/book-01-the-ninth-standard/FIRST_HALF_AUDIT.md`.
+
+## Character guardrails for second half
+- **Kade:** belonging is now established. Test whether he can remain connected under secrecy, betrayal and grief without reverting to preemptive abandonment.
+- **Mara:** Chapter 18 must give her independent investigative agency through her family; romance remains secondary to rivalry/trust.
+- **Eli:** add at least two personal/emotional beats before Lab Six so apparent death has maximum weight.
+- **Sera:** establish an ambition/fear unrelated to Kade before Chapter 20.
+- **Taren:** plant 2–3 subtle information/access clues before Chapter 25 while keeping his friendship genuinely real.
+- **Julian:** remain honorable but highly competitive; do not make him saintly.
+- **Sen:** protection must remain defensible in hindsight; secrecy cannot become arbitrary.
+
+## Continuity decisions through Chapter 17
+- Kade rank progression: #10,482 → #8,971 → #8,159 → #1,904 after House Trial.
+- Jonah Pike (#2,301) is legally reachable via an **open challenge**, resolving the rank-band continuity issue.
+- Meaningful Boundary events cause headache/tremor/neurologic symptoms.
+- Sen uses `Boundary architecture` and deliberately lies about historical precedent / knowing Aaron.
+- Kade's strongest team success works after his elimination, preserving Consensus foreshadowing.
+- Northline students are invited to a future Asterion exhibition.
 
 ## Audio production system
-- Clean manuscript remains the only prose source of truth.
-- `books/book-01-the-ninth-standard/audio/README.md` defines the pipeline.
-- `audio/PRONUNCIATION.md` holds shared spoken canon.
-- `audio/ssml/` documents Google SSML policy.
-- `audio/elevenlabs/` documents ElevenLabs performance policy.
-- `audio/render_audio.py` generates SSML and ElevenLabs-ready derivatives from the same manuscript file, preventing text drift.
-- A/B test at least Chapters 1–3 in Google and ElevenLabs before selecting final production engine.
-
-## Quality automation
-- `scripts/family_clean_check.py` is the first-pass profanity/gesture lint. Human family-clean review is still required.
-- Before promoting a chapter batch, verify continuity and the clue ledger manually.
+- Clean manuscript remains sole prose source.
+- Google SSML and ElevenLabs derivatives are generated from manuscript.
+- Shared pronunciation guide remains canonical.
+- A/B test Chapters 1–3 in Google and ElevenLabs before final engine selection.
 
 ## Immediate next writing task
-Draft Chapter 7, **The Suppression Order**, followed by Chapter 8 if rapid-draft production continues.
+Draft Chapter 18, **The Vey Problem**.
 
-Chapter 7 requirement: Sen orders conservative restrictions on Kade's training after the Forty-Seven Second Fight. Kade receives/overhears an incomplete version and interprets the order as institutional suppression or distrust. The public/campus story should move faster than the truth. End Act I with Kade deciding that if Asterion wants him at the bottom, he will climb anyway.
+Requirements:
+1. Give Mara meaningful POV/agency.
+2. Her father asks specific questions about Kade that he should not know to ask.
+3. Mara recognizes the discrepancy and begins investigating independently.
+4. Do not reveal Aaron yet; Chapter 19 owns that rupture.
+5. Begin subtle Taren clue seeding and deepen Eli/Sera personal stakes over Chapters 18–20.
 
-## Open design decisions
-- Final universe/brand name.
-- Exact final map/geography of Asterion.
-- Aaron's ultimate fate.
-- Identity of the second Zero in Book 2.
-- Whether Taren survives the trilogy.
-- Exact nature of the countdown at Book 1 ending.
-- Whether Lieutenant Commander Nia Vale and Sera Vale are related; do not imply a relation until decided.
+## Remaining architecture
+Proceed with the existing Chapter 18–33 plan. The first-half audit finds **no structural rewrite needed** before continuing.
 
 ## Authoring guardrails
 Do not rush the academy.
 Do not make Kade unbeatable.
+After #1,904, slow rank progression substantially.
 Do not use mystery as an excuse for irrational behavior.
 Do not over-explain physics during emotional peaks.
 Do not let the cosmic story erase the school story.
 Keep reveals seeded and check them against the clue ledger.
-Prioritize clean family co-reading without flattening the emotional or moral stakes.
+Preserve family-clean co-reading while retaining serious stakes.
