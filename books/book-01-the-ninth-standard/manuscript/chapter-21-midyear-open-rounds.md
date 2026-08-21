@@ -78,51 +78,38 @@ Sera smacked the back of his head.
 
 The next opponent was #503.
 
-Kade lost.
+Kade nearly lost.
 
-Cleanly.
+Cleanly, repeatedly, and in several different ways.
 
-The older part of him expected humiliation.
+But the tournament was not a single-exchange ladder match. He survived long enough to see the pattern, changed his timing, and took the deciding point with six seconds left.
+
+When the buzzer sounded, Kade was on one knee and breathing hard.
+
+The older part of him expected humiliation anyway.
 
 Instead he found himself studying the replay before he left the arena.
 
-“Again next semester,” he told the winner.
+His live projection had moved into the low hundreds.
+
+Not final.
+
+Not secure.
+
+Just enough to make the next bracket pairing absurd.
+
+**MARA VEY — RANK #7**
+
+Eli stared at the screen.
+
+“Oh, this is going to be terrible.”
+
+Kade looked across the prep level.
+
+Mara had already seen the pairing.
 
 She smiled.
 
-“Get in line.”
+Kade sighed.
 
-Kade’s final tournament rank settled at #211 after recalculation, challenge bonuses, and open-bracket performance.
-
-He stared at the number.
-
-Ten thousand four hundred eighty-two had become two hundred eleven.
-
-Fast.
-
-Too fast, maybe.
-
-But not magic.
-
-Every step contained losses.
-
-Bruises.
-
-Homework.
-
-Mara correcting his equations.
-
-Julian dismantling his habits.
-
-Sera calling out excuses.
-
-Eli logging everything.
-
-People.
-
-Always people.
-
-That should have made the achievement feel less his.
-
-Instead it felt more real.
-
+“Yes,” he said. “Probably.”
