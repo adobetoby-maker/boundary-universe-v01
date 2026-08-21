@@ -89,9 +89,61 @@ segment gaps.
 
 ## Open
 
-- Cast the proctor. His arc across the chapter is the subtlest performance ask
-  in it.
-- Decide single-narrator versus full cast before Book 2 is drafted; it changes
-  how dialogue tags should be written.
-- Kade's voice is the one casting decision that compounds. If the series runs,
-  changing it later costs a re-record of everything.
+- The proctor's shift is set at −0.75 but his *arc* — relaxed, then controlled,
+  then frightened — is a delivery problem, not a pitch one, and is unsolved.
+- Tessa is provisional; she has few lines in Chapter 1.
+
+---
+
+## LOCKED — production model and voice chain
+
+**Single narrator.** Decided. Characters are separated by cadence, attitude and
+a small pitch shading, all performed by one voice.
+
+**Base voice:** Holden — `3c9d6053-6334-592c-8997-4e325286af3f` (ElevenLabs).
+
+Holden as delivered carries more low end than thirty minutes of close third on
+a seventeen-year-old can take. Two corrections, and they solve different
+problems:
+
+| | Setting | What it fixes |
+|---|---|---|
+| EQ | `highpass 85Hz`, `-6.5dB @ 140Hz`, `-2dB @ 250Hz` | The throb. This is the real fix — "throbbing bass" is low-frequency energy, not pitch. |
+| Pitch | **+0.5 semitones** | Not tone. It lifts the baseline off the floor so the narrator has room to go *down* for Darius. |
+
+Auditioned 0 / +0.5 / +0.75 / +1.0 / +1.5 / +3 / +3.86 st. **+0.5 chosen** — the
+smallest lift that still buys downward room.
+
+### Range map
+
+Offsets are from the narrator baseline, not from raw Holden.
+
+| Role | Shift | Note |
+|---|---|---|
+| Tessa | +1.25 | |
+| **Narrator / Kade** | **0.00** | the narrator *is* Kade's interiority |
+| Ms. Alvarez | 0.00 | dry and level — separated by attitude, not pitch |
+| District proctor | −0.75 | tightens rather than drops as he loses composure |
+| **Darius Bell** | **−1.25** | weight without becoming a different actor |
+
+−2.5 was auditioned for Darius and rejected as too much: it read as an
+impression rather than a shading, against the direction's own instruction to
+avoid caricature. −1.25 separates him audibly and stays inside one performance.
+
+About **5 semitones** of usable room sits below the baseline before delivery
+strains. Darius uses a quarter of it. The rest is deliberate headroom for
+whoever arrives later and needs to be the heaviest voice in the room — which is
+the whole reason the baseline was lifted at all.
+
+### Why this is treated as canon
+
+Kade's voice is the one casting decision that compounds. If the series runs,
+changing the baseline after recording begins costs a re-record of every chapter
+in every book. The numbers above are locked, and `voice_chain.py` is the single
+source for them.
+
+```python
+from voice_chain import filter_chain
+filter_chain("narrator")   # EQ only
+filter_chain("darius")     # EQ + -1.25 st
+```
