@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "generated": "2026-08-21",
+  "universe": "The Boundary Universe",
+  "books": [
+    {
+      "id": "book-01-the-ninth-standard",
+      "title": "The Ninth Standard",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Kid in Room Four",
+          "manuscript": "books/book-01-the-ninth-standard/manuscript/chapter-01-the-kid-in-room-four.md",
+          "renders": [
+            {
+              "render": "studio-q",
+              "engine": "Google Cloud TTS",
+              "voice": "en-US-Studio-Q",
+              "file": "audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.studio-q.mp3",
+              "bytes": 14966061,
+              "durationSec": 1870.73,
+              "sha256": "4eb565d7bd8ea9211c11b31d7228cee61db1687c074599478587a7c4ff3aa307",
+              "note": "SSML-timed: 697 hand-placed breaks, exam pacing tightens, REDEFINE/000/ending open out."
+            },
+            {
+              "render": "elevenlabs",
+              "engine": "ElevenLabs",
+              "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
+              "file": "audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.elevenlabs.mp3",
+              "bytes": 30572458,
+              "durationSec": 2168.39,
+              "sha256": "c12251ba906ab8d29540d6f070e1d8a1b8932c88533967e109571ebefc13f39a",
+              "note": "Engine-timed. Better delivery, no pacing control \u2014 runs ~5 minutes longer."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

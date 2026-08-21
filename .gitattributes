@@ -1,0 +1,5 @@
+# Rendered narration is tracked with LFS. Without this, every clone of this
+# repository would download every version of every MP3 ever committed, forever.
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.m4a filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
