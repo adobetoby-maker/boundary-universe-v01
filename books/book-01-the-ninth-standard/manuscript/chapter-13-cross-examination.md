@@ -414,7 +414,291 @@ Julian shrugged.
 
 “It is still true.”
 
-Kade’s tablet vibrated.
+They entered Meridian Commons together.
+
+That alone produced another wave of looks.
+
+Taren was sitting with Sera and Eli. He saw Julian, then Kade, then visibly revised whatever sentence he had been about to say.
+
+“Interesting,” Taren said.
+
+Kade set down his tray.
+
+“No.”
+
+“I have said nothing.”
+
+“You were going to.”
+
+Julian sat at the end of the table.
+
+Sera looked at him.
+
+“You know there are nineteen other Houses.”
+
+“I was invited.”
+
+Kade stared.
+
+“I did not invite you.”
+
+Julian took an orange from the bowl.
+
+“Your roommate did.”
+
+Eli looked pleased.
+
+“I thought cross-House tactical exchange would be healthy.”
+
+Sera looked at him.
+
+“You wanted to ask Cross about his acceleration model.”
+
+“Also healthy.”
+
+Breakfast became unexpectedly normal.
+
+Julian argued with Eli about whether a top-ranked fighter’s public telemetry could meaningfully model decision quality.
+
+Sera insisted that all ranking models over-reward sport performance relative to rescue competence.
+
+Taren knew three stories about Julian from junior competition circuits, two of which Julian denied and one of which he admitted was “technically accurate but maliciously framed.”
+
+Kade mostly listened.
+
+It was the first time he had seen Julian as somebody inside a group rather than a number on a board.
+
+At 07:42, Julian’s wrist display lit.
+
+He looked at it.
+
+His posture changed.
+
+Barely.
+
+Kade noticed because he had begun studying what people did before they moved.
+
+Julian dismissed the notification.
+
+Taren said, “Family?”
+
+Julian looked at him.
+
+“How do you know?”
+
+Taren lifted both hands.
+
+“You make a face.”
+
+Julian’s expression flattened.
+
+“I do not.”
+
+Kade nearly laughed.
+
+Taren smiled.
+
+“Everyone has one.”
+
+Julian stood.
+
+“I have a call.”
+
+He left.
+
+Kade looked at Taren.
+
+“That was precise.”
+
+“I notice things.”
+
+“So do I.”
+
+Taren’s smile stayed easy.
+
+“Then we’ll both be annoying.”
+
+Kade filed that away with the other things Taren knew slightly too easily.
+
+---
+
+Later that week, Kade learned what Julian’s face meant.
+
+He was returning borrowed wraps to the side training room when he heard voices through the half-open door.
+
+Julian stood by the wall display.
+
+A man occupied the screen.
+
+Older version of Julian’s face. Sharper. Expensive suit. The kind of posture that looked tailored too.
+
+“You lost thirty-one seconds to Voss,” the man said.
+
+“It was a training session.”
+
+“You gave him the inside line twice.”
+
+“I know.”
+
+“Then why did it happen?”
+
+Julian’s jaw tightened.
+
+“Because he is good.”
+
+Silence.
+
+The man said, “That is not an answer Crosses give.”
+
+Kade stopped outside the door.
+
+He should leave.
+
+Instead he froze, because people were most revealing when they believed nobody was listening.
+
+Julian’s voice went colder.
+
+“It is the answer I am giving.”
+
+“You are number one.”
+
+“Today.”
+
+“You have been given every advantage. Do not develop humility now.”
+
+The call ended.
+
+Kade stepped backward too late.
+
+Julian came through the door and saw him.
+
+For one second, neither spoke.
+
+Kade held up the wraps.
+
+“Terrible hiding place.”
+
+Julian stared.
+
+“Very.”
+
+“I was returning these.”
+
+“I believe you.”
+
+That somehow made it worse.
+
+Kade looked toward the blank screen behind him.
+
+“Your father seems cheerful.”
+
+Julian laughed once.
+
+No humor.
+
+“He thinks rank is a moral category.”
+
+“Sounds exhausting.”
+
+“It is.”
+
+Kade waited.
+
+He remembered Mara saying something similar about her father.
+
+Asterion’s elite, apparently, came with family systems as complicated as everyone else’s.
+
+Julian said, “Do not make this into a reason to go easy on me.”
+
+Kade blinked.
+
+“That is what you think I would do?”
+
+“No.”
+
+“Good.”
+
+“I think you might mistake understanding for pity.”
+
+Kade looked at him.
+
+Julian’s expression was steady again.
+
+“Fair.”
+
+They stood in the corridor.
+
+Then Kade handed him the wraps.
+
+“Thursday?”
+
+Julian looked almost relieved.
+
+“Thursday.”
+
+---
+
+On Thursday, Julian beat Kade seven times.
+
+The eighth bout lasted four minutes.
+
+Kade went in with an actual plan.
+
+Not a clever opening.
+
+A plan.
+
+He intended to give Julian center, draw the pressure toward Kade’s weak left retreat, then refuse the retreat and force a second decision at the boundary.
+
+It worked for forty seconds.
+
+Then Julian recognized it.
+
+Kade stayed with it anyway.
+
+Changed details.
+
+Kept the structure.
+
+At two minutes, Julian stopped smiling.
+
+At three, Kade scored his first clean positional point.
+
+At three fifty-one, Julian trapped him against the edge and ended it.
+
+Kade sat on the floor breathing hard.
+
+Julian offered a hand.
+
+“Better.”
+
+“There is that word again.”
+
+“You made me abandon the first plan.”
+
+Kade took his hand.
+
+“Only the first?”
+
+“Do not become unbearable.”
+
+“Too late.”
+
+Julian smiled.
+
+They reset one more time.
+
+Kade lost again.
+
+He enjoyed that one.
+
+Not the losing.
+
+The fact that he knew why.
+
+---
+
+His tablet updated as he left training.
 
 A message from Mara.
 
@@ -468,11 +752,11 @@ He put the tablet away.
 
 Julian opened the dining-hall door.
 
-“Same time Thursday?”
+“Same time Saturday?”
 
 Kade looked at him.
 
-“You want another eleven wins?”
+“You want another seven wins?”
 
 “I want to see whether you make me change the plan sooner.”
 
@@ -494,4 +778,4 @@ For the first time in Kade’s life, somebody better than him was not asking him
 
 Julian was asking him to become difficult in a more disciplined way.
 
-Kade could work with that.
+That felt like a form of respect Kade understood.
