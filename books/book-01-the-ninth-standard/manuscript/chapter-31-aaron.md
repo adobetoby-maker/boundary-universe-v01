@@ -100,9 +100,7 @@ Kade moved down the first stair.
 
 Aaron looked toward the black object.
 
-The Refuge Node.
-
-The name appeared on one surviving status panel.
+A surviving status panel identified it.
 
 **REFUGE NODE — SIGNAL CONTAINMENT 42%**
 
@@ -246,7 +244,7 @@ For Kade.
 
 “No. You know the label.”
 
-Aaron looked toward the upper entrance as Sen arrived through the emergency access with Park behind her.
+Aaron looked toward the upper entrance as Sen arrived through emergency access with Park behind her.
 
 “You didn’t tell him.”
 
@@ -358,11 +356,307 @@ Sen looked at Kade too.
 
 He suddenly hated that everyone seemed impressed.
 
+“Stop looking at me like I solved something,” Kade said.
+
+“No one said you did,” Mara replied.
+
+“Your face did.”
+
+“My face is efficient.”
+
+Kade almost laughed.
+
+The sound died before it formed.
+
+He looked back at Aaron.
+
+Seventeen years.
+
+The number was too large to remain abstract.
+
+“Did you know about me?”
+
+Aaron stopped breathing for half a beat.
+
+Sen looked away.
+
+Kade saw that too.
+
+“Aaron.”
+
+“Yes,” his father said.
+
+The answer hit harder than Kade expected.
+
+“You knew.”
+
+“Yes.”
+
+“How much?”
+
+Aaron’s hand remained on the rail.
+
+“Your name. Your birth date. That you were healthy.”
+
+Kade waited.
+
+Aaron’s voice roughened.
+
+“Later, some photographs.”
+
+Kade felt the floor tilt without moving.
+
+“Photographs.”
+
+“Sen brought them.”
+
+Kade looked at Sen.
+
+She did not defend herself.
+
+“How many?”
+
+Aaron answered instead.
+
+“Not enough.”
+
+“That is not a number.”
+
+“No.”
+
+Kade’s anger came cleanly now.
+
+“You watched me grow up from under a school.”
+
+Aaron flinched.
+
+“I saw fragments.”
+
+“You knew Mom thought you were dead.”
+
+“Yes.”
+
+“You knew I did.”
+
+“Yes.”
+
+“And you stayed.”
+
+The accusation filled the chamber more completely than the alarms.
+
+Aaron looked toward the Refuge Node.
+
+“The first six months, I believed I would leave.”
+
+Kade said nothing.
+
+“We had built a temporary suppression loop after the final experiment. When I disconnected, the Node’s signal strength increased by a factor of fourteen.”
+
+“So build something else.”
+
+“We tried.”
+
+“How long?”
+
+“Years.”
+
+Kade laughed once without humor.
+
+“Convenient.”
+
+“No.” Aaron’s voice sharpened for the first time. “Nothing about it was convenient.”
+
+Kade stepped closer.
+
+“Then explain it.”
+
+Aaron looked at him.
+
+The resemblance was worse when he was angry.
+
+“We tried machine control. It destabilized. We tried rotating operators. The transition itself caused signal spikes. We tried distributed Standard Eight teams. They could hold the physical field but not the boundary condition that kept the Node quiet.”
+
+“And you could.”
+
+“Yes.”
+
+“So everyone decided you lived down here forever.”
+
+“No.”
+
+“Who decided?”
+
+Aaron’s jaw tightened.
+
+“At first? Me.”
+
+Kade stopped.
+
+The answer was not what he wanted.
+
+Aaron continued.
+
+“I told Elena I would be gone weeks. Then months. Then I stopped being allowed to contact her directly because Directorate surveillance had already reached our apartment.”
+
+“You could have found a way.”
+
+“Yes.”
+
+Kade stared.
+
+Aaron did not retreat from the word.
+
+“I could have tried harder. I could have trusted her with more. I could have refused the official death story when it became clear the Directorate wanted my identity erased.”
+
+“Why didn’t you?”
+
+“Because every time we changed the containment configuration, the Node transmitted farther.”
+
+“That explains the chamber.”
+
+Kade’s voice shook.
+
+“It does not explain me.”
+
+Aaron closed his eyes.
+
+“No.”
+
+There it was.
+
+Mechanism without absolution.
+
+Kade felt tears threaten and became furious at them.
+
+“You do not get to make this noble.”
+
+“I am not.”
+
+“You do not get seventeen years back because you were saving the world.”
+
+“I know.”
+
+“Mom does not get them back.”
+
+“I know.”
+
+“I grew up with a dead father.”
+
+Aaron’s face broke completely this time.
+
+“I know.”
+
+“No. You know the sentence.”
+
+Kade heard his own voice from Northline.
+
+*You know the label.*
+
+Aaron heard it too.
+
+He looked down.
+
+“You are right.”
+
+The anger had nowhere clean to go.
+
+Kade wanted Aaron to be selfish enough to hate.
+
+He wanted him heroic enough to forgive.
+
+Aaron was neither.
+
+He was a man who had made choices under impossible pressure and then lived inside their consequences long enough for them to become a prison.
+
+That was worse.
+
+Mara stepped closer to Kade.
+
+Not between them.
+
+Beside him.
+
+“Did Elena know you were alive after the first year?” she asked Aaron.
+
+“No.”
+
+“Did Sen?”
+
+“Yes.”
+
+Sen said, “I argued for disclosure twice.”
+
+Kade looked at her.
+
+“Twice in seventeen years.”
+
+Sen accepted the blow.
+
+“Yes.”
+
+Aaron said, “I refused the first time.”
+
+Kade stared at him.
+
+“Why?”
+
+“Because the Directorate had just identified a leak in Elena’s hospital records.”
+
+Kade went cold.
+
+“What?”
+
+“They were watching for contact.”
+
+Sen said, “We moved her records and shut down the access.”
+
+“You never told her.”
+
+“No.”
+
+Kade laughed without humor.
+
+“Of course.”
+
+The chamber shook.
+
+One containment ring dropped from white to amber.
+
+Reality interrupted the family argument with terrible timing.
+
+Park looked at the diagnostics.
+
+“Signal containment thirty-one percent.”
+
+Eli said over comms, “And falling faster.”
+
+Kade kept looking at Aaron.
+
+“We are not done.”
+
+“No.”
+
+“Not remotely.”
+
+“I know.”
+
+“Good.”
+
+Aaron’s mouth moved.
+
+Not a smile.
+
+Something more painful.
+
+“Good.”
+
+---
+
 The Refuge Node pulsed.
 
 A pressure wave hit the chamber.
 
-Containment dropped to thirty-one percent.
+Containment fell to twenty-eight percent.
 
 Aaron collapsed to one knee.
 
@@ -383,6 +677,56 @@ Eli answered over comms.
 “Signal suppression reaches zero in two minutes twenty.”
 
 Kade looked at the Refuge Node.
+
+The black structure did not look like a machine anymore.
+
+It looked injured.
+
+One side had been rebuilt with human materials over something much older. Asterion hardware wrapped around nonhuman geometry like a cast around a bone nobody understood.
+
+Kade remembered Instructor Grae’s sentence.
+
+*Ask Sen what the Node is afraid of.*
+
+He looked at Aaron.
+
+“Is it afraid?”
+
+Aaron’s eyes moved to the Node.
+
+“We think so.”
+
+“Of what?”
+
+“We never received enough coherent information to know.”
+
+“Then how do you know it is hiding?” Eli asked.
+
+Aaron pointed weakly toward a signal graph.
+
+“Every time its outgoing signal strengthens, internal systems attempt to suppress it. Not ours. Its own.”
+
+Kade stared.
+
+“The Node is fighting itself.”
+
+“Or protecting itself.”
+
+Mara said, “Maybe protecting us.”
+
+Aaron looked at her.
+
+“Maybe.”
+
+That word again.
+
+Science.
+
+Mystery.
+
+Fear.
+
+Kade looked at the containment rings.
 
 “If the signal gets out?”
 
@@ -428,6 +772,20 @@ Kade almost laughed.
 
 His entire life had been preparation for not wanting to be the center.
 
+Then he remembered something less comfortable.
+
+Not wanting authority was not the same as knowing how not to control people when terrified.
+
+He had tried to order Eli to stay behind ten minutes ago.
+
+He had wanted to force the Lab Six door.
+
+He had spent years making every plan himself because trusting someone else’s choice felt like surrender.
+
+The problem was not whether Kade liked being in charge.
+
+The problem was whether fear would make him grab control when it mattered.
+
 “What do I do?”
 
 Aaron looked at his friends.
@@ -438,19 +796,19 @@ Then back at Kade.
 
 Kade stared at him.
 
-All the things he had wanted to say to Aaron remained between them.
+All the things he still wanted to say to Aaron remained between them.
 
 Where were you?
 
-Why did you leave us?
+Why did you let us grieve you?
 
-Why didn’t you come back?
+What were the photographs?
 
-Did you know about me?
+Did you ever write letters you could not send?
 
-Did you choose this?
+Did you choose the world over us every day, or only once and then fail to find a way back?
 
-None of them mattered less.
+None mattered less.
 
 They simply had to wait.
 
@@ -465,3 +823,19 @@ Aaron’s eyes closed briefly.
 It was the first thing he said that sounded like a father.
 
 Kade turned toward his friends as containment fell below twenty-five percent.
+
+He looked at Mara first.
+
+Then Sera.
+
+Julian.
+
+Taren.
+
+Eli’s signal indicator on the comm.
+
+He understood suddenly why the hidden exam had not asked him to move the sphere.
+
+It had asked him where the system ended.
+
+Kade had spent the whole year learning the same question with people.
