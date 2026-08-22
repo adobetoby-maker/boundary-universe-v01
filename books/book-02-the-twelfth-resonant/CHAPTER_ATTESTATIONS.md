@@ -146,3 +146,34 @@ The provisional circuit is Cross, Vey, Vale, Navarro and Mercer. Taren asks them
 At the next morning's local-pair block, Kade is assigned `MERCER — MORI`; he meets her at center floor without yet receiving the formal Aya/Zero reveal.
 
 **Advance gate:** PASSED. Chapter 5 may begin.
+
+---
+
+## Chapter 5 — Aya Mori
+**Architecture target / expected production count:** ~5,700 words
+**Status:** **ATTESTED — FOUR PASSES COMPLETE**
+
+### Pass checkpoints
+- Pass 1 — structural full draft: `2527f23ed3584e3029022e291f7425dae9da4db0`
+- Pass 2 — Aya ordinary-life / complementary-strength density expansion: `9128a602a8e07eb07c5a60b90a721ffd18934ce9`
+- Pass 3 — character/clue/continuity review: `afd2a2c1bc6e58b18f42b56bf79f77bfbb0b3e8f`
+- Pass 4 — audio-first / anti-overclaim final refinement: `8a6813bd4d995e21479b07e1577cd792b85f2159`
+
+### Attestation
+- Aya enters as a disciplined local student with her own social world, not as “the other Kade.”
+- First paired exercise exposes Kade's habit of correcting before another person chooses; Aya's information boundaries are operationally useful rather than mysterious affectation.
+- Ordinary Kiyomizu scene establishes Aya's friendships with Nao Fujita, Keiko Matsuda and Ren, plus mundane habits/failures that prevent her from becoming a lore-delivery device.
+- Kiyomizu archive provides one historical clue: `M-NULL RELATIONAL ROUTE` predates Asterion and treats individual-output scoring as an insufficient axis.
+- Takahara protects Aya's diagnostic privacy; Kade must ask Aya directly and receive permission before learning her M-Null status.
+- Aya defines M-Null as architecture where the relationship becomes measurable before individual outputs do.
+- Aya explicitly rejects `Zero` as a number-label and calls `Standard Nine` a **rank-shaped mistake**.
+- The second bridge exercise establishes complementary competence: Aya is better at relational architecture; Kade recovers faster when a sensing assumption fails. Takahara explicitly rejects treating the difference as a hierarchy.
+- Anti-overclaim language preserves Rule 6 fairness: similarity is not provenance, and Kade/Aya do not yet prove a shared institutional origin.
+- Aya does **not** yet demonstrate independent Consensus; that remains later-book progression.
+- No Quieter/Severance exposition.
+- Family-clean and audio-first standards held.
+
+### Chapter exit
+Aya tells Kade he should stop letting institutions call him `Nine` because they will build the wrong system around the name. Kade accepts, provisionally, that his supposed “higher Standard” may instead be a category error.
+
+**Advance gate:** PASSED. Chapter 6 may begin.
