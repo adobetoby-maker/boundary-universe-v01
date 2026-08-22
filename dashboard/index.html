@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Boundary Universe — Production Kanban</title>
+<style>
+:root{--bg:#0b1020;--panel:#121a2f;--panel2:#18233f;--text:#edf2ff;--muted:#9fb0d0;--line:#293a62;--good:#55d88b;--warn:#f4c95d;--active:#6ea8fe;--back:#70809f}
+*{box-sizing:border-box}body{margin:0;background:linear-gradient(180deg,#08101f,#0d1426 55%,#0b1020);color:var(--text);font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+main{max-width:1220px;margin:auto;padding:28px 20px 60px}h1{font-size:34px;margin:0 0 6px}.sub{color:var(--muted);margin-bottom:24px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:16px}.card{background:rgba(18,26,47,.92);border:1px solid var(--line);border-radius:16px;padding:16px;box-shadow:0 10px 30px rgba(0,0,0,.18)}h2{font-size:20px;margin:28px 0 12px}h3{font-size:16px;margin:0 0 8px}.status{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.06em;padding:3px 8px;border-radius:999px;background:#233257;color:#cfe0ff}.bar{height:8px;background:#202c49;border-radius:999px;overflow:hidden;margin:10px 0 4px}.fill{height:100%;background:linear-gradient(90deg,#6ea8fe,#55d88b)}.meta{font-size:12px;color:var(--muted)}.book{padding:9px 0;border-top:1px solid #243453}.book:first-child{border-top:0}.row{display:flex;justify-content:space-between;gap:12px;align-items:center}.steps{display:flex;flex-wrap:wrap;gap:8px}.step{padding:8px 10px;border:1px solid var(--line);border-radius:10px;background:var(--panel2);font-size:12px}.chapter{display:grid;grid-template-columns:42px 1fr auto;gap:10px;align-items:center;padding:9px 0;border-top:1px solid #243453}.done{color:var(--good)}.current{color:var(--warn)}ul{margin:8px 0 0;padding-left:20px;color:#dce6ff}.foot{margin-top:28px;color:var(--muted);font-size:12px}
+</style>
+</head>
+<body>
+<main>
+<h1>Boundary Universe Production Kanban</h1>
+<div class="sub" id="subtitle">Loading status…</div>
+
+<h2>Autonomous production loop</h2><div class="steps" id="loop"></div>
+<h2>Universe epics</h2><div class="grid" id="portfolio"></div>
+<h2>Origin-cycle portfolio</h2><div class="grid" id="origins"></div>
+<h2>Book 2 — chapter loop</h2><div class="card" id="book2"></div>
+<h2>Reader contract</h2><div class="card"><ul id="reader"></ul></div>
+<div class="foot">Source of truth remains GitHub. Dashboard status is intentionally explicit and reviewable; update status.json when tickets/chapters advance.</div>
+</main>
+<script>
+fetch('./status.json').then(r=>r.json()).then(d=>{
+ document.getElementById('subtitle').textContent=`${d.universe.scope} · ${d.universe.status}`;
+ d.loop.forEach(x=>document.getElementById('loop').insertAdjacentHTML('beforeend',`<span class="step">${x}</span>`));
+ d.portfolio.forEach(x=>document.getElementById('portfolio').insertAdjacentHTML('beforeend',card(x)));
+ d.origins.forEach(x=>{
+  let books=''; if(x.books) books=x.books.map(b=>`<div class="book"><div class="row"><span>${b.title}</span><span class="status">${b.status}</span></div><div class="bar"><div class="fill" style="width:${b.progress}%"></div></div><div class="meta">${b.progress}%</div></div>`).join('');
+  document.getElementById('origins').insertAdjacentHTML('beforeend',`<section class="card"><h3>${x.id} · ${x.title}</h3><span class="status">${x.status}</span>${books || `<div class="bar"><div class="fill" style="width:${x.progress}%"></div></div><div class="meta">${x.progress}%</div>`}</section>`)
+ });
+ const b=d.book2; let h=`<div class="row"><h3>${b.title}</h3><span class="status">${b.chaptersTotal} chapters</span></div>`;
+ b.chapters.forEach(c=>{const cls=c.status==='ATTESTED'?'done':'current';h+=`<div class="chapter"><strong>${c.n}</strong><span>${c.title}</span><span class="${cls}">${c.status} · ${c.passes}/4</span></div>`});
+ h+=`<div class="chapter"><strong>6–34</strong><span>Remaining chapters</span><span class="meta">PLANNED</span></div>`; document.getElementById('book2').innerHTML=h;
+ d.readerContract.forEach(x=>document.getElementById('reader').insertAdjacentHTML('beforeend',`<li>${x}</li>`));
+}).catch(e=>document.getElementById('subtitle').textContent='Could not load status.json');
+function card(x){return `<section class="card"><div class="row"><h3>${x.id} · ${x.title}</h3><span class="status">${x.status}</span></div><div class="bar"><div class="fill" style="width:${x.progress}%"></div></div><div class="meta">${x.progress}% complete</div></section>`}
+</script>
+</body></html>
