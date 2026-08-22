@@ -346,6 +346,120 @@ Properly.
 
 Mostly.
 
+Outside the classroom, Nessa Kim was waiting against the wall.
+
+Kade stopped.
+
+“If this is about yesterday, I’m still sorry.”
+
+“It isn’t.”
+
+“That sounds promising.”
+
+Anton Bell appeared from the stairwell carrying two breakfast bars.
+
+He tossed one to Nessa and kept the other.
+
+Kade looked between them.
+
+“You’re coordinating.”
+
+Nessa unwrapped the bar.
+
+“We volunteered for the hearing demonstration.”
+
+Kade stared.
+
+“No.”
+
+Anton took a bite.
+
+“That is roughly what Park said you would say.”
+
+“You already tried yesterday.”
+
+“Yes,” Nessa said.
+
+“And it was unpleasant.”
+
+“Briefly.”
+
+“You told me to stop.”
+
+“You stopped.”
+
+Kade opened his mouth.
+
+Nessa held up one hand.
+
+“Do not make my consent into evidence that I did not understand the first attempt.”
+
+He stopped.
+
+That was irritatingly precise.
+
+Anton said, “My parents watched the siege feeds for six hours without knowing where I was. Now they think every lab I enter is secretly Sublevel Nine.”
+
+Kade looked at him.
+
+“And you still volunteered?”
+
+“Yes.”
+
+“Why?”
+
+Anton shrugged.
+
+“Because I want to know what happened to me down there too.”
+
+Kade had not thought of it that way.
+
+He had spent three months treating Consensus as something that had happened through him.
+
+Nessa and Anton had been there.
+
+So had Mara, Eli, Sera, Julian, Taren.
+
+Their questions belonged to them.
+
+Nessa looked toward the Central Forum.
+
+“We are not volunteering for Price.”
+
+“Good.”
+
+“We are volunteering for data.”
+
+“That sounded like Eli.”
+
+“Terrible.”
+
+Anton finished his breakfast bar.
+
+“If either of us says stop, it stops.”
+
+“Yes.”
+
+“And if you say stop?”
+
+Kade blinked.
+
+Anton waited.
+
+“Yes,” Kade said. “Then it stops too.”
+
+Nessa nodded.
+
+“Good.”
+
+They left.
+
+Kade stood in the hallway a few seconds longer.
+
+He had expected the hardest part of consent to be asking for it.
+
+Apparently it also involved believing people when they gave it.
+
 ---
 
 The hearing took place in the Central Forum because apparently arguments became more legitimate when held beneath a ceiling forty meters high.
@@ -397,6 +511,62 @@ Park almost smiled.
 Sen did not.
 
 That made it worse.
+
+Yara handed Kade a second tablet.
+
+“What’s this?”
+
+“Student comments.”
+
+“There are six hundred.”
+
+“Seven hundred twelve.”
+
+“Why would you give me this?”
+
+“So you remember the classification is not only about you.”
+
+That worked unfortunately well.
+
+Kade scrolled.
+
+A Standard Five student worried IX would make lower Standards look obsolete to sponsors.
+
+A first-year wanted to know whether Consensus participation would affect insurance eligibility.
+
+Someone from House Sol asked whether a student could refuse a network request from an instructor without losing team placement.
+
+Three parents wanted IX removed entirely from student competition.
+
+Nine students wanted a separate IX tournament division despite there being exactly one publicly labeled IX student.
+
+One comment read:
+
+**IF CONSENT IS REQUIRED, WHO RECORDS THE NO?**
+
+Kade stopped scrolling.
+
+Yara saw.
+
+“That one is mine.”
+
+He looked at her.
+
+“You submitted your own comment?”
+
+“I am also a student.”
+
+“Dangerous precedent.”
+
+Yara took the tablet back.
+
+“People are already building systems around something nobody understands. That means the boring rules matter before the exciting science.”
+
+Kade thought of Amadi’s bandwidth exercise from yesterday.
+
+Ordinary work before the countdown reached zero.
+
+Apparently the same rule applied to power.
 
 The forum moderator introduced the panel.
 
@@ -831,6 +1001,136 @@ Yara cut his microphone.
 The audience laughed.
 
 Kade decided student government had uses.
+
+---
+
+The three of them were taken to medical afterward even though none of them had symptoms.
+
+Park called this “baseline discipline.”
+
+Kade called it lunch theft.
+
+Nessa sat on an exam table while a scanner moved slowly over her head.
+
+Anton occupied the next bay with a pressure cuff around one arm.
+
+Kade sat between them with nothing attached except a monitor patch.
+
+On the wall, the hearing stream replayed silently.
+
+A caption beneath the image read:
+
+**FIRST PUBLIC IX EVENT LASTS 0.62 SECONDS**
+
+Nessa saw it.
+
+“That is not what happened.”
+
+Kade looked at the screen.
+
+“It did last point-six-two seconds.”
+
+“That is not what I mean.”
+
+Anton leaned around the divider.
+
+“They made it yours.”
+
+Kade understood.
+
+The headline said IX event.
+
+The image centered Kade.
+
+Nessa and Anton were visible on either side like equipment required for the demonstration.
+
+Kade’s stomach tightened.
+
+Nessa said, “My mother is going to call and ask if I joined your power.”
+
+“You didn’t.”
+
+“I know.”
+
+She looked at him.
+
+“That is why language matters.”
+
+Price’s wording.
+
+Authorized operators.
+
+Strategic capability.
+
+Kade had been so focused on refusing ownership that he had missed another risk.
+
+Everyone else could assign ownership for him.
+
+Anton said, “My dad already messaged.”
+
+“What did he say?” Kade asked.
+
+Anton checked his wrist.
+
+“‘Proud of you. Do not let anyone tell you that you were just support.’”
+
+Kade smiled faintly.
+
+“I like him.”
+
+“He likes you less.”
+
+“Reasonable.”
+
+Park stepped into the bay.
+
+“All clear.”
+
+Nessa jumped down.
+
+“Can we correct the headline?”
+
+Park looked toward the stream.
+
+“That is not medical.”
+
+“Can you order someone who does media?”
+
+“No.”
+
+Kade stood.
+
+“I know someone in student government.”
+
+Nessa looked at him.
+
+“Do not fix it for me.”
+
+He stopped.
+
+Again.
+
+Nessa’s expression softened slightly.
+
+“Give me Yara’s contact.”
+
+Kade sent it.
+
+“Done.”
+
+“Thank you.”
+
+Five minutes later, Asterion Student Media updated the caption.
+
+**THREE-STUDENT SHARED-STATE EVENT LASTS 0.62 SECONDS; VOLUNTEERS DECLINE REPEAT**
+
+Kade stared at the correction.
+
+Small.
+
+Almost boring.
+
+Better.
 
 ---
 
