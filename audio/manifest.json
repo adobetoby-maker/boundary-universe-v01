@@ -22,7 +22,8 @@
               "file": "audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.elevenlabs.mp3",
               "bytes": 30572458,
               "durationSec": 2168.39,
-              "sha256": "c12251ba906ab8d29540d6f070e1d8a1b8932c88533967e109571ebefc13f39a"
+              "sha256": "c12251ba906ab8d29540d6f070e1d8a1b8932c88533967e109571ebefc13f39a",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.elevenlabs.mp3"
             },
             {
               "render": "studio-q",
@@ -31,7 +32,8 @@
               "file": "audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.studio-q.mp3",
               "bytes": 14966061,
               "durationSec": 1870.73,
-              "sha256": "4eb565d7bd8ea9211c11b31d7228cee61db1687c074599478587a7c4ff3aa307"
+              "sha256": "4eb565d7bd8ea9211c11b31d7228cee61db1687c074599478587a7c4ff3aa307",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.studio-q.mp3"
             }
           ]
         },
@@ -47,7 +49,8 @@
               "file": "audio/book-01-the-ninth-standard/ch02-zero-protocol.studio-q.mp3",
               "bytes": 10881645,
               "durationSec": 1360.18,
-              "sha256": "8c4731902179acae27d657b57f781ffada6832bf800e1f39afc9939a40a768a7"
+              "sha256": "8c4731902179acae27d657b57f781ffada6832bf800e1f39afc9939a40a768a7",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch02-zero-protocol.studio-q.mp3"
             }
           ]
         },
@@ -63,7 +66,8 @@
               "file": "audio/book-01-the-ninth-standard/ch03-asterion.studio-q.mp3",
               "bytes": 9613101,
               "durationSec": 1201.61,
-              "sha256": "846e7ba24063f6b983ec0405d9c2300b04f08a0079125a9c8c5ca89566c2a14e"
+              "sha256": "846e7ba24063f6b983ec0405d9c2300b04f08a0079125a9c8c5ca89566c2a14e",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch03-asterion.studio-q.mp3"
             }
           ]
         },
@@ -79,7 +83,8 @@
               "file": "audio/book-01-the-ninth-standard/ch04-ten-thousand-four-hundred-eighty-two.studio-q.mp3",
               "bytes": 7780269,
               "durationSec": 972.5,
-              "sha256": "72d4f1c631c62e284d327a35ead8e9791b6ebdbe2aaa29d8454c8723cf19f9b9"
+              "sha256": "72d4f1c631c62e284d327a35ead8e9791b6ebdbe2aaa29d8454c8723cf19f9b9",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch04-ten-thousand-four-hundred-eighty-two.studio-q.mp3"
             }
           ]
         },
@@ -95,7 +100,8 @@
               "file": "audio/book-01-the-ninth-standard/ch05-house-meridian.studio-q.mp3",
               "bytes": 7645869,
               "durationSec": 955.7,
-              "sha256": "8bdf28310f9fc2bd8fc410db073ef12643c87fcc40feec6d23b1f5693b101988"
+              "sha256": "8bdf28310f9fc2bd8fc410db073ef12643c87fcc40feec6d23b1f5693b101988",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch05-house-meridian.studio-q.mp3"
             }
           ]
         },
@@ -111,7 +117,8 @@
               "file": "audio/book-01-the-ninth-standard/ch06-forty-seven-seconds.studio-q.mp3",
               "bytes": 8953005,
               "durationSec": 1119.1,
-              "sha256": "cb7d2099274440c65c0160977361fdcfe1ad0d84fe4598ee03c2fb8a14553e06"
+              "sha256": "cb7d2099274440c65c0160977361fdcfe1ad0d84fe4598ee03c2fb8a14553e06",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch06-forty-seven-seconds.studio-q.mp3"
             }
           ]
         },
@@ -127,7 +134,8 @@
               "file": "audio/book-01-the-ninth-standard/ch07-the-suppression-order.studio-q.mp3",
               "bytes": 6830061,
               "durationSec": 853.73,
-              "sha256": "3252d8f5832bfa5638cc42d39086b3c735a4b11abb52bbb83771ec336f1e94a0"
+              "sha256": "3252d8f5832bfa5638cc42d39086b3c735a4b11abb52bbb83771ec336f1e94a0",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch07-the-suppression-order.studio-q.mp3"
             }
           ]
         },
@@ -143,7 +151,8 @@
               "file": "audio/book-01-the-ninth-standard/ch08-the-ladder.studio-q.mp3",
               "bytes": 6148653,
               "durationSec": 768.55,
-              "sha256": "73e2c9f409d4033b1d6012ad93397d4f7f0387035f172d4ea3de20a52588e046"
+              "sha256": "73e2c9f409d4033b1d6012ad93397d4f7f0387035f172d4ea3de20a52588e046",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch08-the-ladder.studio-q.mp3"
             }
           ]
         },
@@ -159,7 +168,8 @@
               "file": "audio/book-01-the-ninth-standard/ch09-meridian-night.studio-q.mp3",
               "bytes": 5688621,
               "durationSec": 711.05,
-              "sha256": "6d76cc4fba18600726e773784d1ec817567c8709afbf09084943a52fadd57334"
+              "sha256": "6d76cc4fba18600726e773784d1ec817567c8709afbf09084943a52fadd57334",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch09-meridian-night.studio-q.mp3"
             }
           ]
         },
@@ -175,11 +185,14 @@
               "file": "audio/book-01-the-ninth-standard/ch10-vector-class.studio-q.mp3",
               "bytes": 5435373,
               "durationSec": 679.39,
-              "sha256": "9d1fc1ac56e6ec391b4e1c143a38fdd02235e8db64d3b1695f3b59ed4e605240"
+              "sha256": "9d1fc1ac56e6ec391b4e1c143a38fdd02235e8db64d3b1695f3b59ed4e605240",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch10-vector-class.studio-q.mp3"
             }
           ]
         }
       ]
     }
-  ]
+  ],
+  "audioBaseUrl": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/",
+  "note": "Audio is Git LFS. Fetch via media.githubusercontent.com/media/... \u2014 raw.githubusercontent.com returns the LFS pointer text, not the MP3."
 }
