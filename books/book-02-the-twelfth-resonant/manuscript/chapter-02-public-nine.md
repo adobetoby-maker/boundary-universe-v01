@@ -266,9 +266,9 @@ Just:
 
 **IX — ?**
 
-Kade felt every person in the room try not to look at him.
+The room tried not to look at Kade.
 
-They failed collectively.
+It failed collectively.
 
 Amadi said, “The problem with new categories is that people mistake naming for understanding.”
 
@@ -726,7 +726,7 @@ Yara leaned forward.
 
 Sen answered this time.
 
-“Asterion tracks team behavior as part of training and safety evaluation. Role switching. response under incomplete information. recovery after teammate failure. willingness to transfer responsibility.”
+“Asterion tracks team behavior as part of training and safety evaluation. Role switching. Response under incomplete information. Recovery after teammate failure. Willingness to transfer responsibility.”
 
 Kade stared at her.
 
