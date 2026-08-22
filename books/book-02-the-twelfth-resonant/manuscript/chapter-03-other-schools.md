@@ -746,7 +746,263 @@ Mara nodded almost imperceptibly.
 
 That sentence mattered.
 
-Rook opened the first list.
+Rook did not open the list yet.
+
+“First, you will complete the handoff assessment.”
+
+Eli whispered, “Of course there is an assessment.”
+
+Sera said, “You applied to Asterion.”
+
+“I continue to resent consequences.”
+
+The floor panels moved.
+
+Four workstations rose in a line.
+
+Each displayed the same simulated system at a different stage of failure: coastal evacuation, damaged power routing, medical capacity, and transport access.
+
+Rook said, “You will work for ninety seconds. Then you will leave the station exactly as it is and move right.”
+
+Kade frowned.
+
+“No briefing?”
+
+“You will receive the information the previous candidate leaves you.”
+
+“What if they leave bad information?”
+
+“Then you have bad information.”
+
+“That seems realistic.”
+
+“Unfortunately.”
+
+Kade’s first station was transport.
+
+He inherited a mess.
+
+Two rail lines closed.
+
+One ferry route overloaded.
+
+A bridge carrying more traffic than its structural margin supported.
+
+The previous student had marked three possible reroutes and committed to none.
+
+Kade saw the answer quickly.
+
+Too quickly.
+
+Close the commercial lane.
+
+Move freight windows.
+
+Preserve the bridge for medical traffic.
+
+He started implementing.
+
+Then the timer flashed twenty seconds.
+
+Kade kept working.
+
+Fifteen.
+
+He could fix one more routing conflict.
+
+Ten.
+
+The next person would understand if the system was cleaner.
+
+Five.
+
+“Rotate,” Rook said.
+
+Kade stayed two extra seconds to finish the change.
+
+A penalty appeared.
+
+**LATE HANDOFF — -4**
+
+Kade stared.
+
+“That is unfair.”
+
+The candidate arriving at his station looked at the half-finished notes.
+
+“It is also unclear.”
+
+Worse.
+
+Kade moved right.
+
+His next station was medical capacity.
+
+Sera had been there before him.
+
+The difference was immediate.
+
+She had not solved everything.
+
+She had left three clean priorities.
+
+**1. PEDIATRIC OXYGEN < 18 MIN**
+
+**2. EAST CLINIC HAS STAFF / NO POWER**
+
+**3. DO NOT MOVE TRAUMA TEAM UNTIL BRIDGE CLEARS**
+
+Below that:
+
+**ASSUMPTION: SOUTH GENERATOR HOLDS 12 MIN. VERIFY.**
+
+Kade read it once and knew exactly what mattered.
+
+The generator assumption was already wrong.
+
+He changed it.
+
+Reassigned mobile power.
+
+Moved one transport route.
+
+Then stopped with twelve seconds remaining.
+
+The urge to keep fixing was physical.
+
+Instead he wrote:
+
+**GENERATOR FAILED EARLY. MOBILE POWER MOVED EAST. NEXT RISK = TRANSPORT BOTTLENECK.**
+
+Then he stepped away before Rook called rotate.
+
+No penalty.
+
+The next candidate arrived and started immediately.
+
+Kade felt absurdly pleased.
+
+Third station: power routing.
+
+Eli had been here.
+
+Of course Eli had left a diagram.
+
+Not a beautiful one.
+
+Useful.
+
+Three lines.
+
+Two circled failure points.
+
+One note:
+
+**DO NOT TRUST RESERVE B. SAME PHYSICAL BACKBONE.**
+
+Kade laughed.
+
+Owen’s mistake from Vector Analysis had apparently become friendship infrastructure.
+
+He preserved Eli’s warning, changed a load split, and left before the timer.
+
+Fourth station: evacuation command.
+
+Mara’s notes.
+
+Minimal.
+
+Precise.
+
+Kade hated how good they were.
+
+**LOCAL FIRE COMMAND HAS CURRENT STRUCTURAL MAP. DO NOT OVERRIDE ROUTES WITHOUT NEW FAILURE DATA.**
+
+That was all.
+
+Kade followed it.
+
+A new collapse removed the west route.
+
+Now he had a reason to change the plan.
+
+He did.
+
+When the assessment ended, Kade stepped back from the stations.
+
+Rook displayed the scoring dimensions.
+
+**SYSTEM OUTCOME**
+
+**HANDOFF LEGIBILITY**
+
+**UNNECESSARY OVERRIDE**
+
+**ASSUMPTION DISCLOSURE**
+
+**NEXT-OPERATOR RECOVERY TIME**
+
+Kade looked at his score.
+
+His system outcome was high.
+
+His first handoff was terrible.
+
+Sera’s overall score was higher.
+
+So was Mara’s.
+
+Julian beat Kade by half a point because apparently Rank One had also learned how to leave.
+
+Eli scored lower on system outcome and highest on assumption disclosure.
+
+Kade stared at the board.
+
+“This is what the cooperative index measures.”
+
+Rook stood beside him.
+
+“Partly.”
+
+“You care how well we stop being responsible.”
+
+Rook considered the phrasing.
+
+“We care whether responsibility can move without the system collapsing.”
+
+Kade thought of Vahana’s orientation phrase.
+
+Handoff doctrine.
+
+Then Kiyomizu.
+
+Mutual authorization.
+
+Then Kisiwa.
+
+Local autonomy.
+
+Then Helix.
+
+Shared-state systems.
+
+Different vocabulary.
+
+Same recurring problem.
+
+Kade looked at Rook.
+
+“Did the host schools ask for this assessment?”
+
+“All four asked for some version.”
+
+That was more interesting than Kade wanted it to be.
+
+Rook continued walking before Kade could ask another question.
+
+Probably wise.
+
+An hour later, Rook opened the first list.
 
 **CORE INTERNATIONAL CIRCUIT — PROVISIONAL**
 
