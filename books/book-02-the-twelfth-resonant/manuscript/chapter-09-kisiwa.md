@@ -524,6 +524,132 @@ International corruption continued.
 
 ---
 
+The argument started at the next table.
+
+Kade heard the phrase **arena funding** and stopped pretending not to listen.
+
+Two Kisiwa students in combat-gray bands were sitting with a response trainee and a municipal engineering student.
+
+One of the combat students, a tall fourth-year named Peter Kato, tapped the operations scoreboard with his spoon.
+
+“Clinic continuity does not sell broadcast rights.”
+
+The response trainee rolled her eyes.
+
+“People staying alive is a weak marketing strategy?”
+
+“That is not what I said.”
+
+“It is what you meant.”
+
+Peter looked toward Kamau’s building.
+
+“What I mean is the Union uses combat revenue to pay for half these rotations and then acts embarrassed that combat exists.”
+
+Samwel turned in his seat.
+
+“That is not wrong.”
+
+Neema heard him.
+
+“Do not encourage him.”
+
+Peter pointed at her.
+
+“You get municipal funding.”
+
+“For response certification.”
+
+“Yes. Because governments like disaster crews. They do not fund tournament travel.”
+
+Sera watched the argument with obvious interest.
+
+Kade knew the feeling.
+
+Asterion arguments usually assumed combat prestige was the center and everything else had to justify itself around that.
+
+Kisiwa’s argument was different.
+
+Not absence of prestige.
+
+A fight over what prestige should buy.
+
+The second combat student said, “My scholarship requires top-eight regional placement. If civic rotation takes twelve hours a week from training, that matters.”
+
+Neema answered, “And if your field work cannot operate around a live electrical crew, that should matter too.”
+
+Peter looked at Sera.
+
+“You are Asterion.”
+
+Sera frowned.
+
+“Yes.”
+
+“Your school understands competition.”
+
+“That is not automatically praise.”
+
+Kade smiled into his food.
+
+Peter continued.
+
+“Would you cut combat training for municipal rotation?”
+
+Sera thought before answering.
+
+“I would cut anything that makes a responder worse at the job they claim to be training for.”
+
+“That avoids the question.”
+
+“No. It changes it.”
+
+Peter leaned back.
+
+Sera said, “If you are training to compete, train to compete. If you are training to lead field crews during emergencies, then knowing how those crews work is not a distraction.”
+
+Neema looked pleased.
+
+Sera noticed and immediately looked annoyed at being noticed.
+
+Peter considered her answer.
+
+Then nodded once.
+
+“Fair.”
+
+No ideological conversion.
+
+No applause.
+
+The argument moved on to travel budgets.
+
+Kade looked at Samwel.
+
+“So Kisiwa has arena politics.”
+
+“Of course.”
+
+“I was promised a better civilization.”
+
+“Who promised you?”
+
+“No one.”
+
+“Then we are doing well.”
+
+Mara smiled.
+
+Kade looked around the lunch area.
+
+Good school.
+
+Complicated school.
+
+Better.
+
+---
+
 In the afternoon, Kade expected training.
 
 He got maintenance.
