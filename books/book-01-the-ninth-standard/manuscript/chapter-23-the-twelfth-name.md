@@ -576,13 +576,127 @@ Eli raised a hand.
 
 “Yes,” Sera said. “That is why you are not the person.”
 
+Mara did not stand yet.
+
+She looked at Eli.
+
+“Before we move: prove the Aaron match.”
+
+Kade looked at her.
+
+“It says his name.”
+
+“I can read.”
+
+“Then what are we proving?”
+
+“That the cache is authentic. That the subject number was not reused. That the identifier sequence has not been altered by a later archive migration.”
+
+Eli nodded immediately.
+
+Kade hated that both of them sounded calmer than he felt.
+
+Then he realized that was the point.
+
+Mara was not doubting him.
+
+She was protecting the truth from his need for it to be true.
+
+“Okay,” Kade said.
+
+Eli opened the record provenance.
+
+Three archive migrations.
+
+Two cryptographic signatures old enough that the academy no longer used the standard.
+
+A checksum preserved in a paper-era technical index.
+
+Eli whistled.
+
+“Whoever built this expected computers to die before bureaucracy did.”
+
+“Can it be forged?” Sera asked.
+
+“Everything can be forged.”
+
+“That was not reassuring.”
+
+“It would require rewriting three independent archives, one of which was transferred to the International Resonance Authority before Asterion existed.”
+
+Mara said, “Good.”
+
+Kade stared at her.
+
+“Good?”
+
+“The evidence is independent.”
+
+“That is your emotional reaction?”
+
+“No.”
+
+For the first time, Mara’s voice changed.
+
+Only slightly.
+
+“My emotional reaction is that my father knew your family name before I gave it to him, Sen lied to your face, and now we have evidence that modern Resonance history was edited around your father.”
+
+She looked at Kade.
+
+“I prefer not to contaminate that with bad verification.”
+
+Kade sat back down.
+
+“Right.”
+
+Eli checked the old calibration record against a surviving public research paper.
+
+The paper listed eleven participant traces.
+
+The underlying graph contained twelve colors.
+
+One had been labeled **CONTROL ARTIFACT**.
+
+Eli enlarged it.
+
+“That is not a control artifact.”
+
+“How do you know?” Kade asked.
+
+“Because it changes with the others.”
+
+Mara leaned closer.
+
+The twelfth trace rose when the other subjects destabilized.
+
+Fell when they stabilized.
+
+Not random.
+
+Responsive.
+
+A person hidden inside a graph by changing the label.
+
+Kade felt something settle.
+
+Not relief.
+
+Certainty.
+
+He had expected certainty to feel better.
+
+It did not.
+
+Mara said quietly, “Now we know.”
+
+Kade looked at Aaron’s name.
+
+“Yes.”
+
 They did not leave immediately.
 
-Mara stopped them.
-
-“One more thing.”
-
-She opened the photograph she had taken in Asterion’s public historical archive.
+Mara opened the photograph she had taken in Asterion’s public historical archive.
 
 The Hall of Standards display.
 
@@ -779,6 +893,86 @@ Sera looked at him.
 “Okay what?”
 
 “Now Sen.”
+
+They reached the Hall exit.
+
+Kade stopped again.
+
+Mara waited.
+
+He looked back at the blank recess.
+
+“If this becomes public, he stops being mine.”
+
+The words came out before Kade decided to say them.
+
+Mara’s expression changed.
+
+“What do you mean?”
+
+Kade gestured toward the portraits.
+
+“Right now Aaron Mercer is my dad. My mom’s husband. A guy in one photo who hated cameras and apparently thought notation was showing off.”
+
+He looked up at Chen Wei’s monumental face.
+
+“If this gets out, he becomes the Twelfth Standard Eight. People write documentaries. Governments explain him. Everyone decides what he meant.”
+
+Eli lowered his tablet.
+
+Nobody made a joke.
+
+Kade continued.
+
+“And I know almost nothing about him. So they’ll know the public version before I know the real one.”
+
+The thought hurt in a way Kade had not expected.
+
+He had spent years resenting the smallness of Aaron’s story.
+
+Now the possibility of a huge story felt like another kind of theft.
+
+Sera said, “You do not have to decide tonight who gets the truth.”
+
+Kade looked at her.
+
+“Sen already decided for seventeen years.”
+
+“Yes.”
+
+“That is different.”
+
+“It is.”
+
+Mara said, “Truth and timing are not the same thing.”
+
+Kade almost objected.
+
+Then stopped.
+
+That sentence could excuse almost every lie Sen had told.
+
+It could also be true.
+
+He hated sentences like that.
+
+“What do you want?” Mara asked.
+
+Kade looked back at the blank place in the wall.
+
+“I want to know who he was before somebody else tells me what he represents.”
+
+Mara nodded.
+
+“That seems reasonable.”
+
+“Careful.”
+
+“I said reasonable. Not easy.”
+
+Kade smiled faintly.
+
+Then they left the Hall.
 
 ---
 
@@ -1077,6 +1271,8 @@ Mara looked at him.
 “What?”
 
 Kade thought of the twelve identifiers.
+
+The verified twelfth trace hidden as an artifact.
 
 The covered portrait recess.
 
