@@ -32,6 +32,98 @@ Hale had looked at him.
 
 Hale approved the match with a field restriction and enough safety language to qualify as a small novel.
 
+By breakfast, the open challenge had become entertainment.
+
+Asterion’s student network showed the pairing beside a live prediction model.
+
+**PIKE — 91.8%**
+
+**MERCER — 8.2%**
+
+Eli stared at it.
+
+“Eight point two is insulting.”
+
+Kade looked over his cereal.
+
+“You think it should be lower?”
+
+“I think they are underestimating variance.”
+
+“That is the nicest possible version of what you mean.”
+
+Taren dropped into the chair beside them.
+
+“People are taking bets.”
+
+Sera looked up sharply.
+
+“Officially?”
+
+“No. Which makes the odds more interesting.”
+
+Mara sat across from Kade.
+
+“Why did Pike post it?”
+
+“Publicity,” Taren said.
+
+Kade looked at him.
+
+“You know that?”
+
+“His roommate told someone in Kepler, who told someone in Meridian, who told me.”
+
+Sera said, “Your information chain sounds imaginary.”
+
+“All information chains sound imaginary when summarized.”
+
+Kade looked back at the prediction model.
+
+He had told himself Pike’s style was useful.
+
+That was true.
+
+He had told himself the rank opportunity was useful.
+
+Also true.
+
+But the percentage bothered him.
+
+Eight point two.
+
+A number deciding what kind of story he was before the first exchange.
+
+That was dangerous motivation.
+
+He knew that now.
+
+Mara seemed to know it too.
+
+“If you fight the percentage, you lose,” she said.
+
+Kade looked at her.
+
+“I am not fighting the percentage.”
+
+“You are looking at it like it insulted your family.”
+
+“It lacks manners.”
+
+“Pike is enough problem for one match.”
+
+Kade closed the prediction window.
+
+That felt strangely difficult.
+
+“Fine.”
+
+Sera pointed her spoon at him.
+
+“That sounded like actual restraint.”
+
+“Do not make it weird.”
+
 The route from Meridian to Arena Four cut through the Hall of Standards.
 
 Kade had passed it before without stopping. Eleven bronze nameplates curved along one wall beneath larger-than-life relief portraits of the first publicly recognized Standard Eights.
@@ -672,6 +764,86 @@ It made the world around it more normal.
 
 That helped.
 
+Park did not clear him to leave until he could walk two laps of the medical floor without his visual tracking lagging.
+
+On the second lap, Kade passed a glass room where structural engineers had already reconstructed the floor event in simulation.
+
+The model showed Pike’s strike entering Kade’s chest.
+
+Then the normal predicted path.
+
+Body displacement.
+
+Foot load.
+
+Boundary exit.
+
+Beside it, the measured path ran red through the support lattice.
+
+Kade stopped.
+
+Park stopped beside him.
+
+“Do not interpret medical wandering privileges as research access.”
+
+“I am standing in a hallway.”
+
+“You are standing in a hallway with intent.”
+
+The simulation repeated.
+
+Kade watched the energy totals.
+
+Input.
+
+Output.
+
+Heat.
+
+Structural strain.
+
+No extra energy.
+
+No impossible multiplication.
+
+Just the wrong destination.
+
+“I didn’t make force,” Kade said.
+
+Park looked at the screen.
+
+“No evidence you did.”
+
+“I moved where it counted.”
+
+“Maybe.”
+
+Kade glanced at her.
+
+“You sound like Sen.”
+
+“That is because uncertainty remains uncertainty when spoken by different people.”
+
+He watched the red path again.
+
+That mattered.
+
+Whatever he had done, it was not a miracle that ignored physics.
+
+The bill had still been paid.
+
+Just somewhere nobody expected.
+
+Park touched his shoulder.
+
+“Walk.”
+
+Kade obeyed.
+
+That was how worried he was.
+
+---
+
 When he finally returned to Meridian, the video had escaped containment exactly as expected.
 
 Eli met him at the elevator.
@@ -724,7 +896,61 @@ Kade rubbed one temple.
 
 “Human progress.”
 
-Mara waited in the Meridian common room.
+The social effect was stranger than the video count.
+
+Two students moved out of Kade’s path in the corridor.
+
+One did it unconsciously.
+
+The other definitely did not.
+
+A first-year he knew only as Devin asked whether Kade could “do the floor thing” to a person.
+
+“No.”
+
+“You sure?”
+
+Kade stopped walking.
+
+“No,” he said.
+
+Devin’s face changed.
+
+Kade hated the answer the instant it existed.
+
+Not because it was dishonest.
+
+Because it was honest.
+
+He did not know.
+
+Sera stepped beside him.
+
+“Go,” she told Devin.
+
+Devin went.
+
+Kade looked at her.
+
+“I could have handled that.”
+
+“I know.”
+
+“Then why—”
+
+“Because you looked like you were about to explain experimental physics to a frightened teenager.”
+
+Kade considered this.
+
+“Fair.”
+
+At dinner, his usual seat remained open.
+
+That mattered more than the students who moved away.
+
+Eli had put a plate there.
+
+Mara waited in the Meridian common room afterward.
 
 She looked at his hands before his face.
 
