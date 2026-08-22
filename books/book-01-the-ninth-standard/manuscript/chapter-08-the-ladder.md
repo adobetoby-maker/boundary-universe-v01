@@ -306,6 +306,36 @@ Eli nearly celebrated harder than Kade did.
 
 “Of course.”
 
+Eli’s first version of the model had six columns.
+
+Opponent rank.
+
+Dominant side.
+
+Average opening distance.
+
+First-step direction.
+
+Most common finish.
+
+And one called **KADE DID SOMETHING DUMB**.
+
+Kade stared at it.
+
+“That last column is subjective.”
+
+“It has the highest sample size.”
+
+“You’re fired.”
+
+“I am unpaid.”
+
+“Then this is easier.”
+
+The model was crude.
+
+Useful anyway.
+
 Kade’s first official challenge was Rank 10,401.
 
 The student’s name was Mae Larson, a compact fighter who knew exactly what Kade’s public footage showed and exactly what it did not.
@@ -376,6 +406,16 @@ Then she left.
 
 Asterion, Kade was learning, contained an unreasonable number of people willing to help him by insulting him accurately.
 
+That night, Eli added three columns.
+
+“Because of one fight?” Kade asked.
+
+“Because your first exchange was bad for a different reason than your second.”
+
+“You are categorizing my failures.”
+
+“I am respecting their diversity.”
+
 The next challenge was different.
 
 Rank 10,177, Oren Mills, was a Storage prospect with enough lower-body field control to make simple grappling unpleasant. Oren did not rush. He waited.
@@ -417,6 +457,116 @@ His rank moved again.
 Not dramatically.
 
 Enough.
+
+The model gained a fatigue column.
+
+Then recovery time.
+
+Then “opponent changes behavior after first score.”
+
+By the end of the week, Eli had stopped pretending the spreadsheet was temporary.
+
+Kade’s next mistake was believing improvement meant he had become good at choosing challenges.
+
+A first-year named Mira Chen posted at 9,721.
+
+Fast.
+
+Technically clean.
+
+Coming off a loss.
+
+Kade had already trained twice that day.
+
+Hale told him to wait.
+
+Sera told him to wait.
+
+Eli showed him a model that said his reaction time dropped nine percent after the second session.
+
+Kade accepted anyway.
+
+“Why?” Eli asked.
+
+“Because she’ll get taken.”
+
+“That is not a training reason.”
+
+“It is a ladder reason.”
+
+Eli stared at him.
+
+“That sentence worries me.”
+
+It should have.
+
+Chen beat Kade in sixty-four seconds.
+
+Not because she surprised him.
+
+Because Kade saw what she was doing and was too slow to answer.
+
+Afterward Hale did not lecture.
+
+He handed Kade an ice pack.
+
+That was worse.
+
+Kade sat on the bench with it against his shoulder.
+
+Eli sat beside him.
+
+Neither spoke.
+
+Finally Kade said, “Nine percent.”
+
+Eli nodded.
+
+“I know.”
+
+“I thought I could compensate.”
+
+“I know.”
+
+“Stop saying that.”
+
+“I do not know what alternative response you want.”
+
+Kade looked at the arena.
+
+The ladder had given him a new way to make an old mistake.
+
+At Northline he had avoided caring.
+
+Here he could care badly.
+
+Turn every opportunity into proof.
+
+Treat rest as weakness.
+
+Treat patience as surrender.
+
+He put the ice pack back on his shoulder.
+
+“Add a column.”
+
+Eli looked over.
+
+“For?”
+
+“Challenge selection.”
+
+A grin appeared.
+
+“Excellent.”
+
+“Do not enjoy this.”
+
+“I am enjoying growth.”
+
+“I can still fire you.”
+
+“You remain unable to pay me.”
 
 9,982 came two days later.
 
@@ -538,13 +688,21 @@ And slightly too good.
 
 Kade filed that away.
 
+The new challenge-selection column said not to take 9,112 either.
+
+Kade did not.
+
+That felt less exciting than winning.
+
+It also felt like learning.
+
 Sera continued stealing food.
 
 Mara continued criticizing foot placement as if it were an ethical obligation.
 
-And Eli built a spreadsheet.
+And Eli kept building the spreadsheet.
 
-Kade discovered it at one in the morning.
+Kade discovered version nine at one in the morning.
 
 It had twenty-three columns.
 
@@ -562,7 +720,7 @@ It had twenty-three columns.
 
 Kade scrolled.
 
-The model tracked opponent tendencies, Kade’s reaction time, failed approaches, distance control, fatigue, and something Eli called **TRANSFER OPPORTUNITIES**.
+The model tracked opponent tendencies, Kade’s reaction time, failed approaches, distance control, fatigue, challenge quality, and something Eli called **TRANSFER OPPORTUNITIES**.
 
 Kade stopped.
 
