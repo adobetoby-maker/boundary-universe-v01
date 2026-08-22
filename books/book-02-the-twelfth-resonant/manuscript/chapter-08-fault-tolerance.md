@@ -894,6 +894,224 @@ Aya walked away before he could celebrate international progress.
 
 ---
 
+Takahara made Aya prove the weakness before dinner.
+
+She paired Aya, Kade, Ren, and Julian around a smaller four-node simulator and gave them one instruction.
+
+“Two of you will receive valid target states that cannot both be satisfied.”
+
+Kade frowned.
+
+“Then one target is wrong.”
+
+“No. Both are locally correct.”
+
+“That is offensive.”
+
+“It is distributed systems.”
+
+Aya looked interested.
+
+That worried Kade.
+
+The simulator activated.
+
+Kade and Ren received Target A: preserve structural load below eighty percent on the east frame.
+
+Aya and Julian received Target B: preserve thermal load below seventy percent on the west frame.
+
+The two goals shared one transfer path.
+
+Satisfying either completely would violate the other.
+
+Aya’s edge model began well.
+
+She made each local consequence visible.
+
+“If east load falls six, west thermal rises four.”
+
+Ren answered, “If west thermal falls five, east structure exceeds eighty-two.”
+
+Julian said, “Then split the difference.”
+
+Kade looked at the thresholds.
+
+“No stable midpoint. Both limits bind.”
+
+The network slowed.
+
+Not because anyone lacked information.
+
+Because all four had enough information to understand why their own local instruction was valid.
+
+Aya added more edge state.
+
+It did not help.
+
+Ren adjusted east.
+
+Julian corrected west.
+
+Aya corrected Ren’s consequence.
+
+Kade corrected Julian’s.
+
+The simulator began to oscillate.
+
+East load.
+
+West thermal.
+
+East.
+
+West.
+
+No one was overriding anyone.
+
+Everyone was rational.
+
+The system was failing politely.
+
+Kade saw Aya’s jaw tighten.
+
+“Your web needs a decision rule.”
+
+“I know.”
+
+“Which one?”
+
+“I do not know yet.”
+
+That was the first time she had said those exact words to him.
+
+Kade felt no satisfaction.
+
+Good.
+
+He looked at the two targets.
+
+“What is shared?”
+
+Julian said, “Transfer path.”
+
+“No. Goal.”
+
+Ren frowned.
+
+“Survive both constraints.”
+
+“We cannot satisfy both.”
+
+“Then define failure.”
+
+Kade pointed at him.
+
+“Yes.”
+
+Aya looked at the simulator.
+
+“The targets define local failure. There is no common failure ordering.”
+
+Kade understood.
+
+Not a leader.
+
+Not a center person.
+
+A shared rule for what the system would sacrifice first when not every valid preference could survive.
+
+He said, “Can we publish a temporary priority rule without making anyone the owner?”
+
+Aya thought.
+
+“Yes.”
+
+Julian said, “Human safety before equipment preservation.”
+
+Takahara said from outside the circle, “Both are equipment.”
+
+Kade sighed.
+
+“Of course.”
+
+Ren read the scenario details.
+
+“East structural exceedance causes irreversible damage at eighty-five. West thermal exceedance is recoverable until seventy-eight.”
+
+Aya answered immediately.
+
+“Then permit west thermal to seventy-six and preserve east below eighty-three.”
+
+Julian nodded.
+
+“Accepted.”
+
+Kade said, “Accepted.”
+
+Ren: “Accepted.”
+
+They published the temporary shared rule.
+
+The oscillation stopped.
+
+Not because Aya’s web disappeared.
+
+Because the edges now referenced one negotiated failure ordering when local goals conflicted.
+
+The simulator stabilized.
+
+Takahara ended the test.
+
+Aya stared at the trace.
+
+Kade said, “You hate this.”
+
+“Yes.”
+
+“Why?”
+
+“Because the common rule becomes a center.”
+
+Kade shook his head.
+
+“Not if anyone can challenge it.”
+
+Aya looked at him.
+
+He continued.
+
+“A center can be a decision, not a person. Temporary. Visible. Replaceable.”
+
+Aya considered that for several seconds.
+
+“Maybe.”
+
+Kade smiled.
+
+“International progress.”
+
+“Do not.”
+
+Takahara said, “Good. You have now found why fault tolerance and consensus are different problems.”
+
+Kade’s smile disappeared.
+
+Right.
+
+A network could survive withdrawal and still fail when autonomous participants legitimately disagreed.
+
+Removing the hub was not enough.
+
+Neither was preserving every edge.
+
+They still needed a way to choose together without making the chooser permanent.
+
+Not solved.
+
+Better problem.
+
+---
+
 That evening Kiyomizu held a dormitory fire drill.
 
 Kade learned about it when every hallway alarm activated while he was brushing his teeth.
