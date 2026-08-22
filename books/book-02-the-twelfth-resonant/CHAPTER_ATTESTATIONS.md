@@ -44,3 +44,35 @@ Each chapter is then attested against its architecture target. The target is an 
 Emergency International Exchange Session is announced; Kade notices the four schools' cooperation doctrines rhyme structurally, while Sera and Eli react to destinations for reasons independent of Kade.
 
 **Advance gate:** PASSED. Chapter 2 may begin.
+
+---
+
+## Chapter 2 — Public Nine
+**Architecture target / expected production count:** ~5,500 words
+**Status:** **ATTESTED — FOUR PASSES COMPLETE**
+
+### Pass checkpoints
+- Pass 1 — structural full draft: `d995046e9f5b4322135a50c746afb2cb623954e9`
+- Pass 2 — public-consequence / density expansion: `f3056f3103c33792ff6ea5d80ed4558ea2d405b2`
+- Pass 3 — clue fairness / continuity refinement: `7690a4701532bd41fe295a4b88f729ce2905d8dd`
+- Pass 4 — audio-first final polish: `b200edee57d4f14c1089c8b0c13a7f2bf567c79b`
+
+### Attestation
+- The central conflict is classification and ownership of meaning, not a repeat of Chapter 1's lab failure.
+- `STANDARD IX` remains explicitly provisional; public board becomes `IX?` rather than falsely certain.
+- Nessa and Anton are active volunteers with their own reasons to participate and the ability to stop the event.
+- Public shared-state event lasts **0.62 seconds** and remains small, unstable, and medically monitored.
+- Kade refuses a repeat when Nessa says no; consent is shown as operational rather than ceremonial.
+- The first media framing wrongly centers Kade; Nessa corrects it herself, preserving participant agency outside the field event too.
+- Yara Malik gives student-government / policy stakes independent of Kade's personal feelings.
+- Early Rule 6 seed for later academy-selection reveal: Asterion already tracks cooperative adaptation across House Trial, team simulation and emergency response; Price states other academies maintain comparable measures, while Park explicitly rejects treating six-person correlation as predictive proof.
+- Standards are shown as scientific shorthand plus social/legal/economic infrastructure, reinforcing the danger of labels becoming reality.
+- Taren's exclusion from the exchange list creates a real consequence of his Book 1 actions; Kade does not immediately intervene to solve it for him.
+- No simple combat upgrade; no coercive Consensus; no Quieter/Severance exposition.
+- Family-clean standard held.
+- Audio-first speaker attribution and hearing/demo transitions checked in Pass 4.
+
+### Chapter exit
+Asterion keeps the designation only as `IX? — PROVISIONAL`; Taren remains excluded from the exchange candidate list; Kade accepts uncertainty as more honest than a premature answer.
+
+**Advance gate:** PASSED. Chapter 3 may begin.
