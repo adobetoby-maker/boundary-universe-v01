@@ -112,3 +112,37 @@ Asterion keeps the designation only as `IX? — PROVISIONAL`; Taren remains excl
 The provisional circuit is Cross, Vey, Vale, Navarro and Mercer. Taren asks them to bring back proof that Asterion is not the only institution wrong about itself; Kade feels Asterion become small for the first time.
 
 **Advance gate:** PASSED. Chapter 4 may begin.
+
+---
+
+## Chapter 4 — Kiyomizu
+**Architecture target / expected production count:** ~5,800 words
+**Status:** **ATTESTED — FOUR PASSES COMPLETE**
+
+### Pass checkpoints
+- Pass 1 — structural full draft: `19831b51f0e2cea2b7d54acefdb78c23a9c3edcf`
+- Pass 2 — scene-density / paired-control expansion: `5c548e139a85ce1f72886f8677c45d53c925daf1`
+- Pass 3 — character/clue refinement: `7817f4aa3fb18d51750f3e9e99f40b48fc2da818`
+- Pass 4 — audio-first final polish: `f68602185608ddae33b0dfeef5a1acf103ad3615`
+
+### Attestation
+- Japan/Kiyomizu arrival is experienced through school culture and technical practice rather than tourism montage.
+- Exchange badges omit Asterion rank and Standard, immediately changing the social frame for Kade and Julian.
+- Kiyomizu deliberately pairs for both compatibility and incompatibility; contradiction blocks prevent students from merely memorizing one partner.
+- Ren Ishida becomes a recurring local peer and demonstrates the danger of a pair becoming so mutually predictive that explicit signaling disappears.
+- Two on-page paired-control exercises expose Asterion's weaknesses: discrete control handoff and command-first communication.
+- Kiyomizu's rule is clear: useful information must arrive early enough for the other participant to remain an operator.
+- Kade and Julian improve from failure to midpack rather than dominating on arrival.
+- Mara/Hana, Sera/Akari, and Eli/Jun each establish independent technical/social trajectories.
+- Julian begins experiencing relief in a place where `Rank One` carries no automatic social authority.
+- Rule 6 seed: Kiyomizu has long-standing first-year assessment categories including `RELATIONAL RESPONSE ARCHITECTURE`, defined broadly as how field behavior changes when another self-directed operator enters the problem. This supports later Zero-architecture discussion without naming or proving it.
+- Kiyomizu still has numbers/rankings internally; the distinction is which metrics it chooses to make socially visible, avoiding simplistic “Asterion bad / Kiyomizu enlightened” framing.
+- Mori is only soft-glimpsed and identified by surname; Aya's formal introduction and ideology remain reserved for Chapter 5.
+- No Consensus breakthrough, no forced network, no Quieter/Severance exposition.
+- Family-clean standard held.
+- Audio-first dialogue and multi-pair exercise attribution checked in Pass 4.
+
+### Chapter exit
+At the next morning's local-pair block, Kade is assigned `MERCER — MORI`; he meets her at center floor without yet receiving the formal Aya/Zero reveal.
+
+**Advance gate:** PASSED. Chapter 5 may begin.
