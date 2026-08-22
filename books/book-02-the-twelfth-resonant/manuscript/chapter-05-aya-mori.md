@@ -54,9 +54,7 @@ No jewelry.
 
 No visible personal marks except a narrow white wrap around two fingers of her left hand.
 
-Her gaze did not stay on Kade long enough to become staring.
-
-It moved to his feet.
+Her attention moved to his feet.
 
 Then shoulders.
 
@@ -76,7 +74,7 @@ Kade knew the feeling.
 
 “Still hostile.”
 
-Aya finally looked directly at him.
+Aya finally met his eyes.
 
 “You correct before people choose.”
 
@@ -1410,7 +1408,7 @@ Aya looked almost surprised.
 
 “Not making the interesting person explain their whole life because I am curious.”
 
-Aya looked at him for a long moment.
+Aya studied him for a long moment.
 
 Then she said, “My field response changes when another operator becomes part of the active system.”
 
@@ -1457,6 +1455,18 @@ No system shutting down.
 One word.
 
 Kade felt the world move anyway.
+
+He almost reached for the conclusion.
+
+Same kind of score failure. Same problem with individual classification. Same strange language around architecture.
+
+Then he stopped himself.
+
+Similarity was not provenance.
+
+Two schools finding the same kind of problem did not prove they had inherited the same secret answer.
+
+Mara would be unbearable if he forgot that.
 
 “What was your score?”
 
