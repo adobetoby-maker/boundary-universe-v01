@@ -14,9 +14,17 @@ At 03:14, every display in Meridian House flashed amber.
 
 **INFRASTRUCTURE EMERGENCY — SHELTER PREPARATION**
 
-Sera was out of her room before the second tone.
+Kade was already dressed.
 
-At 03:15, the amber changed to red.
+Room 814 looked wrong with Eli physically absent but alive somewhere beneath them. The blue seven-day strip remained tied to the bedpost because removing it before the House understood the truth would have created questions they could not answer.
+
+Kade stared at it for half a second.
+
+Alive and missing.
+
+Apparently those states could coexist too.
+
+At 03:15, amber changed to red.
 
 **SECURITY EVENT — EASTERN CAMPUS**
 
@@ -104,13 +112,97 @@ Julian did not.
 
 They moved.
 
+---
+
+House Meridian had practiced evacuation twice that semester.
+
+Both times students complained.
+
+The first drill interrupted breakfast.
+
+The second interrupted an arena semifinal.
+
+Taren had called the route cards decorative anxiety.
+
+Eli had modified his because the printed map failed to account for a service stair.
+
+Sera had timed every floor.
+
+Nobody complained now.
+
+The House divided almost automatically.
+
+Priya took the seventh-floor students and moved them down the west stair.
+
+Anton and Nessa opened the lower common rooms as temporary shelter staging.
+
+Two fourth-years turned the dining hall into a triage station before medical staff arrived.
+
+Someone pulled old House Trial barriers from storage and mounted them across the glass doors facing the courtyard.
+
+The same equipment students had used to score points two months earlier now caught broken window panels.
+
+Kade watched a first-year he barely knew lift one end of a fallen cabinet while another student redirected the weight just enough to free a trapped ankle.
+
+No audience.
+
+No points.
+
+No one asked their ranks.
+
+The school story and the emergency story turned out to be the same story with different consequences.
+
+Kade hated how much that mattered to him.
+
+Sera moved through the common room with a response tablet in one hand.
+
+“North shelter capacity?”
+
+Nessa answered, “Seventy-eight percent.”
+
+“West academic?”
+
+“Forty-one.”
+
+“Send floors three through five west. Keep six and seven north.”
+
+A second-year asked, “Who authorized that?”
+
+Sera looked at him.
+
+“The building.”
+
+He blinked.
+
+She pointed at the load map.
+
+“North bridge is taking too many people. Move.”
+
+He moved.
+
+Kade almost smiled.
+
+Sera noticed.
+
+“Do not.”
+
+“Nothing.”
+
+“You have that face.”
+
+Apparently Darius had spread.
+
+---
+
 The campus Kade had spent months learning became a different system.
 
 Dining halls became triage stations.
 
 Classrooms became shelter zones.
 
-Training barriers were removed from arenas and mounted across corridors.
+Training corridors became controlled movement lanes.
+
+Arena barrier panels became blast shields.
 
 The ranking displays vanished. In their place appeared evacuation routes, structural warnings, and medical capacity.
 
@@ -128,9 +220,9 @@ She gave him a look.
 
 “Then why are you following us?”
 
-“Because the next shelter route passes the engineering junction, and if someone is attacking the island from below, that is the place they will cut.”
+“Because the next shelter route passes the engineering junction, and if someone is attacking the island from below, that is where they will cut it.”
 
-Kade remembered her talking about disaster response.
+Kade remembered her talking about Disaster Response.
 
 Forty people out of a collapsed building.
 
@@ -139,6 +231,34 @@ No one lost.
 This was not a future ambition anymore.
 
 This was practice with consequences.
+
+At the west bridge, hundreds of students moved under emergency lights.
+
+Some were crying.
+
+Some were joking too loudly.
+
+One boy carried a terrarium with a lizard inside because apparently evacuation priorities were personal.
+
+A faculty member tried to make him leave it.
+
+Sera said, “If he can carry it and keep pace, let him.”
+
+The faculty member stared.
+
+Sera had already moved on.
+
+Kade looked at Mara.
+
+“Response is going to love her.”
+
+“They already do.”
+
+“How do you know?”
+
+“I read.”
+
+“Of course.”
 
 The first Directorate operative they saw wore academy maintenance gray.
 
@@ -173,6 +293,8 @@ Supports.
 People.
 
 Transfer paths waiting to become dangerous.
+
+The cold line threatened behind his eyes.
 
 He did not reach for Boundary architecture.
 
@@ -214,9 +336,29 @@ They did.
 
 That helped more than reassurance would have.
 
+The detained operative looked at Kade and smiled.
+
+Not pleasantly.
+
+“You have no idea what you are protecting.”
+
+Kade’s fear sharpened into anger.
+
+“Apparently neither do you, or you would not be breaking into your own school.”
+
+The operative’s smile disappeared.
+
+Sera handed him to campus security.
+
+No one made a speech.
+
+There were too many doors left to secure.
+
+---
+
 The next hour fractured into tasks.
 
-Sera coordinated evacuation through Meridian and the west bridge.
+Sera coordinated evacuation through Meridian and west bridge.
 
 Julian took rotating student teams to reinforce shelter routes.
 
@@ -243,6 +385,30 @@ There was a pause.
 “Emergency conditions.”
 
 “Understood.”
+
+At 03:42, Kade crossed Meridian Commons again.
+
+The House dinner tables had been pushed together beneath the windows to create treatment stations. The ranking board where Kade had once stared at 10,482 showed blood supply and shelter capacity.
+
+An injured first-year lay on the table where Eli had once complained about potatoes.
+
+Sera pressed a seal against the student’s arm and kept talking calmly while a medic worked.
+
+Kade stopped.
+
+Sera looked up.
+
+“What?”
+
+“Nothing.”
+
+She gave him the exact look she had given him months ago.
+
+“Careful.”
+
+He almost laughed.
+
+Some patterns survived everything.
 
 At 04:07, the attack changed.
 
@@ -276,7 +442,9 @@ Julian read it once.
 
 “Of course it is.”
 
-Kade almost laughed.
+Kade laughed despite himself.
+
+The laugh lasted less than a second.
 
 The central access to legacy sublevels lay beneath the oldest administration wing, west of the Spire. Their current position was east-central campus. Under normal conditions it was a seven-minute transit ride.
 
@@ -288,17 +456,33 @@ The island looked wounded.
 
 Smoke moved between buildings but most fires were already controlled. Medical teams worked beneath covered walkways. Students who had spent years training for sport carried stretchers and reinforced damaged structures.
 
+House banners had been torn down to use as visibility markers in the rain.
+
+Meridian’s blue hung from a barricade at the west courtyard.
+
+Kade remembered Taren calling House loyalty socially useful nonsense.
+
+Then remembered Taren ringing the bell after victories like he had invented tradition.
+
+Everything could be both.
+
 The difference between academy games and real danger was not that their skills stopped mattering.
 
 It was that winning stopped being the point.
 
-At the old administration courtyard, they found three Directorate operatives trying to force open the lower access.
+At the old administration courtyard, they found three Directorate operatives trying to force open lower access.
 
-One was an instructor Kade recognized from tactical systems.
+One was Instructor Grae from tactical systems.
 
-That hurt in a way an unknown enemy would not.
+Kade had taken two lectures from him.
 
-Julian stopped beside him.
+Grae had once deducted points because Kade’s written plan failed to include a formal command hierarchy.
+
+That felt almost funny now.
+
+Almost.
+
+Julian stopped beside Kade.
 
 “Stay behind cover.”
 
@@ -322,9 +506,11 @@ Kade remained behind the structural column and hated it.
 
 He watched the fight as a system instead.
 
-The instructor favored the right side.
+Grae favored the right side.
 
 One operative protected the access panel rather than the people.
+
+A second maintained line-of-sight to the lower door even when it cost position.
 
 “They need the door intact,” Kade called.
 
@@ -334,13 +520,35 @@ Changed strategy.
 
 Instead of trying to defeat the operatives, the team made holding the door impossible.
 
-Sera’s response trainees flooded the courtyard from the west.
+Mara redirected Grae’s strongest push into empty courtyard.
+
+Julian forced the second operative to choose between balance and sightline.
+
+Priya arrived with a student-security team and cut off the retreat.
+
+Sera’s response trainees flooded the west side.
 
 The Directorate group withdrew.
 
 Not defeated.
 
 Delayed.
+
+Grae looked at Kade before disappearing behind a service barrier.
+
+“Ask Sen what the Node is afraid of.”
+
+Then he was gone.
+
+Kade felt the sentence lodge beside everything else.
+
+The Node.
+
+Afraid.
+
+Another clue.
+
+No time to solve it.
 
 Eli’s voice came through.
 
@@ -357,6 +565,8 @@ The archive route.
 Taren’s route.
 
 They ran.
+
+---
 
 At the junction above Sublevel Nine, Taren Holt stepped out of smoke.
 
@@ -432,6 +642,42 @@ She considered it.
 
 “Reasonable.”
 
+Kade looked at Taren’s burned credential.
+
+“You could leave.”
+
+Taren frowned.
+
+“What?”
+
+“Your access is gone. Directorate knows you burned them. Asterion does not trust you. You could take a surface evacuation and disappear.”
+
+Taren looked toward the lower door.
+
+“Yes.”
+
+“Why aren’t you?”
+
+Taren’s usual answer would have been a joke.
+
+He did not give one.
+
+“Because Eli went back.”
+
+Kade went still.
+
+Taren looked at him.
+
+“I watched him choose the dangerous direction because other people were behind him. I have spent months explaining my choices as systems and assignments and family pressure.”
+
+He swallowed.
+
+“At some point you either become the person making the choice or you don’t.”
+
+Kade did not forgive him.
+
+But he believed that sentence.
+
 They descended together.
 
 Trust had become an ugly, imperfect thing.
@@ -443,6 +689,8 @@ Not forgiveness.
 A decision to keep moving beside someone while accounting for what they had done.
 
 Maybe that was more useful.
+
+---
 
 The final lift stopped forty meters below the island’s public infrastructure.
 
@@ -472,6 +720,60 @@ Taren looked ahead.
 
 “That is the point.”
 
+They passed an old status panel.
+
+Most of its labels had faded.
+
+One line remained active.
+
+**MANUAL COMPENSATION LOOP — ACTIVE**
+
+Below it:
+
+**DURATION: 16Y 11M 23D**
+
+Kade stopped walking.
+
+Mara stopped beside him.
+
+“Sixteen years,” she said.
+
+Almost seventeen.
+
+Kade felt his pulse in his throat.
+
+“What is a manual compensation loop?”
+
+Taren looked at the display.
+
+“I don’t know.”
+
+Julian said, “Someone has been actively controlling something down here for seventeen years.”
+
+Someone.
+
+Kade thought of Sen seeing Aaron after the official accident.
+
+Elena receiving a watch instead of a body.
+
+Ghost Protocol designed by Aaron.
+
+He did not let the conclusion form.
+
+Not yet.
+
+The corridor turned.
+
+A second status panel displayed:
+
+**BIOLOGICAL CONTROL INPUT: PRESENT**
+
+Kade’s breathing changed.
+
+Mara looked at him.
+
+Neither said anything.
+
 They reached a circular door marked only:
 
 **9**
@@ -497,6 +799,8 @@ Layered containment fields formed a luminous cage around something black and irr
 Contact Zero.
 
 Or part of it.
+
+The Node.
 
 People in Directorate gray moved around the lower platform.
 
