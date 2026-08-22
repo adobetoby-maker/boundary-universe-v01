@@ -42,7 +42,61 @@ Meridian Night happened whenever the House moved upward in the inter-house stand
 
 The unofficial reason was Friday.
 
-The roof had transformed.
+Kade had first heard about Meridian Night at breakfast when Taren stood on a chair and announced, “By order of nobody with authority, tonight is mandatory.”
+
+A second-year yelled, “That word does not mean what you think it means.”
+
+Taren pointed at him.
+
+“You will be there.”
+
+“Probably.”
+
+“See?”
+
+Sera had confiscated the chair before Taren could declare anything else.
+
+By lunch, the event had acquired committees.
+
+Meridian apparently believed every informal gathering required organization sophisticated enough to support a minor military campaign.
+
+Nessa managed food.
+
+Anton handled heaters.
+
+Two second-years controlled music because the previous year Eli had been allowed near the sound system.
+
+“That happened once,” Eli said.
+
+“The fire alarm happened twice,” Sera replied.
+
+Kade had been assigned nothing.
+
+He found that more uncomfortable than he expected.
+
+At Northline, not being asked to participate had been freedom.
+
+At Meridian, it felt suspiciously like being a guest.
+
+So he spent twenty minutes helping Anton carry folding tables to the roof without telling anyone why.
+
+Anton noticed anyway.
+
+“You know you can just come tonight.”
+
+“I am currently carrying a table.”
+
+“That was not what I said.”
+
+Kade set his end down.
+
+“People here are very aggressive about social interpretation.”
+
+Anton grinned.
+
+“House living.”
+
+The roof had transformed by evening.
 
 Light ribbons hung between antenna towers. Portable heaters glowed along the railings. Someone had moved couches outside. Folding tables carried enough food to supply a small evacuation center. Music played loudly enough to fill the open air but quietly enough that conversation remained possible if people actually wanted it.
 
@@ -64,7 +118,43 @@ For nearly six minutes.
 
 It was a record.
 
-Sera found him near a ventilation stack.
+A third-year named Mina insisted he sign the underside of the food table because “everyone who survives their first month does.”
+
+Kade looked beneath it.
+
+Hundreds of names covered the metal frame.
+
+Some were dated years earlier.
+
+Several had ranks written beside them, then crossed out and replaced by better ones.
+
+One simply said:
+
+**J. RAMOS — 9,882 → 114 — STILL BAD AT LAUNDRY**
+
+Kade smiled.
+
+“Do I have to put my rank?”
+
+Mina shrugged.
+
+“Only if you want to enjoy crossing it out later.”
+
+Kade took the marker.
+
+**KADE MERCER — 8,159**
+
+He stared at the number for a second.
+
+Then added:
+
+**WASHING MACHINE 1 — MERCER 0**
+
+Mina laughed.
+
+Something about leaving his name under a table felt more intimate than it should have.
+
+Sera found him near a ventilation stack ten minutes later.
 
 “You look alarmed.”
 
@@ -226,9 +316,37 @@ Julian’s smile sharpened.
 
 “No. They aren’t.”
 
-Somebody across the roof called his name.
+A student passing behind Julian said, “Cross, your father called the House office again.”
 
-Julian lifted the plate.
+Julian’s expression changed so quickly Kade almost missed it.
+
+Not fear.
+
+Tension.
+
+Then control.
+
+“Thanks,” Julian said.
+
+The student moved on.
+
+Kade pretended not to notice.
+
+Julian knew he had noticed anyway.
+
+“Family,” Julian said.
+
+“Dangerous institution.”
+
+“Sometimes.”
+
+That single word contained enough pressure to make Kade revise something.
+
+Rank one, apparently, had parents too.
+
+Somebody across the roof called Julian’s name.
+
+He lifted the plate.
 
 “Good luck with the climb, Mercer.”
 
@@ -257,6 +375,36 @@ Kade watched Julian join a group near the heaters. He was competitive even while
 Nice, Kade decided, was not the same as harmless.
 
 That helped.
+
+The party continued.
+
+A group started a ranking game called First Impression, where everyone guessed what rank a stranger had based only on posture and clothing. It lasted six minutes before somebody guessed a Standard Five upper-year at rank four thousand and the upper-year became personally invested in disproving the method.
+
+Taren organized a rooftop relay using empty cups and no field assistance because “we are not losing another table.”
+
+Kade got drafted onto Mara’s team.
+
+“This is rigged,” he said.
+
+Mara took a cup.
+
+“You say that before every competition you are not prepared for.”
+
+“That cannot be true.”
+
+“You have been here two weeks.”
+
+“Small sample.”
+
+They lost anyway because Eli attempted an “efficiency shortcut” involving the greenhouse stairs and dropped three cups.
+
+Sera declared Meridian structurally unfit for recreation.
+
+For twenty minutes, nobody cared about Kade’s score, his ranking, Zero Protocol, or the final six seconds against Priya.
+
+He did not notice the absence until someone mentioned the national exam in a different conversation and Kade realized he had forgotten himself for a while.
+
+That was new.
 
 ---
 
@@ -512,7 +660,21 @@ Taren lifted his drink.
 
 “Everyone at Asterion does. Some of us admit it.”
 
-Then he wandered toward another group.
+Then his wrist display lit.
+
+He glanced down.
+
+The screen disappeared before Kade could read it.
+
+“You expecting someone?” Kade asked.
+
+“No.”
+
+The answer was smooth.
+
+Too smooth to mean anything yet.
+
+Taren wandered toward another group.
 
 Kade watched him go.
 
@@ -556,4 +718,24 @@ Mara said, “That was predictable.”
 
 Kade laughed.
 
-And stayed.
+At midnight, House Meridian’s lights dimmed automatically.
+
+Nobody left immediately.
+
+The party simply became quieter.
+
+Kade helped carry two tables downstairs.
+
+He found his own name beneath one of them and touched the marker ink with his thumb.
+
+Still there.
+
+A stupid thing.
+
+A small thing.
+
+He had begun to understand those were often the dangerous ones.
+
+Then he went back upstairs.
+
+And stayed until the roof was nearly empty.
