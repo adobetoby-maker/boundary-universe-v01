@@ -536,8 +536,6 @@ He read his load trace again.
 
 “Within.”
 
-That word.
-
 Mara moved left.
 
 Kade’s stomach tightened.
@@ -580,9 +578,7 @@ She did not look at Kade.
 
 That was worse.
 
-“What?” he said.
-
-“You changed my load.”
+“You changed my load,” she said.
 
 “The anchor was near margin.”
 
@@ -601,18 +597,6 @@ That was worse.
 Mara looked at him then.
 
 “I chose the route.”
-
-Kade felt the argument rise.
-
-He had protected her.
-
-The plate had been dangerous.
-
-He had more system information.
-
-All true.
-
-None answered what she had said.
 
 The course timer kept running.
 
@@ -686,8 +670,6 @@ Kade exhaled.
 
 Kade stopped.
 
-Right.
-
 Mara continued.
 
 “We each had information the other did not. That was the test.”
@@ -698,11 +680,7 @@ Mara continued.
 
 “What?”
 
-“Say it.”
-
-Kade frowned.
-
-Mara said, “Tell me you think my choice is too risky. Give me the number. Ask whether I still want the route.”
+“Say it. Give me the number. Ask whether I still want the route.”
 
 “And if you say yes?”
 
@@ -711,14 +689,6 @@ Mara said, “Tell me you think my choice is too risky. Give me the number. Ask 
 “That sounds like leaving you to fall.”
 
 “No. It sounds like you not owning my decision.”
-
-There it was.
-
-The exact sentence he did not want.
-
-Because it was not about training.
-
-Not entirely.
 
 Kade looked through the gate toward the next section.
 
@@ -786,10 +756,6 @@ Three.
 
 Kade felt tension rise in his beam.
 
-Not failure.
-
-Approach.
-
 “Mara, my beam is loading faster than predicted.”
 
 “Mine stable.”
@@ -824,17 +790,13 @@ Her support.
 
 Her route.
 
-The old answer.
-
 Become the center.
 
 Mara shouted, “Information!”
 
-One word.
+Her voice cut through the crack of the failing beam.
 
 Kade stopped the grab halfway.
-
-The beam continued to sink under her.
 
 He saw the numbers.
 
@@ -848,9 +810,11 @@ Mara’s jaw tightened.
 
 “I know.”
 
-Kade felt every part of himself that wanted to say no.
+Both numbers remained inside the limits they had declared before entering the zone.
 
-He said instead, “I think that is too much fall.”
+Kade still hated it.
+
+“I think that is too much fall.”
 
 Mara looked at him across the gap.
 
@@ -864,9 +828,7 @@ Kade took fifty-two percent.
 
 Mara’s beam failed.
 
-She dropped.
-
-Forty-three centimeters.
+She dropped forty-three centimeters.
 
 The arrest field caught.
 
@@ -900,11 +862,7 @@ Kade’s pulse did not.
 
 They crossed the finish line.
 
-Final time: not first.
-
-Not close.
-
-Their early penalties had ruined that.
+Their early penalties had ruined any chance at first.
 
 The board showed:
 
@@ -1170,7 +1128,7 @@ Kade showed Mara.
 
 “Yes.”
 
-He looked at the article.
+He read the article.
 
 The summary emphasized their single override penalty and best-in-heat recovery segment.
 
