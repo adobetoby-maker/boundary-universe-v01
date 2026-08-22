@@ -76,3 +76,39 @@ Emergency International Exchange Session is announced; Kade notices the four sch
 Asterion keeps the designation only as `IX? — PROVISIONAL`; Taren remains excluded from the exchange candidate list; Kade accepts uncertainty as more honest than a premature answer.
 
 **Advance gate:** PASSED. Chapter 3 may begin.
+
+---
+
+## Chapter 3 — Other Schools
+**Architecture target / expected production count:** ~5,300 words
+**Status:** **ATTESTED — FOUR PASSES COMPLETE**
+
+### Pass checkpoints
+- Pass 1 — structural full draft: `c92060bbd780c9a6aa68a753d77b71c52a297a34`
+- Pass 2 — handoff-assessment / density expansion: `8664fae2793f67ef38b233975db30d5c1b5d8948`
+- Pass 3 — host-specific character/clue refinement: `a2d7b4bcc1805032a5bd25b8c010eeed8aa215fd`
+- Pass 4 — audio-first final polish: `9933521c5ff632f90fc1ae720f7e0a8a503f0369`
+
+### Attestation
+- Expands the academy world through four distinct educational philosophies rather than disposable travel exposition.
+- Kiyomizu foregrounds mutual legibility and penalizes unilateral override.
+- Kisiwa treats civic infrastructure and local-team autonomy as primary Resonance work; Sera is the clearest Asterion fit.
+- Vahana teaches orbital systems through explicit responsibility handoff; Eli is its highest-priority Asterion candidate.
+- Helix formalizes shared-state / mutual-prediction theory and introduces recurring student Jonas Falk without solving the cosmology.
+- The on-page handoff assessment makes cooperative-selection logic behavioral rather than decorative: Kade is penalized for overholding responsibility and improves by leaving legible state for the next operator.
+- Host-specific request lists prevent protagonist gravity: Kiyomizu requests Mara first; Kisiwa requests Sera first; Vahana requests Eli first; Kade is fourth/seventh at institutions that value other profiles.
+- Public Asterion rank is explicitly shown not to be a universal value system.
+- Rule 6 seed 1: Jonas states multiple academies track analogous role-switching / incomplete-information / handoff categories.
+- Rule 6 seed 2: Dean Rook confirms all four host schools independently requested some version of the handoff assessment.
+- These clues support the later common-selection-architecture reveal without proving shared origin yet.
+- Taren's exclusion remains consequential; nobody erases it by pulling strings.
+- Mara, Sera, Eli and Julian each have trajectories that would matter without Kade.
+- Aya Mori is not formally introduced early; Chapter 5 retains that entrance.
+- No Quieter/Severance exposition or cosmology shortcut.
+- Family-clean standard held.
+- Audio-first transitions and speaker clarity checked in Pass 4.
+
+### Chapter exit
+The provisional circuit is Cross, Vey, Vale, Navarro and Mercer. Taren asks them to bring back proof that Asterion is not the only institution wrong about itself; Kade feels Asterion become small for the first time.
+
+**Advance gate:** PASSED. Chapter 4 may begin.
