@@ -68,7 +68,7 @@ The boy who linked six minds.
 
 The boy who contacted something beyond the solar system.
 
-The last description was especially irritating because Kade had spent most of the relevant event unconscious or bleeding from the nose.
+That last description was especially irritating because Kade had spent much of the relevant event bleeding from the nose and trying not to fall over.
 
 Mara Vey sat across from him reading a technical brief while eating toast with the efficiency of someone who considered breakfast a solved problem.
 
@@ -730,7 +730,7 @@ His tablet buzzed again.
 
 Kade ignored it.
 
-Mara looked at the screen.
+Mara glanced at the screen.
 
 “Your mother.”
 
