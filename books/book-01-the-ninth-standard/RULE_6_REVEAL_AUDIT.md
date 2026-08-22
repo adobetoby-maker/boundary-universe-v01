@@ -62,19 +62,14 @@ Prior clues:
 
 ## Reveal: Aaron is the erased twelfth Standard Eight
 **Payoff:** Chapter 23.
-**Status:** REPAIR / TARGETED SOFT-CLUE ADDITION NEEDED.
+**Status:** PASS.
 
-Existing setup:
-1. Chapter 19: Aaron was a Zero subject with unusually capable/unknown Resonance and classified Asterion work.
-2. Chapter 18–19: Aaron's entire institutional record has been deliberately removed/sealed.
+Prior clues:
+1. Chapter 7 expansion: an old Conduit calibration matrix uses legacy identifiers `VIII-01` through `VIII-12`, while students know only eleven publicly recognized first-generation Standard Eights. Amadi dismisses the mismatch as legacy schema and explicitly warns against building history from the table.
+2. Chapter 11 expansion: the Hall of Standards displays eleven bronze portraits set into twelve stone bays; the twelfth is a mismatched sealed maintenance panel marked `LEGACY BAY 12 — ACCESS SEALED`. No Aaron reference appears in the scene.
+3. Chapter 18–19: Aaron's institutional record is deliberately removed/sealed and tied to precursor research, providing a separate identity-level setup before the exact Standard Eight resolution.
 
-These establish that Aaron was important and erased, but do not sufficiently foreshadow the specific `twelfth Standard Eight` reveal.
-
-Planned repair before Chapter 23:
-- Add one early visual/institutional irregularity around the canonical Eleven (for example, an old Standard Eight display/architecture whose spacing or legacy numbering implies a missing slot without drawing attention to it).
-- Add one independent technical/reference irregularity before Chapter 23 showing a twelve-item early Standard-Eight-era schema or a skipped identifier without resolving whose it is.
-
-Do not add both clues in the same scene and do not mention Aaron in either clue.
+The two repaired clues are independent in form (technical numbering vs. physical institutional architecture), separated by chapters, and neither points directly to Aaron on first read.
 
 ## Reveal: Contact Zero was nonhuman first contact and Resonance science grew from it
 **Payoff:** Chapter 24.
@@ -178,6 +173,8 @@ Prior clues:
 3. Chapter 32 expansion: Aaron recognizes the countdown format from a damaged precursor-memory fragment, establishing precedent without explaining meaning.
 
 ## Rule 6 conclusion
-All major Book 1 reveals currently meet the two-clue requirement except the precise `Aaron = erased twelfth Standard Eight` reveal, which has broad setup but needs two cleaner pre-Chapter-23 clues specifically around a missing member/slot in the canonical Eleven history.
+**PASS.** Every major Book 1 reveal now has at least two clean prior clues before its payoff.
 
-Repair those two clues during the current 7–11 / early-middle density pass, then re-run this audit before locking the manuscript.
+The final repaired gap was the precise `Aaron = erased twelfth Standard Eight` reveal. It is now supported by two independent, pre-Chapter-23 clues: the Chapter 7 `VIII-01` through `VIII-12` legacy technical schema and the Chapter 11 eleven-portraits/twelve-bays Hall of Standards anomaly.
+
+Do not add additional major mythology clues merely for density. Future expansion should prioritize character, school-world texture, progression, and aftermath unless a new reveal is introduced.
