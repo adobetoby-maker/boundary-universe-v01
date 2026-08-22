@@ -6,7 +6,7 @@ Kade knew it was on purpose because she looked directly at Professor Takahara be
 
 Then she turned off her field.
 
-The five-person structure did not collapse.
+The five-person coordination structure did not collapse.
 
 Kade stopped breathing.
 
@@ -44,7 +44,7 @@ After Aya left, her four edges disappeared.
 
 The remaining six did not.
 
-The network became worse.
+The coordination became worse.
 
 Slower.
 
@@ -116,7 +116,7 @@ She said, “Your face is doing something.”
 
 Kade pointed at the trace.
 
-“That network was worse without her.”
+“That structure was worse without her.”
 
 “Yes.”
 
@@ -266,7 +266,7 @@ The training system had implemented it honestly.
 
 That was worse than sabotage.
 
-He began coordinating.
+He began routing information.
 
 “Mara, anchor two degrades after Ren’s next correction.”
 
@@ -282,9 +282,11 @@ Efficient.
 
 Fast.
 
-Everyone’s information moved through Kade.
+Everyone’s useful state information moved through Kade.
 
-The display showed a clean star.
+Their agency did not.
+
+The display still showed a clean star.
 
 Five nodes.
 
@@ -412,7 +414,7 @@ Nessa’s projected face looked sympathetic.
 
 Kade did not want sympathy.
 
-Eli said quietly, “One hundred percent dependency.”
+Eli said quietly, “One hundred percent routing dependency.”
 
 “Thank you.”
 
@@ -750,7 +752,7 @@ The masses stayed inside their zones.
 
 Stability dropped.
 
-The network lived.
+The coordination structure lived.
 
 Takahara pointed at Mara.
 
@@ -830,7 +832,7 @@ Instead he felt something strange.
 
 Relief.
 
-The network had survived three withdrawals.
+The coordination structure had survived three withdrawals.
 
 It had not survived losing four of five people.
 
@@ -934,11 +936,11 @@ Ren answered, “If west thermal falls five, east structure exceeds eighty-two.�
 
 Julian said, “Then split the difference.”
 
-Kade looked at the thresholds.
+Kade checked the thresholds.
 
 “No stable midpoint. Both limits bind.”
 
-The network slowed.
+The coordination slowed.
 
 Not because anyone lacked information.
 
@@ -1092,13 +1094,13 @@ Kade smiled.
 
 “Do not.”
 
-Takahara said, “Good. You have now found why fault tolerance and consensus are different problems.”
+Takahara said, “Good. You have now found why fault tolerance and Consensus are different problems.”
 
 Kade’s smile disappeared.
 
 Right.
 
-A network could survive withdrawal and still fail when autonomous participants legitimately disagreed.
+A coordination network could survive withdrawal and still fail when autonomous participants legitimately disagreed.
 
 Removing the hub was not enough.
 
