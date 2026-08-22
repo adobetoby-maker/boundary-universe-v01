@@ -806,6 +806,358 @@ Everything on Earth apparently had.
 
 ---
 
+At thirteen thirty, Kade stood in Training Hall Three with Priya Shah trying to hit him.
+
+The fact that she had spent the morning trying to join his allegedly civilization-changing Standard Nine network did not make her slower in ordinary combat.
+
+Unfortunately.
+
+The weekly conventional benchmark was Hale’s idea.
+
+“No Boundary work,” Hale had said. “No unusual transfer. No excuses. I want to know whether you are still learning to fight when nobody cares what your Standard says.”
+
+Kade had pointed toward Priya.
+
+“Why her?”
+
+“Because she enjoys this.”
+
+Priya had smiled.
+
+Hale was correct.
+
+Now she drove Kade backward with a clean three-step combination, waited for the retreat habit he had supposedly fixed months ago, and scored when he gave her half of it back under fatigue.
+
+The training board flashed.
+
+**SHAH 2 — MERCER 1**
+
+Kade reset.
+
+Around the small arena, perhaps forty students watched.
+
+Three months ago they would have been interested because Kade was climbing.
+
+Now they were interested because every fight involving him had become evidence in an argument nobody on campus had agreed to have.
+
+Could Standard Nine beat Standard Six?
+
+Was IX even a combat classification?
+
+Had Kade become stronger after Consensus?
+
+Could he link opponents without consent?
+
+The last rumor had required Sen to publish a statement using the words **structurally impossible and ethically prohibited**.
+
+People had quoted the second half and ignored the first.
+
+Priya settled into stance.
+
+“You’re thinking about the crowd.”
+
+“No.”
+
+“You looked at them.”
+
+“I contain peripheral vision.”
+
+“That is Eli’s phrase.”
+
+“Intellectual property is weak under friendship.”
+
+The signal sounded.
+
+Priya came right.
+
+Kade expected the acceleration burst.
+
+She did not use it.
+
+He moved too early.
+
+She changed levels and took his base.
+
+Kade hit the mat.
+
+Point.
+
+Three-one.
+
+Priya offered a hand.
+
+“Public Nine,” she said.
+
+Kade accepted it.
+
+“I hate you.”
+
+“No, you don’t.”
+
+“Temporarily accurate.”
+
+They reset.
+
+Kade won the next exchange.
+
+Not elegantly.
+
+He watched her hips instead of her field trace and denied the inside route before she committed.
+
+Three-two.
+
+The crowd reacted harder to that point than Priya’s previous two.
+
+Kade heard someone shout, “Use Nine!”
+
+He almost laughed.
+
+Priya did not.
+
+Her eyes hardened.
+
+She attacked.
+
+Kade stayed conventional.
+
+So did she.
+
+The exchange lasted forty seconds.
+
+Kade nearly took the boundary.
+
+Priya recovered, changed direction off the same right foot Kade had learned to read in his first week, and turned his own pressure into the deciding point.
+
+**FINAL — SHAH 4 — MERCER 2**
+
+The arena buzzer sounded.
+
+Kade bent over with both hands on his knees.
+
+Priya remained standing because she was a bad person.
+
+Hale walked onto the mat.
+
+“Assessment?”
+
+Kade looked at the board.
+
+“I lost.”
+
+“Excellent pattern recognition.”
+
+“My conditioning held.”
+
+“Mostly.”
+
+“I stopped chasing her acceleration.”
+
+“Eventually.”
+
+Kade looked at Priya.
+
+She shrugged.
+
+“You still assume the interesting thing is the field.”
+
+Kade straightened.
+
+“That sounded like Mara.”
+
+Priya looked offended.
+
+“I have independent thoughts.”
+
+“Prove it.”
+
+“I beat you.”
+
+“Strong evidence.”
+
+Hale closed the assessment.
+
+On the public board outside the hall, Kade remained #37.
+
+No miracle recalculation.
+
+No Standard adjustment.
+
+He had lost an ordinary benchmark to a student ranked far below him because the benchmark was not the ladder and rank was not prophecy.
+
+That felt healthy.
+
+Annoying.
+
+But healthy.
+
+As Kade left, two younger students were arguing beneath the board.
+
+“See? Nine is useless alone.”
+
+“That’s not what it means.”
+
+“Then what does it mean?”
+
+Neither had an answer.
+
+Kade kept walking.
+
+Neither did he.
+
+---
+
+Vector Analysis at fourteen hundred had also changed because of the countdown.
+
+Professor Amadi had replaced the normal exercise with an emergency logistics model.
+
+The wall showed Earth, Luna, orbital stations, deep-space arrays, and four hypothetical communication delays.
+
+“Today,” she said, “you are not saving civilization.”
+
+Several students looked disappointed.
+
+“You are allocating bandwidth.”
+
+The disappointment became visible.
+
+Amadi smiled slightly.
+
+“Good. We are learning what heroism looks like in infrastructure.”
+
+Kade liked her more every month.
+
+The problem was simple in the way difficult problems often were.
+
+A hypothetical response packet arrived from outside the solar system.
+
+Four agencies wanted full access.
+
+Three scientific arrays needed uninterrupted telemetry.
+
+A lunar emergency network could not tolerate more than forty milliseconds of additional routing delay.
+
+And the public information system had to remain live enough to prevent panic from becoming its own infrastructure failure.
+
+Kade’s group included Owen Park again, a Vahana exchange applicant named Leena Das, and a quiet Perception student Kade knew only as Arun.
+
+Owen started assigning bandwidth by institutional priority.
+
+Kade stared at the diagram.
+
+“That fails.”
+
+Owen did not look up.
+
+“We have been working together long enough for you to provide more than that.”
+
+“Lunar emergency network.”
+
+“It has reserved capacity.”
+
+“On the same relay you just gave to the science arrays.”
+
+Owen frowned.
+
+Leena leaned over.
+
+“He’s right.”
+
+Kade looked at her.
+
+She pointed to the failover architecture.
+
+“The reserve is logical, not physical. Same backbone.”
+
+Owen muttered something about badly written exercises.
+
+Kade smiled.
+
+“Then the exercise is lying.”
+
+Owen looked at him.
+
+“You have one sentence.”
+
+“It remains good.”
+
+They rebuilt the allocation.
+
+Not around prestige.
+
+Around what failed if delayed.
+
+Emergency communications first.
+
+Public status second—not because public information was more scientifically important, but because eight billion frightened people could create physical consequences faster than a telescope could.
+
+Raw science feeds were buffered.
+
+Government copies were staggered.
+
+The model stabilized.
+
+Their score landed fourth.
+
+Kade stared.
+
+“Fourth?”
+
+Amadi walked past.
+
+“You used too much redundancy.”
+
+“We preserved every critical path.”
+
+“At twice the bandwidth cost of the best team.”
+
+Kade looked toward the first-place model.
+
+Mara’s group.
+
+Of course.
+
+Their network preserved the same critical functions with two fewer mirrored routes.
+
+Mara saw him looking.
+
+She lifted one eyebrow.
+
+Kade mouthed, “Show-off.”
+
+She smiled.
+
+Amadi tapped Kade’s table.
+
+“Mr. Mercer.”
+
+“Yes?”
+
+“Why did I assign this?”
+
+“Because cosmological uncertainty was making the syllabus feel insecure.”
+
+“Try again.”
+
+Kade looked at the countdown in the upper corner of the wall.
+
+The exercise had contained no alien physics.
+
+No Boundary architecture.
+
+No hidden Standard.
+
+Just systems forced to share limited capacity under uncertainty.
+
+“Because whatever the countdown is,” he said, “most of the work before it reaches zero is going to be ordinary.”
+
+Amadi nodded.
+
+“Exactly.”
+
+That bothered Kade in a useful way.
+
+---
+
 At sixteen hundred, Eli summoned Kade to Systems Lab with the words:
 
 **IT LIVES. BRING SERA.**
