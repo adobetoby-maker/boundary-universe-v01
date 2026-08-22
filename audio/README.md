@@ -92,14 +92,57 @@ changes, which is why the manifest indirection exists now rather than later.
 | 1 — The Kid in Room Four | `studio-q` | 31m 10s | 14.3 MB |
 | 1 — The Kid in Room Four | `elevenlabs` | 36m 08s | 29.2 MB |
 | 2 — Zero Protocol | **`holden`** | 35m 01s | 29.1 MB |
+| 2 — Zero Protocol | `cast` | 32m 33s | 31.3 MB |
 | 3 — Asterion | **`holden`** | 29m 35s | 28.4 MB |
 | 4 — Ten Thousand Four Hundred Eighty-Two | **`holden`** | 28m 08s | 27.0 MB |
 | 5 — House Meridian | **`holden`** | 27m 50s | 26.7 MB |
 | 2–10 | `studio-q` | — | superseded |
 
-`holden` is the production voice. Where both exist, the manifest lists `holden`
-first, so a player that takes `renders[0]` gets the right one without knowing the
-name. Studio-Q renders are kept for comparison, not for shipping.
+`holden` is the production voice and stays first in `renders[]`, so a player
+taking `renders[0]` gets the right one without knowing the name. `cast` is an
+alternative presentation, not a replacement. Studio-Q renders are kept for
+comparison, not for shipping.
+
+### The `cast` render
+
+Eight speaking parts from two base voices, separated by pitch:
+
+| | Holden | | Maeve |
+|---|---|---|---|
+| Russell | +1.00 | Vale | 0.00 |
+| **narrator / Kade** | **+0.50** | **Elena** | **−1.00** |
+| Darius | −0.65 | Alvarez | −1.75 |
+| Renn | −0.85 | | |
+
+Two things about this are not obvious.
+
+**Each base voice carries its own baseline and its own EQ.** Holden's +0.5 st
+lift exists so the narrator has room to go *down* for Darius, and its 140/250 Hz
+notch kills Holden's specific low-frequency throb. Applied to a female voice the
+first just pitches her up and the second notches out her fundamental — which is
+exactly what happened before it was caught by ear. See `BASE_BASELINE` and
+`BASE_EQ` in `assemble_cast.py`.
+
+**The chain is EQ → shift, per segment.** The single-voice path applies its
+chain once over a finished chapter to avoid compounding resample error; a cast
+cannot, because one chain can't serve eight shifts. The order matters: the notch
+corrects a resonance that *moves with the voice*, so EQ'ing before the shift
+lets it track. It also makes `chain_for('narrator')` string-identical to
+`voice_chain.filter_chain('narrator')`, so the cast narrator is the same Holden
+as the shipped chapters.
+
+**Dialogue tags are split.** `"Bathroom," Darius said.` becomes Darius for the
+quote and the narrator for the tag — otherwise a character announces their own
+attribution. Chapter 2 has 247 lines of dialogue and only 18 inline tags, so the
+other 229 are attributed positionally by scene in `cast_split.py`, reviewed by
+hand, with every correction recorded in `OVERRIDES`. One of those corrections
+matters more than the rest: an inverted seed at line 42 had Darius
+interrogating himself for six lines.
+
+Cost shape worth knowing before doing this again: single-narrator Chapter 3 was
+**6 requests**. Full-cast Chapter 2 was **323** — same words, same runtime, 50×
+the round trips, because narration and dialogue interleave and almost nothing
+merges. Rate limits, not synthesis, are the binding constraint.
 
 
 The five-minute gap is the whole comparison. Studio-Q runs to a hand-written

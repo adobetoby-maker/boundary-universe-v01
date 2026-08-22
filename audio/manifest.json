@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-08-22T06:52:35-06:00",
+  "generated": "2026-08-22T10:56:38-06:00",
   "universe": "The Boundary Universe",
   "sourceBranch": "polish/second-half",
   "books": [
@@ -51,6 +51,17 @@
               "durationSec": 2101.45,
               "sha256": "467f02ae01fb0d81ef1f85c88c23e2ac2390687fc5b4e9da80a08dcd2e4abf9b",
               "note": "Production voice. Engine-timed; the SSML pacing map does not apply."
+            },
+            {
+              "render": "cast",
+              "engine": "ElevenLabs",
+              "voice": "Full cast \u2014 Holden (narrator/Kade +0.50, Russell +1.00, Darius -0.65, Renn -0.85) + Maeve (Vale 0.00, Elena -1.00, Alvarez -1.75)",
+              "file": "audio/book-01-the-ninth-standard/ch02-zero-protocol.cast.mp3",
+              "bytes": 31264226,
+              "durationSec": 1953.95,
+              "sha256": "b275d8eb3c597516a56515b859795a9d80461a8e87d2554fc4c1f80463db144b",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch02-zero-protocol.cast.mp3",
+              "note": "8 speaking parts, 323 segments, 380ms turn gaps. Dialogue tags split off into the narrator so no character announces their own attribution."
             },
             {
               "render": "studio-q",
