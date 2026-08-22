@@ -6,6 +6,142 @@ Asterion would replay the final six for weeks.
 
 He spent the first forty-one discovering how thoroughly a trained Resonant could rearrange his understanding of pain.
 
+The day began two hours earlier with Eli trying to explain how not to get hit.
+
+This would have been more useful if Eli were good at not getting hit.
+
+They stood in Meridian’s lower training room before breakfast. Eli held a tablet in one hand and a piece of toast in the other. Kade wore borrowed training shoes because his own had failed an equipment check for insufficient lateral support.
+
+“Rule one,” Eli said. “Do not stand where the other person wants you.”
+
+Kade looked at him.
+
+“That is not a rule. That is the concept of fighting.”
+
+“I am establishing fundamentals.”
+
+“You have lost six of your last seven assessments.”
+
+“Which makes me experienced in identifying bad outcomes.”
+
+Kade had no response to that.
+
+Sera entered carrying coffee.
+
+“You’re both standing wrong.”
+
+Eli pointed at her. “See? Team effort.”
+
+Sera set the cup on the floor and moved Kade’s rear foot six inches outward with the toe of her shoe.
+
+“Balance.”
+
+“I had balance.”
+
+“You had optimism.”
+
+Kade shifted his weight.
+
+The position felt less comfortable.
+
+Also more stable.
+
+He hated that.
+
+Mara arrived five minutes later, already dressed for her own morning session.
+
+She watched Kade move through a basic defensive pattern once.
+
+Then twice.
+
+“Your shoulders tell the truth before your feet do,” she said.
+
+Kade stopped.
+
+“That sentence feels personal.”
+
+“You tense before you retreat.”
+
+“Most people tense before getting hit.”
+
+“Most people here are trying to stop doing that.”
+
+Eli held up the tablet.
+
+“Priya Shah. Rank six two-oh-four. Standard One confirmed. Primary strength: acceleration control and balance disruption.”
+
+Kade looked at Mara.
+
+“You know her?”
+
+“House Meridian. Different floor.”
+
+“Convenient.”
+
+“She’s good.”
+
+“That sounded ominous.”
+
+“It was informational.”
+
+Kade sighed.
+
+A month ago, waking before seven to practice being hit by strangers would have qualified as evidence that his life had deteriorated.
+
+Now he was annoyed that he only had forty minutes.
+
+That realization bothered him more than the assessment.
+
+At breakfast, House Meridian behaved as though Kade’s upcoming match were community property.
+
+Anton Bell had watched Priya’s last three bouts.
+
+Nessa Kim thought Kade should stay mobile.
+
+Sera thought Kade should stop listening to Anton and Nessa.
+
+Eli had built a probability model he refused to show anyone because its first result gave Kade a four percent chance of winning and he claimed the sample was “emotionally irresponsible.”
+
+Priya herself arrived halfway through breakfast.
+
+She set down a tray three seats away.
+
+Kade looked at her.
+
+She looked at him.
+
+Eli immediately became fascinated by his oatmeal.
+
+Priya smiled.
+
+“You’re my assessment.”
+
+“Apparently.”
+
+“Sorry.”
+
+Kade frowned.
+
+“For what?”
+
+“You’ll see.”
+
+She started eating.
+
+Kade looked at Sera.
+
+“She seems nice.”
+
+Sera nodded.
+
+“That is not good for you.”
+
+“Why?”
+
+“Because if she were awful you could get angry instead of learning.”
+
+Kade hated Meridian before eight in the morning.
+
 The assessment arena was smaller than the broadcast stadiums, built for instruction rather than spectacle. White composite floor. Transparent barrier walls. Two starting circles twelve meters apart. Embedded sensors traced every approved field effect, impact vector, balance shift, and physiological change.
 
 One hundred first-years sat in tiered seats around the perimeter.
@@ -30,15 +166,7 @@ Kade’s current combat rating remained blank.
 
 Priya looked at the board, then at him.
 
-“Sorry.”
-
-Kade frowned.
-
-“For what?”
-
-She lifted her hands into a ready stance.
-
-“This is going to look bad.”
+“Sorry,” she said again.
 
 Kade glanced toward the observation booth.
 
@@ -856,128 +984,462 @@ Kade opened the link.
 
 **THE FORTY-SEVEN SECOND FIGHT**
 
-Thirty thousand internal views.
+Below it, a slowed clip of the impact had already crossed fifty thousand campus views.
 
-A second post had clipped only the wall impact and slowed it to one eighth speed.
+The comments were worse.
 
-Comments multiplied beneath it.
+**HE TELEPORTED FORCE**
 
-**HE DIDN’T OUTPUT ANYTHING**
+**NO FIELD OUTPUT???**
 
-**SHAH HIT HIM AND THE BUILDING FLINCHED**
+**SHAH GOT ROBBED**
 
-**ZERO MY FOOT**
+Priya herself had replied to that one.
 
-**WHAT IS SEN HIDING**
+**I WON. LEARN TO READ.**
 
-Kade closed the forum.
+Kade smiled.
 
-The attention felt different now.
+Then another thread appeared.
 
-Being last had made him a joke.
+**ZERO IS CHEATING**
 
-This made him a question.
+The smile went away.
 
-He was not sure which was worse.
+He closed the forum.
 
-The medical-room door opened.
+Park saw.
 
-Sen entered alone.
+“Good decision.”
 
-Kade looked at the clock.
+“I was becoming educationally enriched.”
 
-“Is it still Wednesday?”
+“Social media is contraindicated after unexplained neurological events.”
 
-“Yes.”
+“That should be a general policy.”
 
-“Good start.”
+Park almost smiled.
 
-She sat in the chair beside his bed.
+Sen entered ten minutes later.
 
-No tea this time.
+This time she carried a tablet.
 
-That made Kade more nervous than anything she had done all week.
+Kade looked at it.
 
-“What did I do?” he asked.
+“Bad sign.”
 
-Sen looked at the darkened screen displaying his final six seconds.
+“You are medically cleared for housing.”
 
-“We do not know.”
+“Good sign.”
 
-“You knew something in the arena.”
+“Not for unsupervised field activity.”
 
-“I recognized a pattern.”
-
-“From what?”
-
-Sen’s eyes moved to him.
-
-“From things you are not cleared to know yet.”
-
-Kade laughed once.
-
-“Of course.”
-
-She did not react.
-
-“I am going to change your training authorization.”
-
-Kade’s humor disappeared.
-
-“What does that mean?”
-
-“It means until we understand what happened, you do not deliberately attempt to reproduce it without medical and field containment.”
-
-“So I’m restricted.”
-
-“Yes.”
-
-“For doing something I cannot explain.”
-
-“For producing a neurological event and an unresolved structural transfer.”
-
-He looked away.
-
-Sen continued.
-
-“You can train. You can compete under ordinary caps once Park clears you. You can learn the fundamentals you are missing. You can improve your rank.”
-
-“But not the thing that might be the only reason I am here.”
-
-Sen was silent for a moment.
+“Neutral sign?”
 
 “No.”
 
+Kade’s shoulders tightened.
+
+“For how long?”
+
+“Until we understand what happened.”
+
+“That could mean forever.”
+
+“It could.”
+
+He stared at her.
+
+Sen did not soften it.
+
+Kade appreciated that and resented it simultaneously.
+
+“What did I do?”
+
+“We know the result.”
+
+“That is not what I asked.”
+
+“No.”
+
+“You knew something in the arena.”
+
+Sen’s eyes narrowed.
+
+“I recognized that the event did not fit ordinary field transfer.”
+
+“That sounded very careful.”
+
+“It was.”
+
+“Do you have a name for it?”
+
+A pause.
+
+Not long.
+
+Long enough.
+
+“Not one I am prepared to give you today.”
+
 Kade looked at her.
 
-For the first time he saw something beneath her composure.
+There it was again.
 
-Not suspicion.
+The shape around an answer.
 
-Fear.
+Sen said, “Go back to Meridian. Eat. Sleep. Tomorrow we discuss training.”
 
-It was there and gone quickly.
+“Restricted training.”
 
-But Kade noticed people when they were trying very hard not to react.
+“Yes.”
 
-“What are you afraid of?”
+Kade slid off the medical bed.
 
-Sen stood.
+His knees held.
 
-“Repetition.”
+Progress.
 
-“Of what?”
+At the door, Sen said, “Mercer.”
 
-She did not answer.
+He turned.
 
-The door closed behind her.
+“You did not win that fight.”
 
-Kade sat alone with the word.
+“I noticed.”
 
-Repetition.
+“You learned something anyway.”
 
-Outside medical, the clip continued spreading.
+He waited.
 
-Inside three layers of restricted access, six people replayed the final impact over and over, trying to determine how a student with zero measured output had moved enough force to make an arena wall absorb another person’s momentum.
+“So did we.”
 
-And Kade Mercer, officially ranked last, began to understand that being the least measurable person at Asterion might be very different from being the least dangerous.
+That felt less comforting than she probably intended.
+
+---
+
+Meridian had transformed his forty-seven seconds into a festival by the time he returned.
+
+A hand-drawn sign over the elevator read:
+
+**WELCOME BACK, WALL BOY**
+
+Someone had crossed out WALL BOY and written ZERO WALL beneath it.
+
+Someone else had crossed out both and written **NO**.
+
+Kade suspected Mara.
+
+Eli met him outside room 814.
+
+“You look alive.”
+
+“Park confirmed.”
+
+Eli hugged him.
+
+Briefly.
+
+Then immediately pretended he had been reaching around Kade for the door control.
+
+Kade decided not to mention it.
+
+Inside the room, Mara sat at Eli’s desk with three replay windows open.
+
+Sera occupied Kade’s chair eating something from a takeout box.
+
+Taren leaned against the wall.
+
+Kade stopped in the doorway.
+
+“Did I lose my room while I was in medical?”
+
+“Yes,” Sera said.
+
+“Democracy,” Taren added.
+
+Mara looked at Kade’s hands.
+
+“Still shaking?”
+
+“No.”
+
+“Headache?”
+
+“Two.”
+
+Her eyes lifted.
+
+He understood the question she had not asked.
+
+“Yes. Park knows.”
+
+Mara nodded.
+
+Eli turned one replay toward him.
+
+“The telemetry gap is exactly six frames.”
+
+“You mentioned access.”
+
+“I temporarily had access.”
+
+“How?”
+
+Eli became very interested in the replay controls.
+
+Taren coughed.
+
+“House systems are porous.”
+
+Kade looked at both of them.
+
+“Those are suspiciously compatible answers.”
+
+Eli said, “The important part is that the wall receives the load.”
+
+Sera pointed a fork at him.
+
+“Do not turn his possible neurological problem into a hobby.”
+
+“It is not a hobby.”
+
+“Your hobbies explode.”
+
+“Fair.”
+
+Kade sat on his bed.
+
+The room quieted.
+
+Mara asked, “What did it feel like?”
+
+Kade looked at the paused image.
+
+Priya’s hand on his chest.
+
+His body at the boundary.
+
+The wall behind him.
+
+“Like everything was connected.”
+
+Taren’s expression changed.
+
+Only slightly.
+
+Kade noticed.
+
+Mara said, “Everything what?”
+
+“Priya. Me. Floor. Wall.”
+
+“That is ordinary force transfer.”
+
+“No.”
+
+Kade closed his eyes.
+
+How did you describe something that had not felt like sight or touch?
+
+“It wasn’t that they were connected. It was that the divisions felt optional.”
+
+Silence.
+
+Eli stopped moving.
+
+Mara’s attention sharpened.
+
+Sera put down her fork.
+
+Taren looked at the replay again.
+
+Kade opened his eyes.
+
+“That sounded worse aloud.”
+
+“Yes,” Mara said.
+
+“Thank you.”
+
+Sera slid the takeout box toward him.
+
+“Eat.”
+
+Kade looked inside.
+
+Rice, vegetables, chicken.
+
+“Is this yours?”
+
+“It was.”
+
+“You stole my food yesterday.”
+
+“Systems evolve.”
+
+He ate.
+
+Nobody asked him to explain anything else.
+
+That helped more than he expected.
+
+At 21:10, Elena called before Kade remembered he had promised to call her.
+
+He answered from the Meridian roof because the room contained too many witnesses.
+
+She took one look at him.
+
+“What happened?”
+
+“Hello to you too.”
+
+“Kade.”
+
+He told her.
+
+Not every detail.
+
+Enough.
+
+The fight.
+
+The wall.
+
+Medical.
+
+The headache.
+
+The wrong day.
+
+Elena became so quiet that Kade regretted mentioning the last part.
+
+“I’m okay now.”
+
+“That is not the same as nothing happened.”
+
+“I know.”
+
+“Did they image you?”
+
+“Yes.”
+
+“Twice?”
+
+“Yes.”
+
+“Who reviewed it?”
+
+“Park.”
+
+“Neurology?”
+
+“Also somebody whose name I forgot.”
+
+Elena closed her eyes.
+
+Kade waited.
+
+When she opened them, the nurse had receded and his mother was back.
+
+“Do you want me there?”
+
+The question landed harder than expected.
+
+He looked out over Asterion.
+
+Training lights along the southern arenas.
+
+Students crossing bridges.
+
+The Meridian bell above him.
+
+“No,” he said.
+
+Then quickly, “Not because I don’t want you. I mean—”
+
+Elena smiled faintly.
+
+“I know what you mean.”
+
+Kade rubbed one hand over the back of his neck.
+
+“This place is weird.”
+
+“I had gathered.”
+
+“I lost in forty-seven seconds.”
+
+“I saw.”
+
+He froze.
+
+“You saw it?”
+
+“It was sent to me by three people from work.”
+
+Kade looked horrified.
+
+“One of the trauma surgeons asked whether you were always like this.”
+
+“What did you say?”
+
+“Yes.”
+
+“Betrayal.”
+
+Elena laughed.
+
+Then her expression softened.
+
+“You got up every time.”
+
+Kade looked away.
+
+“That was the assessment.”
+
+“That is not why I said it.”
+
+He knew.
+
+That made it worse.
+
+After the call, Kade remained on the roof.
+
+Forty-seven seconds.
+
+Officially a loss.
+
+Publicly a spectacle.
+
+Medically an unresolved problem.
+
+But somewhere inside those forty-seven seconds, he had seen something real.
+
+He did not know what it was.
+
+Sen probably knew more than she said.
+
+Eli had six missing frames.
+
+Mara had questions.
+
+Sera had food.
+
+Taren had looked too interested when Kade said the divisions felt optional.
+
+The Meridian bell hung above him in darkness.
+
+Still silent.
+
+Kade looked at his shaking hand.
+
+It had stopped.
+
+He curled it into a fist.
+
+Tomorrow Asterion would tell him what he was not allowed to do.
+
+For tonight, he let himself admit something simpler.
+
+He wanted to understand what he had done.
