@@ -58,6 +58,8 @@ At Asterion, most systems were visible because someone had designed the island t
 
 Here, the systems had reasons that existed before his arrival.
 
+Nairobi was one of several major Kisiwa teaching hubs across the Union, not a summary of the whole federation. Kamau had said that twice in the exchange briefing. Kade suspected she had met visiting students before.
+
 Kamau stood near the center doors.
 
 “First assignment.”
