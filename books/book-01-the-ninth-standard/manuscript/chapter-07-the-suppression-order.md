@@ -426,7 +426,129 @@ He almost laughed.
 
 Progress could be humiliating too, apparently.
 
-At lunch, Priya Shah sat across from him without invitation.
+Then the doors to the main field opened.
+
+Students with active clearance crossed toward acceleration lab.
+
+Mara went with them.
+
+Priya too.
+
+A dozen first-years Kade had started recognizing by gait rather than name.
+
+Through the glass wall, colored field traces appeared as the class began controlled starts.
+
+Hale put another foam block on Kade’s mat.
+
+“Again.”
+
+Kade looked through the glass.
+
+Everyone else moved toward the thing he had come to Asterion to learn.
+
+He stayed with the foam blocks.
+
+The restriction had stopped being words on a tablet.
+
+It had become a door other people walked through without him.
+
+“Mercer.”
+
+Kade reset his feet.
+
+Again.
+
+---
+
+Hale made the afternoon worse.
+
+“Zero-field sparring,” he announced.
+
+Kade looked at the mat.
+
+“That sounds targeted.”
+
+“It is.”
+
+His opponent was Nessa Kim.
+
+Rank 4,118.
+
+Perception specialist.
+
+No field use allowed.
+
+Kade had assumed that would make the gap smaller.
+
+It did.
+
+Unfortunately smaller was not the same as small.
+
+Nessa put him on the mat in twenty-two seconds.
+
+Kade sat up.
+
+“You are a Perception specialist.”
+
+“Yes.”
+
+“That was grappling.”
+
+“Yes.”
+
+“I object to interdisciplinary competence.”
+
+Nessa offered a hand.
+
+“You stand too high.”
+
+“Everyone says that.”
+
+“Then perhaps the conspiracy is physical.”
+
+Kade took the hand.
+
+Second round lasted thirty-nine seconds.
+
+He stopped watching her hands and started watching her hips.
+
+Nessa still swept him.
+
+Third round, Kade managed to break one grip before losing.
+
+Fourth, he forced a reset.
+
+Hale called time.
+
+Kade was breathing harder than Nessa.
+
+He waited for some consolation.
+
+Hale said, “Your fourth round was acceptable.”
+
+Kade looked at him.
+
+“That is the nicest thing you’ve ever said.”
+
+“It is not.”
+
+“Let me have this.”
+
+Nessa smiled.
+
+She left for field practice.
+
+Kade stayed behind to wipe down the mat.
+
+That part was not assigned.
+
+He did it anyway.
+
+He was beginning to understand that getting better involved an irritating amount of behavior nobody applauded.
+
+---
+
+At dinner, Priya Shah sat across from him without invitation.
 
 A few conversations nearby quieted.
 
@@ -442,11 +564,11 @@ Kade looked up from his food.
 
 “For rumor control?”
 
-“For lunch.”
+“For dinner.”
 
-“It’s dinner.”
+“You said lunch yesterday.”
 
-“Then I failed.”
+“I am improving.”
 
 Kade smiled.
 
@@ -552,6 +674,44 @@ Kade let it go.
 
 Mostly because he still did not understand the derivation.
 
+The assignment afterward was worse.
+
+A field-transfer proof that depended on notation Kade had seen only once.
+
+He understood the picture.
+
+He understood what the system was doing.
+
+He could not get from line three to line four without inventing mathematics.
+
+He tried anyway.
+
+Amadi returned the proof ten minutes later with one section highlighted.
+
+**PHYSICALLY PLAUSIBLE. MATHEMATICALLY UNSUPPORTED.**
+
+Kade stared.
+
+“That feels personal.”
+
+Amadi was already helping another student.
+
+He looked around the room.
+
+Nobody was watching him fail.
+
+That made failure stranger.
+
+At Northline, he could have decided the assignment was stupid.
+
+Here, the assignment was not stupid.
+
+He simply did not know enough yet.
+
+That was a less comfortable problem.
+
+Also a more solvable one.
+
 Eli saw his notes afterward.
 
 “This is beautiful.”
@@ -567,6 +727,86 @@ Eli saw his notes afterward.
 Kade closed the tablet.
 
 “That is enough friendship for today.”
+
+---
+
+Meridian Study began at nineteen hundred with a tiny brass bell.
+
+Kade learned this by being in the common room when an upper-year struck it and announced, “Two hours. Try not to become less educated.”
+
+Every table filled.
+
+Nobody had told him Study was a House ritual.
+
+No one needed to.
+
+Eli had cables spread over half a table.
+
+Sera color-coded disaster-response notes with the concentration of someone planning an actual evacuation.
+
+Taren sat in a group arguing economics.
+
+Mara worked alone near the window.
+
+Kade almost went upstairs.
+
+Then Eli pushed an empty chair toward him with one foot.
+
+Not an invitation exactly.
+
+Space.
+
+Kade sat.
+
+For forty minutes he worked on Amadi’s proof.
+
+At forty-one, he realized he had inverted a transform.
+
+At forty-three, Eli realized it too.
+
+“You inverted the transform.”
+
+“I know.”
+
+“You have been staring at it for two minutes.”
+
+“I was building character.”
+
+“Did it work?”
+
+“No.”
+
+Eli showed him the step.
+
+Kade erased it and started again.
+
+Around them, Meridian studied loudly.
+
+Someone hissed at a chemistry simulation.
+
+Someone else fell asleep on a history reader and was covered with a jacket without waking.
+
+At twenty-one hundred, the brass bell rang again.
+
+Students began packing.
+
+Kade looked at the proof.
+
+Correct.
+
+Not elegant.
+
+Not fast.
+
+Correct.
+
+He saved it.
+
+No ranking changed.
+
+No crowd reacted.
+
+The satisfaction was almost private enough to trust.
 
 ---
 
