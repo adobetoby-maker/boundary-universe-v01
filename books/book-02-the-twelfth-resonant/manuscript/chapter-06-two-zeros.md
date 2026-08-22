@@ -682,6 +682,272 @@ Eli looked offended.
 
 ---
 
+Kiyomizu’s individual-output lab sat beneath the west training hall and looked almost exactly like Asterion’s early assessment rooms.
+
+That bothered Kade more than it should have.
+
+White floor.
+
+Single operator station.
+
+Instrumented target array.
+
+No partner markings.
+
+No shared-state geometry.
+
+One person.
+
+One field.
+
+One score.
+
+Professor Takahara brought Kade and Aya there after lunch without explaining why.
+
+Aya understood first.
+
+“You want the wrong axis.”
+
+Takahara nodded.
+
+“Exactly.”
+
+Kade looked between them.
+
+“I dislike how quickly everyone understands the lesson except me.”
+
+“You understand,” Aya said. “You dislike the result in advance.”
+
+“That too.”
+
+The assessment was deliberately ordinary.
+
+Move a twenty-kilogram training mass across five marked positions using only direct field output. No environmental redirection. No shared load. No relation to another operator. No Boundary redefinition.
+
+Kade went first.
+
+His initial acceleration was embarrassing.
+
+Not catastrophic.
+
+Not zero.
+
+Just weak.
+
+The mass moved.
+
+Slowly.
+
+His direct-output trace landed below the Kiyomizu first-year median.
+
+A number appeared.
+
+**DIRECT CONTROL EFFICIENCY: 41.8**
+
+Kade stared at it.
+
+“Rude.”
+
+Takahara said, “Accurate.”
+
+“Those concepts overlap too often here.”
+
+Aya stepped into the station.
+
+Kade expected precision to save her.
+
+It did not.
+
+Without another operator or changing relationship to read, Aya’s field was clean but ordinary. She moved the mass with less wasted motion than Kade, but not much more force.
+
+**DIRECT CONTROL EFFICIENCY: 56.3**
+
+Aya’s mouth tightened.
+
+Kade noticed.
+
+“You hate that.”
+
+“No.”
+
+He waited.
+
+“Yes.”
+
+“Good. International consistency.”
+
+Aya ignored him.
+
+Takahara changed the apparatus.
+
+A second station rose from the floor.
+
+Ren entered through the side door, already smiling.
+
+Aya looked at Takahara.
+
+“You planned this.”
+
+“Yes.”
+
+Ren took the second station.
+
+The same twenty-kilogram mass remained in place.
+
+Takahara said, “Do not increase available energy. Do not increase field ceilings. Move the same mass through the same positions.”
+
+Ren activated.
+
+Aya did too.
+
+Nothing dramatic happened.
+
+The first movement was simply faster.
+
+Aya’s trace changed before Ren applied full correction.
+
+Ren adjusted to her.
+
+She adjusted to him.
+
+The mass crossed the five positions in half the time.
+
+The screen refused to give an individual score.
+
+Instead:
+
+**PAIR EFFICIENCY: 91.2**
+
+Kade felt the point before Takahara said anything.
+
+Aya looked at the number.
+
+Not pleased.
+
+Vindicated.
+
+Different thing.
+
+Takahara waved Kade into Ren’s place.
+
+He stepped up.
+
+Same energy ceiling.
+
+Same mass.
+
+No full Consensus.
+
+Aya said, “Do not center me.”
+
+“I know.”
+
+“Knowing and doing remain separate.”
+
+“Cruel.”
+
+“Preventive.”
+
+They started.
+
+Kade felt the mass, the two stations, the floor anchors, Aya’s field.
+
+The temptation was to define one system and make every correction count inside it.
+
+He resisted.
+
+Aya shifted first.
+
+Kade described what her change did to his available route.
+
+She adapted.
+
+He changed his boundary.
+
+The mass moved.
+
+Not as cleanly as Aya and Ren.
+
+But faster than either Kade or Aya alone.
+
+**PAIR EFFICIENCY: 88.7**
+
+Kade looked from that number to his 41.8.
+
+Then Aya’s 56.3.
+
+“So if you measure us alone, I’m bad and you’re average.”
+
+Aya said, “If you measure us alone, you are measuring a different problem.”
+
+Takahara nodded.
+
+Kade hated when the instructor and Aya formed temporary alliances.
+
+He looked at the three results again.
+
+41.8.
+
+56.3.
+
+91.2.
+
+88.7.
+
+No extra energy.
+
+No hidden amplification.
+
+The improvement came from how existing control became organized when another self-directed operator entered the system.
+
+Kade said, “That is why Nine is wrong.”
+
+Aya looked at him.
+
+“Yes.”
+
+“Because it implies a ninth individual capability.”
+
+“Yes.”
+
+“And whatever this is only becomes visible when the measured unit changes.”
+
+Aya’s expression softened by a fraction.
+
+“Yes.”
+
+Takahara said, “Careful.”
+
+Kade looked at her.
+
+“You have identified why the old axis is insufficient. You have not identified the final axis.”
+
+There it was.
+
+The reminder he needed.
+
+Not answer.
+
+Better question.
+
+Kade nodded.
+
+Aya looked at the individual score still glowing beside her name.
+
+Then she dismissed it with one swipe.
+
+“Still rude,” Kade said.
+
+“Accurate,” Aya replied.
+
+He smiled.
+
+“Now you’re doing it on purpose.”
+
+“Yes.”
+
+---
+
 That afternoon Kade and Aya were assigned a theory room instead of a training floor.
 
 Kade considered this retaliation for the internet.
