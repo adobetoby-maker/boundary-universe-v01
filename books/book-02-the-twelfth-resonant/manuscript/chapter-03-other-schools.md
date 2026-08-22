@@ -22,9 +22,9 @@ Kade stared at it.
 
 “Paper has authority.”
 
-Sera looked at the map.
+Sera tapped Vahana on the map.
 
-“You circled Vahana three times.”
+“You circled it three times.”
 
 “Orbital systems.”
 
@@ -56,7 +56,7 @@ Mara looked up.
 
 “Dangerous habit.”
 
-Sera tapped Kisiwa on Eli’s map.
+Sera tapped Kisiwa next.
 
 “Kisiwa runs civic-response rotations with municipal systems.”
 
@@ -66,7 +66,7 @@ Eli looked wounded.
 
 “I know what I’m applying for.”
 
-Kade looked at her.
+Kade glanced at her.
 
 “You decided.”
 
@@ -102,7 +102,7 @@ Kade grimaced.
 
 Eli ignored her.
 
-Kade looked at the four academy seals.
+Kade studied the four academy seals.
 
 Asterion had spent months feeling like the center of the Resonant world.
 
@@ -134,7 +134,7 @@ Eli slid the map toward him.
 
 “You were excluded,” Sera said.
 
-Eli looked at her.
+Eli winced.
 
 “You could have softened that.”
 
@@ -142,7 +142,7 @@ Eli looked at her.
 
 Sera did not apologize.
 
-Taren looked over the academy names.
+Taren examined the academy names.
 
 For a moment the expression he usually wore disappeared.
 
@@ -150,7 +150,7 @@ Kade had learned to notice those moments.
 
 “You wanted to go,” Kade said.
 
-Taren looked at him.
+Taren met his eyes.
 
 “Obviously.”
 
@@ -264,7 +264,7 @@ A middle-aged instructor spoke in Japanese, translated cleanly through the displ
 
 “At Kiyomizu, control without mutual legibility is considered incomplete. A technically correct result achieved by masking intent from a partner may receive a lower evaluation than a slower result achieved through shared state awareness.”
 
-Kade looked at Mara.
+Kade glanced at Mara.
 
 “That seems targeted.”
 
@@ -280,7 +280,7 @@ Not to trick the other.
 
 To see whether the pair could correct without one person becoming dominant.
 
-Kade felt something under his ribs.
+Something tightened under Kade’s ribs.
 
 Not Boundary architecture.
 
@@ -300,11 +300,11 @@ Mara was already reading the technical notes.
 
 “That is false.”
 
-Sera physically took Mara by the sleeve.
+Sera caught Mara by the sleeve.
 
 Mara looked down at the hand.
 
-Sera released her.
+Sera released her immediately.
 
 “Sorry.”
 
@@ -312,7 +312,7 @@ Mara closed the display.
 
 “Accepted.”
 
-Kade noticed the exchange.
+Kade filed away the exchange.
 
 Small consent.
 
@@ -346,7 +346,7 @@ A timer ran anyway.
 
 Sera stopped walking.
 
-Kade saw her face change.
+Her face changed.
 
 Not excitement exactly.
 
@@ -380,9 +380,9 @@ The performance summary listed:
 
 No individual ranks.
 
-Kade noticed a pattern.
+Kade saw the pattern.
 
-Sera noticed something else.
+Sera saw something else.
 
 “They put the local team in command.”
 
@@ -394,9 +394,7 @@ Sera nodded.
 
 “Because the local people know the system.”
 
-Kade looked at her.
-
-“Your first placement fire.”
+Kade said, “Your first placement fire.”
 
 Sera’s eyes moved to him.
 
@@ -404,7 +402,7 @@ Not angry.
 
 Checking.
 
-Kade regretted saying it in public.
+He regretted saying it in public.
 
 “Sorry.”
 
@@ -470,8 +468,6 @@ The recording’s instructor appeared.
 
 “Orbital systems punish local thinking. A correct intervention in one compartment may be fatal two modules away. Command is therefore taught as explicit transfer of responsibility, not permanent ownership.”
 
-There it was again.
-
 Different language.
 
 Same shape.
@@ -480,11 +476,9 @@ Responsibility transferred.
 
 No permanent owner.
 
-Kade glanced at Eli.
-
 Eli had already pulled up the technical appendix.
 
-“You are not going to read all of that now.”
+“You are not going to read all of that now,” Kade said.
 
 “I might.”
 
@@ -538,7 +532,7 @@ A Helix lecture excerpt played.
 
 “Cooperative field theory fails when we model coordination as communication between complete individuals. At sufficient coupling, each participant remains autonomous, but the active physical model must include the effects of mutual prediction.”
 
-Kade stopped.
+Kade went still.
 
 Mara did too.
 
@@ -687,8 +681,6 @@ Faculty notes.
 One new category Kade had never seen before.
 
 **COOPERATIVE ADAPTATION INDEX**
-
-He stared at it.
 
 The number beside his name was not his rank.
 
@@ -942,7 +934,7 @@ Rook displayed the scoring dimensions.
 
 **NEXT-OPERATOR RECOVERY TIME**
 
-Kade looked at his score.
+Kade checked his score.
 
 His system outcome was high.
 
@@ -956,9 +948,7 @@ Julian beat Kade by half a point because apparently Rank One had also learned ho
 
 Eli scored lower on system outcome and highest on assumption disclosure.
 
-Kade stared at the board.
-
-“This is what the cooperative index measures.”
+“This is what the cooperative index measures,” Kade said.
 
 Rook stood beside him.
 
@@ -970,29 +960,19 @@ Rook considered the phrasing.
 
 “We care whether responsibility can move without the system collapsing.”
 
-Kade thought of Vahana’s orientation phrase.
+Kade thought of Vahana’s handoff doctrine.
 
-Handoff doctrine.
+Then Kiyomizu’s mutual authorization.
 
-Then Kiyomizu.
+Kisiwa’s local autonomy.
 
-Mutual authorization.
-
-Then Kisiwa.
-
-Local autonomy.
-
-Then Helix.
-
-Shared-state systems.
+Helix’s shared-state systems.
 
 Different vocabulary.
 
 Same recurring problem.
 
-Kade looked at Rook.
-
-“Did the host schools ask for this assessment?”
+“Did the host schools ask for this assessment?” Kade asked.
 
 “All four asked for some version.”
 
@@ -1014,9 +994,9 @@ Julian second.
 
 Kade fourth.
 
-He stared at the list.
+He studied the list.
 
-Mara saw.
+Mara saw his expression.
 
 “You look relieved.”
 
@@ -1040,13 +1020,9 @@ Then again.
 
 Her face went carefully blank.
 
-Kade recognized that move.
-
-He did not comment.
+Kade recognized that move and left it alone.
 
 Anton Bell appeared fourth on Kisiwa’s request despite being nowhere near the top of Asterion’s public ladder.
-
-Kade liked that too.
 
 Vahana’s first Asterion request was **Navarro**.
 
@@ -1118,11 +1094,9 @@ Elias Navarro.
 
 Kade Mercer.
 
-Kade stared.
-
 Five names.
 
-He looked automatically for Taren’s.
+Kade looked automatically for Taren’s.
 
 Not there.
 
@@ -1152,9 +1126,9 @@ That was harder than it should have been.
 
 Julian noticed.
 
-Mara noticed him noticing.
+Mara noticed Julian noticing.
 
-Nobody rescued him from the choice.
+Nobody rescued Kade from the choice.
 
 Good.
 
@@ -1224,7 +1198,7 @@ Julian looked toward Kade.
 
 “And you?”
 
-Kade looked at the map.
+Kade studied the map.
 
 Kiyomizu’s paired control.
 
@@ -1264,9 +1238,7 @@ Eli answered first.
 
 “I’m trying a new lifestyle.”
 
-Kade looked at him.
-
-“What do you want?”
+Kade asked, “What do you want?”
 
 Taren considered the question.
 
@@ -1289,8 +1261,6 @@ Maybe it was what each system could not see from inside itself.
 The countdown above the Commons doors changed another second.
 
 **00:269:22:11:08**
-
-Kade looked at the map.
 
 Four schools.
 
