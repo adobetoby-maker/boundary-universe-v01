@@ -806,6 +806,98 @@ Everything on Earth apparently had.
 
 ---
 
+Kade found Julian Cross outside Training Hall Three ten minutes before the conventional benchmark.
+
+Julian wore a formal Asterion jacket over training clothes and looked offended by both.
+
+“You have a panel?” Kade asked.
+
+“Had.”
+
+“Before lunch?”
+
+“Tokyo was awake.”
+
+Kade looked at the jacket.
+
+“Did the jacket help?”
+
+“Apparently it reassures governments.”
+
+“That fabric exists?”
+
+“Very expensive fabric.”
+
+Julian pulled the jacket off and folded it over one arm.
+
+For a second, Kade saw a public clip from the previous week: Julian Cross, Rank One, seated beneath a headline that read **CONVENTIONAL EXCELLENCE IN AN IX WORLD**.
+
+Kade had sent him the screenshot with the message **YOU ARE A HISTORICAL CONTROL GROUP NOW**.
+
+Julian had not replied for six hours.
+
+Then: **I dislike you.**
+
+Kade nodded toward the training hall.
+
+“Priya is about to beat me.”
+
+“Probably.”
+
+“That confidence is why people love you.”
+
+Julian looked toward the ranking board.
+
+“They asked me this morning whether I felt replaced.”
+
+Kade stopped smiling.
+
+“By me?”
+
+“By the concept of you.”
+
+“That sounds worse.”
+
+“It was.”
+
+Julian’s expression stayed controlled, but Kade had learned where the control sat now.
+
+“What did you say?”
+
+“That you are still bad at conventional defense.”
+
+Kade stared.
+
+Julian smiled.
+
+“I also said Standard Nine is not a ladder rung above me.”
+
+“Less useful for headlines.”
+
+“Much.”
+
+Kade hesitated.
+
+“You okay?”
+
+Julian looked at him.
+
+Kade resisted the urge to make the question smaller.
+
+Julian considered it seriously.
+
+“No,” he said. “But I’m going to training.”
+
+That answer felt more honest than most reassurance.
+
+Kade nodded.
+
+“Same.”
+
+They went inside together.
+
+---
+
 At thirteen thirty, Kade stood in Training Hall Three with Priya Shah trying to hit him.
 
 The fact that she had spent the morning trying to join his allegedly civilization-changing Standard Nine network did not make her slower in ordinary combat.
@@ -1156,6 +1248,74 @@ Amadi nodded.
 
 That bothered Kade in a useful way.
 
+Outside class, Taren stood beside a security officer holding a tablet he was not touching.
+
+Kade slowed.
+
+“You waiting for me?”
+
+“No.”
+
+The officer looked at Taren.
+
+Taren corrected himself.
+
+“I was told to wait here while someone decided whether I am permitted to attend the exchange briefing.”
+
+“That sounds healthy.”
+
+“It is extremely trust-building.”
+
+The officer did not smile.
+
+Taren did.
+
+Kade noticed a notification on the tablet between them.
+
+**DELEGATION CANDIDATE ROUTING — RESTRICTED**
+
+Taren saw Kade see it.
+
+For months, old Taren would have known the list before the people on it did.
+
+Maybe he already did.
+
+Instead he turned the tablet facedown without opening the notification.
+
+Kade looked at him.
+
+Taren shrugged.
+
+“I’m trying something new.”
+
+“What?”
+
+“Finding out information when I’m supposed to.”
+
+“That sounds terrible.”
+
+“It is.”
+
+Kade almost asked whether his own name was on the list.
+
+The question reached his mouth.
+
+Stopped.
+
+If Taren knew, asking would turn restraint into a service Kade expected him to break.
+
+“See you at six,” Kade said instead.
+
+Taren’s expression changed by a fraction.
+
+“If they let me in.”
+
+“Right.”
+
+Kade kept walking.
+
+Trust repair, apparently, could look like two people refusing to make the easy request.
+
 ---
 
 At sixteen hundred, Eli summoned Kade to Systems Lab with the words:
@@ -1278,15 +1438,55 @@ A notification followed.
 
 Kiyomizu.
 
+Beneath its seal: **PAIRED CONTROL / MUTUAL AUTHORIZATION.**
+
 Kisiwa.
+
+**DISTRIBUTED CIVIC RESPONSE / COMMUNITY LOAD SHARING.**
 
 Vahana.
 
+**COOPERATIVE COMMAND MESH / HANDOFF DOCTRINE.**
+
 Helix.
 
-Kade looked at Sera.
+**MULTI-OPERATOR SHARED-STATE SYSTEMS.**
 
-She was already staring at Kisiwa’s seal.
+Kade read the four descriptions twice.
+
+Different schools.
+
+Different countries.
+
+Different public philosophies.
+
+The wording was not the same.
+
+The shape underneath it felt uncomfortably familiar.
+
+Eli stood up from the floor.
+
+“Did everyone independently invent synonyms for ‘people stop being separable’?”
+
+Sera looked at the display.
+
+“Maybe.”
+
+Kade thought of Aaron’s precursor work.
+
+The twelve-person coupled tests.
+
+Asterion’s insistence that its history had been exceptional.
+
+One screen was not evidence.
+
+He had learned that lesson.
+
+Still.
+
+He filed the similarity away.
+
+Sera was already staring at Kisiwa’s seal for a different reason.
 
 Eli had stopped breathing normally at Vahana’s orbital insignia.
 
