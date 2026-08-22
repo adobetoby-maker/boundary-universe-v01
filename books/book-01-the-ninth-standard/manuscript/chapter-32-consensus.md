@@ -106,13 +106,75 @@ Nothing happened.
 
 For one terrible second, absolutely nothing.
 
-Then he stopped trying.
+Then two.
+
+Kade tried harder.
+
+Still nothing.
+
+He reached for the cold-line sensation he knew from Boundary events.
+
+Pain flickered behind his eyes.
+
+Mara’s hand tightened.
+
+“Stop.”
+
+“I am trying to connect.”
+
+“You are trying to make something happen to me.”
+
+Kade froze.
+
+Aaron’s voice came weakly from the rail.
+
+“There.”
+
+Kade looked at him.
+
+“That is the first failure mode.”
+
+“I did not do anything.”
+
+“You defined her as the object.”
+
+Kade hated how immediately the explanation made sense.
+
+World on one side.
+
+Operator on the other.
+
+He had turned Mara into the world.
+
+Mara released his hand.
+
+“Again.”
+
+Kade flexed his fingers.
+
+“Comforting confidence.”
+
+“I am not confident.”
+
+“Excellent.”
+
+She held out her hand again.
+
+Kade took it.
+
+This time he stopped trying.
 
 Stopped reaching.
 
 Stopped thinking of himself as the person who had to make the connection happen.
 
 He thought instead of the space they were both choosing to share.
+
+A physics problem with no owner.
+
+A House plan nobody owned anymore.
+
+A training partnership where both people could change the answer.
 
 The world shifted.
 
@@ -150,27 +212,149 @@ Kade almost laughed.
 
 Definitely Mara.
 
+The connection held for four seconds.
+
+Then Kade tried to examine it.
+
+The network snapped.
+
+Mara staggered.
+
+Containment dropped to twenty percent.
+
+Kade swore internally and remembered the family-clean rule even in crisis.
+
+Aaron said, “Second failure mode.”
+
+“Curiosity?”
+
+“Ownership.”
+
+Kade stared at him.
+
+“You tried to inspect something that existed between you as if it belonged to you.”
+
+Mara rubbed her temple.
+
+“That is also extremely him.”
+
+“Thank you.”
+
+“No.”
+
+Eli said, “Ninety-three seconds.”
+
+Kade breathed.
+
+“Again.”
+
+Mara took his hand.
+
+This time the shared model formed faster.
+
+Kade did not poke it.
+
+Did not test whether he could see more.
+
+Did not ask what Mara was feeling beyond what she actively contributed.
+
 The connection held.
 
-Containment dropped to nineteen percent.
+Containment: eighteen percent.
 
 “Sera?” Kade asked.
 
-Sera did not take his hand.
+Sera did not take his other hand.
 
 She placed hers on Mara’s shoulder.
 
 “Yes.”
 
-The system changed again.
+The system changed.
+
+Too quickly.
+
+Kade’s awareness lurched outward.
+
+He felt Mara’s field geometry and Sera’s spatial risk model at the same time.
+
+The two overlapped incorrectly in his head.
+
+For half a second Kade treated them as one input.
+
+Sera jerked her hand back.
+
+“No.”
+
+The connection collapsed.
+
+Kade grabbed the rail to remain standing.
+
+Pain flashed behind his eyes.
+
+“What?”
+
+Sera pointed at him.
+
+“You flattened us.”
+
+“I did not mean to.”
+
+“I know.”
+
+Aaron nodded.
+
+“Third failure mode.”
+
+Kade glared at him.
+
+“Are there many?”
+
+“Yes.”
+
+“Good to know now.”
+
+“We did not have time before.”
+
+“That appears to be a family habit.”
+
+Aaron flinched.
+
+Kade regretted the line immediately.
+
+Not because it was false.
+
+Because there would be time to hurt each other properly later if they survived.
+
+“Sorry.”
+
+Aaron looked at him.
+
+“Later.”
+
+“Later.”
+
+Eli said, “Seventy-nine seconds.”
+
+Kade reset.
+
+Mara offered her hand again.
+
+Sera put hers on Mara’s shoulder.
+
+Kade formed the connection with Mara.
+
+Then waited.
 
 Sera entered differently.
 
-Not precision.
+Not as more information.
+
+As another center.
 
 Distribution.
 
-She saw risk as routes.
+Risk as routes.
 
 Loads that needed somewhere safe to go.
 
@@ -191,6 +375,12 @@ Sera gasped.
 “Unfortunately.”
 
 Kade smiled.
+
+Mara said, “Do not get sentimental in my nervous system.”
+
+“I am not in your nervous system.”
+
+“Good.”
 
 “Julian?”
 
@@ -216,13 +406,85 @@ Not command.
 
 Leadership without control.
 
-Kade suddenly understood why people followed him during the siege.
+Then Kade made the mistake of trusting Julian’s certainty too much.
 
-Julian said, “This is going to make sparring very awkward.”
+He let Julian’s prioritization become the network’s prioritization.
 
-“Focus,” Mara and Kade said together.
+Mara’s field geometry tightened around it.
 
-Julian laughed.
+Sera’s evacuation model lost options.
+
+The network became cleaner.
+
+Stronger.
+
+Wrong.
+
+Aaron shouted, “Break.”
+
+Kade released immediately.
+
+Everyone staggered apart.
+
+Julian looked pale.
+
+“What happened?”
+
+Aaron answered.
+
+“You became the command center.”
+
+Julian’s expression hardened.
+
+“I did not issue anything.”
+
+“You did not have to. Kade treated your certainty as authority.”
+
+Kade stared at Julian.
+
+Julian stared back.
+
+His father’s philosophy returned between them.
+
+Best person in the room owns every failure.
+
+Control with good outcomes becomes leadership.
+
+Julian shook his head.
+
+“No.”
+
+Kade understood.
+
+“No.”
+
+Julian stepped back into position.
+
+“If I contribute priority, you do not obey it. You use it.”
+
+Kade nodded.
+
+“Agreed.”
+
+Eli said, “Sixty-two seconds and I dislike every one of them.”
+
+“Join the club.”
+
+They reformed.
+
+Mara.
+
+Sera.
+
+Julian.
+
+Separate.
+
+Present.
+
+No one promoted to center.
+
+Containment dropped to fifteen percent.
 
 “Taren?”
 
@@ -256,7 +518,35 @@ Taren nodded.
 
 “That seems fair.”
 
-He stepped beside Julian and put a hand on his arm.
+He did not move.
+
+Kade waited.
+
+Taren looked at Mara.
+
+Then Sera.
+
+Julian.
+
+“Do all of you agree?”
+
+Kade felt something shift in the room.
+
+Taren was not asking Kade.
+
+Good.
+
+Mara said, “Yes.”
+
+Sera said, “For this purpose.”
+
+Julian nodded.
+
+“Agreed.”
+
+Taren breathed out.
+
+Then stepped beside Julian and put a hand on his arm.
 
 “I consent.”
 
@@ -274,11 +564,25 @@ Participation had to be active.
 
 Taren entered the shared model carrying something none of the others possessed: the Directorate security lattice, the architecture of locks, the logic of people who designed systems assuming somebody should always be in control.
 
-He did not become trustworthy.
+Kade recoiled from the information instinctively.
+
+The network wobbled.
+
+Taren said, “You do not have to trust me.”
+
+“I know.”
+
+“Use what I am giving you or don’t.”
+
+Kade breathed.
+
+He let the information exist without assigning moral status to the person providing it.
+
+Taren did not become trustworthy.
 
 His information became usable because he chose to offer it and everyone else chose whether to rely on it.
 
-Kade almost lost the network in that realization.
+The network held.
 
 Aaron’s voice cut through.
 
@@ -288,21 +592,15 @@ Aaron’s voice cut through.
 
 “Do not decide what they mean. Let them remain themselves.”
 
-Kade breathed.
+Kade almost laughed.
 
-Right.
+“That would have been useful forty seconds ago.”
 
-The mistake was flattening.
+“I am working from memory while holding a first-contact object quiet with my nervous system.”
 
-Consensus was not one mind.
+“Fair.”
 
-Not six people dissolving into Kade.
-
-It was six centers of agency sharing one physical model.
-
-Coordination without surrender.
-
-Containment: fourteen percent.
+Containment: twelve percent.
 
 Eli said, “I need in.”
 
@@ -314,7 +612,7 @@ Kade looked toward the ceiling as if he could see him.
 
 “That is not reassuring.”
 
-“There’s an active haptic bridge in your emergency panel. Sen can patch my Conduit through it.”
+“There is an active haptic bridge in your emergency panel. Sen can patch my Conduit through it.”
 
 Sen was already moving.
 
@@ -324,11 +622,25 @@ Eli’s biometric trace appeared on Kade’s side of the system.
 
 Kade felt the boundary of the network waiting.
 
-“Eli?”
+He stopped.
 
-His answer came quietly for once.
+“Eli.”
 
-“Yes.”
+“Yeah?”
+
+“I need you to say yes.”
+
+A beat.
+
+The room seemed to become quieter around the question.
+
+Eli answered without joking.
+
+“Yes. For containment only. No memory access, no experimental side quests, no making me emotionally infrastructure without consent.”
+
+Kade smiled despite everything.
+
+“Agreed.”
 
 Sen activated the haptic bridge.
 
@@ -414,13 +726,23 @@ Kade exposed the relationships.
 
 Mara immediately stabilized the field geometry around the failing east damper.
 
-Julian shifted mechanical load away from the cracked support spine.
+Julian saw a force imbalance in the cracked support spine.
 
-Sera partitioned that load across three routes that remained safe for the occupied chambers above.
+He offered the priority.
+
+Not an order.
+
+Sera saw three routes that could safely accept the shifted load without sending it toward occupied shelter levels.
+
+She chose one.
+
+Julian used her route.
 
 Eli identified the phase error preventing two signal dampers from synchronizing.
 
-Taren unlocked the Directorate bypass so Eli could reverse it.
+Taren exposed the Directorate bypass key that had kept them separated.
+
+Mara adjusted geometry to account for the new signal path.
 
 Nobody waited for Kade to order them.
 
@@ -466,6 +788,32 @@ Make everyone hold.
 
 Force the system stable.
 
+He could feel how.
+
+That was the dangerous part.
+
+The network had enough coherence now that Kade could push.
+
+He could narrow Mara’s options to the stable geometry.
+
+Force Julian to maintain one priority.
+
+Lock Sera into the safest load route.
+
+Use Taren’s security logic whether Taren wanted it or not.
+
+Make Eli keep processing despite overload.
+
+For one terrible fraction of a second, centralizing everything looked efficient.
+
+Kade understood the Directorate.
+
+Not morally.
+
+Mechanically.
+
+Fear made control look like care.
+
 Aaron’s warning returned.
 
 *Do not pull them in.*
@@ -498,7 +846,39 @@ A strained laugh.
 
 “Not dying twice in one week.”
 
-The network held because each person chose again.
+Kade did not tell them to hold.
+
+He asked one more question.
+
+“Do you all still choose this?”
+
+Mara answered first.
+
+“Yes.”
+
+Sera.
+
+“Yes.”
+
+Julian.
+
+“Yes.”
+
+Taren took longer.
+
+Then:
+
+“Yes.”
+
+Eli’s answer came over the bridge.
+
+“Yes.”
+
+The network re-formed around renewed permission.
+
+Not stronger because everyone obeyed.
+
+Stronger because nobody had to.
 
 Containment climbed to twenty-eight percent.
 
@@ -550,11 +930,39 @@ The chamber exhaled.
 
 Kade did too.
 
-The shared awareness faded immediately as people let go.
+The shared awareness did not disappear immediately.
+
+For several seconds it remained at low intensity.
+
+Kade became aware of how easy it would be to keep it.
+
+That frightened him.
+
+Mara felt the same possibility.
+
+“Release,” she said.
+
+Kade nodded.
+
+One by one, they withdrew.
 
 Not ripped away.
 
 Released.
+
+Eli first through the haptic bridge.
+
+Then Taren.
+
+Julian.
+
+Sera.
+
+Mara last.
+
+Each departure made the system smaller without making Kade feel abandoned.
+
+That might have been the strangest part.
 
 Mara’s presence became simply Mara standing beside him again.
 
@@ -576,21 +984,43 @@ Park was already moving through the group with a scanner.
 
 “Everyone stays seated. No one stands unless I clear them.”
 
+Sera looked at her.
+
+“I am already standing.”
+
+“Then stop.”
+
+Sera sat.
+
 Kade looked toward Aaron.
 
 His father had released one hand from the containment rail for the first time since Kade entered.
 
+Then the other.
+
 The system continued functioning.
 
-Aaron stared at his own hand.
+Aaron stared at both hands.
 
-Then at Kade.
+Kade understood what he was seeing.
 
-For seventeen years he had carried the chamber because nobody else could share the work safely.
+For seventeen years, Aaron had been required every second.
 
-Now, for a few seconds, he had not been alone.
+Now, for the first time, the chamber could remain stable without all of him.
+
+Aaron laughed once.
+
+Quietly.
+
+Then cried.
+
+No one pretended not to notice.
 
 Kade wanted that to feel like victory.
+
+It did.
+
+For approximately five seconds.
 
 Then Eli went silent.
 
@@ -656,7 +1086,45 @@ Maybe the thing the Node feared was gone.
 
 Maybe the signal dissolved into empty dark.
 
-Three minutes later, the lunar controller spoke again.
+Park moved from Sera to Julian with the scanner.
+
+“Mercer, pupils.”
+
+Kade opened his eyes.
+
+She shone a light.
+
+“Headache?”
+
+“Six.”
+
+“Tremor?”
+
+He held up one hand.
+
+It shook.
+
+“Any memory loss?”
+
+Kade looked at Mara.
+
+“What is my rank?”
+
+“Two-eleven.”
+
+“Unfortunately remember.”
+
+Park did not smile.
+
+“Everyone in the network shows neurologic strain. No one uses Consensus again until we know why.”
+
+Kade nodded.
+
+No argument.
+
+That surprised Park enough that she looked at him twice.
+
+Three minutes after the burst, the lunar controller spoke again.
 
 Her voice had changed.
 
@@ -696,10 +1164,74 @@ Mara stared at the sequence.
 
 The chamber went silent.
 
-Kade looked at his father.
+Aaron stood slowly despite Park’s protest.
 
-Aaron Mercer had spent seventeen years holding a signal inside a hidden chamber beneath a school.
+He looked at the coordinates.
 
-For less than one second, they had failed.
+His face changed.
 
-Something had answered.
+Kade saw recognition.
+
+Not of the location.
+
+Of the pattern.
+
+“You have seen this format before,” Kade said.
+
+Aaron did not answer.
+
+“Aaron.”
+
+“Not this exact one.”
+
+“That was careful.”
+
+“Yes.”
+
+“What have you seen?”
+
+Aaron looked at the Refuge Node.
+
+“Fragments. During the early years. Structured responses embedded in its damaged memory.”
+
+“From who?” Eli asked.
+
+“We never knew.”
+
+“Did they include countdowns?” Mara asked.
+
+Aaron’s silence lasted too long.
+
+“One,” he said.
+
+Kade’s skin went cold.
+
+“To what?”
+
+“It ended before we understood what it was counting toward.”
+
+Sen stared at him.
+
+“You never told me that.”
+
+Aaron looked back.
+
+“You had your secrets.”
+
+The family resemblance was becoming less flattering.
+
+Kade almost laughed.
+
+Then he looked at the new countdown.
+
+The numbers kept falling.
+
+For less than one second, they had let the Refuge Node speak.
+
+Something had answered almost immediately.
+
+And somewhere inside an alien system that had spent thirty-one years trying to stay quiet, there had once been another countdown.
+
+Kade had no idea whether that made the new message better.
+
+It did not feel better.
