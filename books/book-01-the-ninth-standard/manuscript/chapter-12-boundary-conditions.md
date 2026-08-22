@@ -334,36 +334,484 @@ Sen had made it matter.
 
 He left.
 
-The door closed behind him.
+---
 
-He stood alone in the stone corridor.
+The first person Kade saw outside was Mara.
 
-Asterion hummed around him through the walls—elevators, field dampers, thousands of students moving through a system designed to measure almost everything they did.
+That was becoming statistically suspicious.
 
-Sen had lied twice in one meeting.
+She sat on the stone ledge across the courtyard with a book open on her lap. A physical book. The kind Asterion kept in climate-controlled rooms like historical artifacts.
 
-He was almost certain about the first.
+Kade stopped.
 
-He was completely certain about the second.
+Mara looked up.
 
-Kade took out his phone.
+“Well?”
 
-He opened a message to Eli.
+“She lied.”
 
-**Sen wants your model. Your choice. No pressure.**
+Mara closed the book.
 
-The reply came twenty seconds later.
+“About what?”
 
-**She can have the observations. Not my notes.**
+“At least two things.”
 
-Kade smiled.
+Kade sat beside her.
 
-**I’ll tell her.**
+Students crossed the courtyard around them. Somewhere above, a maintenance drone buzzed along the old building’s facade.
 
-He put the phone away.
+He told her the explanation.
 
-For the first time, the mystery around Zero Protocol no longer felt like a government problem.
+Not every sentence.
 
-It had reached backward into his family.
+Enough.
 
-And Kade had spent his whole life learning that when adults worked very hard to make something look unrelated, the connection was usually where the interesting part began.
+Existing force.
+
+Unexpected load path.
+
+Conventional output near zero.
+
+Boundary architecture.
+
+Mara listened without interrupting.
+
+When he reached Sen’s answer about prior examples, she said, “Verified modern training program.”
+
+“Exactly.”
+
+“That is lawyer language.”
+
+“Director language.”
+
+“Same family.”
+
+Kade looked at her.
+
+Mara almost smiled.
+
+Then he said, “I asked about my father.”
+
+The almost-smile disappeared.
+
+“What did she say?”
+
+“No.”
+
+“And?”
+
+“She lied.”
+
+Mara studied him.
+
+“How sure?”
+
+Kade thought of Sen’s half-finished breath.
+
+“Completely.”
+
+Mara looked toward the administration building.
+
+“That means your father mattered to whatever she is protecting.”
+
+“Or she met him once.”
+
+“You don’t believe that.”
+
+“No.”
+
+Neither did she.
+
+For a minute they sat without speaking.
+
+Kade expected anger to fill the space.
+
+Instead he felt something worse.
+
+Uncertainty.
+
+He had always had a simple story about Aaron Mercer.
+
+Dead young.
+
+Industrial accident.
+
+Sad enough to explain the photographs. Final enough to avoid questions.
+
+Now Sen had made even that unstable.
+
+Mara said, “Do not confront her again today.”
+
+Kade looked at her.
+
+“That sounded like an instruction.”
+
+“It was.”
+
+“Why?”
+
+“Because you are angry.”
+
+“That has never stopped me before.”
+
+“I know.”
+
+He hated how much that sounded like Sera.
+
+Mara reopened the book.
+
+Kade looked at the cover.
+
+**Field Stability Under Recursive Coupling**
+
+“Light reading?”
+
+“Apparently.”
+
+“You carry textbooks to stakeouts?”
+
+“This is not a stakeout.”
+
+“You were waiting outside Sen’s office.”
+
+“I had reason to believe you would leave through this courtyard.”
+
+“That is the definition of waiting.”
+
+Mara went back to reading.
+
+Kade smiled despite himself.
+
+---
+
+He asked Eli about the model that evening.
+
+Not in passing.
+
+Actually asked.
+
+They sat at their desks with the tactical file open between them.
+
+“Sen wants the observations,” Kade said. “Not your notes unless you want to include them.”
+
+Eli stopped spinning a stylus between his fingers.
+
+“She said that?”
+
+“She said I have to ask you.”
+
+Eli looked surprised.
+
+Then thoughtful.
+
+“What does she want to do with it?”
+
+“I don’t know.”
+
+“Who gets access?”
+
+“I don’t know.”
+
+Eli frowned.
+
+Kade waited.
+
+It was harder than he expected not to fill the silence with reasons Eli should say yes.
+
+The data might help.
+
+Sen already knew most of it.
+
+They needed answers.
+
+All true.
+
+Not his decision.
+
+Finally Eli said, “Observations only. No private notes. No raw dorm sensor logs. And she tells me if anything I collected violates a restriction so I can delete it.”
+
+Kade nodded.
+
+“I’ll tell her.”
+
+“That’s it?”
+
+“What?”
+
+“You’re not going to argue for more?”
+
+“No.”
+
+Eli looked almost disappointed.
+
+“Growth is upsetting.”
+
+“Everyone says that.”
+
+They prepared a clean copy.
+
+It took forty minutes because Eli had apparently written several comments about faculty models that could not safely be shared with faculty.
+
+One note beside a transfer anomaly read:
+
+**THIS MAKES NO SENSE UNLESS THE FLOOR IS LYING.**
+
+Kade pointed at it.
+
+“Delete.”
+
+“That is analysis.”
+
+“That is slander against architecture.”
+
+Eli sighed and removed it.
+
+When they finished, Kade sent the file to Sen with Eli’s conditions attached.
+
+Sen replied six minutes later.
+
+**Accepted. Thank him. Conditions honored.**
+
+Eli read the message.
+
+“Huh.”
+
+“What?”
+
+“She could have taken the data through academy systems.”
+
+Kade looked at him.
+
+“Could she?”
+
+“Technically.”
+
+The word hung between them.
+
+Technically was one of Kade’s favorite hiding places.
+
+Sen had chosen not to use it.
+
+That did not make her honest.
+
+It made her complicated.
+
+Kade was beginning to find complicated adults more difficult than cruel ones.
+
+Cruel people were easy to reject.
+
+---
+
+The next morning, Park scheduled Kade for what she called a “non-provocative boundary observation session.”
+
+Kade stared at the title.
+
+“That sounds provocative.”
+
+“It means you are not allowed to do anything.”
+
+“Ah. Science.”
+
+Park placed him behind a reinforced window overlooking three ordinary Resonance demonstrations.
+
+A Redirection student changed the path of a rolling mass.
+
+A Storage student absorbed a controlled impact and released it into a damping block.
+
+Two Coupling students stabilized a suspended platform while technicians deliberately altered load.
+
+Kade wore no active Conduit.
+
+No field authorization.
+
+He simply watched.
+
+“Describe what you perceive,” Park said.
+
+“First one pushes momentum into the rail.”
+
+“You cannot see the field.”
+
+“I can see the rail move.”
+
+“Continue.”
+
+“Second one stores less than the display says.”
+
+Park looked at the telemetry.
+
+“Why?”
+
+“The damping block is heating early.”
+
+The technician checked.
+
+Kade was right.
+
+On the third demonstration, the paired operators fought a slow oscillation in the platform.
+
+Kade leaned forward.
+
+“What?” Park asked.
+
+“They’re correcting each other.”
+
+“That is the point.”
+
+“No. They’re correcting the correction.”
+
+Park watched the platform.
+
+Kade saw the same idea from Mara’s assignment.
+
+Every intervention changed what the next intervention meant.
+
+The two operators were separate people.
+
+The system they created was not simply the sum of them.
+
+The cold line did not appear.
+
+No headache.
+
+No tremor.
+
+Just understanding.
+
+Kade exhaled.
+
+Park noticed.
+
+“Relieved?”
+
+“Yes.”
+
+“Good.”
+
+“Medical enthusiasm?”
+
+“You are allowed to learn without injuring yourself.”
+
+Kade looked through the glass.
+
+That had not always been obvious to him.
+
+The session ended with no anomaly.
+
+Park called that a successful result.
+
+Kade was starting to understand why.
+
+---
+
+That evening Elena called while he was walking back to Meridian.
+
+He almost did not tell her about Sen.
+
+Then remembered how that story ended when adults made the same choice for him.
+
+So he did.
+
+Not classified details.
+
+The part that belonged to him.
+
+Sen knew the term.
+
+Sen had lied about Aaron.
+
+Elena stopped moving on the screen.
+
+“Kade.”
+
+“What?”
+
+“Do not go looking for old records alone.”
+
+He slowed on the bridge.
+
+“That was specific.”
+
+“I am serious.”
+
+“Why?”
+
+“I don’t know enough to give you the answer you want.”
+
+“That is becoming a family tradition.”
+
+Her face tightened.
+
+Kade regretted it immediately.
+
+“Sorry.”
+
+Elena took a breath.
+
+“Your father worked around people connected to early Resonance research. That is all I know for certain.”
+
+Kade stopped walking.
+
+“Early Resonance research.”
+
+“Yes.”
+
+“You told me industrial systems.”
+
+“He did both.”
+
+“Why didn’t you tell me?”
+
+“Because after he died, I was told parts of his work were classified. I did not know what mattered and what did not.”
+
+“Who told you?”
+
+Elena looked away.
+
+“I do not remember everyone involved.”
+
+Not a lie.
+
+Not a full answer either.
+
+Kade had become very good at hearing the difference.
+
+“Did Sen?” he asked.
+
+Elena’s gaze returned to him.
+
+“I don’t know.”
+
+Kade believed her.
+
+That was somehow worse.
+
+The call ended with neither of them satisfied.
+
+Kade stood on the bridge another minute before continuing home.
+
+At Meridian, Bell Watch had already begun.
+
+“Four hundred forty-eight,” Taren announced.
+
+Someone threw a napkin.
+
+Eli yelled that Kade had missed dinner.
+
+Sera asked whether he had done his recovery stretches.
+
+Mara sat at a table with the recursive-coupling book open again.
+
+Ordinary life rushed in around the mystery.
+
+Kade had once believed serious things required being alone with them.
+
+Asterion kept proving otherwise.
+
+He sat down beside Eli.
+
+The questions remained.
+
+So did dinner.
+
+For now, both could exist.
