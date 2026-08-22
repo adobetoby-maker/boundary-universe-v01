@@ -30,7 +30,15 @@ Everyone did.
 
 The Eleven.
 
-The first public generation of Standard Eight Resonants whose images appeared in textbooks and recruitment films. Sen among them.
+The first public generation of Standard Eight Resonants.
+
+Their portraits appeared in schoolbooks, airport terminals, government buildings, training halls, and the entrance to Asterion’s own Hall of Standards. Children learned their names before they understood what Standard Eight meant.
+
+Sen among them.
+
+Kade had walked beneath those portraits dozens of times.
+
+Eleven faces arranged as history.
 
 Eli highlighted the identifier sequence.
 
@@ -54,7 +62,7 @@ One gap.
 
 Eli shook his head.
 
-“Not this system. These identifiers are permanent. Assigned once, never recycled. Dead, retired, disgraced, classified—it doesn’t matter. The slot remains.”
+“Not this system. These identifiers are permanent. Assigned once, never recycled. Dead, retired, disgraced, classified—it does not matter. The slot remains.”
 
 Sera looked up from her work.
 
@@ -304,7 +312,319 @@ Eli raised a hand.
 
 “Yes,” Sera said. “That is why you are not the person.”
 
-They left Meridian Commons together.
+They did not leave immediately.
+
+Mara stopped them.
+
+“One more thing.”
+
+She opened the photograph she had taken in Asterion’s public historical archive.
+
+The Hall of Standards display.
+
+Eleven portraits.
+
+Three rows.
+
+Four.
+
+Four.
+
+Three.
+
+At the end of the last row, an architectural panel the exact width of another portrait.
+
+Kade stared.
+
+“You think that was his?”
+
+“I think it proves nothing.”
+
+“That sounded like you think yes.”
+
+“I think somebody designing a permanent hall around eleven portraits had a strange sense of symmetry.”
+
+Eli overlaid the old precursor building plan.
+
+The wall section predated the current display.
+
+Twelve mounting recesses.
+
+One had been covered during renovation.
+
+Kade stopped breathing.
+
+Not a missing identifier now.
+
+A physical absence.
+
+A place in the wall where Aaron Mercer’s face could have been.
+
+“Let’s go see it,” he said.
+
+Sera frowned.
+
+“Sen first.”
+
+“Five minutes.”
+
+“Kade.”
+
+“I want to see the thing I have walked past for months.”
+
+Mara understood.
+
+“Five minutes.”
+
+Sera sighed.
+
+“Four.”
+
+---
+
+The Hall of Standards occupied the eastern base of the Spire.
+
+At night it was almost empty.
+
+The Eleven looked down from illuminated portraits three meters tall.
+
+Dr. Amara Sen at twenty-six, younger than Kade had ever seen her.
+
+Chen Wei beside a collapsed dam he had stabilized.
+
+Nadia Okonkwo in orbital construction gear.
+
+Names that had become chapters in school history.
+
+Kade walked slowly beneath them.
+
+He had seen these people before he knew what Resonance really was.
+
+Before Northline.
+
+Before Zero.
+
+Before Asterion.
+
+The first generation.
+
+The official beginning of the world he lived in.
+
+Mara stopped at the final row.
+
+Four mounting recesses existed in the stone.
+
+Three contained portraits.
+
+The fourth had been filled with a smooth slab slightly different in color from the surrounding wall.
+
+Almost invisible.
+
+Almost.
+
+Eli held his tablet against it.
+
+“Different installation date.”
+
+Sera looked at him.
+
+“How can you possibly know that?”
+
+“Maintenance NFC.”
+
+“You scanned a memorial wall?”
+
+“It broadcast at me.”
+
+Kade touched the smooth panel.
+
+Cold stone.
+
+No plaque.
+
+No scar.
+
+Nothing that said a person had been removed.
+
+That was the point.
+
+A group of visiting students entered at the far end with an instructor.
+
+The instructor began the familiar speech.
+
+“The Eleven represented humanity’s first confirmed Standard Eight generation…”
+
+Kade closed his eyes.
+
+First confirmed.
+
+Another phrase precise enough to hide inside.
+
+A child asked, “Were there only eleven?”
+
+The instructor answered without hesitation.
+
+“Yes.”
+
+Kade opened his eyes.
+
+The lie did not sound malicious.
+
+The instructor believed it.
+
+That made the scale of the erasure larger.
+
+History did not require millions of people to lie.
+
+Only a few people had to remove the evidence early enough.
+
+Everyone else would repeat the clean version honestly.
+
+Kade stepped away from the blank panel.
+
+“Okay,” he said.
+
+Sera looked at him.
+
+“Okay what?”
+
+“Now Sen.”
+
+---
+
+They took the pedestrian bridge instead of the internal transit system.
+
+Rain had begun over the island, fine enough that the bridge canopy caught most of it and loud enough to soften conversation.
+
+Kade walked between Mara and Eli.
+
+Sera stayed one step ahead.
+
+“I want to ask my mom,” Kade said.
+
+Mara looked over.
+
+“About Standard Eight?”
+
+“She said she didn’t know his classification.”
+
+“Do you believe her?”
+
+“Yes.”
+
+That answer came easily.
+
+The anger toward Elena had not disappeared.
+
+But Kade knew the difference now between her fear and Sen’s controlled omission.
+
+He called anyway.
+
+Elena answered from home.
+
+“Kade?”
+
+“Did Dad ever tell you he was Standard Eight?”
+
+Her face went still.
+
+“No.”
+
+“Did anybody?”
+
+“No.”
+
+Kade turned the camera toward Eli’s tablet showing the sealed record.
+
+Elena read it.
+
+Her hand moved to her mouth.
+
+The reaction was too raw to fake.
+
+“Oh.”
+
+One word.
+
+Kade had heard her say it after bad hospital calls.
+
+“Mom?”
+
+“He told me they could not classify him.”
+
+“What?”
+
+“He said the Standard system did not fit what he did. Then later he stopped talking about the project at all.”
+
+Kade looked at Mara.
+
+The Standard system did not fit.
+
+Yet Aaron had been internally labeled VIII.
+
+Another institutional approximation.
+
+Elena looked at the old calibration table.
+
+“Twelve subjects.”
+
+“You know them?”
+
+“No.”
+
+“But that number—”
+
+She shook her head.
+
+“Aaron once said there were twelve people in the room when everything changed.”
+
+Kade stopped walking.
+
+“What changed?”
+
+“I don’t know.”
+
+“When did he say that?”
+
+“Before you were born. He had nightmares.”
+
+Rain hissed against the canopy.
+
+Kade looked at the heading again.
+
+**MULTI-SUBJECT TRANSFER**
+
+**COHERENCE DURATION**
+
+Twelve people.
+
+Something changed.
+
+Aaron stopped talking.
+
+Then disappeared.
+
+Elena said, “Kade, do not go deeper without Sen.”
+
+“That is where we are going.”
+
+She looked relieved and unhappy at the same time.
+
+“Call me after.”
+
+“I will.”
+
+They ended the call.
+
+Sera looked back.
+
+“Still want to argue your way in?”
+
+“Yes.”
+
+“Good. You sound normal.”
+
+---
 
 Halfway to the administration building, Kade’s tablet chimed.
 
@@ -319,6 +639,10 @@ No explanation.
 The oversight notification had moved quickly.
 
 Kade showed the others.
+
+Sera said, “I’m still coming.”
+
+Nobody argued.
 
 Taren stepped out of a side corridor thirty meters ahead.
 
@@ -344,9 +668,41 @@ Taren’s expression did not change.
 
 “Usually true.”
 
-He stepped aside.
+His wrist display vibrated.
 
-Kade kept walking.
+Taren glanced down.
+
+For the smallest instant, the easy social expression disappeared.
+
+Then returned.
+
+“You all headed to Sen?”
+
+Nobody had said that.
+
+Kade stopped.
+
+Taren stopped too.
+
+“How did you know?”
+
+Taren looked at the administration building ahead.
+
+“Where else would four of you walk in the rain looking like somebody classified breakfast?”
+
+Good answer.
+
+Fast answer.
+
+Kade held his gaze another second.
+
+Taren smiled.
+
+“Should I be worried?”
+
+“Probably,” Kade said.
+
+Then walked on.
 
 Mara glanced back once.
 
@@ -362,17 +718,19 @@ Mara looked at him.
 
 Kade thought of the twelve identifiers.
 
-The missing name.
+The covered portrait recess.
 
-The world’s clean story about eleven extraordinary people.
+The instructor telling children there had only ever been eleven.
 
-Then Aaron Mercer hidden in the technical tables like an error someone had forgotten to erase completely.
+The world’s clean story about extraordinary people.
+
+Then Aaron Mercer hidden in technical tables because mathematics had been harder to edit than memory.
 
 “I spent months trying to climb Asterion’s ranking system,” he said.
 
 Mara waited.
 
-Kade looked up at the Spire through the rain-dark glass.
+Kade looked up at the Spire through rain-dark glass.
 
 “Turns out the most important rank in my family was the one they deleted.”
 
