@@ -704,7 +704,87 @@ Even Sen smiled.
 
 Price did not.
 
-A Standards Board member said, “The alternative is to remove the designation until review concludes.”
+One of the Standards Board members, Dr. Venn, lifted a different report.
+
+“Dr. Park, preliminary review of the Sublevel Nine participants shows unusually high cooperative adaptation scores across House Trial, team simulation, and emergency-response metrics. Is that correlation meaningful?”
+
+Kade turned toward Park.
+
+“Cooperative what?”
+
+Park did not look pleased by the question.
+
+“Retrospective correlation from six people is not a predictive model.”
+
+Venn said, “That was not my question.”
+
+“It is my answer.”
+
+Yara leaned forward.
+
+“What is a cooperative adaptation score?”
+
+Sen answered this time.
+
+“Asterion tracks team behavior as part of training and safety evaluation. Role switching. response under incomplete information. recovery after teammate failure. willingness to transfer responsibility.”
+
+Kade stared at her.
+
+“You score that?”
+
+“We score almost everything.”
+
+“That is not reassuring.”
+
+“No.”
+
+Price said, “Comparable measures exist at other major academies.”
+
+Kade looked at him.
+
+“Comparable how?”
+
+Price paused just long enough to become interesting.
+
+“Different institutions use different methodologies.”
+
+“That was not the question.”
+
+Sen said, “Kade.”
+
+Again, not stop.
+
+Choose.
+
+He looked at Venn’s report.
+
+House Trial.
+
+Team simulations.
+
+Emergency response.
+
+The exact parts of Asterion everyone treated as school culture, competition, and training.
+
+Maybe they were only that.
+
+Maybe not.
+
+Park said, “Do not reverse-engineer a conspiracy from a sample of six.”
+
+Kade looked at her.
+
+“You say the nicest things.”
+
+“I am serious.”
+
+“So am I.”
+
+He let the question go.
+
+For now.
+
+A Standards Board member said, “The alternative is to remove the IX designation until review concludes.”
 
 The room shifted again.
 
