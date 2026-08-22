@@ -154,6 +154,42 @@ Mina laughed.
 
 Something about leaving his name under a table felt more intimate than it should have.
 
+Near the greenhouse door, an old brass Meridian history board had been decorated with paper streamers. Eleven tiny portrait medallions circled the words **FOUNDING STANDARD EIGHTS**.
+
+Kade noticed a twelfth circular recess beneath the streamer tape.
+
+Empty.
+
+He peeled the tape back far enough to see an old mounting screw.
+
+Mina caught him.
+
+“Do not dismantle House history on your first Meridian Night.”
+
+“There are twelve mounts.”
+
+“There are eleven portraits.”
+
+“I can count.”
+
+“Congratulations. Asterion admission validated.”
+
+“What was in the twelfth?”
+
+Mina glanced at the board.
+
+“No idea. That thing predates the House charter. Probably a donor plaque.”
+
+She pushed the streamer back over it.
+
+“Food.”
+
+Kade let himself be redirected.
+
+One extra screw in an old board was not a mystery.
+
+Asterion simply seemed to contain a lot of things nobody could explain without becoming annoyed.
+
 Sera found him near a ventilation stack ten minutes later.
 
 “You look alarmed.”
