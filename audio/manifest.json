@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-08-21",
+  "generated": "2026-08-22T06:36:59-06:00",
   "universe": "The Boundary Universe",
   "sourceBranch": "polish/second-half",
   "books": [
@@ -70,6 +70,17 @@
           "manuscript": "books/book-01-the-ninth-standard/manuscript/chapter-03-asterion.md",
           "renders": [
             {
+              "render": "holden",
+              "engine": "ElevenLabs",
+              "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
+              "file": "audio/book-01-the-ninth-standard/ch03-asterion.holden.mp3",
+              "bytes": 28929506,
+              "durationSec": 1808.03,
+              "sha256": "76f236a9a69f208fe3ee1c2dbec2e94f7bf8cdcb37d14f57e0040f7619de8642",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch03-asterion.holden.mp3",
+              "note": "Production voice. Engine-timed; the SSML pacing map does not apply."
+            },
+            {
               "render": "studio-q",
               "engine": "Google Cloud TTS",
               "voice": "en-US-Studio-Q",
@@ -87,6 +98,17 @@
           "manuscript": "books/book-01-the-ninth-standard/manuscript/chapter-04-ten-thousand-four-hundred-eighty-two.md",
           "renders": [
             {
+              "render": "holden",
+              "engine": "ElevenLabs",
+              "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
+              "file": "audio/book-01-the-ninth-standard/ch04-ten-thousand-four-hundred-eighty-two.holden.mp3",
+              "bytes": 27016925,
+              "durationSec": 1688.49,
+              "sha256": "ca4fb86c5d7615a584d69bf57b7b842c421346899328c495593ba0049e811b43",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch04-ten-thousand-four-hundred-eighty-two.holden.mp3",
+              "note": "Production voice. Engine-timed; the SSML pacing map does not apply."
+            },
+            {
               "render": "studio-q",
               "engine": "Google Cloud TTS",
               "voice": "en-US-Studio-Q",
@@ -103,6 +125,17 @@
           "title": "House Meridian",
           "manuscript": "books/book-01-the-ninth-standard/manuscript/chapter-05-house-meridian.md",
           "renders": [
+            {
+              "render": "holden",
+              "engine": "ElevenLabs",
+              "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
+              "file": "audio/book-01-the-ninth-standard/ch05-house-meridian.holden.mp3",
+              "bytes": 26723100,
+              "durationSec": 1670.11,
+              "sha256": "b08497a2e7ac780f2e7529ffd04562ab93d499d660fa02c346375dc83bec3e2d",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch05-house-meridian.holden.mp3",
+              "note": "Production voice. Engine-timed; the SSML pacing map does not apply."
+            },
             {
               "render": "studio-q",
               "engine": "Google Cloud TTS",

@@ -91,14 +91,46 @@ changes, which is why the manifest indirection exists now rather than later.
 |---|---|---|---|
 | 1 — The Kid in Room Four | `studio-q` | 31m 10s | 14.3 MB |
 | 1 — The Kid in Room Four | `elevenlabs` | 36m 08s | 29.2 MB |
+| 2 — Zero Protocol | **`holden`** | 35m 01s | 29.1 MB |
+| 3 — Asterion | **`holden`** | 30m 08s | 28.9 MB |
+| 4 — Ten Thousand Four Hundred Eighty-Two | **`holden`** | 28m 08s | 27.0 MB |
+| 5 — House Meridian | **`holden`** | 27m 50s | 26.7 MB |
+| 2–10 | `studio-q` | — | superseded |
+
+`holden` is the production voice. Where both exist, the manifest lists `holden`
+first, so a player that takes `renders[0]` gets the right one without knowing the
+name. Studio-Q renders are kept for comparison, not for shipping.
+
 
 The five-minute gap is the whole comparison. Studio-Q runs to a hand-written
 pacing map — 697 breaks, tightening through the examination, opening out at
 REDEFINE, `000` and the final line. ElevenLabs decides its own timing and lands
 five minutes slower with better moment-to-moment delivery.
 
-Chapters 2–4 are titled in `CHAPTER_ARCHITECTURE.md` but not yet written, so
-there is nothing to render.
+### Text preparation, and why it has its own scripts
+
+`prep_el.py` produces the plain text ElevenLabs is given; `ssmlize.py` produces
+the SSML Studio-Q is given. They are separate because the engines want opposite
+things — Studio-Q takes a millisecond pacing map, ElevenLabs ignores `<prosody>`
+and decides its own timing — but they share one job: **nothing reaches a
+synthesiser that it will read literally.**
+
+Three defects found this way, all in text that had already passed a check:
+
+- **`**bold**`** — 198 spans across Book 1, used for screen text and phone
+  messages, i.e. exactly the dramatic beats. Read aloud as "asterisk".
+- **`` `000` ``** — the score, in backticks, mid-sentence. `prep_el.py` stripped
+  bold and italic but never inline code, and its spoken-zeros rule was anchored
+  to a bare line (`^0{3}$`) so it could not see this one. It survived because the
+  "stray markdown" counter only counted `**` — a check blind to the thing it
+  guards is worse than no check, because it reports a pass.
+- **`10,482`** — the rank Chapter 4 turns on. The thousands rule only handled
+  `X,000`, so every other comma number went to the synthesiser as digits, and
+  `RANK: 10,482 / 10,482` would have been read "…slash…".
+
+The lesson is cheap to state and was not cheap to learn: **read the prepared
+text, not the source.** Every one of these was invisible in the manuscript and
+obvious in the payload.
 
 ## For the player
 
