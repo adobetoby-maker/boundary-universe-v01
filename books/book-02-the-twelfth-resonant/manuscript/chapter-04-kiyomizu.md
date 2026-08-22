@@ -88,7 +88,7 @@ His badge said only:
 
 **CROSS, JULIAN**
 
-Eli looked at both.
+Eli held his beside Kade’s.
 
 “They removed the numbers.”
 
@@ -99,12 +99,6 @@ Sera clipped hers to her jacket.
 Julian studied his badge for half a second longer than Kade expected.
 
 Then clipped it on.
-
-Kade noticed.
-
-Kade also noticed himself noticing.
-
-Progress remained annoying.
 
 A woman in a dark blue Kiyomizu jacket approached with two students.
 
@@ -170,6 +164,80 @@ Kade looked at him.
 
 ---
 
+The ride from the airport lasted long enough for Kade to realize Tokyo did not have a horizon so much as layers.
+
+Roads crossed roads.
+
+Rail lines passed above buildings and disappeared between them.
+
+Apartment towers stood beside older neighborhoods that seemed to have survived by refusing to notice the century changing around them.
+
+Kade had grown up in a city where mountains told you where the world stopped.
+
+Asterion used ocean for the same purpose.
+
+Tokyo appeared to believe stopping was unnecessary.
+
+Eli had his forehead against the window.
+
+“Do you know how many trains are running right now?”
+
+“No.”
+
+“I can find out.”
+
+“Please don’t access national rail infrastructure during your first hour in the country.”
+
+“I was going to search publicly.”
+
+“That phrase has lost credibility.”
+
+Sera sat across the aisle with a Kiyomizu emergency-training packet open on her tablet.
+
+Mara was reading the same packet for different reasons.
+
+Julian watched the city.
+
+No one had recognized him since they left the airport.
+
+Kade noticed because Julian had noticed.
+
+“You okay?” Kade asked.
+
+Julian looked over.
+
+“Yes.”
+
+“That answer was too fast.”
+
+Julian glanced toward the bus window.
+
+“It is strange.”
+
+“What?”
+
+“Nobody looking.”
+
+Kade understood.
+
+He had spent most of his life wanting invisibility and the last few months discovering attention could become normal enough that its absence felt physical.
+
+“Enjoy it,” Kade said.
+
+“I am trying.”
+
+Ren, sitting two rows ahead, turned around.
+
+“Why would people look?”
+
+Julian stared at him.
+
+Kade laughed.
+
+“That helps.”
+
+---
+
 Kiyomizu Institute did not look like Asterion.
 
 That should not have been surprising.
@@ -186,7 +254,7 @@ Glass bridges.
 
 Rank displays large enough to read from across plazas.
 
-Kiyomizu occupied a terraced campus where new buildings wrapped around older stone courtyards, gardens, narrow training halls, and water channels that appeared decorative until Kade noticed how many field sensors were embedded along them.
+Kiyomizu occupied a terraced campus where new buildings wrapped around older stone courtyards, gardens, narrow training halls, and water channels that appeared decorative until Kade noticed field sensors embedded along them.
 
 Nothing announced itself from far away.
 
@@ -210,7 +278,7 @@ Kade stopped beneath the board.
 
 Ren followed his gaze.
 
-“Depends on block. Skill. compatibility. incompatibility. Sometimes instructor cruelty.”
+“Depends on block. Skill. Compatibility. Incompatibility. Sometimes instructor cruelty.”
 
 “Incompatibility?” Julian asked.
 
@@ -254,7 +322,7 @@ Asterion had sent room preferences.
 
 Kiyomizu had ignored them.
 
-Kade learned this when Ren handed out assignments.
+Ren handed out assignments.
 
 “Mara Vey with Hana Sato. Sera Vale with Akari Nwosu. Eli Navarro with Jun Park. Julian Cross with Daichi Sakamoto.”
 
@@ -311,6 +379,64 @@ Ren laughed.
 “Laundry becomes philosophy after two weeks.”
 
 Kade liked him more.
+
+On Ren’s desk sat two framed photographs.
+
+One showed him and another student in training gear holding a silver cup.
+
+The other showed the same two students sitting on the floor, backs against a wall, both wearing medical patches and looking furious.
+
+Kade pointed.
+
+“Same partner?”
+
+“Former competition partner.”
+
+“What happened?”
+
+“We became too good at being each other.”
+
+Kade waited.
+
+Ren sighed.
+
+“That sounds more dramatic in English.”
+
+“Keep it.”
+
+“We anticipated each other so well that we stopped signaling. Our scores improved. Then an instructor changed one condition without telling us which person received it.”
+
+“And?”
+
+“We both corrected for the old pattern.”
+
+Ren tapped the medical photograph.
+
+“Wall.”
+
+Kade looked at the picture again.
+
+“You split the pair.”
+
+“Our instructor did. We were angry.”
+
+“Still?”
+
+“No.”
+
+Ren considered it.
+
+“Mostly no.”
+
+Kade thought of Mara.
+
+How easily training with someone could become shorthand.
+
+How trust and assumption could begin to look identical from inside a system.
+
+He did not enjoy the thought.
+
+Good.
 
 ---
 
@@ -424,8 +550,6 @@ Takahara walked past.
 
 Kade smiled despite himself.
 
-Julian did not.
-
 Across the room, Mara had been paired with a Kiyomizu student named Hana.
 
 They were already through gate three.
@@ -478,8 +602,6 @@ Kade frowned.
 
 Takahara pointed toward Mara and Hana.
 
-Kade watched.
-
 Hana initiated motion.
 
 Mara did not wait to be given control.
@@ -500,11 +622,9 @@ Boundary.
 
 Of course.
 
-He looked at Julian.
-
 Julian was already thinking.
 
-“Again,” Julian said.
+“Again,” he said.
 
 This time they spoke less.
 
@@ -569,6 +689,104 @@ Kade considered it.
 “Learning from you.”
 
 “That seems dangerous.”
+
+Takahara called the class back before anyone could enjoy success.
+
+“Second exercise.”
+
+Groans moved through the exchange students.
+
+The Kiyomizu students did not groan.
+
+Kade found that suspicious.
+
+This time the metal ring disappeared.
+
+Two standing platforms rose from the floor, connected by a suspended beam.
+
+Each pair stood on opposite ends.
+
+Takahara said, “Keep the beam level while the floor changes beneath you. You may speak. You may not use commands.”
+
+Kade raised a hand.
+
+“What counts as a command?”
+
+“Any statement whose grammar assumes the other person will obey.”
+
+“That is terrifyingly broad.”
+
+“Yes.”
+
+Julian stepped onto his platform.
+
+Kade joined him.
+
+The floor tilted.
+
+Julian said, “Left pressure increasing.”
+
+Information.
+
+Not instruction.
+
+Kade answered, “Reducing my side.”
+
+The beam steadied.
+
+A second tilt.
+
+Kade felt the urge to say *hold*.
+
+He changed it.
+
+“I’m adding center pressure.”
+
+Julian adjusted.
+
+The beam stayed level.
+
+Across the room, an Asterion pair failed when one student shouted “Down!” and both moved differently.
+
+Penalty tone.
+
+Kade understood the exercise now.
+
+The point was not politeness.
+
+It was preserving choice under speed.
+
+Information had to arrive early enough for the other person to remain an operator.
+
+If the first useful message was an order, the system had already become centralized.
+
+Kade’s skin prickled.
+
+He thought of Sublevel Nine.
+
+Of asking again under pain.
+
+Of how crude their discovery had been compared with a school that practiced the grammar before breakfast.
+
+Julian said, “You stopped.”
+
+Kade returned to the beam.
+
+“Thinking.”
+
+“Dangerous.”
+
+“Learned from you.”
+
+“That seems worse.”
+
+They finished sixth.
+
+Mara and Hana finished second.
+
+The first-place pair were two Kiyomizu students who appeared disappointed by their own score.
+
+Kade decided he disliked them in a healthy competitive way.
 
 ---
 
@@ -665,6 +883,30 @@ No system had escaped numbers.
 Kiyomizu had merely chosen different numbers to make visible.
 
 That distinction lodged in Kade’s head.
+
+Mei asked, “Why does your school post individual rank all the time?”
+
+Julian answered before Kade could.
+
+“Motivation. Seeding. Transparency.”
+
+Mei considered each word.
+
+“And social order?”
+
+Julian stopped.
+
+Kade watched him.
+
+Mei said it without accusation.
+
+That made it harder to dismiss.
+
+Julian looked around the dining hall where nobody knew he was Rank One unless he told them.
+
+“Yes,” he said. “Probably that too.”
+
+Kade stored the answer.
 
 After dinner, students cleaned their own tables.
 
@@ -910,32 +1152,14 @@ Mori walked to the center of the floor.
 
 Kade joined her.
 
-“Hi,” he said.
+“Morning,” he said.
 
 She bowed slightly.
 
-“Kade Mercer.”
-
-“You know my full name.”
-
-“Yes.”
-
-“That puts you ahead of me.”
-
-A pause.
-
-“Aya Mori.”
-
-There it was.
-
-Kade smiled.
-
-“Progress.”
-
-Aya did not.
+“Mercer.”
 
 Professor Takahara called the room to attention.
 
 Kade looked at his new partner.
 
-Chapter Five, apparently, had arrived early enough to hit him before breakfast.
+The day had found a new way to become interesting before breakfast.
