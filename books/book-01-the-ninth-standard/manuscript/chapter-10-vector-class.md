@@ -150,6 +150,88 @@ Mara had one.
 
 Kade found that offensive on principle.
 
+The final exercise involved a six-user stabilization grid around a collapsing platform.
+
+Students worked in pairs.
+
+Amadi assigned Kade to a boy named Owen Park, rank 2,804, who had the formal vocabulary Kade lacked and no patience for explanations that could not be expressed in symbols.
+
+Owen wrote three lines.
+
+Kade stared at the simulated platform.
+
+“You’re going to overload the southwest anchor.”
+
+Owen did not look up.
+
+“The field solves symmetrically.”
+
+“The bodies don’t.”
+
+“The exercise assumes equal operator response.”
+
+“Then the exercise is lying.”
+
+Owen finally looked at him.
+
+“You can’t just change the assumptions.”
+
+“I’m not changing them. I’m noticing the operators are standing in different places.”
+
+Owen sighed.
+
+Kade leaned over and shifted one response node.
+
+The simulation stabilized two seconds longer.
+
+Then failed somewhere else.
+
+Owen frowned.
+
+Kade moved another.
+
+Failure time doubled.
+
+Owen’s expression became less dismissive.
+
+“Why?”
+
+“Because your equations are pretending the geometry doesn’t matter after the field activates.”
+
+Owen looked at the model again.
+
+Then at Kade.
+
+“Write that.”
+
+Kade grimaced.
+
+“That is where our partnership becomes difficult.”
+
+For ten minutes, Owen translated Kade’s intuition into notation while Kade kept finding assumptions that produced physically stupid outcomes.
+
+They finished third in the class.
+
+Owen stared at the result.
+
+“You’re infuriating.”
+
+“I’ve received that feedback.”
+
+“Do you actually know the notation?”
+
+“No.”
+
+“That makes it worse.”
+
+Kade smiled.
+
+For once, being behind did not feel like being less intelligent.
+
+It felt like having a language problem.
+
+Language problems could be fixed.
+
 Professor Amadi stopped him before he reached the door.
 
 “Mercer.”
@@ -258,6 +340,110 @@ Kade considered it.
 
 “Nineteen hundred.”
 
+At lunch, Eli reacted to the arrangement exactly as badly as Kade expected.
+
+“So you and Mara are studying alone.”
+
+“Yes.”
+
+“In the library.”
+
+“Yes.”
+
+“At night.”
+
+“It is nineteen hundred.”
+
+“Romantically academic.”
+
+Kade pointed his fork at him.
+
+“Do you want me to tell Sera about your illegal drone calibration yesterday?”
+
+Eli’s face became neutral.
+
+“I support education.”
+
+Sera, sitting across from them, said, “Tell me what?”
+
+Eli stood.
+
+“I have class.”
+
+“You are holding soup.”
+
+“Portable.”
+
+He left carrying the bowl.
+
+Sera watched him go.
+
+Then looked at Kade.
+
+“Library?”
+
+Kade closed his eyes.
+
+“I regret everyone.”
+
+“Good.”
+
+The rest of the school day made the tutoring feel less like a social event and more like survival.
+
+In Applied Mechanics, Kade lost points for failing to show a derivation he had done mentally.
+
+In Conduit Theory, he misunderstood an abbreviation everyone else seemed to know from feeder programs.
+
+At conditioning, Mara corrected his stance without stopping long enough for Eli to make a face.
+
+At four, Elena called during her break.
+
+Kade showed her the supplemental module list.
+
+She stared.
+
+“You have homework.”
+
+“I have always had homework.”
+
+“You have homework you intend to do.”
+
+“That sounds accusatory.”
+
+Elena smiled.
+
+“Your father used to hate notation too.”
+
+The sentence came out naturally.
+
+Then both of them went still.
+
+Kade looked at her.
+
+“He did?”
+
+Elena’s expression tightened a fraction.
+
+“In engineering school. He said if the machine worked, the symbols were showing off.”
+
+Kade smiled despite himself.
+
+“That is objectively correct.”
+
+“No.”
+
+“You are taking the side of notation?”
+
+“I am taking the side of bridges staying up.”
+
+Kade laughed.
+
+The moment passed.
+
+But he stored it.
+
+Another small piece of Aaron Mercer that did not fit neatly into the industrial-accident photograph in the hallway.
+
 ---
 
 The library occupied six floors inside the base of the Spire and apparently considered books insufficiently dramatic.
@@ -267,14 +453,6 @@ Most information lived in searchable projections, field simulations, or interact
 At nineteen hundred, Mara was already at a table with three textbooks open and a fourth projected above them.
 
 Kade sat opposite her.
-
-Eli had offered to come.
-
-Mara had said no.
-
-Eli had smiled for six straight minutes afterward.
-
-Kade had considered changing rooms.
 
 For the first hour, tutoring was painful.
 
@@ -341,6 +519,96 @@ He did it again.
 Less badly.
 
 Again.
+
+They worked until the library’s evening lights shifted warmer.
+
+At 20:12, Kade’s attention failed completely.
+
+He read the same line four times.
+
+Mara noticed.
+
+“Break.”
+
+“I’m fine.”
+
+“You just wrote lambda where you meant mass.”
+
+“Creative notation.”
+
+“Break.”
+
+They went to the vending alcove.
+
+Asterion’s machines contained fruit, protein drinks, coffee, six kinds of tea, and exactly one candy bar that cost enough to offend Kade personally.
+
+Mara bought tea.
+
+Kade bought the candy bar because resentment had limits.
+
+They sat on the floor near the window.
+
+Below them, the island’s walkways glowed blue-white.
+
+Kade said, “Did you always know you were coming here?”
+
+Mara looked at him.
+
+“To Asterion?”
+
+“Yes.”
+
+“No.”
+
+He waited.
+
+She took a sip of tea.
+
+“My family assumed.”
+
+“That sounds like yes.”
+
+“It is different.”
+
+“How?”
+
+“A choice can become invisible if everyone expects you to make it.”
+
+Kade unwrapped the candy bar.
+
+That sounded too precise to be casual.
+
+“Did you want to?”
+
+Mara looked through the glass.
+
+“Yes.”
+
+Then, after a moment, “I think.”
+
+Kade nodded.
+
+No joke.
+
+No question about her father.
+
+No push.
+
+Mara glanced at him.
+
+“You’re not going to say anything?”
+
+“I’m learning boundaries.”
+
+Her eyes narrowed.
+
+“That was terrible.”
+
+“Still true.”
+
+She almost smiled.
+
+They returned to the table.
 
 By the end of the second hour, the symbols felt less like a foreign language and more like an irritating dialect.
 
@@ -520,8 +788,82 @@ Eli pressed a hand to his chest.
 
 Kade laughed.
 
-That afternoon, while reviewing his combat model, he caught himself writing the word *system* and then defining exactly what he meant by it.
+That afternoon, Professor Amadi assigned a team exercise using the same two-operator coupling model Mara had questioned.
 
-Professor Amadi would have been pleased.
+Her group changed the assumptions.
 
-Kade decided not to tell her.
+The simulation score improved twelve percent.
+
+Amadi stared at the result.
+
+“Vey.”
+
+Mara stood.
+
+“Explain.”
+
+For the first time since Kade had met her, Mara glanced at him before answering an instructor.
+
+Not asking permission.
+
+Acknowledging origin.
+
+Then she explained the shared-state correction in clean mathematical language Kade could almost follow.
+
+Professor Amadi listened.
+
+When Mara finished, Amadi said, “Interesting. Dangerous if generalized.”
+
+Mara nodded.
+
+“Yes.”
+
+Amadi looked toward Kade.
+
+“Mercer.”
+
+He sighed.
+
+“Yes?”
+
+“Did you contribute to this?”
+
+“Mara did the math.”
+
+“That was not my question.”
+
+Kade looked at the model.
+
+“I said the system changed once the operators started correcting each other.”
+
+Amadi studied him for a long moment.
+
+“Write a note on it.”
+
+“A note?”
+
+“Two pages. Proper notation.”
+
+Kade stared.
+
+Mara looked down to hide what was absolutely a smile.
+
+“This feels like punishment for having ideas.”
+
+“Welcome to academia.”
+
+The class laughed.
+
+Kade returned to his seat.
+
+Eli whispered, “You accidentally invented homework.”
+
+Kade looked at Mara.
+
+She mouthed one word.
+
+*Progress.*
+
+He hated her a little.
+
+The feeling was becoming suspiciously comfortable.
