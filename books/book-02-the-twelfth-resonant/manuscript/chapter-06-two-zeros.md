@@ -50,7 +50,7 @@ Takahara noticed him noticing.
 
 “They are students.”
 
-Kade looked again.
+Kade checked again.
 
 She was right.
 
@@ -74,7 +74,7 @@ Kade frowned.
 
 Aya said, “Not everything is a conspiracy.”
 
-Kade looked at her.
+Kade turned to her.
 
 “That sounded personal.”
 
@@ -176,9 +176,9 @@ The timer stopped.
 
 **STABILITY: 97.9%**
 
-Kade looked at the board.
+Kade read the board.
 
-Then at Aya.
+Then Aya.
 
 “Point two.”
 
@@ -222,7 +222,7 @@ Julian shrugged.
 
 “I slept.”
 
-Aya looked at the traces.
+Aya studied the traces.
 
 “Kade’s architecture tolerates larger discontinuities.”
 
@@ -424,7 +424,7 @@ The task ended.
 
 **TEAM STABILITY: 90.7%**
 
-Kade looked at the number.
+Kade read the number.
 
 Aya did not comment.
 
@@ -482,7 +482,7 @@ Not proof of stronger architecture.
 
 Proof of a different failure shape.
 
-Kade looked at her.
+Kade turned toward her.
 
 “You designed for withdrawal.”
 
@@ -724,6 +724,8 @@ The assessment was deliberately ordinary.
 
 Move a twenty-kilogram training mass across five marked positions using only direct field output. No environmental redirection. No shared load. No relation to another operator. No Boundary redefinition.
 
+The field ceiling and available energy would remain identical in every solo and paired run.
+
 Kade went first.
 
 His initial acceleration was embarrassing.
@@ -794,7 +796,7 @@ Ren took the second station.
 
 The same twenty-kilogram mass remained in place.
 
-Takahara said, “Do not increase available energy. Do not increase field ceilings. Move the same mass through the same positions.”
+Takahara said, “Same field ceiling. Same available energy. Same mass. Move it through the same positions.”
 
 Ren activated.
 
@@ -872,7 +874,7 @@ But faster than either Kade or Aya alone.
 
 **PAIR EFFICIENCY: 88.7**
 
-Kade looked from that number to his 41.8.
+Kade read that number beside his 41.8.
 
 Then Aya’s 56.3.
 
@@ -884,7 +886,7 @@ Takahara nodded.
 
 Kade hated when the instructor and Aya formed temporary alliances.
 
-He looked at the three results again.
+He read the four results again.
 
 41.8.
 
@@ -918,7 +920,7 @@ Aya’s expression softened by a fraction.
 
 Takahara said, “Careful.”
 
-Kade looked at her.
+Kade turned to her.
 
 “You have identified why the old axis is insufficient. You have not identified the final axis.”
 
