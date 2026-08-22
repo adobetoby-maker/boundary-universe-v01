@@ -210,9 +210,31 @@ Sen did not move.
 
 That helped less than he expected.
 
-Stage two tested active response.
+“Again,” Park said.
 
-Kade stood inside the innermost ring and faced a one-kilogram steel puck on a low table.
+Kade frowned.
+
+“The last three were identical.”
+
+“Yes.”
+
+“Is this where science becomes persistence?”
+
+“This is where science confirms identical results are actually identical.”
+
+“Less poetic.”
+
+“More useful.”
+
+The ninth field came on.
+
+Nothing.
+
+Park recorded it.
+
+“Stage two.”
+
+A waist-high table rose in front of Kade. On it sat a one-kilogram steel puck.
 
 “Move it,” Park said.
 
@@ -356,7 +378,7 @@ Kade watched her.
 
 “You know.”
 
-“I know that your questions have become less random.”
+“I know your questions have become less random.”
 
 “That is not an answer.”
 
@@ -373,6 +395,96 @@ Kade sighed.
 “Stress.”
 
 “Finally. Something I’ve trained for.”
+
+Before the next test, they gave him fifteen minutes and breakfast.
+
+A real breakfast.
+
+Eggs, toast, fruit, yogurt, and a bowl of oatmeal the size of a structural component.
+
+Kade ate in a small observation room with a glass wall looking into the testing chamber.
+
+A boy about his age occupied the other end of the table.
+
+He wore a Standard Three candidate band.
+
+The boy glanced at Kade’s provisional lanyard.
+
+Then his face.
+
+“You’re him.”
+
+Kade pointed to the oatmeal.
+
+“I’m eating.”
+
+“Zero.”
+
+“Less specific.”
+
+The boy laughed.
+
+“Mateo Ruiz. Amplification.”
+
+“You say that like a last name.”
+
+“At Asterion it basically is.”
+
+Mateo held up one hand. A small silver Conduit plate curved along his wrist.
+
+“Family knew when I was fourteen. Spent three years in a feeder program.”
+
+Kade looked at the device.
+
+“Three years.”
+
+“Yep.”
+
+“And you’re still doing baseline.”
+
+“Everyone does baseline.”
+
+“Why?”
+
+Mateo shrugged.
+
+“Because half the people who arrive thinking they’re amazing are wrong about what they’re amazing at.”
+
+That sounded useful enough to be suspicious.
+
+Kade said, “What rank?”
+
+“Preliminary? Four seventy-two.”
+
+Kade paused with the spoon halfway to his mouth.
+
+Mateo noticed.
+
+“Rankings are stupid for the first month.”
+
+“You’re number four hundred seventy-two out of ten thousand and calling them stupid.”
+
+“Yes.”
+
+“Convincing.”
+
+Mateo smiled.
+
+“Last year a guy baselined thirty-seven and finished eight hundred. Another started nine thousand and ended two hundred.”
+
+“Still sounds like numbers.”
+
+“They’re numbers with time attached.”
+
+Kade looked through the glass at the test chamber.
+
+That phrase stayed with him.
+
+Numbers with time attached.
+
+Not verdicts.
+
+Maybe.
 
 Stage three put him on a moving platform while light, sound, acceleration, projected obstacles, and false alerts attacked his attention from six directions.
 
@@ -434,7 +546,7 @@ Every time the system measured him as quick, adaptive, spatially unusual, or goo
 
 The pattern began to feel almost deliberate.
 
-At eleven forty-seven, Dr. Sen entered the room.
+At eleven forty-seven, Dr. Sen entered the testing room.
 
 Everyone else left.
 
@@ -797,3 +909,241 @@ Then:
 Kade hit send.
 
 For the first time since arriving at Asterion, he smiled without using it to hide anything.
+
+---
+
+The plan became more difficult at lunch.
+
+Kade had not expected the ranking to follow him physically.
+
+It did.
+
+The temporary-residence dining hall projected first-year rankings on a narrow strip above the food stations. Most students ignored it with the intense concentration of people who absolutely knew where their own names were.
+
+Kade entered carrying a tray.
+
+The strip refreshed.
+
+**10,482 — MERCER, KADE — PROVISIONAL**
+
+Conversation changed around him.
+
+Not stopped.
+
+Changed.
+
+A fraction quieter.
+
+A fraction more directional.
+
+Kade considered turning around.
+
+Then Imani Bell waved from a table near the window.
+
+“Last place.”
+
+Several people looked at her.
+
+Kade walked over.
+
+“Medical review.”
+
+She pointed to the seat across from her.
+
+“You’re famous.”
+
+“I noticed.”
+
+“Congratulations.”
+
+“On what?”
+
+“Having the easiest rank to remember.”
+
+Kade sat.
+
+Imani’s own preliminary rank showed on her wrist display.
+
+6,771.
+
+“You did better than me.”
+
+She looked offended.
+
+“I have functional Resonance.”
+
+“Show-off.”
+
+“It can move approximately one paper clip.”
+
+“Terrifying.”
+
+A boy at the next table leaned over.
+
+“Are you actually Zero?”
+
+Kade took a bite of sandwich.
+
+“No. I’m Kade.”
+
+The boy blinked.
+
+Imani laughed.
+
+The questioner went back to his table.
+
+Kade looked at her.
+
+“Thanks.”
+
+“For what?”
+
+“Being more annoying than they are.”
+
+“You’re welcome.”
+
+They ate.
+
+Imani told him the cardiology team had cleared her implant for low-output field exposure and scheduled a second test for the following week.
+
+Kade listened.
+
+Not because he understood half of it.
+
+Because nobody at the table cared that she was ranked six thousand seven hundred seventy-one.
+
+They cared whether her heart implant let her do the thing she had trained years to do.
+
+Rankings were everywhere.
+
+They were not everything.
+
+Mateo Ruiz passed their table and raised his water bottle.
+
+“Numbers with time attached.”
+
+Kade pointed at him.
+
+“I have not agreed to that philosophy.”
+
+“You will.”
+
+“Arrogant for four seventy-two.”
+
+Mateo grinned and kept walking.
+
+Kade looked at the ranking strip again.
+
+Ten thousand four hundred eighty-two.
+
+It still hurt.
+
+Good.
+
+Maybe pain was information too.
+
+That evening he called Elena.
+
+She answered from their kitchen table.
+
+The black box containing Aaron’s things was no longer visible.
+
+The Asterion folder was.
+
+“How bad?” she asked.
+
+Kade frowned. “Why do you assume bad?”
+
+“You called exactly on time.”
+
+“That is an accusation.”
+
+“Kade.”
+
+He turned the camera toward the public ranking board across the courtyard.
+
+Elena read the number.
+
+Her eyebrows rose.
+
+“Oh.”
+
+“That reaction lacked support.”
+
+“You are very last.”
+
+“I am aware.”
+
+She pressed her lips together.
+
+“Are you laughing?”
+
+“No.”
+
+“You are.”
+
+“I love you.”
+
+“That is unrelated.”
+
+She did laugh then.
+
+Kade tried to be offended.
+
+It lasted five seconds.
+
+Then he laughed too.
+
+When it passed, Elena said, “Do you want to come home?”
+
+The question was simple.
+
+No challenge hidden inside it.
+
+No disappointment.
+
+No expectation.
+
+Kade looked at the island outside his window.
+
+At students crossing the bridge below.
+
+At the arena roofs.
+
+At the first-year ranking board with his name at the bottom.
+
+“No,” he said.
+
+The answer surprised him with how quickly it came.
+
+Elena noticed.
+
+“Okay.”
+
+“That’s it?”
+
+“That’s it.”
+
+“You’re not going to say you told me so?”
+
+“I am storing it for a more irritating moment.”
+
+“Good parenting.”
+
+“Thank you.”
+
+Kade looked back at the number.
+
+Last place was humiliating.
+
+It was public.
+
+It was unfair in at least four ways he could already identify.
+
+And tomorrow he was moving into House Meridian.
+
+He had no idea what that meant.
+
+He wanted to find out.
+
+That was enough of a plan for one day.
