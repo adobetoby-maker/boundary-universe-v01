@@ -16,6 +16,9 @@
 - Kade’s attachment to Northline and Asterion is established before institutional betrayal begins.
 - First-half polish adds subtle Aaron/Elena discontinuities and repeated Taren information-access clues without making either reveal explicit.
 - Expansion pass adds ordinary-school and House rituals that reinforce the central thematic clue: systems matter because people inhabit them, not because the rules themselves are sacred.
+- **Twelfth Standard Eight pre-payoff clue 1 (Ch. 7):** Amadi’s legacy Conduit calibration matrix contains twelve historical Standard Eight identifier columns, `VIII-01` through `VIII-12`, despite only eleven publicly recognized first-generation Standard Eights. Amadi dismisses this as legacy schema / preclassification reservation.
+- **Twelfth Standard Eight pre-payoff clue 2 (Ch. 9):** Meridian’s old founder-era Standard Eight board displays eleven portrait medallions but retains a twelfth original mounting recess, casually explained as probably an old donor plaque.
+- **Twelfth Standard Eight reinforcement (Ch. 11):** Hall of Standards has eleven bronze portraits but twelve stone bays; `LEGACY BAY 12 — ACCESS SEALED`. This is a third, later clue, not required for Rule 6 but makes the Chapter 23 reveal particularly fair in hindsight.
 
 ## Chapter 18 — The Vey Problem
 - Alaric Vey knows details about Kade’s structural event that should be restricted.
@@ -146,7 +149,7 @@
 - Prior Zero case is Aaron Mercer.
 - Sen knew Aaron and concealed that history.
 - Boundary architecture is historically known but classified.
-- Aaron is the erased twelfth Standard Eight.
+- Aaron is the erased twelfth Standard Eight; this now has at least two independent pre-Chapter-23 clues plus a later reinforcement.
 - Contact Zero is nonhuman first contact.
 - Suppression Order is protective concealment/safety rather than sabotage.
 - Taren’s observation role is real, while later friendship is also real.
