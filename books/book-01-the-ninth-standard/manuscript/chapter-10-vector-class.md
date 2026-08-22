@@ -867,3 +867,207 @@ She mouthed one word.
 He hated her a little.
 
 The feeling was becoming suspiciously comfortable.
+
+---
+
+Two days later, Amadi tested whether the improvement existed when Mara was not sitting beside him.
+
+She called it a timed technical recitation.
+
+Kade called it an ambush with stationery.
+
+Teams of four received a failing stabilization system and twenty minutes to diagnose it, write the governing transfer equations, and propose a correction before the simulated structure crossed its failure threshold.
+
+Mara was assigned across the room.
+
+Eli was not in the class.
+
+Kade’s team included Owen Park, Nessa Kim, and a feeder-program student named Leila Tran who had been writing tensor notation since approximately birth.
+
+The simulation started.
+
+The north support began oscillating.
+
+Leila wrote equations immediately.
+
+Owen checked constraints.
+
+Nessa watched the live field changes.
+
+Kade watched the structure.
+
+For thirty seconds, everybody did the thing they were best at.
+
+Then the model began failing faster.
+
+“Your damping term is late,” Kade said.
+
+Leila did not look up.
+
+“It is synchronized to the field update.”
+
+“The field update is synchronized to the sensor.”
+
+“Yes.”
+
+“The structure moves before the sensor finishes reporting it.”
+
+Owen looked at Kade.
+
+“Write what you mean.”
+
+Old Kade would have pointed at the simulation and expected that to count.
+
+Kade took the stylus.
+
+His first line used the wrong subscript.
+
+Owen tapped it.
+
+Kade corrected it without defending himself.
+
+Second line.
+
+Third.
+
+He wrote the delay term Mara had drilled into him the night before.
+
+Leila stopped.
+
+“Oh.”
+
+Kade looked at her.
+
+That was a satisfying sound.
+
+They changed the model.
+
+Failure time increased.
+
+Not enough.
+
+Nessa said, “West operator is compensating twice.”
+
+Kade saw it.
+
+Two people solving the same correction independently.
+
+The coupled-state problem again.
+
+“Treat west and center as one control loop for the next cycle,” he said.
+
+Leila frowned.
+
+“That is not standard.”
+
+“No.”
+
+“Could destabilize both.”
+
+“Yes.”
+
+Owen looked at the timer.
+
+“Eight minutes.”
+
+Leila looked at Kade.
+
+“Can you write it?”
+
+That was the question.
+
+Not *can you see it?*
+
+Not *can Mara translate it?*
+
+Can you write it.
+
+Kade did.
+
+Slower than Leila would have.
+
+Cleaner than yesterday.
+
+Owen corrected one sign.
+
+Kade corrected it and kept going.
+
+They submitted with forty-three seconds left.
+
+The simulation stabilized.
+
+Not perfectly.
+
+Their team finished second.
+
+Mara’s finished first.
+
+Of course.
+
+Kade looked at the ranking.
+
+Second bothered him.
+
+Then he realized why.
+
+He had expected to compete.
+
+Not survive.
+
+Compete.
+
+Amadi stopped beside their table.
+
+She reviewed Kade’s equations.
+
+One finger touched the corrected sign.
+
+“Park?”
+
+Owen nodded.
+
+“Good.”
+
+Kade frowned.
+
+“You are praising him for correcting me.”
+
+“I am praising the system for not depending on your pride.”
+
+Leila laughed.
+
+Kade looked at the four names on the submission.
+
+No single author.
+
+No hidden genius.
+
+A correct answer assembled from different strengths.
+
+That felt familiar in a way he could not yet name.
+
+On the way out, Mara fell into step beside him.
+
+“Second.”
+
+“You sound pleased.”
+
+“You wrote the shared-state correction.”
+
+“Owen fixed a sign.”
+
+“Good.”
+
+Kade looked at her.
+
+“You are very committed to making praise uncomfortable.”
+
+“It keeps you functional.”
+
+He smiled.
+
+The two-page note in his bag still needed another revision.
+
+For once, that did not feel like evidence he should never have written it.
+
+It felt like what came next.
