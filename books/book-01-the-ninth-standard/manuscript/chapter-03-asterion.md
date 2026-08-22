@@ -4,9 +4,9 @@ Kade had expected the transport to be impressive.
 
 He had not expected it to refuse to have wings.
 
-He stood beside his mother on a restricted pad at the municipal airfield, staring at a matte-gray aircraft shaped like someone had taken a normal jet, removed every part that made intuitive sense, and dared gravity to complain.
+He stood beside his mother on a restricted pad at the municipal airfield, staring at a matte-gray aircraft shaped like someone had taken a normal jet, removed every part that made intuitive sense, and then dared gravity to complain.
 
-Four recessed lift rings glowed pale blue beneath the fuselage.
+Four recessed lift rings glowed faintly beneath the fuselage.
 
 No propellers.
 
@@ -14,9 +14,11 @@ No visible engines.
 
 No wings.
 
-Darius, attending the departure by video call from Kade’s phone, said, “That thing looks fake.”
+Darius, attending by video call from Kade’s phone, said, “That thing looks fake.”
 
-Kade held the camera toward the aircraft. “Helpful.”
+Kade held the phone toward the aircraft.
+
+“Helpful.”
 
 “It looks like a lunchbox rich people would buy.”
 
@@ -30,77 +32,91 @@ Elena adjusted the strap on Kade’s duffel bag.
 
 “Yes, ma’am.”
 
-Kade turned the screen back toward himself.
+Kade looked at the screen.
 
-Darius was sitting on the concrete steps outside Northline. Behind him, somebody was arguing with the vending machine.
+Darius sat on the steps outside Northline. Behind him, somebody was arguing with the vending machine.
 
 Normal life had continued with offensive efficiency.
-
-Forty-eight hours ago Kade had been sitting in Room Four trying not to care about a national exam. Now two federal officers knew his name, a classified protocol had claimed his week, and a wingless aircraft was waiting to carry him to the school millions of teenagers would have traded important organs to attend.
-
-Northline’s vending machine still refused to give Tessa her pretzels.
-
-There was something comforting about that.
 
 Darius said, “You got everything?”
 
 “One bag.”
 
-“That is not what I asked.”
+“That’s not what I asked.”
 
-Kade looked down at the grocery-store duffel Elena had owned since before he was born. One zipper had been repaired with black thread. The Asterion travel packet had recommended two formal uniforms, athletic clothing, personal electronics, and *appropriate attire for institutional events*.
+Kade looked down at the grocery-store duffel Elena had owned since before he was born. One zipper had been repaired with black thread. The Asterion travel instructions recommended two formal uniforms, athletic clothing, personal electronics, and “appropriate attire for institutional events.”
 
 Kade owned exactly one shirt that might qualify as institutional.
 
 It had a collar.
 
-“Probably.”
+“Probably,” he said.
 
-Darius nodded. “Send pictures.”
+Darius nodded.
+
+“Send pictures.”
 
 “Of what?”
 
 “Everything.”
 
-“Very specific.”
+“Your standards are low.”
 
-“I am giving you creative freedom.”
+“Have you seen Northline?”
 
-Kade smiled.
+Behind him, Ms. Alvarez stepped through the school doors carrying her half-empty coffee.
 
-“Try not to get expelled while I’m gone.”
+Darius noticed Kade looking and turned the phone.
 
-Darius looked offended. “You leave for one day and immediately become judgmental.”
+Ms. Alvarez stopped.
 
-“Natural leadership.”
+For a second none of them said anything.
+
+Then she raised her cup toward the camera.
+
+“Try.”
+
+Kade stared at her.
+
+“That is becoming threatening.”
+
+“Good.”
+
+The connection distorted her smile into blocks for half a second.
+
+Then she disappeared back inside.
+
+Darius turned the phone toward himself again.
+
+“She’s going to put that on your grave.”
+
+“Optimistic departure talk.”
 
 A uniformed flight officer approached.
 
 “Mercer?”
 
-Kade lifted a hand.
+Kade raised a hand.
 
 “Boarding now.”
 
 He looked back at his phone.
 
-Darius raised two fingers in a crooked salute.
+Darius lifted two fingers in salute.
 
 “Go be weird somewhere expensive.”
 
 Kade ended the call before he could answer.
 
-That was partly because he did not have one.
-
 His mother hugged him.
 
-Not the quick shoulder squeeze she used when one of them was heading to work or school.
+Not the quick shoulder squeeze she used when leaving for work.
 
-A real hug.
+A real one.
 
-Kade stayed stiff for half a second before his arms went around her.
+Kade held still for half a second, then hugged her back.
 
-“You call me,” Elena said against his shoulder.
+“You call me,” she said into his shoulder.
 
 “I know.”
 
@@ -108,7 +124,7 @@ Kade stayed stiff for half a second before his arms went around her.
 
 “People still call?”
 
-She pulled away and gave him the look.
+She pulled away and looked at him.
 
 “Kade.”
 
@@ -122,27 +138,15 @@ She pulled away and gave him the look.
 
 “Once is excellent.”
 
-“Morning.”
+She smiled.
 
-“Evening.”
-
-“Both.”
-
-“One.”
-
-Elena almost smiled.
-
-“Fine. One real call.”
-
-“Negotiation complete.”
-
-The smile faded.
+Then the smile faded.
 
 “If you want to come home after the evaluation, you come home.”
 
-Kade looked toward the aircraft.
+He looked toward the aircraft.
 
-The lift rings brightened almost imperceptibly.
+The lift rings brightened.
 
 “I know.”
 
@@ -172,23 +176,29 @@ She stared at him.
 
 “Remarkable observation.”
 
-He grinned.
+Kade grinned.
 
-She reached up and straightened the collar of his hoodie even though it did not need straightening.
+Then she reached out and straightened the repaired cuff of his hoodie.
 
-“Don’t make yourself smaller because everyone there looks expensive.”
+Her hand stopped there.
 
-Kade’s grin weakened.
+“Your father would have—”
 
-“I don’t do that.”
+The sentence died.
 
-“You do it sideways.”
+Kade looked at her.
 
-“What does that mean?”
+Elena’s eyes moved away first.
 
-“You will figure it out.”
+“Would have what?”
 
-He hated when she saved arguments for later.
+“Made fun of the bag.”
+
+“That feels plausible.”
+
+She smiled, but not quite enough.
+
+Kade stored the unfinished sentence with the other things he did not understand.
 
 Then he boarded.
 
@@ -196,11 +206,11 @@ The cabin held twelve seats and only five passengers.
 
 Three wore Asterion jackets.
 
-One wore a suit and never looked up from a translucent display floating above his wrist.
+One wore a suit and never looked up from a display.
 
 The fifth was Kade.
 
-He chose the seat farthest from everyone else.
+He took the seat farthest from everyone else.
 
 An academy student across the aisle glanced at his duffel, then at him.
 
@@ -214,23 +224,29 @@ Classification.
 
 Placement.
 
-His mother’s voice returned.
+He put the bag beneath his seat.
 
-*Don’t make yourself smaller because everyone there looks expensive.*
+The flight officer closed the cabin door.
 
-Kade shoved the duffel under the seat with perhaps more force than necessary.
+“Null-lift departure. Remain secured until the seat indicator clears.”
 
-The doors sealed.
+Kade fastened the harness.
 
-A soft tone sounded.
+There was no engine whine.
 
-The aircraft rose without moving forward.
+No accelerating roll.
+
+The aircraft rose.
+
+Just rose.
 
 Kade’s stomach remained on the runway for a moment.
 
 The city dropped beneath them.
 
-There was no engine roar, no hard acceleration. The lift rings produced a low vibration that he felt more in his teeth than heard. The ground simply stopped being where it had been.
+His hand closed around the armrest.
+
+The lift rings produced almost no vibration. The ground simply fell away as though the agreement between him and gravity had been renegotiated without his participation.
 
 He forgot to look unimpressed.
 
@@ -240,37 +256,43 @@ The student across the aisle noticed.
 
 Kade turned.
 
-The student was perhaps nineteen, broad-shouldered, with the silver Asterion crest stitched onto the collar of a dark jacket.
+The student was perhaps nineteen, broad-shouldered, with a silver Asterion crest stitched onto the collar of a dark jacket.
 
 “First one that didn’t involve a building elevator.”
 
-The student smiled. “Wait until descent.”
+The student smiled.
+
+“Wait until descent.”
 
 “Encouraging.”
 
-“Name’s Rian.”
+“Name’s Rian Okafor.”
 
 “Kade.”
 
-Rian’s expression sharpened.
+Rian’s eyes sharpened.
 
 “Mercer?”
 
 There it was.
 
-Kade sat back. “Unfortunately.”
+Kade sat back.
 
-Rian looked once toward the other students, then lowered his voice.
+“Unfortunately.”
+
+Rian glanced toward the other students, then lowered his voice.
 
 “You’re Zero.”
 
 Kade had heard the nickname online twelve times before breakfast.
 
-Apparently somebody had clipped footage of Station Seven before the district removed the videos. *Zero Boy* had lasted eleven minutes.
+Apparently somebody had clipped footage of Station Seven before the district took the videos down.
 
-Then somebody improved it to *Zero Mercer*.
+Zero Boy had lasted eleven minutes.
 
-Then simply *Zero*.
+Then somebody improved it to Zero Mercer.
+
+Then simply Zero.
 
 Kade preferred the last one, mostly because it sounded like a breakfast cereal for people who hated joy.
 
@@ -280,7 +302,9 @@ Kade preferred the last one, mostly because it sounded like a breakfast cereal f
 
 “What do you say?”
 
-Rian shrugged. “People don’t shut down a national system for a bad test.”
+Rian shrugged.
+
+“I say people don’t shut down a national system for a bad test.”
 
 Kade looked back out the window.
 
@@ -288,35 +312,157 @@ Kade looked back out the window.
 
 Rian nodded once.
 
-That was the end of it.
+That should have been the end of it.
 
-No twenty questions. No request to see the mysterious Zero do something. No sudden concern about whether they were sitting close enough to a classified event to earn social media followers.
+Then he said, “You know people are betting on you.”
 
-Kade appreciated him immediately.
+Kade turned slowly.
 
-The city shrank into blocks and then patterns. Roads stopped looking like roads and became decisions somebody had made about where people were allowed to go.
+“What?”
 
-Kade watched longer than he meant to.
+“Campus pool.”
 
-From altitude, boundaries became honest about what they were.
+“I’m not a horse.”
 
-Mostly choices.
+“Most horses have more public data.”
 
-The thought made the pressure behind his eyes stir.
+“How comforting.”
 
-He looked away from the window.
+Rian pulled up a student forum on his wrist display.
 
-Not now.
+Lines of anonymous predictions scrolled past.
 
-The flight took seventy-two minutes.
+**ZERO LASTS < 72 HOURS**
 
-For the first forty the view was mountains and desert giving way to cities, farmland, then haze.
+**MERCER BASELINES TOP 100**
 
-Then the Pacific appeared.
+**NO OUTPUT / ADMIN ERROR**
 
-Kade had seen the ocean twice.
+**CLASSIFIED STANDARD**
 
-Both times from public beaches crowded with umbrellas, coolers, and children determined to distribute sand across every available human surface.
+**HE IS LITERALLY JUST SOME KID**
+
+Kade pointed at the last one.
+
+“Smart money.”
+
+Rian laughed.
+
+“Odds are terrible.”
+
+“Of course.”
+
+Kade should have found the whole thing ridiculous.
+
+He did.
+
+He also found himself reading the predictions twice.
+
+That bothered him.
+
+The flight leveled.
+
+For the first forty minutes, the view was mountains and desert turning toward coast.
+
+Kade had flown commercially once, at age eight, to visit Elena’s sister. He remembered crying because the wing flexed in turbulence and then denying it for nine years.
+
+This was different.
+
+The aircraft moved with almost no vibration. Every few minutes the floor tilted beneath them while the horizon remained level, compensation fields taking force Kade’s body expected to feel.
+
+He watched the cabin instead of the window.
+
+A paper cup sat on the tray table across from him.
+
+The liquid inside barely moved through a turn.
+
+“How?” he asked.
+
+Rian followed his gaze.
+
+“Local inertial redirection.”
+
+“That’s a phrase, not an explanation.”
+
+“You want the tensor version?”
+
+“No.”
+
+“Then it’s an explanation.”
+
+Kade watched the cup again.
+
+Force happened.
+
+The cup did not experience all of it.
+
+Somewhere, something decided where the transfer resolved.
+
+A pressure touched the base of his skull.
+
+Faint.
+
+Gone before he could decide whether it was real.
+
+He looked away.
+
+Rian said, “You okay?”
+
+“Fine.”
+
+The answer came automatically.
+
+Kade frowned at himself.
+
+“Actually, weird headache.”
+
+Rian nodded toward the call panel. “Tell the crew.”
+
+“It’s gone.”
+
+“Still tell them if it comes back.”
+
+No curiosity.
+
+No Zero questions.
+
+Just practical advice.
+
+Kade liked him more.
+
+A meal tray emerged from the seat console twenty minutes later.
+
+Kade stared at it.
+
+“Did I pay for this?”
+
+Rian looked over.
+
+“You’re on an academy transport.”
+
+“That didn’t answer the question.”
+
+“It’s included.”
+
+“In what?”
+
+“Being abducted educationally, apparently.”
+
+Kade laughed.
+
+The tray contained a sandwich, fruit, a protein bar, and a bottle of water bearing the Asterion crest.
+
+The protein bar probably cost more than lunch at Northline.
+
+Kade ate it anyway.
+
+He had spent enough years resenting expensive things to know resentment did not improve hunger.
+
+Then the ocean appeared.
+
+Kade had seen the Pacific twice.
+
+Both times from public beaches crowded with umbrellas and coolers and children determined to cover every available surface with sand.
 
 This was different.
 
@@ -340,7 +486,7 @@ He lasted nineteen seconds.
 
 Then the clouds opened.
 
-Asterion Island appeared beneath them.
+Asterion Island appeared below them.
 
 Kade stopped breathing.
 
@@ -348,39 +494,33 @@ It did not look like a school.
 
 It looked like someone had built a city specifically to win an argument.
 
-The artificial island formed a rough crescent nearly six kilometers across. White seawalls cut clean geometry through dark water. Towers rose from the northern arc, pale stone and glass catching the afternoon light. Academic buildings stepped downward across broad green terraces. Training arenas occupied the southern half like enormous silver coins embedded in the island.
+The artificial island formed a rough crescent nearly six kilometers across. White seawalls cut clean lines through dark water. Towers rose from the northern arc, glass and pale stone catching afternoon light. Green spaces divided academic buildings into broad terraces. Training arenas sat along the southern half like enormous silver coins embedded in the ground.
 
-At the center stood one structure larger than everything around it.
+At the center stood one structure larger than all the others.
 
 The Spire.
 
 Kade knew it from broadcasts.
 
-Every championship feed showed it. Every recruitment commercial used it. Every inspirational documentary included at least one shot of a famous graduate standing in front of it while saying something about discipline.
+Every championship feed showed it.
 
-The real thing made the screen version look badly proportioned.
+Every recruitment commercial used it.
 
 A tapered tower of dark glass and structural lattice climbed above the island, its upper levels widening instead of narrowing, as if gravity had been consulted and overruled.
 
 The aircraft descended.
 
-Details separated from spectacle.
-
-Bridges between buildings.
+Kade saw bridges between buildings.
 
 Running tracks.
 
 Open courtyards.
 
-Solar canopies moving to follow the sun.
-
-Students.
+Students moving in groups.
 
 Thousands of them.
 
-Kade had understood that Asterion was large. Understanding a number and seeing ten thousand young people moving through one place were not the same experience.
-
-Above the western shoreline, two figures launched into the air.
+Above the western shoreline, two figures rose into the air.
 
 No aircraft.
 
@@ -406,19 +546,23 @@ Kade pulled his hand away.
 
 “Not from ten meters.”
 
-Kade had no answer.
+Kade had no answer for that.
 
-The aircraft banked.
+The aircraft banked hard.
 
-His stomach shifted left while the cabin seemed to remain level.
+His stomach shifted.
 
-Then the floor felt as if it rotated beneath him without visibly moving at all.
+Then the floor seemed to rotate beneath him without the cabin rotating at all.
 
 He grabbed the seat.
 
-Rian grinned. “Descent.”
+Rian grinned.
 
-Kade glared at him. “I dislike you.”
+“Descent.”
+
+Kade glared at him.
+
+“I dislike you.”
 
 “You’ll survive.”
 
@@ -426,9 +570,15 @@ The aircraft settled onto a pad with almost no impact.
 
 The doors opened.
 
-Warm ocean air rushed into the cabin carrying salt, heat, and something green from the landscaping.
+Warm ocean air rushed in.
 
-Kade stepped onto Asterion Island.
+Salt.
+
+Jet fuel from a neighboring conventional pad.
+
+Flowers from landscaping Kade could not identify.
+
+He stepped onto Asterion Island.
 
 For three seconds, nobody knew who he was.
 
@@ -484,11 +634,7 @@ Cole started walking.
 
 Kade followed.
 
-The landing complex opened into a plaza large enough to have weather. Trees lined black-stone walkways. Water moved through narrow channels cut into the paving, apparently because Asterion had decided ordinary drainage lacked ambition.
-
-Students crossed in every direction.
-
-Most wore some variation of academy uniform—dark blue, silver trim, house marks at shoulder or collar. Others wore training gear. Several had visible Conduit interface nodes along the neck or behind the ears.
+The landing complex opened into a broad plaza lined with trees unfamiliar to him. Water moved through narrow channels cut into black stone. Students crossed in every direction, most wearing some variation of academy uniform.
 
 Nobody seemed lost.
 
@@ -496,9 +642,9 @@ Kade immediately distrusted them.
 
 A transparent panel rose from the plaza floor.
 
-At first he thought it was advertising.
+At first he thought it was an advertisement.
 
-Then the names started moving.
+Then the names began moving.
 
 Thousands of them.
 
@@ -508,7 +654,7 @@ A ranking board.
 
 Kade slowed.
 
-Names scrolled beside numbers, years, Houses, and Standard classifications.
+Names scrolled beside numbers, academic years, Houses, and Standard classifications.
 
 At the top:
 
@@ -518,7 +664,7 @@ Kade blinked.
 
 “Freshman?”
 
-Cole glanced at the display.
+Cole glanced at the board.
 
 “Yes.”
 
@@ -532,11 +678,11 @@ Kade hated that the answer disappointed him.
 
 Cole touched his slate.
 
-The board changed.
+The display shifted.
 
 **INCOMING FIRST-YEAR COHORT — 10,482 STUDENTS**
 
-“Ten thousand?”
+“Ten thousand?” Kade said.
 
 “Ten thousand four hundred eighty-two.”
 
@@ -544,7 +690,7 @@ The board changed.
 
 “Enough.”
 
-“That is not a number.”
+“That’s not a number.”
 
 “It is the number relevant to your day.”
 
@@ -560,11 +706,11 @@ Everywhere he looked, something competed for attention.
 
 A group of students in training uniforms sprinted uphill while weighted sleds floated behind them on controlled fields.
 
-Two others stood inside a transparent practice enclosure redirecting streams of water between suspended rings. Their movements looked less like combat than conducting an orchestra whose instruments could break bones.
+Two others stood inside a transparent practice enclosure redirecting streams of water between suspended rings.
 
-On a lawn, a professor lectured around a three-dimensional projection of an orbital platform while students sat in the grass eating lunch.
+On a lawn, a professor lectured around a three-dimensional projection of an orbital platform while students sat in the grass.
 
-A maintenance crew guided a cracked concrete beam through the air with three synchronized field operators. One of them looked no older than Kade.
+A maintenance crew replaced a cracked walkway panel while one student hovered the entire slab five centimeters off the ground and another argued with an engineer about load distribution.
 
 Nobody seemed to think any of it was remarkable.
 
@@ -582,7 +728,7 @@ Kade looked at him.
 
 Kade looked down.
 
-A bench waited ten centimeters from his shin.
+A bench stood ten centimeters from his shin.
 
 He changed direction.
 
@@ -592,33 +738,59 @@ Cole’s mouth moved.
 
 Almost a smile.
 
-A group of younger-looking students passed them. One glanced at Kade’s provisional slate and then whispered to another.
+They passed an open courtyard where twenty students stood in a circle around a hovering steel ring.
 
-Kade heard one word.
+An instructor called numbers.
 
-“Zero.”
+Each number sent a different student stepping forward to alter the ring’s movement—slow it, redirect it, divide its rotation, hold stored energy, release it.
 
-He kept walking.
+Kade stopped.
 
-The ranking board vanished behind a row of trees.
+The ring accelerated toward a wall.
 
-Another appeared two courtyards later.
+Three students acted at once.
 
-Apparently Asterion believed teenagers should never spend more than three minutes without knowing exactly how they compared to everyone else.
+The ring curved.
 
-“That healthy?” Kade asked.
+Stopped.
 
-Cole did not need clarification. “Debated annually.”
+Dropped neatly onto a stand.
 
-“And?”
+“What class?” Kade asked.
 
-“The debate has a ranking.”
+“Introductory coupled control.”
 
-Kade stared at him.
+“Introductory.”
 
-Cole kept walking.
+“Yes.”
 
-Kade decided that if Cole ever smiled fully, civilization might end.
+“At my old school introductory physics involved a cart.”
+
+“Carts remain available.”
+
+“I’m relieved.”
+
+They continued.
+
+A group passed wearing green-and-gold House jackets. One student looked at Kade, whispered something, and all four turned.
+
+Kade raised one hand.
+
+“Hello, subtle people.”
+
+They faced forward immediately.
+
+Cole did not react.
+
+“How long until that stops?” Kade asked.
+
+“Attention?”
+
+“Yes.”
+
+“Depends on what you do tomorrow.”
+
+That answer stayed with him.
 
 They reached a residence complex overlooking the eastern water.
 
@@ -634,21 +806,13 @@ Some wore business suits.
 
 Some wore military uniforms.
 
-One family had three assistants moving boxes while a girl in academy blue complained that her assigned room faced the harbor rather than open ocean.
+One family had three assistants moving boxes while a girl in academy blue complained about which room faced the ocean.
 
 Kade looked down at his grocery-store duffel.
 
 For the first time all day, it embarrassed him.
 
-The feeling arrived small and hot and immediate.
-
-He hated it.
-
-His mother’s voice returned.
-
-*You make yourself smaller sideways.*
-
-Kade tightened his grip on the strap.
+He hated that immediately.
 
 Cole noticed.
 
@@ -660,25 +824,47 @@ Of course he did.
 
 “I did not say you did.”
 
-Kade looked at him.
-
-Cole’s expression remained completely neutral.
-
-Not pity.
-
-Not superiority.
-
-Just information.
-
-Kade loosened his hand on the strap.
-
-“Right.”
+Kade tightened his grip on the strap.
 
 They entered.
+
+At the intake desk, another staff member scanned Kade’s wrist band and handed him a meal card, temporary housing key, campus map, emergency contact strip, and a blue cloth lanyard marked PROVISIONAL.
+
+Kade held it up.
+
+“Do I have to wear this?”
+
+“During evaluation.”
+
+“It’s very tasteful.”
+
+“It prevents you entering restricted training zones.”
+
+“Less tasteful.”
+
+A student passing behind him glanced at the lanyard.
+
+Then at Kade’s face.
+
+Recognition flashed.
+
+Kade clipped it on anyway.
 
 His room was on the eighth floor.
 
 Temporary housing, Cole explained. House assignments would follow baseline testing.
+
+The elevator had a transparent wall.
+
+Kade watched the ocean drop beneath him as they rose.
+
+At floor five, two students entered arguing in Mandarin. One had a training bruise across her jaw. The other carried a violin case.
+
+At floor seven, a boy stepped in wearing pajama pants and an academy jacket covered in competition pins.
+
+Nobody looked like a recruitment commercial.
+
+That helped.
 
 The room had two beds, two desks, floor-to-ceiling glass, and an ocean view that would have added several hundred dollars to the rent anywhere Kade had ever lived.
 
@@ -706,7 +892,7 @@ Cole studied him.
 
 Then said, “Mr. Mercer, Asterion is not interested in proving you belong here.”
 
-Kade’s jaw tightened before he could stop it.
+Kade’s jaw tightened.
 
 Cole continued.
 
@@ -716,25 +902,7 @@ The door closed behind him.
 
 Kade stood alone.
 
-Silence filled the room in a way it never did at home. Not true silence—air circulation whispered in the walls; distant training impacts came through the glass as soft pulses—but expensive silence. Designed silence.
-
-He unzipped the duffel.
-
-Three shirts.
-
-Two pairs of jeans.
-
-Training clothes.
-
-The collared shirt.
-
-A worn photograph of him and Elena at a county fair when he was nine that she had slipped into the side pocket without telling him.
-
-Kade stared at it.
-
-Then put it facedown on the desk because apparently feelings were following him to the island.
-
-Outside the window, Asterion stretched beneath the late-afternoon light.
+Outside the window, the island stretched beneath late-afternoon light.
 
 Students crossed bridges far below.
 
@@ -742,19 +910,117 @@ A training arena opened its roof like a mechanical flower.
 
 Beyond it, the Pacific reached to the horizon.
 
-Kade took out his phone.
+Kade unpacked.
 
-His mother answered on the second ring.
+It took four minutes.
 
-“Well?”
+Three shirts.
+
+Two pairs of jeans.
+
+Training clothes Elena bought the night before because he owned nothing designed for “academy physical evaluation.”
+
+One collared shirt.
+
+A photograph of him and Elena he had not packed.
+
+He stared at it.
+
+His mother had slipped it into the side pocket.
+
+Behind the photograph was a folded note.
+
+**Call me. Eat food. Ask questions. You are allowed to leave. You are also allowed to stay. — Mom**
+
+Kade read the last sentence twice.
+
+Then put the note in his desk drawer where nobody would accidentally see it and make the situation emotional.
+
+At dinner he went alone.
+
+The temporary-residence dining hall had eight food stations, two hundred seats, and more different languages being spoken than Kade had heard in one place in his life.
+
+He took a tray.
+
+The student behind him said, “Zero?”
+
+Kade did not turn.
+
+“Probably not on the menu.”
+
+A girl laughed.
+
+“No. You.”
+
+He looked back.
+
+She was short, curly-haired, wearing a provisional lanyard the same color as his.
+
+“Unfortunately.”
+
+“Imani Bell. Medical review.”
+
+“Is that why you’re provisional?”
+
+“Heart surgery at fourteen. They want to see whether the implant interferes with field coupling.”
+
+She said it casually.
+
+Kade had no prepared response.
+
+“Does it?”
+
+“Tomorrow I find out.”
+
+She picked up an apple.
+
+“What are you?”
+
+“Apparently a routing code.”
+
+Imani nodded as if that made sense.
+
+“Good luck with that.”
+
+“You too.”
+
+They separated at the tables.
+
+Kade sat alone near the window.
+
+For the first time it occurred to him that provisional did not mean unwanted.
+
+It meant unresolved.
+
+That distinction was irritatingly hopeful.
+
+He watched students eat, argue, study, flirt, trade training clips, complain about instructors, and steal food from one another’s trays.
+
+A school.
+
+An impossible school, but still a school.
+
+A student at the next table groaned over a chemistry problem.
+
+Someone else threw a bread roll at him.
+
+The bread roll curved in midair, stopped, and returned to the thrower.
+
+Nobody looked up.
+
+Kade laughed into his water.
+
+At 20:05 he called Elena.
+
+She answered on the second ring.
+
+“Well?” she said.
 
 He looked around the room.
 
-At the ocean.
+Looked at the ocean.
 
-At the ranking board visible across the courtyard.
-
-At the tiny grocery-store duffel on a bed in the most expensive place he had ever entered.
+Looked at the ranking board visible across the courtyard.
 
 He had prepared several answers during the flight.
 
@@ -778,40 +1044,96 @@ Then she laughed.
 
 Kade smiled.
 
-“You hate it?” she asked.
+“What does that mean?”
 
-He walked to the window.
+“The cafeteria has actual fruit.”
 
-Below, a student launched from a lower terrace and crossed the gap between buildings in one impossible leap. Halfway through the arc, something changed in the student’s trajectory. The fall became forward motion. They landed running.
+“A scandal.”
 
-Kade watched until the student disappeared.
+“Someone redirected a bread roll.”
 
-“No,” he said.
+“Dangerous technology.”
 
-The word came out before he could protect himself from it.
+“And I almost walked into a bench.”
 
-Elena was quiet.
+“That one sounds like you.”
 
-Kade leaned his forehead against the cool glass.
+Kade leaned back.
 
-“I think that might be the problem.”
+He told her about Rian.
 
-His mother did not tease him.
+The island.
 
-That was worse.
+The student flyers.
 
-“Then find out what it is,” she said.
+The provisional girl with a heart implant.
 
-After the call, Kade stood at the window until the first lights came on across the island.
+He did not tell her how badly the duffel had embarrassed him for five seconds.
 
-Asterion transformed after dark.
+He did not tell her about the pressure behind his eyes during the aircraft turn.
 
-Training rings glowed beneath glass domes. Walkways traced pale lines over black water. The Spire became a vertical constellation.
+Not yet.
 
-Kade looked at the city-school-military-base impossible thing outside his window.
+Then Elena said, “You sound happy.”
 
-He had spent years learning how not to want places that might decide they did not want him.
+Kade stopped.
 
-Asterion had given him less than one afternoon to practice.
+“I sound tired.”
 
-He was already failing.
+“You sound happy and tired.”
+
+“Medical diagnosis?”
+
+“Maternal observation.”
+
+Kade looked through the window.
+
+A student launched from a lower terrace and crossed the gap between buildings in one impossible leap.
+
+He watched until the student disappeared.
+
+“Maybe,” he said.
+
+The word surprised both of them.
+
+Elena did not ruin it by commenting.
+
+“Call tomorrow,” she said.
+
+“I will.”
+
+“After testing.”
+
+“Yes.”
+
+“And Kade?”
+
+“What?”
+
+“You don’t have to decide tonight whether you belong there.”
+
+His eyes moved to the ranking board across the courtyard.
+
+Ten thousand four hundred eighty-two first-years.
+
+Every one of them had gotten here by some route.
+
+His was simply stranger.
+
+“Good,” he said. “Because I have no data.”
+
+“Exactly.”
+
+They ended the call.
+
+Kade stood at the window another ten minutes.
+
+He did not tell his mother the second thing he was thinking.
+
+He wanted to stay.
+
+Not forever.
+
+Not even definitely.
+
+But long enough to find out what this place would ask him next.
