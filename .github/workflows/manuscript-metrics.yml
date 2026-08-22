@@ -1,0 +1,21 @@
+name: Manuscript Metrics
+
+on:
+  push:
+    branches:
+      - prep/book-02
+  workflow_dispatch:
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Count Book 1 words
+        run: |
+          python scripts/word_count.py | tee manuscript-word-count.txt
+      - name: Upload report
+        uses: actions/upload-artifact@v4
+        with:
+          name: manuscript-word-count
+          path: manuscript-word-count.txt
