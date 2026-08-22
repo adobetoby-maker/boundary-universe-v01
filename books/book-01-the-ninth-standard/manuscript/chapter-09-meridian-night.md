@@ -442,6 +442,178 @@ He did not notice the absence until someone mentioned the national exam in a dif
 
 That was new.
 
+Then somebody turned the music down.
+
+A fourth-year named Lio climbed onto the low greenhouse wall.
+
+“First-month stories,” he announced.
+
+Half the roof cheered.
+
+The other half complained in the precise tone of people who intended to participate.
+
+Kade looked at Sera.
+
+“What is this?”
+
+“Public humiliation with historical value.”
+
+“Meridian has excellent traditions.”
+
+Lio pointed at Mina.
+
+She groaned.
+
+“Fine. First month, I challenged Rank 600 because I thought losing to somebody good would make me look ambitious.”
+
+“What happened?” someone called.
+
+“I woke up in medical.”
+
+The roof laughed.
+
+Mina raised a finger.
+
+“And moved down eighty places for unsafe decision-making.”
+
+More laughter.
+
+Anton went next.
+
+He had gotten lost in the Spire and accidentally attended half a graduate seminar on orbital structural dynamics before admitting he was in the wrong room.
+
+Nessa had cried during her first Perception lab because everyone else described field colors she could not see.
+
+Three weeks later she learned her perception manifested as pressure changes instead.
+
+A third-year had started at rank 9,744 and spent six months convinced the number meant Asterion had made an admissions mistake.
+
+A second-year had failed the same Conduit Theory exam twice.
+
+Sera refused to tell a story until the entire roof started chanting her name.
+
+She finally stood.
+
+“First month, I left campus twice.”
+
+The noise dropped.
+
+Kade looked at her.
+
+“Why?” somebody asked.
+
+“Because I decided everybody here was unbearable.”
+
+“That remains true,” Eli called.
+
+Sera pointed at him.
+
+“Case study.”
+
+People laughed.
+
+She continued.
+
+“The second time, an instructor told me if I walked out again I could keep walking.”
+
+Kade’s stomach tightened.
+
+“What happened?” Mina asked.
+
+“I stayed because I wanted to prove he was not the person who got to decide.”
+
+Sera sat.
+
+No lesson attached.
+
+No inspirational ending.
+
+The story simply joined the others.
+
+Taren pointed at Kade.
+
+“New person.”
+
+“No.”
+
+“Tradition.”
+
+“I do not respect tradition.”
+
+“Liar. You signed the table.”
+
+Everyone looked at him.
+
+Kade considered escape.
+
+There were three clear routes.
+
+He stayed.
+
+“Fine.”
+
+The roof quieted.
+
+Kade looked at all of them.
+
+“My first month is not over.”
+
+“That is technically true,” Eli said.
+
+“I arrived last in the entire first-year class.”
+
+“We know,” several people said.
+
+“Helpful.”
+
+Kade thought about the foam blocks.
+
+The wrong notation.
+
+Mae Larson putting him at the boundary.
+
+His gray shirts.
+
+He could choose any of them.
+
+Instead he said, “I thought being bad at things here would feel like proof I should not be here.”
+
+The sentence came out more honest than planned.
+
+Nobody laughed.
+
+Kade almost reached for a joke.
+
+Then Mina said, “And?”
+
+He looked around the roof.
+
+“And it mostly feels like homework.”
+
+That got the laugh.
+
+Good.
+
+But the honest part remained underneath it.
+
+Lio lifted his cup.
+
+“Meridian.”
+
+“Meridian,” the roof answered.
+
+Kade did not know whether the ritual was old or something Lio had invented last year.
+
+It did not matter.
+
+For a few minutes, everyone’s rank became less interesting than the thing they had once been terrible at.
+
+Kade had never been in a school culture that preserved failure on purpose.
+
+He liked it.
+
+That concerned him.
+
 ---
 
 Later, after the music shifted quieter and the crowd separated into smaller groups, Kade found Mara alone by the east railing.
