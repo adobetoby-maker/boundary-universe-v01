@@ -58,23 +58,115 @@ Sera had handed them the siege response report.
 
 The bell was repaired the next day.
 
+The first time it rang after repairs, nobody celebrated.
+
+Meridian used it for an evacuation drill.
+
+Three hundred students cleared the House in six minutes forty-two seconds.
+
+Sera was furious.
+
+“Too slow.”
+
+Kade looked at the empty courtyard.
+
+“That was faster than the published target.”
+
+“The published target assumes nobody has a broken ankle and everybody reads signs.”
+
+“People do read signs.”
+
+Sera stared at him.
+
+Kade remembered Northline.
+
+“Fair.”
+
 She had accepted the accelerated Disaster Response Corps assessment two weeks later.
 
 She did not talk about it much.
 
 Which meant everyone in Meridian talked about it constantly.
 
+The first assessment required her to evacuate a simulated transit collapse while two instructors deliberately gave contradictory orders.
+
+Sera ignored both.
+
+She passed.
+
+Kade bought her a small plastic emergency whistle from the campus store.
+
+She threw it at him.
+
+Then attached it to her response bag.
+
 Eli’s Systems Lab fellowship application had also been approved.
 
 He claimed the academy had been emotionally manipulated by his temporary death.
 
-His faculty advisor claimed the stabilization design was simply good.
+Professor Kim claimed the stabilization design was simply good.
 
 Kade suspected both were true.
 
-Eli now spent three evenings a week trying to reduce the civilian unit cost without accidentally starting fires.
+Eli now spent three evenings a week trying to reduce civilian unit cost without accidentally starting fires.
 
 Progress was mixed.
+
+The first prototype failed because its thermal sink cost more than the rest of the unit.
+
+The second worked for eleven minutes and then produced a smell nobody could identify.
+
+The third survived Sera.
+
+That was the important one.
+
+They tested it on the south training deck with Captain Ortiz observing by secure call.
+
+Eli placed the portable stabilizer under a simulated collapsed beam.
+
+Sera looked at him.
+
+“You ready?”
+
+“No.”
+
+“Good.”
+
+She overloaded the beam from three directions.
+
+The device screamed electronically.
+
+One casing bolt launched into a safety net.
+
+The field held.
+
+Eli stared at the readout.
+
+Sera stared at the beam.
+
+Captain Ortiz said, “Again.”
+
+Eli laughed.
+
+Not his nervous laugh.
+
+The other one.
+
+The one Kade had missed when the bed was empty.
+
+Kade stood behind the barrier and felt something settle.
+
+Eli’s future had not been restored to what it had been before Lab Six.
+
+Nothing worked like that.
+
+But it had continued.
+
+That was different.
+
+And enough.
+
+---
 
 Taren remained at Asterion under restricted status while three separate investigations fought over what to do with him.
 
@@ -88,23 +180,111 @@ Sera had not forgiven him.
 
 Neither had Kade.
 
-But Taren still attended classes under supervision and still sat with Meridian at meals when the supervision rules allowed it.
+But Taren still attended classes under supervision and still sat with Meridian at meals when the rules allowed it.
 
 The first time he returned to the table, nobody spoke for almost a minute.
 
-Then Eli asked him to pass the salt.
+Taren stood holding a tray.
 
-Taren did.
+Kade looked at the empty chair across from him.
+
+It had been Eli’s before the memorial.
+
+Then empty by choice after Eli returned, because apparently everybody had become superstitious about chairs.
+
+Taren looked ready to leave.
+
+Eli said, “Pass the salt.”
+
+Taren blinked.
+
+Then sat down, reached across, and passed it.
+
+“Thanks,” Eli said.
+
+“You’re welcome.”
 
 That had been the entire reconciliation.
 
 So far.
+
+Two weeks later, Taren asked Kade if he wanted coffee.
+
+Kade said no.
+
+The week after that, Kade said yes.
+
+They sat on the Meridian roof where Taren had first explained why half the school hated Kade and the other half wanted to buy him lunch.
+
+Neither mentioned the symmetry.
+
+Taren looked toward the ocean.
+
+“You ever going to trust me again?”
+
+Kade considered lying.
+
+“No idea.”
+
+Taren nodded.
+
+“Fair.”
+
+“Are you going to keep asking?”
+
+“Probably.”
+
+“That reduces the odds.”
+
+“Good note.”
+
+They drank coffee.
+
+Trust did not return.
+
+Something smaller did.
+
+The possibility that one day it might.
+
+Kade decided not to name it.
+
+---
 
 Julian remained number one in everyone’s head even during the three-month period when official rankings were suspended.
 
 He hated when people said that.
 
 Which encouraged them.
+
+His father had arrived at Asterion forty-eight hours after the siege.
+
+Kade met him once.
+
+Lucian Cross shook Kade’s hand and said, “My son says you are difficult to plan around.”
+
+Kade replied, “He says your compliments need calibration.”
+
+Julian nearly choked on water.
+
+Lucian did not laugh.
+
+Kade liked him less immediately.
+
+Afterward Julian said, “You did that on purpose.”
+
+“I have no idea what you mean.”
+
+“Thank you.”
+
+Kade looked at him.
+
+“For insulting your father?”
+
+“For not being impressed by him.”
+
+That told Kade more than Julian had intended.
+
+He filed it away for Book Two problems he did not yet know were Book Two problems.
 
 Mara had spent the break dividing her time between training, arguing with her father, and helping Sen’s independent inquiry into precursor records.
 
@@ -115,6 +295,56 @@ Carefully.
 According to Mara, this was different from speaking normally because now they admitted when they were withholding things.
 
 Kade found that darkly funny.
+
+She had also beaten him six times in private sparring.
+
+Kade had beaten her twice.
+
+One of those wins was legitimate.
+
+The other involved a practice barrier malfunction that Mara refused to count.
+
+Kade counted it aggressively.
+
+Their relationship had become easier in some ways and more complicated in others.
+
+They studied together without needing an excuse.
+
+They argued about coupling models in public.
+
+Mara had started stealing Kade’s tea when hers went cold, which felt like Sera’s food theft but somehow more dangerous.
+
+One night on the Meridian roof, Kade asked, “Are we doing something?”
+
+Mara looked at him.
+
+“Currently?”
+
+“Do not make this difficult.”
+
+“I thought that was your role.”
+
+Kade stared at the ocean.
+
+“This was a mistake.”
+
+Mara smiled.
+
+Then she took his hand.
+
+No speech.
+
+No relationship declaration.
+
+No dramatic change in background music because life did not have the decency to provide it.
+
+They stood there for several minutes.
+
+The next morning Mara corrected his notation exactly as harshly as before.
+
+Kade found that reassuring.
+
+---
 
 Aaron Mercer was alive.
 
@@ -152,6 +382,36 @@ Kade had hated how much he wanted to hear the sound again.
 
 That was, according to Elena, progress.
 
+The conversation after that went badly again.
+
+Aaron tried to apologize for missing Kade’s childhood.
+
+Kade asked which part.
+
+Aaron did not know how to answer.
+
+They argued for twenty minutes.
+
+Then Aaron asked whether Kade had ever fixed the bad rear-foot plant Mara had complained about.
+
+Kade stared.
+
+“How do you know about that?”
+
+Aaron looked guilty.
+
+“Sen gave me some training reports.”
+
+Kade became furious all over again.
+
+Then Aaron said, “Your footwork was terrible.”
+
+Kade laughed despite himself.
+
+Family, apparently, could be rebuilt through highly specific criticism.
+
+Slowly.
+
 Elena had visited Asterion twice.
 
 The first time she saw Aaron, she stood outside the medical-room door for six minutes before entering.
@@ -166,9 +426,43 @@ Kade had no idea what to do, so he sat beside her.
 
 Apparently that counted.
 
+The second visit was stranger.
+
+Aaron came to a private dining room above the medical wing.
+
+Three people sat at one table who had once been a family but had never actually lived together as one.
+
+Nobody knew what to talk about.
+
+Elena finally asked Aaron whether he still hated mushrooms.
+
+Aaron said yes.
+
+Kade looked between them.
+
+“That is the first useful family medical history anyone has given me.”
+
+Elena laughed.
+
+Aaron did too.
+
+Then all three stopped because hearing both sounds together was too much.
+
+Dinner continued anyway.
+
+No reconciliation.
+
+No clean forgiveness.
+
+Just a second dinner scheduled for two weeks later.
+
+Kade considered that progress too.
+
+---
+
 The countdown continued the entire time.
 
-Lunar Far-Side Array had confirmed the returned coordinates were outside the solar system.
+Lunar Far-Side Array confirmed the returned coordinates were outside the solar system.
 
 The sequence translated to just over one Earth year at receipt.
 
@@ -177,6 +471,60 @@ No government publicly acknowledged it.
 Every government that knew about it treated the number like a lit fuse.
 
 Asterion students knew only that unusual military traffic had tripled around the island.
+
+They also knew international academy delegations had begun arriving early.
+
+Kiyomizu sent six instructors and a systems team.
+
+Helix sent three Standard Sevens and enough security to make everybody uncomfortable.
+
+Vahana’s delegation brought a field vessel that hovered offshore because its captain refused to dock under American military control.
+
+Kisiwa sent disaster-response specialists who spent an entire afternoon with Sera and left her looking happier than Kade had ever seen her.
+
+Officially, the visits were part of a newly accelerated International Academy Exchange Season.
+
+Unofficially, every major Resonance institution on Earth wanted to know what Asterion had done beneath the Spire.
+
+Taren read the announcement over breakfast.
+
+“International joint rankings.”
+
+Eli looked up.
+
+“That sounds terrible.”
+
+“International House competition.”
+
+Mara looked interested despite herself.
+
+Julian, sitting two tables away, turned around.
+
+“When?”
+
+Taren smiled.
+
+“There he is.”
+
+Kade looked at the exchange schedule.
+
+Schools he had only seen in broadcasts.
+
+Students raised inside completely different Resonance systems.
+
+New rankings.
+
+New politics.
+
+New ways to discover he was not as impressive as people currently believed.
+
+He felt something dangerously close to excitement.
+
+Then his tablet displayed the countdown.
+
+Excitement adjusted accordingly.
+
+---
 
 The new semester began under clear skies.
 
@@ -187,6 +535,14 @@ Kade stood with Meridian.
 The repaired Spire rose above them.
 
 The ocean was bright enough to hurt his eyes.
+
+International observers occupied one upper terrace.
+
+Kade recognized uniforms from Kiyomizu, Helix, Vahana, and Kisiwa.
+
+One Kiyomizu student looked down at the Asterion crowd with the same expression Mara used when evaluating a difficult problem.
+
+Kade decided not to enjoy the coming semester yet.
 
 Eli bounced on his heels.
 
@@ -216,7 +572,7 @@ He did not make it weird.
 
 That might have been his greatest advancement yet.
 
-The reset rankings were not a direct continuation of the old ladder. Asterion recalculated each semester using tournament performance, challenge history, academic field evaluations, team events, instructor scoring, and safety-adjusted capability.
+The reset rankings were not a direct continuation of the old ladder. Asterion recalculated each semester using tournament performance, challenge history, academic field evaluations, team events, instructor scoring, emergency performance, and safety-adjusted capability.
 
 For most students the changes were modest.
 
@@ -284,7 +640,7 @@ He remembered how that first number had felt like every teacher report and every
 
 He remembered telling Darius to enjoy it while he could.
 
-The strange part was that #37 did not feel like proof that the old number had been wrong.
+The strange part was that #37 did not feel like proof the old number had been wrong.
 
 #10,482 had been true when it appeared.
 
@@ -332,7 +688,17 @@ Mara said, “Neither did she.”
 
 That was not reassuring.
 
-Every display on campus changed at once.
+On the international terrace, several delegates stood at the same time.
+
+A Helix official started speaking urgently into a comm.
+
+The Kiyomizu student Kade had noticed earlier did not look surprised.
+
+That was interesting.
+
+Kade had exactly one second to wonder why.
+
+Every display on campus changed.
 
 Asterion’s emblem vanished.
 
@@ -360,7 +726,7 @@ Mara looked toward the administration platform.
 
 Sen was already speaking into three secure channels.
 
-Julian’s expression had lost every trace of humor.
+Julian’s expression lost every trace of humor.
 
 Sera automatically scanned exits and crowd density.
 
