@@ -194,6 +194,180 @@ Mostly.
 
 ---
 
+Kiyomizu required every pair to complete a ten-minute calibration before the event.
+
+The calibration booth was barely large enough for two people and a waist-high field rig.
+
+No audience.
+
+No timer visible until the end.
+
+Mara liked it immediately.
+
+Kade distrusted anything that hid the timer.
+
+The rig displayed a simple load map: four anchors, one suspended mass, two operator fields.
+
+“Baseline,” the instructor said through the wall speaker. “Move the mass from center to north marker. No prescribed method.”
+
+Kade saw the route before the sentence ended.
+
+Right anchor took more load than the left.
+
+Mara’s field was cleaner at sustained pressure.
+
+He could carry the transition pulse and let her hold the final state.
+
+“I’ll take the impulse,” he said. “You hold north.”
+
+Mara glanced at the map.
+
+“No.”
+
+Kade stopped.
+
+“No?”
+
+“The right anchor is thermally limited.”
+
+“It’s inside tolerance.”
+
+“For one transition.”
+
+“We only need one.”
+
+Mara pointed to a tiny line in the lower corner of the display.
+
+**CALIBRATION REPEATS UNTIL VARIANCE < 2%**
+
+Kade read it.
+
+Then read it again.
+
+“Oh.”
+
+“If you use the right anchor at your proposed pulse, the second run starts six percent hotter.”
+
+“That is annoyingly specific.”
+
+“Yes.”
+
+He looked at the whole system again.
+
+He had optimized the move.
+
+Mara had optimized the sequence.
+
+Different problem.
+
+“Alternate anchors,” he said.
+
+“And reduce first impulse.”
+
+“That costs time.”
+
+“This is calibration.”
+
+“Time still exists.”
+
+“So does the second run.”
+
+Kade sighed.
+
+They tried her version.
+
+First run: slower than his model.
+
+Second run: almost identical.
+
+Third: identical within point-seven percent.
+
+The display flashed:
+
+**CALIBRATION ACCEPTED**
+
+Kade folded his arms.
+
+“You were right.”
+
+“Yes.”
+
+“You could make that less satisfying for yourself.”
+
+“No.”
+
+The instructor sent a second task.
+
+This time Mara began explaining a route before Kade finished reading.
+
+He saw a field interaction she did not.
+
+“Stop.”
+
+Mara stopped.
+
+Not offended.
+
+Waiting.
+
+Kade pointed to the lower anchor.
+
+“Your route crosses my correction band. If we both fire, it partitions the load.”
+
+Mara looked closer.
+
+“You’re right.”
+
+“Say it again.”
+
+“No.”
+
+“Cruel.”
+
+They rebuilt.
+
+The second calibration passed on the first repeat.
+
+Kade looked at the final trace.
+
+That was what he liked about working with Mara when he was not ruining it.
+
+She did not need him to be the smartest person in the system.
+
+He did not need her to be either.
+
+The problem got better because both of them could be wrong where the other was looking.
+
+The wall speaker said, “Calibration complete.”
+
+Mara unclipped her leads.
+
+Kade said, “That should be the whole event.”
+
+“Why?”
+
+“We were competent and nobody fell.”
+
+“You dislike growth.”
+
+“I dislike scheduled humiliation.”
+
+“They are often the same thing for you.”
+
+Kade followed her out.
+
+The structural-failure diagram waited on his wrist.
+
+His stomach tightened again.
+
+Calibration had proved something useful.
+
+Mara could catch what he missed.
+
+He would need to remember that when fear told him otherwise.
+
+---
+
 The paired-control course occupied an entire training hall.
 
 Kiyomizu did not build arenas for spectators, but it had apparently compromised for the exchange event by allowing observers along a raised perimeter walkway.
