@@ -364,25 +364,69 @@ Not because Eli had offered to defend him.
 
 Because Kade had trusted him to stop when asked.
 
-That evening, mandatory physiology lab assigned Kade a partner who spent fifteen minutes pretending not to know who he was.
+The first replacement class on Kade’s schedule was Fundamentals of Human Movement.
 
-During conditioning, Hale prohibited him from field-assisted movement and made him run the same course as everyone else without support.
+He had expected humiliation.
 
-Kade finished in the bottom third.
+He had not expected foam blocks.
 
-He wanted to dismiss the result.
+Instructor Hale arranged twenty students in a line and gave each of them three blue blocks representing stable foot positions.
 
-Park’s list returned instead.
+“No fields,” Hale said. “No Conduits. No acceleration assists. If I see a field trace, you repeat the exercise.”
 
-*Conditioning below cohort median.*
+A student near Kade muttered, “This is kindergarten.”
 
-Fine.
+Hale heard him.
 
-He wrote down his time.
+“Excellent. Then you should be able to do it.”
 
-That was new.
+The student failed on his second turn.
 
-At dinner, Priya Shah sat across from him without invitation.
+Kade enjoyed that until he failed on his first.
+
+He planted too narrow, pivoted late, and stepped outside the marked triangle.
+
+Hale pointed at the starting position.
+
+“Again.”
+
+Kade reset.
+
+Again.
+
+Again.
+
+By the tenth repetition his thighs burned.
+
+By the twentieth, the movement began to feel less awkward.
+
+Mara crossed the adjacent training floor on her way to a field session.
+
+She slowed just enough to watch him miss a turn.
+
+Kade glared.
+
+She lifted one thumb.
+
+He could not tell whether it was encouragement or mockery.
+
+That made it worse.
+
+Afterward Hale posted the movement scores.
+
+Kade ranked 7,304th in the first-year sample.
+
+He stared at it.
+
+Seven thousand three hundred four.
+
+Not last.
+
+He almost laughed.
+
+Progress could be humiliating too, apparently.
+
+At lunch, Priya Shah sat across from him without invitation.
 
 A few conversations nearby quieted.
 
@@ -441,6 +485,42 @@ It was difficult to build a satisfying persecution narrative when the person he 
 Kade resented her for it.
 
 A little.
+
+The next replacement session was academic.
+
+Conduit Theory I.
+
+Kade had expected a lecture about devices.
+
+Instead Professor Ife Amadi wrote one sentence across the wall.
+
+**A CONDUIT DOES NOT CREATE ABILITY. IT MAKES INTERACTION LEGIBLE.**
+
+Then she spent ninety minutes proving it.
+
+Kade understood perhaps sixty percent.
+
+He wrote down forty.
+
+The rest he marked with question symbols.
+
+By the time class ended, his page looked diseased.
+
+Eli saw it.
+
+“This is beautiful.”
+
+“It is academic violence.”
+
+“You took notes.”
+
+“I have taken notes before.”
+
+“Voluntarily?”
+
+Kade closed the tablet.
+
+“That is enough friendship for today.”
 
 ---
 
