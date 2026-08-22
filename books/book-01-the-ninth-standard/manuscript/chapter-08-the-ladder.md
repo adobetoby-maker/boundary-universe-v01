@@ -44,7 +44,7 @@ Kade had not known adults could say sentences like that with straight faces.
 
 The compromise was simple.
 
-He could enter tactical simulations against students near his rank. If he completed three sessions without neurological symptoms, anomalous structural transfers, or attempting to reproduce the Forty-Seven event, Hale would restore conditional challenge access.
+He could enter tactical simulations against students near his rank. If he completed three sessions without neurological symptoms, anomalous structural transfers, or attempts to reproduce the Forty-Seven event, Hale would restore conditional challenge access.
 
 Eli studied the authorization as they walked toward Simulation Hall Four.
 
@@ -171,6 +171,30 @@ Kade looked at the dark ocean outside his window.
 “Good night, Mom.”
 
 She laughed.
+
+The House itself started becoming legible too.
+
+Meridian had a morning ritual called Bell Watch.
+
+At seven fifty-five, anyone in the commons could look up at the silent bronze bell through the glass ceiling and announce the number of days since it had rung.
+
+“Four hundred twenty-eight,” Taren said on Kade’s fifth morning.
+
+A second-year shouted from the stairs, “Stop counting.”
+
+“We stop when it rings.”
+
+“Then we die counting.”
+
+“That is the Meridian spirit.”
+
+Sera threw a napkin at him.
+
+Kade watched the exchange.
+
+No one had explained the ritual. No one needed to. The joke had been happening before he arrived and would continue without him.
+
+For reasons he could not identify, that made him want to be present for the next number.
 
 Mara passed him twice during conditioning and said nothing.
 
@@ -322,17 +346,111 @@ Not because the number mattered.
 
 Because he knew exactly how he had earned it.
 
-Then came 10,177.
+Mae came up beside him while he was still looking.
 
-9,982.
+“You know staring doesn’t make it update again.”
 
-9,604.
+Kade glanced at her.
+
+“I’m testing the interface.”
+
+“You were less annoying while I was hitting you.”
+
+“Useful feedback.”
+
+She held out a hand.
+
+Kade shook it.
+
+“Rematch when you’re nine thousand?” she said.
+
+“That sounds confident.”
+
+“You have terrible habits.”
+
+“So I’ve heard.”
+
+“Fix them.”
+
+Then she left.
+
+Asterion, Kade was learning, contained an unreasonable number of people willing to help him by insulting him accurately.
+
+The next challenge was different.
+
+Rank 10,177, Oren Mills, was a Storage prospect with enough lower-body field control to make simple grappling unpleasant. Oren did not rush. He waited.
+
+Kade hated waiting opponents.
+
+They denied him obvious information.
+
+For the first minute, neither scored.
+
+The crowd grew restless.
+
+Kade heard someone yell, “Do something.”
+
+He almost agreed.
+
+Then he realized Oren was doing something.
+
+Every time Kade stepped forward, Oren gave him exactly the distance he wanted.
+
+Not retreating.
+
+Collecting.
+
+Kade stopped.
+
+Oren smiled.
+
+There.
+
+The smile told him more than the stance.
+
+Kade changed rhythm, forced Oren to release stored movement early, and took the point before the field could rebuild.
+
+He won on the fourth exchange.
+
+His rank moved again.
+
+Not dramatically.
+
+Enough.
+
+9,982 came two days later.
+
+Then 9,604.
 
 The wins did not arrive in a montage when Kade actually lived them.
 
 Between them were sore mornings, ordinary classes, laundry, a failed mechanics quiz because he had used the right reasoning with notation the professor refused to accept, two dinners where he was too tired to talk, and one spectacularly bad challenge that ended with Kade face-down at the boundary while Eli shouted useful advice approximately three seconds too late.
 
-At Rank 9,433, Kade lost.
+The laundry incident was worse.
+
+House Meridian’s machines used an automated load system that identified fabric types and assigned wash settings.
+
+Kade ignored the instructions.
+
+Two shirts turned gray.
+
+Eli found him staring into the washer.
+
+“You challenged the machine.”
+
+“It made assumptions.”
+
+“It won.”
+
+Kade held up a formerly white shirt.
+
+“Temporary advantage.”
+
+Sera walked past, saw the shirt, and laughed so hard she had to stop walking.
+
+Kade considered leaving Asterion after all.
+
+At Rank 9,433, he lost.
 
 Cleanly.
 
@@ -344,7 +462,55 @@ The old version of him would have found a reason the loss did not count.
 
 The new version wrote down the error.
 
-He won the rematch two days later.
+Then he went downstairs and practiced the movement until midnight.
+
+Mara found him there.
+
+She stood at the edge of the mat.
+
+“Again,” she said.
+
+Kade moved.
+
+“Wrong.”
+
+Again.
+
+“Still wrong.”
+
+Again.
+
+She stepped in and took his wrist.
+
+“You are trying to fix the retreat after you start retreating.”
+
+“What should I fix?”
+
+“The decision before it.”
+
+She shifted his weight half a step.
+
+Kade felt the difference.
+
+“Julian said something like that in the arena replay.”
+
+Mara let go.
+
+“Cross is good.”
+
+“You sound offended.”
+
+“I dislike accuracy when it belongs to someone else.”
+
+Kade smiled.
+
+They practiced another twenty minutes.
+
+Mara left without saying goodnight.
+
+Kade noticed that he no longer interpreted that as dislike.
+
+He won the rematch against Knox two days later.
 
 Inside Meridian, people started noticing.
 
@@ -476,7 +642,51 @@ Then nodded.
 
 Trust, apparently, was partly asking someone to stop before they had done anything wrong.
 
-Kade’s updated rank glowed on the corner of the model.
+Two days later, Kade’s conditional clearance review came due.
+
+Hale met him beside the lower arena with Park and a tablet full of numbers.
+
+“No neurological events,” Park said.
+
+“No unsupervised field activity,” Hale added.
+
+“No prohibited experiments,” Park said.
+
+Kade looked between them.
+
+“This sounds like praise written by lawyers.”
+
+“It is clearance,” Hale said.
+
+“For what?”
+
+“Continue competing.”
+
+Kade tried not to smile.
+
+Failed.
+
+Hale saw.
+
+“Do not make me regret it.”
+
+“That seems impossible to promise.”
+
+“Mercer.”
+
+“I’ll try.”
+
+Hale stared at him.
+
+Kade realized what he had said.
+
+The word no longer felt like Ms. Alvarez’s challenge.
+
+Not exactly.
+
+It felt like something he had chosen.
+
+His updated rank glowed on the corner of Eli’s model that evening.
 
 **8,971**
 
@@ -530,12 +740,22 @@ Eli raised both hands.
 
 Kade laughed.
 
-Then he looked at the ranking board.
+Then Bell Watch began.
+
+Taren called from the center of the commons.
+
+“Four hundred forty-one.”
+
+Half the room groaned.
+
+Kade looked up at the silent bell through the glass.
 
 For the first time, he did not see ten thousand people above him.
 
-He saw a ladder.
+He saw the next name.
 
-And ladders, unlike verdicts, had a useful property.
+And the one after that.
 
-They were meant to be climbed.
+A ladder was just a system with ordered connections.
+
+Kade had always been good at systems once he stopped pretending he did not care where they led.
