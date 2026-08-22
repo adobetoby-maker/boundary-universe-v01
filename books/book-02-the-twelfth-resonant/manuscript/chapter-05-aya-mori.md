@@ -604,6 +604,154 @@ Good.
 
 ---
 
+Kade expected Aya to disappear into some sealed advanced lab after breakfast.
+
+Instead he found her twelve minutes later in the east courtyard losing an argument about sweet bread.
+
+Ren saw Kade notice and smiled too quickly.
+
+“Do not make this strange.”
+
+“I am observing culture.”
+
+“You are observing Mori buying breakfast twice.”
+
+Aya stood at a student kiosk with two other Kiyomizu students, one of whom Kade recognized from the previous day’s drills. The second was younger, maybe fifteen, with a training brace around one knee.
+
+The younger student held up a melon bun.
+
+“You said no sugar before precision block,” she said in English when she noticed the Asterion visitors approaching.
+
+Aya held a different pastry.
+
+“This has less.”
+
+“It has custard.”
+
+“Custard is not an argument.”
+
+“It is evidence.”
+
+Ren made a strangled sound that might have been laughter.
+
+Aya looked at him.
+
+He stopped.
+
+The younger student noticed Kade’s badge.
+
+“Mercer.”
+
+Kade pointed at himself.
+
+“Apparently.”
+
+“I’m Nao Fujita.” She pointed at the other student. “Keiko Matsuda. Aya is pretending she is not buying two breakfasts because she missed dinner.”
+
+Aya’s expression did not change.
+
+“I attended dinner.”
+
+“You moved food around a tray during an architecture review.”
+
+“That is attendance.”
+
+Nao looked at Kade.
+
+“She does this.”
+
+Kade felt something loosen.
+
+Aya Mori, dangerous nonstandard architecture student, apparently required supervision around meals.
+
+Good.
+
+People should contain humiliating ordinary facts.
+
+Keiko handed Aya the melon bun anyway.
+
+Aya accepted it.
+
+No argument.
+
+Kade looked at Ren.
+
+“That was surrender.”
+
+Ren said, “Mutual correction.”
+
+Aya looked at both of them.
+
+“Neither.”
+
+Nao pointed at the wrap around Aya’s fingers.
+
+“She tore those yesterday because she refused to stop climbing.”
+
+Aya said, “The wall was poorly designed.”
+
+“The wall is older than your mother.”
+
+“That does not improve it.”
+
+Kade smiled.
+
+“There you are.”
+
+Aya looked at him.
+
+“What?”
+
+“Nothing.”
+
+“That is usually false.”
+
+“Still learning.”
+
+Nao asked Kade about Asterion’s public rankings. Keiko wanted to know whether the arena crowds were really as loud as the broadcasts made them sound. Ren started explaining House culture badly enough that Kade had to interrupt.
+
+For ten minutes nobody mentioned M-Null.
+
+Nobody mentioned Zero.
+
+Aya complained that Nao cheated at a card game by reading reflected screens in the window. Nao said that counted as Perception. Keiko said it counted as being unbearable.
+
+Aya smiled once.
+
+Actually smiled.
+
+Small, quick, gone before Kade could be certain he had seen it.
+
+Then the courtyard bell rang and Aya looked at the time.
+
+Her entire posture changed.
+
+“Precision block.”
+
+Nao groaned.
+
+Aya handed her the second pastry.
+
+“You need it more.”
+
+Nao accepted it without teasing.
+
+That told Kade more than the earlier argument had.
+
+Aya was not alone here.
+
+She had people who knew when she had eaten, when her hands hurt, when she was being unreasonable, and when to stop joking.
+
+Kade filed that away too.
+
+Not as evidence.
+
+As context.
+
+Different thing.
+
+---
+
 Kiyomizu’s public archive was more open than Asterion’s and somehow harder to search.
 
 That felt intentional.
@@ -905,6 +1053,264 @@ That landed cleanly.
 Kade nodded once.
 
 “Fair.”
+
+---
+
+Their second paired block should have been easier.
+
+It used a flexible bridge of eight connected platforms over a recessed training floor. No height risk. No moving machinery. No government observers. Each pair had to move three weighted cases from one side to the other while the system changed which platforms could bear load.
+
+Aya read the first pattern in four seconds.
+
+Kade took seven.
+
+“Center route,” she said.
+
+Kade looked at the indicator sequence.
+
+“That platform cycles unstable.”
+
+“After load transfer.”
+
+“You’re accounting for us separately.”
+
+“I’m accounting for the relation between us and the cases.”
+
+Of course she was.
+
+They moved.
+
+Aya never seemed to choose a route for herself. She chose a configuration in which both of their possible choices remained useful.
+
+Kade understood the difference intellectually before he could reproduce it physically.
+
+At the fourth platform, he stepped too soon.
+
+Aya changed her weight before his foot landed.
+
+The bridge stayed level.
+
+No command.
+
+No rescue.
+
+She had altered the relationship early enough that his chosen movement still worked.
+
+Kade hated how elegant it was.
+
+They reached the far side in the fastest time of the block.
+
+Aya did not react.
+
+Kade looked at the scoreboard.
+
+“First.”
+
+“Yes.”
+
+“You could acknowledge joy.”
+
+“We performed correctly.”
+
+“That is not joy.”
+
+“No.”
+
+The system reset for the second run.
+
+This time Takahara changed one condition without warning.
+
+The fifth platform did not merely lose load capacity.
+
+It failed to register Aya.
+
+She stepped onto it and the bridge behaved as though only Kade and the cases existed.
+
+The platform snapped upward.
+
+Aya’s model broke.
+
+Kade saw it happen in her face.
+
+Not fear.
+
+Delay.
+
+A fraction of a second where the relationship she measured stopped matching the system response.
+
+One weighted case began sliding toward the edge.
+
+Aya reached for the old correction.
+
+Kade did not.
+
+He kicked the nearest empty case sideways.
+
+The impact changed the bridge’s mechanical balance without using a field.
+
+Ugly.
+
+Loud.
+
+The sliding case stopped against his shin.
+
+Pain flashed up his leg.
+
+Aya recovered.
+
+“Left platform is ignoring me.”
+
+“Then stop treating it like part of your route.”
+
+“I know.”
+
+“Good.”
+
+Kade dropped to one knee, shoved the case backward, and changed the problem from paired geometry to ordinary leverage.
+
+Aya moved off the blind platform.
+
+The bridge recognized her again.
+
+She rebuilt the relational model almost instantly.
+
+“Right route,” she said.
+
+Kade saw the problem.
+
+“Too slow.”
+
+“It is stable.”
+
+“We have twelve seconds.”
+
+“Time is part of stability.”
+
+“Finally, something Asterion understands.”
+
+Kade grabbed the nearest case manually.
+
+Aya looked at him.
+
+“Your shin.”
+
+“Still attached.”
+
+“That is a poor standard.”
+
+“International agreement.”
+
+She almost smiled.
+
+They moved the final two cases with no elegance whatsoever.
+
+Time expired as the last one crossed the line.
+
+The board displayed:
+
+**SYSTEM RECOVERY: 1ST**
+
+**PLANNED EFFICIENCY: 11TH**
+
+Kade looked at Aya.
+
+“Eleventh.”
+
+“Yes.”
+
+“You hate that.”
+
+“No.”
+
+A pause.
+
+“Yes.”
+
+There.
+
+Kade smiled.
+
+Aya looked down at his leg.
+
+“You noticed the mechanical option before I did.”
+
+“Your model was better until the system lied.”
+
+“The system did not lie.”
+
+“It stopped recognizing you.”
+
+“That is different.”
+
+“Disturbingly Kiyomizu answer.”
+
+Aya ignored that.
+
+“I assumed the sensing layer was valid.”
+
+“And I assumed kicking school equipment was permitted.”
+
+“It was not.”
+
+Takahara’s voice came from behind them.
+
+“It was not.”
+
+Kade closed his eyes.
+
+Aya looked away.
+
+He was almost certain she was hiding a smile.
+
+Takahara checked Kade’s shin, then the damaged case.
+
+“The recovery was correct.”
+
+Kade opened one eye.
+
+“The case?”
+
+“Incorrect.”
+
+“Mixed review.”
+
+Takahara looked at Aya.
+
+“And you?”
+
+Aya answered immediately.
+
+“I trusted a relationship model after its input conditions failed.”
+
+“Correct.”
+
+Takahara looked at Kade.
+
+“And you?”
+
+“I solve problems by damaging school property.”
+
+“Kade.”
+
+He sighed.
+
+“I saw a physical route outside the field model faster than Aya did.”
+
+Takahara nodded.
+
+“Neither architecture is a hierarchy.”
+
+The sentence settled between them.
+
+Aya looked at Kade.
+
+He looked back.
+
+Good.
+
+He had not needed another person to be better or worse than him.
+
+He needed them to be different enough that the difference mattered.
 
 ---
 
