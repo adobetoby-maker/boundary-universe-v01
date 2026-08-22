@@ -540,6 +540,88 @@ It concerned Kade too.
 
 He did not make that part into a joke.
 
+Jonah Pike arrived twenty minutes later carrying two sports drinks and a bruise beginning to darken along one forearm.
+
+Park looked at him.
+
+“This is not a social room.”
+
+“I am delivering electrolytes.”
+
+“You may deliver one.”
+
+Pike handed Kade a bottle.
+
+“Peace offering.”
+
+“For damaging your floor?”
+
+“You did not damage my floor.”
+
+“Generous.”
+
+Pike leaned against the wall.
+
+“I watched the replay.”
+
+“Everyone has.”
+
+“No. The sensor trace.”
+
+Kade looked at him.
+
+Pike shrugged.
+
+“My coach showed me before they locked it.”
+
+“And?”
+
+“My strike was normal.”
+
+“That is encouraging.”
+
+“The wall load was not.”
+
+“Less encouraging.”
+
+Pike took a drink.
+
+“You scared?”
+
+Kade almost answered no.
+
+The old door-closing reflex.
+
+He looked at his hand.
+
+A small tremor remained in two fingers.
+
+“Yes.”
+
+Pike nodded.
+
+“Good.”
+
+Kade frowned.
+
+“You people have terrible encouragement.”
+
+“If you weren’t scared, I’d be worried.”
+
+Park said from the terminal, “He is already worried.”
+
+“See?” Pike said. “Medical consensus.”
+
+Kade laughed.
+
+Pike left a few minutes later.
+
+The interaction did not make Kade feel better about what had happened.
+
+It made the world around it more normal.
+
+That helped.
+
 When he finally returned to Meridian, the video had escaped containment exactly as expected.
 
 Eli met him at the elevator.
@@ -720,6 +802,52 @@ Kade lost four to one.
 
 That ordinary argument helped more than Park’s scan results.
 
+Then Taren arrived.
+
+He stopped in the doorway, took in the group, and held up both hands.
+
+“I have no floor-related jokes.”
+
+“Liar,” Sera said.
+
+“I have several. I am choosing restraint.”
+
+Kade looked at him.
+
+Taren’s eyes flicked once to Kade’s hand.
+
+Then the medical band at his wrist.
+
+Then the replay Eli had paused.
+
+Too fast for concern alone.
+
+“Did you see restricted footage?” Kade asked.
+
+Taren blinked.
+
+“No.”
+
+“Why did you look at the six-frame marker?”
+
+Taren’s gaze moved to the screen.
+
+Eli had, in fact, left the red marker visible.
+
+Taren smiled.
+
+“Because Eli color-codes everything dramatic.”
+
+Eli looked offended.
+
+“I color-code responsibly.”
+
+The explanation worked.
+
+Mostly.
+
+Kade filed the rest away.
+
 His tablet chimed.
 
 A priority message appeared.
@@ -814,26 +942,102 @@ Kade stared.
 
 “What is that?”
 
-Sen’s eyes stayed on him.
+“Not a Standard.”
 
-“Something we need to discuss very carefully.”
+“That was not my question.”
 
-Kade heard Mara’s voice in his head.
+“No.”
 
-*Ask what she isn’t telling you.*
+Sen moved to the wall and drew a rectangle around the arena.
 
-He looked at Sen.
+“Tomorrow we will discuss what we know. Tonight I need you to understand one thing.”
+
+“What?”
+
+“The floor did not crack because you created force.”
+
+Kade looked at the replay.
+
+“Then why?”
+
+“Because existing force resolved somewhere our models did not expect.”
+
+A cold feeling moved through him that had nothing to do with the anomaly.
 
 “You already had a name for it.”
 
-Sen did not answer.
+Sen went still.
 
-Kade’s stomach tightened.
+There.
 
-The floor had cracked less than four hours ago.
+Mara had been right.
 
-Sen had not invented those words tonight.
+Kade leaned forward.
 
-Whatever Boundary architecture was, Asterion had known enough about it to name it before Kade Mercer ever arrived.
+“You said Boundary architecture like you were remembering it, not inventing it.”
 
-And that was the first thing Sen did not tell him.
+Sen said nothing.
+
+“Has someone done this before?”
+
+“Tomorrow.”
+
+“That means yes.”
+
+“It means you are tired and I want Park’s final neurological clearance before we continue.”
+
+“Convenient.”
+
+“Yes.”
+
+Kade stood.
+
+At the door, he stopped.
+
+He wanted to demand the answer.
+
+Instead he turned back.
+
+“Is it dangerous?”
+
+Sen’s expression changed.
+
+“Everything powerful is dangerous if you misunderstand what it costs.”
+
+“That sounded rehearsed.”
+
+“It is older than you.”
+
+Kade stared.
+
+Another answer adjacent to the truth.
+
+He left.
+
+Outside, the old administration corridor was empty.
+
+His phone buzzed.
+
+Darius.
+
+**YOU BROKE A SCHOOL ALREADY?**
+
+Kade leaned against the stone wall and laughed.
+
+Then typed:
+
+**Just the floor. Working up to the rest.**
+
+Darius replied:
+
+**PROUD OF YOU**
+
+Kade looked back toward Sen’s closed office.
+
+Boundary architecture.
+
+A name that existed before him.
+
+For the first time since Zero Protocol, Kade had a mystery with edges.
+
+He was beginning to understand that edges were where the important things happened.
