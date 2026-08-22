@@ -100,7 +100,7 @@ Mara handed him the tablet.
 
 **Subject: Provisional Standard IX designation**
 
-**Participants: Director Sen, Dr. Amara Park, International Resonance Authority observers, Academy Standards Board, Student Representative Council, Kade Mercer**
+**Participants: Director Sen, Dr. Park, International Resonance Authority observers, Academy Standards Board, Student Representative Council, Kade Mercer**
 
 Kade looked at Mara.
 
