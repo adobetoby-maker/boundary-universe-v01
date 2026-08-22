@@ -316,9 +316,103 @@ Darius raised a hand.
 
 Chairs scraped back.
 
-Kade stayed seated long enough to close his tablet.
+Northline breaks had rules nobody had written down.
 
-A girl named Tessa passed his desk and tapped his shoulder.
+Students with jobs checked schedules.
+
+Students on probation checked whether their officers had messaged.
+
+People who wanted to be alone went behind the old records annex where the cameras covered the door but not the wall.
+
+Everybody else migrated toward the vending machines.
+
+Darius grabbed Kade’s sleeve.
+
+“Come witness history.”
+
+“I have testing.”
+
+“In twenty minutes.”
+
+“Exactly.”
+
+“The machine knows.”
+
+Kade allowed himself to be dragged into the hall.
+
+Mr. Boyd sat behind the security desk with the front wheel removed from a student’s bicycle.
+
+The bicycle belonged to a fourteen-year-old named Miguel whose family did not own a car and whose rear brake had failed on the ride to school.
+
+Boyd looked up as Kade and Darius passed.
+
+“Testing day.”
+
+Kade nodded.
+
+“Try not to overthrow anything federal.”
+
+“No promises.”
+
+Boyd returned to the brake cable.
+
+Northline had more adults doing things outside their job descriptions than any school Kade had attended.
+
+Sometimes that meant nobody knew who was responsible.
+
+Sometimes it meant a security officer fixed a kid’s bicycle because the kid needed to get home.
+
+Kade had not decided which version of the system was more honest.
+
+The vending machine waited near the multipurpose hallway.
+
+Darius approached it with ceremonial seriousness.
+
+“One pretzel.”
+
+“You say that like it understands language.”
+
+“It understands respect.”
+
+Darius inserted two credits and pressed B7.
+
+The machine hummed.
+
+One bag fell.
+
+Darius’s face collapsed.
+
+“Betrayal.”
+
+A second bag dropped.
+
+Then a third.
+
+Darius pointed at Kade without looking away.
+
+“Witness.”
+
+“I withdraw every criticism.”
+
+Tessa arrived in time to steal one bag.
+
+Darius looked offended.
+
+“The machine chose me.”
+
+“The machine chose community,” she said.
+
+“That sounds socialist.”
+
+“You don’t know what that means.”
+
+“I know I have fewer pretzels.”
+
+Kade took none.
+
+His stomach had begun feeling strange in a way he refused to label nervousness.
+
+Tessa opened her bag.
 
 “What do you think you’ll score?”
 
@@ -356,67 +450,89 @@ Tessa leaned closer.
 
 “You have a complicated family.”
 
-She gave him a look and walked away.
+She gave him a look.
 
-Darius waited until she was gone.
+Darius ate pretzels.
 
-“You ever think about it?”
+“What’d your mom score?” he asked Kade.
 
-“What?”
+Kade frowned.
 
-“Getting picked.”
+“How would I know?”
 
-Kade knew exactly what he meant.
+“Parents tell you that stuff.”
 
-Everyone did.
+“Your mother tells you her standardized test scores?”
 
-He looked at the scratched plastic edge of his desk.
+“She tells me everything I do is genetic when she is mad.”
+
+Tessa said, “My dad got five-ninety-eight and still talks about it.”
+
+“That explains your family more than the moon thing,” Kade said.
+
+She threw a pretzel at him.
+
+Darius looked back at Kade.
+
+“What about your dad?”
+
+The question was ordinary.
+
+That was why it landed.
+
+Kade shrugged.
+
+“He died when I was a baby.”
+
+Darius’s face changed.
+
+Not pity.
+
+A quick recalculation.
+
+“Oh.”
+
+“Industrial accident.”
+
+“You know his score?”
 
 “No.”
 
-Darius frowned.
+Kade had never wondered.
 
-“That was too fast.”
+Aaron Mercer existed in family history as a photograph, a broken watch, and a short list of stories Elena told carefully enough that Kade had stopped asking for new ones years ago.
 
-“I’ve had seventeen years.”
+A national test score had never been part of the story.
 
-“Nobody thinks about being Resonant at three.”
+For some reason, standing outside Multipurpose Two on the day of his own test, that absence felt briefly strange.
 
-“I was advanced.”
+Then Darius held out the remaining pretzel bag.
 
-“I’m serious.”
-
-Kade looked at him.
-
-Darius was serious too.
-
-That happened less often than his school file suggested.
-
-“Sure,” Kade said. “When I was twelve.”
-
-“And?”
-
-“And then I turned thirteen.”
-
-“That doesn’t mean anything.”
-
-“It means I got older.”
-
-Darius rolled his eyes.
-
-Kade smiled.
-
-The smile did what he wanted it to do.
+Kade took one.
 
 Conversation over.
 
-That was one of the useful things about jokes. People thought they were openings.
+That was one of the useful things about food. People thought they were sharing snacks.
 
-Mostly they were doors he could close without anybody noticing.
+Mostly they were also giving you an exit.
 
-At 10:56, Ms. Alvarez stopped him at the classroom door.
+Tessa checked the hall clock.
 
-The others filed past.
+“You’re going to be late.”
+
+Kade looked.
+
+10:54.
+
+He handed Darius the pretzel bag.
+
+“Try not to get expelled while I’m testing.”
+
+“No promises.”
+
+At 10:56, Ms. Alvarez stopped him at the classroom door while he retrieved his hoodie.
+
+The others filed past toward Multipurpose Two.
 
 “Kade.”
 
@@ -997,6 +1113,36 @@ Kade removed the sensor band.
 His skin felt cool where the contacts had rested.
 
 A drop of sweat moved from his hairline toward his temple.
+
+For the first time all morning, Kade wanted the score before he had a joke prepared for it.
+
+He thought of Ms. Alvarez saying *try*.
+
+Darius asking whether he ever imagined getting picked.
+
+Tessa’s cousin getting seven-twelve.
+
+His mother at St. Vincent, probably moving from one emergency-room problem to another without thinking about national aptitude scores at all.
+
+And, unexpectedly, the question from the vending machine hall.
+
+What did your dad score?
+
+Kade still did not know.
+
+It was a stupid detail to think about now.
+
+He looked at the spinning word SCORING and realized something more uncomfortable.
+
+If the number was good, he wanted to tell Elena.
+
+If it was terrible, he wanted to tell Darius first so Darius could make it funny.
+
+The test had become real enough to create an order of operations for who got the truth.
+
+That meant he cared.
+
+Annoying.
 
 The door opened.
 
