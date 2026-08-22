@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-08-22T06:36:59-06:00",
+  "generated": "2026-08-22T06:52:35-06:00",
   "universe": "The Boundary Universe",
   "sourceBranch": "polish/second-half",
   "books": [
@@ -74,11 +74,11 @@
               "engine": "ElevenLabs",
               "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
               "file": "audio/book-01-the-ninth-standard/ch03-asterion.holden.mp3",
-              "bytes": 28929506,
-              "durationSec": 1808.03,
-              "sha256": "76f236a9a69f208fe3ee1c2dbec2e94f7bf8cdcb37d14f57e0040f7619de8642",
+              "bytes": 28408729,
+              "durationSec": 1775.48,
+              "sha256": "70dd7a87237e4dcedc514aeb07a058f2261f163f783b14b96432fe2b13a27c8a",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch03-asterion.holden.mp3",
-              "note": "Production voice. Engine-timed; the SSML pacing map does not apply."
+              "note": "Production voice. Re-rendered chunks 2 and 4-6 after the audit fixes."
             },
             {
               "render": "studio-q",

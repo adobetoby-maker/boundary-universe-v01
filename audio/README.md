@@ -92,7 +92,7 @@ changes, which is why the manifest indirection exists now rather than later.
 | 1 — The Kid in Room Four | `studio-q` | 31m 10s | 14.3 MB |
 | 1 — The Kid in Room Four | `elevenlabs` | 36m 08s | 29.2 MB |
 | 2 — Zero Protocol | **`holden`** | 35m 01s | 29.1 MB |
-| 3 — Asterion | **`holden`** | 30m 08s | 28.9 MB |
+| 3 — Asterion | **`holden`** | 29m 35s | 28.4 MB |
 | 4 — Ten Thousand Four Hundred Eighty-Two | **`holden`** | 28m 08s | 27.0 MB |
 | 5 — House Meridian | **`holden`** | 27m 50s | 26.7 MB |
 | 2–10 | `studio-q` | — | superseded |

@@ -28,6 +28,8 @@ import html
 import re
 import sys
 
+from normalise import chapter_heading, normalise, strip_markdown
+
 # Numbers a synthesiser reliably mangles. Order matters — the longer, more
 # specific patterns must fire before the general ones, or "18,000" becomes
 # "eighteen, zero zero zero".
@@ -119,18 +121,6 @@ def classify(line: str):
     return esc, 600
 
 
-def strip_markdown(t: str) -> str:
-    """Remove markdown emphasis before synthesis.
-
-    The manuscript uses **bold** for screen text and phone messages — exactly
-    the dramatic beats. Left in, a synthesiser reads the asterisks aloud. 198
-    bold spans exist across Book 1, so this is not a corner case.
-    """
-    t = re.sub(r"\*\*(.+?)\*\*", r"\1", t, flags=re.S)
-    t = re.sub(r"(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)", r"\1", t, flags=re.S)
-    t = re.sub(r"(?m)^\s*[-*_]{3,}\s*$", "---", t)
-    t = re.sub(r"`([^`]+)`", r"\1", t)
-    return t
 
 
 def ssmlize(markdown: str) -> tuple[str, str]:
@@ -164,7 +154,7 @@ def ssmlize(markdown: str) -> tuple[str, str]:
             out.append('<break time="1400ms"/>')
             continue
 
-        s = normalise_numbers(s)
+        s = normalise(s)
         body, gap = classify(s)
         out.append(f'{body}<break time="{gap}ms"/>')
 
