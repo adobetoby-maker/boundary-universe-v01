@@ -506,7 +506,53 @@ The rest he marked with question symbols.
 
 By the time class ended, his page looked diseased.
 
-Eli saw it.
+Near the end, Amadi pulled up a legacy calibration matrix to show how modern Conduits inherited older response conventions.
+
+Twelve narrow columns filled the screen.
+
+Their headers read:
+
+**VIII-01  VIII-02  VIII-03  VIII-04  VIII-05  VIII-06**
+
+**VIII-07  VIII-08  VIII-09  VIII-10  VIII-11  VIII-12**
+
+Kade counted them twice.
+
+He raised a hand.
+
+Amadi looked mildly surprised.
+
+“Yes, Mercer?”
+
+“I thought there were eleven Standard Eights.”
+
+A few students looked up.
+
+“There are eleven publicly recognized first-generation Standard Eights,” Amadi said.
+
+“Then why twelve columns?”
+
+“Legacy schema.”
+
+“That explains the age, not the number.”
+
+Amadi looked at the matrix for half a second longer than necessary.
+
+“Early research systems reserved identifiers before public classification stabilized. Do not build history from a calibration table.”
+
+Kade looked at the twelve headers.
+
+“That sounds like something somebody already did.”
+
+“It sounds like I want you to finish the derivation.”
+
+The class laughed.
+
+Kade let it go.
+
+Mostly because he still did not understand the derivation.
+
+Eli saw his notes afterward.
 
 “This is beautiful.”
 
