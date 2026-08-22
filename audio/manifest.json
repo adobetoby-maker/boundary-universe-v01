@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-08-22T10:56:38-06:00",
+  "generated": "2026-08-22T14:42:46-06:00",
   "universe": "The Boundary Universe",
   "sourceBranch": "polish/second-half",
   "books": [
@@ -59,9 +59,9 @@
               "file": "audio/book-01-the-ninth-standard/ch02-zero-protocol.cast.mp3",
               "bytes": 31264226,
               "durationSec": 1953.95,
-              "sha256": "b275d8eb3c597516a56515b859795a9d80461a8e87d2554fc4c1f80463db144b",
+              "sha256": "7d02dd36d1dd2b6ff16ac55c272fb6abadebaa5d4ebcd61508e4023a678b317d",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch02-zero-protocol.cast.mp3",
-              "note": "8 speaking parts, 323 segments, 380ms turn gaps. Dialogue tags split off into the narrator so no character announces their own attribution."
+              "note": "8 speaking parts, 323 segments, 380ms turn gaps. Dialogue tags split off into the narrator. Per-base makeup gain balances Holden against Maeve, whose EQ removes far less energy."
             },
             {
               "render": "studio-q",

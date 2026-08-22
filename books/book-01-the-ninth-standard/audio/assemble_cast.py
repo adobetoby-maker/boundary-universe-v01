@@ -25,6 +25,18 @@ from cast_split import CAST
 from voice_chain import EQ, SAMPLE_RATE, NARRATOR_SEMITONES
 
 TURN_GAP_MS = 380       # voice change mid-scene
+
+# Per-base makeup gain, in dB.
+#
+# Holden's EQ cuts 6.5 dB out of 140 Hz -- his strongest region -- so after the
+# chain he lands about 4 LU quieter than Maeve, who only gets a highpass. That
+# is correct tonally and wrong in balance: in a two-hander it means the level
+# jumps every time the speaker changes. Measured medians over all 323 segments
+# were Holden -20.6 LUFS, Maeve -16.6.
+#
+# Holden comes up rather than Maeve coming down, because an audiobook wants to
+# be loud enough to hear and the fix should not cost level.
+BASE_GAIN_DB = {'holden': +2.0, 'maeve': -1.9}
 SR = SAMPLE_RATE
 
 
@@ -49,6 +61,8 @@ def chain_for(role: str) -> str:
     base, shift = CAST[role]
     semis = BASE_BASELINE[base] + shift
     eq = BASE_EQ[base]
+    gain = f"volume={BASE_GAIN_DB[base]}dB"
+    eq = f"{eq}, {gain}"
     if abs(semis) < 0.01:
         return eq
     r = 2 ** (semis / 12)
