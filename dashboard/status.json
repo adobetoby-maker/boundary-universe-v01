@@ -1,0 +1,48 @@
+{
+  "generatedFrom": "planning/universe-kanban",
+  "universe": {
+    "title": "The Boundary Universe",
+    "scope": "5 origin trilogies + discovery prequels + 10-book ensemble saga",
+    "status": "DESIGN + O1 IN PRODUCTION"
+  },
+  "portfolio": [
+    {"id":"U-001","title":"Five Origin Leads","status":"DESIGN","progress":20},
+    {"id":"U-002","title":"Five Ability Interfaces","status":"DESIGN","progress":20},
+    {"id":"U-004","title":"Cosmology Translation Matrix","status":"DESIGN","progress":5},
+    {"id":"U-005","title":"Master Timeline & Spoiler Matrix","status":"DESIGN","progress":10},
+    {"id":"U-009","title":"Primary Counterpart System","status":"DESIGN","progress":20},
+    {"id":"U-010","title":"Reader Contract / Independent Convergence","status":"DESIGN","progress":70},
+    {"id":"U-011","title":"Autonomous Multi-Review Orchestration","status":"PILOT","progress":60}
+  ],
+  "origins": [
+    {"id":"O1","title":"Asterion Trilogy — Kade Mercer","status":"IN PRODUCTION","books":[
+      {"title":"The Ninth Standard","status":"AUDIO / PRODUCTION","progress":92},
+      {"title":"The Twelfth Resonant","status":"DRAFTING","progress":12},
+      {"title":"The Final Boundary","status":"ARCHITECTURE","progress":8}
+    ]},
+    {"id":"O2","title":"Origin Lead 2","status":"BACKLOG","progress":0},
+    {"id":"O3","title":"Origin Lead 3","status":"BACKLOG","progress":0},
+    {"id":"O4","title":"Origin Lead 4","status":"BACKLOG","progress":0},
+    {"id":"O5","title":"Origin Lead 5","status":"BACKLOG","progress":0}
+  ],
+  "book2": {
+    "title":"The Twelfth Resonant",
+    "chaptersTotal":34,
+    "chapters":[
+      {"n":1,"title":"The Countdown","status":"ATTESTED","passes":4},
+      {"n":2,"title":"Public Nine","status":"ATTESTED","passes":4},
+      {"n":3,"title":"Other Schools","status":"ATTESTED","passes":4},
+      {"n":4,"title":"Kiyomizu","status":"ATTESTED","passes":4},
+      {"n":5,"title":"Aya Mori","status":"PASS 1 COMPLETE","passes":1}
+    ]
+  },
+  "readerContract": [
+    "Every origin trilogy satisfies a 3-book reader independently.",
+    "Partial readers (including ~13 books) can stop satisfied.",
+    "The 15-book origin cycle feels complete without the ensemble saga.",
+    "Five origin arcs converge independently on the same larger problem.",
+    "Ensemble Book 1 must work as a cold entry point.",
+    "Recommended reading order is preferred, not required."
+  ],
+  "loop": ["READY","AUTHOR","REVIEW A","REVIEW B","RECONCILE","REVISE","ATTEST","PROMOTE NEXT"]
+}
