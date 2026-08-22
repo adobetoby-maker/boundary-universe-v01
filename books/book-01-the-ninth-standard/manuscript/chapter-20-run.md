@@ -402,9 +402,567 @@ No relief he was required to acknowledge.
 
 She left.
 
-Kade unpacked the first shirt.
+Kade unpacked one shirt.
+
+Then stopped.
+
+The anger was still there.
+
+Staying for ten minutes because his friends had made a good argument was not the same thing as deciding to remain at Asterion.
+
+He shoved the shirt back into the bag.
+
+Sera looked up.
+
+Kade pointed at her.
+
+“You said decide after I finish being angry.”
+
+“Yes.”
+
+“I’m still angry.”
+
+“Yes.”
+
+“So I’m going for a walk.”
+
+Eli looked at the bag.
+
+“With luggage?”
+
+Kade lifted it.
+
+“I want to know whether leaving feels different when I actually reach the door.”
+
+Sera considered him.
+
+Then moved aside.
+
+“Good.”
+
+Kade stared.
+
+“You’re letting me go.”
+
+“I was always letting you go.”
+
+That irritated him enough to prove her point.
+
+---
+
+Asterion had an outbound transit terminal on the eastern landing complex.
+
+Kade knew exactly where it was because he had memorized the island map on his first night, back when knowing the exits felt like preparedness rather than habit.
+
+He crossed Meridian courtyard with the duffel over his shoulder.
+
+The bell hung above him.
+
+A few students glanced at the bag.
+
+Nobody stopped him.
+
+That was worse than being stopped.
+
+He passed the common room where Nessa and Anton were arguing about orbital-construction placements.
+
+Passed the training floor where Priya was teaching a younger student how to load acceleration without telegraphing the direction.
+
+Passed the wall where **APPARENTLY TRAINING WORKED** still sat beneath the old insult.
+
+Every place had accumulated context.
+
+Kade hated that too.
+
+On Central Bridge, Mateo Ruiz from baseline testing saw the bag.
+
+“Going somewhere?”
+
+“Yes.”
+
+Mateo waited.
+
+Kade expected a question.
+
+Instead Mateo nodded.
+
+“Good luck.”
+
+Then kept walking.
+
+Kade almost called him back just to explain himself.
+
+He did not.
+
+The landing complex smelled exactly as it had the first day: salt, flowers, distant fuel from conventional pads.
+
+Enrollment Officer Cole stood behind a transit desk reviewing a manifest.
+
+Of course he did.
+
+Cole looked up.
+
+“Mr. Mercer.”
+
+“Officer Cole.”
+
+Cole’s gaze moved to the duffel.
+
+“Departure?”
+
+“Maybe.”
+
+“The terminal requires a destination more specific than maybe.”
+
+Kade set the bag on the floor.
+
+“What’s the next civilian flight to the mainland?”
+
+“Twenty-one minutes. Academy shuttle to San Diego. Commercial connections thereafter.”
+
+“Can I take it?”
+
+Cole checked his screen.
+
+“You are not under travel restriction.”
+
+Kade had expected resistance.
+
+“What about Zero Protocol?”
+
+“Your mandatory evaluation period ended when your provisional enrollment became active.”
+
+“So I can leave.”
+
+“Yes.”
+
+“Just like that.”
+
+Cole looked at him.
+
+“You appear disappointed.”
+
+Kade stared.
+
+“I’m not.”
+
+“Good.”
+
+Cole returned to the manifest.
+
+Kade remained there.
+
+Twenty minutes until the shuttle.
+
+He could go.
+
+No federal official would block the door.
+
+No director would order him back.
+
+No friend was standing between him and the aircraft.
+
+The choice became real.
+
+Kade sat on the same style of bench he had nearly walked into on arrival.
+
+The ocean spread beyond the glass.
+
+A family nearby said goodbye to a second-year going home for a weekend. Two first-years argued over luggage weight. An upper-year slept with his head on a duffel.
+
+Normal departures.
+
+Kade imagined landing on the mainland.
+
+Buying a ticket.
+
+Elena meeting him at the airport.
+
+Darius texting something rude.
+
+His room at home.
+
+Northline the next morning if he wanted.
+
+Safety through reduction.
+
+The thought felt good.
+
+Then the other half arrived.
+
+Eli’s stabilization fellowship application.
+
+Sera’s Disaster Response manual.
+
+Mara’s coupled-field notes.
+
+Julian making him repeat the same plan until it became trustworthy.
+
+Priya saying she wanted a rematch with his brain intact.
+
+Bell Watch.
+
+The table with his name written underneath.
+
+The sound of the Meridian bell.
+
+Kade had always treated leaving as removing a problem.
+
+For the first time, he could see what leaving would remove with it.
+
+His phone vibrated.
+
+Elena.
+
+He almost ignored it.
+
+Then answered.
+
+“Hi.”
+
+She took one look at the background.
+
+“You’re at transit.”
+
+“Yes.”
+
+“Are you coming home?”
+
+Kade looked through the window at the shuttle beginning its approach.
+
+“I don’t know.”
+
+Elena nodded.
+
+No demand.
+
+No relief.
+
+“Do you want me to tell you to stay?”
+
+“No.”
+
+“Do you want me to tell you to come home?”
+
+Kade thought about it.
+
+“No.”
+
+“What do you want?”
+
+“I want everyone to stop lying.”
+
+“That is not a travel plan.”
+
+“I know.”
+
+Elena looked tired.
+
+“Kade, if you come home, I will be happy to see you.”
+
+His throat tightened.
+
+“If you stay, I will not think you chose Asterion over me.”
+
+He looked at her.
+
+She continued.
+
+“And if you leave because you decide Asterion is not worth the cost, I will not call that running.”
+
+“What would you call running?”
+
+Elena’s expression softened.
+
+“Making the decision before you find out what you actually want.”
+
+Ms. Alvarez.
+
+Sera.
+
+His mother.
+
+Apparently everyone in Kade’s life had formed a committee.
+
+The shuttle touched down.
+
+Boarding began.
+
+Kade looked at the gate.
+
+Then at Elena.
+
+“I’m not coming home today.”
+
+“Okay.”
+
+The word hurt and helped at the same time.
+
+“Mom.”
+
+“Yes?”
+
+“I’m still angry at you.”
+
+“I know.”
+
+“And Sen.”
+
+“I would be worried if you weren’t.”
+
+Kade smiled faintly.
+
+“Love you.”
+
+“Love you too.”
+
+He ended the call.
+
+The shuttle gate closed without him.
+
+Kade sat until the aircraft lifted away.
+
+Only then did he pick up the duffel.
+
+Cole watched from the transit desk.
+
+Kade walked past.
+
+Cole said, “Mr. Mercer.”
+
+Kade stopped.
+
+“Your first arrival you nearly hit that bench.”
+
+Kade looked back.
+
+“I remember.”
+
+“You missed it today.”
+
+Kade stared at him.
+
+Cole’s mouth moved.
+
+Almost a smile.
+
+“Progress.”
+
+Kade laughed despite himself.
+
+---
+
+He did not go directly back to Meridian.
+
+He went to Sen.
+
+The appointment remained open.
+
+No mandatory time.
+
+Kade accepted it.
+
+Twenty-seven minutes later he sat in her office with the duffel beside his chair.
+
+Sen looked at the bag.
+
+“You nearly left.”
+
+“Yes.”
+
+“Why didn’t you?”
+
+“That is not why I’m here.”
+
+Sen nodded.
+
+Fair.
+
+Kade put Aaron’s archive record on the wall.
+
+000.
+
+Asterion precursor program.
+
+Project Continuity.
+
+A. Sen.
+
+“You lied to me.”
+
+“Yes.”
+
+No qualification.
+
+The direct answer hit harder than denial would have.
+
+“You knew my father.”
+
+“Yes.”
+
+“You met my mother after he disappeared.”
+
+“Yes.”
+
+“You told her to let me believe he died in an industrial accident.”
+
+Sen’s face tightened.
+
+“I told her the official story was the safest story I knew how to give you.”
+
+“That is a very careful sentence.”
+
+“Yes.”
+
+Kade leaned forward.
+
+“Was he Zero?”
+
+“Yes.”
+
+The confirmation still hurt.
+
+“What happened to him?”
+
+Sen looked at the archive record.
+
+“I cannot tell you yet.”
+
+Kade laughed once.
+
+“Of course.”
+
+“I know how that sounds.”
+
+“No. I don’t think you do.”
+
+Sen held his gaze.
+
+“You are right.”
+
+That stopped him.
+
+She continued.
+
+“I made choices about your family under conditions you did not create and without your consent. Some protected you. Some harmed you. Both can be true.”
+
+Kade looked at her.
+
+“Why should I trust anything you say now?”
+
+“You should not automatically.”
+
+Another answer he had not expected.
+
+“Then why stay?”
+
+“That is your decision.”
+
+“I know.”
+
+Sen looked at the duffel.
+
+“Do you?”
+
+Kade’s anger flared.
+
+Then receded enough for him to hear the question.
+
+He thought of the transit gate closing.
+
+“Yes.”
+
+Sen nodded.
+
+Kade stood.
+
+“I’m staying for Meridian.”
+
+“Understood.”
+
+“For my classes.”
+
+“Yes.”
+
+“For answers.”
+
+Sen looked at him.
+
+“Those may cost more than you expect.”
+
+“Everything here does.”
+
+He picked up the bag.
+
+At the door, Sen said, “Kade.”
+
+He turned.
+
+“I am sorry.”
+
+He waited for himself to feel something useful.
+
+Nothing arrived.
+
+“Okay,” he said.
+
+Not forgiveness.
+
+Not acceptance.
+
+Just acknowledgment that the words had existed.
+
+Then he left.
+
+---
+
+Meridian Commons was in the middle of dinner when Kade returned carrying the duffel.
+
+Conversation dipped.
+
+Not everyone knew why he had it.
+
+Enough people did.
+
+Sera looked up from her food.
+
+Eli stopped talking.
+
+Mara watched him from the far side of the table.
+
+Taren’s expression became unreadable for half a second.
+
+Kade walked to room 814.
+
+Eli followed three steps behind without asking.
+
+Kade put the bag on the bed.
+
+He unpacked the first shirt.
 
 Then the second.
+
+Eli leaned against his own desk.
+
+“No speech?”
+
+“No.”
+
+“Good.”
+
+Kade put the shirts away.
+
+Then the charger.
+
+The mechanical pencil went back into the desk drawer.
+
+The last item was Elena’s folded note from his first night.
+
+**You are allowed to leave. You are also allowed to stay.**
+
+Kade read it.
+
+Then placed it under the pencil.
 
 Not because he trusted Sen.
 
@@ -412,22 +970,54 @@ Not because Asterion had earned trust.
 
 Because Mara had brought him evidence instead of hiding it.
 
-Because Eli had spent nights building models to understand him and still had ambitions that existed beyond him.
+Because Eli had spent nights building models to understand him and had dreams that existed beyond him.
 
 Because Sera had recognized the ugliest version of his habit and refused to let him pretend it was strength.
 
 Because Meridian had become a place where people noticed whether he showed up.
 
-That was inconvenient.
+Because he wanted to learn.
 
-It was also true.
+Because he wanted answers.
 
-He folded the empty duffel and put it under the bed.
+Because leaving was a choice now, not a reflex.
+
+Kade folded the empty duffel and put it under the bed.
 
 Not thrown away.
 
 Not forgotten.
 
-But no longer packed.
+But empty.
+
+When he returned to dinner, nobody applauded.
+
+Thank goodness.
+
+Sera slid a plate toward him.
+
+Eli said, “I kept your desk.”
+
+Mara asked, “Did you talk to Sen?”
+
+“Yes.”
+
+“And?”
+
+“She admitted the lie.”
+
+Taren looked down at his food.
+
+Kade noticed.
+
+Noted.
+
+Later.
+
+For now, he sat.
+
+Stayed.
+
+And ate dinner.
 
 For Kade Mercer, that counted as commitment.
