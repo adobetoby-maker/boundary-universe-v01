@@ -60,44 +60,60 @@ idea do over time. Both now import `normalise.py` and cannot drift again.
 
 ## Current state — 33 chapters, 99,976 words
 
-**READ** (spoken literally — must be zero before a full-book run): **1**
+**READ** (spoken literally): **0** across Book 1 and Book 2 Chapter 1.
 
-| Where | Text | Question |
+## The reading decisions
+
+These were open questions. They are now decided, in `decide()` inside
+`normalise.py`, because a decision recorded in code beats a decision remembered.
+
+| Was | Reads as | Why |
 |---|---|---|
-| ch19 | `Research status: subject/participant.` | "subject-participant", or is "slash" the intended dossier reading? |
+| `Standard IX` | Standard Nine | It is the title concept of Book 2. `IX` reads "eye ex". |
+| `STANDARD IX` | STANDARD NINE | Screen text keeps shouting. |
+| `00:271:09:31:46` | two hundred seventy-one days, nine hours, thirty-one minutes, forty-six seconds | A narrator reading a wall display says the units. The leading `00` is always zero and carries nothing. |
+| `00:47` on its own line | forty-seven seconds | Chapter 6 is *Forty-Seven Seconds*. These numerals **are** the drama; "zero zero forty-seven" is not. |
+| `10:17` mid-sentence | ten seventeen | Time of day. |
+| `87:13` | eighty-seven thirteen | Elapsed timer, read as displayed. |
+| `4–0` | four to nothing | How a scoreline is actually said. Chapters 21–22. |
+| `3–1` | three to one | |
+| `#37` | number thirty-seven | Rank marker, not a hash. |
+| `0.00` | zero point zero zero | |
+| `7,304th` | seven thousand three hundred fourth | |
+| `Conduit Theory I` | Conduit Theory One | |
+| `labeled VIII` | labeled Eight | |
+| `subject/participant` | subject-participant | A compound, not the word "slash". |
 
-**DECIDE** (legitimate text needing an authorial call — not defects):
+**Roman numerals convert only after a designator word** — Standard, Theory,
+Level, Class, Rank, Book, Part and so on. A bare `I` is almost always the
+pronoun, and converting it would turn "I know." into "One know." somewhere in
+dialogue and never be noticed.
 
-| Count | Category | The question |
+**Two countdown rules, deliberately separate.** A bare `00:47` on its own line
+is a countdown; `At 10:17` mid-sentence is a time. Same syntax, and no single
+rule can serve both, so the bare-line case is matched with an anchor and
+everything else falls through to the clock rule.
+
+## What is still left alone
+
+| Count | Category | Why it is fine |
 |---|---|---|
-| 86 | abbreviation | `Ms. Alvarez`, `Dr. Park` — engines usually handle these; verify by ear once |
-| 49 | clock | **see below — three different readings share one syntax** |
-| 42 | bare numeral | `12 meters`, `Age: 17`, `TOP 100` — leave as digits? |
-| 16 | initial | `MERCER, KADE A.` fine; `Conduit Theory I.` reads "eye" not "one"; `labeled VIII` reads letter-by-letter |
-| 9 | score | `4–0`, `3–1` — "four-nil"? "four to nothing"? "four, zero"? All of ch21–22 |
-| 4 | ellipsis | trailing `…` on interrupted dialogue |
-| 3 | decimal | `OUTPUT: 0.00`, `1.7`, `0.83 seconds` |
-| 1 | ordinal | `7,304th` |
-
-### The clock problem
-
-49 instances, one syntax, three meanings. No rule can separate them:
-
-| Form | Example | Should read |
-|---|---|---|
-| time of day | `At 10:17 every morning` | "ten seventeen" |
-| countdown | `00:03` `00:09` `00:47` (ch06, on their own lines) | "three seconds"? or as displayed? |
-| elapsed | `A timer in the corner showed 87:13` | "eighty-seven thirteen" |
-
-The countdowns are the load-bearing ones. Chapter 6 is titled *Forty-Seven
-Seconds* and those bare numerals **are** the drama. Getting them wrong is not a
-pronunciation slip, it is the chapter losing its spine. This is a decision for
-the author and it is deliberately not encoded.
+| 90 | `Ms.` `Dr.` `Mr.` | Engines handle these; verified by ear across five chapters |
+| 37 | `12 meters`, `Age: 17`, `TOP 100` | Bare numerals read correctly |
+| 15 | `MERCER, KADE A.`, `J. RAMOS` | Initials should read as letters |
+| 4 | trailing `…` | Interrupted dialogue; engine timing is acceptable |
 
 ---
 
-## What `normalise.py` will not do
+## Chapters rendered before these rules
 
-Three categories are left alone because guessing wrong is worse than leaving
-digits: **clocks**, **scores**, **roman numerals**. The audit stays loud about
-all three so they are decided, not defaulted.
+Most were hand-corrected at synthesis time and match. Two spots do not:
+
+| File | Reads | Should read |
+|---|---|---|
+| `ch02…holden.mp3` | "twenty forty-three", "fifteen thirty" as digits | as words |
+| `ch04…holden.mp3` | `OUTPUT: 0.00` as digits | zero point zero zero |
+
+Both are cases where the engine's own normalisation is likely acceptable, so
+they are recorded rather than re-rendered. `ch02…cast.mp3`, `ch03`, `ch05` were
+hand-corrected and already match.

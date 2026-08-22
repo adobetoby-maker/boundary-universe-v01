@@ -77,7 +77,10 @@ def _signed_percent(m):
 
 
 def normalise(t: str) -> str:
-    """Everything mechanical. Order matters: longer patterns first."""
+    """Everything mechanical, then the reading choices in decide()."""
+    # "#" is a rank marker, and it has to be converted BEFORE the thousands
+    # rule spells the digits, or the '#' is left stranded in front of words.
+    t = re.sub(r'#(?=\s*\d)', 'number ', t)
     # Percentages before bare decimals, signed before unsigned.
     t = re.sub(r"([-−+])?(\d+)(?:\.(\d+))?%", _signed_percent, t)
     # Comma numbers. Must run before any bare-digit rule.
@@ -96,7 +99,7 @@ def normalise(t: str) -> str:
     t = re.sub(r"(?<=\s)=(?=\s)", " equals ", t)
     t = re.sub(r"(?<=\s)<(?=\s)", " less than ", t)
     t = re.sub(r"(?<=\s)>(?=\s)", " greater than ", t)
-    return t
+    return decide(t)
 
 
 def strip_markdown(t: str) -> str:
@@ -130,3 +133,135 @@ if __name__ == "__main__":
         print(f"  {s:<36} -> {normalise(s)}")
     for n in (1, 20, 21, 33):
         print(f"  ch{n:02d} -> {chapter_heading(n, 'Test Title')}")
+
+# ---------------------------------------------------------------------------
+# The judgement calls.
+#
+# Everything below was previously left alone and reported by audit_text.py as a
+# DECIDE finding, on the principle that guessing wrong is worse than leaving
+# digits. Toby's instruction was "just make them sound good", so these are now
+# decided. Each one is a reading choice, and the reasoning is recorded because a
+# future reader will otherwise assume it was mechanical.
+# ---------------------------------------------------------------------------
+
+ROMAN = {'I': 'One', 'II': 'Two', 'III': 'Three', 'IV': 'Four', 'V': 'Five',
+         'VI': 'Six', 'VII': 'Seven', 'VIII': 'Eight', 'IX': 'Nine', 'X': 'Ten',
+         'XI': 'Eleven', 'XII': 'Twelve'}
+
+# Words that mark the next token as an ordinal designator rather than a pronoun.
+# "Standard IX" is a rank. A bare "I" is almost always the pronoun, so a roman
+# numeral is only converted when one of these precedes it -- the alternative is
+# turning "I" into "One" somewhere in dialogue and never noticing.
+DESIGNATOR = (r'Standard|Theory|Level|Class|Grade|Tier|Rank|Phase|Book|Part|'
+              r'Volume|Section|Stage|Mark|Type|Wave|Round')
+
+
+def _thousands_int(n: int) -> str:
+    th, rest = divmod(n, 1000)
+    head = f"{say_two_digit(th)} thousand"
+    return f"{head} {say_under_thousand(rest)}" if rest else head
+
+
+def _roman(m):
+    word, num = m.group(1), ROMAN[m.group(2).upper()]
+    # "STANDARD IX" is screen text; keep it shouting. "Standard IX" is prose.
+    return f"{word} {num.upper() if word.isupper() else num}"
+
+
+def _countdown(m):
+    """00:271:09:31:46 -> days, hours, minutes, seconds.
+
+    A narrator reading a wall display says the units. The leading field is
+    always 00 in Book 2 and carries no information, so it is dropped rather
+    than voiced as a stray zero.
+    """
+    _, d, h, mi, sec = m.groups()
+    parts = []
+    for val, unit in ((int(d), 'day'), (int(h), 'hour'),
+                      (int(mi), 'minute'), (int(sec), 'second')):
+        if val or unit == 'second':
+            parts.append(f"{say_under_thousand(val)} {unit}{'' if val == 1 else 's'}")
+    return ', '.join(parts)
+
+
+def _bare_countdown(m):
+    """A lone 00:47 on its own line is a countdown, not a time.
+
+    Chapter 6 is titled "Forty-Seven Seconds" and these numerals ARE the drama;
+    read as "zero zero forty-seven" they stop being it. Restricted to a bare
+    line with a zero hour field so that "At 10:17" is untouched.
+    """
+    mm, ss = int(m.group(1)), int(m.group(2))
+    if mm == 0:
+        return f"{say_two_digit(ss)} second{'' if ss == 1 else 's'}"
+    return (f"{say_two_digit(mm)} minute{'' if mm == 1 else 's'} "
+            f"{say_two_digit(ss)} second{'' if ss == 1 else 's'}")
+
+
+def _clock(m):
+    """Time of day: 10:17 -> "ten seventeen", 09:00 -> "nine o'clock"."""
+    h, mm = int(m.group(1)), int(m.group(2))
+    if mm == 0:
+        return f"{say_two_digit(h)} o'clock"
+    if mm < 10:
+        return f"{say_two_digit(h)} oh {ONES[mm]}"
+    return f"{say_two_digit(h)} {say_two_digit(mm)}"
+
+
+def _score(m):
+    """4-0 -> "four to nothing". Tournament scores, chapters 21-22.
+
+    "to nothing" rather than "to zero" because that is how a scoreline is
+    actually said aloud, and these lines are crowd-facing.
+    """
+    a, b = int(m.group(1)), int(m.group(2))
+    return f"{say_two_digit(a)} to {'nothing' if b == 0 else say_two_digit(b)}"
+
+
+def _decimal(m):
+    whole, frac = int(m.group(1)), m.group(2)
+    return f"{say_under_thousand(whole)} point " + ' '.join(ONES[int(d)] for d in frac)
+
+
+def _ordinal(m):
+    """7,304th -> spelled, with the final word made ordinal."""
+    n = int(m.group(1).replace(',', ''))
+    if n > 99999:
+        return m.group(0)
+    th, rest = divmod(n, 1000)
+    words = (f"{say_two_digit(th)} thousand " if th else '') + say_under_thousand(rest)
+    tail = {'one': 'first', 'two': 'second', 'three': 'third', 'five': 'fifth',
+            'eight': 'eighth', 'nine': 'ninth', 'twelve': 'twelfth'}
+    last = words.split()[-1].split('-')[-1]
+    if last in tail:
+        return words[:len(words) - len(last)] + tail[last]
+    if last.endswith('y'):
+        return words[:-1] + 'ieth'
+    return words + 'th'
+
+
+def decide(t: str) -> str:
+    """The reading choices. Order matters: longest patterns first."""
+    # Countdown displays before any other colon rule.
+    t = re.sub(r'\b(\d{2}):(\d{3}):(\d{2}):(\d{2}):(\d{2})\b', _countdown, t)
+    # A bare countdown on its own line, before the general clock rule.
+    t = re.sub(r'(?m)^\s*(\d{2}):(\d{2})\s*$', _bare_countdown, t)
+    t = re.sub(r'\b(\d{1,2}):(\d{2})\b', _clock, t)
+    # Ordinals before the thousands rule, which would otherwise eat the comma.
+    t = re.sub(r'\b(\d{1,3}(?:,\d{3})?)(?:st|nd|rd|th)\b', _ordinal, t)
+    # Scores: en/em dash between small numbers.
+    t = re.sub(r'\b(\d{1,2})\s*[\u2013\u2014]\s*(\d{1,2})\b', _score, t)
+    # Roman numerals, only after a designator word.
+    t = re.sub(rf'\b({DESIGNATOR})\s+(I{{1,3}}|IV|VI{{0,3}}|IX|XI{{0,2}}|X)\b',
+               _roman, t, flags=re.I)
+    t = re.sub(r'\blabeled\s+(I{1,3}|IV|VI{0,3}|IX|X)\b',
+               lambda m: f"labeled {ROMAN[m.group(1)]}", t)
+    # Decimals that are not percentages (percentages are handled in normalise()).
+    t = re.sub(r'\b(\d+)\.(\d+)(?!\d*%)', _decimal, t)
+    # "#37" is a rank, not a hash.
+    # Bare ranks the thousands rule did not reach: "number 37" -> spelled.
+    t = re.sub(r'\bnumber (\d{1,3})\b',
+               lambda m: 'number ' + say_under_thousand(int(m.group(1))), t)
+    # A slash inside a word is a compound, not the word "slash".
+    t = re.sub(r'(?<=[a-z])/(?=[a-z])', '-', t)
+    return t
