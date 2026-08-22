@@ -410,6 +410,124 @@ Sera did too.
 
 He could tell.
 
+Kamau did not dismiss her.
+
+Instead she pointed at the clinic-door scenario.
+
+“Vale. Again. Different metric.”
+
+Sera frowned.
+
+“What metric?”
+
+“Release.”
+
+That got her attention.
+
+The simulated clinic doorway was blocked by two lightweight beams and a collapsed equipment cart. A local Kisiwa pair had already cleared most of the route. Sera joined them for the final stabilization and casualty transfer.
+
+The work took ninety seconds.
+
+One student braced the loose frame.
+
+Sera redirected the cart load enough for the second student to wheel it clear.
+
+The role-player crossed the threshold.
+
+Route open.
+
+No remaining casualty.
+
+The Kisiwa student at the frame said, “We have it.”
+
+Sera stayed where she was.
+
+Her hands remained up.
+
+Her field stayed active against the frame.
+
+“Vale,” Kamau said.
+
+Sera glanced toward her.
+
+“What?”
+
+“The local team said they have it.”
+
+“I heard them.”
+
+“Then why are you still holding?”
+
+Sera looked back at the frame.
+
+“It is cleaner if I keep ten percent until they reset the brace.”
+
+The student under the frame said, “We do not need it.”
+
+Sera hesitated.
+
+Kade understood the impulse.
+
+If she stayed, nothing could go wrong in the next ten seconds because she had left.
+
+That was exactly the trap.
+
+Kamau pointed across the room.
+
+A new amber light had appeared above the flooded corridor.
+
+**SECONDARY ACCESS REQUEST**
+
+“Where are you useful now?” Kamau asked.
+
+Sera dropped her field.
+
+The frame held.
+
+The local student adjusted the brace without her.
+
+Sera stood still for one more beat.
+
+Then she moved.
+
+Not because the first problem was perfect.
+
+Because it was no longer hers.
+
+She reached the secondary request twelve seconds later.
+
+After the course, the board showed no dramatic score increase.
+
+Just one added line beneath her name:
+
+**HANDOFF ACCEPTED WITHOUT RE-ENTRY**
+
+Sera read it twice.
+
+Neema bumped her shoulder.
+
+“You hated that.”
+
+“Yes.”
+
+“Good.”
+
+Sera looked back at the clinic doorway.
+
+The local pair had finished resetting it.
+
+Without her.
+
+Nothing had broken.
+
+Her mouth tightened.
+
+Then relaxed.
+
+Kade did not say anything.
+
+Some progress was easier to ruin by congratulating it.
+
 ---
 
 After the course, Neema and Sera disappeared into the equipment room.
