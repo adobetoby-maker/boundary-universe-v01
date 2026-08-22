@@ -178,6 +178,88 @@ All of it might still be true.
 
 Or it might be true in the way official histories were true at Asterion: technically, selectively, and uselessly.
 
+“Can we see anything after the transfer?” Kade asked.
+
+Eli tried.
+
+The terminal produced a list of file identifiers rather than files.
+
+Most were blacked out.
+
+One metadata field survived.
+
+**MEDICAL OVERSIGHT: A. SEN**
+
+Kade went still.
+
+Mara leaned closer.
+
+“Amara?”
+
+“No first name,” Eli said.
+
+Nobody believed the distinction mattered.
+
+A second identifier showed:
+
+**CONSENT STATUS: REAUTHORIZED**
+
+Kade stared at that word.
+
+Consent.
+
+Sen had made him ask Eli before sharing the tactical model.
+
+She had said power made shortcuts around consent easy to justify.
+
+The sentence felt older now.
+
+“What does reauthorized mean?” Kade asked.
+
+Eli shook his head.
+
+“Could mean anything from renewing a study form to changing the project.”
+
+“Can you open it?”
+
+“No.”
+
+“Can you bypass it?”
+
+Eli gave him a look.
+
+Kade already knew the answer was probably yes in theory and terrible in practice.
+
+“Right,” he said.
+
+Mara searched for Contact Zero.
+
+The terminal returned only a classification notice.
+
+**REFERENCE EXISTS — ACCESS PROHIBITED**
+
+No title.
+
+No summary.
+
+Just proof that the phrase was real.
+
+Kade looked between the two records.
+
+Aaron Mercer.
+
+000.
+
+Asterion precursor program.
+
+A. Sen.
+
+Contact Zero.
+
+He could feel a system forming around him without understanding any of the connections.
+
+For once, that ability was useless.
+
 Kade stood so quickly the chair rolled backward.
 
 “I need to call my mom.”
@@ -187,6 +269,8 @@ Mara said, “Kade—”
 “I need to call my mom.”
 
 He left before either of them could answer.
+
+---
 
 He made it to an empty stairwell before calling.
 
@@ -400,9 +484,61 @@ Kade looked at the archive image still open on his tablet.
 
 “I was never told.”
 
-That answer would matter later.
+“What could he do?”
 
-Right now it simply hurt.
+Elena did not answer immediately.
+
+“I saw him move force once without a Conduit.”
+
+Kade stopped breathing.
+
+“When?”
+
+“Before you were born. A shelf collapsed in our apartment.”
+
+“A shelf.”
+
+“It was full of books. It should have hit me.”
+
+“What happened?”
+
+“It fell sideways.”
+
+Kade stared at the stairwell wall.
+
+“Sideways how?”
+
+“I don’t know.”
+
+“Did he touch it?”
+
+“No.”
+
+“What did he say?”
+
+Elena laughed softly, and the sound hurt.
+
+“He said the shelf had misunderstood gravity.”
+
+Kade closed his eyes.
+
+That sounded exactly like someone he might have liked.
+
+For seventeen years Aaron Mercer had been an absence.
+
+Now he was becoming a person in fragments.
+
+A man who hated notation.
+
+Hated cameras.
+
+Made jokes about systems.
+
+Moved a falling shelf in a way Elena could not explain.
+
+The grief changed shape around those details.
+
+It was easier to miss a photograph than a person.
 
 Elena said, “Do not confront Sen alone while you are this angry.”
 
@@ -498,8 +634,298 @@ Real.
 
 Temporary.
 
-And underneath it was a question he had not expected to have to ask.
+---
+
+The academy did not stop because Kade’s childhood had become unreliable.
+
+At thirteen hundred, his tablet reminded him he had Mechanics.
+
+He stared at the notification.
+
+For one irrational second, he hated the professor for expecting him to attend.
+
+Mara stood.
+
+“You have class.”
+
+“My father was in a classified precursor program.”
+
+“Yes.”
+
+“Feels like an excused absence.”
+
+“Probably.”
+
+Kade looked at her.
+
+“You think I should go.”
+
+“I think you should choose whether not going helps.”
+
+That was irritating enough to work.
+
+Kade went.
+
+Professor Amadi discussed load paths for fifty minutes.
+
+Of course she did.
+
+Kade sat in the third row hearing every sentence through the phrase *my father was Zero*.
+
+A beam distributed force across four supports.
+
+A failure in one changed the others.
+
+A hidden load could destabilize an apparently balanced system.
+
+Kade nearly laughed at the universe’s lack of subtlety.
+
+Halfway through class, Amadi called on him.
+
+“Mercer. What happens if the fourth support is removed?”
+
+Kade looked at the diagram.
+
+“Depends whether the other three know it was carrying load.”
+
+Amadi paused.
+
+“That was not the mathematical answer.”
+
+“No.”
+
+“Are you able to continue class?”
+
+The question was quiet.
+
+No public embarrassment.
+
+Kade considered the old answer.
+
+Fine.
+
+Always fine.
+
+“No,” he said.
+
+Amadi nodded toward the door.
+
+“Then go.”
+
+Kade left.
+
+That simple permission almost undid him more than the archive had.
+
+He spent the next hour walking the island.
+
+Not toward Sen.
+
+That was progress of a sort.
+
+He crossed the central forum, passed the ranking boards, circled the western seawall, and ended at a quiet observation deck overlooking the Pacific.
+
+His rank still read 1,904.
+
+Yesterday the number had been enormous.
+
+Today it seemed absurdly irrelevant.
+
+Asterion could measure his fight performance to four decimal places and apparently had not thought to tell him who his father was.
+
+Or had decided not to.
+
+The distinction mattered.
+
+At 14:22, Eli found him.
+
+Kade did not ask how.
+
+Eli held two drinks.
+
+“Water or aggressively orange?”
+
+“Water.”
+
+Eli handed it over and sat on the deck rail.
+
+For a minute, neither spoke.
+
+Then Eli said, “I copied the file references.”
+
+Kade looked at him.
+
+“Not the classified files. Just identifiers and hashes. If they disappear, we know.”
+
+“That sounds paranoid.”
+
+“I prefer audit-conscious.”
+
+Kade smiled weakly.
+
+Eli looked at the ocean.
+
+“My dad is an electrical contractor.”
+
+Kade waited.
+
+“He thinks Asterion is ridiculous.”
+
+“That sounds healthy.”
+
+“He cried when I got in.”
+
+Kade looked over.
+
+Eli shrugged.
+
+“I’m saying I know exactly what my dad does. He sends me pictures of breaker panels I did not ask for. I cannot imagine finding out he had a secret classified life.”
+
+Kade looked down at the water bottle.
+
+“Neither can I.”
+
+“That seems inaccurate because you currently are.”
+
+“Thank you.”
+
+“I am helping.”
+
+Kade laughed once.
+
+Eli’s presence made the problem no smaller.
+
+It made Kade less alone inside it.
+
+That difference was becoming annoyingly important.
+
+---
+
+At sixteen hundred, Kade requested a meeting with Sen.
+
+Her office declined.
+
+Not Sen personally.
+
+The scheduling system.
+
+**DIRECTOR UNAVAILABLE — SECURITY SESSION**
+
+Kade immediately suspected avoidance.
+
+Taren found him staring at the rejection in Meridian Commons.
+
+“You look like you are considering property damage.”
+
+“Sen is unavailable.”
+
+“That happens. She runs the academy.”
+
+“Today specifically.”
+
+Taren’s expression changed by almost nothing.
+
+Kade saw it.
+
+“You know something.”
+
+“No.”
+
+“That was fast.”
+
+Taren held his gaze.
+
+“I know the Directorate has people on campus this week.”
+
+Kade frowned.
+
+“What Directorate?”
+
+Taren blinked.
+
+Then smiled.
+
+“Continuity Directorate. Government policy people. They visit after major security events.”
+
+“How do you know?”
+
+“House liaison notices.”
+
+Plausible.
+
+Too plausible.
+
+Kade stared.
+
+Taren lifted both hands.
+
+“You asked.”
+
+The name meant nothing yet.
+
+Kade stored it anyway.
+
+Continuity Directorate.
+
+Project Continuity.
+
+Another connection he did not understand.
+
+That evening, Elena sent him a photograph.
+
+Not one from Aaron’s box.
+
+One Kade had never seen.
+
+Aaron at a kitchen table, younger than Kade remembered any photograph showing him, holding a mechanical pencil between his teeth while drawing something on paper. Elena sat beside him laughing at whatever he had said.
+
+On the back, photographed separately, Aaron’s handwriting read:
+
+**SYSTEMS ARE JUST AGREEMENTS THAT HAVE FORGOTTEN THEY WERE NEGOTIATED.**
+
+Kade stared at the sentence until the screen dimmed.
+
+Then he turned the brightness back up and read it again.
+
+He did not know whether his father had meant engineering systems, political systems, or something else entirely.
+
+He knew only that the sentence sounded far too familiar.
+
+Mara found him later in the Meridian common room.
+
+Kade showed her the photograph.
+
+She read the handwriting.
+
+“That sounds like you.”
+
+“No,” Kade said.
+
+He looked at Aaron’s face.
+
+“I sound like him.”
+
+The distinction hurt.
+
+Mara sat beside him.
+
+Across the room, Eli was repairing a sensor array. Sera was studying Disaster Response material. Taren was gone somewhere. Ordinary life continued, as it always did.
+
+Kade looked at the photograph again.
+
+He still wanted answers.
+
+He still wanted to confront Sen.
+
+He still wanted to leave before Asterion could change the story again.
+
+All three wants could be true.
+
+That was the problem.
 
 If Aaron Mercer had not died the way Kade had been told—
 
 what, exactly, had happened to him?
+
+And if everyone Kade trusted had been given different pieces of the truth—
+
+how was he supposed to know which system he was actually inside?
