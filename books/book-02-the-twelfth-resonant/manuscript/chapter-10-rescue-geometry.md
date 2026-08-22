@@ -720,11 +720,53 @@ One pointed to a family group refusing to move without confirmation of the next 
 
 Sera took a printed board and wrote the temporary destinations by hand while Lydia fought the delayed digital display.
 
+A woman using a mobility aid read the board and shook her head.
+
+“School courtyard north gate has stairs.”
+
+Sera stopped.
+
+Her command map showed the courtyard as accessible.
+
+“Are you sure?”
+
+“I use that gate every week.”
+
+Sera looked at the transit supervisor.
+
+He nodded.
+
+“North gate is accessible from the street only if the side ramp is open. Exercise scenario closed it for construction.”
+
+Sera erased the route.
+
+No defense.
+
+No explanation that command data had been wrong.
+
+“What is the accessible entrance?”
+
+“East service gate. Longer walk. Flat route.”
+
+Sera rewrote the board.
+
+**SCHOOL COURTYARD — EAST SERVICE GATE**
+
+The woman nodded.
+
+“Better.”
+
+Sera said, “Thank you.”
+
+Then she asked the Kisiwa students which other groups needed the same correction.
+
+The local information propagated faster than the command map update.
+
 People moved.
 
 Not because Sera commanded them.
 
-Because the information they needed finally existed where they could see it.
+Because the information they needed finally existed where they could see it—and because she changed it when someone who knew the route told her it was wrong.
 
 The crowd density dropped.
 
@@ -942,6 +984,18 @@ Sera continued.
 
 “Once the supervisor had accurate routes and crowd flow dropped, I stayed because I was already there. I should have checked back with command two minutes earlier.”
 
+Fatima nodded toward the incident log.
+
+“And the courtyard route?”
+
+Sera exhaled.
+
+“Command data said accessible. A resident knew the exercise closure made the north gate inaccessible. I published the wrong route first.”
+
+“What fixed it?”
+
+“She told me.”
+
 Fatima smiled.
 
 “Good.”
@@ -952,7 +1006,7 @@ Kade frowned.
 
 Sera looked at him.
 
-“That is not the same as being most useful there.”
+“That is not the same as being right.”
 
 There it was.
 
