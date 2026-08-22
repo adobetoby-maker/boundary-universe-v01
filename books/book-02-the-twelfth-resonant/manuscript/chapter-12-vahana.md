@@ -374,7 +374,7 @@ Mara got docking telemetry.
 
 Julian got structural load.
 
-A Vahana student named Leela Sen got thermal control.
+A Vahana student named Leela Nair got thermal control.
 
 Kade got communications.
 
