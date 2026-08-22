@@ -316,6 +316,62 @@ Ren smiled.
 
 “Probably.”
 
+A second board beside the assignments listed first-year assessment categories.
+
+Kade expected output bands.
+
+They were there, but halfway down.
+
+Above them:
+
+**INTENT LEGIBILITY**
+
+**CORRECTION RECIPROCITY**
+
+**PARTNER-STATE ADAPTATION**
+
+**RELATIONAL RESPONSE ARCHITECTURE**
+
+Kade stopped at the last line.
+
+“What is relational response architecture?”
+
+Ren looked at the board.
+
+“Broad category.”
+
+“That means nothing.”
+
+“It means how your field behavior changes when another self-directed operator is part of the problem.”
+
+Mara had stopped reading the pair board.
+
+“Is that an aptitude screen?”
+
+“Partly. Training screen too.”
+
+“Since when?”
+
+Ren shrugged.
+
+“Long time. Before me.”
+
+Kade looked at the category again.
+
+Not Zero.
+
+Not Boundary architecture.
+
+Nothing that clean.
+
+Just another institution measuring a relationship Asterion had treated as advanced specialization.
+
+One board was not evidence.
+
+He had learned that lesson repeatedly.
+
+He filed it away anyway.
+
 They reached the residence wing.
 
 Asterion had sent room preferences.
@@ -784,9 +840,19 @@ They finished sixth.
 
 Mara and Hana finished second.
 
-The first-place pair were two Kiyomizu students who appeared disappointed by their own score.
+Sera and Akari finished fourth after recovering from an early mismatch without restarting.
 
-Kade decided he disliked them in a healthy competitive way.
+Eli and Jun finished ninth but received the highest assumption-disclosure score because Eli narrated every mistake before it happened and Jun somehow made that useful.
+
+Kade looked at the results.
+
+Asterion had not failed.
+
+It had simply stopped being the reference standard.
+
+That felt healthier than winning.
+
+Mostly.
 
 ---
 
@@ -908,6 +974,18 @@ Julian looked around the dining hall where nobody knew he was Rank One unless he
 
 Kade stored the answer.
 
+At the next table, Sera was talking with Akari Nwosu about municipal response certification.
+
+Kade knew because he heard the words *load triage* and then Sera stopped touching her food entirely.
+
+At another table, Jun Park had Eli’s prototype controller open and was pointing at its power routing with chopsticks.
+
+Mara and Hana were arguing over correction latency.
+
+None of them needed Kade in the conversation.
+
+Good.
+
 After dinner, students cleaned their own tables.
 
 Julian immediately started stacking trays.
@@ -916,7 +994,7 @@ Eli attempted to reverse-engineer the dish return system.
 
 Sera stopped him.
 
-Mara had disappeared into conversation with Hana about correction latency.
+Mara had disappeared deeper into conversation with Hana.
 
 Kade watched her for a moment.
 
