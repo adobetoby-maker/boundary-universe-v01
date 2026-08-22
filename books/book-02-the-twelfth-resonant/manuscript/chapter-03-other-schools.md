@@ -1002,7 +1002,109 @@ Rook continued walking before Kade could ask another question.
 
 Probably wise.
 
-An hour later, Rook opened the first list.
+When the candidates returned to the briefing room, five host-request columns appeared beside the Asterion scores.
+
+Kade expected his own name to be everywhere.
+
+It was not.
+
+Kiyomizu had placed **Vey** first among Asterion candidates.
+
+Julian second.
+
+Kade fourth.
+
+He stared at the list.
+
+Mara saw.
+
+“You look relieved.”
+
+“I am.”
+
+“That is strange.”
+
+“It means they have standards.”
+
+“They do.”
+
+“Different ones.”
+
+Mara almost smiled.
+
+Kisiwa’s priority list began with **Vale**.
+
+Sera read it once.
+
+Then again.
+
+Her face went carefully blank.
+
+Kade recognized that move.
+
+He did not comment.
+
+Anton Bell appeared fourth on Kisiwa’s request despite being nowhere near the top of Asterion’s public ladder.
+
+Kade liked that too.
+
+Vahana’s first Asterion request was **Navarro**.
+
+Eli stopped breathing.
+
+Sera looked over.
+
+“Oh no.”
+
+“They know me.”
+
+“They know your file.”
+
+“Professionally intimate.”
+
+Julian appeared second on Vahana’s list.
+
+Mara third.
+
+Kade seventh.
+
+“Seven?” Kade said.
+
+Eli looked delighted.
+
+“Orbital systems have judged you.”
+
+“Cruel but fair.”
+
+Helix requested Mara first, Kade second, Eli third.
+
+Jonas Falk’s name appeared beside the recommendation group.
+
+Kade pointed at it.
+
+“He did that.”
+
+Mara said, “Or their faculty did.”
+
+“I prefer blaming Jonas.”
+
+The host requests changed the room.
+
+Students stopped looking only at Asterion ranks.
+
+Different systems wanted different people.
+
+A student ranked three hundred received a Kisiwa priority over several top-fifty combat students because her infrastructure record was exceptional.
+
+A top-twenty fighter did not appear on Vahana’s list at all.
+
+The world had more than one ladder.
+
+Kade had learned that lesson before.
+
+It still felt good to see the proof.
+
+An hour later, Rook opened the first combined list.
 
 **CORE INTERNATIONAL CIRCUIT — PROVISIONAL**
 
