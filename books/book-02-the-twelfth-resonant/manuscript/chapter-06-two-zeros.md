@@ -512,6 +512,144 @@ Good.
 
 ---
 
+They left the architecture hall in three different conversations.
+
+Ren and Keiko argued over whether their final correction had been genuinely mutual or merely fast enough to look mutual.
+
+Nao was explaining her late reaction to Daichi with increasingly elaborate hand gestures.
+
+Eli walked backward in front of Kade, still holding the topology trace on his tablet.
+
+“Your network is not bad,” Eli said.
+
+“That sentence usually means the next part is terrible.”
+
+“It is optimized for a different failure.”
+
+Kade glanced at the trace.
+
+“What failure?”
+
+“Everybody knowing where the shared state is.”
+
+“That is useful.”
+
+“Very.”
+
+“So why do you sound concerned?”
+
+Eli stopped walking backward before he hit a wall. Progress.
+
+“Because if everyone knows where the shared state is by looking at you, that is efficient right up until you are unavailable.”
+
+Kade looked past him.
+
+Mara and Julian had slowed near the courtyard steps.
+
+They had heard.
+
+Mara said, “That is not only a network problem.”
+
+Kade frowned.
+
+“I am aware everyone has decided to make this personal.”
+
+Julian leaned against the rail.
+
+“No. It is operational.”
+
+“That was almost worse.”
+
+Julian pointed toward the training hall.
+
+“In your first run, Nao and Daichi were both competent. But they learned the state of the whole system through you because that was the shortest route.”
+
+Kade knew that.
+
+Hearing it said aloud changed the shape.
+
+“So I should make myself less useful.”
+
+Mara shook her head.
+
+“No. You should stop treating usefulness and replaceability as opposites.”
+
+Kade looked at her.
+
+The sentence took a second.
+
+Then another.
+
+Eli lowered the tablet.
+
+“That is good.”
+
+“Do not encourage her.”
+
+Mara ignored him.
+
+Kade looked toward the courtyard where Kiyomizu students were changing partners between drills.
+
+Everyone leaves eventually.
+
+His brain had heard abandonment.
+
+Aya had been talking about design.
+
+Maybe those were not separate enough in him yet.
+
+Julian said, “If I leave a fight and my team stops functioning, I was not leading well.”
+
+“That sounds like something your father would hate.”
+
+“Yes.”
+
+Julian smiled without humor.
+
+“That is one reason I am keeping it.”
+
+Kade considered his own version.
+
+If he left and the network stopped, that did not mean the network trusted him most.
+
+It might mean he had built no useful way for trust to continue without him.
+
+That hurt differently.
+
+Better.
+
+Eli handed the tablet back.
+
+“We should test it.”
+
+Kade looked at him.
+
+“Test what?”
+
+“You leaving.”
+
+“Your enthusiasm is upsetting.”
+
+“Science.”
+
+Mara said, “Tomorrow.”
+
+Kade stared at both of them.
+
+“You scheduled my absence very quickly.”
+
+“Efficiently,” Mara said.
+
+Kade looked back toward the architecture hall.
+
+Aya had already gone.
+
+He suspected she would approve.
+
+That was also upsetting.
+
+---
+
 By lunch, the phrase **TWO ZEROS** had appeared on Asterion’s student network.
 
 Kade learned this because Eli showed him while they were sitting under a cedar awning outside the Kiyomizu dining hall.
