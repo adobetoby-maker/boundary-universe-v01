@@ -212,7 +212,87 @@ Asterion had not erased Northline.
 
 It had made Kade aware of how much Northline lived inside him.
 
-At lunch, he sat at his old table and realized he had forgotten how bad the chairs were.
+At ten seventeen, Darius stood.
+
+“Bathroom.”
+
+Kade looked at the clock.
+
+Ms. Alvarez looked at Darius.
+
+Darius looked at both of them.
+
+Then slowly sat back down.
+
+“Personal growth,” he said.
+
+Kade laughed so hard Tessa threw an eraser at him.
+
+Later, Ms. Alvarez asked Kade to sit in on one of the afternoon project blocks.
+
+He almost refused out of reflex.
+
+Then remembered he no longer attended Northline and therefore could not use school as an excuse to avoid school.
+
+The project was simple: design an evacuation plan for the building during a power failure.
+
+Darius immediately wanted to use the loading dock.
+
+Tessa pointed out the dock gate failed closed without power.
+
+A younger student named Marcus kept insisting the front entrance was best because it was the nearest.
+
+Kade listened.
+
+The old version of him would have taken over.
+
+He could see the problem quickly.
+
+Two narrow hallways.
+
+One accessible exit.
+
+The staff room creating a bottleneck.
+
+Instead he asked Marcus, “What happens when everybody chooses nearest?”
+
+Marcus looked at the map.
+
+“They all go there.”
+
+“And then?”
+
+The kid frowned.
+
+Darius leaned over.
+
+“Traffic jam.”
+
+Marcus changed his route.
+
+Ms. Alvarez watched Kade from across the room.
+
+Kade pretended not to notice.
+
+When the exercise ended, Darius said, “You got weird.”
+
+“I have always been weird.”
+
+“No. You let him figure it out.”
+
+“That sounds like teaching.”
+
+“Exactly.”
+
+Kade stared at him.
+
+“Take it back.”
+
+Darius refused.
+
+---
+
+At lunch, Kade sat at his old table and realized he had forgotten how bad the chairs were.
 
 Darius leaned across from him.
 
@@ -242,27 +322,29 @@ They laughed.
 
 For a while it felt exactly the same.
 
-Then Vice Principal Russell entered.
+Then two teachers from Kade’s old district high school appeared with Vice Principal Russell.
 
-Kade’s body tightened before his mind caught up.
+Kade recognized one immediately.
 
-He noticed that too.
+Mr. Hensley had taught sophomore physics.
 
-Old reactions had better memory than people did.
+He had once told Kade that “being technically correct while refusing the assignment is still failing.”
+
+Kade had hated him for months.
+
+The second teacher, Ms. Rook, had taught English and been one of the few people at Canyon Ridge who stopped arguing when Kade said he needed to leave a room before he said something worse.
 
 Russell smiled broadly.
 
-“Kade.”
+“Kade. I wanted some of your former teachers to say hello.”
 
-“Mr. Russell.”
+Kade’s body tightened before his mind caught up.
 
-“I was hoping I’d catch you.”
+Old reactions had better memory than people did.
 
-Kade’s instincts did not trust the warmth.
+Hensley shook his hand enthusiastically.
 
-Russell shook Elena’s hand.
-
-“We are incredibly proud of what Kade has accomplished.”
+“We always knew you had extraordinary potential.”
 
 Ms. Alvarez’s face became very still.
 
@@ -270,7 +352,7 @@ Kade noticed.
 
 Russell continued.
 
-“We always knew he had extraordinary potential.”
+“Everyone did.”
 
 There it was.
 
@@ -282,9 +364,7 @@ Because it was almost true in the most dishonest possible way.
 
 Russell had told him he was smart.
 
-He had also told Kade that intelligence made every failure less excusable.
-
-Teachers had called him capable while documenting every way he failed to act like capability should look.
+Hensley had told him intelligence made every failure less excusable.
 
 Meetings had become negotiations over how little trouble he could cause.
 
@@ -304,17 +384,17 @@ She was telling him to choose.
 
 That was different.
 
-Kade turned back to Russell.
+Kade turned back to Russell and Hensley.
 
 “You thought I was smart,” he said.
 
-Russell smiled, relieved.
+Hensley smiled, relieved.
 
 “Exactly.”
 
 “You also thought being smart meant I should work inside a system that wasn’t working for me.”
 
-Russell’s smile weakened.
+The smile weakened.
 
 “Kade—”
 
@@ -358,11 +438,45 @@ Something eased in Russell’s face.
 
 “Fair enough.”
 
-It was not an apology.
+Hensley looked less comfortable.
 
-It did not need to become one for the scene to end.
+Then Ms. Rook spoke for the first time.
 
-Russell stayed a few minutes, asked about Asterion, then left.
+“I owe you an apology too.”
+
+Kade turned.
+
+She folded her arms.
+
+“I knew some of your work was better than the grades reflected. I also got tired of fighting the system about it.”
+
+Kade said nothing.
+
+“I told myself you did not care enough for it to matter.”
+
+That sentence landed differently because it came from someone he had liked.
+
+“I made that easy to believe,” Kade said.
+
+“Yes.”
+
+Rook nodded once.
+
+“Still sorry.”
+
+Kade looked at her.
+
+“Okay.”
+
+No dramatic forgiveness.
+
+No rewrite.
+
+Just a true sentence placed where a false one had been.
+
+That was enough.
+
+Russell and the teachers stayed a few minutes, asked about Asterion, then left.
 
 Darius stared at Kade.
 
@@ -609,6 +723,54 @@ Kade laughed.
 He had expected them to be excited.
 
 He had not expected how much it would mean to him to be the person who opened the door.
+
+After the room settled, Marcus—the younger student from the evacuation project—raised one hand.
+
+Kade pointed at him.
+
+“What?”
+
+“Do they take people from schools like this?”
+
+The question was quiet enough that the room changed around it.
+
+Kade looked at Marcus.
+
+He thought about Sera.
+
+Three alternative placements.
+
+About himself.
+
+About provisional lanyards and strange routes.
+
+“Yes,” Kade said.
+
+Marcus looked skeptical.
+
+“How?”
+
+Kade almost said he did not know.
+
+That was true.
+
+Instead he said, “Different ways.”
+
+“Like Zero?”
+
+“Hopefully not exactly.”
+
+A few people laughed.
+
+Kade continued.
+
+“But you do not have to become somebody who went to the right middle school at eleven.”
+
+Marcus nodded slowly.
+
+The answer felt inadequate.
+
+It was also honest.
 
 As he and Elena walked back toward the car, Darius followed them outside.
 
