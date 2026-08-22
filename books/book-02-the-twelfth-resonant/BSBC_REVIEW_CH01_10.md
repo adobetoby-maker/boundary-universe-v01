@@ -13,11 +13,12 @@
 - BSBC notes: strong limitation-first power use; visible ordinary competence deltas; no filler conflict; multiple ensemble trajectories matter without Kade.
 
 ## Chapter 2 — Public Nine
-- Frozen SHA: `bb739a5a5b0a2ad48da1e7c9df283f2fe22ed159`
-- Status: **PASS 6 — REPAIR REQUIRED**
+- Frozen SHA before repair: `bb739a5a5b0a2ad48da1e7c9df283f2fe22ed159`
+- Repair commit: `2e3d6fa522db20ad3368f147bf2c7d6aa76bd3ce`
+- Final manuscript SHA: `0ada789ecaa831dc496b61a43e59f8a50c8c1663`
+- Status: **PASS 6 — PASS AFTER REPAIR**
 - Story craft: PASS. Promise/Progress/Payoff is clear: public classification pressure → consent/language conflict → `IX?` and volunteer-owned framing.
-- Continuity/audio finding: hearing participant list contains `Dr. Amara Park`, accidentally merging **Dr. Amara Sen** with **Dr. Park**. Later scenes correctly treat Sen and Park as separate people.
-- Required repair: change `Dr. Amara Park` to `Dr. Park`; do not invent a first name for Park unless canonically chosen later.
+- Repaired continuity/audio defect: hearing participant list contained `Dr. Amara Park`, accidentally merging **Dr. Amara Sen** with **Dr. Park**. It now reads **Dr. Park**; Park's first name remains unassigned.
 - End-state delta: IX changes from asserted answer to public question, and Kade learns that refusing ownership is not enough if institutions/media assign ownership around him.
 
 ## Chapter 3 — Other Schools
@@ -91,8 +92,9 @@
 ---
 
 ## Portfolio result
-- Chapters passing without manuscript repair: **1, 3, 4, 5, 6, 7, 8, 9, 10**.
-- Chapter requiring repair: **2** (`Dr. Amara Park` → `Dr. Park`).
-- No chapter requires padding or an added fight/drill merely to satisfy Pass 6.
-- The strongest recurring craft pattern is now visible: every training event changes a rule of operation, not just a score.
-- After Chapter 2 repair, Chapters 1–10 may be marked **PASS 6 COMPLETE**.
+- **Chapters 1–10: PASS 6 BSBC COMPLETE.**
+- Passed unchanged: **1, 3, 4, 5, 6, 7, 8, 9, 10**.
+- Passed after targeted continuity/audio repair: **2**.
+- No chapter required padding or an added fight/drill merely to satisfy Pass 6.
+- The strongest recurring craft pattern is now explicit: every training event changes a rule of operation, not just a score.
+- The Sen/Park identity split is now repaired on-page: **Amara Sen = director/Standard Eight; Dr. Park = medical/neurological authority**.
