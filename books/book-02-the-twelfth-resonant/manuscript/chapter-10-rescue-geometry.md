@@ -818,9 +818,9 @@ Eli answered first.
 
 David said, “Water pressure unstable.”
 
-Mara: “Communications limited.”
+Mara said, “Communications limited.”
 
-Julian: “Ambulance route east only.”
+Julian said, “Ambulance route east only.”
 
 Kade saw the system.
 
@@ -852,7 +852,7 @@ Eli recalculated.
 
 “We can do that.”
 
-David said, “Water?”
+David asked, “Water?”
 
 “Procedure rooms only,” the coordinator answered. “Sanitation reserve is enough for the exercise window.”
 
@@ -860,7 +860,7 @@ Mara asked, “Communications?”
 
 “Status every five minutes. Voice only for clinical emergency.”
 
-Julian said, “Transport?”
+Julian asked, “Transport?”
 
 “Keep east route open. Do not send more patients here unless command approves.”
 
