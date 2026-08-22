@@ -43,6 +43,16 @@
           "manuscript": "books/book-01-the-ninth-standard/manuscript/chapter-02-zero-protocol.md",
           "renders": [
             {
+              "render": "holden",
+              "engine": "ElevenLabs",
+              "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
+              "file": "audio/book-01-the-ninth-standard/ch02-zero-protocol.holden.mp3",
+              "bytes": 29066081,
+              "durationSec": 2101.45,
+              "sha256": "467f02ae01fb0d81ef1f85c88c23e2ac2390687fc5b4e9da80a08dcd2e4abf9b",
+              "note": "Production voice. Engine-timed; the SSML pacing map does not apply."
+            },
+            {
               "render": "studio-q",
               "engine": "Google Cloud TTS",
               "voice": "en-US-Studio-Q",
@@ -194,5 +204,6 @@
     }
   ],
   "audioBaseUrl": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/",
-  "note": "Audio is Git LFS. Fetch via media.githubusercontent.com/media/... \u2014 raw.githubusercontent.com returns the LFS pointer text, not the MP3."
+  "note": "Audio is Git LFS. Fetch via media.githubusercontent.com/media/... \u2014 raw.githubusercontent.com returns the LFS pointer text, not the MP3.",
+  "productionVoice": "holden"
 }

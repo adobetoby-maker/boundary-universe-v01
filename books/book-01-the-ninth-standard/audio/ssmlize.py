@@ -119,9 +119,23 @@ def classify(line: str):
     return esc, 600
 
 
+def strip_markdown(t: str) -> str:
+    """Remove markdown emphasis before synthesis.
+
+    The manuscript uses **bold** for screen text and phone messages — exactly
+    the dramatic beats. Left in, a synthesiser reads the asterisks aloud. 198
+    bold spans exist across Book 1, so this is not a corner case.
+    """
+    t = re.sub(r"\*\*(.+?)\*\*", r"\1", t, flags=re.S)
+    t = re.sub(r"(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)", r"\1", t, flags=re.S)
+    t = re.sub(r"(?m)^\s*[-*_]{3,}\s*$", "---", t)
+    t = re.sub(r"`([^`]+)`", r"\1", t)
+    return t
+
+
 def ssmlize(markdown: str) -> tuple[str, str]:
     """Return (title, ssml_body)."""
-    lines = markdown.replace("\r\n", "\n").split("\n")
+    lines = strip_markdown(markdown).replace("\r\n", "\n").split("\n")
 
     title = "Chapter"
     out = []
