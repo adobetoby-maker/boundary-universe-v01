@@ -170,6 +170,86 @@ Probably nothing.
 
 He filed it away anyway.
 
+The week before qualifiers changed Meridian’s entire rhythm.
+
+Bell Watch became louder.
+
+Students painted blue lines on the common-room windows. Upper-years volunteered to run mock defenses. The dining hall added a late-night food station because half the House stopped remembering dinner existed.
+
+Kade’s normal ranking challenges were suspended by choice rather than restriction.
+
+That surprised him.
+
+Three weeks earlier he would have resented anything that slowed his climb.
+
+Now he spent two evenings helping Nessa practice calls from a sensor tower and another hour carrying weighted rescue capsules because Sera insisted every tactical flex should know what being useful felt like when nobody needed tactics.
+
+The first time Kade tried the capsule he got it twelve meters.
+
+Sera watched.
+
+“That was sad.”
+
+“It weighs two hundred kilograms.”
+
+“So will the casualty in the simulation.”
+
+“Your bedside manner is reassuring.”
+
+“I’m applying to Disaster Response.”
+
+Kade stopped.
+
+“You are?”
+
+Sera looked at him as if the information should have been obvious.
+
+“Eventually.”
+
+“Why?”
+
+She shifted the capsule onto one shoulder.
+
+“Because when things go wrong, somebody should know what to do besides fight.”
+
+Then she carried it thirty meters.
+
+Kade watched her.
+
+There it was.
+
+A want that had nothing to do with him.
+
+He realized he knew embarrassingly little about what the people around him wanted when he was not involved.
+
+So he started asking.
+
+Nessa wanted a civilian field-analytics placement after graduation.
+
+Anton wanted orbital construction and had joined combat because his father believed every serious Resonant should compete.
+
+Priya wanted rescue flight, which explained why she treated acceleration like a craft instead of a weapon.
+
+Eli wanted to build stabilization hardware cheap enough that civilian hospitals could afford it.
+
+Kade stared at him when he said that.
+
+“What?” Eli asked.
+
+“You have a plan.”
+
+“Several.”
+
+“I thought your plan was to blow up our room.”
+
+“That is research supporting the larger vision.”
+
+Kade laughed.
+
+The team became harder to reduce to ranks after that.
+
+That helped the strategy too.
+
 ---
 
 The qualifiers began at fourteen hundred.
@@ -506,6 +586,20 @@ Kade noticed how much that small acknowledgment mattered.
 
 He stored that too.
 
+Sera sat beside Eli and checked the abrasion on his forearm from the dive.
+
+“You protected your head correctly.”
+
+Eli looked proud.
+
+“Kade made me practice falling for three hours.”
+
+Sera glanced at Kade.
+
+“Useful friendship.”
+
+Kade looked away before the compliment became dangerous.
+
 ---
 
 The final qualifier was Tactical Elimination.
@@ -513,6 +607,42 @@ The final qualifier was Tactical Elimination.
 Four Houses entered a shifting arena with limited respawns, control zones, and objective gates that could be opened only by systems operators.
 
 Meridian entered the round projected sixth overall.
+
+Their prep room was quieter before this one.
+
+Everyone was tired.
+
+Mara had a bruise along one forearm. Priya’s right calf was taped. Anton had eaten three bananas and claimed this was tactical nutrition. Nessa had stopped speaking entirely except for field calls.
+
+Kade looked around.
+
+“New rule,” he said.
+
+Sera opened one eye.
+
+“You have rules now?”
+
+“If anybody gets hurt trying to protect the plan, abandon the plan.”
+
+Mara looked at him.
+
+“That should already be true.”
+
+“Yes.”
+
+“Then why say it?”
+
+“Because people get stupid when something starts mattering.”
+
+Taren smiled faintly.
+
+“Also observable personal development.”
+
+Kade pointed at him.
+
+“Do not ruin it.”
+
+The horn sounded five minutes later.
 
 Kade’s plan survived eleven minutes.
 
@@ -634,16 +764,68 @@ The room laughed.
 
 Kade did too.
 
+Later, when the noise thinned, he found Mara at the strategy wall changing three of tomorrow’s contingencies.
+
+“You’re still working.”
+
+“So are you.”
+
+“I came to tell you to stop.”
+
+“That seems hypocritical.”
+
+Kade leaned against the table.
+
+“You changed my rotation after I got eliminated.”
+
+“Yes.”
+
+“It was better.”
+
+Mara looked at him.
+
+He continued before he could make the compliment smaller.
+
+“The plan worked better after it stopped being mine.”
+
+Her expression softened by a fraction.
+
+“That is what teams are for.”
+
+Kade looked at the projection.
+
+At Northline, collaboration had often meant somebody assigning roles and calling it participation.
+
+This was different.
+
+He had made something with people who were capable of changing it.
+
+That should have felt like losing control.
+
+Instead it felt stronger.
+
 House Meridian had not won anything yet.
 
-But for the first time, he understood why people cared about Houses.
+But for the first time, Kade understood why people cared about Houses.
 
 Rankings told you where you stood.
 
 A House told you who stood with you.
 
-Kade looked through the common-room window toward the great bronze bell hanging over the courtyard.
+He looked through the common-room window toward the great bronze bell hanging over the courtyard.
 
 It had been silent for fourteen months.
 
 For the first time, he wanted to hear it.
+
+Mara followed his gaze.
+
+“Tomorrow,” she said.
+
+Kade smiled.
+
+“That sounded confident.”
+
+“It was analysis.”
+
+“Recovered.”
