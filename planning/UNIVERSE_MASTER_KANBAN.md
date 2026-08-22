@@ -652,3 +652,199 @@ The planned saga is complete when:
 - the ensemble has become a believable band, not merely a crossover roster;
 - final continuity, clue, audio, and canon registries reconcile across the entire publication line;
 - the universe ends with room for optional future stories but no unpaid core promise.
+
+---
+
+# 14. READER CONTRACT & INDEPENDENT CONVERGENCE ARCHITECTURE
+
+**Status:** LOCKED design principle for universe planning. Exact implementation remains PROVISIONAL until each origin trilogy is architected.
+
+## Core reader promise
+The universe has a recommended reading order, but **origin trilogies are not homework for one another**.
+
+A reader should be able to stop at multiple natural points and feel the story kept its promise:
+- after **3 books**: one origin trilogy feels complete;
+- after **any partial run such as 6, 9, 12, or 13 books**: every completed trilogy still feels complete and the larger pattern feels like optional enrichment rather than missing explanation;
+- after **15 origin books**: the five-origin cycle is satisfying as a major saga even if the ensemble books did not exist;
+- after **Ensemble Book 1**: a new reader can understand and enjoy the band forming without having read all fifteen origin books;
+- after the full planned line: connections reveal a larger story that was present all along.
+
+### Comprehension rule
+Prior reading may increase **emotional depth, irony, recognition, and payoff**. It must not be required for basic scene comprehension.
+
+When an origin lead enters an ensemble book, a new reader must understand from current-story context:
+- who this person is now;
+- what they can do at the level needed for the scene;
+- what they want now;
+- which current relationship matters;
+- what immediate history is necessary.
+
+The origin trilogy reader receives deeper meaning, not required instructions.
+
+---
+
+## Independent convergence model
+Each origin trilogy follows its own local truth far enough that it independently reaches the same larger Boundary problem.
+
+**Do not use a recruiter/collector as the primary mechanism that assembles five franchise leads.** The convergence should feel causal and inevitable because each protagonist solved their own trilogy honestly.
+
+Each origin trilogy must:
+1. resolve its local three-book emotional arc;
+2. resolve its primary trilogy-scale antagonist/problem sufficiently for closure;
+3. answer its own major promised mysteries;
+4. independently discover one face of the larger shared problem;
+5. end with a larger door opening, not with the local story being withheld.
+
+### Ending principle
+The emotional effect should be:
+
+> I solved the problem I was promised.
+> Now I understand that problem belonged to something much larger.
+
+Not:
+
+> My trilogy did not actually end; buy twelve other books to learn what happened.
+
+---
+
+## Five-origin convergence payload
+Before any origin trilogy is canon locked, assign it a **unique convergence contribution**.
+
+Provisional categories may include:
+- identifies the larger phenomenon;
+- identifies a location / destination;
+- discovers a method of access or travel;
+- discovers what is waiting / responding;
+- discovers why convergence is dangerous but necessary.
+
+These categories are **not yet assigned to specific leads** and may change. The locked rule is that no one trilogy should contain all five answers.
+
+### Gate
+The ensemble mission should become reconstructable only when multiple origin contributions are combined.
+
+---
+
+## Preferred order versus required order
+Maintain two explicit reading modes.
+
+### SOLO MODE
+Choose an origin protagonist and read that three-book trilogy.
+
+Reader receives:
+- complete protagonist arc;
+- complete local setting/ability promise;
+- trilogy-scale ending;
+- optional hints of a larger universe.
+
+### UNIVERSE MODE
+Follow recommended publication order.
+
+Reader receives:
+- accumulating crossover clues;
+- recurring symbols/events/organizations;
+- dramatic irony from previous trilogies;
+- recognition when apparently unrelated ability traditions describe the same deeper physics;
+- stronger emotional payoff when leads and counterparts finally meet.
+
+**Release metadata should clearly distinguish recommended order from required order.**
+
+---
+
+## Crossover seam rules
+Prefer small, optional seams over mandatory embedded novellas about future leads.
+
+Good seams:
+- news report from another origin setting;
+- background scientific paper or researcher;
+- recurring company/foundation/institution;
+- artifact, symbol, frequency, countdown, location, star map, numerical sequence;
+- unexplained rescue/disaster;
+- side character crossing settings for a native reason;
+- unnamed/low-context cameo that becomes meaningful only on reread;
+- contradictory historical claims that another trilogy later contextualizes.
+
+Use “book within a book” / extended embedded future-lead material only when it is **necessary to the current book's emotional story**, never as franchise advertising.
+
+### Gate
+Removing a crossover seam must not break the local plot. If removing it breaks comprehension, it is no longer a seam; it is a dependency and must be justified explicitly.
+
+---
+
+## Ensemble Book 1 entry-point test
+Ensemble Book 1 must function as a legitimate new series opener.
+
+A reader with zero origin-trilogy knowledge should be able to:
+- follow the central mission/problem;
+- distinguish the five leads and their primary counterparts;
+- understand current loyalties/conflicts;
+- understand each ability well enough for action stakes;
+- care about the emerging band;
+- finish the book without needing a wiki.
+
+The book may intentionally leave earlier personal history unexplained when it is not relevant to the present scene.
+
+### Backlist reward
+Ensemble Book 1 should naturally make new readers curious about individual leads, allowing them to move backward into whichever origin trilogy interests them most.
+
+---
+
+## Stop-point satisfaction audits
+Run these portfolio audits before release architecture is locked.
+
+### R-001 — Three-Book Satisfaction Test
+For each origin trilogy: if no other Boundary Universe book existed, does Book 3 feel like a complete ending?
+
+### R-002 — Partial-Universe Satisfaction Test
+Test plausible stopping points, including a reader who has completed approximately 13 origin-cycle books. Verify no incomplete trilogy or unrelated series is required to understand what they have already read.
+
+### R-003 — Fifteen-Book Origin-Cycle Test
+If the ensemble saga were canceled, would the five origin trilogies together still feel like a large, satisfying connected saga with deliberate larger mysteries rather than an unfinished crossover setup?
+
+### R-004 — Ensemble Cold-Entry Test
+Give Ensemble Book 1's architecture/manuscript to a hypothetical reader with no origin context. Flag every place the text assumes homework.
+
+### R-005 — Full-Universe Reread Test
+Track connections that gain meaning after later books. Reward full-series reading through reinterpretation, not through retroactively supplying missing basics.
+
+---
+
+## Spoiler ownership rule
+Every shared-universe reveal has one primary owning story or cycle.
+
+A different trilogy may:
+- clue it;
+- misinterpret it;
+- observe consequences;
+- contain a partial version.
+
+It should not accidentally steal another trilogy's earned reveal.
+
+The Master Timeline & Spoiler Matrix must include:
+- reveal owner;
+- first clue;
+- second independent clue;
+- earliest safe explicit mention;
+- origin-cycle safe interpretation;
+- ensemble interpretation;
+- prequel reinterpretation if applicable.
+
+---
+
+## Reader-contract failure conditions
+Block release architecture if any of these are true:
+- an origin trilogy ends mainly as setup for another protagonist's books;
+- a protagonist's emotional climax occurs outside their own trilogy;
+- Ensemble Book 1 requires biographies from multiple origin trilogies to understand the immediate plot;
+- a crossover cameo displaces the current protagonist's supporting cast;
+- a prequel contains information necessary to understand an already-released origin ending;
+- one origin trilogy carries so much shared cosmology that the others become optional appendices rather than equal doors into the universe;
+- the recommended reading order becomes a disguised required order.
+
+---
+
+## Current architectural intent
+The five protagonists should feel, from inside their solo stories, as though they are following unrelated truths.
+
+By the ends of their trilogies, each should have independently reached a different side of the same door.
+
+The ensemble saga begins when those independently earned discoveries become impossible to solve separately.
