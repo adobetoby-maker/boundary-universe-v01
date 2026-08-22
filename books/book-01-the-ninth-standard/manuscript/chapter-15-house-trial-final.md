@@ -166,6 +166,50 @@ The strategy belonged to Meridian.
 
 Kade felt better about that than he did about any plan he had ever made alone.
 
+The previous night, the House had stayed awake far too late pretending not to be nervous.
+
+Kade had found Anton in the laundry room at 23:40 washing the same uniform twice.
+
+“You know it is clean,” Kade said.
+
+Anton stared at the machine.
+
+“I know.”
+
+“Then why?”
+
+“My mother is watching tomorrow.”
+
+Kade waited.
+
+Anton exhaled.
+
+“She has never seen me compete at Asterion.”
+
+“That explains laundry?”
+
+“No.”
+
+“Good.”
+
+Anton laughed.
+
+They stood there another minute, both pretending detergent had become interesting.
+
+Nessa had been in the common room with noise-canceling headphones, practicing breath timing because crowds made her Perception field too sensitive.
+
+Priya had called her younger brother and spent ten minutes convincing him she was not going to “fight Zero again.”
+
+Eli had rebuilt his relay simulator twice.
+
+Mara had fallen asleep over a rule appendix and denied it in the morning.
+
+Taren had disappeared for twenty minutes after a private message, then returned carrying six pastries and no explanation.
+
+Meridian was not a team because the academy had assigned them the same color.
+
+It was a team because all eight of them had become inconveniently real to one another.
+
 The team moved toward the tunnel.
 
 As Kade stepped through, a deep metallic vibration rolled faintly through the building.
@@ -678,6 +722,44 @@ A sound large enough to hold what they had done together.
 
 ---
 
+The award period lasted forty-five minutes and felt longer than the match.
+
+House captains were called forward. Faculty congratulated students. Asterion Student Media tried to interview everyone while they were still sweating.
+
+Kade avoided two cameras.
+
+The third caught him because Taren physically redirected the interviewer into his path.
+
+“Mercer, what changed for Meridian between qualifiers and today?”
+
+Kade looked at Taren.
+
+Taren smiled innocently.
+
+Kade turned back to the camera.
+
+“People got better at changing my plans.”
+
+The interviewer blinked.
+
+“That is your answer?”
+
+“Yes.”
+
+“Not your tactical calls?”
+
+“No.”
+
+Mara passed behind the interviewer.
+
+“Correct,” she said.
+
+Then kept walking.
+
+Kade smiled.
+
+The clip was online before the medal ceremony ended.
+
 The ranking recalculation came thirty minutes later.
 
 House Trial results did not simply reward combat victories. Individual models incorporated survival time, objective contributions, opponent difficulty, tactical role weighting, and team-performance coefficients.
@@ -791,5 +873,153 @@ Kade let the moment remain large.
 He did not earn this alone.
 
 That did not make it less his.
+
+---
+
+Meridian did not sleep that night.
+
+This was not an official policy.
+
+It was simply impossible to convince two hundred students that a bell rung after fourteen months of silence should be followed by normal bedtime.
+
+The courtyard filled.
+
+Food appeared from somewhere. Music migrated downstairs. Upper-years told increasingly unreliable stories about prior House victories.
+
+At 22:30, someone convinced Eli to reenact the relay-core moment using three dining chairs and a serving tray.
+
+It ended badly.
+
+At 23:05, Sera sat on the fountain edge with her shoes off, letting the cold water run over bruised ankles.
+
+Kade sat beside her.
+
+“Disaster Response?” he asked.
+
+She glanced at him.
+
+“You remember.”
+
+“Sometimes.”
+
+Sera looked around at the celebration.
+
+“This is fun.”
+
+“That sounded suspicious.”
+
+“It is also useless if the only thing we learn here is how to win games.”
+
+Kade looked at the arena medal hanging crookedly from her neck.
+
+“You carried half the team.”
+
+“Today.”
+
+“And someday?”
+
+She watched the bell above them.
+
+“Someday I want to be the person who knows what to do when there is no referee.”
+
+The line stayed with Kade.
+
+Later, he found Eli alone near the stairs, staring at the ranking update on his own tablet.
+
+“You okay?” Kade asked.
+
+Eli looked up.
+
+“Yeah.”
+
+“That was too fast.”
+
+Eli smiled weakly.
+
+“You learned that from Darius stories.”
+
+“Answer.”
+
+Eli looked at Kade’s #1,904, then at his own still much-lower rank.
+
+“I was useful today.”
+
+“Yes.”
+
+“I know.”
+
+He said it like he was practicing.
+
+Kade waited.
+
+Eli continued.
+
+“Sometimes this place makes usefulness feel like a number. I know that is stupid.”
+
+“It is not stupid.”
+
+Eli looked at him.
+
+Kade nodded toward the courtyard.
+
+“We do not win without you.”
+
+Eli’s eyes went shiny for half a second.
+
+He looked away.
+
+“Gross.”
+
+“Deeply.”
+
+They never mentioned it again.
+
+At midnight Elena called.
+
+Kade answered from the roof.
+
+She had watched the final.
+
+Of course she had.
+
+“You jumped off a platform,” she said.
+
+“That was Mara.”
+
+“Good. I was preparing a lecture.”
+
+“You can send it to her father.”
+
+Elena smiled.
+
+Then she looked at his face.
+
+“You’re happy.”
+
+Kade opened his mouth.
+
+The normal joke arrived.
+
+He let it pass.
+
+“Yeah.”
+
+Elena’s smile changed.
+
+Not bigger.
+
+Softer.
+
+“Good.”
+
+Kade looked over the roof edge.
+
+The courtyard was still full. The bell rope hung loose. Somewhere below, Eli shouted about furniture geometry.
+
+People in the stands had chanted his name.
+
+His rank had moved more than six thousand places in an afternoon.
+
+None of that felt as important as the bell.
 
 For once, Kade Mercer let success belong to him without requiring that it belong only to him.
