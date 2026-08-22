@@ -484,6 +484,44 @@ Eli returned to the wall.
 
 The sentence lodged somewhere unpleasantly useful.
 
+Unpacking took longer than it had in temporary housing because Eli considered every item a possible conversational opening.
+
+“You own one pair of formal shoes.”
+
+“Yes.”
+
+“They’re still in the box.”
+
+“Yes.”
+
+“You have three chargers for one tablet.”
+
+“Chargers disappear.”
+
+“You brought a mechanical pencil.”
+
+Kade took it from him.
+
+“That was my dad’s.”
+
+Eli’s expression changed immediately.
+
+“Sorry.”
+
+No question followed.
+
+Kade put the pencil into the desk drawer.
+
+The absence of curiosity felt like a gift.
+
+Eli turned back to his sensor rig.
+
+Kade looked at him for another second.
+
+First uncomplicated friend, he thought.
+
+Then immediately rejected the phrase as premature.
+
 By dinner Kade had learned seven things about House Meridian.
 
 First: everybody knew everybody’s rank.
@@ -684,36 +722,316 @@ A second message followed.
 
 **Do not accept the lunch. There is always a catch.**
 
-Kade looked around the dining hall.
+Kade showed Eli.
 
-At thousands of students who understood their place down to a number.
+Eli whistled.
 
-At Mara Vey, number seven, watching him like a problem worth solving.
+“Taren.”
 
-At Eli, number eight thousand nine hundred eleven, who had apparently decided friendship could begin with a broken drone and require no paperwork.
+“That sounded like a diagnosis.”
 
-At Sera, whose rank he still did not know and whose advice he already resented for being useful.
+“More like weather.”
 
-At an arena replay showing impossible physics frame by frame.
+“Dangerous?”
 
-The feeling that came was not belonging.
+“Depends whether you stand outside.”
 
-Not yet.
+Sera saw the message over Kade’s shoulder.
 
-It was smaller and more dangerous.
+“Don’t tell him anything you don’t want repeated.”
 
-Possibility.
+Kade looked at her.
 
-Kade looked toward the old Meridian banner hanging above the dining hall.
+“That sounded less informational.”
 
-Then at the ranking board.
+“He likes people. People tell him things. He tells other people different things. Usually useful things.”
 
-10,482.
+“Comforting.”
 
-Last place.
+Sera stole one of Eli’s potatoes.
 
-He smiled.
+“Not everything dangerous is bad for you.”
 
-Last place was beginning to look less like an ending.
+Eli looked at his plate.
 
-It looked like a coordinate.
+“Those were mine.”
+
+“Past tense.”
+
+---
+
+The Meridian roof was not technically a roof.
+
+It was a collection of terraces built around the upper mechanical level, with greenhouse panels on one side, a weather station on another, and enough benches to imply the academy had once expected students to use it for quiet reflection.
+
+Meridian students had responded by installing portable heaters, a chess table, and a hammock suspended in a location no safety officer could possibly have approved.
+
+Taren Holt sat on the parapet beneath the House bell’s upper support cable.
+
+Kade recognized him immediately.
+
+Rank thirty-four.
+
+Broad smile. Dark curls. Academy jacket worn open despite the wind. The kind of person who looked relaxed because making other people relax was part of how he moved through the world.
+
+“You came,” Taren said.
+
+“You threatened me with information.”
+
+“Effective.”
+
+Kade stopped a few feet away.
+
+“You said half the school hates me.”
+
+“I rounded.”
+
+“Up or down?”
+
+“Depends which forum you read.”
+
+Taren offered him a canned drink.
+
+Kade looked at it.
+
+“No lunch.”
+
+“Good. You learn.”
+
+“It’s not lunch.”
+
+“Still free.”
+
+Kade took it anyway.
+
+The label said carbonated citrus and contained enough warning text to qualify as medication.
+
+Taren pointed toward the island below.
+
+“Here’s the short version. Asterion has three kinds of people who care about you already.”
+
+“I was happier five seconds ago.”
+
+“First: people who think you stole a place.”
+
+“Reasonable.”
+
+“No. Predictable.”
+
+Kade stared at him.
+
+Taren smiled.
+
+“Sera?”
+
+“Unfortunately.”
+
+“Second: people who think Zero means you’re secretly terrifying.”
+
+“Those people have not watched me attempt field output.”
+
+“Facts are slow. Rumors sprint.”
+
+“And third?”
+
+“People who think you’re interesting.”
+
+“That category sounds least trustworthy.”
+
+“It is.”
+
+Kade opened the drink.
+
+“Which are you?”
+
+Taren’s smile changed.
+
+Not disappeared.
+
+Adjusted.
+
+“Useful.”
+
+“That was not one of the options.”
+
+“I dislike limiting frameworks.”
+
+Kade almost laughed.
+
+“Did you rehearse that for me?”
+
+“A little.”
+
+There it was.
+
+An answer adjacent to the question.
+
+Kade remembered Sera’s warning.
+
+“So what do you want?”
+
+Taren looked out toward the training towers.
+
+“Nothing yet.”
+
+“Suspicious phrasing.”
+
+“I want to see what you do.”
+
+“Why?”
+
+“Because you are either a very strange administrative mistake or the most interesting freshman story Asterion has had in years.”
+
+“That sounds like betting.”
+
+“I don’t gamble.”
+
+“You’re rank thirty-four.”
+
+“Exactly. I prefer games I can influence.”
+
+Kade studied him.
+
+Taren looked back without discomfort.
+
+“Campus rule,” Taren said. “Everyone here is selling something.”
+
+“Even you?”
+
+“Especially me.”
+
+“What?”
+
+“Context.”
+
+Kade took a drink.
+
+It was aggressively citrus.
+
+Taren pointed toward a lower arena where lights had just come on.
+
+“See that?”
+
+A crowd had gathered along the observation rail.
+
+Two first-years entered the ring.
+
+One name appeared on the display.
+
+**CROSS, JULIAN — #1**
+
+Kade straightened.
+
+“Rank one.”
+
+“Rank one,” Taren agreed.
+
+The opponent was #61.
+
+The match lasted thirty-eight seconds.
+
+Julian did not overwhelm him.
+
+That was what Kade noticed first.
+
+No spectacular blast.
+
+No impossible speed.
+
+He moved early.
+
+Every time the opponent committed, Julian was already standing where the attack would become inconvenient.
+
+The final exchange looked almost boring.
+
+The opponent stepped in.
+
+Julian redirected one arm, shifted his hips, and used the other student’s momentum to put him outside the ring.
+
+Match over.
+
+Kade frowned.
+
+Taren watched him instead of the arena.
+
+“What?” Kade said.
+
+“You expected fireworks.”
+
+“I expected rank one to look harder.”
+
+“He does if you’re in there.”
+
+“Helpful.”
+
+Taren nodded toward the replay.
+
+“People misunderstand rankings. They think the top is where the biggest powers live.”
+
+“It isn’t?”
+
+“Sometimes. But Julian isn’t first because he can do the most dramatic thing.”
+
+“Why is he first?”
+
+“He makes fewer bad decisions than anyone else.”
+
+The sentence annoyed Kade immediately.
+
+Which usually meant it mattered.
+
+Below, Julian helped his opponent up.
+
+No celebration.
+
+No crowd gesture.
+
+He listened while an instructor pointed something out on the replay.
+
+Kade watched longer than he intended.
+
+Taren said, “Your first combat assessment is tomorrow.”
+
+Kade turned.
+
+“How do you know that?”
+
+“House schedule access.”
+
+“I don’t have House schedule access.”
+
+“You arrived this morning.”
+
+“That answer contained no explanation.”
+
+Taren grinned.
+
+“Context.”
+
+Kade looked back at the arena.
+
+Rank one had needed thirty-eight seconds.
+
+Kade’s combat rating did not exist.
+
+Somewhere tomorrow, an academy instructor would try to turn that into a number too.
+
+The idea should have made him want to leave.
+
+Instead it made something in him lean forward.
+
+Taren raised his can.
+
+“To last place.”
+
+Kade looked at him.
+
+“That is a terrible toast.”
+
+“Only if you plan to stay there.”
+
+Kade touched his can against Taren’s.
+
+Far below, Julian Cross stepped back into the arena for another round.
+
+Above them, the Meridian bell waited in silence.
