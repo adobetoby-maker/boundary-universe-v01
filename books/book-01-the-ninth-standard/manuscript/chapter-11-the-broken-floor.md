@@ -32,6 +32,56 @@ Hale had looked at him.
 
 Hale approved the match with a field restriction and enough safety language to qualify as a small novel.
 
+The route from Meridian to Arena Four cut through the Hall of Standards.
+
+Kade had passed it before without stopping. Eleven bronze nameplates curved along one wall beneath larger-than-life relief portraits of the first publicly recognized Standard Eights.
+
+Sen was fifth from the left.
+
+Today Eli slowed.
+
+Kade nearly walked into him.
+
+“What?”
+
+Eli pointed at the wall.
+
+There were eleven portraits.
+
+Twelve stone bays.
+
+The final bay was not empty exactly. A narrow maintenance panel occupied it, newer than the surrounding stone and slightly the wrong color.
+
+Kade counted again.
+
+“Why build twelve?”
+
+Mara glanced over.
+
+“The hall predates the current display.”
+
+“That explains the stone. Not the symmetry.”
+
+Eli leaned closer to the panel.
+
+A tiny construction code sat near the bottom edge.
+
+**LEGACY BAY 12 — ACCESS SEALED**
+
+“Probably utilities,” Eli said.
+
+“That is an aggressively boring answer.”
+
+“We are going to a fight,” Sera said. “You can investigate suspicious architecture after Mercer survives it.”
+
+Kade looked once more at the eleven bronze names and the twelfth sealed bay.
+
+Then kept walking.
+
+Asterion had enough strange architecture that one asymmetrical memorial did not qualify as a mystery.
+
+Yet.
+
 Now Kade sat in the prep bay rolling his shoulders while Eli displayed Pike’s last six fights in miniature above a tablet.
 
 “He has won five,” Eli said.
