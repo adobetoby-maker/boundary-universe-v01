@@ -1,41 +1,230 @@
 {
-  "generatedFrom": "planning/universe-kanban",
+  "generatedBy": "scripts/generate_status.py",
+  "manuscriptRef": "origin/draft/book-02-four-pass",
   "universe": {
     "title": "The Boundary Universe",
     "scope": "5 origin trilogies + discovery prequels + 10-book ensemble saga",
     "status": "DESIGN + O1 IN PRODUCTION"
   },
-  "portfolio": [
-    {"id":"U-001","title":"Five Origin Leads","status":"DESIGN","progress":20},
-    {"id":"U-002","title":"Five Ability Interfaces","status":"DESIGN","progress":20},
-    {"id":"U-004","title":"Cosmology Translation Matrix","status":"DESIGN","progress":5},
-    {"id":"U-005","title":"Master Timeline & Spoiler Matrix","status":"DESIGN","progress":10},
-    {"id":"U-009","title":"Primary Counterpart System","status":"DESIGN","progress":20},
-    {"id":"U-010","title":"Reader Contract / Independent Convergence","status":"DESIGN","progress":70},
-    {"id":"U-011","title":"Autonomous Multi-Review Orchestration","status":"PILOT","progress":60}
-  ],
-  "origins": [
-    {"id":"O1","title":"Asterion Trilogy — Kade Mercer","status":"IN PRODUCTION","books":[
-      {"title":"The Ninth Standard","status":"AUDIO / PRODUCTION","progress":92},
-      {"title":"The Twelfth Resonant","status":"DRAFTING","progress":12},
-      {"title":"The Final Boundary","status":"ARCHITECTURE","progress":8}
-    ]},
-    {"id":"O2","title":"Origin Lead 2","status":"BACKLOG","progress":0},
-    {"id":"O3","title":"Origin Lead 3","status":"BACKLOG","progress":0},
-    {"id":"O4","title":"Origin Lead 4","status":"BACKLOG","progress":0},
-    {"id":"O5","title":"Origin Lead 5","status":"BACKLOG","progress":0}
-  ],
+  "protocol": {
+    "passesRequired": 5,
+    "source": "START_HERE.md"
+  },
+  "book1": {
+    "title": "The Ninth Standard",
+    "chapters": 33,
+    "words": 58703
+  },
   "book2": {
-    "title":"The Twelfth Resonant",
-    "chaptersTotal":34,
-    "chapters":[
-      {"n":1,"title":"The Countdown","status":"ATTESTED","passes":4},
-      {"n":2,"title":"Public Nine","status":"ATTESTED","passes":4},
-      {"n":3,"title":"Other Schools","status":"ATTESTED","passes":4},
-      {"n":4,"title":"Kiyomizu","status":"ATTESTED","passes":4},
-      {"n":5,"title":"Aya Mori","status":"PASS 1 COMPLETE","passes":1}
+    "title": "The Twelfth Resonant",
+    "chaptersTotal": 34,
+    "chaptersDrafted": 11,
+    "chaptersAttested": 6,
+    "words": 36798,
+    "percentDrafted": 32,
+    "percentAttested": 18,
+    "chapters": [
+      {
+        "n": 1,
+        "title": "The Countdown",
+        "words": 4330,
+        "status": "ATTESTED \u2014 FOUR PASSES COMPLETE",
+        "target": 5400,
+        "passesRecorded": 4
+      },
+      {
+        "n": 2,
+        "title": "Public Nine",
+        "words": 3763,
+        "status": "ATTESTED \u2014 FOUR PASSES COMPLETE",
+        "target": 5500,
+        "passesRecorded": 4
+      },
+      {
+        "n": 3,
+        "title": "Other Schools",
+        "words": 3366,
+        "status": "ATTESTED \u2014 FOUR PASSES COMPLETE",
+        "target": 5300,
+        "passesRecorded": 4
+      },
+      {
+        "n": 4,
+        "title": "Kiyomizu",
+        "words": 3354,
+        "status": "ATTESTED \u2014 FOUR PASSES COMPLETE",
+        "target": 5800,
+        "passesRecorded": 4
+      },
+      {
+        "n": 5,
+        "title": "Aya Mori",
+        "words": 3916,
+        "status": "ATTESTED \u2014 FOUR PASSES COMPLETE",
+        "target": 5700,
+        "passesRecorded": 4
+      },
+      {
+        "n": 6,
+        "title": "Two Zeros",
+        "words": 3350,
+        "status": "ATTESTED \u2014 FOUR PASSES COMPLETE",
+        "target": 6000,
+        "passesRecorded": 4
+      },
+      {
+        "n": 7,
+        "title": "Paired Control",
+        "words": 3053,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 8,
+        "title": "Fault Tolerance",
+        "words": 3206,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 9,
+        "title": "Kisiwa",
+        "words": 2733,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 10,
+        "title": "Rescue Geometry",
+        "words": 3256,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 11,
+        "title": "Sera\u2019s Field",
+        "words": 2471,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      }
     ]
   },
+  "drift": [
+    "pass protocol disagrees: START_HERE.md says 5, CHAPTER_ATTESTATIONS.md says 4",
+    "ch07 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch08 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch09 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch10 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch11 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "book1: origin/expand/book1-ch01-10 holds 99,976 words, 41,273 more than the ref being reported (origin/draft/book-02-four-pass)"
+  ],
+  "loop": [
+    "READY",
+    "AUTHOR",
+    "REVIEW A",
+    "REVIEW B",
+    "RECONCILE",
+    "REVISE",
+    "ATTEST",
+    "PROMOTE NEXT"
+  ],
+  "portfolio": [
+    {
+      "id": "U-001",
+      "title": "Five Origin Leads",
+      "status": "DESIGN",
+      "progress": 20
+    },
+    {
+      "id": "U-002",
+      "title": "Five Ability Interfaces",
+      "status": "DESIGN",
+      "progress": 20
+    },
+    {
+      "id": "U-004",
+      "title": "Cosmology Translation Matrix",
+      "status": "DESIGN",
+      "progress": 5
+    },
+    {
+      "id": "U-005",
+      "title": "Master Timeline & Spoiler Matrix",
+      "status": "DESIGN",
+      "progress": 10
+    },
+    {
+      "id": "U-009",
+      "title": "Primary Counterpart System",
+      "status": "DESIGN",
+      "progress": 20
+    },
+    {
+      "id": "U-010",
+      "title": "Reader Contract / Independent Convergence",
+      "status": "DESIGN",
+      "progress": 70
+    },
+    {
+      "id": "U-011",
+      "title": "Autonomous Multi-Review Orchestration",
+      "status": "PILOT",
+      "progress": 60
+    }
+  ],
+  "origins": [
+    {
+      "id": "O1",
+      "title": "Asterion Trilogy \u2014 Kade Mercer",
+      "status": "IN PRODUCTION",
+      "books": [
+        {
+          "title": "The Ninth Standard",
+          "status": "AUDIO / PRODUCTION",
+          "progress": 92
+        },
+        {
+          "title": "The Twelfth Resonant",
+          "status": "DRAFTING",
+          "progress": 12
+        },
+        {
+          "title": "The Final Boundary",
+          "status": "ARCHITECTURE",
+          "progress": 8
+        }
+      ]
+    },
+    {
+      "id": "O2",
+      "title": "Origin Lead 2",
+      "status": "BACKLOG",
+      "progress": 0
+    },
+    {
+      "id": "O3",
+      "title": "Origin Lead 3",
+      "status": "BACKLOG",
+      "progress": 0
+    },
+    {
+      "id": "O4",
+      "title": "Origin Lead 4",
+      "status": "BACKLOG",
+      "progress": 0
+    },
+    {
+      "id": "O5",
+      "title": "Origin Lead 5",
+      "status": "BACKLOG",
+      "progress": 0
+    }
+  ],
   "readerContract": [
     "Every origin trilogy satisfies a 3-book reader independently.",
     "Partial readers (including ~13 books) can stop satisfied.",
@@ -43,6 +232,5 @@
     "Five origin arcs converge independently on the same larger problem.",
     "Ensemble Book 1 must work as a cold entry point.",
     "Recommended reading order is preferred, not required."
-  ],
-  "loop": ["READY","AUTHOR","REVIEW A","REVIEW B","RECONCILE","REVISE","ATTEST","PROMOTE NEXT"]
+  ]
 }

@@ -1,21 +1,94 @@
+# Manuscript metrics and drift detection.
+#
+# The previous version of this workflow never ran. It triggered only on pushes
+# to `prep/book-02`, while every chapter of Book 2 was written on
+# `draft/book-02-four-pass`; and it did not exist on the default branch at all,
+# which is where GitHub schedules workflows from. It had therefore never fired
+# on a single chapter of the book it was built to measure.
+#
+# Two changes fix that: the file lives on `main`, and it watches the branch
+# globs where drafting actually happens.
+
 name: Manuscript Metrics
 
 on:
   push:
     branches:
-      - prep/book-02
+      - main
+      - 'draft/**'
+      - 'polish/**'
+      - 'expand/**'
+      - 'planning/**'
+  pull_request:
   workflow_dispatch:
+    inputs:
+      manuscript_ref:
+        description: 'Git ref holding the manuscript to measure'
+        required: false
+        default: 'origin/draft/book-02-four-pass'
+  schedule:
+    # Drift accumulates on days nobody pushes, so check anyway.
+    - cron: '0 7 * * *'
 
 jobs:
-  count:
+  metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Count Book 1 words
+        with:
+          # generate_status.py compares every branch to find where the most
+          # prose lives, so it needs the full history, not a shallow clone.
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # The dispatch input reaches the shell through env, never through ${{ }}
+      # interpolation inside `run:` -- otherwise a crafted ref string would be
+      # pasted into the command line and executed. It is also pattern-checked,
+      # because it is handed to git.
+      - name: Generate dashboard status
+        id: gen
+        env:
+          MANUSCRIPT_REF: ${{ github.event.inputs.manuscript_ref || 'origin/draft/book-02-four-pass' }}
         run: |
-          python scripts/word_count.py | tee manuscript-word-count.txt
-      - name: Upload report
+          set -euo pipefail
+          if ! printf '%s' "$MANUSCRIPT_REF" | grep -qE '^[A-Za-z0-9._/-]+$'; then
+            echo "refusing ref with unexpected characters: $MANUSCRIPT_REF" >&2
+            exit 1
+          fi
+          python3 scripts/generate_status.py --manuscript-ref "$MANUSCRIPT_REF" | tee metrics.txt
+
+      - name: Summarise
+        run: |
+          {
+            echo '## Manuscript metrics'
+            echo '```'
+            cat metrics.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload status.json
         uses: actions/upload-artifact@v4
         with:
-          name: manuscript-word-count
-          path: manuscript-word-count.txt
+          name: dashboard-status
+          path: dashboard/status.json
+
+      # Drift is reported, not fatal. A contradiction between two planning
+      # documents is a thing to look at, not a reason to block a manuscript
+      # push -- but it must be visible rather than silently absorbed.
+      - name: Flag drift
+        run: |
+          python3 - <<'EOF'
+          import json, os, pathlib
+          d = json.loads(pathlib.Path('dashboard/status.json').read_text())
+          drift = d.get('drift', [])
+          if drift:
+              print(f"::warning::{len(drift)} drift item(s) detected")
+              for item in drift:
+                  print(f"::warning::{item}")
+          else:
+              print("no drift")
+          EOF

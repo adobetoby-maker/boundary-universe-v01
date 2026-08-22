@@ -1,0 +1,4 @@
+
+# Local QA harness output — captures whatever is on :3000, not this repo.
+.claude/qa/
+.claude/verify/

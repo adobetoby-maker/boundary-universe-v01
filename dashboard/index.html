@@ -31,9 +31,23 @@ fetch('./status.json').then(r=>r.json()).then(d=>{
   let books=''; if(x.books) books=x.books.map(b=>`<div class="book"><div class="row"><span>${b.title}</span><span class="status">${b.status}</span></div><div class="bar"><div class="fill" style="width:${b.progress}%"></div></div><div class="meta">${b.progress}%</div></div>`).join('');
   document.getElementById('origins').insertAdjacentHTML('beforeend',`<section class="card"><h3>${x.id} · ${x.title}</h3><span class="status">${x.status}</span>${books || `<div class="bar"><div class="fill" style="width:${x.progress}%"></div></div><div class="meta">${x.progress}%</div>`}</section>`)
  });
- const b=d.book2; let h=`<div class="row"><h3>${b.title}</h3><span class="status">${b.chaptersTotal} chapters</span></div>`;
- b.chapters.forEach(c=>{const cls=c.status==='ATTESTED'?'done':'current';h+=`<div class="chapter"><strong>${c.n}</strong><span>${c.title}</span><span class="${cls}">${c.status} · ${c.passes}/4</span></div>`});
- h+=`<div class="chapter"><strong>6–34</strong><span>Remaining chapters</span><span class="meta">PLANNED</span></div>`; document.getElementById('book2').innerHTML=h;
+ const b=d.book2, req=(d.protocol&&d.protocol.passesRequired)||0;
+ let h=`<div class="row"><h3>${b.title}</h3><span class="status">${b.chaptersDrafted}/${b.chaptersTotal} drafted · ${b.chaptersAttested} attested · ${b.words.toLocaleString()} words</span></div>`;
+ b.chapters.forEach(c=>{const cls=/^ATTESTED/.test(c.status)?'done':'current';
+  const passes=req?` · ${c.passesRecorded}/${req}`:'';
+  const target=c.target?` · ${c.words.toLocaleString()}/${c.target.toLocaleString()}w`:` · ${c.words.toLocaleString()}w`;
+  h+=`<div class="chapter"><strong>${c.n}</strong><span>${c.title}</span><span class="${cls}">${c.status}${passes}${target}</span></div>`});
+ const next=b.chaptersDrafted+1;
+ if(next<=b.chaptersTotal) h+=`<div class="chapter"><strong>${next}–${b.chaptersTotal}</strong><span>Remaining chapters</span><span class="meta">PLANNED</span></div>`;
+ document.getElementById('book2').innerHTML=h;
+ // Drift is shown, never swallowed. A dashboard that hides a contradiction
+ // between two planning documents is worse than no dashboard, because it
+ // reads as agreement.
+ if(d.drift&&d.drift.length){
+  document.getElementById('book2').insertAdjacentHTML('afterend',
+   `<h2>Drift — ${d.drift.length}</h2><div class="card"><ul>`+
+   d.drift.map(x=>`<li>${x.replace(/&/g,'&amp;').replace(/</g,'&lt;')}</li>`).join('')+`</ul></div>`);
+ }
  d.readerContract.forEach(x=>document.getElementById('reader').insertAdjacentHTML('beforeend',`<li>${x}</li>`));
 }).catch(e=>document.getElementById('subtitle').textContent='Could not load status.json');
 function card(x){return `<section class="card"><div class="row"><h3>${x.id} · ${x.title}</h3><span class="status">${x.status}</span></div><div class="bar"><div class="fill" style="width:${x.progress}%"></div></div><div class="meta">${x.progress}% complete</div></section>`}
