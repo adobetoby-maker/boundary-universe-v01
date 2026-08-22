@@ -120,6 +120,34 @@ Eli frowned.
 
 “Do not use my own wisdom against me.”
 
+The attention reached Northline by lunchtime.
+
+Darius sent a screenshot of the school’s front-office television showing Kade’s House Trial clip on a regional sports segment.
+
+**RUSSELL IS PRETENDING THIS IS NORMAL**
+
+A second message followed.
+
+**ALVAREZ SAID TURN IT DOWN BECAUSE SOME OF US ARE TRYING TO FAIL MATH IN PEACE**
+
+Kade smiled.
+
+Then Tessa sent a photo of Room Four’s whiteboard.
+
+Someone had written:
+
+**MERCER — #1,904**
+
+Underneath:
+
+**STILL CANNOT FIX VENDING MACHINE**
+
+That one made the fame feel different.
+
+Less like being watched.
+
+More like being remembered by the right people.
+
 At fourteen hundred, Cal Reid sent:
 
 **Nice climb. Enjoy the week.**
@@ -206,9 +234,63 @@ Kade looked toward the training fields.
 
 “Especially 1,904.”
 
-The interview clip spread because Kade said fewer ridiculous things than expected and one accidentally thoughtful thing.
+Lena changed subjects.
+
+“Your tactical role in the House Trial became more valuable after your elimination. Does that bother you?”
+
+Kade laughed.
+
+“It did for about three seconds.”
+
+“And after?”
+
+“I realized that was the point.”
+
+“What point?”
+
+“If the plan only works while I’m there, it is not a very good plan.”
+
+Lena sat back.
+
+Kade immediately regretted saying something usable.
+
+“That is going to be the clip, isn’t it?”
+
+“Yes.”
+
+“Tragic.”
+
+The interview spread because Kade said fewer ridiculous things than expected and two accidentally thoughtful things.
 
 Eli told him that was terrible branding.
+
+The national sports request was different.
+
+Their producer wanted a remote segment called **FROM ZERO TO HERO**, which Kade rejected on title alone.
+
+Taren argued the segment would reach twelve million viewers.
+
+Sera asked whether twelve million viewers would help Kade pass Vector Analysis.
+
+Taren admitted they would not.
+
+Mara said nothing until Kade declined.
+
+Then she said, “Good.”
+
+Kade looked at her.
+
+“You had an opinion?”
+
+“Obviously.”
+
+“Why did you not say it?”
+
+“Because it was your decision.”
+
+The answer should not have mattered.
+
+It did.
 
 ---
 
@@ -290,6 +372,44 @@ Enough that his mother would tell him to think before being proud.
 
 Kade looked again at his own face beneath BREAK THE BOUNDARY.
 
+“Who owns the story?” he asked.
+
+The representative frowned slightly.
+
+“The campaign?”
+
+“My story.”
+
+“You do.”
+
+“Then I decide what parts you use.”
+
+“We would negotiate approvals.”
+
+“That means no.”
+
+“It means shared creative control.”
+
+Kade almost laughed.
+
+There was that word again.
+
+Control.
+
+He looked at the slide showing Northline’s exterior behind his face.
+
+“Did you ask Northline before using that photo?”
+
+The representative checked her tablet.
+
+“It is licensed news imagery.”
+
+“That was not what I asked.”
+
+She went quiet.
+
+Kade closed the presentation.
+
 “I need time.”
 
 “Of course.”
@@ -339,6 +459,32 @@ Taren shrugged.
 Another surprisingly mature answer.
 
 Kade was beginning to find those suspicious.
+
+They crossed the arena plaza.
+
+A group of younger visitors recognized Kade and asked for a picture.
+
+He nearly refused automatically.
+
+Then one girl said, “I’m from a continuation school.”
+
+Kade stopped.
+
+“Where?”
+
+“Phoenix.”
+
+She looked about fifteen and deeply embarrassed to have admitted it.
+
+Kade took the picture.
+
+Then another with the rest of the group.
+
+After they left, Taren said nothing.
+
+That was the correct thing.
+
+Kade appreciated it.
 
 ---
 
@@ -410,7 +556,21 @@ Elena’s eyebrows rose.
 
 Kade laughed.
 
-Then Elena leaned closer to the camera.
+Then he told her about the licensed photo.
+
+Elena’s expression changed.
+
+“They used the school without asking?”
+
+“Legally.”
+
+“That was not my question.”
+
+Kade smiled.
+
+“Family resemblance.”
+
+Elena leaned closer to the camera.
 
 “Remember something.”
 
@@ -542,4 +702,18 @@ They looked at him because there was an empty chair.
 
 Kade picked up his tray and crossed the room.
 
-Famous or not, he knew where he wanted to sit.
+He passed the message wall on the way.
+
+Someone had changed the old insult.
+
+**ZERO NEEDS TRAINING WHEELS** had been crossed out.
+
+Underneath, somebody had written:
+
+**APPARENTLY TRAINING WORKED**
+
+Kade laughed.
+
+Then sat down with his House.
+
+Famous or not, he knew where he wanted to be.
