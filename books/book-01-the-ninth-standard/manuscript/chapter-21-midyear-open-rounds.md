@@ -36,11 +36,187 @@ Mara looked over his shoulder.
 
 “Comforting.”
 
+Midyear Week had taken over the island.
+
+Classes were reduced to morning seminars. House colors covered every bridge. Temporary arena boards stood in plazas that normally displayed research announcements. Students carried bracket projections instead of textbooks, though some faculty had responded by putting exam reminders directly onto the bracket feeds.
+
+House Meridian had converted its common room into a command center nobody had officially requested.
+
+Three screens tracked active matches.
+
+One tracked House performance.
+
+One showed a live bracket so large Eli had created filters, subfilters, and an alarming feature called *likely emotional devastation*.
+
+Sera made him rename it.
+
+He chose *upset probability*.
+
+“Less honest,” he said.
+
+“More normal,” Sera replied.
+
+Kade’s first match was scheduled at 09:20.
+
+Mara’s at 08:40.
+
+Julian’s at 08:00 because rank one received the earliest seeded slot and, according to Julian, “somebody believes excellence is a breakfast activity.”
+
+Meridian watched Julian’s first round from the dining hall.
+
+It lasted fifty-one seconds.
+
+His opponent actually scored first.
+
+The whole room reacted.
+
+Julian did not.
+
+He reset, changed the engagement distance, and won the next three points without giving up another.
+
+Kade leaned toward the screen.
+
+Eli said, “You’re studying him at breakfast.”
+
+“I am eating.”
+
+“You stopped chewing.”
+
+Kade started chewing again.
+
+Sera looked at him.
+
+“Convincing.”
+
+Mara’s first match lasted two minutes and fourteen seconds.
+
+She won 4–0.
+
+She returned to the table carrying her own breakfast tray as if nothing had happened.
+
+Kade looked at her.
+
+“That seemed rude.”
+
+“To whom?”
+
+“Your opponent.”
+
+“She scored no points.”
+
+“That is what I meant.”
+
+Mara sat.
+
+“Your first opponent likes outside entries and overuses his rear hand when pressured.”
+
+Kade stared.
+
+“You finished your own match twelve minutes ago.”
+
+“Yes.”
+
+“And watched mine?”
+
+“I watched his.”
+
+“Different kind of concerning.”
+
+Taren slid into the chair beside her.
+
+“I have notes too.”
+
+Kade looked at him.
+
+“Of course you do.”
+
+Taren pushed over a short profile.
+
+Most of it matched public footage.
+
+One line did not.
+
+**Left ankle taped yesterday after conditioning. Not injured; probably stiffness.**
+
+Kade looked up.
+
+“How do you know that?”
+
+“People train in public.”
+
+“That is not the same as me seeing it.”
+
+“I see more people.”
+
+Plausible.
+
+Kade marked the note mentally and ignored the ankle anyway.
+
+If the opponent was injured, he did not want the win that way.
+
+If he was not, targeting it would be pointless.
+
+At 09:02, Kade’s phone buzzed.
+
+Darius.
+
+**ROOM FOUR HAS YOU ON THE BIG SCREEN**
+
+A photograph followed.
+
+Northline’s classroom display showed the Asterion bracket while Ms. Alvarez stood beneath it with both arms folded.
+
+Someone had written **DO HOMEWORK DURING ADS** on the whiteboard.
+
+Kade smiled.
+
+Another message arrived from Elena.
+
+**I am working. I am NOT watching.**
+
+Then, thirty seconds later:
+
+**Why is your warmup shirt inside out?**
+
+Kade looked down.
+
+It was.
+
+He turned it around before anyone else noticed.
+
+Eli noticed.
+
+He said nothing.
+
+That was friendship.
+
+---
+
 The first opponent was Rank #1,611.
 
 Three months earlier, that number would have felt impossible.
 
 Now it felt dangerous in a useful way.
+
+His name was Dev Armitage, House Kepler, confirmed Redirection with a compact defensive style and enough tournament experience that his pre-match expression contained no interest in Kade’s story.
+
+Kade appreciated that.
+
+They met at center before the barrier sealed.
+
+Armitage said, “No floor tricks.”
+
+Kade sighed.
+
+“Apparently I need a shirt.”
+
+“What would it say?”
+
+“IT WAS TWICE.”
+
+Armitage laughed.
+
+Then the horn sounded.
 
 The match lasted four minutes.
 
@@ -48,15 +224,49 @@ Kade won without touching Boundary architecture.
 
 That mattered more than the projected rank gain.
 
-He won because he kept his stance under pressure, because he did not chase a feint, and because he recognized that his opponent always returned to center after a failed outside strike.
+Armitage took the first point by forcing Kade to retreat straight instead of angling out.
 
-Boring things.
+Kade took the second by refusing the same pressure.
 
-Excellent things.
+Third exchange: no score.
 
-When the buzzer sounded, Kade caught himself smiling.
+Fourth: Armitage nearly caught him with a field-assisted turn Kade had only seen twice on film.
 
-Instructor Hale met him at the exit gate.
+Fifth: Kade recognized that after every failed outside strike, Armitage returned to center through the same narrow route.
+
+He did not exploit it immediately.
+
+Julian’s training had finally become expensive enough to use.
+
+Kade waited.
+
+The pattern repeated.
+
+Then again.
+
+On the final exchange, Kade gave Armitage the outside lane, let him miss, and occupied the return route before Armitage arrived.
+
+Boundary point.
+
+Buzzer.
+
+Kade caught himself smiling.
+
+Not because he had tricked someone.
+
+Because he had planned far enough ahead to know exactly why it worked.
+
+Armitage shook his hand.
+
+“You waited three exchanges for that.”
+
+“Four.”
+
+“Worse.”
+
+“People keep telling me.”
+
+Instructor Hale met Kade at the exit gate.
 
 “No symptoms?”
 
@@ -82,11 +292,117 @@ Hale frowned. “What?”
 
 Kade grinned.
 
-The second round paired him with Rank #1,204, a short, compact fighter named Luis Ortez who treated Kade’s reach advantage as a personal challenge.
+The medical technician scanned his pupils anyway.
 
-Kade lost the first exchange badly.
+Kade held still.
+
+Three months ago he would have complained about being singled out.
+
+Now he understood that unusual consequences justified unusual monitoring.
+
+He still disliked it.
+
+Understanding did not require enthusiasm.
+
+---
+
+Tournament days contained far more waiting than broadcasts admitted.
+
+Kade had ninety minutes before Round Two.
+
+He showered, ate half a meal, watched Priya win a brutal three-point match, and sat with Nessa while she recovered from a Perception overload that had ended her own bracket early.
+
+She wore dark glasses in the recovery hall.
+
+“Too much?” Kade asked.
+
+“Too many fields at once.”
+
+“You okay?”
+
+“Will be.”
+
+Nessa tilted her head toward the arena noise beyond the wall.
+
+“People think Perception means seeing more.”
+
+“It doesn’t?”
+
+“It means being unable to stop seeing more when you need less.”
+
+Kade thought about Boundary architecture.
+
+The arena becoming one system.
+
+The cold line.
+
+“Sounds familiar.”
+
+Nessa looked at him.
+
+He did not explain.
+
+She did not ask.
+
+At eleven, Eli lost his first engineering-control bracket event—not combat, but a paired systems tournament running in parallel with the Open.
+
+He returned to Meridian furious.
+
+“Their stabilizer is worse.”
+
+Sera handed him food.
+
+“They won.”
+
+“Because the rubric rewards peak control instead of recovery efficiency.”
+
+“They won.”
+
+“The rubric is wrong.”
+
+Kade looked at him.
+
+“Welcome to my childhood.”
+
+Eli stared.
+
+Then laughed despite himself.
+
+Ordinary disappointment continued alongside Kade’s tournament.
+
+That mattered.
+
+Not everything in Meridian existed to support his bracket.
+
+---
+
+The second round paired him with Rank #1,204, Luis Ortez, a short, compact fighter who treated Kade’s reach advantage as a personal challenge.
+
+Ortez shook Kade’s hand before the match.
+
+“You lean when you think.”
+
+Kade frowned.
+
+“What?”
+
+“Left shoulder. Tiny bit.”
+
+“That is rude information to share before a fight.”
+
+Ortez smiled.
+
+The barrier sealed.
+
+Kade spent the first exchange thinking about his shoulder.
+
+That was the trap.
 
 Ortez entered under his guard and drove him halfway to the boundary before Kade understood the problem.
+
+Point Ortez.
+
+Kade reset.
 
 Julian’s voice returned from months of private sparring.
 
@@ -104,23 +420,105 @@ Fourth: Ortez.
 
 The deciding exchange came with both of them breathing hard and the crowd mostly watching another arena.
 
-Kade won because he planned the counter before Ortez committed.
+Kade planned the counter before Ortez committed.
 
-Not improvisation.
+Same offered lane.
 
-A plan.
+Different endpoint.
 
-Julian, visible two sections away, saw it and nodded once.
+Ortez entered.
+
+Kade pivoted outside rather than retreating.
+
+Point.
+
+Match.
+
+Julian, visible two sections away waiting for his own next bout, saw it and nodded once.
 
 Kade pretended not to notice.
 
 He noticed.
 
-Round three was Rank #883.
+Ortez shook his head as they left.
 
-An upper-ladder first-year named Jae Min who had cleaner field control than anyone Kade had beaten before.
+“You fixed the shoulder thing.”
 
-Halfway through the match, Min redirected a shoulder check through Kade’s stance and the arena changed at the edge of Kade’s perception.
+“No. I stopped thinking about you telling me.”
+
+“Also useful.”
+
+---
+
+Lunch happened on the floor of a Meridian prep room because every table was occupied by brackets, equipment, or people asleep between rounds.
+
+Kade sat against the wall with Mara, Sera, Priya, Taren, and Eli.
+
+For ten minutes nobody discussed Kade’s next fight.
+
+Priya complained about an instructor.
+
+Eli complained about the engineering rubric.
+
+Sera had received preliminary approval for a Disaster Response observation rotation and was pretending this did not excite her.
+
+“It is one afternoon,” she said.
+
+“You have read the confirmation six times,” Mara replied.
+
+“Administrative caution.”
+
+Kade smiled.
+
+Taren’s wrist display lit twice.
+
+He ignored both messages.
+
+On the third, he stood.
+
+“Need air.”
+
+Kade watched him leave through a door clearly leading deeper into the building rather than outside.
+
+“Interesting air,” Kade said.
+
+Mara looked toward the door.
+
+Then at Kade.
+
+Neither followed.
+
+Not yet.
+
+Taren returned nine minutes later carrying coffee for everyone.
+
+Nobody had asked him for coffee.
+
+Useful.
+
+And increasingly strange.
+
+---
+
+Round Three was Rank #883.
+
+Jae Min had cleaner field control than anyone Kade had beaten before.
+
+He was also patient.
+
+Patient opponents remained Kade’s least favorite kind.
+
+Min did not commit until Kade gave him a reason.
+
+The first two exchanges ended without points.
+
+On the third, Kade got impatient.
+
+Min redirected a shoulder check through Kade’s stance and put him on the floor.
+
+Point.
+
+As Kade rose, the arena changed at the edge of his perception.
 
 Floor.
 
@@ -146,27 +544,87 @@ The possibility of force resolving somewhere neither fighter intended.
 
 He let the sensation go.
 
-Min scored.
+Min scored again while Kade released it.
 
-Kade heard a few disappointed reactions in the crowd.
+A few spectators groaned.
 
-That irritated him.
+Someone shouted, “Use it!”
+
+Kade heard the words clearly.
+
+Anger flashed.
 
 Not because they wanted him to win.
 
 Because they wanted the strange thing.
 
-So he won the ordinary way.
+He had become entertainment partly because people hoped he would risk himself in an interesting way.
 
-It took six minutes, two lost points, a painful sweep, and one correction Mara had taught him so many times it now appeared in his dreams.
+Fine.
+
+He would disappoint them.
+
+Kade reset.
+
+Min’s field control was still better.
+
+His timing was still cleaner.
+
+Kade could not beat those facts by wanting harder.
+
+So he watched the reset.
+
+Min’s left heel touched first after every high-output redirection.
+
+Mara had drilled Kade on exactly that kind of recovery imbalance.
+
+He attacked the timing, not the leg.
+
+Third point: Kade.
+
+Fourth: draw.
+
+Fifth: Min.
+
+Kade went down 3–1.
+
+Then he stopped trying to win the current exchange.
+
+He started building the next two.
+
+A false outside pressure.
+
+A deliberately late retreat.
+
+Min committed more field to the reset.
+
+Kade took the next point.
+
+Then another.
+
+Final exchange.
 
 Rear foot late.
 
 Center stable.
 
-Kade took the final exchange by timing Min’s reset.
+Min reset exactly where Kade had spent three exchanges teaching him to reset.
 
-When he left the arena, Park checked his pupils anyway.
+Kade occupied the lane.
+
+Point.
+
+Match.
+
+He stood in the arena listening to applause that sounded different now.
+
+Some people were disappointed there had been no anomaly.
+
+Most were not.
+
+That helped.
+
+When he left, Park checked his pupils.
 
 “Any symptoms?”
 
@@ -178,23 +636,29 @@ Her gaze sharpened.
 
 “Didn’t use it.”
 
+“Why?”
+
+Kade looked through the barrier at the floor.
+
+“Because I was losing a tournament, not saving anyone.”
+
 Park nodded.
 
 No praise.
 
 That made the approval more meaningful.
 
+---
+
 By the fourth round, people were coming specifically to watch him.
 
-Not because he was favored.
-
-Because he was unpredictable.
+The bracket boards highlighted his lane. Student media had placed a camera drone outside the prep gate. His live projection had moved below five hundred.
 
 Kade preferred being underestimated to being observed.
 
 Asterion had removed that option.
 
-The next opponent, Rank #503, was named Hana Bisset.
+The next opponent, Rank #503, was Hana Bisset.
 
 She was better than him.
 
@@ -216,23 +680,43 @@ Not always.
 
 Enough.
 
-Kade built a plan around a probability instead of certainty.
+Kade did not trust the observation immediately.
 
-It nearly failed.
+That was another thing Julian had taught him.
 
-He took a point he did not expect.
+One event was a fact.
 
-Lost the next.
+Two might be coincidence.
 
-Survived a boundary push by centimeters.
+Three could become a plan.
 
-On the final exchange, Bisset countered inside.
+Bisset did it again.
 
-Kade gave her the exit.
+Then not.
 
-Left.
+Then again.
+
+Kade built the possibility into his next two exchanges without committing to it.
+
+She scored.
+
+He scored.
+
+She almost pushed him out.
+
+Kade’s lungs burned.
+
+The timer dropped below thirty seconds.
+
+Score tied.
+
+Bisset entered inside.
+
+Kade gave her exactly the counter she wanted.
 
 She took it.
+
+Exited left.
 
 He was already there.
 
@@ -338,9 +822,39 @@ Kade raised an eyebrow.
 
 “Do not make it unpleasant.”
 
-He smiled.
+His phone buzzed.
 
-The bracket board refreshed.
+Elena.
+
+**FOUR WINS. I AM STILL NOT WATCHING.**
+
+Kade typed:
+
+**Your knowledge is suspiciously current.**
+
+She responded:
+
+**NURSES HAVE SOURCES.**
+
+Then Darius:
+
+**ALVAREZ SAYS YOUR FEET LOOK LESS BAD**
+
+Kade showed Mara.
+
+She read it.
+
+“Accurate.”
+
+“That is not the point.”
+
+“It should be.”
+
+He laughed.
+
+For ten minutes, the tournament felt almost fun.
+
+Then the bracket board refreshed.
 
 Eli made a noise.
 
@@ -352,13 +866,11 @@ The next pairing filled the display.
 
 **QUARTERFINAL — VEY, MARA (#7) vs. MERCER, KADE (LIVE PROJECTION: #286)**
 
-Kade stared.
+Nobody spoke.
 
-Eli stared harder.
+Then Sera said, “Well.”
 
-Sera said, “Well.”
-
-Taren appeared behind them with two cups of coffee and no obvious reason to know exactly where they were.
+Taren appeared behind them holding two cups of coffee and no obvious reason to know exactly where they were.
 
 He read the board.
 
@@ -376,7 +888,19 @@ She turned.
 
 Their eyes met.
 
-And Mara Vey smiled.
+For months, Kade had trained beside her.
+
+Been corrected by her.
+
+Argued physics with her.
+
+Trusted her calls in the House Trial.
+
+Watched her trust his.
+
+Now the bracket had reduced all of that to two names on opposite sides of a line.
+
+Mara Vey smiled.
 
 Not politely.
 
@@ -384,6 +908,42 @@ Not accidentally.
 
 Like a person who had finally been given a problem she had wanted for months.
 
-Kade sighed.
+Kade felt his own smile answer before he could stop it.
 
-“Yes,” he said. “This is probably going to be terrible.”
+Eli looked between them.
+
+“This is profoundly uncomfortable.”
+
+Sera said, “For you?”
+
+“Yes.”
+
+“Good.”
+
+Kade picked up his towel.
+
+The tournament was no longer about how high he could climb.
+
+For the next match, the ladder had become personal.
+
+He looked at Mara.
+
+“Try not to embarrass yourself.”
+
+She raised one eyebrow.
+
+“Mercer.”
+
+“Yes?”
+
+“You are ranked two hundred eighty-six because the system has not finished correcting itself.”
+
+“That sounded threatening.”
+
+“It was informational.”
+
+Kade laughed.
+
+This was probably going to be terrible.
+
+He could not wait.
