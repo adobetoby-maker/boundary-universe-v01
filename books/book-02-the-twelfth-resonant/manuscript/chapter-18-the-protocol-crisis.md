@@ -180,17 +180,9 @@ Fair.
 
 Then the next speaker ruined it.
 
-Colonel Marcus Vale represented the Continuity Directorate’s strategic coordination office.
+Colonel Marcus Venn represented the Continuity Directorate’s strategic coordination office.
 
-Sera, seated two rows behind Kade, muttered, “No relation.”
-
-Kade almost turned.
-
-She had caught the surname problem before he did.
-
-Good.
-
-Vale said, “The question is not whether cooperative shared state can be safe. It is whether strategic systems can tolerate self-selecting command structures.”
+Venn said, “The question is not whether cooperative shared state can be safe. It is whether strategic systems can tolerate self-selecting command structures.”
 
 There.
 
@@ -216,13 +208,13 @@ Kamau smiled without warmth.
 
 Kade looked at Mara.
 
-She did not look away from Vale.
+She did not look away from Venn.
 
 Kamau continued.
 
 “A fire captain has legal authority. A structural engineer may temporarily own a collapse-zone decision because of expertise. A resident may provide route information that changes evacuation because she knows the accessible entrance. Legitimacy does not require one permanent hierarchy to know every problem in advance.”
 
-Vale said, “But those roles are recognized.”
+Venn said, “But those roles are recognized.”
 
 Takahara spoke from the academy row.
 
@@ -234,7 +226,7 @@ Small.
 
 Important.
 
-Vale looked toward her.
+Venn looked toward her.
 
 “For safety.”
 
@@ -470,13 +462,13 @@ This was where the fight began.
 
 Petrov joined the definitions room remotely.
 
-So did Colonel Vale.
+So did Colonel Venn.
 
 Mara displayed the revision history.
 
 “Why was `consenting operator` replaced with `authorized operator`?”
 
-Vale answered first.
+Venn answered first.
 
 “Because consent is insufficient for regulated operations.”
 
@@ -500,7 +492,7 @@ Petrov frowned at the document.
 
 The room changed.
 
-Vale’s expression remained neutral.
+Venn’s expression remained neutral.
 
 “Strategic legal review did.”
 
@@ -510,7 +502,7 @@ Vale’s expression remained neutral.
 
 Mara said, “Which states?”
 
-Vale did not answer immediately.
+Venn did not answer immediately.
 
 There.
 
@@ -522,13 +514,13 @@ Mara did not.
 
 She waited.
 
-Vale finally listed three governments and the Directorate legal office.
+Venn finally listed three governments and the Directorate legal office.
 
 Petrov made a note.
 
 “I want the prior language restored.”
 
-Vale said, “Then regulated systems may appear to permit any willing participant.”
+Venn said, “Then regulated systems may appear to permit any willing participant.”
 
 Takahara replied, “No. Restore consent and add authorization separately where the real-world operation requires it.”
 
@@ -550,7 +542,7 @@ Kade read it.
 
 “Better.”
 
-Vale said, “Operationally naive.”
+Venn said, “Operationally naive.”
 
 Julian spoke from the doorway.
 
@@ -564,7 +556,7 @@ Julian walked in.
 
 “Vahana already separates who may participate in state awareness from who owns a specific control function. Kisiwa does the same with local response authority. We are not inventing a distinction. Your draft collapses it.”
 
-Vale looked at him.
+Venn looked at him.
 
 “Rank One is now a governance theorist?”
 
@@ -586,7 +578,7 @@ Public.
 
 Good.
 
-Vale said nothing.
+Venn said nothing.
 
 ---
 
@@ -716,7 +708,7 @@ Sen continued.
 
 “An interim rule that converts participant consent into state permission is not.”
 
-Colonel Vale said, “Director Sen, Asterion’s own suppression history suggests caution.”
+Colonel Venn said, “Director Sen, Asterion’s own suppression history suggests caution.”
 
 The room sharpened.
 
@@ -740,7 +732,7 @@ Not enough.
 
 But not evasion either.
 
-Vale said, “You concealed Mercer for months.”
+Venn said, “You concealed Mercer for months.”
 
 “I restricted unsafe replication while concealing classified history. Those were not the same act, though I allowed them to reinforce each other.”
 
@@ -1106,19 +1098,15 @@ She read.
 
 Then looked at him.
 
-“That is Chapter Twenty material.”
+“That is later.”
 
-Kade stared.
+“How much later?”
 
-“What?”
-
-Mara blinked.
-
-“Nothing. I am tired.”
+“When you have slept enough not to turn one sentence into twelve theories.”
 
 Kade narrowed his eyes.
 
-“That was very strange.”
+“That is unfairly specific.”
 
 “Yes.”
 
