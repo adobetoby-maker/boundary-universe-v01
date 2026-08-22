@@ -30,9 +30,9 @@
               "engine": "Google Cloud TTS",
               "voice": "en-US-Studio-Q",
               "file": "audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.studio-q.mp3",
-              "bytes": 14966061,
-              "durationSec": 1870.73,
-              "sha256": "4eb565d7bd8ea9211c11b31d7228cee61db1687c074599478587a7c4ff3aa307",
+              "bytes": 14854701,
+              "durationSec": 1856.81,
+              "sha256": "6d9c9eb577c20ffe3605d3051ef23dd83b7b6d616ed93633f5bc48736c8f457d",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.studio-q.mp3"
             }
           ]
@@ -47,9 +47,9 @@
               "engine": "Google Cloud TTS",
               "voice": "en-US-Studio-Q",
               "file": "audio/book-01-the-ninth-standard/ch02-zero-protocol.studio-q.mp3",
-              "bytes": 10881645,
-              "durationSec": 1360.18,
-              "sha256": "8c4731902179acae27d657b57f781ffada6832bf800e1f39afc9939a40a768a7",
+              "bytes": 13738221,
+              "durationSec": 1717.25,
+              "sha256": "c21e37bbffcdead3b1a0172d3d3de23b5a371afcae97acefe10547f514c720d3",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch02-zero-protocol.studio-q.mp3"
             }
           ]

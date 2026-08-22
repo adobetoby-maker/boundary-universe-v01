@@ -81,25 +81,42 @@ DIALOGUE_OPEN = ('"', "“", "'", "‘")
 
 
 def classify(line: str):
-    """Return (ssml_for_line, break_ms)."""
+    """Return (ssml_for_line, break_ms).
+
+    Calibrated against the hand-marked Chapter 1, whose 697 breaks average
+    580ms. An earlier version keyed pause length on line length and got it
+    exactly backwards: a short line is usually an EMPHASIS beat and wants MORE
+    air, not less. "Darius did not smile." was given 700ms by hand and 400ms by
+    the generator, and doing that 498 times made the read both fast and
+    monotonous. Variation is the rhythm; a uniform value reads mechanical even
+    at the right average.
+    """
     stripped = line.strip()
     esc = html.escape(stripped, quote=False)
 
-    # Screen text: a line in caps with no lowercase. Read slower, with air
-    # either side, so the listener hears "displayed" without a robot voice.
     letters = [c for c in stripped if c.isalpha()]
     if letters and all(c.isupper() for c in letters) and len(stripped) > 2:
-        return f'<break time="450ms"/><prosody rate="88%">{esc}</prosody>', 700
+        return f'<break time="450ms"/><prosody rate="88%">{esc}</prosody>', 800
+
+    words = len(stripped.split())
+    sentences = len(re.findall(r"[.!?][\"\u201d]?(\s|$)", stripped))
+    question = stripped.rstrip('"\u201d').endswith("?")
 
     if stripped.startswith(DIALOGUE_OPEN):
-        return esc, 350
+        # Exchanges stay quick; a question still gets a touch more room.
+        gap = 450 if question else 400
+        if words > 25:
+            gap = 550
+        return esc, gap
 
-    # A multi-sentence paragraph is a thought, not a beat.
-    sentences = len(re.findall(r"[.!?][\"”]?(\s|$)", stripped))
     if sentences >= 2 or len(stripped) > 180:
-        return esc, 650
+        return esc, 750                      # a thought, not a beat
 
-    return esc, 400
+    if words <= 4:
+        return esc, 650                      # emphasis beat — the landing
+    if words <= 12:
+        return esc, 550
+    return esc, 600
 
 
 def ssmlize(markdown: str) -> tuple[str, str]:
