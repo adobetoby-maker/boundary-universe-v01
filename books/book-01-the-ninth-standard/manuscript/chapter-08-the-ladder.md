@@ -336,6 +336,8 @@ The model was crude.
 
 Useful anyway.
 
+---
+
 Kade’s first official challenge was Rank 10,401.
 
 The student’s name was Mae Larson, a compact fighter who knew exactly what Kade’s public footage showed and exactly what it did not.
@@ -416,53 +418,195 @@ That night, Eli added three columns.
 
 “I am respecting their diversity.”
 
-The next challenge was different.
+---
 
-Rank 10,177, Oren Mills, was a Storage prospect with enough lower-body field control to make simple grappling unpleasant. Oren did not rush. He waited.
+The next challenge was Rank 10,177, Oren Mills, a Storage prospect with enough lower-body field control to make simple grappling unpleasant.
+
+Oren did not rush.
+
+He waited.
 
 Kade hated waiting opponents.
 
 They denied him obvious information.
 
-For the first minute, neither scored.
+The arena was nearly empty compared with the Larson bout. Two other challenges ran behind transparent dividers, and most of Meridian was in class. Eli sat alone in the observation row with his spreadsheet open and the solemn expression of someone about to learn whether a theory survived contact with another person’s elbows.
 
-The crowd grew restless.
+The signal sounded.
 
-Kade heard someone yell, “Do something.”
+Oren did nothing.
 
-He almost agreed.
+Kade circled.
 
-Then he realized Oren was doing something.
+Oren mirrored him.
 
-Every time Kade stepped forward, Oren gave him exactly the distance he wanted.
+Thirty seconds passed.
 
-Not retreating.
+Someone in the upper seats yelled, “Do something.”
 
-Collecting.
+Kade almost agreed.
 
-Kade stopped.
+He stepped in.
 
-Oren smiled.
+Oren gave him exactly the distance he wanted.
+
+Kade entered.
+
+The floor seemed to grab Oren’s stance.
+
+Storage.
+
+Not holding Kade.
+
+Holding the movement Oren had refused to spend.
+
+Oren released it all at once.
+
+Kade barely got his forearm across his chest before the impact drove him backward.
+
+Point Oren.
+
+Kade reset.
+
+Eli made a small chopping gesture from the seats.
+
+Kade ignored him.
+
+Second exchange.
+
+Same patience.
+
+Same offered distance.
+
+This time Kade started in, then stopped before Oren could load the response.
+
+Oren’s expression changed.
+
+Tiny.
+
+Annoyed.
 
 There.
 
-The smile told him more than the stance.
+Kade had been watching bodies.
 
-Kade changed rhythm, forced Oren to release stored movement early, and took the point before the field could rebuild.
+He needed to watch *timing*.
 
-He won on the fourth exchange.
+Third exchange.
 
-His rank moved again.
+Kade stepped forward twice without committing.
 
-Not dramatically.
+Oren stored both reactions.
+
+The field trace around his feet brightened.
+
+Kade retreated.
+
+Oren followed for the first time.
+
+That was what Kade wanted.
+
+He changed rhythm abruptly.
+
+Fast entry.
+
+Oren released early.
+
+Kade was not where the release expected him to be.
+
+He cut to the outside and tapped Oren’s shoulder before the stored movement could rebuild.
+
+One-one.
+
+Oren smiled.
+
+“Okay.”
+
+Kade smiled back.
+
+“Useful word.”
+
+The fourth exchange lasted forty-three seconds.
+
+Oren changed his storage pattern.
+
+Kade changed his cadence.
+
+Neither got the clean look they wanted.
+
+Then Kade remembered Larson.
+
+Stop trying to catch the opponent.
+
+Deny the route they preferred.
+
+Oren needed space to collect before he could release.
+
+Kade stopped giving it to him.
+
+Not by charging.
+
+By standing where Oren wanted to reset.
+
+For the first time, Oren had to move around Kade instead of arranging Kade around himself.
+
+His feet crossed.
+
+One step.
+
+Small mistake.
 
 Enough.
+
+Kade took the boundary point.
+
+The buzzer sounded.
+
+Kade won.
+
+Not because Oren’s ability had failed.
+
+Because something he had learned against Mae had survived into a different problem.
+
+That felt better than the ranking update.
+
+Almost.
+
+**KADE MERCER — 10,177**
+
+Eli met him at the gate already typing.
+
+“What?” Kade asked.
+
+“New column.”
+
+“For?”
+
+“Lesson transfer.”
+
+“That sounds fake.”
+
+“Everything sounds fake before somebody puts it in a spreadsheet.”
+
+Kade looked back at Oren, who was already replaying the final exchange with his coach.
+
+“Keep it.”
+
+Eli stopped typing.
+
+“You voluntarily approved a column.”
+
+“Do not make this historic.”
+
+“Too late.”
+
+---
 
 The model gained a fatigue column.
 
 Then recovery time.
 
-Then “opponent changes behavior after first score.”
+Then **OPPONENT CHANGES AFTER FIRST SCORE**.
 
 By the end of the week, Eli had stopped pretending the spreadsheet was temporary.
 
@@ -567,6 +711,8 @@ A grin appeared.
 “I can still fire you.”
 
 “You remain unable to pay me.”
+
+---
 
 9,982 came two days later.
 
@@ -688,9 +834,419 @@ And slightly too good.
 
 Kade filed that away.
 
-The new challenge-selection column said not to take 9,112 either.
+The new challenge-selection column also said not to take 9,112.
 
-Kade did not.
+Kade stared at the open challenge for twelve minutes.
+
+That was nine minutes longer than it deserved.
+
+The student was Devon Rusk.
+
+Rank 9,112.
+
+Amplification profile.
+
+Three consecutive losses.
+
+Twenty-four thousand followers on Asterion’s internal sports feed.
+
+Challenge description:
+
+**ZERO MERCER. LET’S SEE THE CLIMB.**
+
+Eli read it over his shoulder.
+
+“No.”
+
+“I did not ask.”
+
+“You were thinking loudly.”
+
+Kade scrolled through Rusk’s recent fights.
+
+He was strong.
+
+Messy when frustrated.
+
+Exactly the kind of opponent Kade had been learning to exploit.
+
+And everybody would watch.
+
+That was the problem.
+
+Also the temptation.
+
+“If I beat him—”
+
+Eli pointed at the screen.
+
+“Challenge-quality score: terrible.”
+
+“That is your score.”
+
+“It is correct.”
+
+“Taren says he wants publicity.”
+
+“Yes.”
+
+“That means he’ll overcommit.”
+
+“It also means he chose you because the match is useful to *him*.”
+
+Kade looked at Eli.
+
+The sentence irritated him because it sounded like something Sera would say.
+
+His tablet chimed.
+
+Rusk had reposted the challenge.
+
+**Still waiting, Zero.**
+
+Kade accepted.
+
+Eli closed his eyes.
+
+“Why do I build models?”
+
+“To make my mistakes measurable.”
+
+“That was not the intended answer.”
+
+---
+
+The arena was full.
+
+Not stadium full.
+
+Too full for Rank 9,112 versus Rank 9,433.
+
+Students stood along the rear rail because the seats had filled before warmups ended.
+
+Kade saw Taren three rows up.
+
+Taren looked at him.
+
+Then slowly covered his face with both hands.
+
+Sera sat beside him and did not bother hiding her irritation.
+
+Mara stood at the aisle.
+
+She gave Kade exactly one look.
+
+Not angry.
+
+Worse.
+
+Disappointed in his decision-making.
+
+Kade almost withdrew.
+
+Then Rusk entered to applause.
+
+Too late.
+
+Or maybe not.
+
+The thought mattered.
+
+Kade could still withdraw.
+
+He did not.
+
+That was the choice he would have to own.
+
+Rusk took his starting mark.
+
+“Thought you’d duck me.”
+
+Kade looked at the audience.
+
+“I was given excellent advice.”
+
+“And ignored it?”
+
+“Apparently.”
+
+Rusk grinned.
+
+The signal sounded.
+
+Rusk came forward hard.
+
+Amplification was not subtle.
+
+Every planted step seemed to arrive with too much consequence. His first strike hit Kade’s guard and drove both forearms into Kade’s chest.
+
+Kade gave ground.
+
+Rusk followed.
+
+Exactly as predicted.
+
+Messy when frustrated.
+
+Except he was not frustrated yet.
+
+Kade had confused a pattern with a starting condition.
+
+Rusk cut off the retreat cleanly and scored.
+
+One-zero.
+
+The crowd loved it.
+
+Kade reset.
+
+Second exchange.
+
+He tried to bait the right-side overcommit Taren’s notes suggested.
+
+Rusk did not take it.
+
+Instead he slowed.
+
+Kade realized, one beat too late, that Rusk had watched his Knox rematch.
+
+Of course he had.
+
+The challenge had never been casual.
+
+Rusk knew the correction.
+
+He pressured Kade toward the exact retreat decision Mara had helped rebuild, then changed direction before Kade committed.
+
+Kade recovered.
+
+Barely.
+
+No score.
+
+Third exchange.
+
+Kade stopped trying to exploit Rusk’s old footage.
+
+Good.
+
+Too late.
+
+Rusk attacked the body, forced Kade high, then amplified through the contact just enough to drive him over the boundary.
+
+Two-zero.
+
+Kade’s ribs hurt.
+
+His lungs worked.
+
+No cold line.
+
+No anomaly.
+
+Just a better-prepared opponent.
+
+Rusk stepped back.
+
+“You’re better than the early clips.”
+
+Kade breathed.
+
+“You too.”
+
+“Mine weren’t early.”
+
+Fair.
+
+Kade almost laughed.
+
+The fourth exchange was his best.
+
+He gave up the idea of proving anything.
+
+Watched Rusk’s hips.
+
+Waited through the first false entry.
+
+Denied the reset lane.
+
+When Rusk finally overcommitted, Kade was there.
+
+Point.
+
+Two-one.
+
+Meridian’s section came alive.
+
+Kade heard Eli yell something unintelligible.
+
+For one dangerous second, the point felt like vindication.
+
+Then Kade saw Rusk smile.
+
+Not frustrated.
+
+Satisfied.
+
+The overcommit had been bait.
+
+Fifth exchange.
+
+Rusk gave Kade the same opening.
+
+Kade recognized it.
+
+He also wanted the equalizer.
+
+Those two facts collided.
+
+He entered anyway.
+
+Rusk rotated out, caught Kade’s shoulder, and used Kade’s own committed step to send him across the line.
+
+Three-one.
+
+Match.
+
+The arena erupted.
+
+Rusk lifted both hands.
+
+Not cruel.
+
+He had won the exact match he had asked for.
+
+Kade stood inside the boundary and understood something unpleasant.
+
+Rusk had not tricked him into accepting.
+
+Taren had warned him.
+
+Eli had shown him the numbers.
+
+Mara had taught him to fix the decision before the retreat.
+
+Kade had accepted because he wanted the public climb to keep moving.
+
+The loss belonged to him before the signal sounded.
+
+Rusk came over and held out a hand.
+
+Kade took it.
+
+“Good fight,” Rusk said.
+
+“You planned the publicity.”
+
+“Of course.”
+
+Kade laughed once.
+
+“At least you’re honest.”
+
+Rusk shrugged.
+
+“You accepted.”
+
+There it was.
+
+No villain.
+
+Just a choice.
+
+Afterward, Kade found Eli in the corridor.
+
+Eli held the tablet against his chest.
+
+Kade said, “Add a column.”
+
+Eli stared.
+
+“We already have challenge selection.”
+
+“Then change the name.”
+
+“To what?”
+
+Kade looked back at the arena doors.
+
+“Why do I want this fight?”
+
+Eli’s expression softened.
+
+“That is not very spreadsheet-friendly.”
+
+“Learn.”
+
+Eli smiled.
+
+“Cruel.”
+
+“Accurate.”
+
+Taren came down the corridor.
+
+“I told you not to take it.”
+
+“Yes.”
+
+“I would like this moment documented.”
+
+“No.”
+
+Sera arrived behind him.
+
+“I can document it.”
+
+“Everyone leave.”
+
+Mara came last.
+
+Kade looked at her.
+
+She waited.
+
+“I fixed the wrong decision,” he said.
+
+Mara’s eyes sharpened.
+
+“Which one?”
+
+“The one inside the fight.”
+
+A pause.
+
+Then she nodded.
+
+“Better.”
+
+That was all.
+
+It was enough.
+
+---
+
+The next open challenge arrived the following morning.
+
+Higher rank.
+
+Cleaner matchup.
+
+Kade wanted it.
+
+The model said rest.
+
+Kade declined.
+
+Nothing happened.
+
+No crowd.
+
+No applause.
+
+No rank movement.
+
+He went to class.
 
 That felt less exciting than winning.
 
