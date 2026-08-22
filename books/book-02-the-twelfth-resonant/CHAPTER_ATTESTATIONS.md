@@ -177,3 +177,35 @@ At the next morning's local-pair block, Kade is assigned `MERCER — MORI`; he m
 Aya tells Kade he should stop letting institutions call him `Nine` because they will build the wrong system around the name. Kade accepts, provisionally, that his supposed “higher Standard” may instead be a category error.
 
 **Advance gate:** PASSED. Chapter 6 may begin.
+
+---
+
+## Chapter 6 — Two Zeros
+**Architecture target / expected production count:** ~6,000 words
+**Status:** **ATTESTED — FOUR PASSES COMPLETE**
+
+### Pass checkpoints
+- Pass 1 — structural full draft: `4b49dae8a5a2feaf1e3b3638d350f7b566127d67`
+- Pass 2 — individual-axis baseline / density expansion: `45c1f826712874b72a0f266c4353364a5c104ec1`
+- Pass 3 — character/clue/topology review: `f7fb53407791a0354c8e1593534e0298b3e38707`
+- Pass 4 — audio-first topology clarity: `822dafd7764712d079760c4a33e6bce3530d98da`
+
+### Attestation
+- Kade and Aya achieve nearly identical stabilization outcomes through visibly different internal methods.
+- Aya coordinates edge relationships; Kade naturally produces a hub/star topology before deliberately encouraging cross-links.
+- Neither performs a full Consensus event; Kade explicitly stops when the familiar shared-state possibility opens during a non-Consensus test.
+- Aya's topology remains partly functional after her withdrawal, establishing a different failure shape without yet proving superior full-network architecture.
+- `Everyone leaves eventually` connects technical fault tolerance to Kade's emotional fear of people becoming unavailable.
+- Public `TWO ZEROS` framing creates a privacy/identity consequence; Aya directs her own response rather than Kade solving it for her.
+- Individual-output baseline keeps field ceiling and available energy constant: Kade scores weak alone, Aya ordinary, while both improve sharply when another self-directed operator enters the measured system.
+- Improvement comes from organization of existing control, not extra energy or hidden amplification.
+- Takahara explicitly warns that proving the old axis insufficient does not identify the final axis.
+- Kade and Aya attack each other's six-person control models; Kade's central model is crisis-efficient but hub-biased, Aya's web is withdrawal-resilient but suffers disagreement/latency problems.
+- `zero centers` remains only Kade's emerging hypothesis, not solved architecture.
+- No shared institutional origin is proven; no Quieter/Severance exposition.
+- Family-clean and audio-first standards held.
+
+### Chapter exit
+Both six-person models fail under critique. Kade begins privately considering whether the important number is not two Zeros but zero permanent centers.
+
+**Advance gate:** PASSED. Chapter 7 may begin.
