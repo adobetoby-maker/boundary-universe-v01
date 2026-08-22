@@ -134,11 +134,11 @@ Takahara said something to her in Japanese.
 
 Mori answered quietly, then stepped away toward another arriving delegation.
 
-Kade watched her go for exactly one second.
+Kade followed her with his eyes for exactly one second.
 
 Mara said, “Do not.”
 
-He looked at her.
+He turned back.
 
 “Do not what?”
 
@@ -156,9 +156,7 @@ Ren smiled.
 
 “You two will fit in badly.”
 
-Kade looked at him.
-
-“Good badly?”
+“Good badly?” Kade asked.
 
 “We will see.”
 
@@ -200,9 +198,9 @@ Julian watched the city.
 
 No one had recognized him since they left the airport.
 
-Kade noticed because Julian had noticed.
+Kade could tell Julian had noticed.
 
-“You okay?” Kade asked.
+“You okay?” he asked.
 
 Julian looked over.
 
@@ -254,7 +252,7 @@ Glass bridges.
 
 Rank displays large enough to read from across plazas.
 
-Kiyomizu occupied a terraced campus where new buildings wrapped around older stone courtyards, gardens, narrow training halls, and water channels that appeared decorative until Kade noticed field sensors embedded along them.
+Kiyomizu occupied a terraced campus where new buildings wrapped around older stone courtyards, gardens, narrow training halls, and water channels that appeared decorative until Kade spotted field sensors embedded along them.
 
 Nothing announced itself from far away.
 
@@ -356,7 +354,7 @@ Ren shrugged.
 
 “Long time. Before me.”
 
-Kade looked at the category again.
+Kade read the category again.
 
 Not Zero.
 
@@ -410,15 +408,13 @@ Kade put down his bag.
 
 Ren put his own away with the speed of someone who had lived in the room long enough to know everything’s place.
 
-Kade noticed a line of tape on the floor between the desks.
+A line of tape divided the floor between the desks.
 
-“Boundary?”
+“Boundary?” Kade asked.
 
 Ren followed his gaze.
 
 “Laundry.”
-
-Kade looked at him.
 
 Ren nodded toward the left side.
 
@@ -469,8 +465,6 @@ Ren sighed.
 Ren tapped the medical photograph.
 
 “Wall.”
-
-Kade looked at the picture again.
 
 “You split the pair.”
 
@@ -572,9 +566,7 @@ Penalty tone.
 
 They reset.
 
-Julian looked at Kade.
-
-“You overcorrected.”
+“You overcorrected,” Julian said.
 
 “You moved before I was ready.”
 
@@ -620,7 +612,7 @@ Kade returned attention to Julian.
 
 “What do they want?”
 
-Julian said, “Shared intent.”
+“Shared intent.”
 
 “That is vague.”
 
@@ -710,9 +702,7 @@ Takahara said from behind them, “Mercer. Stop helping the person who does not 
 
 Half the room laughed.
 
-Kade looked at Mara.
-
-She had the decency to look away before smiling.
+Mara had the decency to look away before smiling.
 
 Julian said quietly, “I like this school.”
 
@@ -723,8 +713,6 @@ Their fifth attempt cleared all six gates.
 Time: forty-eight seconds.
 
 Middle of the class.
-
-Kade stared at the result.
 
 Julian nodded once.
 
@@ -844,8 +832,6 @@ Sera and Akari finished fourth after recovering from an early mismatch without r
 
 Eli and Jun finished ninth but received the highest assumption-disclosure score because Eli narrated every mistake before it happened and Jun somehow made that useful.
 
-Kade looked at the results.
-
 Asterion had not failed.
 
 It had simply stopped being the reference standard.
@@ -962,8 +948,6 @@ Mei considered each word.
 
 Julian stopped.
 
-Kade watched him.
-
 Mei said it without accusation.
 
 That made it harder to dismiss.
@@ -971,8 +955,6 @@ That made it harder to dismiss.
 Julian looked around the dining hall where nobody knew he was Rank One unless he told them.
 
 “Yes,” he said. “Probably that too.”
-
-Kade stored the answer.
 
 At the next table, Sera was talking with Akari Nwosu about municipal response certification.
 
@@ -1017,8 +999,6 @@ Kade decided not to explain why the question had sounded different.
 “We train together.”
 
 “That was not my question.”
-
-Kade looked at him.
 
 Ren smiled.
 
@@ -1114,9 +1094,7 @@ They ended the call.
 
 Julian had gone quiet.
 
-Kade looked back.
-
-“What?”
+“What?” Kade asked.
 
 “Nothing.”
 
@@ -1216,9 +1194,7 @@ Kade scanned for his own name.
 
 **MERCER — MORI**
 
-He looked toward the far wall.
-
-The girl from the airport stood there already.
+The girl from the airport stood at the far wall already.
 
 Dark hair tied low.
 
@@ -1238,6 +1214,6 @@ She bowed slightly.
 
 Professor Takahara called the room to attention.
 
-Kade looked at his new partner.
+Kade faced his new partner.
 
 The day had found a new way to become interesting before breakfast.
