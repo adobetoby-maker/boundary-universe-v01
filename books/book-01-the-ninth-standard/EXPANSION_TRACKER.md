@@ -40,7 +40,7 @@
 | 23 | The Twelfth Name | 5,300 | Pending |
 | 24 | The Quiet War | 5,600 | Pending |
 | 25 | Taren Holt | 5,700 | Pending |
-| 26 | Lab Six | 6,500 | Pending |
+| 26 | Lab Six | 6,500 | Passes 1–6 complete — 6,503 words |
 | 27 | The Empty Bed | 4,800 | Pending |
 | 28 | Memorial | 4,600 | Pending |
 | 29 | Ghost Protocol | 5,600 | Pending |
