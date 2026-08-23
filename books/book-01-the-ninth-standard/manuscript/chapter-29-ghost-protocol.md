@@ -20,7 +20,105 @@ Instead he had said, “Fine.”
 
 Growth remained irritating.
 
+Mara had still made him answer three questions before they left Meridian’s eighth floor.
+
+What had the channel proved?
+
+That whoever was using it knew a private label from Eli’s Meridian Night work.
+
+What had it not proved?
+
+That Eli was the person typing.
+
+What would change their minds?
+
+Kade had looked at the line about fourteen credits, then at the blue strip tied around Eli’s empty bed through the open door of Room 814.
+
+“Him,” he had said. “In a room. Breathing.”
+
+Mara had nodded once.
+
+That was not coldness. Kade knew the difference now. Mara was building a floor strong enough for hope to stand on.
+
 They descended through a service elevator that required Sen’s temporary key. The display skipped M-1 and M-2 entirely, then stopped at M-3 with a mechanical click older than most of Asterion.
+
+The doors did not open.
+
+A camera above them rotated toward Kade.
+
+Mara shifted between him and the lens before he could object. The elevator speaker produced a burst of static followed by Eli’s voice.
+
+“Identity check.”
+
+Kade’s hand closed around the memorial strip in his pocket.
+
+“Open the door.”
+
+“That is not an identity check.”
+
+The voice came through too thin, flattened by old hardware. It could have been a recording. It could have been two days of grief rearranging any noise into the answer Kade wanted.
+
+Mara faced the camera.
+
+“At Meridian Night, your prediction model gave Kade’s most likely bad decision a separate column. What did you call it?”
+
+“Panic geometry.”
+
+“He already had that phrase,” Kade said.
+
+“Correct. Second check. What did I tell you after you added it?”
+
+A pause.
+
+“You said the category was analytically irresponsible because it combined fear response, incomplete information, and Kade.”
+
+“And?”
+
+“I said the third variable accounted for most of the error.”
+
+Kade looked at her.
+
+“You both discussed me like weather.”
+
+“You were not available for peer review,” Mara said.
+
+The lock clicked.
+
+Kade did not move.
+
+Mara pressed the door control, but kept her hand over the seam.
+
+“Last check,” she said. “Something not in a file.”
+
+The speaker stayed quiet long enough that Kade’s pulse began striking the inside of his throat.
+
+Then Eli said, “Our first afternoon in Room 814, I picked up a mechanical pencil from Kade’s desk. He said it belonged to his father.”
+
+Kade’s fingers pressed into the memorial strip.
+
+“What did you do?” Mara asked.
+
+“Put it down. Apologized. Did not ask a question.”
+
+“You wanted to,” Kade said.
+
+“Desperately.”
+
+Kade shut his eyes.
+
+That was Eli.
+
+Not proof strong enough for a court.
+
+Strong enough for the person who had lived on the other side of the room.
+
+Mara removed her hand. The doors opened onto a corridor of unpainted concrete and copper pipes.
+
+Sen waited at the far end. She had not come up to meet them.
+
+Kade understood why when the elevator doors closed and three separate bolts drove into place behind them.
+
+Whatever was alive down here, Sen still believed the rest of the world could not be allowed to see it.
 
 Sera arrived two minutes later after receiving a message containing only:
 
@@ -78,6 +176,48 @@ Sera held on for three seconds.
 
 Then shoved him away.
 
+Her hands stayed on his sleeves.
+
+“Say my name.”
+
+Eli’s smugness disappeared.
+
+“Sera Vale.”
+
+“Where did we meet?”
+
+“Outside Response selection. You asked why I was carrying six sensor modules and I lied that they were for class.”
+
+“What were they for?”
+
+“Measuring the arena’s emergency suppression delay.”
+
+“How bad was it?”
+
+“One point eight seconds.”
+
+“And what did I say?”
+
+Eli’s mouth moved once before the words came.
+
+“You said one point eight seconds was enough time to lose someone.”
+
+Sera released one sleeve and pressed two fingers against the medical patch on his neck. Eli hissed.
+
+“Pain response,” she said.
+
+“Excellent bedside manner.”
+
+“I am not checking whether you hurt. I am checking whether I can believe the answer.”
+
+He stopped trying to make it funny.
+
+“You can.”
+
+Sera’s thumb caught against the frayed cuff of his borrowed shirt.
+
+For two days she had moved through every room as if a response assignment might appear if she stayed ready enough. Now the assignment stood in front of her, late and injured and impossible to evacuate from what had already happened.
+
 “If you ever fake your death again, I will make the paperwork accurate.”
 
 “Understood.”
@@ -126,6 +266,26 @@ Kade did not let go immediately.
 
 That was new too.
 
+Eli’s ribs shifted under Kade’s arms.
+
+One breath.
+
+Another.
+
+Kade counted to five without choosing to. The rhythm refused every image from the blast—the empty recovery sled, the sealed Lab Six door, Park turning back toward him with nothing useful in her face.
+
+Alive was not a sentence anymore.
+
+It was breath against Kade’s collar and a shoulder too narrow under borrowed cloth.
+
+“You are crushing the moderate field burn,” Eli said.
+
+Kade loosened his grip by approximately nothing.
+
+“Good.”
+
+Eli’s hand struck his back once. Awkward. Then again, more deliberately.
+
 When he finally stepped back, he looked at Eli’s face.
 
 “You heard the memorial.”
@@ -146,13 +306,47 @@ Kade stared.
 
 “That is deeply strange.”
 
-“Yes.”
+“It was worse from my side.”
 
 “What did you hear?”
 
 Eli looked down.
 
 “Enough.”
+
+“That is not a quantity.”
+
+Eli glanced toward Sen. She gave him nothing.
+
+“I heard Nessa talk about the prototype brace. I heard Darius say I made him less afraid of rooms he could not understand. I heard you tell several hundred people that needing me had been worth the cost.”
+
+Kade’s hands became very interesting.
+
+“The relay cut out after that,” Eli said. “I spent twenty minutes trying to repair it before I remembered the memorial was not a technical problem I was supposed to solve.”
+
+“You tried anyway.”
+
+“Obviously.”
+
+“Did you know we had no body?” Mara asked.
+
+“I knew what Sen’s team entered in the recovery system. I did not know what any of you were told.” Eli rubbed his palms against the borrowed trousers. “There was a status mirror in the pod. Every time the academy record updated, I could read the change. Missing. Presumed dead. Memorial authorized.”
+
+His voice caught on the last two words.
+
+Kade had been prepared for his own anger.
+
+Not Eli’s.
+
+“I could see you turning into paperwork,” Eli said. “I could see me turning into paperwork. I could not answer either one.”
+
+Sera pulled a metal chair away from the wall and put it behind his knees.
+
+“Sit down before Park has to clear you again.”
+
+Eli sat.
+
+This time he did not make a joke.
 
 Kade remembered standing behind the lectern.
 
@@ -228,7 +422,7 @@ Sera leaned closer.
 
 “So whoever did this knew enough about old infrastructure to hide beside a real dead channel.”
 
-“Yes.”
+“They knew exactly where to hide.”
 
 Taren’s knowledge.
 
@@ -258,15 +452,15 @@ Kade remembered the pressure door.
 
 “You went back on purpose.”
 
-“Yes.”
+“I chose to.”
 
 “That was incredibly stupid.”
 
-“Yes.”
+“It was.”
 
 “You could have died.”
 
-“Yes.”
+“I almost did.”
 
 Kade ran out of words.
 
@@ -282,7 +476,7 @@ Kade looked at him.
 
 Eli blinked.
 
-“Yes.”
+“I could hear the coolant behind me.”
 
 “I did not ask if you knew it was dangerous.”
 
@@ -340,7 +534,7 @@ Kade read the sentence twice.
 
 Sen accepted the criticism.
 
-“Yes.”
+“Accurate.”
 
 The protocol steps appeared.
 
@@ -386,7 +580,7 @@ Kade looked at Sen.
 
 “You knew it was there.”
 
-“Yes.”
+“I knew the route existed.”
 
 “You designed this?”
 
@@ -472,39 +666,137 @@ Eli raised both hands.
 
 “What things?”
 
-Sen answered.
+Sen changed the wall display.
 
-“The surveillance remained active after the attack. Whoever was watching checked Eli’s casualty status repeatedly. They also queried recovery-team logs, housing status, and family notification records.”
+A timeline filled it, thirty-six hours of small white marks arranged beneath academy system names.
 
-Kade felt cold.
+Recovery team.
+
+Medical intake.
+
+House roster.
+
+Family notification.
+
+Each mark represented a request so ordinary it would have vanished inside normal campus traffic. Together they formed a pulse.
+
+Four minutes after Park filed Eli as missing, presumed dead, the recovery log had been queried through a faculty credential.
+
+Nine minutes later, the same question came through an arena maintenance account.
+
+After midnight, the House roster.
+
+Before dawn, family notification.
+
+At 08:00, recovery again.
+
+At 08:16, medical intake.
+
+At 08:31, Room 814 occupancy.
+
+Kade stepped closer until the white marks stopped looking like data and became fingers testing doors.
+
+“They were checking whether the story stayed true.”
+
+“They were checking where it broke,” Eli said.
+
+He reached past Sen and selected the housing query. A second panel opened, showing a route that entered Asterion through a public academic exchange server, crossed three ordinary systems, and disappeared into the maintenance layer.
+
+“Every time we closed one credential, the next request came through a different one,” Eli said. “Faculty, maintenance, visiting-research access, a parent portal. None repeated.”
+
+Mara studied the intervals.
+
+“But the questions did.”
+
+“Exactly.”
+
+“Recovery. Medical. Housing. Family.” She pointed to each cluster. “They were not looking for the same answer. They were looking for contradiction between owners.”
+
+Eli turned toward her.
+
+Some of the old energy returned to his face.
+
+“That took me six hours.”
+
+“You were concussed.”
+
+“I am counting that as admiration.”
+
+Sera put one hand on the back of his chair before he could stand.
+
+Sen tapped the newest mark.
+
+“This arrived eleven minutes ago.”
+
+The family-notification record expanded. Someone had requested delivery confirmation for the message sent to Eli’s mother.
+
+Not the message itself.
+
+Only whether it had reached her.
+
+Kade’s knuckles touched the cold display.
 
 “They were verifying the kill.”
 
-“We do not know if killing Eli was the primary objective.”
+“We do not know if killing Eli was the primary objective,” Sen said.
 
-“Sen.”
+He turned.
 
-She held his gaze.
+She held his gaze and corrected herself before he could force the words out of her.
 
-“They were verifying the outcome.”
+“They were verifying the outcome. For Eli, the distinction offers no comfort.”
 
-“That is the same thing if you are Eli.”
-
-“Yes.”
-
-Eli looked less comfortable now.
+Eli’s fingers had locked around the edge of the chair.
 
 Good.
 
-Kade did not want the danger becoming interesting to him.
+Kade did not want the danger becoming an interesting system just because Eli could map it.
 
-Sen continued.
+Mara pointed to the uneven gaps between queries.
 
-“If Eli reappeared too soon, they would know the deception and change tactics. We kept the visible system consistent.”
+“Why extend the protocol? The pattern proves surveillance. It does not prove Eli has to remain dead.”
+
+Sen looked at Eli.
+
+He opened another layer.
+
+The white requests became red when Asterion returned any result inconsistent with the casualty state. There were only two: a delayed medical supply charge assigned to Eli’s student account, and an automatic fellowship reminder.
+
+Both had been followed within ninety seconds by new outside queries.
+
+“The supply charge was reversed four minutes after it posted,” Eli said. “Still enough. The fellowship reminder was never delivered, but its queue status changed.”
+
+“A dead person produced activity,” Sera said.
+
+“And the observer reacted.”
+
+Eli brought up a test control. A student identifier ending in zeroes, no name attached, had been inserted into the same records with the same presumed-dead state. At 14:00, the test identity received a false pharmacy charge.
+
+Nothing followed.
+
+At 15:00, the same charge hit Eli’s account.
+
+Forty-three seconds later, someone queried medical intake.
+
+Mara’s jaw tightened.
+
+“Specific surveillance.”
+
+“That was when we changed twelve hours to open-ended,” Sen said.
+
+“You made a decoy person,” Kade said.
+
+“A decoy record,” Eli corrected. “No one’s family had to attend a second memorial.”
+
+The joke failed in his own mouth.
+
+He closed the test panel.
+
+“If I reappeared, whoever was using me as a sensor would know the deception and change tactics. Keeping the visible system consistent gave us time to learn what they touched.”
 
 “So you let the whole academy believe it.”
 
-“Yes.”
+“I kept the order in place,” Sen said.
 
 “You let his parents believe it?”
 
@@ -524,7 +816,27 @@ Sera said, “I like her.”
 
 “Why eight hours?” Mara asked Sen.
 
-“Because family communications were among the channels being watched. We had to establish a secure physical contact route first.”
+“Because family communications were among the channels being watched. We needed a secure physical contact route.”
+
+Sen opened a route log.
+
+Dr. Park had carried a paper note off the island inside a sealed medication case, passed it to a coastal clinic director, and waited while that director drove to the Navarro home. No calls. No messages. No family portal.
+
+At the bottom of the log, a handwritten line had been scanned into the record.
+
+**I have seen him. He is injured. He is alive. You may be angry at me in person. — Lian Park**
+
+Sera read it twice.
+
+“Park volunteered for that?”
+
+“She informed me that if I assigned anyone else, she would disclose my medical history to the entire Council.”
+
+Kade looked at Sen.
+
+“Do you have an embarrassing medical history?”
+
+“Everyone does if Dr. Park is angry enough.”
 
 Eli rubbed both hands over his face.
 
@@ -546,15 +858,55 @@ Then Kade looked back at Sen.
 
 Sen’s face tightened.
 
-“Yes.”
+“I did.”
 
 “You watched me stand in the Hall of Names.”
 
-“Yes.”
+“From the north gallery.”
 
 “You heard what I said.”
 
-“Yes.”
+Sen’s eyes moved to Eli.
+
+“Every word.”
+
+Kade took the memorial strip from his pocket and set it on the console between them.
+
+The blue cloth had dried stiff where his hand kept closing around it.
+
+“Do you know what this is?”
+
+“A seven-day hold marker.”
+
+“I know the label.”
+
+Sen’s mouth closed.
+
+Kade pushed the strip toward her.
+
+“Tell me what it did.”
+
+Behind him, a cooling pump started. The machinery filled the room while Sen examined a piece of fabric worth nothing to the systems she trusted.
+
+“It kept Eli’s belongings in place while the academy waited for recovery confirmation,” she said.
+
+“That is the procedure.”
+
+“It made his absence physical.”
+
+Kade waited.
+
+Sen touched one corner of the strip but did not pick it up.
+
+“It made you pass an empty bed every time you entered your room. It required Meridian to treat uncertainty as death because I needed an observer to do the same. It turned your grief into evidence.”
+
+There.
+
+Not *operational cost*.
+
+Not *necessary exposure*.
+
+The thing itself.
 
 Kade stepped toward her.
 
@@ -570,11 +922,15 @@ The answer stopped him.
 
 “That is not enough.”
 
-“No.”
+“It should not be.”
 
-Again.
+No defense arrived to close the space between harm and intent.
 
-No defense.
+Kade wanted one anyway.
+
+He wanted Sen to say the surveillance left no other choice, so he could attack the reasoning. He wanted her to say Eli’s life outweighed two days of grief, so he could tell her people were not equations. He wanted the argument to become small enough to win.
+
+Sen left it full-sized.
 
 Mara stood beside Kade.
 
@@ -587,6 +943,30 @@ Sen looked at her.
 “And?”
 
 “I did not know whether Kade’s communications were compromised. Or yours. Or Sera’s. Or mine.”
+
+“So what could you have done?” Mara asked.
+
+Sen looked at the locked elevator.
+
+“I could have delayed the memorial under a procedural pretext. That risked signaling uncertainty, but the outside queries had not yet reached ceremonial records. I rejected the delay because a change from normal casualty procedure might itself become evidence.”
+
+“You chose consistency,” Mara said.
+
+“I chose the deception that produced the cleanest data.”
+
+Eli flinched.
+
+Sen did not look away from him.
+
+“That is the decision I should have distrusted.”
+
+Kade glanced at the surveillance timeline.
+
+It had worked.
+
+That was the dangerous part.
+
+A cruel decision would have been easier to reject if it had failed.
 
 Everyone looked toward the empty space where Taren would normally have stood.
 
@@ -698,7 +1078,7 @@ Sen’s expression changed.
 
 “Still there.”
 
-“Yes.”
+“And still doing damage.”
 
 He read the order again.
 
@@ -712,7 +1092,7 @@ He read the order again.
 
 “And you thought that justified letting me believe everyone wanted me weak.”
 
-“No.”
+“I thought it justified concealing the rate of change. I allowed the concealment to become a lie about what you were capable of.”
 
 Kade looked at her.
 
@@ -722,7 +1102,7 @@ Sen continued.
 
 “Which was wrong.”
 
-“Yes.”
+“Which was wrong.”
 
 Mara’s eyes sharpened.
 
@@ -736,17 +1116,15 @@ Sera pointed at one clause.
 
 “Where operational security permits.”
 
-“Yes.”
+Sen nodded.
 
 “That language lets whoever controls security redefine autonomy whenever convenient.”
 
-Sen looked at her.
-
-“Yes.”
+“It does.”
 
 “Then it is a bad rule.”
 
-“Yes.”
+“It is.”
 
 Sera blinked.
 
@@ -760,7 +1138,71 @@ Sen folded her arms.
 
 “Did it?” Eli asked.
 
-“No.”
+“We renewed it eleven times.”
+
+Mara reached for the document controls.
+
+“Show us the renewals.”
+
+Sen gave her access.
+
+Eleven signatures appeared along the right margin, each attached to a new expiration date. The first three belonged to people Kade did not know. The fourth was Sen’s.
+
+So were the next seven.
+
+No hidden Council vote.
+
+No predecessor available to absorb the blame.
+
+Mara selected the fourth signature. A justification opened beneath it.
+
+**External observation remains unresolved. Disclosure risk exceeds subject benefit. Extend twelve months.**
+
+The same sentence appeared under the fifth renewal.
+
+And the sixth.
+
+By the ninth, *twelve months* had become *until conditions change*.
+
+“Conditions changed repeatedly,” Mara said.
+
+Sen studied her own signatures.
+
+“The order did not.”
+
+“Because each renewal asked whether the outside threat was gone,” Kade said. “Not whether the damage inside had become worse.”
+
+Sen looked at him.
+
+“Correct.”
+
+Sera pulled the document toward her side of the wall and highlighted the final clause.
+
+“Response orders have an incident owner, a clock, and a termination condition. This has one person deciding all three, and the termination condition is fear.”
+
+“Then it never terminates,” Eli said.
+
+Sen opened an annotation field beneath the active order.
+
+**REVIEW REQUIRED — NO FURTHER UNILATERAL RENEWAL**
+
+She did not submit it.
+
+“That is a proposal,” Kade said.
+
+“It is. Ending the order safely requires dismantling the telemetry controls without exposing you or the precursor records. I will not pretend a sentence typed in this room has done that work.”
+
+“So no instant moral victory.”
+
+“I do not have one available.”
+
+The unsigned line remained on the wall.
+
+Not forgiveness.
+
+Not repair.
+
+At least the old rule had finally been forced to describe what changing it would cost.
 
 Another clue to the world they had inherited.
 
@@ -810,7 +1252,7 @@ Eli looked at her.
 
 “He did?”
 
-“Yes.”
+“This morning.”
 
 “Why?”
 
@@ -818,7 +1260,7 @@ Eli looked at her.
 
 “You did not tell him I was alive.”
 
-“No.”
+“He only needed medical unavailability.”
 
 Eli considered.
 
@@ -914,7 +1356,7 @@ The place where Asterion made decisions had literally been built on top of whate
 
 Sen did not smile.
 
-“No.”
+“Asterion’s architects were not that honest.”
 
 “Worse.”
 
@@ -950,6 +1392,72 @@ The same dangerous tool.
 
 Sometimes still necessary.
 
+Sera did not send the message.
+
+“How long does the storm cover hold?”
+
+Sen checked the weather layer. “Until the unauthorized movement becomes visible or we clear the service levels.”
+
+“That is not a time.”
+
+“Two hours,” Mara said. “After that, students compare the warning against public storm data and the cover creates more panic than it prevents.”
+
+Eli dragged the outside-query timeline beside the evacuation map.
+
+“Less. Whoever is inside already has academy access. If we publish a fake utility failure, they can test which doors actually report water.”
+
+Sera looked between the maps.
+
+“Forty minutes. Then the message changes to a security exercise unless we have an honest warning we can safely give.”
+
+Sen did not invoke authority.
+
+“Agreed.”
+
+Sera built the House alert in front of them.
+
+**LOWER UTILITY FAILURE. MOVE TO ASSIGNED UPPER SAFE ZONES. HOUSE RESPONSE LEADS HAVE ROUTES. REVIEW IN FORTY MINUTES.**
+
+She set an expiration alarm where everyone could see it and put her own name in the owner field.
+
+Not *storm preparedness* forever.
+
+Not *operational security permits*.
+
+One claim. One clock. One person responsible for changing it.
+
+The message went out.
+
+Replies began before the wall confirmed delivery.
+
+Nessa asked whether she should bring the brace station.
+
+Darius reported two students on Level Six who used mobility aids.
+
+Somebody from Level Four asked if the sea wall had failed and attached a photograph of completely dry plumbing.
+
+Sera answered each one.
+
+**BRING THE BRACE STATION. USE EAST LIFT FOR LEVEL SIX. SEA WALL INTACT. DO NOT USE LOWER TRANSIT.**
+
+Kade read over her shoulder.
+
+“You told the last one something true.”
+
+“It was the useful answer.”
+
+“You could have said that about all of this.”
+
+Sera’s thumb stopped above the next reply.
+
+“No,” she said. “Useful is not the same as ours to hide.”
+
+She sent the message and faced Sen.
+
+“Forty minutes.”
+
+“I heard you.”
+
 Julian’s voice came through Sen’s tablet from a secure channel.
 
 “Director, House Sol is reporting access failures on lower transit.”
@@ -964,7 +1472,7 @@ Julian paused.
 
 Sen looked at Kade.
 
-“Yes.”
+“He is.”
 
 “Tell him his timing remains terrible.”
 
@@ -994,7 +1502,7 @@ Kade looked at Eli.
 
 Eli stared back.
 
-“No.”
+“I’m not staying behind.”
 
 “You just came back from the dead.”
 
