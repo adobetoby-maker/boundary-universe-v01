@@ -151,17 +151,24 @@ def richest_branch(book: str) -> tuple[str, int]:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--manuscript-ref", default=None,
-                    help="git ref holding the manuscript (default: working tree)")
+                    help="fallback ref for both books (default: working tree)")
+    ap.add_argument("--book1-ref", default="origin/expand/book1-ch01-10",
+                    help="ref holding Book 1 -- it lives on its own branch")
+    ap.add_argument("--book2-ref", default="origin/draft/book-02-four-pass",
+                    help="ref holding Book 2 -- also its own branch")
     ap.add_argument("--out", default="dashboard/status.json")
     ap.add_argument("--strict", action="store_true",
                     help="exit non-zero if any source disagrees with another")
     a = ap.parse_args()
-    ref = a.manuscript_ref
+    # An explicit --manuscript-ref overrides both, for measuring one branch.
+    ref1 = a.manuscript_ref or a.book1_ref
+    ref2 = a.manuscript_ref or a.book2_ref
+    ref = ref2  # Book 2 owns the planning documents
 
-    b1 = chapters(BOOK1, ref)
-    b2 = chapters(BOOK2, ref)
-    att, doc_passes = attestations(ref)
-    required, protocol_src = pass_protocol(ref)
+    b1 = chapters(BOOK1, ref1)
+    b2 = chapters(BOOK2, ref2)
+    att, doc_passes = attestations(ref2)
+    required, protocol_src = pass_protocol(ref2)
 
     drift: list[str] = []
     if doc_passes and required and doc_passes != required:
@@ -183,14 +190,15 @@ def main() -> int:
             drift.append(f"ch{n:02d} is attested but has no manuscript file")
 
     # Is there more of either book somewhere else?
-    for label, book, used_words in (("book1", BOOK1, sum(c["words"] for c in b1)),
-                                    ("book2", BOOK2, sum(c["words"] for c in b2))):
+    for label, book, used_words, used_ref in (
+            ("book1", BOOK1, sum(c["words"] for c in b1), ref1),
+            ("book2", BOOK2, sum(c["words"] for c in b2), ref2)):
         br, words = richest_branch(book)
         if words > used_words * 1.05:
             drift.append(
                 f"{label}: {br} holds {words:,} words, "
                 f"{words - used_words:,} more than the ref being reported "
-                f"({ref or 'working tree'})")
+                f"({used_ref or 'working tree'})")
 
     # Some of status.json is editorial and cannot be derived from the tree:
     # the epic list, the origin portfolio, the reader contract. Those are kept
@@ -210,7 +218,8 @@ def main() -> int:
     attested = sum(1 for r in rows if r["status"].startswith("ATTESTED"))
     status = {
         "generatedBy": "scripts/generate_status.py",
-        "manuscriptRef": ref or "working tree",
+        "book1Ref": ref1 or "working tree",
+        "book2Ref": ref2 or "working tree",
         "universe": {
             "title": "The Boundary Universe",
             "scope": "5 origin trilogies + discovery prequels + 10-book ensemble saga",

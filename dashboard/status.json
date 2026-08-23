@@ -1,27 +1,28 @@
 {
   "generatedBy": "scripts/generate_status.py",
-  "manuscriptRef": "origin/draft/book-02-four-pass",
+  "book1Ref": "origin/expand/book1-ch01-10",
+  "book2Ref": "origin/draft/book-02-four-pass",
   "universe": {
     "title": "The Boundary Universe",
     "scope": "5 origin trilogies + discovery prequels + 10-book ensemble saga",
     "status": "DESIGN + O1 IN PRODUCTION"
   },
   "protocol": {
-    "passesRequired": 5,
+    "passesRequired": 6,
     "source": "START_HERE.md"
   },
   "book1": {
     "title": "The Ninth Standard",
     "chapters": 33,
-    "words": 58703
+    "words": 101298
   },
   "book2": {
     "title": "The Twelfth Resonant",
     "chaptersTotal": 34,
-    "chaptersDrafted": 11,
+    "chaptersDrafted": 30,
     "chaptersAttested": 6,
-    "words": 36798,
-    "percentDrafted": 32,
+    "words": 77608,
+    "percentDrafted": 88,
     "percentAttested": 18,
     "chapters": [
       {
@@ -35,7 +36,7 @@
       {
         "n": 2,
         "title": "Public Nine",
-        "words": 3763,
+        "words": 3762,
         "status": "ATTESTED \u2014 FOUR PASSES COMPLETE",
         "target": 5500,
         "passesRecorded": 4
@@ -107,7 +108,159 @@
       {
         "n": 11,
         "title": "Sera\u2019s Field",
-        "words": 2471,
+        "words": 2817,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 12,
+        "title": "Vahana",
+        "words": 2380,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 13,
+        "title": "Orbit Class",
+        "words": 2194,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 14,
+        "title": "Julian\u2019s Weight",
+        "words": 2427,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 15,
+        "title": "Helix",
+        "words": 2263,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 16,
+        "title": "Twelve Seats",
+        "words": 2117,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 17,
+        "title": "Open Demonstration",
+        "words": 2295,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 18,
+        "title": "The Protocol Crisis",
+        "words": 3340,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 19,
+        "title": "Consent",
+        "words": 2756,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 20,
+        "title": "Aaron\u2019s Model",
+        "words": 3445,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 21,
+        "title": "Meridian Abroad",
+        "words": 1548,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 22,
+        "title": "Taren\u2019s Choice",
+        "words": 1636,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 23,
+        "title": "Second Center",
+        "words": 1624,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 24,
+        "title": "No Center",
+        "words": 1397,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 25,
+        "title": "Red Team",
+        "words": 1499,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 26,
+        "title": "The First Fragment",
+        "words": 1379,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 27,
+        "title": "Lunar Far Side",
+        "words": 1228,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 28,
+        "title": "Broken Command",
+        "words": 1434,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 29,
+        "title": "Handoff",
+        "words": 2379,
+        "status": "DRAFTED \u2014 NOT ATTESTED",
+        "target": null,
+        "passesRecorded": 0
+      },
+      {
+        "n": 30,
+        "title": "Dark Relay",
+        "words": 3124,
         "status": "DRAFTED \u2014 NOT ATTESTED",
         "target": null,
         "passesRecorded": 0
@@ -115,13 +268,31 @@
     ]
   },
   "drift": [
-    "pass protocol disagrees: START_HERE.md says 5, CHAPTER_ATTESTATIONS.md says 4",
+    "pass protocol disagrees: START_HERE.md says 6, CHAPTER_ATTESTATIONS.md says 4",
     "ch07 has prose but no entry in CHAPTER_ATTESTATIONS.md",
     "ch08 has prose but no entry in CHAPTER_ATTESTATIONS.md",
     "ch09 has prose but no entry in CHAPTER_ATTESTATIONS.md",
     "ch10 has prose but no entry in CHAPTER_ATTESTATIONS.md",
     "ch11 has prose but no entry in CHAPTER_ATTESTATIONS.md",
-    "book1: origin/expand/book1-ch01-10 holds 99,976 words, 41,273 more than the ref being reported (origin/draft/book-02-four-pass)"
+    "ch12 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch13 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch14 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch15 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch16 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch17 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch18 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch19 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch20 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch21 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch22 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch23 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch24 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch25 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch26 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch27 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch28 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch29 has prose but no entry in CHAPTER_ATTESTATIONS.md",
+    "ch30 has prose but no entry in CHAPTER_ATTESTATIONS.md"
   ],
   "loop": [
     "READY",
