@@ -79,6 +79,12 @@ Completed:
 
 Remaining production recommendation: one final human proof/listening pass before recording or publication.
 
+## Rendered audio status
+
+A complete chaptered local proof/listening copy has been rendered from manuscript commit `9aa1f79c4a3dddc6328a2da73f7cc96ef08e6380` using the offline Reed English (US) macOS voice. It contains all 34 chapters and runs 10:24:15.84. See `audio/AUDIO_RENDER_AUDIT.md` for codec, chapter, loudness and checksum validation.
+
+This local proof does not replace the locked ElevenLabs Holden production voice. It provides the end-to-end rendered copy needed for final human listening without sending manuscript text to a cloud provider.
+
 ## Book 2 thematic sentence
 **Trust is not permission to control.**
 
