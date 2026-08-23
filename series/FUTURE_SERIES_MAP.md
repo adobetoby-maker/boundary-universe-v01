@@ -50,10 +50,19 @@ Could follow Julian, Sera or Taren in a military/political thriller where Kade i
 
 ---
 
-## Side series — BOUNDARY MEDICINE
-A medical SF series exploring how Resonance changes trauma care, neurorehabilitation, prosthetics and identity.
+## Side series — REFUGE NODE TRILOGY ✦ ACTIVE
+**Status: ACTIVE — series bible written, Book 1 infrastructure complete**
+**Bible:** `series/REFUGE_NODE_TRILOGY.md`
+**Book 1:** `books/book-01-the-quiet-ward/` — *The Quiet Ward*
 
-Keep connected-universe links subtle. Different genre, same rules.
+Medical SF exploring how Resonance changes healing, identity, and consent. Protagonist: Dr. Sable Hren, civilian Boundary Medicine specialist, Standard Six.
+
+Three books:
+1. *The Quiet Ward*
+2. *The Resonant Wound*
+3. *The Consent Standard*
+
+Connected-universe links subtle. Different genre (medical SF vs academy progression). Same physics rules. No Kade Mercer. The Refuge Node is present but never named until Book 3's final pages.
 
 ---
 
