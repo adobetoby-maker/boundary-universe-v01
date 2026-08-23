@@ -334,6 +334,264 @@ Aaron studied him.
 
 “That is the important part.”
 
+The warning tone split into three notes.
+
+Aaron turned before the diagnostic changed.
+
+“East damper.”
+
+The housing above the lower platform flashed amber. One of its support arms jerked sideways, caught, and began to bend.
+
+Aaron drove his palm harder into the rail.
+
+The innermost containment ring brightened.
+
+The damper kept bending.
+
+“Why is that still moving?” Julian asked.
+
+“Because I can hold the Node or the hardware around it.” Aaron’s words came between careful breaths. “Not both anymore.”
+
+Sen crossed to the emergency console.
+
+“Local correction is locked out.”
+
+Taren was already at the legacy station beside her. He inserted the burned edge of his Directorate credential into a recessed slot.
+
+Nothing happened.
+
+“They revoked the identity,” he said.
+
+“You burned it,” Sera replied.
+
+“That also.”
+
+The support arm bent another centimeter.
+
+Mara stepped to the edge of the lower platform and studied the pulsing field around it.
+
+“If it shears, where does the damper fall?”
+
+Aaron pointed without taking his hand from the rail.
+
+“Across the north return. The return carries cooling to the other five.”
+
+“Then it does not shear.” Mara dropped to one knee and pressed her burned hand against the deck. A narrow field rose beneath the support arm. Not enough to lift it. Enough to slow it.
+
+Her jaw tightened.
+
+“I can hold this for thirty seconds.”
+
+“Twenty,” Park said from behind Sen. Her scanner was trained on Mara’s wrist. “After that, the burn opens.”
+
+Mara did not look back.
+
+“Thirty.”
+
+“Twenty-five, and I get to be angry later.”
+
+“Accepted.”
+
+Sera pointed down the north stair.
+
+“Manual release?”
+
+“Under the return manifold,” Aaron said. “Two locks. Both must turn together.”
+
+“Julian.”
+
+He followed her without waiting for explanation.
+
+Kade started after them.
+
+Aaron caught his sleeve.
+
+Not hard.
+
+Desperate anyway.
+
+“Stay out of the lower field.”
+
+Kade looked at the hand on his arm.
+
+His father let go.
+
+“You do not get to give me seventeen years of missing orders in the first minute.”
+
+The words struck.
+
+Aaron did not defend them.
+
+“Then listen to Park. The lower field is carrying a phase inversion. Anyone without conventional output becomes the path of least resistance.”
+
+Park checked the floor with her scanner.
+
+“He is right.”
+
+Kade hated that this mattered.
+
+He stayed.
+
+Below them, Sera slid under the manifold. Julian braced one shoulder against a warped maintenance cover and peeled it back in a shriek of metal.
+
+“Two locks,” Sera called. “Different housings.”
+
+“They must reach open within half a second,” Aaron said.
+
+Eli’s voice sharpened in Kade’s earpiece.
+
+“I can time them. Julian, left lock is resisting at eleven degrees. Do not overpower it.”
+
+Julian set both hands on the wheel.
+
+“You know how much force I’m using?”
+
+“The housing is complaining through six old strain sensors. It has strong opinions.”
+
+Taren pulled his dead credential free and opened the station panel beneath it.
+
+“I can bridge revocation locally.”
+
+Sen reached for the exposed contacts.
+
+He blocked her hand.
+
+“Directorate lattice. It will record your biometric and shut the whole station.”
+
+“And yours?”
+
+“Already condemned.”
+
+He pressed his thumb to the contact.
+
+The station came alive in red.
+
+**IDENTITY COMPROMISED**
+
+**LOCAL ACCESS: SIX SECONDS**
+
+“That seems hostile,” Eli said.
+
+“It was designed by relatives.” Taren moved through three menus. “Hostility is the interface.”
+
+Mara’s field shuddered.
+
+The support arm dropped another fraction.
+
+“Ten seconds,” she said.
+
+Park said, “Eight.”
+
+Aaron’s fingers had gone white around the rail.
+
+He tried to track every station at once.
+
+Kade recognized the mistake because Julian had spent months training it out of him.
+
+“Stop watching all of them.”
+
+Aaron stared at him.
+
+“The timing—”
+
+“Belongs to Eli. The locks belong to Sera and Julian. The access belongs to Taren. Mara has the load.”
+
+Kade stepped between Aaron and the scattered stations.
+
+“What still belongs to you?”
+
+For half a second Aaron had no answer.
+
+Seventeen years had taught him to be the answer.
+
+Then he looked down through the field, past the human repairs, toward the black geometry at its center.
+
+“Keep the Node from interpreting the release as a transmission path.”
+
+“Do that.”
+
+Aaron closed his eyes.
+
+His shoulders lowered by one impossible degree.
+
+The innermost ring steadied.
+
+Eli counted.
+
+“Three. Two. Turn.”
+
+Metal groaned below the platform.
+
+Sera’s wheel stopped first.
+
+“Mine is blocked.”
+
+“Back two degrees,” Eli said.
+
+Julian held his wheel at the threshold instead of forcing it through.
+
+Sera reversed, struck the housing once with the heel of her hand, and turned again.
+
+Both locks opened.
+
+Taren hit the local release with one second left on his access window.
+
+The bent support arm disengaged.
+
+Mara guided its weight sideways while the backup brace rose beneath it.
+
+The damper settled into the brace hard enough to shake the platform.
+
+Then held.
+
+The amber warning cleared.
+
+Mara released her field and sat back on her heels.
+
+Park reached her before the others had finished breathing.
+
+“Twenty-seven seconds,” Mara said.
+
+“You are not winning a medical argument by being accurate.”
+
+Park wrapped the reopened burn.
+
+Eli pulled new figures onto the main display.
+
+“Signal decay has returned to the previous curve. We bought somewhere between nine and fourteen minutes before the next threshold.”
+
+“Imprecise,” Mara said.
+
+“You may insult my damaged sensors after your hand stops bleeding.”
+
+Julian helped Sera out from under the manifold. Taren closed the legacy panel before it could erase anything else.
+
+Nobody asked Kade what to do next.
+
+Nobody needed to.
+
+Aaron opened his eyes.
+
+He looked at each of them as though the chamber had filled with a language he had once known and forgotten how to speak.
+
+“You trust them,” he said to Kade.
+
+Kade looked at Mara’s bandaged hand. Sera checking the route back to the stairs. Julian putting the maintenance cover somewhere it could not fall. Taren standing beside a station that had named him compromised. Eli already examining the next failure.
+
+“They trust their own jobs,” Kade said. “Sometimes they trust me not to ruin them.”
+
+“That is not what I meant.”
+
+“It is the part that matters.”
+
+Aaron considered that.
+
+The look on his face did not belong to a researcher evaluating a result.
+
+It belonged to a father discovering how much of his son’s life had happened without him.
+
+---
+
 Sen looked at Kade too.
 
 He suddenly hated that everyone seemed impressed.
@@ -569,6 +827,198 @@ Letters.
 Real enough to exist.
 
 Not real enough to have reached him.
+
+Kade crossed to the cabinet.
+
+Park started to object, checked the containment display, and moved aside.
+
+The door had no network lock. Only a recessed metal latch polished by years of use.
+
+Kade put one finger beneath it.
+
+“May I?”
+
+Aaron stared at him.
+
+The question seemed to hurt more than an accusation.
+
+“They are for you.”
+
+“That was not what I asked.”
+
+Aaron’s throat moved.
+
+“You may open it.”
+
+Kade lifted the latch.
+
+The cabinet smelled like paper, antiseptic, and the faint mineral heat of the chamber. Medical wraps occupied the top shelf. Spare interface gloves filled the bottom.
+
+Between them sat a gray document box.
+
+It was too ordinary.
+
+No Directorate seal.
+
+No warning label.
+
+Someone had repaired one corner with white medical tape.
+
+Kade drew it out and set it on the narrow counter.
+
+His name appeared on the first envelope.
+
+Not printed.
+
+Written.
+
+The letters leaned forward slightly and crowded one another near the end, as though Aaron had begun with more space than he knew how to use.
+
+**Kade — age six**
+
+Below it, smaller:
+
+**if this can be delivered safely**
+
+The qualification had been crossed out.
+
+Then written again.
+
+Kade did not touch the envelope.
+
+He counted the visible dates instead.
+
+Six.
+
+Seven.
+
+Eight.
+
+The stack thickened at eleven, then narrowed, then thickened again after Northline. Some years had one envelope. One had four held together with a rusted clip.
+
+There were more than seventeen.
+
+Mara stopped at the far end of the counter.
+
+She did not lean closer.
+
+“Do you want us to move?” she asked.
+
+Kade looked at the box.
+
+The offer created an exit.
+
+Not from the chamber.
+
+From being observed while his dead father’s handwriting made the last seventeen years physical.
+
+His first instinct was to take it.
+
+“Stay,” he said.
+
+Mara remained where she was.
+
+No closer.
+
+The correct distance.
+
+Kade lifted the first envelope by one edge.
+
+Nothing was written on the back.
+
+He turned it over again.
+
+“Why age six?”
+
+Aaron’s hand slid a centimeter along the rail, leaving sweat on the glowing surface.
+
+“Sen said you were reading on your own.”
+
+“I was five.”
+
+“The update arrived late.”
+
+Of course it had.
+
+Even this version of fatherhood came through delays, secure routes, and somebody else deciding what could pass.
+
+“Did you write on my birthday?”
+
+“At first.”
+
+“Then?”
+
+Aaron looked toward the box.
+
+“I began writing when something happened that I wanted to tell you.”
+
+“Things happened down here?”
+
+“Small things.”
+
+“Name one.”
+
+Aaron glanced at the rail beneath his hand.
+
+“A cooling pump failed on a Sunday. We had no replacement bearing, so Park cut one from an old diagnostic rotor while Sen argued that it would introduce unacceptable vibration.”
+
+Park kept her attention on Mara’s bandage.
+
+“It introduced unacceptable vibration.”
+
+“It also ran for nine years.”
+
+“Both statements can be true.”
+
+Kade looked between them.
+
+A day had happened here.
+
+Not a classified event. Not a sacrifice.
+
+A bad repair on a Sunday, discussed until it became a story Aaron wanted to tell a child he had never met.
+
+“What else?” Kade asked.
+
+“A meal packet with actual pepper.”
+
+“Historic.”
+
+“At the time.” Aaron’s mouth almost curved. “A maintenance crew left a radio in the north conduit for three months. We could only receive one station, and only when the west damper cycled down. I wrote you a very poor explanation of music.”
+
+“You thought a six-year-old needed a technical explanation of music.”
+
+“I had limited material.”
+
+“You had seventeen years to improve.”
+
+The small curve disappeared.
+
+“I did.”
+
+The answer placed the missing years back between them.
+
+Good.
+
+Kade set the envelope down.
+
+He did not open it.
+
+That surprised Aaron.
+
+“Not here,” Kade said.
+
+“All right.”
+
+“And not because an alarm decided for me.”
+
+Aaron nodded once.
+
+Kade closed the document box but left it on the counter.
+
+He was not ready to read the letters.
+
+He was not willing to put them back out of sight.
 
 “What did you write?”
 
@@ -876,6 +1326,138 @@ Aaron looked down.
 
 Kade did not let him escape into guilt.
 
+“She keeps coffee on the counter until it is too cold to be coffee,” he said. “Then she drinks it anyway because throwing it out would mean admitting she forgot it.”
+
+Aaron looked up.
+
+“She used to do that.”
+
+“Do not.”
+
+The words came fast enough to cut.
+
+Aaron stopped.
+
+“Do not take one thing I tell you and use it to pretend the last seventeen years did not happen.”
+
+“I wasn’t trying to.”
+
+“You said *used to* like you know which parts stayed.”
+
+Aaron’s face went quiet.
+
+“You’re right.”
+
+Kade waited for more.
+
+Aaron gave it.
+
+“I know who Elena was at twenty-four. I do not know who she is now.”
+
+The admission left no comfortable place for either of them.
+
+Kade rested both hands on the edge of the counter. The gray document box sat between them and the medical supplies.
+
+“She became an emergency nurse.”
+
+Aaron’s expression shifted.
+
+“She wanted pediatrics.”
+
+“She wanted a lot of things.”
+
+“I remember.”
+
+Kade almost stopped again.
+
+Then he chose the harder version.
+
+“She is good at emergency. She can decide which problem will kill somebody first while three people are shouting at her. She hates administrators who schedule by averages. She carries crackers because patients lie about when they ate.”
+
+Park made a small sound of agreement.
+
+Kade kept his eyes on Aaron.
+
+“She gets quiet when she is furious. Really furious. The louder version is safer.”
+
+Aaron’s hand trembled against the rail.
+
+“That part has not changed.”
+
+Kade held his stare.
+
+Aaron corrected himself.
+
+“That part sounds like someone I knew.”
+
+Better.
+
+“She kept your watch in the hallway cabinet,” Kade said. “Not on display. Not hidden. She never decided what to do with it.”
+
+Aaron’s gaze dropped to his bare wrist.
+
+There was a pale line around it.
+
+In the hallway photograph, the watch band covered that place.
+
+Now the line on Aaron’s wrist came from the containment cuff.
+
+Same place.
+
+Different claim.
+
+“They took it before I understood what story they planned to tell,” Aaron said.
+
+“Did you ask for it back?”
+
+“Once.”
+
+“Only once?”
+
+“The officer who collected my personal effects said returning one object would create a question they could not control.”
+
+Kade’s fingers tightened on the counter.
+
+“So they built Mom a dead husband out of objects.”
+
+Aaron’s face lost what little color it had.
+
+“That is what they gave her.”
+
+“And you let them.”
+
+“I did.”
+
+No mechanism.
+
+No useful repair.
+
+Just ownership.
+
+Kade released the counter.
+
+“She will not come because you ask.”
+
+“I would not expect her to.”
+
+“She might come because I ask. That is not permission for you to prepare a speech.”
+
+Aaron looked toward the letters.
+
+“What is it permission for?”
+
+“Nothing yet.”
+
+That answer stood between them without collapsing.
+
+Aaron inclined his head.
+
+For the first time, Kade could imagine bringing his mother into the room without becoming responsible for what happened between the adults inside it.
+
+The possibility was not hope.
+
+It was a boundary.
+
 “And then Asterion was worse.”
 
 Aaron looked up again.
@@ -1099,6 +1681,148 @@ Mara said, “Maybe protecting us.”
 Aaron looked at her.
 
 “Maybe.”
+
+The Node’s dark surface contracted along one edge.
+
+Not movement exactly.
+
+A change in which angles existed.
+
+Aaron’s hand shifted on the rail.
+
+“Third shunt,” he said.
+
+Kade followed his gaze to three metal levers beneath the status panel. The first two glowed white. The third pulsed unevenly between blue and black.
+
+“What about it?”
+
+“The internal suppression layer is about to reject ours.”
+
+“How do you know?” Eli asked.
+
+“It folds inward before every rejection.”
+
+The black edge folded again.
+
+Aaron pointed to the lever.
+
+“Pull the shunt when the outer ring reaches minimum intensity.”
+
+Kade looked from the lever to him.
+
+“Why me?”
+
+“I cannot release the rail.”
+
+“That explains why not you.”
+
+Aaron’s mouth tightened.
+
+“Park has barred Mara from another field correction. Sera and Julian are below the inversion line. Sen’s field would couple to mine through the control surface.”
+
+He stopped.
+
+Then added, “And you can read the relationship well enough to correct my timing.”
+
+Kade stepped to the third shunt.
+
+The metal handle had been wrapped in old black tape. One worn channel matched the width of a thumb.
+
+Aaron’s thumb.
+
+Kade put his hand somewhere else.
+
+“Will this connect me to you again?”
+
+“Not unless you reach through it.”
+
+“That is not a useful instruction.”
+
+“Treat the lever as a lever.”
+
+“Finally, a system I understand.”
+
+The outer ring began to dim.
+
+Aaron counted down from five.
+
+At three, the pulse in the shunt doubled.
+
+At two, the ring brightened again.
+
+Aaron continued toward one.
+
+“Wait,” Kade said.
+
+Aaron stopped counting.
+
+The black pulse traveled from the lever into the rail under Aaron’s hand. The ring dimmed a second time, slower than before.
+
+Kade pulled.
+
+The shunt resisted.
+
+He used both hands.
+
+“Do not force it.”
+
+“Then tell it to cooperate.”
+
+“Follow the pulse.”
+
+The pressure against Kade’s palms loosened for a fraction of a second.
+
+He moved with it.
+
+The lever came down.
+
+White light raced through the outer ring. The folded edge of the Node opened into its previous impossible shape.
+
+On the signal graph, two rising curves separated.
+
+One fell.
+
+The other kept climbing.
+
+Eli exhaled over comms.
+
+“External amplification reduced by twelve percent. Internal source unchanged.”
+
+Kade released the shunt.
+
+Black tape had left a stripe across his palm.
+
+Aaron examined the ring, then Kade’s hand.
+
+“You changed the timing.”
+
+“Your count was wrong.”
+
+“The count was the same one I have used for six years.”
+
+“Then it became wrong today.”
+
+For an instant Aaron looked offended.
+
+The expression was so familiar Kade nearly checked his own face.
+
+Aaron returned his attention to the signal graph.
+
+“It is changing faster now.”
+
+“Because it is more afraid?” Sera asked.
+
+“Or because the damage removed another option.”
+
+Kade stared at the two curves.
+
+The adjustment had worked.
+
+The problem had still become worse.
+
+That was the chamber in miniature.
+
+Seventeen years of correct repairs against a condition that kept changing around them.
 
 That word again.
 
