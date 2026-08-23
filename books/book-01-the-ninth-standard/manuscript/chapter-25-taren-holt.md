@@ -16,7 +16,7 @@ Taren texting Mara within minutes of her skipping dinner.
 
 Taren knowing which lift would be closed for maintenance before the maintenance notice appeared.
 
-At the time, it had all felt like Taren being Taren.
+At the time, it was simply Taren being Taren.
 
 Useful.
 
@@ -84,7 +84,7 @@ For months, Kade had treated Taren’s social ease as almost the opposite of sec
 
 Somebody that open could not be hiding much.
 
-That assumption felt embarrassingly simple now.
+That assumption embarrassed him now.
 
 “What is the Continuity Directorate?” Kade asked.
 
@@ -94,7 +94,7 @@ Barely.
 
 Enough.
 
-Kade felt something inside him go cold.
+Kade’s next breath stopped halfway.
 
 Taren recovered quickly.
 
@@ -118,13 +118,15 @@ Taren looked down at the unopened drink in his hand.
 
 “Kade.”
 
-“No.”
+Kade set the unopened drink on the ledge between them.
+
+“Not this time.”
 
 Taren looked up.
 
 The easy expression was gone.
 
-For one second Kade saw someone much more tired underneath.
+For one second someone much more tired showed through.
 
 Then footsteps sounded near the roof door.
 
@@ -158,7 +160,7 @@ Kade stared at him.
 
 Taren winced.
 
-Kade noticed.
+The wince came before Taren could hide it.
 
 Then Taren said, very quietly, “Do not go looking for Directorate files alone.”
 
@@ -294,7 +296,7 @@ The smile failed halfway.
 
 “Your friend.”
 
-“That was not the question.”
+“You know what I’m asking.”
 
 “It was not.”
 
@@ -314,7 +316,7 @@ Instead Taren sat.
 
 “My mother is diplomatic security. My uncle worked continuity analysis.”
 
-Kade felt the word.
+The word struck harder than the family history around it.
 
 “Directorate.”
 
@@ -424,7 +426,7 @@ Mara said, “Directorate.”
 
 Taren nodded.
 
-Kade felt betrayal before he understood its size.
+The last months rearranged themselves around that nod.
 
 Not yet a full shape.
 
@@ -582,9 +584,11 @@ Taren did not move the stylus.
 
 “Possibly.”
 
-“That is not a small qualification.”
+“You left that out upstairs.”
 
-“No. It isn’t.”
+Taren’s mouth tightened.
+
+“I should have said it upstairs.”
 
 Sera added a final mark where the maintenance spine met the archive corridor.
 
@@ -752,9 +756,7 @@ Taren smiled weakly.
 
 Sera did not laugh.
 
-Kade noticed.
-
-Mara did too.
+Neither did Mara.
 
 The archive corridor smelled like cold metal and old air. Unlike the student-access legacy systems, this section had been maintained. New sensors. New seals. New cameras that turned away when Taren touched a wall panel.
 
@@ -766,7 +768,7 @@ Taren kept walking.
 
 “I know the infrastructure.”
 
-“That was not the question.”
+“I asked whether you’d used it.”
 
 “I keep doing that.”
 
@@ -820,9 +822,7 @@ Asterion precursor site.
 
 Sen had granted limited historical clearance after the Contact Zero disclosure, but gaps remained inside the authorization large enough to hide decades.
 
-Taren stayed near the door.
-
-Kade noticed that too.
+Taren stayed near the door, apart from the search he had brought them to.
 
 “You’re not searching?”
 
@@ -854,7 +854,7 @@ The first paragraph was enough.
 
 **Objective: determine feasibility of coordinated multi-operator Boundary control under centralized command authority.**
 
-Kade felt sick.
+Kade’s stomach drew tight.
 
 “Centralized command.”
 
@@ -1012,7 +1012,9 @@ The voice paused.
 
 “This is containment of an unauthorized disclosure.”
 
-“That is not what I asked.”
+Taren kept his gaze on the green route.
+
+“You assigned me to Mercer. Was this always the endpoint?”
 
 “You were assigned to report instability around Mercer. His decision to enter a restricted collection validates the concern.”
 
@@ -1070,7 +1072,9 @@ Silence.
 
 The red lights pulsed once.
 
-Kade heard the words and felt almost nothing.
+Kade waited for anger.
+
+Nothing came.
 
 That frightened him.
 
@@ -1082,7 +1086,7 @@ Taren looked away.
 
 “Since before you arrived.”
 
-Eli whispered, “No.”
+Eli’s arms cinched around the data slate.
 
 Kade thought of the Meridian roof.
 
@@ -1104,9 +1108,9 @@ Taren breathed in.
 
 “My family has Directorate connections.”
 
-“That is not enough.”
+“Family connections didn’t put you at our table.”
 
-“It isn’t.”
+“They didn’t.”
 
 Taren looked at the floor.
 
@@ -1318,7 +1322,7 @@ Taren’s face twisted.
 
 That hurt everyone differently.
 
-Kade felt it in his chest.
+Kade’s breath shortened.
 
 Every useful warning.
 
@@ -1396,9 +1400,7 @@ Pipes crowded the ceiling. Equipment carts narrowed the turns. Red emergency lig
 
 Taren led.
 
-Sera stayed directly behind him where she could stop him if leading became escaping.
-
-Kade noticed both choices.
+Sera stayed directly behind him, close enough to stop him if leading became escaping.
 
 At the first junction Taren turned left.
 
@@ -1490,7 +1492,7 @@ That was worse than anger.
 
 “I let you.”
 
-“You watched him decide to stay.”
+“You sat with him while he decided to stay.”
 
 “I reported the decision around it.”
 
@@ -1668,7 +1670,7 @@ Taren swallowed.
 
 “A possible command node.”
 
-Kade felt sick.
+Nausea climbed into Kade’s throat.
 
 Mara said, “He cannot even intentionally reproduce Boundary architecture.”
 
