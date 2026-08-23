@@ -166,7 +166,7 @@ Eli winced.
 
 She hit him again.
 
-“Also reasonable.”
+Eli opened his mouth, then shut it.
 
 Then she hugged him.
 
@@ -282,8 +282,6 @@ It was breath against Kade’s collar and a shoulder too narrow under borrowed c
 
 Kade loosened his grip by approximately nothing.
 
-“Good.”
-
 Eli’s hand struck his back once. Awkward. Then again, more deliberately.
 
 When he finally stepped back, he looked at Eli’s face.
@@ -388,9 +386,7 @@ Eli raised a hand.
 
 “I should start.”
 
-Kade looked at him.
-
-“Fine.”
+Kade pointed at the display. “Start.”
 
 Eli opened a network map.
 
@@ -456,7 +452,7 @@ Kade remembered the pressure door.
 
 “That was incredibly stupid.”
 
-“It was.”
+The medical patch crinkled under Eli’s thumb.
 
 “You could have died.”
 
@@ -466,7 +462,7 @@ Kade ran out of words.
 
 Eli’s expression lost the last trace of smugness.
 
-“I know.”
+Eli’s eyes dropped.
 
 The room stayed quiet.
 
@@ -500,9 +496,7 @@ A seventeen-year-old deciding while afraid.
 
 “Because if you start telling the story like you knew you were going to survive, I will hit you.”
 
-Eli considered.
-
-“Reasonable.”
+Eli looked back at the red route.
 
 Sen stepped closer.
 
@@ -532,9 +526,7 @@ Kade read the sentence twice.
 
 “That is your entire institution in one paragraph.”
 
-Sen accepted the criticism.
-
-“Accurate.”
+Sen read the premise. “Suspicion became architecture.”
 
 The protocol steps appeared.
 
@@ -584,7 +576,7 @@ Kade looked at Sen.
 
 “You designed this?”
 
-“No. Aaron did.”
+“Aaron did.”
 
 The room changed.
 
@@ -616,7 +608,7 @@ Kade laughed once.
 
 “Kade.”
 
-“No. Later.”
+Kade braced against the console. “Eli first.”
 
 He forced himself back to Eli.
 
@@ -802,7 +794,7 @@ He closed the test panel.
 
 Eli answered quickly.
 
-“No. My mother was told privately after the first eight hours.”
+“My mother knew. Park reached her after the first eight hours.”
 
 Kade looked at him.
 
@@ -856,9 +848,7 @@ Then Kade looked back at Sen.
 
 “You let me think he was dead.”
 
-Sen’s face tightened.
-
-“I did.”
+Sen kept her hands visible. “I let you believe it.”
 
 “You watched me stand in the Hall of Names.”
 
@@ -990,7 +980,7 @@ Kade looked at him.
 
 “To the twelve hours.”
 
-“You said.”
+Kade nodded once.
 
 “I also agreed to extend after Sen explained the surveillance.”
 
@@ -1022,17 +1012,15 @@ Kade understood the impulse enough to dislike it less.
 
 “I am still angry.”
 
-“I would be concerned if you weren’t.”
+“You should be.”
 
-“Good.”
-
-“Good.”
+Eli’s hands stayed locked on the chair.
 
 They stood there.
 
 Alive and furious.
 
-Kade realized grief did not reverse simply because the person returned.
+Grief did not reverse simply because the person returned.
 
 The two days still existed.
 
@@ -1214,7 +1202,7 @@ People making exceptions and then living inside them for thirty-one years.
 
 Eli ate two sandwiches while they talked.
 
-Kade noticed because watching a presumed-dead person complain about mustard was strangely therapeutic.
+A presumed-dead person complaining about mustard was strangely therapeutic.
 
 “This is terrible mustard.”
 
@@ -1244,7 +1232,7 @@ Eli stopped chewing.
 
 “I missed the panel.”
 
-Kade felt anger again on his behalf.
+Anger tightened Kade’s hands on Eli’s behalf.
 
 Sen said, “Professor Kim postponed it.”
 
@@ -1482,7 +1470,7 @@ Kade leaned toward the tablet.
 
 Julian’s voice softened by half a degree.
 
-“Good. You are both alive.”
+“Stay that way.”
 
 Then the channel closed.
 
@@ -1550,17 +1538,17 @@ He could make this one too.
 
 Kade hated that.
 
-“Fine,” he said.
+“Stay with Sera. Park changes the limit, you stop.”
 
 Eli blinked.
 
-“Fine?”
+“You’re letting me choose?”
 
 “Do not make me regret respecting your agency.”
 
 “That is a very threatening sentence.”
 
-“Good.”
+Kade waited until Eli moved beside Sera.
 
 For the first time since Northline, Kade wished the problem were only whether he belonged at school.
 

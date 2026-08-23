@@ -43,7 +43,7 @@
 | 26 | Lab Six | 6,500 | Passes 1–6 complete — 6,503 words |
 | 27 | The Empty Bed | 4,800 | Passes 1–6 complete — 4,814 words |
 | 28 | Memorial | 4,600 | Passes 1–6 complete — 4,611 words |
-| 29 | Ghost Protocol | 5,600 | Passes 1–6 complete — 5,629 words |
+| 29 | Ghost Protocol | 5,600 | Passes 1–6 cadence re-passed — 5,664 words |
 | 30 | Siege of Asterion | 7,800 | Passes 1–6 complete — 7,940 words |
 | 31 | Aaron | 6,200 | Passes 1–6 complete — 6,351 words |
 | 32 | Consensus | 8,200 | Passes 1–6 re-passed — 8,248 words |
