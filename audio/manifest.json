@@ -159,7 +159,19 @@
           "number": 8,
           "title": "The Ladder",
           "manuscript": "books/book-01-the-ninth-standard/manuscript/chapter-08-the-ladder.md",
-          "renders": []
+          "renders": [
+            {
+              "render": "holden",
+              "engine": "ElevenLabs",
+              "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
+              "file": "audio/book-01-the-ninth-standard/ch08-the-ladder.holden.mp3",
+              "bytes": 48600337,
+              "durationSec": 3037.45,
+              "sha256": "d86c6d63e46298d453e7000965c44fc2485a4aca29c063c7fe2aae0eba375361",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch08-the-ladder.holden.mp3",
+              "note": "Rendered from the expanded manuscript. Per-chunk drift corrected at assembly: brightness spread 374->163 Hz, pauses normalised to 0.89s median. higgsfield MCP has no request stitching, so correction is applied post-render."
+            }
+          ]
         },
         {
           "number": 9,
