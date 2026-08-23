@@ -4,9 +4,9 @@ Kade had spent most of his life assuming trust was something people demanded bef
 
 Now the chamber was coming apart, his father could barely stand, and the only thing between Asterion and an unknown signal was a capability that would not work unless other people chose him back.
 
-That felt unfair.
+That was unfair.
 
-It also felt accurate.
+It was also accurate.
 
 Containment read twenty-three percent.
 
@@ -88,7 +88,7 @@ Julian had positioned himself where he could reach Aaron, Kade, or the lower sta
 
 Taren stood apart from all of them, one hand near the legacy station he had unlocked with stolen Directorate access. Nobody had told him to stay. Nobody had told him he was allowed.
 
-Sen held the portable control interface against her ribs. She had spent years making decisions for other people and calling it protection. Now she watched Kade with the rigid stillness of someone who knew her expertise might be part of the problem.
+Sen held the portable control interface against her ribs. She had spent years making decisions for other people and calling it protection. Now her attention stayed on Kade. Her thumb hovered above three expert overrides and touched none.
 
 Aaron had one hand on the rail and the other pressed flat over the live control surface. The system read his pulse as an input. Kade could see every beat translated into a small correction in the innermost ring.
 
@@ -158,7 +158,7 @@ Aaron met his eyes.
 
 “It was easier to measure.”
 
-The answer struck Julian differently than everyone else. Kade saw it and left it alone.
+Julian's jaw tightened at the answer. Kade left it alone.
 
 Mara pointed toward the Refuge Node.
 
@@ -242,6 +242,8 @@ They did not need one person willing to try Consensus.
 
 They needed six people to reject the alternative separately.
 
+---
+
 Kade closed his eyes.
 
 The chamber became relationships.
@@ -270,7 +272,7 @@ Kade looked at Mara first.
 
 Not because she was strongest.
 
-Because he knew what trust between them felt like when neither pretended it was automatic.
+Because neither of them pretended trust was automatic.
 
 “Mara?”
 
@@ -380,27 +382,27 @@ Kade had expected Mara's control to feel rigid.
 
 It did not.
 
-It felt like thousands of adjustments she had made before anyone else noticed they were necessary. Pressure redistributed through the outside edge of her stance. A tremor in the platform met with a counterfield no larger than it needed to be. The cracked damper entered her awareness as angles, tolerances, and one widening region where no stable answer lasted longer than half a second.
+Mara's voice remained level. “Pressure is riding the outside of my stance. I can keep the counterfield small.” A tremor in the platform met a correction no larger than it needed to be. The cracked damper entered her awareness as angles, tolerances, and one widening region where no stable answer lasted longer than half a second.
 
 Nothing in her contribution said *obey me*.
 
 It said *this is what I can hold*.
 
-Kade felt the distinction as clearly as temperature.
+The distinction registered as clearly as temperature.
 
-He also felt the boundary she kept around everything else.
+A boundary held around everything else.
 
 There were rooms he could not enter.
 
 Her fear was not available to him.
 
-Neither were her memories, her family, or whatever she had thought when she first saw him in a borrowed Asterion uniform trying not to look impressed.
+Neither were her memories, her family, or whatever she had thought when she first met him in a borrowed Asterion uniform trying not to look impressed.
 
 The shared space contained only what the work required.
 
 For the first time in Kade's life, a limit on what someone would give him did not feel like rejection.
 
-It felt like proof the choice was real.
+The limit proved the choice was real.
 
 Mara inhaled sharply.
 
@@ -486,7 +488,7 @@ Mara planning decisions beyond his improvisational horizon.
 
 He had learned from losing because the boundary had been clear. Her plan. His choices. A score neither of them could argue with.
 
-This felt more intimate than that and required the same discipline.
+This was more intimate and required the same discipline.
 
 “What can I ask for?”
 
@@ -512,7 +514,7 @@ Mara rubbed her temple.
 
 “Thank you.”
 
-“No.”
+“That was not praise.”
 
 Eli said, “Eleven minutes, twelve seconds.”
 
@@ -548,7 +550,7 @@ Too quickly.
 
 Kade’s awareness lurched outward.
 
-He felt Mara’s field geometry and Sera’s spatial risk model at the same time.
+Mara's field geometry and Sera's spatial risk model arrived at the same time.
 
 The two overlapped incorrectly in his head.
 
@@ -556,7 +558,7 @@ For half a second Kade treated them as one input.
 
 Sera jerked her hand back.
 
-“No.”
+“Stop.”
 
 The connection collapsed.
 
@@ -632,17 +634,15 @@ Loads that needed somewhere safe to go.
 
 People before structures.
 
-The entire chamber’s emergency architecture became suddenly legible through her training.
+The entire chamber’s emergency architecture became legible through her training.
 
-Kade had assumed Sera would bring a map.
+Sera spoke into her comm and the shared space at once. “North shelter: two hundred fourteen students, six injured staff. Dining hall is triage—redundant power, two stretcher exits. West bridge empty but damaged. Old administration stair is moving upward under Bell.”
 
-She brought movement.
-
-The chamber existed inside the island. The island existed as routes between occupied spaces. North shelter held two hundred fourteen students and six injured staff. The dining hall had become triage because it possessed open floor, redundant power, and two exits wide enough for stretchers. The west bridge was empty but damaged. The old administration stair had people moving upward under Instructor Bell's supervision.
+She did not bring a map. She brought movement, every report attached to a route and consequence.
 
 Kade did not know how Sera knew every count.
 
-He felt the counts changing as reports reached her comm.
+The counts changed as reports reached her comm.
 
 Two hundred fourteen became two hundred fifteen when a missing first-year arrived at north shelter.
 
@@ -652,7 +652,7 @@ Another opened when a faculty team cleared the glass corridor.
 
 Sera did not see a cracked support as material about to fail.
 
-She saw where failure would go.
+For Sera, failure had a destination.
 
 Into the east foundation.
 
@@ -666,7 +666,7 @@ The awareness struck Kade with more force than Mara's geometry.
 
 He had spent years seeing exits.
 
-Sera saw everybody who might need one.
+Sera mapped everybody who might need one.
 
 Sera gasped.
 
@@ -680,7 +680,7 @@ Sera gasped.
 
 “Unfortunately.”
 
-Her hand remained on Mara's shoulder, but Kade felt Sera turn part of her attention toward him.
+Her hand remained on Mara's shoulder, but inside the shared space Sera turned part of her attention toward him.
 
 Not her eyes.
 
@@ -694,7 +694,7 @@ The part that assessed whether a person could keep moving.
 
 Mara said, “His right hand is shaking.”
 
-Kade had not noticed.
+Kade's focus had narrowed past his own hand.
 
 Sera had.
 
@@ -744,7 +744,7 @@ He put one hand on Sera’s other shoulder.
 
 The network expanded.
 
-Julian’s presence felt like decisions made before panic could own them.
+Julian's contribution arrived as decisions made before panic could own them.
 
 Force balance.
 
@@ -764,19 +764,11 @@ Julian always seemed to have one.
 
 What entered the shared model was the discipline beneath planning: a constant separation between what mattered, what could still change, and what had already been lost.
 
-The east damper could be recovered.
-
-The damaged outer ring could not.
-
-The lower platform would bear three more major field shocks before its fractured mounts sheared.
-
-Aaron's physical contribution was essential now and unsustainable beyond the next minute.
-
-Kade's attention was the only thing connecting the participants, which made protecting it important and treating it as sacred extremely dangerous.
+“East damper is recoverable,” Julian said. “Outer ring isn't. Lower platform has three shocks left. Aaron has one minute. Kade's attention is the only connection. Protect it, but do not make it sacred.”
 
 Julian weighed those facts without pretending he liked them.
 
-Kade felt echoes of the private training room.
+The private training room echoed through the connection.
 
 Rare does not mean skilled.
 
@@ -834,7 +826,7 @@ Best person in the room owns every failure.
 
 Control with good outcomes becomes leadership.
 
-Kade felt the idea inside Julian now.
+The idea lived inside Julian now.
 
 Not as agreement.
 
@@ -966,7 +958,7 @@ Julian.
 
 “Do all of you agree?”
 
-Kade felt something shift in the room.
+Something shifted in the room.
 
 Taren was not asking Kade.
 
@@ -986,9 +978,7 @@ Then stepped beside Julian and put a hand on his arm.
 
 “I consent.”
 
-The words mattered.
-
-Kade felt that immediately.
+The words changed the structure immediately.
 
 Not ritual.
 
@@ -1002,7 +992,7 @@ Taren entered the shared model carrying something none of the others possessed: 
 
 It did not feel like a collection of passwords.
 
-It felt like suspicion made structural.
+Suspicion had become architecture.
 
 Every access route divided people into categories. Cleared or excluded. Useful or dangerous. Observer or subject. A maintenance panel in the east damper accepted commands from three Directorate pathways that did not appear on Asterion's own system map. Each pathway required a person with the correct inherited authority, and each authority could revoke the one below it.
 
@@ -1010,7 +1000,7 @@ Nothing moved sideways.
 
 Everything moved down.
 
-Kade felt Taren's knowledge of that system alongside his hatred of it.
+Taren's knowledge of that system arrived threaded through his hatred of it.
 
 The two were not cleanly separable.
 
@@ -1024,13 +1014,13 @@ A response-map query that looked like concern.
 
 An archive override timed to avoid audit.
 
-A handler channel designed so the person reporting never saw where the report went next.
+A handler channel designed so the person reporting never learned where the report went next.
 
 For one sick instant, Kade understood how Taren had sat at Meridian's table, laughed at Eli's worst jokes, passed Kade training notes, and remained connected to the system evaluating all of them.
 
 The knowledge made Kade pull back.
 
-Taren felt it.
+Taren flinched.
 
 His hand started to leave Julian's arm.
 
@@ -1088,7 +1078,7 @@ Still there.
 
 “I am offering the security lattice,” he said. “Not loyalty I have not repaired. Not trust you do not owe me. The routes and access logic. That is all.”
 
-Kade felt the boundary settle into place.
+The boundary settled into place.
 
 Specific.
 
@@ -1152,7 +1142,7 @@ She linked a portable interface to the legacy rail.
 
 Eli’s biometric trace appeared on Kade’s side of the system.
 
-Kade felt the boundary of the network waiting.
+The network boundary remained open.
 
 He stopped.
 
@@ -1270,7 +1260,7 @@ Eli changed three flags.
 
 The flood narrowed to what he actively chose to contribute.
 
-For one second, Kade felt past the data.
+For one second, the data parted.
 
 Not into Eli's memory.
 
@@ -1322,6 +1312,8 @@ Chosen.
 
 The network stabilized.
 
+---
+
 Nine percent.
 
 “Now,” Aaron whispered.
@@ -1372,7 +1364,7 @@ A brace.
 
 The damper pushed against it.
 
-Kade felt the correction travel through Mara's stance, down through the platform, and toward the cracked support spine.
+Mara's correction ran through her stance, down through the platform, and toward the cracked support spine.
 
 Julian marked the transfer immediately.
 
@@ -1426,7 +1418,7 @@ Sera's map shifted. The other two routes remained occupied and unacceptable.
 
 Julian's six seconds became three.
 
-Mara held the brace while the damper hammered against it. Kade felt pain arrive in her burned palm and her decision not to hide that information because it affected how long she could maintain control.
+Mara held the brace while the damper hammered against it. Pain flashed through her burned palm, unhidden because it changed how long she could maintain control.
 
 “There is a Directorate test shunt around the breaker,” Taren said.
 
@@ -1444,7 +1436,7 @@ Of course it had.
 
 “Because the Directorate did not document illegal infrastructure honestly.”
 
-The support spine gave a sound Kade felt through his feet.
+The support spine groaned hard enough to rattle Kade's teeth.
 
 Two seconds.
 
@@ -1502,7 +1494,7 @@ Three.
 
 The ocean sinks opened.
 
-For an instant Kade felt the Pacific as an available thermal boundary, enormous and cold beyond the island's concrete roots.
+For an instant the Pacific opened as an available thermal boundary, enormous and cold beyond the island's concrete roots.
 
 Four.
 
@@ -1538,7 +1530,7 @@ Sen looked at the portable interface.
 
 “That also revokes Aaron's manual compensation authority.”
 
-Kade felt Aaron's pulse moving through the inner ring.
+Aaron's pulse moved through the inner ring.
 
 If the authority vanished before Consensus could carry the function, the Refuge Node would speak through every open channel at once.
 
@@ -1616,7 +1608,7 @@ The inner ring went dark.
 
 Mara received the first edge of the compensation field and cried out.
 
-Kade felt its shape through her: not raw power, but seventeen years of tiny continuous correction. Aaron had held the Node's fear inside a boundary so narrow that every variation had passed through his nervous system.
+Its shape reached Kade through her: not raw power, but seventeen years of tiny continuous correction. Aaron had held the Node's fear inside a boundary so narrow that every variation had passed through his nervous system.
 
 Mara could not copy that.
 
@@ -1664,7 +1656,7 @@ The Refuge Node pulsed.
 
 A wave struck the network.
 
-Kade felt every person react.
+Every person reacted through the network.
 
 Pain.
 
@@ -1830,6 +1822,8 @@ Recovery.
 
 **SIGNAL SUPPRESSION RESTORED**
 
+---
+
 The chamber exhaled.
 
 Kade did too.
@@ -1842,7 +1836,7 @@ Kade became aware of how easy it would be to keep it.
 
 That frightened him.
 
-Mara felt the same possibility.
+Mara reached the same edge.
 
 “Release,” she said.
 
@@ -1890,7 +1884,7 @@ Taren tried next.
 
 The security lattice withdrew in sections. Remote authorities disappeared. Hidden routes closed. One pathway remained attached to the shared model—a Directorate diagnostic permission Taren had used so often that his attention returned to it automatically.
 
-Kade felt the old system waiting to make habit look like consent.
+The old system waited to make habit look like consent.
 
 “There is one left,” Mara said.
 
@@ -1968,7 +1962,7 @@ Kade lost the island as movement.
 
 For an instant he could see only walls again.
 
-Then he saw Sera standing in the room, blood under her nose, still listening to three emergency channels because competence did not end when the extraordinary part did.
+Then Sera came back into focus, blood under her nose, still listening to three emergency channels because competence did not end when the extraordinary part did.
 
 Mara remained.
 
@@ -2076,7 +2070,7 @@ Sen stepped forward.
 
 Aaron's shoulders tightened.
 
-Kade saw seventeen years of necessity trying to send him back to the rail before anyone could discover the freedom was temporary.
+Seventeen years of necessity pulled him toward the rail before anyone could discover the freedom was temporary.
 
 He understood that instinct too.
 
@@ -2141,6 +2135,8 @@ Kade wanted that to feel like victory.
 It did.
 
 For approximately five seconds.
+
+---
 
 Then Eli went silent.
 
@@ -2318,7 +2314,7 @@ Sen widened the search.
 
 Star catalogs moved across the display. The first coordinate lay near a dim system with no surveyed planets. The second pointed into interstellar dark. The third did not resolve cleanly against the academy reference frame at all.
 
-Mara saw the mismatch.
+Mara pointed to the third coordinate.
 
 “The third coordinate is moving.”
 
@@ -2342,7 +2338,7 @@ Taren checked whether any hidden human authority had intercepted or altered the 
 
 Nobody needed Kade to make them one thing.
 
-That was part of Consensus too, he realized.
+That was part of Consensus too.
 
 Knowing when to be separate.
 
@@ -2372,7 +2368,7 @@ He looked at the coordinates.
 
 His face changed.
 
-Kade saw recognition.
+Recognition tightened Aaron's face.
 
 Not of the location.
 

@@ -46,7 +46,7 @@
 | 29 | Ghost Protocol | 5,600 | Passes 1–6 complete — 5,629 words |
 | 30 | Siege of Asterion | 7,800 | Passes 1–6 complete — 7,940 words |
 | 31 | Aaron | 6,200 | Passes 1–6 complete — 6,351 words |
-| 32 | Consensus | 8,200 | Passes 1–6 complete — 8,351 words |
+| 32 | Consensus | 8,200 | Passes 1–6 re-passed — 8,248 words |
 | 33 | First Day | 5,600 | Passes 1–6 complete — 5,671 words |
 
 ## Expansion blocks
