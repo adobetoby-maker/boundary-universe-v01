@@ -47,7 +47,7 @@
 | 30 | Siege of Asterion | 7,800 | Passes 1–6 complete — 7,940 words |
 | 31 | Aaron | 6,200 | Pending |
 | 32 | Consensus | 8,200 | Passes 1–6 complete — 8,351 words |
-| 33 | First Day | 5,600 | Pending |
+| 33 | First Day | 5,600 | Passes 1–6 complete — 5,671 words |
 
 ## Expansion blocks
 - **Block A:** Chapters 1–10
