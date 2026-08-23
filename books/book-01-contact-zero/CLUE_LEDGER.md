@@ -25,7 +25,7 @@ Each clue entry has:
 |---|---|---|---|---|---|
 | CZ-01 | Ch 1 | The coupling array calibration anomaly is always Aaron's readings — never anyone else's. Lena jokes that the array is "personally allergic to you." | The array isn't malfunctioning; the Node is using Aaron's field signature as the transmission medium | Ch 8 | PLANTED ✓ |
 | CZ-02 | Ch 1 | The anomaly was absent for 127 consecutive days before today. Aaron notes this in his log as "unusually clean baseline period." | The 127-day silence was the Node waiting for Aaron's current shift rotation to align with array access | Ch 8 | PLANTED ✓ |
-| CZ-03 | Ch 3 | Aaron discovers the signal uses a reflection pattern, not broadcast — it's bouncing his own field signature back at him | This is the mechanism by which the Node addresses him without broadcasting to the whole team | Ch 8 | PENDING |
+| CZ-03 | Ch 3 | Aaron proves that each return preserves random microstructure from his immediately preceding calibration pulse; the Node samples his receiver-defined boundary and returns a transformation rather than broadcasting a self-contained signal | This is the mechanism by which the Node addresses him without broadcasting to the whole team | Ch 8 | PLANTED ✓ |
 
 ---
 
@@ -83,7 +83,7 @@ Each clue entry has:
 
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
-| CZ-16 | Ch 3 | Yuki's argument that field-state compression is "more like music theory than cryptography" — Aaron finds this lateral, wrong, and interesting | Her field architecture will reorganize around a musical-pattern structure when damaged; she was right all along | Ch 6, Refuge Node B1 | PENDING |
+| CZ-16 | Ch 3 | Yuki argues that field-state compression is "harmony," then demonstrates the idea with imperfect rhythm: the receiver is part of the performance, so relationships survive while physical expression changes | Her field architecture will reorganize around a musical-pattern structure when damaged; she was right all along | Ch 6, Refuge Node B1 | PLANTED ✓ |
 | CZ-17 | Ch 5 | Yuki mentions she's been "running a new array analysis method" that she'll show Aaron after lunch | The "new method" is the reconfiguration that causes her contact event — she tells Aaron before it happens | Ch 6 | PENDING |
 | CZ-18 | Ch 9 | Aaron sits with Yuki post-event. She hums a pattern he doesn't recognize. He notes it as "perseverative vocalization, possible neurological symptom." | The pattern is the field-state sequence the Node transmitted — her architecture encoded it as the nearest human-comprehensible analog, music | Refuge Node B1 | PENDING |
 
@@ -95,9 +95,9 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 
 | Reveal | Required clues | Planted | Ready |
 |---|---|---|---|
-| Signal addresses Aaron | 2 | 3 | After Ch 3 |
-| Amara knew first | 2 | 3 | After Ch 5 |
-| Rhys knew before meeting | 2 | 3 | After Ch 13 |
-| Aaron destroys Quieter info | 2 | 3 | After Ch 20 |
-| Conduit encoding | 2 | 3 | After Ch 17 |
-| Yuki's case pattern | 2 | 3 | After Ch 3 |
+| Signal addresses Aaron | 2 | 3 | Yes |
+| Amara knew first | 2 | 2 | Yes — CZ-06 due Ch 5 will reinforce |
+| Rhys knew before meeting | 2 | 0 | No — first clues due Ch 7 |
+| Aaron destroys Quieter info | 2 | 0 | No — first clue due Ch 10 |
+| Conduit encoding | 2 | 0 | No — first clue due Ch 15 |
+| Yuki's case pattern | 2 | 1 | No — second pre-event clue due Ch 5 |

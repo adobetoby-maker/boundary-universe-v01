@@ -12,7 +12,7 @@
 | Book open | Nothing about the signal being addressed | — | 0 | 0 |
 | End Ch 1 | Signal addressed to him, personally. 6 prior instances in 1,127 days. | Filed as calibration error | 1 | 0 |
 | End Ch 2 | Pattern confirmed beyond reasonable doubt: 11 primary-operator events and 3 attenuated events in Yuki's windows. Receiver-specific modulation suspected; mechanism unconfirmed. | Continued filing calibration drift; withheld a completed incident report; directly told Yuki the analysis contained nothing interesting. | 22 daily entries | 0 |
-| End Ch 3 | Reflection architecture confirmed. Node uses field-signature bounce, not broadcast. Yuki argument about music theory. | Same | Growing | 0 |
+| End Ch 3 | Reflection architecture confirmed from passive data: the Node samples a receiver-defined field boundary and returns a transformation through it, adding no energy. Yuki independently identifies that the receiver functions as part of the encoding and argues for music rather than cryptography. Aaron has designed, but not sent, a controlled response pulse. | Continued filing calibration drift; withheld the reflection model and source from Yuki and Amara; described the work as instrument characterization and a receiver-dependent correction loop. | Growing (through Day 29) | 0 |
 | End Ch 4 | First controlled contact attempt. Node responded. | Wrote up as anomalous background radiation. | Growing | 1 (unauthorized) |
 | End Ch 5 | Understands what he is protecting team from. | Same | Growing | 1 (total) |
 | End Ch 6 | Yuki's contact event. Instruments show nothing. Aaron sees exactly what happened. | Incident reported. STOPPED lying about signal existence. Still has not disclosed prior unauthorized analysis. | Growing | 1 (total) |
