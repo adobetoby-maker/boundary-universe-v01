@@ -35,7 +35,7 @@
 | 18 | The Vey Problem | 4,900 | Pending |
 | 19 | Aaron Mercer | 5,800 | Pending |
 | 20 | Run | 4,900 | Pending |
-| 21 | Midyear: Open Rounds | 6,200 | Pending |
+| 21 | Midyear: Open Rounds | 6,200 | Passes 1–6 complete — 6,288 words |
 | 22 | Midyear: Mercer v. Vey | 6,400 | Pending |
 | 23 | The Twelfth Name | 5,300 | Pending |
 | 24 | The Quiet War | 5,600 | Pending |
