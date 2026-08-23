@@ -60,6 +60,200 @@ Students knew pieces of the stories already. Everyone did. The Eleven occupied t
 
 Kade had grown up seeing their faces on public-service campaigns without knowing which one was which.
 
+Halden cleared the portraits.
+
+The wall changed to three versions of the same disaster.
+
+The first was a photograph of Chen Wei standing on the broken east parapet of Lanzhou Dam, one arm extended into rain. Under it, a bronze-plaque sentence declared that Chen had held the failing spillway for nineteen minutes and saved the valley below.
+
+The second was an operations log.
+
+Names filled the screen in narrow columns. Gate technicians. Municipal engineers. A dispatcher who had kept two evacuation routes open after the main network failed. Six village crews who had cleared debris from auxiliary channels by hand. Chen appeared halfway down page four beside a field-output estimate and a medical override he had ignored.
+
+The third was a schoolbook paragraph.
+
+It was forty-one words long.
+
+“Those cannot all be the assigned reading,” someone said.
+
+“They were,” Halden replied. “Your optimism about my restraint is touching.”
+
+He divided the room into tables of four and placed a seventy-five-word limit on the wall.
+
+“Write the version that belongs in a public memorial. You have twelve minutes. Every fact must survive contact with the record, and a visitor must be able to remember it after leaving.”
+
+Kade looked at the three sources.
+
+“That is not history,” he said.
+
+The Sol student beside him turned her tablet sideways.
+
+“It is literally Public History.”
+
+“It is a word-count trap.”
+
+“Also literally Public History.”
+
+The other two students at the table had already opened a shared document. One copied the plaque sentence. The other began listing names from the operations log.
+
+Kade counted the list.
+
+“You are at a hundred and nine words before verbs.”
+
+The student with the list drew back.
+
+“People deserve credit.”
+
+“Agreed. They also deserve syntax.”
+
+The Sol student highlighted the plaque.
+
+“Keep Chen. He is why anyone visits the memorial.”
+
+“The auxiliary channels are why the valley is still there.”
+
+“Nobody is putting six drainage crews on a plaque.”
+
+“Then the plaque is about branding, not the disaster.”
+
+She gave him the patient look of someone discovering that his reputation had not been exaggerated.
+
+“The field load would have killed anyone else.”
+
+“I am not taking Chen out.”
+
+“You objected to his name before we wrote anything.”
+
+“I objected to the sentence giving him every verb.”
+
+That stopped her.
+
+Kade pulled the operations map onto the table display.
+
+The dam crossed the river in a shallow gray arc. Red marks showed the east parapet failure and two jammed gates. Blue marked the auxiliary channels. Evacuation routes spread down-valley in yellow.
+
+Chen’s field had braced the cracked spillway long enough to keep the reservoir from releasing at once.
+
+It had not opened a gate.
+
+It had not cleared a channel.
+
+It had not moved twenty-three thousand people out of the floodplain.
+
+The table’s fourth student pointed to a line near the bottom of the log.
+
+“The south dispatcher rerouted the hospital convoy six minutes before Chen reached the parapet.”
+
+The Sol student frowned.
+
+“That should be in there.”
+
+“We have seventy-five words,” Kade said.
+
+“I know.”
+
+“Public History.”
+
+She ignored him with precision.
+
+They built the first version around Chen.
+
+It used sixty-nine words and made the technicians sound like equipment.
+
+They built the second around the evacuation.
+
+It made Chen’s nineteen minutes sound incidental, which was also untrue.
+
+The third version named the failure in chronological order. Nobody at the table could remember it thirty seconds after closing the document.
+
+Around them, arguments moved through the lecture hall.
+
+One table wanted every responder represented by an emblem. Another wanted no individual names. Someone in the back asked whether casualty estimates belonged on a memorial visited by children.
+
+Halden refused to answer any question that contained the phrase *supposed to*.
+
+With four minutes remaining, Kade returned to the operations map.
+
+“What changed?” he asked.
+
+The Sol student stared at him.
+
+“The dam broke.”
+
+“It was already breaking. What changed between the reservoir killing everyone and not killing everyone?”
+
+The fourth student traced the sequence.
+
+“The dispatcher moved the lower valley first. The gate crews reduced pressure. The villages cleared the channels. Chen held the spillway until the water dropped below the fracture.”
+
+“So write that.”
+
+They did.
+
+The final version named Chen, the gate crews, the dispatcher, and the villages. It described the nineteen minutes as time purchased for other people’s work, not one man saving a valley by himself.
+
+Seventy-eight words.
+
+“Three over,” the Sol student said.
+
+Kade deleted *historic*, *courageous*, and *unprecedented*.
+
+“Seventy-five.”
+
+She read it twice.
+
+“I hate that those were free.”
+
+“Adjectives often are.”
+
+Halden called time.
+
+Six selected versions appeared on the wall without table names. He let the class vote on which one was most accurate and which one they could repeat from memory.
+
+The plaque won memory.
+
+Kade’s table won accuracy.
+
+No version won both.
+
+Halden left the results visible.
+
+“The plaque is not false,” he said. “Chen Wei held the east spillway for nineteen minutes. Every medical model says doing so should have killed him.”
+
+He touched the operations log.
+
+“This is not false either. If the gate crews had abandoned their stations, Chen would have purchased four minutes instead of nineteen. If the dispatcher had waited for confirmation, thousands of people would have remained in the floodplain. If six villages had obeyed the first evacuation order instead of clearing the channels, the water would have gone over the western berm.”
+
+The Sol student crossed her arms.
+
+“So what is the correct memorial?”
+
+“There is no version without a boundary.” Halden pointed to the seventy-five-word limit. “Space is a boundary. Attention is a boundary. Classification law, grief, national pride, the wishes of survivors—all boundaries. Public history is the practice of choosing what crosses them.”
+
+Kade looked at Chen’s photograph.
+
+One person in the rain.
+
+A thousand other choices beyond the frame.
+
+Halden said, “The ethical failure is not compression. Memory requires compression. The failure comes when the short version changes who had agency, who paid the cost, or what made success possible.”
+
+The student two rows ahead raised his hand again.
+
+“How do we know what got cut if records are sealed?”
+
+“Sometimes we do not.”
+
+“Then the public version wins.”
+
+“For a while.” Halden restored the Eleven to the wall. “Records leave shapes. Missing citations. Accounting mismatches. Buildings designed around uses nobody acknowledges. A careful historian does not invent an answer to fill a gap, but neither do they call the gap empty.”
+
+Kade wrote that down.
+
+Then, beneath *publicly*, he added:
+
+*Who got the verbs?*
+
 Halden ended with an image of Asterion’s Hall of Standards.
 
 Eleven portraits in three rows.
@@ -813,6 +1007,80 @@ Sera looked at him.
 “You scanned a memorial wall?”
 
 “It broadcast at me.”
+
+Mara crouched beside the base molding.
+
+“Installation date only proves renovation.”
+
+Eli joined her.
+
+“The panel has a device address.”
+
+“Meaning?” Kade asked.
+
+“Meaning the stone expects power.”
+
+He opened the public maintenance interface. Eleven portrait addresses reported normal illumination, climate control, and proximity safety. A twelfth address sat between the last two portraits.
+
+Its label read **ARCHITECTURAL FILL**.
+
+Its power draw was zero.
+
+Kade pointed at it.
+
+“Can you wake it?”
+
+“Probably.”
+
+Sera said, “No.”
+
+Eli lowered his hand before touching the control.
+
+Kade looked at her.
+
+“We already generated an oversight notification.”
+
+“Exactly. We are not generating a second one by energizing unknown wiring inside a wall full of famous people.”
+
+“The people are photographs.”
+
+“Then the paperwork will be even more embarrassing.”
+
+Mara enlarged the building record they already had.
+
+“We do not need to energize it.”
+
+She aligned the old plan with the current elevation. Each portrait recess had four load anchors and a conduit path for the environmental controls. The covered bay retained the same anchors. The conduit ended behind the new slab instead of being removed.
+
+Eli checked the renovation ledger.
+
+“Eleven portrait assemblies transferred. One assembly removed under sealed disposition.”
+
+“Name?” Kade asked.
+
+“None.”
+
+“Date?”
+
+Eli gave it.
+
+The work had happened two years before the first public list of Standard Eights.
+
+The same gap as the technical records.
+
+Mara saved the public documents and their checksums, then closed the maintenance interface.
+
+“Now it proves more than strange symmetry.”
+
+“It proves somebody removed a portrait,” Sera said. “It does not prove whose.”
+
+Kade looked from the sealed identifier on Eli’s tablet to the powered recess built for a face.
+
+“Not by itself.”
+
+That mattered.
+
+The evidence could support him without becoming whatever he wanted it to be.
 
 Kade touched the smooth panel.
 
