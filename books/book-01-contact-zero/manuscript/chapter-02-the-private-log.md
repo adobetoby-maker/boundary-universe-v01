@@ -4,178 +4,440 @@
 
 The retrospective analysis took eleven days.
 
-This was longer than Aaron had estimated. His original estimate had assumed that extending the search window from 127 days to the full 1,127-day posting would require proportional computational time — roughly nine times longer than the initial analysis, or approximately fifty-four hours. What he had not accounted for was that the extended analysis would return results requiring follow-up analysis, which would return results requiring additional follow-up analysis, and that this sequence would not terminate until he had a complete picture rather than a partial one, and that a complete picture of a 1,127-day pattern was more complex than a complete picture of a 127-day pattern by a factor that was not simply nine.
+Aaron's first estimate allowed fifty-four hours. Extending a search from 127 days to the full 1,127-day posting meant nine times the data, plus a margin for archive latency and the coupling array's habit of storing raw phase residuals in a format designed by someone who disliked future colleagues.
 
-By Day 1,132, he had confirmed that the six prior instances he had identified on Day 1,127 were six of eleven. The other five had appeared at Day 204, Day 389, Day 512, Day 678, and Day 901.
+The estimate failed before lunch on Day 1,128.
 
-By Day 1,136, he had confirmed that all eleven instances fell within his coupling array shifts, that none fell within any other technician's shifts, and that the spacing distribution between instances was not random in any statistical framework he tested.
+Helix Perimeter kept three versions of every field scan. The station log retained the processed result: background state, instrument confidence, operator coupling index, deviations outside tolerance. The technical archive retained sensor-level samples for ninety days. Everything older went into cold storage as compressed phase differences, adequate for reconstructing ordinary heliospheric activity and inadequate for investigating an event no one had known to preserve.
 
-By Day 1,138, he had identified a pattern in the spacing: the intervals between instances corresponded, imprecisely but consistently, to a progression. The early instances were separated by long intervals. The later instances were separated by shorter ones. Something was increasing the frequency of the signal. Whatever was producing it had either developed confidence or urgency in the 1,127 days since he had arrived on Helix Perimeter.
+Aaron needed the third version, which did not officially exist. Every primary-array scan induced a small corrective exchange between the sensor lattice and its calibration reservoir. The exchange supplied no net energy; it reassigned where charge fluctuations could resolve across the lattice for less than eight microseconds. The controller logged those corrections to diagnose hardware fatigue, then overwrote the useful labels because the instrument team had not anticipated that a field technician might someday care about the exact shape of discarded calibration noise from three years earlier.
 
-The distinction between confidence and urgency was significant and he did not yet have the data to determine which was the correct interpretation.
+This struck Aaron as unfair to the instrument team. They had anticipated many unlikely requirements. They had missed only his.
 
-By Day 1,139, he had begun to think about what he was going to do.
+He built a reconstruction pipeline from the correction logs.
+
+At 12:43, the first pass returned four hundred and twelve candidate events.
+
+At 13:10, he excluded three hundred and seventy-six as solar-wind boundary shifts.
+
+At 15:26, he excluded twenty-four as clock harmonics introduced during two station software upgrades.
+
+Twelve remained.
+
+One came from a diagnostic loop in which the array had recorded its own test pulse and then congratulated itself on detecting it. Aaron removed that one on principle.
+
+Eleven remained.
+
+He stared at the event list until the monitoring bay lights reduced to evening output. Nothing in the list changed under observation. This qualified as the day's most reassuring result.
+
+Then he encrypted the reconstruction pipeline, moved it into his personal research partition, and named the job ARRAY RESPONSE CHARACTERIZATION. The name described the work with enough accuracy to survive a casual audit and not enough accuracy to invite one.
+
+He added a second entry to the private log.
+
+*Day 2. Eleven candidate instances across full archive. Reconstruction confidence varies with archive age. No conclusion until manual validation. I have placed the analysis in my personal partition because the shared queue would expose an unverified result to the team.*
+
+He read the sentence twice.
+
+*That is a reason. It is not the reason.*
+
+He saved the entry and went to dinner twenty-three minutes late.
 
 ---
 
-The private log now had eight entries. He read them in sequence on the morning of Day 1,140, sitting at his terminal before the 06:14 calibration run, as a method of orienting himself to where he was in the analysis.
+Helix Perimeter announced its age through sound.
 
-*Day 1 — Six prior instances. Spacing: shift-correlated, non-random.*
+The station had operated for four years, which did not qualify as old by orbital infrastructure standards. It qualified as old enough for every pump, fan, bearing, and compensation flywheel to acquire an individual opinion. At night the ventilation trunk above Aaron's berth clicked every forty-seven seconds as thermal contraction moved a loose bracket. The spin-compensation assembly sent a low vibration through the deck whenever the station corrected its attitude. Somewhere behind the galley bulkhead, a coolant valve gave two sharp knocks before it opened.
 
-*Day 3 — Extended search complete. Eleven instances total. Spacing consistent with operator-specific addressing.*
+Aaron knew the sounds because departures from pattern woke him.
 
-*Day 5 — Frequency progression confirmed. Early instances: 118-day intervals. Recent instances: 14–22-day intervals. Something is accelerating.*
+During the night after Day 1,128, the bracket clicked correctly. The flywheel corrected twice. The coolant valve knocked at 02:16 and again at 04:51. Aaron remained awake through all of it, running the same question against eleven candidate events.
 
-*Day 6 — Query: is the acceleration a function of elapsed time (the source is becoming more urgent over the years) or a function of my own field-state development (the source is responding to changes in my coupling architecture)? Cannot determine without additional data.*
+If they came from the station, some station variable should explain them.
 
-*Day 7 — Ran my own coupling index history. My measured coupling resonance strength has increased by approximately 34% since Day 1 of my posting. Field architecture develops with practice. The increase in signal frequency tracks with the increase in my coupling index with a correlation coefficient of 0.71. This is not definitive but it is not coincidence.*
+If they came from him, his field state should explain them.
 
-*Day 9 — Something in this environment has been monitoring my field development and increasing contact attempts as my architecture becomes more capable of receiving them. This is the only interpretation consistent with all available data.*
+If they came from somewhere else, the phrase *somewhere else* covered enough volume to make the question professionally unhelpful.
 
-*Day 11 — I have now been aware of this situation for eleven days without reporting it. The first three days, this was because I did not have enough information to report. The last eight days, this has been a choice.*
+At 05:37 he gave up on sleep and went to the monitoring bay.
 
-*Day 12 — I am documenting the moment at which silence became a decision rather than a default. Day 1,139 of my posting. This is my ninth private log entry. The next person to read these will either be me or someone who found them after something went wrong.*
+His workstation showed a supervisory access marker from 05:11.
 
-Aaron closed the log entries. He ran the calibration sequence. It returned the expected anomaly. He documented it as calibration drift.
+Aaron stopped with one hand on the back of his chair. The local console recorded every unlock even when the user opened no protected files. Amara's credential had unlocked the workstation for forty-three seconds. No directory access followed. No analysis job changed state. The shared terminal log showed nothing beyond her routine morning review.
 
-He was aware that this was the eleventh time he had made this specific choice since beginning the private log. He was also aware that making a choice eleven times does not make it more correct than making it once. The decisions compounded; they did not justify each other.
+Lena had left a maintenance handoff on the adjacent station before going off shift. Amara often checked unresolved work at the console where someone had created it; context reduced mistakes. She had probably opened Lena's thermal-gradient model, seen that the active window belonged to Aaron, and moved across one seat.
+
+That explanation required no further action, so Aaron accepted it.
+
+He validated the first candidate against the raw sensor corrections.
+
+The event occurred on Day 204 at 16:32 station time. Aaron's roster placed him at the primary array. His coupling-index record showed a routine calibration pulse thirty-one seconds before the event. The sensor lattice then registered four structured changes at 4.3-second intervals, each nested inside the ordinary charge-balancing exchange. The processed log classified them as operator-linked phase noise.
+
+Aaron reconstructed the first change. Its outer shape matched his own coupling signature. The internal phase relationships did not.
+
+He reconstructed the second. Same outer shape. Different internal relationships.
+
+The instrument had not recorded energy entering the array. It had recorded a temporary change in which parts of the sensor lattice could exchange charge with its reservoir. The result resembled his calibration artifact because it used the same permitted pathways his field architecture opened during contact with the instrument.
+
+That did not prove an external source. A control fault could reuse an operator-defined pathway. A damaged lattice could settle into a recurrent state. Software could imprint an earlier correction onto a later sample.
+
+The three explanations shared one advantage: none required intent.
+
+By 06:14 he had invalidated the control-fault hypothesis for Day 204. The lattice channels involved occupied separate hardware groups with no common controller below the supervisory layer. A single fault could not coordinate them at 4.3-second intervals without leaving a timing trace.
+
+At 06:16 the current calibration returned Aaron's familiar drift.
+
+He filed it as calibration drift.
+
+The repetition no longer provided comfort. It provided practice.
 
 ---
 
-On Day 1,141, three days after he had formally acknowledged the silence as a decision, Yuki stopped by his terminal at the end of her shift.
+By Day 1,132, Aaron had validated all eleven instances.
 
-"Still seeing the thing in the B-band," she said. "I've got seventeen instances now in the overnight windows."
+The six he found on Day 1,127 formed only the first partial set. Five additional events sat at Days 204, 389, 512, 678, and 901. Archive compression had rounded away their most obvious phase features. The correction logs restored them.
 
-Aaron looked at her.
+Every event landed inside one of his coupling-array shifts.
 
-"Seventeen instances," he said. "Over what period?"
+None landed inside Lena's.
 
-"The full monitoring run. Since the station came online." She had her tablet and was pulling up something. "I was going to write it up for the signal analysis queue but I wanted to show you first because it's in your frequency range and your readings would be the comparison case."
+None landed inside Yuki's.
 
-She showed him the tablet. He looked at the seventeen instances. He recognized fourteen of them — they were his eleven instances plus three additional events he had not yet identified in his retrospective. The three new events fell within Yuki's overnight windows, which did not overlap with his coupling array shifts.
+None landed during the six months Dr. Faro operated the array before a cardiac event returned him to Earth.
 
-Something in the lower part of his chest registered information it did not have a precise word for.
+Aaron tested whether duty duration, array temperature, solar activity, station orientation, power demand, or sensor gain explained the distribution. They did not. He tested combinations. The combinations performed worse.
 
-"My readings were clean during those windows," he said. "Standard drift."
+Operator identity explained all eleven.
 
-"Yeah, that's what I thought." She frowned at the tablet. "Which means it's either instrument-specific — maybe the sensitivity varies between shift configurations — or it's genuinely in the overnight field state. I'm leaning toward instrument-specific. The B-band is weird during overnight windows, something about the thermal gradient from the housing issue."
+He ran the analysis with his roster shifted forward by one day. Correlation collapsed. He shifted it backward. The same. He randomized the roster ten thousand times, preserved the total number of shifts, and found eight synthetic schedules with equal or better alignment.
 
-Lena's thermal gradient issue. The tertiary array housing.
+Eight in ten thousand did not establish intent. It did make coincidence a poor use of limited research time.
 
-"Probably the housing," Aaron said. "I'd write it up as an artifact of the thermal gradient and note it for the instrument review."
+Amara found him at 18:20 on Day 1,132 with three correlation panels open and an untouched meal packet cooling beside the keyboard.
 
-Yuki looked at him for a moment. "That's not very satisfying."
+"You missed dinner," she said.
 
-"No."
+"Dinner remains available."
+
+"That answer contains the problem." She took the secondary chair and glanced at the panels. "Instrument review?"
+
+Aaron minimized the event-spacing plot. The other two showed thermal corrections and roster alignment without labels. "Archive reconstruction."
+
+"For the calibration drift?"
+
+"I want a clean historical baseline before I send the hardware report."
+
+She considered him, then the meal packet. Amara could make silence function like an open question. She rarely needed to repeat herself because most people volunteered additional information to close it.
+
+Aaron did not.
+
+"How many compute hours?" she asked.
+
+"At current use, thirty-six more."
+
+"Take priority on queue two. Soto's batch can run overnight."
+
+"He'll object."
+
+"He'll write me a message with four paragraphs and no verbs. Then his batch will run overnight."
+
+"Efficient."
+
+"I cultivate morale." She rose. "Eat something, Aaron. Low gravity reduces muscle loading. It does not remove glucose from the requirements list."
+
+She left without asking to see the private partition.
+
+Aaron reopened the event-spacing plot. He could still call her back. The hatch remained open. Her steps traveled along the curved corridor with the slightly shortened cadence everyone developed at 0.82g, then disappeared under the compensation flywheel's hum.
+
+He opened the meal packet. Lentil stew had formed a skin thick enough to meet structural-materials criteria.
+
+He ate it anyway.
+
+---
+
+The intervals produced the next problem.
+
+Early events lay 118 days apart, then 185, then 123, then 166. The sequence resisted simple time progression. Later events compressed toward intervals of fourteen to twenty-two days, but elapsed time alone accounted for less than half the change.
+
+Aaron compared the dates with every station variable he could obtain. Attitude. Distance from the heliopause model. Solar rotation. Array maintenance. Crew rotations. Power cycles. Nothing held.
+
+On Day 1,136, he compared them with himself.
+
+His coupling index had increased thirty-four percent since the start of his posting. No single training event produced the change. Standard Eight architecture developed through repeated coordination: joining independent field systems, allowing each to retain its native behavior, and defining a temporary exchange boundary that did not drive either system into destructive interference. Every calibration run exercised the relevant pathways at low intensity. Every array repair demanded slightly different joins among sensor groups, reservoir controls, and Aaron's own nervous system.
+
+Three years of ordinary work had trained him.
+
+When he mapped signal intervals against his measured coupling development, the progression clarified. Stronger coupling correlated with more frequent events at 0.71.
+
+He checked for autocorrelation. He removed the first event, then the last. He substituted conservative error bounds for the oldest archive samples. The coefficient moved but survived.
+
+Something produced the pattern more often as Aaron became better able to receive it.
+
+Confidence or urgency, he wrote in the margin.
+
+The distinction mattered. Confidence implied observation and adaptation. Urgency implied a condition outside the relationship. Both implied more than an instrument fault.
+
+He added six entries to the private log across those days. The entries began as technical summaries and ended, despite his efforts, as a record of decisions.
+
+*Day 5. Eleven instances validated. Shift correlation survives roster randomization at p < 0.001.*
+
+*Day 7. Frequency progression correlates with coupling-index development at r = 0.71. This does not identify causation.*
+
+*Day 8. No station or heliospheric variable tested explains both event timing and operator specificity.*
+
+*Day 9. Working interpretation: the source of the pattern responds to my field development.*
+
+*Day 10. I have not reported the working interpretation. I continue to lack a mechanism.*
+
+*Day 11. Lack of mechanism no longer justifies lack of disclosure. It only explains it.*
+
+That last sentence kept him at the terminal after the shift ended.
+
+For the first three days, silence had protected the team from an unverified conclusion. For the next eight, silence had protected Aaron's access to the question.
+
+The distinction possessed poor moral ergonomics.
+
+He tested whether professional pride had contaminated the decision by reviewing his last twenty incident reports.
+
+The reports covered a faulty coolant sensor, two synchronization errors, a coupling-lattice fracture no wider than a human hair, and one embarrassing afternoon when Aaron had reversed two diagnostic leads and spent forty minutes documenting an impossible charge migration. He had reported that mistake under his own name before anyone else noticed. Amara had returned the form with a single annotation: *Good catch.* She meant the correction, not the error. Aaron kept the distinction because it let him continue working without converting ordinary fallibility into a character assessment.
+
+His colleagues trusted his logs for the same reason. Aaron did not minimize results to protect himself. He did not inflate them to win research time. If he wrote *within tolerance*, Lena moved on to the next system. If he wrote *unresolved*, Amara held the instrument offline until resolution. Accuracy had accumulated into authority in increments too small for anyone to notice.
+
+Now that authority protected the omission.
+
+Each morning he entered *calibration drift, within established variance*, and no one reopened the underlying trace because Aaron had already done so. The wording contained no false measurement. It removed the only context that gave the measurement meaning.
+
+He could not classify this as a temporary lapse in reporting discipline. A lapse did not require encryption, renamed compute jobs, or a draft incident report designed to remain unsubmitted. He had constructed a process around silence. Processes carried inertia. By the time anyone challenged this one, its continued existence would begin to resemble evidence of legitimacy.
+
+Aaron opened a fresh private-log entry.
+
+*Day 11, supplemental. My prior reporting accuracy reduces the probability that routine review will identify the omission. I am using a reputation for precision to conceal relevant context while preserving literal accuracy.*
+
+He considered the sentence.
+
+*This is an efficient misuse of trust.*
+
+He saved both lines. The second qualified as analysis.
+
+---
+
+On Day 1,139 he tried to write the report.
+
+He opened the station incident template and entered the array identifier, observation period, and affected systems. The form offered twenty-three phenomenon categories. Structured background field fluctuation came closest. That category assumed no operator dependence and no evidence of a discrete source. Selecting it would begin the report with two false premises.
+
+He selected Other.
+
+The form requested a risk classification.
+
+No measurable equipment damage. No neurological symptoms. No uncontrolled energy transfer. No boundary instability above standard calibration thresholds. By every defined criterion, the event qualified as negligible.
+
+The same criteria would classify a person standing outside a sealed hatch as negligible until the person knocked.
+
+He entered Undetermined.
+
+The form required automatic notification of Amara, station headquarters, and the Technical Anomalies Committee. Upon submission, the primary-array control system would restrict unapproved operator interaction until review. Aaron would retain access to existing data and lose authority to modify calibration parameters. Headquarters would decide whether the phenomenon merited a research allocation. TAC would appoint a lead based on category expertise.
+
+No category expertise existed.
+
+Aaron told himself that a report now would produce administration rather than understanding. This remained true. It also meant someone else would decide what happened next.
+
+He saved the draft without submitting it.
+
+At 05:58 on Day 1,140, he documented the point at which not-reporting stopped qualifying as delay.
+
+*Day 12. The dataset now supports a formal anomaly report. I have prepared one and withheld submission.*
+
+*Stated reason: the reporting taxonomy assumes mechanisms the event does not satisfy, and automatic access restrictions would prevent the tests required to classify it.*
+
+*Operational reason: I need to determine whether the pattern changes in response to observation before a review team changes the conditions.*
+
+*Personal reason: if I submit now, I become the technician who found it. If I continue, I may become the person who understands it.*
+
+*Silence is now a decision.*
+
+He saved the entry, ran the 06:14 calibration, and filed the expected deviation as drift.
+
+Choice twelve took less time than choice one.
+
+That did not improve it.
+
+---
+
+Yuki brought him seventeen instances on Day 1,141.
+
+She arrived at the monitoring bay at shift change with a tablet under one arm and a sealed cup of station coffee in the other. The cup's lid carried a warning that contents might remain hot in variable gravity. Helix Perimeter maintained constant gravity and unreliable heat, so the warning achieved symmetry with the product.
+
+"Still seeing the thing in the B-band," she said.
+
+Aaron kept his attention on the calibration panel for one second too long. "Which thing?"
+
+"The thing you declared boring at dinner. I found more boredom." She set the tablet beside him. "Seventeen instances across the full monitoring run. Coupling range, mostly overnight windows. I planned to put it in the signal-analysis queue, but your readings make the obvious comparison case."
+
+He opened her event table.
+
+Fourteen timestamps matched his reconstructed set: the eleven events on his shifts and three low-confidence candidates his filters had rejected because their amplitudes fell below the operator-linked threshold. Those three landed inside Yuki's overnight sessions.
+
+"What did your instrument state show?" he asked.
+
+"Nominal. Lena's housing gradient accounts for some phase displacement, not the repeat interval. I know because I did the tedious version first."
+
+"The tedious version is generally first."
+
+"And yet people keep inventing meetings."
+
+She expanded the three overnight events. Their internal timing matched 4.3 seconds. Their amplitudes reached less than half the events on Aaron's shifts.
+
+"My current theory," Yuki said, "is that the thermal gradient changes sensitivity across shift configurations. The array catches a real background pattern during primary operation and a weak image during overnight monitoring."
+
+"A background pattern should persist outside operator windows."
+
+"Unless the operator supplies part of the sensitivity profile. You interact with the coupling channels differently than I do."
+
+She said it without emphasis. Standard classifications described capability, not rank, but physiology still imposed compatibility. Yuki's Standard Four architecture partitioned transfers among multiple systems. Aaron joined systems that otherwise interfered. The array responded differently to each because each permitted a different set of exchanges.
+
+"Could be the housing," Aaron said. "Let Lena finish the thermal repair. If the pattern persists, escalate it."
+
+Yuki studied his face instead of the tablet. "That's a very responsible answer."
+
+"I practice."
 
 "You're not curious?"
 
-He thought about the fourteen instances. He thought about the frequency progression tracked against his coupling index development. He thought about the three events in Yuki's windows that he had not yet analyzed, which would either extend the pattern or complicate it, and about what it meant that the signal had been reaching outside his shift windows, and about Yuki's Standard Four field architecture and how it would interact with something calibrated to Standard Eight.
+He thought of the eleven events, the coupling-development curve, and the three reduced patterns inside her windows. "Curiosity does not improve uncalibrated data."
 
-"Write it up as artifact," he said. "If it persists after the housing issue is addressed, escalate."
+"It improves most other things."
 
-Yuki shrugged. "Fair enough." She tucked the tablet under her arm. "Same time tomorrow?"
+"Debatable."
 
-"Same time tomorrow," Aaron agreed.
+"Good. Same time tomorrow."
 
-She left. Aaron sat at his terminal and thought about the three additional events for a long time.
+She took her tablet and coffee. At the hatch she turned back. "If the array starts sending you personal messages, I want credit for noticing the punctuation."
 
----
+"The array doesn't send messages."
 
-The three events in Yuki's window resolved the question he had documented on Day 6 of the private log — confidence or urgency — into something he had not anticipated.
+"Then your position remains secure."
 
-The signal in Yuki's windows was different from the signal in his shifts. Not absent, not identical: different. The 4.3-second interval was consistent. The internal structure was consistent. What was not consistent was the amplitude modulation — the signal in Yuki's windows was producing at a fraction of the intensity he observed during his coupling array shifts, the fraction being approximately the inverse of the ratio between a Standard Four field architecture and a Standard Eight one.
+She left before he could answer.
 
-This was not a broadcast that anyone with access to the coupling array could receive. It was calibrated to him specifically, and the calibration was precise enough that in proximity to the array, even at reduced-intensity overnight settings, the signal was exceeding Yuki's architecture's comfortable reception range.
-
-He documented this on Day 1,143 with careful technical language:
-
-*Signal intensity during secondary-observer windows is attenuated by factor consistent with S4:S8 architecture ratio. Source appears to be adjusting output based on apparent receiver capability. This implies source can detect and model the field architecture of individuals in proximity to the coupling array.*
-
-He read it back.
-
-Source can detect and model the field architecture of individuals.
-
-He had spent twelve years developing his coupling index. He knew, with the precision available to someone who had run thousands of calibration sequences and documented thousands of coupling resonance readings, exactly what his own field architecture felt like from the inside. He knew it the way he knew the sound of his own voice — not better or worse than other voices, just categorically distinct.
-
-Something in the outer system had been studying that architecture for 1,127 days. It had mapped it precisely enough to calibrate its output to his specific capabilities. And it had noticed, apparently, that Yuki was in proximity to the array and had reduced its signal to something that would not exceed her reception range.
-
-It was being careful with her.
-
-He did not write this in the log because "it is being careful with her" was an anthropomorphization that said more about his current state than about the available data. He wrote instead: *Source demonstrates precision calibration to receiver architecture. Secondary receivers receive attenuated signal consistent with architecture-matched modulation.* He added a note: *Monitor for any interaction with non-S8 personnel. Escalation criterion: any secondary observer reports anomalous readings.*
-
-He thought about Yuki's seventeen instances. He thought about the three events he had not identified in his own retrospective.
-
-He did not report any of this.
+Aaron copied the three timestamps from memory into his private partition.
 
 ---
 
-By Day 1,148, the private log had fourteen entries and the retrospective analysis was as complete as he could make it without additional active data collection.
+The three events changed the analysis.
 
-He had confirmed: eleven signal events during his shifts over 1,127 days. Three additional events during secondary windows, attenuated to account for S4 architecture. Frequency progression correlated with his coupling index development at r = 0.71. Signal internal structure consistent across all fourteen events. Signal uses field-signature reflection — his own architecture returning to him as the carrier.
+They did not occur when Aaron operated the array. They occurred when Yuki did, but their outer phase geometry still resembled Aaron's coupling signature. The resemblance weakened with amplitude, as if the array received a pattern shaped for a system that did not currently touch it.
 
-He had confirmed: this was not a calibration artifact. This was not an instrument anomaly. This was not an expression of the known Boundary Field phenomena catalogued in the twelve years of heliosphere research that predated Station Helix Perimeter's commissioning.
+The other three entries in Yuki's set resolved into temperature-controller harmonics after the housing repair. Aaron marked them as hardware artifacts. Seventeen observations had produced fourteen events, an unusually generous return from station data.
 
-He had confirmed: he did not know what this was. He had a complete description of the phenomenon and no framework within which it fit. The known taxonomy of Boundary Field effects covered twenty-three categories of observable phenomenon, including three that had been added to the catalogue after Helix Perimeter came online. The signal did not fit in any of them.
+Aaron measured the attenuation. The ratio tracked the difference between Yuki's ordinary partition index and his coupling index closely enough to demand attention and poorly enough to resist proof. He reconstructed the array's permitted exchange pathways during each event. On his shifts, the changes used joined sensor groups. On hers, they divided across isolated groups, distributed in the geometry her presence allowed.
 
-The closest existing category was "structured background field fluctuation" — a classification covering observed patterns in field state that had sufficient internal consistency to distinguish them from random variation but insufficient characterization to determine source or mechanism. The signal met the minimum criteria for this classification. It also met the minimum criteria for approximately seventeen other things, some of which were more alarming than others.
+The same pattern entered two different operator contexts and conformed to each without forcing a transfer the operator could not support.
 
-He had confirmed: the most alarming interpretation — that something with a complex model of field architecture, sufficient precision to calibrate its output to an individual receiver, and apparently consistent behavior over more than three years had been attempting contact — was also, given the data, the most parsimonious.
+It might indicate an adaptive control artifact. It might indicate that the phenomenon sampled the available field architecture and adjusted its expression.
 
-He wrote in the log:
+Aaron refused the word *careful*. Care required intent, and intent remained outside the evidence.
 
-*Day 21 — I am done with the retrospective. What I have is complete enough to report. I am choosing not to report it. The reasons for this choice, in order of increasing honesty:*
+He wrote:
 
-*1. I don't have a framework within which this is reportable. The existing classification categories don't fit. I would be submitting a report about an anomaly I cannot name into a review process designed to handle anomalies with names. This would produce documentation of my uncertainty rather than understanding of the phenomenon.*
+*Day 14. Three secondary-operator instances confirmed. Output attenuation and pathway selection correlate with the active operator's architecture. Working model must allow receiver-specific modulation. No secondary operator reported physical symptoms or anomalous perception.*
 
-*2. If I report it now, I lose control of the investigation. This is not my station. I don't make research decisions here. If this becomes a station priority, it becomes Amara's priority, then headquarters', then something I am consulted on rather than leading. I don't have the data to make the case that I should be the one leading it.*
+Then he added:
 
-*3. I need more data. Specifically: I need to determine whether the signal is responsive. Whether it changes when I change. Whether it is monitoring me or attempting to communicate with me. These are not the same thing and the distinction matters enormously and I can only determine it by doing something I have not yet done.*
+*Escalation criterion: any recurrence outside my shifts after repair, any subjective report from another operator, or any transfer above calibration intensity.*
 
-*Day 21. Tomorrow I will either find a way to respond to the signal, or I will decide that I cannot do this safely without telling Amara, or I will file another calibration drift report and continue to be the person who didn't notice something for eleven days and then chose to keep not noticing for another twenty-one.*
+He could tell Yuki now. She had independently found the events. She had the correct timestamps and enough methodological discipline to reproduce most of his work. Disclosure would distribute the analysis across two people and reduce the risk of one person's interpretive failure.
 
-*I have always been honest about what my readings show. I am being dishonest about what my readings show.*
+It would also place her in the investigation before he understood why the pattern changed around her.
 
-*This is Day 21 of that.*
+Aaron assessed that risk without a valid probability model. The absence of injury across fourteen events supported low immediate danger. The architecture-specific attenuation supported self-limiting behavior. Both conclusions depended on assuming that future events resembled prior ones.
 
-He closed the log. Filed the shift report. The shift report said: calibration drift, within acceptable parameters, no action required.
+He encrypted the entry and went to lunch alone.
 
-He went to dinner. Yuki was telling Lena that her seventeen-instance B-band anomaly had resolved after Lena fixed the housing thermal gradient. No signal during last night's window. Probably instrument artifact after all.
+The galley viewport faced sunward that week. A filter reduced the distant Sun to a hard white point, no larger than a bright star and substantially less warm. Helix Perimeter's slow rotation moved it along the edge of the glass while the station structure ticked around Aaron. Below the viewport, service labels advised crew not to brace hot containers against the pane. Someone had added *cold ones need emotional support* in removable marker.
 
-"Told you," Lena said.
+Across the galley, Yuki worked through a bowl of reconstituted noodles while drawing branching diagrams on her tablet. Lena leaned over her shoulder, objected to one branch, and received a fork pointed at the relevant flaw in her reasoning. Yuki spoke from conclusions. Lena demanded the intervening steps. Their conversation advanced in reverse.
 
-"You're much less satisfying to be right around than you think you are," Yuki said. She seemed pleased, in the way she always seemed pleased when a hypothesis resolved to a clean answer, even a boring one. The pleasure of a closed question.
+Aaron watched them for three seconds, then returned to his meal.
 
-Aaron ate dinner. He thought about the three events in Yuki's windows, which had not been caused by the thermal gradient. He thought about the fact that the signal had stopped appearing in Yuki's windows — had stopped at approximately the same time that Aaron had completed his retrospective and determined what the signal was.
+He could call Yuki over and explain the eleven events. She would begin with three questions, reach an answer sideways, and probably identify a defect in his interval analysis before dinner. Amara would know by the next briefing, either because Aaron told her or because Yuki treated confidentiality as a boundary condition to be tested. The team would take the problem apart together.
 
-He thought about the word "responsive."
+That constituted the normal procedure. It also exposed them to a phenomenon that recognized differences among their field architectures.
+
+He had no basis for believing silence protected anyone.
+
+He had no basis for believing it did not.
+
+Uncertainty entered the calculation on both sides and left Aaron exactly where he started, which uncertainty often did while maintaining an excellent professional reputation.
+
+He finished the meal and returned to work.
+
+---
+
+Lena completed the housing repair on Day 1,146.
+
+The tertiary sensor temperature equalized within 0.03 kelvin. Phase noise dropped nineteen percent. Yuki's B-band events stopped.
+
+"Told you," Lena said at dinner on Day 1,148.
+
+"You're much less satisfying to be right around than you think," Yuki said. She sounded pleased. A closed question pleased her even when the answer lacked grandeur. "No signal in two overnight windows. Housing gradient plus operator sensitivity. Boring, but clean."
+
+Aaron cut into a protein square whose printed description promised ginger and achieved beige. "Clean is useful."
+
+"He says, with visible pain."
+
+"You cannot see pain."
+
+"Not with that attitude."
+
+The conversation moved to station supply, then to a missing fastener from Lena's repair kit, then to whether the fastener could plausibly have entered the ventilation system. Yuki proposed listening for it during spin correction. Lena explained bearing tolerances. Neither asked Aaron another question.
+
+His retrospective had closed that afternoon.
+
+Fourteen instances. Eleven during his shifts. Three during Yuki's, reduced and reshaped around her partition architecture. Frequency progression correlated with Aaron's coupling development. No known station variable explained the complete distribution. No recognized natural Boundary Field category combined operator specificity, repeated internal structure, and adaptive expression.
+
+The housing repair explained why the array stopped registering weak events in overnight mode. It did not explain the events.
+
+Aaron had enough evidence to reject calibration fault beyond reasonable technical dispute. He did not have enough to distinguish monitoring from attempted communication. One possibility implied observation. The other implied an address.
+
+He needed active data to separate them.
 
 "You're quiet again," Yuki said.
 
-"I have a lot of analysis left," Aaron said. "I'm close to something."
+"I have analysis left."
 
-This was the first time he had told a direct lie rather than a technical truth. He noted the distinction in the private log later that night. Day 21 had one more entry:
+"Anything interesting?"
 
-*23:11. The signal stopped appearing in Yuki's windows at the same time I finished the retrospective. It may not be coincidence that the signal became more confined — returned to my windows only — at the same time my analysis became more precise.*
+"No."
 
-*Something out there may know I've found it.*
+The word arrived without qualification. Not *nothing reportable*. Not *nothing outside established variance*. A direct answer, clean and false.
 
-*Day 21.*
+Yuki nodded and returned to her argument with Lena.
 
----
+Aaron finished dinner.
 
-*Private log — Day 21*
-*23:11, Station Helix Perimeter*
-*Retrospective complete. Fourteen instances confirmed. Frequency progression r = 0.71 with coupling index development.*
-*Signal source appears to have modeled my field architecture with precision sufficient for calibrated output.*
-*Signal appears responsive to observer proximity and potentially to observer analysis state.*
-*I have been lying by omission for twenty-one days. I have been lying by commission since 23:11 tonight.*
-*Tomorrow I will determine whether this thing can tell when I am looking at it.*
+At 23:11 he opened the private log. Twenty-one daily entries followed the first entry from Day 1,127. Together they documented the transition from error to pattern, from pattern to inference, and from inference to a decision he could no longer blame on surprise.
 
----
+He wrote:
 
-*Word count: ~2,050*
+*Day 21. Retrospective complete. Fourteen instances confirmed. Eleven primary-operator events; three secondary-operator events. Frequency progression correlates with coupling-index development at r = 0.71. Operator-specific modulation remains the strongest working model.*
 
-<!-- CHAPTER STATUS: DRAFT COMPLETE — SHORT (~2,050 words, needs expansion to ~4,200)
-CLUES PLANTED: CZ-05 (Amara checks workstation — not yet planted, needs adding in revision), CZ-16 (Yuki's music theory — referenced indirectly via B-band argument from Ch1), CZ-17 (Yuki's "new method" — not yet; she reveals in Ch3 or Ch5 that she's been developing the analysis method)
-NOTE FOR EXPANSION: This chapter needs the Amara workstation beat (CZ-05) and a second human-moment scene. The science is good; the emotional grounding is thin. Candidate addition: Aaron eating lunch alone, watching Yuki work, understanding for the first time what he would be exposing her to if he's wrong. -->
+*The pattern stopped registering in Dr. Osei's windows after the housing repair increased array discrimination. It remains present in mine. The repair removed an observation path, not the phenomenon.*
+
+*I have enough evidence to report. I am choosing not to.*
+
+*I told Dr. Osei there was nothing interesting in my analysis. This is the first statement I cannot defend as technically true.*
+
+*Tomorrow I will determine whether the pattern changes when I change the conditions of observation. If it does not, I will report. If it does, I will have established responsiveness and will report with a mechanism.*
+
+He stopped, then added:
+
+*I recognize that both outcomes in the previous sentence end with reporting. The private log exists partly to preserve predictions against later revision.*
+
+*Silence became a decision on Day 12. It became a plan tonight.*
+
+He saved the entry.
+
+Outside the viewport, the stars moved slowly across the station's rotation. The coupling array continued its passive scan, sampling minute changes in which systems could exchange charge, momentum, and information. Pumps moved heat into radiators. Flywheels held the station's orientation. The ventilation bracket clicked on schedule.
+
+Nothing requested his attention.
+
+Aaron closed the report he had not submitted.

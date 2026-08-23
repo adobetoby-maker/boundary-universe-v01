@@ -11,7 +11,7 @@
 | Ch | Title | Target | Beat | Status |
 |---|---|---|---|---|
 | 1 | Addressed | 4,450 | Aaron's morning array check on Day 1,127. Signal addresses him personally. He files it as calibration error. First lie. | ✓ WRITTEN |
-| 2 | The Private Log | 4,200 | Three weeks of private analysis. Six prior instances found. Aaron establishes the pattern beyond doubt. Writes first log entry. The choice to keep not-reporting is now a choice, not an accident. | PENDING |
+| 2 | The Private Log | 4,200 | Three weeks of private analysis. Six prior instances found. Aaron establishes the pattern beyond doubt. Writes first log entry. The choice to keep not-reporting is now a choice, not an accident. | DRAFT COMPLETE |
 | 3 | Compression | 4,300 | Science-of-discovery chapter. Aaron works out the communication architecture — the Node uses field-signature reflection, not transmission. Technical breakthrough. Also: Yuki chapter. She is brilliant, lateral, wrong about music theory. | PENDING |
 | 4 | What the Array Knows | 4,100 | Aaron attempts controlled limited contact. The Node responds. He writes it up as anomalous background radiation. He and Yuki have the music-theory-vs-cryptography argument. He does not tell her what he's actually seeing. | PENDING |
 | 5 | Lunch | 4,000 | The most human chapter in Act I. Station life: food, maintenance, the window, Amara running a team meeting, Lena complaining about the coupling array calibration for the fourth time this month. Aaron watches his colleagues and understands, for the first time, what he is protecting them from. | PENDING |

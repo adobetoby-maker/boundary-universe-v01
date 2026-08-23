@@ -11,7 +11,7 @@
 |---|---|---|---|---|
 | Book open | Nothing about the signal being addressed | — | 0 | 0 |
 | End Ch 1 | Signal addressed to him, personally. 6 prior instances in 1,127 days. | Filed as calibration error | 1 | 0 |
-| End Ch 2 | Pattern confirmed beyond doubt. Reflection mechanism suspected. | Still filed as calibration error (ongoing) | Growing; daily | 0 |
+| End Ch 2 | Pattern confirmed beyond reasonable doubt: 11 primary-operator events and 3 attenuated events in Yuki's windows. Receiver-specific modulation suspected; mechanism unconfirmed. | Continued filing calibration drift; withheld a completed incident report; directly told Yuki the analysis contained nothing interesting. | 22 daily entries | 0 |
 | End Ch 3 | Reflection architecture confirmed. Node uses field-signature bounce, not broadcast. Yuki argument about music theory. | Same | Growing | 0 |
 | End Ch 4 | First controlled contact attempt. Node responded. | Wrote up as anomalous background radiation. | Growing | 1 (unauthorized) |
 | End Ch 5 | Understands what he is protecting team from. | Same | Growing | 1 (total) |
@@ -54,6 +54,7 @@
 | Chapter | What she knows | What she has chosen | Has she told Aaron? |
 |---|---|---|---|
 | Book open | Sees the anomaly in shared diagnostics | Waiting to see if Aaron finds it | No |
+| End Ch 2 | Sees the shared anomaly diagnostics and has checked Aaron's workstation before his shift | Continues giving Aaron room to find the pattern | No |
 | Ch 11 | Everything about Aaron's private finding | She chose to wait; does not say what she chose about the cover-up | Told Aaron she waited. Said nothing about her own choice. |
 | Ch 19 | Aaron is taking the position | She already knew | No new information exchanged |
 | End of book | Public face of Resonance Discovery | 30 years of giving the official history perfectly | — |
