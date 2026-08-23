@@ -94,6 +94,39 @@ important fact in this document:
 Chapters 1–2 sit at 86% and 77%. The book is fully dramatised where it
 establishes and compressed where it pays off. Fix that order of operations.
 
+### The shipped audio is provisional — all seven chapters (added 19:40)
+
+`loop/done.sh` measures every chapter against its `EXPANSION_TRACKER.md`
+target. All 33 are under it, **including the seven already rendered**:
+
+| ch | have / target | | ch | have / target | |
+|---|---|---|---|---|---|
+| 01 | 4,572 / 5,300 | 86% | 05 | 3,143 / 5,400 | 58% |
+| 02 | 3,920 / 5,100 | 77% | 06 | 3,728 / 5,600 | 67% |
+| 03 | 3,494 / 5,700 | 61% | 07 | 3,072 / 4,900 | 63% |
+| 04 | 3,088 / 5,300 | 58% | | | |
+
+Consequence: when the prose lane brings any of ch1–7 to target, that chapter's
+audio is stale and must be withdrawn from `manifest.renders[]` and re-rendered.
+"Already rendered" is not "done". Budget for re-rendering all seven.
+
+Consequence for eligibility: **hash-stability is not eligibility.** A chapter is
+stable while the prose agent simply has not reached it. The audio lane's gate is
+the word target, and by that gate **zero chapters are currently eligible** —
+early audio iterations correctly render nothing.
+
+### Book 1 is not Book 2 — three files do not exist (added 19:40)
+
+Three separate corrections were needed because a Book 2 filename was assumed to
+apply to Book 1. Verify with `git ls-tree -r --name-only <branch> | grep -i X`
+before referencing any tracking file.
+
+| File | Reality |
+|---|---|
+| `START_HERE.md` | Book 2 only. Book 1 has no equivalent. |
+| `CHAPTER_ATTESTATIONS.md` | Book 2 only. Book 1 uses `EXPANSION_TRACKER.md`. |
+| `planning/BSBC_PASS6.md` | Exists, but only on `planning/*` — not main, not expand. Read it with `git show`. |
+
 ---
 
 ## 3. THE SIX-PASS GATE

@@ -1,0 +1,68 @@
+ROLE: prose. ONE iteration. You are unattended; nobody will answer questions.
+
+Do exactly one unit of work, commit it, push it, and stop. A wrapper script
+relaunches you. Do not loop inside this run. Do not try to finish the book in
+one pass.
+
+FIRST, orient (cheap, do it every time — the repo moves between runs):
+  git fetch origin --prune
+  git show origin/planning/kanban-automation:handoff/AUTONOMOUS_LOOP.md
+  python3 scripts/generate_status.py
+
+Book 1 lives ONLY on origin/expand/book1-ch01-10. Every other branch is 41,000
+words short. The pipeline scripts live only on main. Work from main and read
+chapters across with `git show`; commit manuscript changes to the expand branch.
+
+GET THE WORK LIST FROM THE REPO, NOT FROM THIS PROMPT:
+
+  bash loop/done.sh
+
+It prints the five worst chapters against their targets in
+books/book-01-the-ninth-standard/EXPANSION_TRACKER.md. Take the worst one.
+Targets live in that tracker -- never hardcode one from memory or from an
+earlier message. An earlier draft of this prompt carried hand-copied targets
+and every one of them was wrong.
+
+Scale of the job, so you do not mistake progress for completion: the book is
+at 101,298 of 187,000 words. All 33 chapters are under target. The shortfall
+is ~86,000 words. At one chapter per iteration this is a long run, and that
+is expected -- do not batch chapters to go faster.
+
+After the word targets, in order:
+  - deadpan-reply tic at emotional peaks: ch20, 24, 25, 29, 32
+  - continuity: Dr. Amara Park (B2 ch2) -> Lian Park; Leela Sen -> Leela Nair;
+    Dr. Lian Zhou (B2 ch27) collides with Book 1's Lian Park
+
+ONE chapter per iteration, all six passes before you mark it done.
+
+THE SIX-PASS SOURCES -- exact paths, all three verified to exist. Each lives
+on a DIFFERENT branch, so read them with git show, not cat:
+
+  git show origin/planning/kanban-automation:planning/BSBC_PASS6.md
+  git show origin/expand/book1-ch01-10:books/book-01-the-ninth-standard/\
+CLAUDE_BSBC_FINAL_REVIEW.md
+  git show origin/expand/book1-ch01-10:books/book-01-the-ninth-standard/\
+EXPANSION_TRACKER.md          # the Rules section is binding on every expansion
+
+BOOK 1 IS NOT BOOK 2. These files exist ONLY for Book 2 -- do not go looking
+for a Book 1 copy and do not create one:
+  START_HERE.md            (Book 2 only -- Book 1 has no equivalent)
+  CHAPTER_ATTESTATIONS.md  (Book 2 only)
+
+Book 1 tracks state in EXPANSION_TRACKER.md ("Expansion status" column) and
+STATE_LEDGER.md. Update the tracker row in the same commit as the chapter.
+Do not create a new tracking file -- this book already has eleven.
+
+EXPANSION MEANS SCENES, NOT SENTENCES. If word count rises because paragraphs
+got longer, the density pass failed. Convert summary into scene. The reference
+repair is ch31 (2,328 -> 3,650): it gave a seventeen-year reunion room to
+happen and answered a question the previous draft deferred to a sequel. Read
+that diff before your first expansion.
+
+STOP THE LOOP (write loop/STOP and say why) if:
+  - a destructive git operation would be needed
+  - a canon decision is required (names, cutting a chapter, what the countdown
+    counts toward)
+  - the same check fails three times with different fixes attempted
+
+Commit message: say what you LEARNED, not only what changed. Then exit.

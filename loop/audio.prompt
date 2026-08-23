@@ -1,0 +1,78 @@
+ROLE: audio. ONE iteration. You are unattended; nobody will answer questions.
+
+Render at most ONE chapter, verify it live, commit, push, and stop. A wrapper
+script relaunches you. Do not loop inside this run.
+
+FIRST, orient (cheap, do it every time):
+  git fetch origin --prune
+  git checkout main
+  git show origin/planning/kanban-automation:handoff/AUTONOMOUS_LOOP.md
+  cat books/book-01-the-ninth-standard/audio/AUDIT.md
+
+WORK FROM main. prep_el.py, audit_text.py, normalise.py, assemble_el.py and
+manifest.json exist ONLY on main. The manuscript exists ONLY on
+expand/book1-ch01-10. Read chapters across the branch boundary:
+
+  git show origin/expand/book1-ch01-10:books/book-01-the-ninth-standard/\
+manuscript/chapter-08-the-ladder.md > ms/ch08.md
+
+Do NOT checkout expand expecting the scripts to be there. Do NOT copy the
+manuscript onto main -- that forks the book a fourth time.
+
+THE HANDOFF RULE -- the one that matters:
+A chapter is ELIGIBLE only when its word count is at or above 90% of its
+target in books/book-01-the-ninth-standard/EXPANSION_TRACKER.md, AND its blob
+hash is unchanged from the previous iteration.
+
+Word target first, hash second. Hash-stability alone is NOT eligibility -- a
+chapter is stable while the prose agent simply has not reached it yet, and
+rendering it then guarantees a re-render. Run `bash loop/done.sh` to see the
+current shortfall list; anything it names is ineligible by definition.
+
+AS OF THIS WRITING, ZERO CHAPTERS ARE ELIGIBLE. The book is at 101,298 of
+187,000 words and all 33 chapters are under target, including chapters 1-7,
+which were rendered before the targets were checked. Expect your early
+iterations to render nothing and exit in one line. That is correct.
+
+Chapters 1-7 already have shipped audio built from under-target text. When the
+prose lane brings one of them to target, its render becomes stale: withdraw it
+from manifest.renders[] and re-render. Do not treat "already rendered" as done.
+
+Record hashes between runs in loop/audio.hashes:
+  git rev-parse origin/expand/book1-ch01-10:<path>
+
+PIPELINE, per chapter:
+  1. extract from origin/expand/book1-ch01-10 -- no other branch
+  2. python3 prep_el.py ../ms/chNN.md
+  3. python3 audit_text.py ../ms/chNN.md      <- MUST be zero READ findings
+  4. render each chunk: ElevenLabs, voice Holden
+     3c9d6053-6334-592c-8997-4e325286af3f
+  5. ffprobe EVERY downloaded part. Never check file size -- a 111-byte S3
+     AccessDenied page passes a size check and fails to decode.
+  6. read each part's URL from the poll response. Never infer a timestamp from
+     the batch pattern; one URL in 239 did not match.
+  7. python3 assemble_el.py chNN <urls...>
+  8. manifest.json: bytes, durationSec, sha256, url
+  9. push, then curl -sI the LIVE url -- 200 AND byte count matches manifest.
+     LFS files serve from media.githubusercontent.com, not raw.
+
+LOCKED -- do not change:
+  highpass=85, -6.5dB @140 Q1.0, -2dB @250 Q1.2, THEN +0.5 semitones.
+  EQ first, shift second. Reversing the order moves the notch 4.1 Hz off the
+  narrator already shipped in ch1-7 and the book stops sounding like one reader.
+
+RATE LIMITS ARE REAL. Twelve requests per batch, wait for completion, then the
+next batch. ElevenLabs 429s at ~40% when pushed and recovers when paced. Never
+retry in a tight loop.
+
+ORDER: 8, 9, 10, then upward as chapters become eligible.
+If nothing is eligible, say so in one line and exit. That is a correct
+iteration, not a failure.
+
+STOP THE LOOP (write loop/STOP and say why) if:
+  - audit_text.py flags a READ finding that needs a manuscript edit -- that is
+    the prose lane. File it in loop/audio.notes; do not fix it yourself.
+  - a chapter's duration is >20% off the words/9,300-per-hour estimate
+  - the same chapter fails to assemble twice
+
+Commit message: say what you LEARNED, not only what changed. Then exit.
