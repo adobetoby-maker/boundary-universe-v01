@@ -18,7 +18,7 @@
 | 1 | The Kid in Room Four | 5,300 | Calibration / light expansion only |
 | 2 | Zero Protocol | 5,100 | In progress |
 | 3 | Asterion | 5,700 | Pending |
-| 4 | Ten Thousand Four Hundred Eighty-Two | 5,300 | Pending |
+| 4 | Ten Thousand Four Hundred Eighty-Two | 5,300 | Passes 1–6 complete — 5,667 words |
 | 5 | House Meridian | 5,400 | Passes 1–6 complete — 5,431 words |
 | 6 | Forty-Seven Seconds | 5,600 | Pending |
 | 7 | The Suppression Order | 4,900 | Pending |
