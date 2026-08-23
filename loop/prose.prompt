@@ -28,6 +28,15 @@ at 101,298 of 187,000 words. All 33 chapters are under target. The shortfall
 is ~86,000 words. At one chapter per iteration this is a long run, and that
 is expected -- do not batch chapters to go faster.
 
+KNOWN RE-PASS ITEM -- ch32 Consensus. It hit its word target on the loop's
+first iteration and is therefore INVISIBLE to done.sh, which only measures
+length. Measured against the seven expansions that followed it, ch32 is the
+outlier on every craft metric: 0 scene breaks (others have 2-6), lowest
+dialogue share (25% vs 32% mean), and the only chapter whose filter-verb
+density rose. It is the climax. Re-pass it once the word-target list is clear
+-- do not add words, restructure: scene breaks, and dramatised beats replacing
+reported feeling.
+
 After the word targets, in order:
   - deadpan-reply tic at emotional peaks: ch20, 24, 25, 29, 32
   - continuity: Dr. Amara Park (B2 ch2) -> Lian Park; Leela Sen -> Leela Nair;
