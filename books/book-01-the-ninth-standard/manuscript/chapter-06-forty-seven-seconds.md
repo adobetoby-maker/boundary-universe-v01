@@ -66,6 +66,154 @@ Kade stopped.
 
 “Most people here are trying to stop doing that.”
 
+Sera collected four flat marker discs from the equipment rack and dropped them around Kade in a crooked square.
+
+“New rule,” she said. “Mara touches your shoulder, you leave through an open side.”
+
+Kade examined the markers.
+
+“Which side is open?”
+
+“Whichever one she has not taken away.”
+
+“That sounds deliberately unhelpful.”
+
+“It is a fight.”
+
+Mara took a padded contact baton from the wall. She tested its flexibility against one palm, then stood two meters in front of him.
+
+“No field,” she said. “No hard contact. I touch your shoulder, you reset.”
+
+Eli propped his tablet against a water bottle and opened a timer.
+
+“I will provide objective measurement.”
+
+Sera moved his toast away from the tablet.
+
+“You will provide breakfast contamination.”
+
+Mara came forward.
+
+Kade retreated.
+
+The baton touched his right shoulder before his second step landed.
+
+“One point for the terrifying piece of foam,” Eli said.
+
+They reset.
+
+Mara approached from the same angle. Kade fixed on the baton this time. It shifted left. He went right.
+
+Her empty hand closed the space he had chosen. The baton tapped his ribs.
+
+“Two.”
+
+Kade looked at the open marker behind Mara.
+
+“You moved after I committed.”
+
+“Yes.”
+
+“That seems dishonest.”
+
+“You are allowed to move too.”
+
+On the third attempt, Kade waited.
+
+So did Mara.
+
+Five seconds passed.
+
+Eli checked the timer as though it might offer policy guidance.
+
+“At some point this becomes a very tense meeting.”
+
+Mara flicked the baton at Kade’s left shoulder.
+
+He flinched backward before the foam crossed half the distance. She changed direction and touched his right.
+
+“Your shoulders,” she said.
+
+“Are apparently traitors.”
+
+“They are early.”
+
+Eli brought up the recording. Two stick figures appeared on his screen, one assembled from Mara’s academy sensor band and one from the room camera.
+
+He dragged the replay backward.
+
+“She starts the strike here. You raise both shoulders here.” He moved the display again. “One hundred sixty milliseconds earlier.”
+
+“I react before she moves?”
+
+“You prepare to be hit before she chooses where.” Sera stepped into the square. “That means she gets both choices.”
+
+Kade rolled his shoulders until the tension released.
+
+Mara returned to her mark.
+
+“Again.”
+
+The next touch landed on his chest.
+
+Then his arm.
+
+Then his ribs because he crossed his feet and nearly removed himself from the exercise without Mara’s help.
+
+Each reset made the square smaller. Sera moved one disc inward whenever Kade backed through it without choosing. Eli called the time between Mara’s first commitment and Kade’s first useful step. None of the numbers were flattering.
+
+On the ninth attempt, Mara’s weight shifted onto her front foot.
+
+Kade’s shoulders started upward.
+
+He forced them down.
+
+The baton came toward his left side. Mara’s right hip blocked the gap beside it. The marker behind him offered distance and no angle. The space beyond her empty hand looked open.
+
+Too obvious.
+
+He stepped toward the baton instead.
+
+The foam brushed his sleeve. Kade turned through the contact and left the square past Mara’s loaded foot.
+
+Eli stopped the timer.
+
+Sera left the last marker where it was.
+
+Mara looked over her shoulder.
+
+“Acceptable.”
+
+Kade’s breathing had accelerated as though the forty-second drill had been a sprint.
+
+“Your praise is overwhelming.”
+
+“Do it twice.”
+
+He failed the next three attempts.
+
+On the fourth, he made it through a different side.
+
+Not fast.
+
+Not clean.
+
+But before Mara chose for him.
+
+Eli held out the surviving half of his toast.
+
+“Reward.”
+
+Kade looked at the bite missing from it.
+
+“Keep it.”
+
+“Your commitment to improvement is inconsistent.”
+
+Sera gathered the markers. Mara returned the baton to the wall.
+
+The square vanished, leaving only four pale circles in the floor coating and the unpleasant discovery that Kade could become measurably less bad at something before breakfast.
+
 Eli held up the tablet.
 
 “Priya Shah. Rank six two-oh-four. Standard One confirmed. Primary strength: acceleration control and balance disruption.”
@@ -141,6 +289,124 @@ Sera nodded.
 “Because if she were awful you could get angry instead of learning.”
 
 Kade hated Meridian before eight in the morning.
+
+At eight forty, the assessment wing separated Kade from them.
+
+Students entered through the east corridor. Housemates and observers continued up a ramp to the seating tier. Competitors went through an equipment bay with gray lockers, a medical station, and a yellow line on the floor that led toward the arena doors.
+
+Eli stopped at the ramp.
+
+“Remember the model.”
+
+“The one you refused to show me?”
+
+“That is the one.”
+
+Sera caught Eli by the back of his shirt before he could follow Kade across the yellow line.
+
+Mara did not offer a final instruction. She touched two fingers to her own right shoulder.
+
+Kade lowered his.
+
+Then the arena staff closed the gate between them.
+
+An equipment officer named Okafor checked Kade’s borrowed shoes, tightened the sensor collar around his neck, and attached two impact strips under the training suit at his ribs.
+
+“Any current pain?” she asked.
+
+“No.”
+
+“Headache in the last twenty-four hours?”
+
+“No.”
+
+“Unexplained dizziness, visual disturbance, field echo, tremor, or loss of time?”
+
+Kade looked toward the wall camera.
+
+“That list became alarming near the end.”
+
+Okafor waited with one hand above the medical screen.
+
+“No,” he said.
+
+She entered the answer and turned the screen toward him. The form showed his field-output cap as a flat gray line.
+
+**MEASURED SAFE MAXIMUM: UNRESOLVED**
+
+**ACTIVE FIELD AUTHORIZATION: OBSERVATION ONLY**
+
+**CONVENTIONAL CONTACT PROTOCOL: NOVICE**
+
+“You cannot initiate field action,” Okafor said. “If an event occurs, Hale stops the assessment. Shah’s cap is twelve percent and her permitted contact force is keyed to your strips, not hers. Two amber readings end the match. One red reading ends it immediately.”
+
+“Does she know that?”
+
+“She has the same contract on her screen.”
+
+Across the bay, Priya stood with another officer while blue calibration light traveled from her ankles to her shoulders. She raised both hands, rotated each wrist, and let a small field pulse pass through the floor plate beneath her.
+
+The plate shifted half a centimeter.
+
+Priya shifted with it so smoothly that her head remained level.
+
+The officer reset the plate.
+
+“Again at six percent.”
+
+This time it moved the other direction. Priya’s balance never broke.
+
+Kade looked down at his own stationary plate.
+
+Okafor tapped the acknowledgment box.
+
+“This is an assessment, not a requirement to absorb contact. You can withdraw now, surrender in the arena, or ask Hale to stop at any point. A withdrawal leaves your combat rating unresolved. It does not alter your academic status.”
+
+There it was.
+
+An exit that did not require a broken window or a government transport.
+
+Kade read the form again.
+
+“What does unresolved do to my candidate rank?”
+
+“Nothing today. It prevents the system from calculating a combat component.”
+
+“So it remains blank.”
+
+“Until there is evidence.”
+
+Beyond the arena doors, the seats vibrated with a hundred conversations. On the display above them, his empty combat field waited beside Priya’s rank.
+
+He pressed his thumb to the acknowledgment.
+
+“Then let’s produce bad evidence.”
+
+Okafor’s expression remained professional.
+
+“The academy has extensive storage.”
+
+Priya joined him at the yellow line.
+
+“They gave you novice contact?” she asked.
+
+“Apparently I am delicate.”
+
+“It means I control the exchange.” Her tone had lost its breakfast humor. “If you turn away, I disengage. If you go down, I give you room. If your collar flashes red, I stop whether Hale calls it or not.”
+
+Kade studied her.
+
+“You say that to everyone?”
+
+“Everyone should hear it.”
+
+The doors began to open.
+
+White floor appeared between them, then the transparent walls, then the two circles twelve meters apart.
+
+Priya offered him the arena first.
+
+Kade crossed the line.
 
 The assessment arena was smaller than the broadcast stadiums, built for instruction rather than spectacle. White composite floor. Transparent barrier walls. Two starting circles twelve meters apart. Embedded sensors traced every approved field effect, impact vector, balance shift, and physiological change.
 
@@ -880,6 +1146,12 @@ Park ran neurological scans twice, then made him walk a straight line, touch his
 
 Kade stared at her.
 
+Behind Park, a sequence of five shapes remained on the wall display. Kade had named them correctly less than a minute earlier.
+
+Square. Circle. Triangle. Two interlocked rings. A black shape with seven sides.
+
+The last one had taken too long.
+
 Park’s expression did not change.
 
 “That concern you?”
@@ -887,6 +1159,60 @@ Park’s expression did not change.
 “Yes.”
 
 “Good.”
+
+The answer escaped before Kade could make it sound like a joke.
+
+Park turned off the shape sequence.
+
+“Neurological injuries reward performance,” she said. “People learn which answers get them out of the room. I need the wrong ones too.”
+
+“That seems inefficient.”
+
+“For your discharge time, yes. For keeping your brain functional, no.”
+
+She placed a row of textured tiles on the bed table: smooth, ridged, dotted, crosshatched. Kade closed his eyes and identified each under his right hand, then his left. The dotted tile became ridged somewhere between hands.
+
+Park marked the error without comment.
+
+“Again.”
+
+The second pass was clean.
+
+Then came light tracking. Sound localization. A balance plate that leaned three degrees and made Kade’s stomach try to continue without him.
+
+He stepped off too quickly.
+
+Park held out a basin.
+
+“Nausea?”
+
+“One.”
+
+“You said two in the arena.”
+
+“Improvement.”
+
+“Your skin says three.”
+
+Kade took the basin.
+
+“My skin is dramatic.”
+
+“Your skin is not trying to be discharged.”
+
+He waited until the room settled.
+
+“Three,” he said.
+
+Park changed the record.
+
+The number did not become an accusation. No lecture followed it. She simply lowered the balance plate to one degree and changed the next test.
+
+Kade had spent years treating pain as information other people might use to stop him. Park treated it as a condition of the problem.
+
+That did not make the room less frightening.
+
+It made honesty marginally more useful.
 
 She repeated the scan.
 
@@ -1261,6 +1587,98 @@ Kade opened his eyes.
 “Yes,” Mara said.
 
 “Thank you.”
+
+Eli cleared the replay windows and opened a blank field-modeling program.
+
+“We can make it sound worse with diagrams.”
+
+Sera pointed her fork at the headache monitor Park had paired to Kade’s phone.
+
+“Ten minutes.”
+
+“Park said limited screens.”
+
+“That is why Eli is using the wall and you are sitting over there.”
+
+Eli placed six plain blocks in the model: two bodies, the arena floor, its support lattice, the barrier, and the building frame. Lines joined each contact point.
+
+“Conventional chain,” he said. “Priya accelerates against the floor. Priya transfers momentum into Kade. Kade transfers it into the boundary strip, eventually, with several painful intermediate steps.”
+
+“Accurate,” Kade said.
+
+Mara stood and moved Priya’s block until it touched Kade’s.
+
+“But he did not take the expected acceleration.”
+
+She entered the impact estimate from the replay. The model sent Kade’s block backward across the boundary. Eli reset it and added the wall’s measured flex.
+
+The system rejected the result.
+
+**UNASSIGNED LOAD**
+
+Taren leaned closer.
+
+“Assign him and the wall as one body for the six missing frames.”
+
+Nobody moved.
+
+Taren’s gaze remained on the model.
+
+“That is what he described.”
+
+Eli drew a temporary boundary around both blocks.
+
+The warning disappeared. Momentum entered through Kade’s block and resolved through the wall.
+
+The model balanced.
+
+Kade’s headache sharpened.
+
+Not from the screen.
+
+The drawn line was wrong.
+
+“No.”
+
+Eli froze the program.
+
+Kade pressed two fingers above his right eye. The cold line from the arena waited in memory, close enough to make his stomach tighten.
+
+“The wall wasn’t part of me.”
+
+Mara looked from the model to him.
+
+“Then what changed?”
+
+Kade stood despite Sera’s expression and crossed to the wall display. He took the control from Eli.
+
+The program had assigned every line one owner and every block a clean edge. Priya ended at the point where Kade began. Kade ended where the wall began. The floor stopped at its support lattice because the diagram needed separate colors.
+
+He erased the boundary around himself and the wall.
+
+Then he erased the line between Priya’s foot and the floor.
+
+The blocks remained separate.
+
+The relationships did not.
+
+His hand began to shake.
+
+Mara took the control from him.
+
+Sera killed the display.
+
+Dark glass replaced the model.
+
+“Eight minutes,” Eli said quietly.
+
+“Too long,” Sera replied.
+
+Kade returned to the bed. The tremor stopped after he pressed both hands flat against his knees.
+
+Taren had moved away from the wall.
+
+Nobody tried to turn the display back on.
 
 Sera slid the takeout box toward him.
 
