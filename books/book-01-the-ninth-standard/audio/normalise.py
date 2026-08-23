@@ -251,6 +251,17 @@ def decide(t: str) -> str:
     t = re.sub(r'\b(\d{1,3}(?:,\d{3})?)(?:st|nd|rd|th)\b', _ordinal, t)
     # Scores: en/em dash between small numbers.
     t = re.sub(r'\b(\d{1,2})\s*[\u2013\u2014]\s*(\d{1,2})\b', _score, t)
+    # Record identifiers built on a roman numeral: "VIII-01" .. "VIII-12".
+    # These are the twelve Standard Eight slots -- the clue trail Book 2's
+    # title rests on -- and left alone a synthesiser says "vee eye eye eye".
+    # Read as a screen readout: "Eight-oh-one" through "Eight-twelve".
+    # Requires two or more capitals, which keeps "I-95" out of it: a lone "I"
+    # before a number is a highway or a pronoun, never a Standard slot.
+    def _record_id(m):
+        word = ROMAN[m.group(1)].upper()
+        n = int(m.group(2))
+        return f"{word} {'oh ' + ONES[n] if n < 10 else say_two_digit(n)}"
+    t = re.sub(r'\b(I{2,3}|IV|VI{1,3}|IX|XI{1,2}|X)-(\d{1,2})\b', _record_id, t)
     # Roman numerals, only after a designator word.
     t = re.sub(rf'\b({DESIGNATOR})\s+(I{{1,3}}|IV|VI{{0,3}}|IX|XI{{0,2}}|X)\b',
                _roman, t, flags=re.I)
