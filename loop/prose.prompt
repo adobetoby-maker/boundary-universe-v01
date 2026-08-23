@@ -53,6 +53,19 @@ Book 1 tracks state in EXPANSION_TRACKER.md ("Expansion status" column) and
 STATE_LEDGER.md. Update the tracker row in the same commit as the chapter.
 Do not create a new tracking file -- this book already has eleven.
 
+DO NOT BUY INTERIORITY WITH FILTER VERBS. Measured on the ch32 expansion
+(2,838 -> 8,351, the first iteration of this loop): "Kade felt" went from 1.4
+to 2.2 per 1,000 words and filter verbs overall (felt/saw/watched/realized/
+noticed) rose 20%. Padding a climax with reported feeling is the easiest way
+to hit a word target and the fastest way to flatten one. Dramatise the state
+instead -- action, image, what the body does, what gets said. Before you
+commit, check your own drift:
+
+  git show <ref>:<chapter> | grep -coE '\b(felt|saw|watched|realized|noticed)\b'
+
+Divide by words/1000. If it rose against the pre-expansion version, revise
+before committing -- do not commit and note it.
+
 EXPANSION MEANS SCENES, NOT SENTENCES. If word count rises because paragraphs
 got longer, the density pass failed. Convert summary into scene. The reference
 repair is ch31 (2,328 -> 3,650): it gave a seventeen-year reunion room to
