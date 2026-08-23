@@ -6,17 +6,17 @@ Kade thought that was reasonable.
 
 Then he saw how many people had to agree on what ready meant.
 
-The operation spanned three locations and one dormant deep-space beacon.
+The operation spanned three physical locations, six institutions, and one dormant deep-space beacon.
 
 Lunar Far-Side Array handled initial alignment.
 
 Vahana’s orbital network handled transfer timing.
 
-Asterion hosted the human shared-state test cell because no government wanted the first live cross-system Consensus handoff inside its capital infrastructure.
+Asterion hosted the human shared-state synthesis cell because no government wanted the first live cross-system Consensus handoff inside its capital infrastructure.
 
 Helix ran independent telemetry verification.
 
-Kiyomizu supplied participant-rights observers.
+Kiyomizu supplied participant-rights observers and challenge-protocol review.
 
 Kisiwa supplied emergency continuity planning.
 
@@ -28,7 +28,7 @@ The final relay endpoint was an old scientific beacon called **DAEDALUS-4**, lau
 
 It had never been built for first contact.
 
-Eli loved that too.
+Eli loved that.
 
 “Best equipment always has three previous jobs.”
 
@@ -110,7 +110,7 @@ That mattered.
 
 She had refused a participant slot.
 
-“I am more useful if somebody has to get you out,” she said.
+“I am more useful if somebody has to get you out,” she had said.
 
 Kade had not argued.
 
@@ -118,11 +118,31 @@ Progress becoming boring.
 
 Taren remained at Asterion under security restriction and had no operational role.
 
-He watched from an approved observer room.
+He watched from an approved observer room with no access to live control channels.
 
 That also mattered.
 
 The story did not repair his consequences just because he had made one good choice.
+
+Aaron watched from medical support with Park close enough to end his participation in the briefing if he tried to become useful through exhaustion.
+
+Sen sat in governance, not operations.
+
+Everybody had a role.
+
+Nobody got the whole system.
+
+Kade looked at the diagram one last time.
+
+He felt afraid.
+
+Not of the signal.
+
+Of how much the architecture depended on people actually honoring the boundaries they had written.
+
+That seemed like a more mature fear.
+
+He disliked it.
 
 ---
 
@@ -141,6 +161,8 @@ The first handoff packet arrived twelve minutes later.
 **FIRST DECISION:** orbital transfer must choose conservative acquisition cone.
 
 **DO NOT ASSUME:** full array aperture available.
+
+**PROVENANCE:** Lunar Far-Side Array / calibration cell A / signed.
 
 Vahana acknowledged.
 
@@ -180,6 +202,8 @@ Then their packet arrived.
 
 **DO NOT ASSUME:** command acknowledgment equals physical completion.
 
+**PROVENANCE:** Vahana relay operations / cell B / signed.
+
 Eli smiled.
 
 “Beautiful.”
@@ -190,6 +214,96 @@ Kade looked at him.
 
 “Growth.”
 
+Sera said, “You said that about a circuit board last week.”
+
+“Love is not zero-sum.”
+
+Neema stared at him.
+
+Eli stopped speaking.
+
+Good.
+
+The room exhaled.
+
+Then Park said, “Cell C final medical check.”
+
+Normality ended.
+
+---
+
+Park checked every participant separately.
+
+Not as a group.
+
+That distinction had become ritual.
+
+Kade’s headache baseline: one.
+
+Aya: zero.
+
+Mara: zero.
+
+Julian: zero.
+
+Eli: one, from lack of sleep, which Park disliked more than the number justified.
+
+Neema: zero.
+
+Park looked at Kade.
+
+“Maximum active shared-state window?”
+
+“Twelve seconds.”
+
+“Incorrect.”
+
+Kade frowned.
+
+“Protocol says twelve.”
+
+“Protocol says twelve unless symptoms, task completion, or participant withdrawal occurs first.”
+
+Right.
+
+Maximum was not target.
+
+He nodded.
+
+Park looked at Aya.
+
+“Your restriction?”
+
+“No repeated initiation if headache exceeds four.”
+
+Mara.
+
+“Geometry authority does not override medical stop.”
+
+Julian.
+
+“Temporary priority has scope and end.”
+
+Eli.
+
+“No pushing through machine-state overload because I am curious.”
+
+Park stared at him.
+
+Eli sighed.
+
+“Or because the machine is interesting.”
+
+Neema.
+
+“Mission complete means release even if more information is available.”
+
+Park nodded.
+
+They had all learned different versions of the same sentence.
+
+Enough.
+
 ---
 
 Cell C formed at 03:49.
@@ -197,8 +311,6 @@ Cell C formed at 03:49.
 Not quickly.
 
 That was deliberate.
-
-Park checked every participant twice.
 
 Aya asked the scope aloud.
 
@@ -215,6 +327,28 @@ Mission lead answered, “Correct.”
 “Correct. Cell D owns transmit decision.”
 
 Kade liked that sentence more than expected.
+
+Mara added, “No participant may convert another person’s uncertainty into authorization.”
+
+Mission lead confirmed.
+
+Julian said, “No priority persists after its decision class ends.”
+
+Confirmed.
+
+Neema said, “If task completes, we release even if the signal is still interesting.”
+
+Confirmed.
+
+Eli made a face.
+
+Kade noticed.
+
+“Problem?”
+
+“I dislike that sentence.”
+
+“Good.”
 
 They entered one by one.
 
@@ -240,7 +374,7 @@ A sequence of systems separated by light delay, institutional authority, hardwar
 
 Kade felt the temptation to imagine all of it at once.
 
-Aya’s relational trace sharpened.
+Aya’s relational trace sharpened immediately.
 
 “Too much.”
 
@@ -254,7 +388,129 @@ Julian carried failure ordering.
 
 Neema carried mission consequence.
 
+Aya carried edge consistency.
+
 The shared model became manageable.
+
+Kade stopped being the place every question went first.
+
+That was the only reason he could stay inside it.
+
+---
+
+Mara experienced the relay as a geometry that refused to stay still.
+
+Not physically.
+
+The actual hardware moved slowly, predictably.
+
+But light delay turned every measurement into a picture of where the system had been.
+
+Her job was not to know the line.
+
+It was to know how uncertain the line became before the next correction arrived.
+
+She published a cone, not a point.
+
+Kade felt the difference.
+
+Old Kade would have wanted the point.
+
+Current Kade let the cone remain.
+
+Mara noticed.
+
+She did not praise him.
+
+Good.
+
+Aya experienced the system differently.
+
+To her, the important state lived between declarations.
+
+Vahana said a relay had accepted a command.
+
+Lunar said the phase state was still changing.
+
+Daedalus telemetry said physical completion arrived 184 milliseconds later than the acknowledgment.
+
+Three true statements.
+
+One dangerous relationship if treated as simultaneous.
+
+Aya kept the edge visible.
+
+Julian carried failure ordering without becoming command.
+
+If the relay drifted, geometry beat speed.
+
+If participant symptoms rose, medicine beat mission.
+
+If endpoint uncertainty expanded beyond threshold, observation beat transmission.
+
+Those priorities existed because everyone had agreed to them before fear arrived.
+
+Julian felt his father’s old lesson somewhere behind the shared state.
+
+The strongest person should prevent every failure.
+
+No.
+
+The system should decide what kind of failure it could afford before the strongest person began improvising morality.
+
+He let that thought go.
+
+Eli was the hardest to hold.
+
+Not because he resisted.
+
+Because the machines were loud.
+
+Thermal loads.
+
+Signal phase.
+
+Damper latency.
+
+Clock uncertainty.
+
+Command acknowledgments.
+
+Hardware completion.
+
+The relay chain contained thousands of tiny transitions that mattered to him.
+
+Kade felt Eli try to bring all of them into shared state.
+
+Aya challenged.
+
+“Too much.”
+
+Eli cut ninety percent.
+
+Painful.
+
+Necessary.
+
+Neema carried the simplest question.
+
+What is the mission right now?
+
+Not first contact.
+
+Not history.
+
+Not humanity proving anything.
+
+Verify the corridor.
+
+Detect anomalies.
+
+Hand off.
+
+That clarity kept the six of them from turning curiosity into scope.
+
+---
 
 Cell C’s task was not to send anything.
 
@@ -286,7 +542,7 @@ Cell D asked whether the anomaly could indicate external response.
 
 Kade almost answered.
 
-Neema stopped him.
+Neema’s mission state sharpened.
 
 “We do not know.”
 
@@ -301,6 +557,12 @@ No one complained.
 That was harder than it sounded.
 
 Thousands of people worldwide were waiting for a signal.
+
+Governments had moved satellites.
+
+News networks had built countdown graphics.
+
+Families had spent months imagining invasion, salvation, or nothing at all.
 
 The system chose not yet.
 
@@ -324,7 +586,13 @@ Mara said, “Direction?”
 
 “Near target corridor. Confidence low.”
 
-Aya said, “Do not let expected source become identity.”
+Aya said, “Expected source cannot become identity.”
+
+Kade heard the correction.
+
+They had coordinates.
+
+That did not mean every signal near those coordinates came from the same thing that sent the countdown.
 
 Helix verification called thirty seconds later.
 
@@ -375,7 +643,7 @@ They listened.
 
 ---
 
-The first structured response arrived at 04:11.
+The first structured packet arrived at 04:11.
 
 Nine seconds of signal.
 
@@ -421,17 +689,13 @@ This one changed one interval.
 
 Eli stared.
 
-“It is adapting.”
+“The pattern varied after our alignment.”
 
-Kade’s pulse jumped.
+Better than *it noticed us*.
 
-“Or varying.”
+Kade felt grateful for the correction before he could become afraid of it.
 
-“Right.”
-
-Good correction.
-
-The old 7.42-second timing family appeared inside it.
+The old 7.42-second timing family appeared inside the packet.
 
 The 1991 fragment.
 
@@ -447,41 +711,161 @@ Independent enough to matter.
 
 Still not meaning.
 
+Aaron’s voice came from the observer channel.
+
+“Do not assume sequence means message.”
+
+Kade looked toward the glass.
+
+Aaron looked exhausted and alert.
+
+Park stood beside him.
+
+Good.
+
+Kade answered, “We aren’t.”
+
+He meant it.
+
+Mostly.
+
 ---
 
-Then Cell C began to fail.
+Then the real temptation arrived.
 
-Not dramatically.
+Cell D requested one active calibration pulse.
 
-That made it worse.
+Not a message.
 
-Kade’s headache reached five.
+A short known laser pattern aimed down the relay corridor to distinguish passive external signal from a response synchronized to human activity.
 
-Aya’s edge model began lagging.
+Scientifically useful.
 
-Mara reported visual narrowing.
+Potentially more visible.
 
-Park’s medical channel went amber.
+Exactly the kind of decision the architecture had separated from Cell C.
+
+Government representatives began arguing immediately.
+
+One approved.
+
+One opposed.
+
+One wanted a larger pulse to maximize detection confidence.
+
+Cell D paused.
+
+Good.
+
+No hidden urgency.
+
+Julian felt the mission decision nearby and did not reach for it.
+
+Not their cell.
+
+Kade felt how easy it would be to convert shared state into persuasive authority.
+
+They could say the network recommended one choice and make six people's agreement sound like objective physics.
+
+Neema challenged that before anyone spoke.
+
+“Our cell does not own transmit.”
+
+There.
+
+Kade released the urge to solve it.
+
+Cell D eventually rejected the active pulse.
+
+Passive listening only.
+
+One scientist cursed openly.
+
+Kade liked them for it.
+
+The choice had cost information.
+
+Real decisions should cost something.
+
+---
+
+At 04:16, the signal changed without a human pulse.
+
+Every analyst stopped.
+
+The timing frames collapsed into a simpler structure.
+
+Three groups.
+
+Pause.
+
+Three groups.
+
+Pause.
+
+Then one.
+
+Eli whispered, “The pattern changed again.”
+
+Mara said, “Record before interpretation.”
+
+Helix recorded independently.
+
+Lunar confirmed direction.
+
+Vahana confirmed no relay artifact.
+
+Daedalus confirmed receiver state.
+
+Four sources.
+
+Rule Six fairness even in science.
+
+A final packet arrived.
+
+Longer than the others.
+
+Inside it, the variable content repeated one mathematical structure the Lunar team could identify without semantic interpretation:
+
+A coordinate transform.
+
+Not the original returned coordinates.
+
+A new point.
+
+Closer.
+
+Still outside the solar system.
+
+Then nothing.
+
+The dark relay remained open.
+
+The source—or sources—went silent.
+
+No explosion.
+
+No invasion.
+
+No answer humans could read.
+
+Just structured behavior where noise had been, and a new coordinate state handed into the human system.
+
+Kade felt the shared model surge with interpretation pressure.
+
+Everyone wanted to know.
+
+That was when Park’s medical channel went amber.
 
 “Prepare release.”
 
-Cell D asked for one more analysis window.
+Eli’s contribution sharpened.
 
-Mission pressure.
-
-Exactly the thing the system had been designed to resist.
-
-Kade felt the shared state want to stay coherent.
-
-Not because Consensus had desires.
-
-Because six people wanted the answer.
-
-That was enough.
+“We need one more frame comparison.”
 
 Neema said, “Mission complete for our scope.”
 
-Eli said, “We have not decoded it.”
+“We have not decoded it.”
 
 “Our scope was corridor synthesis and anomaly detection.”
 
@@ -509,53 +893,55 @@ Kade released.
 
 The shared state vanished.
 
-The signal continued without them.
+The signal did not return.
+
+The mission continued without them.
 
 That was the payoff.
 
 The universe did not require Consensus to keep existing.
 
-Neither did the mission.
+Neither did the analysis.
 
-Conventional analysts took over.
+Conventional teams took over.
 
 Cell D retained authority.
 
 Handoff complete.
 
-Kade sat on the floor while Park checked his pupils.
+Kade sat on the floor while Park entered and checked his pupils.
 
-No one asked him what the signal meant.
+Aya lay back against the station with her eyes closed.
+
+Mara flexed shaking fingers.
+
+Julian drank water slowly.
+
+Eli looked at the screens like someone had removed food while he was still hungry.
+
+Neema looked relieved.
+
+Six different reactions.
+
+No shared mind after the task.
 
 Good.
 
-He did not know.
-
 ---
 
-At 05:02, after medical clearance, they entered the main operations room.
+Medical recovery took forty-nine minutes.
 
-The structured packets had repeated seventeen times.
+The rest of the world did not wait.
 
-No transmission had been sent from Earth.
+By the time Kade was cleared, the new coordinates were already on secure government channels.
 
-Passive listening only.
+News had learned only that the relay test produced “unexpected structured telemetry.”
 
-Helix, Lunar, and Vahana teams agreed the signal contained at least three hierarchical layers:
+That phrase bought them perhaps an hour before speculation became civilization-wide weather.
 
-carrier timing;
+Kade entered the main operations room with Mara and found every institution trying not to become the permanent center.
 
-repeating frame structure;
-
-variable internal content.
-
-Language-like architecture.
-
-Maybe.
-
-Not language yet.
-
-Sen appeared on the main wall from Asterion governance.
+They were failing.
 
 Government representatives filled the side screens.
 
@@ -567,99 +953,175 @@ A third argued the signal might be an automated beacon.
 
 A fourth asked whether humanity had already revealed itself by aligning the relay.
 
-No one knew.
+A fifth demanded exclusive custody of the new coordinates until national-security review completed.
 
-The room began to reproduce Chapter Twenty-Eight at planetary scale.
+Sen sat at the central governance table.
+
+She looked at Kade.
+
+Not for an answer.
+
+Good.
+
+The room began to reproduce the lunar tug emergency at planetary scale.
 
 Correct authorities.
 
-Incompatible orders.
+Incompatible priorities.
 
 Broken command waiting to happen.
 
-Julian looked at Kade.
+Julian looked at the authority map.
 
-Kade looked at the Handoff Protocol on the operations wall.
+Then at the Handoff Protocol.
 
-No permanent center.
+“We need scoped decision ownership before anyone replies.”
 
-Temporary authority by domain.
+A defense representative said, “This is not a classroom exercise.”
 
-They were not ready to solve humanity.
+Julian’s face became very still.
 
-They could solve the next decision.
+“No. That is why we should not improvise command.”
 
-Sen said, “We need a scoped authority conference before any reply.”
+Sera, standing with emergency continuity staff, added, “If you cannot say who owns the next decision and who can stop it, you are not ready to send anything.”
 
-Kade almost laughed.
+Kade almost smiled.
 
 Policy had become survival infrastructure.
+
+No one enjoyed that.
 
 Good.
 
 ---
 
-At 05:17 the signal changed.
+The first scoped conference took two hours.
 
-Every analyst stopped.
+Kade was not invited for most of it.
 
-The timing frames collapsed into a simpler structure.
+Also good.
 
-Three groups.
+Scientific interpretation went to the joint analysis group.
 
-Pause.
+Transmit authority went to an international temporary board with defined voting thresholds.
 
-Three groups.
+Medical authority remained with participant medical teams for any further Consensus use.
 
-Pause.
+Relay operation remained Lunar/Vahana shared technical control.
 
-Then one.
+Asterion had no unilateral first-contact authority simply because Kade lived there.
 
-Eli whispered, “It noticed something.”
+Kiyomizu secured participant withdrawal language.
 
-Mara said, “Do not anthropomorphize.”
+Kisiwa forced an emergency-continuity clause requiring that any future contact test include a conventional fallback plan and public-safety modeling.
 
-“Fine. The pattern changed after our relay alignment.”
+Helix insisted all semantic claims carry confidence levels and source provenance.
 
-That they could say.
+Nobody got everything.
 
-A final packet arrived.
+The system became slower.
 
-Longer than the others.
+Kade trusted it more.
 
-Inside it, the variable content repeated one mathematical structure the Lunar team could identify without semantic interpretation:
+---
 
-A coordinate transform.
+At 08:03, after sunrise over a part of Earth Kade could not see from Asterion, he finally returned to Meridian Commons.
 
-Not the original returned coordinates.
+Sera had beaten him there.
 
-A new point.
+So had Eli.
 
-Closer.
+Mara arrived two minutes later.
 
-Still outside the solar system.
+Julian took the chair by the window.
 
-Then the dark relay went silent.
+Taren remained under curfew and joined by approved video from his room.
 
-No explosion.
+Aya appeared on a Kiyomizu call, already back under medical restriction for forty-eight hours.
 
-No invasion.
+Nobody had planned a meeting.
 
-No answer humans could read.
+Of course everyone arrived.
 
-Just proof that something on the other end—or somewhere along the chain—had changed its behavior while humanity listened.
+Eli put the blue Meridian mug on the table.
 
-Kade looked at the new coordinates.
+Kade stared.
 
-The countdown continued on the wall.
+“You brought that back from Geneva?”
 
-Months ago the numbers had made him feel helpless.
+“I told you. Shared heritage.”
 
-Now the feeling was different.
+Sera said, “It is still House Sol property.”
 
-They had built a way to approach the unknown without pretending one person, one academy, or one government owned the whole problem.
+Julian looked at the bottom.
 
-The unknown had answered with another handoff.
+“Technically.”
+
+Taren said through the screen, “I stole it.”
+
+Everyone stopped.
+
+Kade looked at him.
+
+“Finally.”
+
+Taren shrugged.
+
+“Personal growth.”
+
+The room laughed.
+
+The sound mattered more after the relay.
+
+Kade sat.
+
+For several minutes they talked about nothing important.
+
+Then Mara asked, “What do you think the coordinates are?”
+
+Kade looked at her.
+
+Months ago he would have answered with his best model.
+
+Now he said, “I have three guesses.”
+
+“Good.”
+
+“A nearer relay point. A location selected because our geometry changed. Or an instruction we do not understand yet.”
+
+Eli added, “Automated network routing.”
+
+Aya said, “Possibly.”
+
+Julian said, “None changes the next decision yet.”
+
+Neema was not there, but Kade could hear her influence in the sentence.
+
+Good.
+
+Sera looked at the countdown on the Commons wall.
+
+“So zero is still coming.”
+
+“Yes.”
+
+“Do we know what it is?”
+
+“No.”
+
+Kade waited for the uncertainty to feel like failure.
+
+It did not.
+
+Not anymore.
+
+They had learned how to approach a question without requiring one permanent owner.
+
+They had learned how to stop before curiosity became permission.
+
+They had learned how to hand a system forward without pretending the next people needed to become them.
+
+And something on the far side of the dark relay had answered with another handoff.
 
 Not meaning.
 
