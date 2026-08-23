@@ -15,7 +15,7 @@
 ## Original chapter targets
 | Ch | Title | Target words | Expansion status |
 |---:|---|---:|---|
-| 1 | The Kid in Room Four | 5,300 | Calibration / light expansion only |
+| 1 | The Kid in Room Four | 5,300 | Passes 1–6 complete — 5,337 words |
 | 2 | Zero Protocol | 5,100 | Passes 1–6 complete — 5,234 words |
 | 3 | Asterion | 5,700 | Passes 1–6 complete — 5,729 words |
 | 4 | Ten Thousand Four Hundred Eighty-Two | 5,300 | Passes 1–6 complete — 5,667 words |
