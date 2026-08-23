@@ -46,7 +46,7 @@
 | 29 | Ghost Protocol | 5,600 | Pending |
 | 30 | Siege of Asterion | 7,800 | Pending |
 | 31 | Aaron | 6,200 | Pending |
-| 32 | Consensus | 8,200 | Pending |
+| 32 | Consensus | 8,200 | Passes 1–6 complete — 8,351 words |
 | 33 | First Day | 5,600 | Pending |
 
 ## Expansion blocks

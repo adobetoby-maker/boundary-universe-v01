@@ -3,6 +3,8 @@
 ## Manuscript status
 - **Chapters 1–33 polished at developmental/prose level.**
 - Density-expansion pass now covers Chapters 1–33 at least once; Chapter 1 has received an additional benchmark-density pass.
+- **Chapter 32 `Consensus` is at architecture target:** 8,351 / 8,200 words; Passes 1–6 complete against manuscript blob `70edc251ce3692978b5e6cb06604573d6cf299ab`.
+- Chapter 32 end-state delta: Kade and five peers create the first stable modern Consensus and free Aaron from constant manual containment, but their 0.83-second leak receives coordinates and an unexplained countdown in return.
 - Full Book 1 story is structurally complete.
 - Remaining editorial work: targeted second density pass where chapters remain materially below intended scene density (especially 7–11), exact word-count audit, consistency lint, TTS/listening notes, copyedit, and publication formatting.
 - Family-clean rule remains LOCKED.
@@ -101,6 +103,7 @@
 - Remaining in containment began as Aaron's own emergency choice; attempts at machine control, rotating operators, and distributed Standard Eight teams failed to maintain the same boundary condition. This explains the mechanism but does not absolve family abandonment.
 - Aaron knew Kade existed and received limited photographs/updates through Sen. He explicitly admits he could have trusted Elena/communicated more and does not frame his absence as noble enough to erase harm.
 - Reveals that Consensus changes the definition of the operator rather than being simply greater individual power.
+- Stable Consensus lets Aaron cross away from the containment rail with assistance for the first time in years; Kade helping him move is immediate crisis aid, not forgiveness or reconciliation.
 - Recalls one damaged precursor-memory countdown-like sequence from earlier Refuge Node study; its meaning was never understood and remains OPEN.
 - Relationship with Kade ends unresolved and difficult. Repeated post-siege conversations often go badly; some ordinary topics (Northline, bad footwork, food) create small points of contact.
 
@@ -121,6 +124,7 @@
 - Expansion establishes explicit early failure modes: treating another participant as an object, flattening distinct people into one input, and allowing a high-confidence participant to become an accidental command center.
 - First stable modern network includes Kade, Mara, Sera, Julian, Taren, and Eli (via haptic/network bridge), with Aaron/Sen supporting containment context.
 - Roles during climax: Mara field geometry; Sera safe load partition/route awareness; Julian force/prioritization balance; Eli machine/signal interpretation; Taren Directorate security lattice; Kade shared relationship/boundary model.
+- Each participant experiences and applies that competence as a distinct center inside the shared model; successful release is also voluntary and staged, proving separation is part of Consensus rather than a system failure.
 - A major temptation/failure mode is Kade trying to take centralized control; he deliberately loosens control and asks participants to choose again under stress.
 - All participants show neurologic/physical strain; post-event use is restricted pending study.
 
