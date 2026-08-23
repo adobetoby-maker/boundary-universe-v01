@@ -234,11 +234,11 @@ Sera said, “I’m going to make you say out loud why you’re leaving.”
 
 “Because Sen lied to me.”
 
-“True.”
+“Start there.”
 
 “Because my father was here.”
 
-“Also true.”
+“Keep going.”
 
 “Because my mother got threatened into silence.”
 
@@ -248,13 +248,13 @@ Sera’s expression changed slightly.
 
 “Because everyone knew more about my life than I did.”
 
-“Probably true.”
+“Enough people did.”
 
 Kade’s jaw tightened.
 
 “So move.”
 
-“No.”
+“I said walk around me.”
 
 “You just said you weren’t stopping me.”
 
@@ -974,9 +974,9 @@ Then at Elena.
 
 “I’m not coming home today.”
 
-“Okay.”
+“Then I’ll see you when you do.”
 
-The word hurt and helped at the same time.
+The promise hurt and helped at the same time.
 
 “Mom.”
 
@@ -984,7 +984,7 @@ The word hurt and helped at the same time.
 
 “I’m still angry at you.”
 
-“I know.”
+“I know. I haven’t asked you not to be.”
 
 “And Sen.”
 
