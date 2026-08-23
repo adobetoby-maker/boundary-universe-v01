@@ -2,6 +2,210 @@
 
 Asterion held memorials in the Hall of Names.
 
+Two hours before Eli’s, House Meridian gathered around the common-room table to decide what the Hall would be allowed to keep.
+
+The academy had sent a checklist.
+
+One formal portrait.
+
+One House object.
+
+One printed program biography, limited to two hundred words.
+
+Julian had already reduced Eli’s life to one hundred ninety-eight words.
+
+Sera stood over his shoulder reading it with the concentration she usually reserved for structural failure.
+
+“Delete *promising*.”
+
+Julian looked up from the tablet. “Why?”
+
+“It means adults expected him to become useful later.”
+
+“He was useful now,” Priya said from the other end of the table.
+
+She had arrived ten minutes earlier, taken the chair Julian had been using, and informed him that helping Meridian did not make him Meridian.
+
+Julian had moved one chair to the left.
+
+Kade sat with Eli’s broken drone rotor in front of him.
+
+Beside it lay the ceramic connector from the fellowship prototype and the mug that said **WORLD’S MOST ADEQUATE ENGINEER**.
+
+The Hall allowed one object.
+
+Asterion could apparently quantify even this.
+
+“The connector,” Julian said. “It represents the work.”
+
+“The work is not finished,” Kade replied.
+
+“That may be why it represents him.”
+
+Kade turned the little ceramic piece between two fingers.
+
+It had no markings. No visible reason to matter. Anyone walking into the Hall would need a paragraph explaining why Eli had rejected a component that cost forty-three credits more.
+
+Eli would have supplied six paragraphs and an appendix.
+
+The mug required no explanation.
+
+That made it feel like a joke the room would understand and nobody else would.
+
+The rotor was bent from an ordinary failed repair on an ordinary day.
+
+It belonged to no fellowship committee. It made no claim about what Eli might have become. It was only proof that he had lived in Room 814 long enough to leave something unfinished there.
+
+Kade pushed the other two objects aside.
+
+“Rotor.”
+
+Sera read the biography again.
+
+“Delete *sacrifice* too.”
+
+Julian’s hand stopped above the screen.
+
+“He went back into Lab Six to close the vent.”
+
+“That was his decision. *Sacrifice* turns the decision into something the academy gets to praise itself for surviving.”
+
+The room went quiet.
+
+Kade looked at her.
+
+Sera did not look away from the program.
+
+Julian deleted the word.
+
+“Elias Navarro died after preventing a larger systems failure,” he read.
+
+“Presumed dead,” Kade said.
+
+Priya’s chair creaked as she leaned forward.
+
+Nobody corrected him.
+
+The investigation had used the phrase for three days. Everyone else had begun dropping the first word because the second was easier to print.
+
+Julian put it back.
+
+**Elias Navarro is presumed dead after preventing a larger systems failure in Lab Six. He believed technical excellence was incomplete if ordinary people could not afford its protection.**
+
+He turned the tablet so the House could read it.
+
+“One hundred ninety-four.”
+
+“You can remove the sentence about his ranking,” Kade said.
+
+Julian found it near the bottom.
+
+“The Hall biography office requires academy standing.”
+
+Priya held out her hand.
+
+Julian gave her the tablet.
+
+She deleted the sentence, opened the Hall request, and entered **NOT RELEVANT** in the required field.
+
+The form turned amber.
+
+“There,” she said. “Now it can argue with me.”
+
+At the bell cabinet, Sera cut blue cloth from the faded House roll.
+
+One strip for every Meridian student attending.
+
+Not new cloth. The same roll that had supplied the marker still tied to Eli’s bedpost. Its color changed every few centimeters where older knots had protected it from light.
+
+Sera passed the strips around.
+
+Kade tied his badly. Mara, seated beside him, waited until he held out his wrist before fixing the knot.
+
+The common-room door opened.
+
+Taren stood outside with two security officers.
+
+He had been permitted to attend under escort. Apparently permission to grieve and permission to move through campus now required separate forms.
+
+His gaze dropped to the cloth in Sera’s hand.
+
+“May I wear one?”
+
+Sera closed her fist around the roll.
+
+“You do not get to make that strip evidence that Meridian has forgiven you.”
+
+Taren’s face remained still.
+
+“I wouldn’t.”
+
+“You wrote reports about him.”
+
+“I wrote reports about all of you.”
+
+“That does not improve the answer.”
+
+“I know.”
+
+Taren could have explained that his reports had become less useful over time. He could have mentioned the credentials he burned or the locked door he opened while Lab Six came apart.
+
+He left every defense unused.
+
+“I am not asking the House to make me innocent,” he said. “I am asking whether I can carry the person who is missing.”
+
+Sera’s fingers tightened.
+
+Kade could have decided for her. Taren had helped save them. Taren had also made the attack easier for the people who had sent him.
+
+Both facts remained true without Kade turning either into a verdict.
+
+Priya rose and crossed to the bell cabinet.
+
+“The strip marks an absence,” she said. “Not innocence.”
+
+She did not touch the roll.
+
+The choice stayed with Sera.
+
+For several seconds, the only sound in the common room came from Julian correcting the Hall’s punctuation.
+
+Then Sera cut one more length.
+
+She placed it on the table rather than handing it to Taren.
+
+“You tie it yourself.”
+
+Taren crossed the room between his escorts and picked it up.
+
+“Thank you.”
+
+“This changes nothing.”
+
+“I understand.”
+
+He tied the strip around his wrist.
+
+Nobody helped with the knot.
+
+One security officer recorded the exchange on her tablet. The other shifted half a step to keep Taren inside arm’s reach.
+
+The blue cloth changed neither distance.
+
+That mattered.
+
+Meridian could make room for his grief without pretending trust had returned. Taren could carry Eli’s absence without using it to purchase absolution.
+
+Julian sent the biography back to the Hall with the ranking field still amber.
+
+Priya carried the rotor.
+
+Kade carried nothing.
+
+Meridian left together.
+
+---
+
 Kade had walked past it dozens of times.
 
 He had never gone inside.
@@ -32,7 +236,7 @@ No one touched him.
 
 Kade appreciated that.
 
-The blue strip from Eli’s bedpost had been tied around Kade’s wrist for the ceremony. Every Meridian student attending wore one.
+The blue strip from the same faded roll as Eli’s bedpost marker had been tied around Kade’s wrist for the ceremony. Every Meridian student attending wore one.
 
 Nobody had explained that ritual either.
 
@@ -44,13 +248,7 @@ Two academy security officers remained near him—not touching, not pretending h
 
 He wore the same blue strip.
 
-Sera had objected.
-
-Then changed her mind without explaining why.
-
-Kade had not asked.
-
-Some decisions needed room.
+The knot Taren had tied himself sat crooked against his wrist.
 
 The doors opened.
 
@@ -74,7 +272,7 @@ Names from incidents Kade recognized from textbooks and names that meant nothing
 
 The building did not rank them.
 
-That was the first thing he noticed.
+That was the first thing that mattered.
 
 No Standards.
 
@@ -92,13 +290,67 @@ He had apparently submitted a serious academy portrait.
 
 That alone seemed dishonest.
 
+Below the photograph, a narrow bronze name strip rested on blue cloth.
+
+**ELIAS NAVARRO**
+
+No dates.
+
+The mounting pins had not been cut.
+
+Kade leaned toward Julian.
+
+“Why is it loose?”
+
+“The Hall does not mount a name until the recovery finding is final.”
+
+Kade looked at him.
+
+“Then why hold the memorial?”
+
+“Because his family chose not to make everybody wait for the investigation before they could gather.”
+
+“But they made the bronze wait.”
+
+“They asked the Hall to keep the record accurate.”
+
+The answer should have sounded like procedure.
+
+Instead it sounded like the professor who had kept Eli’s fellowship suspended rather than rejected. Like the seven-day strip on his bed. Like every careful person refusing to let certainty outrun what they knew.
+
+Kade wanted the loose name to mean something.
+
+He wanted the unresolved device identifier from Lab Six to mean something.
+
+Hope tried to assemble a system from two incomplete measurements.
+
+He stopped it there.
+
+An unmounted name meant the investigation was open.
+
+Nothing more.
+
+Nothing less.
+
+Sera read the strip over his shoulder.
+
+“Good,” she said.
+
+Kade glanced at her.
+
+“The Hall waits for evidence,” she said. “Somebody around here should.”
+
+Then she faced forward.
+
+Kade did too.
+
 Someone had placed his battered drone rotor beneath the photograph beside the formal academy crest.
 
-Kade almost laughed when he saw it.
+Kade almost laughed at the sight.
 
-That felt wrong for half a second.
+For half a second, laughter seemed wrong.
 
-Then it felt exactly right.
+Then it was exactly right.
 
 The room was full.
 
@@ -318,8 +570,6 @@ Her voice remained steady.
 
 Her hands did not.
 
-Kade noticed.
-
 Mara continued.
 
 “He also did not understand when to stop explaining.”
@@ -334,7 +584,7 @@ Julian did not speak.
 
 He had organized the memorial logistics instead.
 
-That felt like him.
+That was like him.
 
 Kade had not planned to speak either.
 
@@ -374,7 +624,7 @@ Kade stood.
 
 His legs moved before the rest of him agreed.
 
-The walk to the lectern felt longer than any arena.
+The walk to the lectern was longer than any arena.
 
 He looked at Eli’s photograph.
 
@@ -502,13 +752,139 @@ A second-year engineer described the time he borrowed a thermal camera to prove 
 
 One maintenance worker claimed Eli had named three service robots and then denied it when staff started using the names.
 
-Captain Ortiz found Sera.
+Captain Ortiz found Sera beside the courtyard wall.
 
-They talked for almost twenty minutes.
+She still carried the repaired sensor housing from the ceremony.
 
-Kade watched Sera listen more than speak.
+Up close, it looked older than Kade had assumed. One corner had been rebuilt in gray polymer. The manufacturer seal had faded until only half the name remained.
 
-When Ortiz left, Sera stared at the contact card in her hand.
+Ortiz held it out.
+
+“Navarro said you break emergency equipment.”
+
+Sera accepted the housing carefully.
+
+“Only when the design deserves it.”
+
+“This one deserves it.”
+
+Sera turned the unit over. “What happened?”
+
+“Bridge collapse outside Denver. The field sensor survived the first impact and failed during aftershock monitoring.”
+
+“Battery?”
+
+“Connector.”
+
+Sera found the replacement seam with one thumbnail.
+
+“Proprietary.”
+
+“Discontinued. The department had six housings and four working cables.”
+
+Sera’s attention sharpened.
+
+“So you moved cables between positions.”
+
+“Until one locking collar cracked.”
+
+“Then you had three sensors.”
+
+“We had two. One cable disappeared under the west slab with a responder attached to it.”
+
+The courtyard noise receded around them.
+
+Sera ran her thumb once over the cracked collar.
+
+“Was the responder recovered?”
+
+“Alive.”
+
+Her shoulders lowered by a fraction.
+
+Ortiz tapped the ceramic connector on the repaired corner.
+
+“Elias wanted to standardize the replacement and publish the fabrication pattern. I told him departments could buy new housings faster than we could certify an unofficial part.”
+
+“He hated that answer.”
+
+“He sent me a nineteen-line cost comparison.”
+
+“Only nineteen?”
+
+Ortiz smiled.
+
+“I asked whether he had ever stood beside a responder trusting a part that might fail under load.”
+
+Sera’s smile vanished.
+
+“What did he say?”
+
+Ortiz rotated the housing. A tiny mark had been etched into the replacement seam.
+
+**TEST TO FAILURE. THEN TEST THE FAILURE.**
+
+“He asked what our certification rig needed.”
+
+Sera read the words twice.
+
+“Did he build it?”
+
+“He sent plans. We did not have the budget.”
+
+There was the second half of Eli’s question.
+
+Not whether Asterion could make a cheap part.
+
+Whether anyone outside Asterion could afford to prove the cheap part was safe.
+
+Sera handed the housing back.
+
+“I applied to Disaster Response.”
+
+“I heard.”
+
+“From Eli?”
+
+“From your assessment lead. Navarro only said you would identify everything wrong with my department in under a week.”
+
+“That is unrealistic.”
+
+“A full week?”
+
+“I would need to inspect it first.”
+
+Ortiz laughed.
+
+Then she took a plain paper card from her uniform pocket.
+
+No academy seal. No Directorate authentication. Just a name, a municipal number, and an address on the mainland.
+
+“Call when you are ready to spend a shift with people who cannot replace a cracked housing by opening a laboratory account.”
+
+Sera did not take the card immediately.
+
+“Observation?”
+
+“Work. Supervised. Unpaid.”
+
+“Can I bring the connector plans?”
+
+“If Navarro’s family and fellowship committee permit it.”
+
+Sera nodded.
+
+The answer mattered. Eli’s work did not become public property because he was gone.
+
+She took the card.
+
+“Then I will ask.”
+
+Ortiz left her with the housing’s failure report open on her tablet.
+
+Sera read the report before she read the contact card.
+
+That, more than anything, made Kade believe she would call.
 
 “You going to call?” Kade asked.
 
@@ -550,11 +926,61 @@ Kim’s mouth moved slightly.
 
 Kade laughed despite himself.
 
+“What does collaborator mean if I cannot build any of it?”
+
+“It means the committee cannot remove his cost assumptions without notifying you.”
+
+Kade looked at the wafer again.
+
+“Why would they?”
+
+Kim’s expression became very tired.
+
+“Because the fastest way to make his design pass is to replace affordable parts with certified ones and redefine the users as agencies with Asterion procurement access.”
+
+“That would pass by deleting the point.”
+
+“Elias used nearly those words.”
+
+Kade turned the wafer over. One edge carried a green access stripe. The data inside belonged partly to Eli’s family, partly to a working group, partly to an academy that could afford every shortcut the project rejected.
+
+“Captain Ortiz has a connector he designed.”
+
+“A prototype fabricated from plans he released to her department. She may keep and test that unit. She may not distribute the pattern yet.”
+
+“So everyone owns a different piece.”
+
+“Everyone carries a different obligation,” Kim said. “Ownership is what the review panel will spend three meetings arguing about.”
+
+That sounded more accurate.
+
+“How long do they wait?”
+
+“Thirty days before any disposition. Longer if his family requests it. The fellowship remains suspended, not closed.”
+
+Suspended.
+
+The same careful word the professor in Room 814 had used.
+
+Kade could not tell whether the academy was preserving a future or refusing to admit the absence yet.
+
+It could be both.
+
 He took the wafer.
 
 “I do not know what to do with this.”
 
 “Good. Do nothing today.”
+
+“I am not promising to finish it.”
+
+“You are not qualified to promise that.”
+
+Kade looked up.
+
+Kim’s mouth moved slightly.
+
+“You are qualified to ask whether the people who finish it preserved the problem Elias intended to solve.”
 
 Professor Kim walked away.
 
@@ -580,7 +1006,7 @@ After fifteen minutes more, he needed air.
 
 He walked back to Meridian alone.
 
-The campus felt wrong in memorial quiet.
+Memorial quiet made the campus wrong.
 
 Classes had resumed around the edges. Students crossed walkways. Training continued in distant arenas. The world had the poor manners to keep functioning.
 
