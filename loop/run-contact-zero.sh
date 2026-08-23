@@ -33,13 +33,8 @@ cd "$REPO" || { echo "no repo at $REPO"; exit 1; }
 
 say() { printf '%s  [%s] %s\n' "$(date '+%Y-%m-%d %H:%M:%S')" "$ROLE" "$*" | tee -a "$LOG"; }
 
-# guard: STOP file
-if [ -f "$LOOP_DIR/STOP" ]; then
-  say "STOP file present — not scheduling another run."
-  exit 0
-fi
-
-# guard: CZ-specific STOP
+# guard: CZ-specific STOP only — the global STOP file is for the Asterion lane
+# (placed there for the Dr. Lian Zhou canon decision; doesn't apply here)
 if [ -f "$LOOP_DIR/STOP-contact-zero" ]; then
   say "STOP-contact-zero file present — halting Contact Zero lane."
   exit 0
