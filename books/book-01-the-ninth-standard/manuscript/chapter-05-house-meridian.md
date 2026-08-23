@@ -376,6 +376,46 @@ She stopped outside room 814.
 
 Kade shifted the weight of the bag.
 
+The eighth-floor corridor curved around the courtyard. Every fourth door stood open. Music leaked from one room, an argument about load tolerances from another, and the smell of burned sugar from somewhere Sera chose not to investigate.
+
+Blue tape divided a section of wall into a grid of names and jobs.
+
+**KITCHEN CLOSE**
+
+**TRAINING BAY RESET**
+
+**COURTYARD SWEEP**
+
+**NIGHT CHECK**
+
+Kade found his name already written beside **DINING CLOSE — THURSDAY**.
+
+“I arrived twelve minutes ago.”
+
+“The floor needed a Thursday.”
+
+“So this is forced labor.”
+
+“This is living near other people.”
+
+Sera tapped the line below his. Navarro was assigned with him.
+
+“Housing staff handle maintenance. We handle the messes we create before those become maintenance. If Eli tells you a scorch mark is cosmetic, make him clean it anyway.”
+
+“Useful distinction.”
+
+“There’s a quiet room at the west end. Actual quiet, not Meridian quiet. Training bays lock at twenty-two hundred unless a fourth-year signs supervision. The stairwell behind the laundry room reaches the courtyard fastest during an alarm.”
+
+Kade looked toward the green emergency marker at the end of the hall.
+
+“You give everyone the evacuation route before the dining schedule?”
+
+“Everyone should know the fastest way out.”
+
+That answer required no explanation from him.
+
+Sera set down her end of the duffel. The seam near one handle had stretched white. Another flight of stairs might actually have torn it.
+
 “Why’d you end up here?”
 
 Sera’s face did something complicated and then settled.
@@ -516,27 +556,287 @@ The absence of curiosity felt like a gift.
 
 Eli turned back to his sensor rig.
 
+Then the projection above his bed flashed red.
+
+**ATTITUDE CORRECTION FAILED**
+
+The model drone rolled sideways, clipped a simulated stair rail, and broke into twelve cleanly rendered pieces.
+
+Eli frowned.
+
+“That is inaccurate.”
+
+Kade looked from the simulation to the real collection of broken parts.
+
+“Seems rigorously peer-reviewed.”
+
+“The correction impulse should fire before the roll exceeds eleven degrees.” Eli pulled the model apart with both hands, expanding a web of vectors over the room. “It fires here. See?”
+
+“No.”
+
+Eli turned, surprised.
+
+Kade shrugged. “You said see like that would make the colors become information.”
+
+“Right. Sorry.”
+
+He collapsed half the display and rebuilt it more slowly. A line marked the drone’s desired orientation. Another showed the rotor correction. Numbers updated beside each joint.
+
+“The sensors report tilt. The controller increases lift on the low side. The frame levels.”
+
+The simulation ran again.
+
+The controller fired.
+
+The drone rolled harder and struck the rail.
+
+“Your low side changes,” Kade said.
+
+“Obviously.”
+
+“Does the controller know?”
+
+Eli opened his mouth.
+
+Kade traced the sequence in the air. “It decides this rotor belongs to the low side. Then the frame turns, but the decision stays attached to the rotor.”
+
+Eli stared at the model.
+
+He rewound three frames.
+
+The drone tilted. The controller assigned the corrective pair. The body rotated past level. For thirty-two milliseconds, the system continued treating an old relationship as a current one.
+
+“Oh,” Eli said.
+
+He changed one line and ran it again.
+
+The drone tipped, corrected, and hovered.
+
+Neither of them spoke.
+
+Eli ran it a second time.
+
+Hover.
+
+He turned toward Kade with an expression of personal betrayal.
+
+“You said you had no field perception.”
+
+“I don’t.”
+
+“You found a rotating-reference error in under a minute.”
+
+“Your drone kept steering according to where it used to be.”
+
+“That is what a rotating-reference error is.”
+
+“Then you should name things more clearly.”
+
+Eli looked back at the stable model.
+
+“I spent four hours on that.”
+
+“I’m sorry for your loss.”
+
+“No, this is good.” He dragged a chair toward the projection, caught one leg on a training gauntlet, and nearly fell. “This is very good. Also humiliating, but mostly good.”
+
+Kade picked up the gauntlet before Eli stepped on it.
+
+“Where does this go?”
+
+Eli pointed to a shelf already occupied by three other things.
+
+Kade waited.
+
+Eli moved the three things.
+
+Together they cleared the floor, closed the wall panel, and found enough empty shelf for Kade’s chargers and formal shoes. Eli talked through every change he wanted to make to the controller. Kade understood perhaps half of it. When he did not, Eli backed up instead of making the explanation louder.
+
+By the time the real drone could hold itself level above the desk, Kade’s clothes occupied one drawer and his books occupied another.
+
+The room no longer looked empty on his side.
+
 Kade looked at him for another second.
 
 First uncomplicated friend, he thought.
 
 Then immediately rejected the phrase as premature.
 
-By dinner Kade had learned seven things about House Meridian.
+---
 
-First: everybody knew everybody’s rank.
+At six fifty-eight, Eli looked at the room clock and stopped midsentence.
 
-Second: pretending not to know someone’s rank was considered more insulting than knowing it.
+“We’re late.”
 
-Third: House dinner was technically optional and socially mandatory.
+“Dinner starts at seven.”
 
-Fourth: the best tables were not claimed by rank but by arrival time, which caused upperclassmen to sprint from late classes with impressive dignity.
+“Exactly.”
 
-Fifth: Meridian students considered being twelfth an institutional injustice while simultaneously making jokes about being twelfth.
+He ran.
 
-Sixth: the House bell had not rung in a major trial in fourteen months, a number students quoted with the wounded precision of historical scholars.
+Kade followed because the alternative was admitting he wanted to know why.
 
-Seventh: nobody let Kade eat quietly.
+They reached the elevator with six other first-years. The doors opened already full. A fourth-year wedged one hand between them, took in the waiting crowd, and said, “Stairs.”
+
+The doors closed.
+
+Everyone moved at once.
+
+Kade spent seven flights discovering that House dinner was technically optional and that the best tables were claimed by arrival time. Upperclassmen sprinted downward with impressive dignity. One vaulted the last five steps, landed beside a wall monitor, and checked the time as though the maneuver had been forced by an emergency.
+
+Eli arrived in the dining hall breathing hard.
+
+“North table,” he said.
+
+Half the seats had bags or jackets on them.
+
+“Why?”
+
+“Potatoes reach it first.”
+
+“You crashed a drone to test safety limits and this is where you apply strategy.”
+
+“Food produces measurable outcomes.”
+
+They claimed two seats seconds before a group from the west tower reached the same table. Nobody argued. The losing group redirected toward the windows with the disciplined acceptance of people accustomed to scored events.
+
+Kade set down his tray.
+
+A spoon struck a drinking glass at the front of the hall.
+
+Conversation continued.
+
+The spoon struck again.
+
+“That won’t work,” Eli said.
+
+A broad-shouldered student beneath the standings board glanced toward the courtyard doors.
+
+“Do not,” several people said.
+
+He touched a wall control instead.
+
+The speakers produced a recording of the Meridian bell.
+
+One deep bronze note rolled through the dining hall.
+
+Every conversation stopped.
+
+Then the room booed.
+
+The student raised both hands. “The actual bell remains reserved for actual victory.”
+
+“Fourteen months!” someone shouted.
+
+“Fourteen months and nine days,” someone else corrected.
+
+The precision had the weight of a historical grievance.
+
+The student waited for quiet. His wrist display identified him as Rowan Beck, year four, rank six hundred twelve.
+
+The sign outside, Kade realized.
+
+“Three notices,” Rowan said. “Training bay two is closed until Navarro proves nothing else in it can achieve flight.”
+
+Eli sank lower in his seat.
+
+“The stairwell was separate research,” he whispered.
+
+“House standings update after Friday assessments. We remain twelfth.”
+
+A collective groan moved through the hall.
+
+Rowan pointed to the paper sign taped beneath the standings.
+
+“Or top-half adjacent, depending on whether you value courage over arithmetic.”
+
+That received applause.
+
+“Last: new arrivals. Stand when I call you. Name, rank, and one thing Meridian can ask from you.”
+
+Kade looked at Eli.
+
+“You left this out.”
+
+“I was busy being useful.”
+
+“Debatable.”
+
+The first two names belonged to returning students changing Houses. One offered two years of structural field training. The other offered access to a music-practice room in another building and received louder approval.
+
+“Kade Mercer.”
+
+The dining hall changed.
+
+Not silent. Not quite.
+
+Interested.
+
+Kade remained seated for one second too long.
+
+Then Sera, two places away, nudged the leg of his chair with her boot.
+
+He stood.
+
+The public standings board above Rowan refreshed as if eager to help.
+
+**MERCER, KADE — 10,482**
+
+Nobody needed the reminder.
+
+“Kade Mercer,” he said.
+
+Someone near the back called, “We got that part.”
+
+“Good. Meridian literacy exceeds its ranking.”
+
+Laughter broke the tension.
+
+Rowan waited.
+
+“Rank ten thousand four hundred eighty-two.”
+
+“For now,” Eli said.
+
+More heads turned toward him.
+
+Kade looked down the table. Eli did not seem embarrassed. Apparently he had announced faith by accident and intended to survive it.
+
+The third part waited.
+
+One thing Meridian could ask from him.
+
+Kade had been at Asterion three days. Every adult had asked him to test, comply, explain, wait, or trust. Students wanted the classified story. The academy wanted a category.
+
+The question should have sounded like another claim.
+
+It did not.
+
+Maybe because everyone else had answered it too.
+
+“I don’t know yet,” he said.
+
+The room held still.
+
+Kade put one hand on the back of his chair.
+
+“But if your drone starts steering according to where it used to be, I can apparently help with that.”
+
+Eli made a wounded sound.
+
+Rowan looked at the hovering machine now visible through the dining-hall glass, where it had followed Eli down and waited outside under House safety restrictions.
+
+“Accepted.”
+
+Kade sat.
+
+Mara occupied a table three rows away. She gave him the smallest nod.
+
+He told himself it did not matter.
+
+Then dinner began, and Kade learned that everybody in Meridian knew everybody else’s rank. Pretending not to know was considered more insulting than knowing. The House could complain that ranking was reductive and still recite a stranger’s exact position before passing the salt.
+
+Nobody let Kade eat quietly.
 
 A first-year named Anton asked whether Zero Protocol gave him classified powers.
 
@@ -702,13 +1002,105 @@ The match ended with Dai pinned against a barrier by her own redirected accelera
 
 The dining hall erupted.
 
-Students argued instantly about whether she had committed too much force to the second exchange. Numbers and Standard terms flew across the table.
+Students argued instantly about whether Dai had committed too much force to the second exchange.
 
-Kade listened.
+“She overloaded the strike,” Anton said.
 
-For once, he did not mind being the least informed person in the conversation.
+Nessa shook her head. “She used the same output in the regional final.”
+
+“Then Kessler’s partition was stronger.”
+
+“His measured ceiling hasn’t changed.”
+
+Three people began talking at once.
+
+Eli pulled a paper napkin toward him and drew a square for the arena. He marked the places where three floor panels had fractured.
+
+“Not stronger,” he said. “Cheaper.”
+
+Anton leaned over. “That is not an explanation.”
+
+“The east brace took most of it.”
+
+Mara remained standing beside the table. “Because he prepared the route.”
+
+She reached for Eli’s pen and added a line from Kessler’s starting position to the wall.
+
+“First exchange. He tests the floor here.”
+
+“He missed,” Anton said.
+
+“He touched the floor.”
+
+Mara drew a second line.
+
+“The next time Dai crossed, he gave up the center and moved her toward the same support.”
+
+The third line ended at the brace.
+
+Kade replayed the bout in his head.
+
+Kessler retreating.
+
+Dai driving him back.
+
+The wall waiting behind them.
+
+“She thought he was losing space,” Kade said.
+
+Mara handed the pen back to Eli. “He was choosing where the space ended.”
+
+The sentence pulled his attention toward her.
+
+She had used ordinary tactical language.
+
+Probably.
+
+“So the last redirect only worked on that side of the arena,” he said.
+
+“At that cost? Yes.”
+
+“What if she’d changed angles?”
+
+“He would have needed a different plan.”
+
+“And if the brace failed?”
+
+Eli tapped the napkin. “Barrier sensors would trip before structural failure. Probably.”
+
+Sera looked at him.
+
+“Remove the last word.”
+
+“Barrier sensors would trip before structural failure.”
+
+“Is that true?”
+
+“Statistically.”
+
+“Navarro.”
+
+“I would have to check the maintenance record.”
+
+“Better.”
+
+The argument spread down the table. Someone pulled up the arena schematics. Someone else found Kessler’s last five matches and started comparing where he yielded ground. Nessa rejected two of Eli’s assumptions because he had ignored Dai’s recovery time. Anton changed his position without pretending he had held the new one all along.
+
+Kade listened, then asked another question.
+
+Nobody told him it was basic.
+
+They answered it, disagreed about the answer, and asked what he had seen in return.
+
+At Northline, working together had usually meant one student doing the assignment while everyone else negotiated how much credit to claim.
+
+Here, six people could look at the same thirty seconds and bring back six different pieces.
+
+For once, Kade did not mind being the least informed person in the conversation.
 
 It meant there was something to learn.
+
+More dangerously, there were people he wanted to learn it with.
 
 His phone vibrated.
 
@@ -928,27 +1320,111 @@ Kade straightened.
 
 The opponent was #61.
 
-The match lasted thirty-eight seconds.
+The arena was smaller than the one on the dining-hall feed. A white circle eight meters across. No walls to redirect through and no room to hide a mistake.
 
-Julian did not overwhelm him.
+Julian took the inland side. Number sixty-one took the ocean side and rolled his shoulders once.
 
-That was what Kade noticed first.
+The signal sounded.
+
+Neither moved.
+
+Five seconds passed.
+
+Kade glanced at Taren.
+
+“Thrilling.”
+
+“Wait.”
+
+At seven seconds, sixty-one stepped left.
+
+Julian shifted right.
+
+Not away. Across.
+
+The other student stopped.
+
+They reset without touching.
+
+At eleven seconds, sixty-one drove forward. The burst was fast enough to blur his first step, but Julian had already moved off the center line. Sixty-one turned the attack into a hook. Julian lowered one shoulder. The strike skimmed his jacket instead of catching his chest.
+
+He could have reached for the exposed arm.
+
+He did not.
+
+He stepped away and returned to the inland half of the circle.
+
+“Why give that up?” Kade asked.
+
+Taren did not answer.
+
+Below, sixty-one smiled.
+
+He attacked again at nineteen seconds.
+
+Same first step.
+
+Different finish.
+
+This time he cut across Julian’s retreat and brought a low field pulse through the floor. A pale line flashed between their feet. Julian’s leading boot skidded.
+
+The crowd along the observation rail reacted.
+
+Julian dropped one hand to the surface, caught himself, and let the failed step carry him into a turn. Sixty-one had expected resistance. When it did not arrive, his field pulse spent itself past Julian’s hip.
+
+Julian rose inside the other student’s reach.
+
+Again, he did not strike.
+
+He touched sixty-one’s elbow, changed its direction by centimeters, and stepped out.
+
+Twenty-four seconds.
+
+“He had him twice,” Kade said.
+
+“Did he?”
+
+“You’re going to be unbearable about this.”
+
+“Briefly.”
+
+Sixty-one followed Julian toward the inland boundary. He had taken the center without paying for it. He had forced the top-ranked first-year backward twice. The people at the rail began shouting for him to close.
+
+Julian’s heel stopped half a meter from the line.
+
+He looked trapped.
+
+Kade leaned closer to the parapet.
+
+The first attack had shown which direction sixty-one preferred when Julian crossed him.
+
+The second had shown what he did when a retreat remained open.
+
+Now the retreat was gone.
+
+At thirty-one seconds, Julian moved first.
+
+One short step toward the center.
+
+Sixty-one reacted before Julian completed it. His right foot drove down. His shoulder turned. He committed to the angle that had cut off Julian’s escape before.
+
+But Julian was not escaping.
+
+He stopped.
+
+Sixty-one’s field pulse broke against empty floor. His arm came up to catch a body that had never entered reach.
+
+Julian redirected the arm, shifted his hips, and used the other student’s momentum to send him across the boundary.
+
+The clock stopped at thirty-eight seconds.
+
+Match over.
 
 No spectacular blast.
 
 No impossible speed.
 
-He moved early.
-
-Every time the opponent committed, Julian was already standing where the attack would become inconvenient.
-
-The final exchange looked almost boring.
-
-The opponent stepped in.
-
-Julian redirected one arm, shifted his hips, and used the other student’s momentum to put him outside the ring.
-
-Match over.
+Just three pieces of information gathered and one decision made after the answer became certain.
 
 Kade frowned.
 
@@ -979,6 +1455,16 @@ Taren nodded toward the replay.
 The sentence annoyed Kade immediately.
 
 Which usually meant it mattered.
+
+“That can’t be the whole ranking.”
+
+“It isn’t. Output matters. Control matters. Match record matters.” Taren counted each item on his fingers. “But everyone near the top can do something difficult. Julian keeps doing the correct difficult thing after somebody ruins his first plan.”
+
+Kade looked down at the circle.
+
+At Northline, changing the plan had usually meant the first one had failed and somebody was about to assign blame. Here, adaptation could be part of competence instead of evidence against it.
+
+That possibility was almost as irritating as Julian’s patience.
 
 Below, Julian helped his opponent up.
 
