@@ -444,6 +444,216 @@ But he stored it.
 
 Another small piece of Aaron Mercer that did not fit neatly into the industrial-accident photograph in the hallway.
 
+At seventeen hundred, Kade reported to Foundations Clinic in a room beneath the mathematics wing.
+
+He had expected remedial education to hide somewhere.
+
+Asterion put it behind a glass wall facing the busiest academic bridge and labeled the door **FOUNDATIONS ARE LOAD-BEARING**.
+
+Kade stood outside long enough for three students to walk past him.
+
+The fourth stopped.
+
+Owen Park held a stack of practice tablets under one arm.
+
+“You coming in?”
+
+“I’m studying the sign.”
+
+“It has three words.”
+
+“Dense sign.”
+
+Owen opened the door.
+
+Kade followed because refusing in front of Owen would turn embarrassment into a measurable decision.
+
+The room contained fourteen students, none of whom looked relieved to be there. Two wore first-year academy gray. The rest wore House colors from every year. A fourth-year from Sol sat at the front relearning fractional exponents beside a first-year who had apparently missed an entire unit on proofs. Nobody had been arranged by rank.
+
+That alone made the room strange.
+
+The clinic tutor, a compact third-year named Dev Batra, checked Kade’s module list.
+
+“Vector notation, proof structure, tensor convention C.”
+
+“When you say it together, it sounds worse.”
+
+“It is worse. You skipped the parts that tell other people whether you’re right.”
+
+“Professor Amadi has already developed this theme.”
+
+Dev pointed toward a table.
+
+“Diagnostic set. No field use, no projection hints, and every line shown.”
+
+Kade sat beside Owen.
+
+“Why are you here?” he asked.
+
+Owen placed his tablets on the table.
+
+“Proof structure.”
+
+“You told me to write what I meant.”
+
+“I know what a correct proof looks like. I produce ugly ones.”
+
+Kade looked at him.
+
+Owen looked back.
+
+“Were you hoping this room contained only people less prepared than you?”
+
+“No.”
+
+He had been.
+
+The diagnostic began with an ordinary load transfer across three supports. Kade reached the answer in his head, wrote four lines, and stopped.
+
+Dev appeared beside him.
+
+“You have omitted the initial condition.”
+
+“It is in the diagram.”
+
+“The diagram is not your proof.”
+
+“It is very involved.”
+
+Dev tapped the empty first line.
+
+Kade wrote the condition.
+
+On the next problem he omitted a unit.
+
+On the third, he changed coordinate frames halfway through because the second one made the answer easier.
+
+Dev drew a box around the change.
+
+“Declare it.”
+
+“Anyone reading can see what I did.”
+
+“Anyone reading should not have to reconstruct your mood.”
+
+Across the table, Owen made a choking sound.
+
+Kade looked up.
+
+“Are you enjoying this?”
+
+“Immensely.”
+
+The fourth problem was harder.
+
+A rescue platform hung between two field anchors while a third operator moved an injured body across it. The official solution treated the passenger as a changing load and the operators as fixed control sources.
+
+Kade drew the first two transfer arrows.
+
+Then he stopped.
+
+“The third operator moves differently once the passenger reaches center.”
+
+Dev leaned over the table.
+
+“Why?”
+
+“Because the left anchor has to compensate.”
+
+“Write it.”
+
+“You people use that phrase as violence.”
+
+Dev waited.
+
+Kade wrote an interaction term.
+
+Wrong symbol.
+
+He crossed it out before anyone corrected him and tried again.
+
+Owen leaned closer.
+
+“You’re making the carrier part of the control loop.”
+
+“They are part of it.”
+
+“The problem defines three operators and one load.”
+
+“The injured person grabs the carrier at midpoint.” Kade pointed to the small note beneath the diagram. “Now the load can change the carrier’s balance.”
+
+Dev read the note.
+
+“Most people treat that as flavor text.”
+
+“Then most people drop the patient.”
+
+The Sol fourth-year turned around from the front table.
+
+“Response practical?”
+
+Kade shook his head.
+
+“Bad diagram.”
+
+She came over anyway.
+
+“I did this practical last year. He’s right about the grip. The training dummy locks one arm at the midpoint and everyone loses the left anchor the first time.”
+
+Owen studied Kade’s interaction term.
+
+“Your sign is wrong.”
+
+Kade checked it.
+
+It was.
+
+He fixed it.
+
+The fourth-year supplied the actual carrier position. Owen rebuilt the proof around a cleaner frame. Kade added the correction loop. Dev made all three of them label every assumption.
+
+Their result used twice as many lines as the official solution.
+
+It also kept the platform level.
+
+Dev sent a copy to the Response faculty with a note attached.
+
+Kade stared at the submission marker.
+
+“Does remedial work usually become faculty complaints?”
+
+“Foundation work,” Dev said. “And only when the foundation is wrong.”
+
+Around them, students kept working openly on things they should supposedly have mastered before Asterion admitted them.
+
+The shame had nowhere private to live.
+
+After a while, that made it smaller.
+
+When the clinic ended, Dev handed Kade a marked diagnostic.
+
+“Tomorrow.”
+
+Kade looked at the corrections.
+
+“I have tutoring.”
+
+“Then you’ll have two kinds of help.”
+
+Outside, Owen headed toward House Sol.
+
+Kade called after him.
+
+“Your proofs are ugly.”
+
+Owen kept walking.
+
+“Your coordinate frames are crimes.”
+
+It was not friendship.
+
+But it was starting to become a language both of them spoke.
+
 ---
 
 The library occupied six floors inside the base of the Spire and apparently considered books insufficiently dramatic.
@@ -610,6 +820,126 @@ She almost smiled.
 
 They returned to the table.
 
+Mara replaced the textbook with a blank display.
+
+“The beam problem again,” she said. “No diagram this time.”
+
+“That seems hostile to visual learners.”
+
+“You’re going to make the diagram.”
+
+She read the conditions aloud while Kade drew.
+
+Two operators. One loaded beam. Unequal field strength. A delayed sensor on the east support. A limit on how quickly either operator could change output without losing coherence.
+
+Kade drew the beam first.
+
+Then the forces.
+
+Then two separate control loops.
+
+Mara watched without helping.
+
+He added the sensor delay and wrote the first transfer equation.
+
+His notation survived two full lines before he used the same symbol for output and correction.
+
+Mara circled both.
+
+“You knew what I meant.”
+
+“I knew there were two possible meanings and guessed which one kept the beam in the air.”
+
+“Correct guess.”
+
+“That is not a defense.”
+
+Kade looked at her.
+
+Mara’s expression remained composed.
+
+He changed the symbol.
+
+On the fifth line, the east operator’s correction arrived late. The west operator corrected the correction. Kade started a third loop, stopped, and erased the boundary between the first two.
+
+Mara leaned forward.
+
+“Why did you do that?”
+
+“Because neither loop owns the beam anymore.”
+
+“They still control their own output.”
+
+“Yes, but every choice starts from a state the other person helped create.”
+
+Mara looked at the blank space where the dividing line had been.
+
+“Separate control. Shared state.”
+
+“That.”
+
+“That is not notation.”
+
+“I was hoping you wouldn’t notice.”
+
+She turned the display toward herself.
+
+Instead of restoring the dividing line, she wrote a bracket around both loops and marked each operator’s limit separately inside it.
+
+Kade watched the symbols assemble.
+
+“You can write that?”
+
+“Provisionally.”
+
+“Meaning?”
+
+“Meaning Professor Amadi can tell me why it’s wrong tomorrow.”
+
+Mara Vey had just written uncertain mathematics on purpose.
+
+Kade sat back.
+
+“I’m a terrible influence.”
+
+“You’re an incomplete one.”
+
+She passed the display back.
+
+“Now derive the correction without changing coordinate frames halfway through.”
+
+He tried.
+
+The first attempt failed because the shared bracket concealed which operator reached limit first.
+
+Mara did not fix it.
+
+She asked, “What information did you lose?”
+
+Kade restored the individual limits.
+
+The second attempt failed because his delay term described the sensor but not the person reacting to it.
+
+He added both.
+
+The third attempt held.
+
+Not elegantly.
+
+Not quickly.
+
+But every assumption remained visible, including the dangerous one he had wanted to hide inside the picture in his head.
+
+Mara read the final proof.
+
+“Acceptable.”
+
+Kade looked at the crowded display.
+
+“Your praise has collapsed under load.”
+
+“Still standing.”
+
 By the end of the second hour, the symbols felt less like a foreign language and more like an irritating dialect.
 
 Kade stared at the final line.
@@ -748,6 +1078,216 @@ That was also new.
 
 ---
 
+House Meridian treated homework as a contact sport.
+
+Kade discovered this at twenty-two hundred when he carried the two-page note into the common room and found every table occupied.
+
+First-years filled the long central table. Two second-years argued over orbital mechanics beside the window. Nessa had taken the floor with a field-perception exercise spread around her in colored tiles. Somebody near the kitchen whispered vocabulary into a recorder while making noodles.
+
+Nobody was quiet.
+
+Everyone was working.
+
+Sera sat on a couch reading an emergency-procedure manual with one boot braced against the coffee table. Eli had dismantled a pocket projector across three cushions.
+
+Kade held up his note.
+
+“I need a surface.”
+
+Eli swept components into a pile.
+
+“Academic emergency.”
+
+“Mara says ideas need proper notation.”
+
+The room nearest them became quieter.
+
+Taren looked over from the central table.
+
+“Mercer has been assigned scholarship.”
+
+“I have always been scholarly.”
+
+“You corrected my spelling on a challenge notice.”
+
+“Public service.”
+
+Kade sat.
+
+The title of his note read: **DEPENDENT CORRECTION IN COUPLED OPERATOR SYSTEMS**.
+
+The page beneath it contained three false starts and one paragraph that became less comprehensible each time he read it.
+
+Eli leaned over.
+
+“What are you trying to say?”
+
+“That two operators stop being independent when their corrections change what the other one has to correct.”
+
+“That sentence was free. Why are the next two pages hostile?”
+
+“Notation.”
+
+Eli picked up the pocket projector.
+
+“Simulator.”
+
+“Mara predicted this.”
+
+“That is because Mara respects engineering.”
+
+“She predicted property damage.”
+
+“Related discipline.”
+
+He projected two white circles above the table and linked each to a blue square representing a control target. When one circle moved, its square followed.
+
+“Independent,” Eli said.
+
+He linked both circles to one square.
+
+The square jittered between their commands.
+
+“Coupled and terrible.”
+
+Kade adjusted the response delay.
+
+The jitter slowed, then amplified.
+
+“Because both corrections arrive after the other one has already changed the state.”
+
+“So give one priority.”
+
+Eli increased the left operator’s authority.
+
+The square stabilized under the left circle.
+
+Kade frowned.
+
+“That solves it by making the second operator decorative.”
+
+“Efficiently decorative.”
+
+Sera lowered her manual.
+
+“What is the actual task?”
+
+“Keeping the target stable,” Eli said.
+
+“For what?”
+
+Eli looked at Kade.
+
+Kade looked at the simulation.
+
+“The model does not say.”
+
+Sera returned to her manual.
+
+“Then it is not a task.”
+
+Kade stared at her.
+
+“You read one emergency handbook and become philosophical?”
+
+“Page forty-three. A response plan without a success condition is movement with uniforms.”
+
+Eli changed the blue square into a stretcher.
+
+“Fine. Keep the patient level while moving through a doorway.”
+
+Sera got up.
+
+“Now neither carrier can be decorative.”
+
+She moved the right operator. Eli controlled the left. The projected stretcher reached the doorway and struck the frame.
+
+“Your side was high,” Eli said.
+
+“Your side entered first.”
+
+They tried again.
+
+This time Eli slowed at the door. Sera turned. The stretcher cleared, but the patient indicator slid toward the foot.
+
+Kade watched their hands.
+
+Each was controlling a separate end.
+
+Neither could succeed alone.
+
+He moved the operator limits inside one bracket, preserving two inputs and one success condition.
+
+“Again.”
+
+Eli looked at the revised model.
+
+“Who controls the shared state?”
+
+“Both of you.”
+
+“That is not how control works.”
+
+“Maybe that is the problem.”
+
+Sera glanced from Kade to the simulation.
+
+“Do we still choose our own movement?”
+
+“Yes.”
+
+“Then we’re not one operator.”
+
+“Not one person.” Kade moved the bracket. “One active system.”
+
+The phrase quieted something in his head.
+
+Eli ran the simulation again.
+
+With the shared state visible, each could see the load the other had created. Sera turned before the frame. Eli lowered his end to preserve level. The stretcher passed through without touching either side.
+
+The patient indicator remained centered.
+
+Eli stared at the result.
+
+“That is either obvious or illegal.”
+
+“Mara said dangerous.”
+
+“Promising.”
+
+Sera sat again.
+
+“In a real carry, shared information does not remove separate responsibility.”
+
+Kade wrote that down.
+
+Sera caught him.
+
+“Do I get citation credit?”
+
+“You get the satisfaction of contributing to academia.”
+
+“Delete it.”
+
+He kept writing.
+
+The common room returned to its arguments and whispered vocabulary. Eli rebuilt the simulator with operator limits visible. Taren dropped a packet of noodles beside Kade without asking whether he wanted them.
+
+Kade finished the first page.
+
+Then the second.
+
+He showed the note to Eli, who marked the place where the machine state changed without a cause. Sera crossed out a sentence that claimed the load remained passive. Nessa read the diagram and pointed out that the operators would perceive the shared change differently.
+
+By midnight, four people had corrected the paper Mara had taught Kade to write.
+
+His name stayed at the top.
+
+It no longer looked like the only important one.
+
+---
+
 The next morning, Professor Amadi returned the problem set.
 
 Mara’s score was perfect.
@@ -840,13 +1380,13 @@ Amadi studied him for a long moment.
 
 “Write a note on it.”
 
-“A note?”
-
-“Two pages. Proper notation.”
-
-Kade stared.
+“I did.”
 
 Mara looked down to hide what was absolutely a smile.
+
+Amadi looked less surprised than Kade wanted.
+
+“Then submit it. Two pages. Proper notation.”
 
 “This feels like punishment for having ideas.”
 
@@ -880,7 +1420,7 @@ Teams of four received a failing stabilization system and twenty minutes to diag
 
 Mara was assigned across the room.
 
-Eli was not in the class.
+Eli’s team worked on the mezzanine, safely beyond signaling range.
 
 Kade’s team included Owen Park, Nessa Kim, and a feeder-program student named Leila Tran who had been writing tensor notation since approximately birth.
 
@@ -1035,6 +1575,60 @@ Kade frowned.
 “I am praising the system for not depending on your pride.”
 
 Leila laughed.
+
+Amadi placed Kade’s two-page note beside the team tablet.
+
+Red marks covered the first page.
+
+The second had fewer.
+
+“Your shared-state model is unfinished,” she said.
+
+“I had gathered that from the weather pattern.”
+
+“You preserve separate limits, which is good. You define a common state, which is interesting. You still do not define success until halfway down page two.”
+
+Kade tapped the line Sera had made him add.
+
+“It is there.”
+
+“After the mathematics begins.”
+
+“The mathematics explains the task.”
+
+“The task decides whether the mathematics is useful.”
+
+Sera’s voice returned from the common room.
+
+*A response plan without a success condition is movement with uniforms.*
+
+Kade took the note.
+
+“So I move this to the top.”
+
+Amadi’s eyebrow rose.
+
+“And?”
+
+He looked at Owen’s corrected sign, Nessa’s observation, and Leila’s clean delay term on the team submission.
+
+“And I state whose limits remain separate before I call the state shared.”
+
+“Why?”
+
+“Because shared is not the same as ownerless.”
+
+Amadi held his gaze for a moment.
+
+Then she nodded.
+
+“Revise it.”
+
+Not correct.
+
+Not brilliant.
+
+Worth revising.
 
 Kade looked at the four names on the submission.
 

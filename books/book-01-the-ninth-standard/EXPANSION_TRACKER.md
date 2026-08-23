@@ -24,7 +24,7 @@
 | 7 | The Suppression Order | 4,900 | Pending |
 | 8 | The Ladder | 5,800 | Pending |
 | 9 | Meridian Night | 4,800 | Pending |
-| 10 | Vector Class | 5,200 | Pending |
+| 10 | Vector Class | 5,200 | Passes 1–6 complete — 5,268 words |
 | 11 | The Broken Floor | 5,900 | Pending |
 | 12 | Boundary Conditions | 5,100 | Passes 1–6 complete — 5,200 words |
 | 13 | Cross Examination | 5,700 | Passes 1–6 complete — 5,756 words |
