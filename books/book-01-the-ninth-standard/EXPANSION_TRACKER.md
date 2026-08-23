@@ -29,7 +29,7 @@
 | 12 | Boundary Conditions | 5,100 | Pending |
 | 13 | Cross Examination | 5,700 | Passes 1–6 complete — 5,756 words |
 | 14 | House Trial: Qualifiers | 6,200 | Pending |
-| 15 | House Trial: Final | 6,700 | Pending |
+| 15 | House Trial: Final | 6,700 | Passes 1–6 complete — 6,701 words |
 | 16 | Famous for Tuesday | 4,600 | Passes 1–6 complete — 4,645 words |
 | 17 | Home | 5,600 | Pending |
 | 18 | The Vey Problem | 4,900 | Pending |
