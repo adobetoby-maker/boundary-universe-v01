@@ -28,7 +28,7 @@
 | 11 | The Broken Floor | 5,900 | Pending |
 | 12 | Boundary Conditions | 5,100 | Pending |
 | 13 | Cross Examination | 5,700 | Passes 1–6 complete — 5,756 words |
-| 14 | House Trial: Qualifiers | 6,200 | Pending |
+| 14 | House Trial: Qualifiers | 6,200 | Passes 1–6 complete — 6,400 words |
 | 15 | House Trial: Final | 6,700 | Passes 1–6 complete — 6,701 words |
 | 16 | Famous for Tuesday | 4,600 | Passes 1–6 complete — 4,645 words |
 | 17 | Home | 5,600 | Passes 1–6 complete — 5,609 words |
