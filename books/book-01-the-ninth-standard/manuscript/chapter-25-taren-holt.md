@@ -106,7 +106,7 @@ Taren recovered quickly.
 
 “That is the public sentence.”
 
-“Yes.”
+“That is all most people get.”
 
 “You know another one.”
 
@@ -148,7 +148,7 @@ Kade stared at him.
 
 “You did that on purpose.”
 
-“Yes.”
+“I did.”
 
 “Why?”
 
@@ -226,7 +226,7 @@ Kade looked at her.
 
 “You believe that?”
 
-“No.”
+“I expect us to stop. Belief is different.”
 
 “Good.”
 
@@ -296,7 +296,7 @@ The smile failed halfway.
 
 “That was not the question.”
 
-“No.”
+“It was not.”
 
 Sera stepped between Taren and the door.
 
@@ -352,7 +352,7 @@ Eli’s eyes narrowed.
 
 “That is not information you inherit from an uncle.”
 
-“No.”
+“It is not.”
 
 There it was.
 
@@ -406,7 +406,7 @@ Taren closed his eyes.
 
 “You’re lying.”
 
-“No.”
+“I’m not lying about that.”
 
 “How do you know they know?”
 
@@ -434,7 +434,7 @@ Enough to hurt.
 
 Taren looked at him.
 
-“Yes.”
+“I do.”
 
 The room changed.
 
@@ -466,7 +466,7 @@ Kade laughed once without humor.
 
 “Convenient.”
 
-“Yes.”
+“It is.”
 
 Taren swallowed.
 
@@ -502,11 +502,117 @@ She clearly hated the plan.
 
 Also good.
 
+“Show us the route first,” he said.
+
+Taren glanced toward the wall display.
+
+“The archive route?”
+
+“Every part you expect us to trust because you say so.”
+
+The automatic answer almost reached Taren’s face. Some light remark about his wounded credibility. He stopped it before it became a smile.
+
+“All right.”
+
+He moved the search list to one side and drew a rough plan beneath it.
+
+The old eastern lecture hall occupied the top level. Two public stairs descended to faculty storage. Below that, a maintenance spine ran south behind the archive rooms and joined the engineering utility tunnels.
+
+Taren marked the official archive entrance in red.
+
+Then he marked a narrower door on the maintenance spine.
+
+“We enter here. The outer door reads Sen’s historical authorization. The inner bridge still expects a pre-unification faculty biometric, so it will reject her current credential even though the permission is valid.”
+
+Eli leaned closer.
+
+“That is absurd.”
+
+“It is also useful to people who prefer the archive inaccessible.”
+
+Mara pointed to the maintenance door.
+
+“And this?”
+
+“Built for technicians who had to service both sides without being granted document access. It checks a local infrastructure identity instead of a faculty biometric.”
+
+“Whose identity?” Sera asked.
+
+Taren’s finger remained on the door.
+
+“Mine will work.”
+
+The answer changed the drawing.
+
+What had looked like a route became a confession that had not finished speaking.
+
+Sera took the stylus from him.
+
+“Two exits.”
+
+She circled the maintenance spine and the nearest public stair.
+
+“We test both before anybody opens a file. If either locks, we leave.”
+
+“Agreed,” Taren said, the word arriving without its usual ease.
+
+“Eli keeps the map,” Sera continued. “Mara owns the search. Kade does not touch an unknown system because it looks interesting.”
+
+Kade looked at her.
+
+“That last rule seems unusually personal.”
+
+“Experience made it efficient.”
+
+Eli copied the route to his tablet, then disconnected the device from Meridian’s network.
+
+“How do we communicate if the archive blocks House comms?”
+
+Taren drew three short lines beside the maintenance spine.
+
+“Hardline call points. One at each junction. They reach campus security.”
+
+“And the Directorate?” Mara asked.
+
+Taren did not move the stylus.
+
+“If that layer is active, assume every fixed system reaches them.”
+
+“Including the doors you open,” Kade said.
+
+“Possibly.”
+
+“That is not a small qualification.”
+
+“No. It isn’t.”
+
+Sera added a final mark where the maintenance spine met the archive corridor.
+
+“Abort point. We stop there and verify the return path. Nobody separates. If Taren changes the route without explaining why, he stops leading.”
+
+Taren studied the conditions.
+
+He could have argued that delay increased their exposure. He could have asked for the trust he had spent months collecting.
+
+Instead he gave Eli the old infrastructure code for the route and stepped away from the map.
+
+“You should also know the local alarm does not sound like a normal campus alarm,” he said. “Three low notes means fire suppression. One continuous tone means archive security. Red lights without a tone means someone has isolated the room remotely.”
+
+Kade looked at him.
+
+“How many times have you rehearsed this?”
+
+“Enough to know I should have told you sooner.”
+
+Not an answer.
+
+Closer to one than before.
+
 “Outer archive only,” Kade said. “If anything changes, we leave.”
 
 Taren nodded.
 
-“Agreed.”
+“Those are the limits.”
 
 Sera said, “I reserve the right to hit him.”
 
@@ -516,7 +622,117 @@ Taren looked at her.
 
 ---
 
-The restricted archive entrance sat beneath the old eastern lecture hall, behind a door requiring two faculty credentials and a biometric confirmation.
+The route to the restricted archive began beneath the old eastern lecture hall.
+
+Getting there required them to pass through the lecture hall while an evening policy seminar was still ending.
+
+Students spilled into the corridor in clusters, arguing about emergency powers as though the phrase belonged safely to case studies. A faculty assistant held the door for Sera. Taren thanked her and kept walking at the exact pace of someone with no reason to hurry.
+
+Kade stayed two steps behind him.
+
+Taren had always moved through Asterion like that. Never sneaking. Never needing to. People remembered the ease and forgot to ask what door he had used.
+
+At the faculty-storage stair, Taren stopped beside a public directory.
+
+The archive did not appear on it.
+
+“First return check,” Sera said.
+
+They climbed down one level and tried the public stair from the inside. The bar released. Eli held it open long enough for the sensor to register each of them, then let it close.
+
+“One exit,” he said.
+
+The maintenance spine began behind a cabinet labeled **LECTURE SUPPORT — ANALOG EQUIPMENT**. Taren moved the cabinet without strain by releasing two recessed floor catches that Kade had mistaken for screws.
+
+Behind it, a narrow service door carried no handle.
+
+Taren pressed two fingers to the frame.
+
+Nothing happened.
+
+Sera’s attention shifted to him.
+
+Taren tried again, this time holding his hand lower. A line of blue light traveled beneath his fingertips.
+
+**LOCAL IDENTITY ACCEPTED**
+
+The door opened onto a concrete passage barely wide enough for two people abreast.
+
+Eli compared it to the plan.
+
+“The drawing omitted the drop.”
+
+The passage floor descended sharply toward the archive level.
+
+“The drawing was not to scale,” Taren said.
+
+“Gravity remains to scale.”
+
+Sera went first. The soles of her shoes slid once on dust, and she caught the wall before anyone could reach for her.
+
+“Single file. Use the pipe rail.”
+
+Kade followed. Cold metal vibrated beneath his palm. Machinery somewhere below them ran with the slow regularity of a building breathing in its sleep.
+
+At the first junction, Eli tested the hardline call point.
+
+The screen woke.
+
+**CAMPUS SECURITY AVAILABLE**
+
+Beneath the public message, a smaller icon flashed once: three vertical lines closing a broken circle.
+
+Then it vanished.
+
+Kade caught Taren looking at the empty corner.
+
+“What was that?”
+
+Taren’s answer took half a second too long.
+
+“Legacy routing mark.”
+
+“Directorate?” Mara asked.
+
+“The archive inherited some of their infrastructure.”
+
+Sera reached past him and terminated the call before it connected.
+
+“Does the mark mean the line notified them?”
+
+“It means it could.”
+
+“You knew that upstairs.”
+
+“I suspected it.”
+
+Kade looked back up the sloping passage. The service door remained open, a pale rectangle three turns away.
+
+They could leave.
+
+Taren’s route had produced exactly the uncertainty he had warned them about.
+
+Mara waited beside the next junction rather than urging anyone forward.
+
+Kade examined the facts they had.
+
+The Directorate already knew about the twelfth identifier.
+
+The fixed systems might be reporting them.
+
+The exit was still available.
+
+“Second return check,” he said.
+
+They continued only far enough to reach the utility-tunnel hatch. Eli opened it with the local code Taren had surrendered in Meridian, then closed it again.
+
+Two exits.
+
+Both usable for now.
+
+Sera took the lead for the remaining distance. Taren let her.
+
+The credentialed entrance waited beyond the final turn. Its panel demanded two faculty credentials and a biometric confirmation.
 
 Taren had none of those.
 
@@ -552,7 +768,7 @@ Taren kept walking.
 
 “That was not the question.”
 
-“No.”
+“I keep doing that.”
 
 Sera’s gaze sharpened.
 
@@ -750,6 +966,100 @@ Taren looked at him.
 
 “Before they knew you were here.”
 
+The wall panel beside Taren lit white.
+
+Not an alarm.
+
+An incoming connection.
+
+He stepped away from it.
+
+The connection opened anyway.
+
+“Cadet Holt,” a woman said.
+
+The voice was low, precise, and unsurprised.
+
+Taren went rigid.
+
+Kade had heard instructors use that tone when a drill ended exactly as expected. The person on the other end had been waiting for this version of Taren.
+
+“Your observation status remains recoverable,” the woman continued. “Do not touch the partition controls. Proceed north to the staff stair.”
+
+Taren looked through the barrier.
+
+Sera stood nearest him, one hand still against the transparent material. Mara had moved beside the terminal, blocking the screen from the camera. Eli held the data slate against his chest.
+
+Kade waited.
+
+The panel displayed a route in green.
+
+It led away from them.
+
+“A security team will assume custody of the students,” the woman said. “You will not be identified in the incident report.”
+
+Taren’s throat moved.
+
+Months of access remained on the wall in one green line.
+
+His family’s version of the future.
+
+All he had to do was walk toward it.
+
+“Was this the assignment?” he asked.
+
+The voice paused.
+
+“This is containment of an unauthorized disclosure.”
+
+“That is not what I asked.”
+
+“You were assigned to report instability around Mercer. His decision to enter a restricted collection validates the concern.”
+
+Kade stared at the panel.
+
+There it was.
+
+Not friend.
+
+Observation status.
+
+Taren had been given a category for staying near him before they had shared a table.
+
+“He entered because I offered the route,” Taren said.
+
+“Then your corrective obligation is clear.”
+
+“Meaning leave them locked in.”
+
+“Meaning do not compound an error out of personal attachment.”
+
+The last two words carried no anger.
+
+That made them crueler.
+
+Taren lifted his hand toward the panel.
+
+For one second Kade thought he would accept the route.
+
+Instead Taren pressed his thumb to the white connection icon.
+
+“My attachment is not your error to correct.”
+
+He terminated the call.
+
+The green route disappeared.
+
+The panel turned red.
+
+**FIELD IDENTITY REVIEW INITIATED**
+
+Taren stared at the message until the first line of his name began to vanish.
+
+Then he faced Kade again.
+
+No joke arrived to make the choice smaller.
+
 Mara said, “Who is they?”
 
 Taren’s jaw tightened.
@@ -796,7 +1106,7 @@ Taren breathed in.
 
 “That is not enough.”
 
-“No.”
+“It isn’t.”
 
 Taren looked at the floor.
 
@@ -810,7 +1120,7 @@ Sera’s expression hardened.
 
 “You are seventeen now,” Mara said.
 
-“I know.”
+“A year did not make it better.”
 
 His voice cracked at the edge.
 
@@ -830,7 +1140,7 @@ Kade said nothing.
 
 Taren looked at him.
 
-“Yes.”
+“I reported all of you.”
 
 “My models?”
 
@@ -838,7 +1148,7 @@ Taren looked at him.
 
 “You expect me to feel better?”
 
-“No.”
+“I don’t.”
 
 Kade stepped close enough that only the partition separated them.
 
@@ -880,7 +1190,7 @@ Taren continued.
 
 “And you kept reporting.”
 
-“Yes.”
+“I kept reporting.”
 
 “Why?”
 
@@ -888,7 +1198,7 @@ Taren continued.
 
 Sera said, “Convenient.”
 
-“Yes.”
+“It was convenient.”
 
 Taren did not defend himself.
 
@@ -910,11 +1220,11 @@ Taren’s eyes closed for a second.
 
 “After Run?”
 
-“Yes.”
+“That went in.”
 
 “That I almost left?”
 
-“No.”
+“I kept that out.”
 
 Kade stared.
 
@@ -958,13 +1268,13 @@ Mara stared at him.
 
 “Your Directorate access.”
 
-“Yes.”
+“That is what the window costs.”
 
 “If you use it, they know you chose us.”
 
 Taren looked at her.
 
-“Yes.”
+“The choice will be explicit.”
 
 Kade’s anger shifted.
 
@@ -1178,15 +1488,15 @@ That was worse than anger.
 
 “You sat at our table.”
 
-“I know.”
+“I let you.”
 
 “You watched him decide to stay.”
 
-“I know.”
+“I reported the decision around it.”
 
 “You knew people wanted leverage over that.”
 
-“Yes.”
+“I knew by then.”
 
 Sera stepped back before she hit him again.
 
@@ -1208,6 +1518,104 @@ Taren nodded.
 
 “Formerly public. Now internal.”
 
+He reached beneath his academy overshirt.
+
+Sera’s weight shifted forward.
+
+Taren stopped with his hand visible.
+
+“There is a Directorate wafer behind my student credential.”
+
+“Take the whole badge out by the edge,” Sera said. “Slowly.”
+
+He obeyed.
+
+The credential looked ordinary until he pressed one corner. A second layer slid free, black and thin enough to hide behind the academy seal.
+
+Taren placed both pieces on the tunnel floor and stepped back.
+
+Eli crouched without touching them.
+
+“Active transmitter?”
+
+“Not after revocation. It stores contact tokens and cached instructions.”
+
+“Does it store reports?” Kade asked.
+
+Taren looked at the black wafer.
+
+“Submission headers, and any drafts not yet acknowledged.”
+
+“How many records?”
+
+“Three.”
+
+The number landed harder than a general answer.
+
+Kade kept his voice level.
+
+“About what?”
+
+“My midyear update on you. Your return after Run. And today’s archive search.”
+
+Sera looked ready to strike him again.
+
+“Submitted?” Mara asked.
+
+“The first two were requested. I sent summaries without the underlying files. Today’s was never sent.”
+
+“That is a distinction you made,” Kade said. “Not one we agreed to.”
+
+“I decided for all of you.”
+
+Eli removed an antistatic sleeve from his tablet case.
+
+“If I shield it, can they erase the cache remotely?”
+
+“They should not be able to.”
+
+“Should.”
+
+“I did not design this one.”
+
+Eli used two plastic map tabs to lift the wafer into the sleeve. The instant the shield closed around it, the revoked credential flashed again.
+
+**NETWORK UNAVAILABLE**
+
+Then the surface went dark.
+
+Mara held out her hand.
+
+Eli gave her the sealed wafer.
+
+Not Kade.
+
+Good.
+
+The evidence did not belong to him simply because the surveillance had centered on him.
+
+Mara examined the seal.
+
+“Sen receives this with us present. We preserve the drafts and the headers. Nobody opens it alone.”
+
+Taren nodded.
+
+“There are phrases in the headers that map to Directorate priority codes. I can translate them.”
+
+Sera’s voice stayed flat.
+
+“You can offer. You do not touch the evidence again.”
+
+Taren looked at the sleeve in Mara’s hand.
+
+“Understood.”
+
+Kade studied him.
+
+The surrender did not prove Taren honest. It proved only that he had placed one hidden thing where other people could inspect it.
+
+For tonight, that counted as a change.
+
 “What does she want?”
 
 “Consensus.”
@@ -1216,7 +1624,7 @@ Kade’s stomach tightened.
 
 “She knows the term?”
 
-“Yes.”
+“She used it before I did.”
 
 “How much?”
 
@@ -1240,11 +1648,11 @@ Eli stared.
 
 “The command node was a person.”
 
-“Yes.”
+“A person they treated as hardware.”
 
 “And her conclusion was to make the person stronger?”
 
-“Yes.”
+“Stronger. More controllable.”
 
 Kade thought of the application study.
 
@@ -1292,7 +1700,7 @@ Sera looked at him.
 
 Taren flinched.
 
-“Fair.”
+“I haven’t earned it.”
 
 Kade hated the sentence because it was true and because Taren deserved it.
 
@@ -1318,6 +1726,60 @@ Students moved through the distant corridor unaware that anything had happened b
 
 Taren stopped before stepping into public view.
 
+Sera checked both directions, then turned back to him.
+
+“Until Sen takes custody of this: you stay in the middle of the group. No terminals. No messages. If you recognize a route, a camera, or a person, you say so before it matters.”
+
+Taren removed his personal tablet and held it out by one edge.
+
+Sera did not take it.
+
+“Eli.”
+
+Eli accepted the tablet and powered it down.
+
+“I also need to remove him from Meridian’s shared schedule, training archive, and room controls.”
+
+Taren’s face tightened.
+
+“Do it.”
+
+“You do not get credit for permitting what I can revoke.”
+
+“Then I won’t ask for it.”
+
+Sera looked at Kade.
+
+“You do not meet with him alone.”
+
+Taren’s gaze stayed on the dark tablet.
+
+Kade could have rejected the rule because the surveillance had been about him. He could have claimed the right to decide what danger counted when he was the target.
+
+That would turn injury into authority.
+
+“Agreed,” he said.
+
+Mara shifted the sealed wafer into an inside pocket.
+
+“These are precautions, not a verdict. Sen gets the evidence. Taren gets to answer. Nobody gets to make uncertainty convenient.”
+
+“That includes the Directorate’s version of what happened,” Taren said.
+
+Sera’s expression did not soften.
+
+“It includes yours.”
+
+Taren inclined his head.
+
+Students crossed the far end of the corridor. One raised a hand to Taren, beginning an ordinary greeting.
+
+Taren started to lift his own hand.
+
+Then the student registered the formation around him and lowered theirs.
+
+The cost of his choice had reached the surface.
+
 “My access is gone. They know.”
 
 Kade looked at him.
@@ -1334,11 +1796,11 @@ Taren smiled faintly.
 
 Mara said, “Do you have another way to contact Crane?”
 
-“Yes.”
+“Through my family.”
 
 “Will you?”
 
-“No.”
+“Not before Sen sees the evidence.”
 
 Sera folded her arms.
 
