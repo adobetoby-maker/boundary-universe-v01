@@ -4,19 +4,19 @@ Kade’s first interoperable Consensus cell failed because everyone trusted it.
 
 That was new.
 
-The test floor at Vahana’s lunar operations annex had been divided into three independent systems:
+The Vahana lunar operations annex had been divided into three independent systems for the test.
 
-A simulated rescue corridor.
+A simulated rescue corridor occupied the west bay.
 
-A damaged power-transfer lattice.
+A damaged power-transfer lattice filled the center.
 
-A navigation relay with intermittent timing error.
+A navigation relay with intermittent timing error ran along the east wall.
 
 Three tasks.
 
 Three teams.
 
-No team could finish the full scenario alone.
+No team could complete the full scenario alone.
 
 That was the point.
 
@@ -28,19 +28,19 @@ Cell Three contained Jonas, Eli, and Sera.
 
 The rule was simple enough to become dangerous:
 
-Each cell could form a shared state for its local task.
+Each cell could form shared state for its local task.
 
-Then responsibility had to transfer to the next cell without the first network remaining active as a supervisory layer.
+Then responsibility had to transfer to the next cell without the outgoing network remaining active as a supervisory layer.
 
 No permanent global Consensus.
 
-No Kade hovering above the process.
+No Kade floating over the whole process.
 
 No Aya doing it either.
 
-The chapter title had become a threat.
+No hidden room where the previous team continued to make the real decisions after supposedly handing off.
 
-Kade stood at Cell One’s platform.
+Kade stood at Cell One’s platform and looked at the three task zones.
 
 Mara looked at him.
 
@@ -58,6 +58,8 @@ She was right in forty-three seconds.
 
 Cell One’s rescue corridor began with a collapsed structural gate blocking access to a simulated clinic.
 
+Behind the gate sat three role-players, one in a mobility chair and one wearing a respiratory monitor that would degrade if the route took too long.
+
 Kade held the shared physical boundary.
 
 Mara owned geometry.
@@ -72,11 +74,13 @@ They had become good at this version.
 
 Mara exposed the safe load path.
 
-Neema selected the route that preserved wheelchair access and emergency egress.
+Neema rejected the narrowest route because it would exclude the mobility chair.
 
 Kade moved existing structural load through the frame without becoming the only place where the geometry lived.
 
 The gate opened.
+
+Neema sent the role-players through.
 
 Task complete.
 
@@ -130,9 +134,11 @@ They had not released responsibility.
 
 The next team still depended on the old team to interpret its own state.
 
-Rented miracle again.
+The first cell had stopped touching the system while remaining the real authority.
 
-Different form.
+That was not handoff.
+
+It was remote ownership with better manners.
 
 Iyer reset the floor.
 
@@ -149,6 +155,10 @@ Every threshold.
 Every uncertainty.
 
 Every local consequence.
+
+Every reason the chosen route had been selected over two alternatives.
+
+They included sensor confidence, accessibility constraints, field loads, material temperature, casualty timing, and a note explaining why the west brace had been removed.
 
 Their handoff packet became beautiful.
 
@@ -174,11 +184,11 @@ No missing information.
 
 No usable priority.
 
-Kade thought of Vahana’s first arrivals exercise.
+Kade thought of Vahana’s arrivals exercise.
 
 A handoff was not the biography of a system.
 
-It was what the next operator needed to own first.
+It was a declaration of what state the next operator inherited and what they had to own first.
 
 Again.
 
@@ -190,7 +200,7 @@ Annoying.
 
 They rebuilt.
 
-This time the packet contained five things:
+This time the packet contained five fields:
 
 **CURRENT STATE**
 
@@ -212,6 +222,20 @@ Mara said, “Especially for you.”
 
 “Accurate.”
 
+Neema added a sixth line.
+
+**WHO IS NO LONGER IN CHARGE**
+
+Kade looked at her.
+
+“That feels personal.”
+
+“It is structural.”
+
+“Worse.”
+
+She kept it.
+
 ---
 
 Third attempt.
@@ -224,15 +248,17 @@ Released.
 
 Handoff:
 
-**CURRENT: east support stable to 63% modeled load.**
+**CURRENT:** east support stable to 63% modeled load.
 
-**CHANGED: west brace removed to preserve accessible route.**
+**CHANGED:** west brace removed to preserve accessible route.
 
-**UNCERTAIN: thermal response above 58%.**
+**UNCERTAIN:** thermal response above 58%.
 
-**FIRST DECISION: choose power path before adding load.**
+**FIRST DECISION:** choose power path before adding load.
 
-**DO NOT ASSUME: old west route remains available.**
+**DO NOT ASSUME:** old west route remains available.
+
+**NO LONGER IN CHARGE:** Cell One.
 
 Cell Two read it in eleven seconds.
 
@@ -262,13 +288,27 @@ They chose an east path at fifty-six percent load.
 
 Inside Cell One’s old model, Kade thought he saw a better route.
 
-He said nothing.
+It used a brief overload on the north brace, then recovered before thermal accumulation became significant.
 
-Cell Two succeeded anyway.
+He almost said it.
+
+Mara’s hand touched his wrist.
+
+Not restraining.
+
+Reminder.
+
+Kade said nothing.
+
+Cell Two used a different route.
+
+Less elegant.
+
+More conservative.
+
+Successful.
 
 Not his route.
-
-Different route.
 
 Also good.
 
@@ -312,6 +352,34 @@ The missing detail became cost, not catastrophe.
 
 That was the point.
 
+After the run, Arjun looked angry.
+
+Kade understood why.
+
+“You wanted to answer.”
+
+“Yes.”
+
+“You knew the number.”
+
+“Yes.”
+
+“And not answering felt irresponsible.”
+
+Arjun looked at him.
+
+“Yes.”
+
+Kade smiled without humor.
+
+“Welcome.”
+
+Arjun did not smile.
+
+Good.
+
+This lesson deserved irritation.
+
 ---
 
 The fourth test introduced participant withdrawal during handoff.
@@ -320,19 +388,31 @@ Of course.
 
 Neema withdrew from Cell One after the rescue gate opened.
 
+No reason given.
+
+No one asked for one.
+
 Her access-priority state had to be reconstructed before handoff.
 
 Mara held secondary.
 
 Approximate.
 
-They published the uncertainty instead of pretending precision.
+Kade wanted to fill in the gaps from memory.
+
+He stopped himself.
+
+Mara published:
+
+**ACCESS PRIORITY PARTIALLY RECONSTRUCTED — CONFIDENCE 68%. VERIFY WITH LOCAL CLINIC BEFORE ALTERING ROUTE.**
 
 Cell Two inherited degraded mission state.
 
 Julian said, “We need local access authority before choosing power path.”
 
 A role-player representing the clinic supervisor answered.
+
+The west corridor could reopen now that casualty movement was complete.
 
 Local knowledge.
 
@@ -342,15 +422,17 @@ Kade liked that.
 
 Then Aya withdrew from Cell Two.
 
-The network ended.
+The shared state ended.
 
-Not because she was mandatory.
+Not because she was mandatory to every possible network.
 
-Because the active cell had only two participants left and their specific shared-state implementation lost relational coherence.
+Because this particular three-person implementation lost relational coherence with only Julian and Arjun remaining.
 
 They did not force continuation.
 
-Arjun and Julian completed the remaining physical work conventionally.
+They did not call Kade.
+
+They completed the remaining physical work conventionally.
 
 Handoff still occurred.
 
@@ -373,6 +455,82 @@ She looked at him.
 Kade smiled.
 
 Civilian infrastructure had infected everyone.
+
+---
+
+The fifth test failed because Kade lied by omission.
+
+Not intentionally.
+
+Which was worse.
+
+Cell One discovered a minor structural vibration during the rescue task.
+
+Below threshold.
+
+Not relevant to access.
+
+Kade noticed it.
+
+Mara noticed him noticing it.
+
+Neema did not.
+
+The vibration stayed below two percent.
+
+Kade decided it did not belong in the handoff packet.
+
+Cell Two formed.
+
+Its power transfer amplified the vibration to six percent.
+
+Still safe.
+
+Then the thermal cycle hit.
+
+The east support resonated.
+
+Alarm.
+
+Cell Two aborted.
+
+Iyer froze the simulation.
+
+“What state was missing?”
+
+Kade knew.
+
+He hated that he knew.
+
+“The vibration.”
+
+“Why did you omit it?”
+
+“Because it was below threshold.”
+
+“For your task.”
+
+Kade looked at her.
+
+There it was.
+
+He had decided what mattered to the next team based on the outgoing team’s problem.
+
+The handoff packet was not a summary of what *he* considered important.
+
+It was the smallest truthful state that allowed the next operators to form their own priorities.
+
+Mara said, “We need a low-severity unknown field.”
+
+Eli called from across the room, “Please do not create another form.”
+
+They created another field.
+
+**LOW-SEVERITY STATE THAT MAY COUPLE TO NEXT TASK**
+
+Eli complained for six minutes.
+
+It stayed.
 
 ---
 
@@ -410,9 +568,10 @@ The protocol required:
 - participant consent scoped to that task;
 - explicit exit condition;
 - no outgoing cell retains hidden supervisory authority;
-- next cell receives current state, changes, uncertainties, first ownership decision, and prohibited assumptions;
+- next cell receives current state, changes, uncertainties, first ownership decision, prohibited assumptions, and low-severity state likely to couple forward;
 - outgoing participants may answer historical questions after handoff only if the incoming cell pauses and explicitly requests consultation;
-- shared state is optional; conventional continuation must remain possible where feasible.
+- shared state is optional; conventional continuation must remain possible where feasible;
+- a handoff is not complete until the incoming cell can state what it owns without asking the outgoing cell what to do.
 
 Julian read the fourth line twice.
 
@@ -435,6 +594,18 @@ Kade started to object.
 Stopped.
 
 Fair.
+
+Neema tapped the final line.
+
+“This is the one that matters.”
+
+Kade read it again.
+
+The next cell had to be able to say *this is ours now*.
+
+Not because the outgoing cell vanished.
+
+Because responsibility had actually moved.
 
 ---
 
@@ -492,9 +663,9 @@ Sera changed mission priority.
 
 They released.
 
-Cell Four inherited a messy system with degraded timing and one load outside preferred margin.
+Cell Four inherited a messy system with degraded timing, one load outside preferred margin, and a warning that the east support vibration could couple to their stabilization task.
 
-Priya looked at the handoff packet.
+Priya looked at the packet.
 
 “We do not need Consensus for this.”
 
@@ -502,7 +673,19 @@ Nessa agreed.
 
 Hana agreed.
 
-They completed conventionally.
+They worked conventionally.
+
+Priya used Redirection to damp the load.
+
+Hana handled local geometry.
+
+Nessa called transitions.
+
+No shared self-model.
+
+No exotic architecture.
+
+Just three competent people inheriting a system honestly.
 
 The board displayed:
 
@@ -516,7 +699,9 @@ The board displayed:
 
 **OUTGOING RE-ENTRY: 0**
 
-Kade stared at the result.
+**FINAL CELL REQUIRED PREVIOUS CELL: NO**
+
+Kade stared at the last line.
 
 The system had finished after Consensus stopped.
 
@@ -549,6 +734,82 @@ It did not.
 Not much.
 
 Progress.
+
+---
+
+The team debrief lasted two hours.
+
+Nobody wanted another exercise.
+
+That was healthy.
+
+Park reported cumulative neurological load.
+
+Kade and Aya both remained inside restriction thresholds, but repeated shared-state use within the same day increased recovery time more than predicted.
+
+Medical cost.
+
+Real.
+
+Mara reported that geometry handoffs lost the most precision when outgoing teams compressed too aggressively.
+
+Arjun reported that incoming teams asked fewer follow-up questions when the first ownership decision was explicit.
+
+Sera reported that conventional teams inherited state better when the packet included *why the previous cell stopped*, not only what it had done.
+
+Taren, watching under approved observer status, raised one hand.
+
+Everyone looked at him.
+
+“Security question.”
+
+Kade felt the room tighten.
+
+Taren noticed.
+
+“Useful reflex,” he said. “But I am asking openly.”
+
+Good.
+
+He continued.
+
+“What stops an outgoing cell from poisoning the handoff?”
+
+Silence.
+
+Red Team again.
+
+Jonas answered first.
+
+“Nothing.”
+
+Taren nodded.
+
+“Then the incoming cell needs provenance.”
+
+Eli said, “Signed state packets.”
+
+Mara said, “And confidence attached to source.”
+
+Aya added, “And the right to challenge inherited state before joining shared mode.”
+
+Kade looked at Taren.
+
+Taren looked back.
+
+He had contributed without hidden access.
+
+Without being reinstated.
+
+Without someone pretending trust was already repaired.
+
+That mattered too.
+
+They added provenance.
+
+The protocol got uglier.
+
+And better.
 
 ---
 
@@ -599,6 +860,10 @@ Each with its own authority and exit.
 Each handing state forward.
 
 If one cell failed, the others did not have to become one catastrophic dependency.
+
+If one cell was compromised, the next could challenge provenance before accepting its state.
+
+If Consensus became medically unsafe, conventional operators could continue where the job allowed.
 
 Zhou was quiet.
 
