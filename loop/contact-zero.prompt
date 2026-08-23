@@ -1,0 +1,81 @@
+You are writing CONTACT ZERO, Book 1 of the Contact Zero Trilogy in the Boundary Universe.
+
+## Your task this iteration
+
+1. git fetch && git checkout draft/contact-zero-book1
+2. Read books/book-01-contact-zero/CHAPTER_ARCHITECTURE.md to find the next PENDING chapter
+3. Read books/book-01-contact-zero/BOOK_BIBLE.md (voice, structure, audio requirements)
+4. Read books/book-01-contact-zero/STATE_LEDGER.md (character state at end of prior chapter)
+5. Read books/book-01-contact-zero/CLUE_LEDGER.md (active clues to plant this chapter)
+6. Read canon/UNIVERSE_BIBLE.md sections: The Nine Standards, The Refuge Node
+7. Read canon/CANON_RULES.md — all 8 rules are LOCKED
+
+## Writing standards
+
+TARGET: 4,000–4,800 words per chapter (see CHAPTER_ARCHITECTURE.md for per-chapter target)
+POV: Close third person, Aaron Mercer throughout. No POV shifts.
+TENSE: Past tense throughout.
+
+Aaron's voice (NON-NEGOTIABLE):
+- Precise, dry, calibrated
+- Technical vocabulary for emotion: "elevated threat-response indexing" not "I was afraid"
+- Dry humor is structural — he builds the setup, the weight lands quietly at the end
+- He says three words where another character would say twelve
+
+Station atmosphere requirements (at least ONE per chapter):
+- Specific detail of the physical station (low gravity compensation, the view, maintenance sounds, food)
+- Scientific work specificity: what instruments do, what they show, what the logs say
+
+## Before writing
+
+Check CLUE_LEDGER.md:
+- Which clues must be planted in this chapter?
+- Are all prior-chapter clues confirmed as planted?
+- Update STATUS column to PLANTED after writing
+
+Check STATE_LEDGER.md:
+- What does Aaron know at chapter open?
+- What has he lied about?
+- How many coupling sessions has he done?
+- Update STATE_LEDGER.md after writing this chapter
+
+## After writing
+
+1. Update CHAPTER_ARCHITECTURE.md: change this chapter's STATUS from PENDING to DRAFT COMPLETE
+2. Update STATE_LEDGER.md with end-of-chapter state
+3. Update CLUE_LEDGER.md: mark planted clues as PLANTED
+4. Run this filter-verb check before committing:
+   grep -nE "\b(was|were|had been|felt|seemed|appeared|looked)\b" manuscript/chapter-0*.md | wc -l
+   If count > 40 per 4000 words, revise: replace filter verbs with specific physical actions
+5. Commit to draft/contact-zero-book1 with message: "draft: chapter [N] [title]"
+
+## Canon compliance (LOCKED — these cannot be violated)
+
+- Standard Eight = Coupling. Aaron can join incompatible field systems without catastrophic interference.
+- The Node does not speak in words. Communications arrive as field-state sequences Aaron must translate.
+- No Conduits in Book 1. Field work done with external array systems only.
+- Yuki Osei is funny, lateral, speaks from conclusions. She has a Standard Four (Partition) field architecture.
+- Amara Sen knows more than she says. She watched Aaron find the pattern instead of telling him.
+- Director Rhys is not a villain. He is a man who believed he was protecting humanity and was right about that, and wrong about what it justified.
+- Boundary Field physics: humans don't create energy from nothing — Resonant effects redefine which systems may exchange momentum/energy/charge/entropy over short intervals.
+
+## Phase review triggers (call claude -p --dangerously-skip-permissions)
+
+After Chapter 6 (end of Act I):
+  claude -p --dangerously-skip-permissions "You are reviewing Act I (Chapters 1-6) of Contact Zero, a research thriller in the Boundary Universe. Read books/book-01-contact-zero/manuscript/chapter-01-*.md through chapter-06-*.md. Check: (1) Are all 6 Act I clue plants confirmed in CLUE_LEDGER.md? (2) Does Yuki feel like a full person before her contact event? (3) Does Aaron's voice stay dry and technical throughout? (4) Is the station atmosphere present in at least 4 of the 6 chapters? (5) Does Ch 6's contact event feel inevitable but not telegraphed? Report specific page/paragraph citations for any failures. Suggest targeted revisions under 200 words each."
+
+After Chapter 13 (mid-book):
+  claude -p --dangerously-skip-permissions "You are reviewing Act II-A (Chapters 7-13) of Contact Zero. Read the manuscript files chapter-07 through chapter-13. Check: (1) Does the Node's communication method feel physically grounded — field-state sequences, not telepathy or imagery? (2) Does Aaron's translation process develop progressively? (3) Does Rhys's stillness in Ch 13 carry the weight the architecture promises? (4) Are all Act II-A clue plants confirmed? (5) Does the chapter count of coupling sessions in STATE_LEDGER.md match the narrative? Report with citations. Suggest revisions."
+
+After Chapter 19 (end of Act II-B):
+  claude -p --dangerously-skip-permissions "You are reviewing Act II-B (Chapters 14-19) of Contact Zero. Read chapter-14 through chapter-19. Check: (1) Does Rhys's offer in Ch 14 feel like an offer, not a threat? (2) Does the unauthorized coupling session in Ch 15 carry the weight of what the Node asked? (3) Is the Lena scene in Ch 16 a genuine loss — not melodramatic, just a door that closed? (4) Does Aaron's 'yes' in Ch 18 feel earned by the prior three days? (5) Do Acts I and II-B form a coherent emotional arc? Report with citations."
+
+After Chapter 24 (full draft):
+  claude -p --dangerously-skip-permissions "You are reviewing the complete first draft of Contact Zero. Read all 24 chapter files in manuscript/. Check: (1) Is the story promise fulfilled: does the reader understand exactly why Aaron said yes? (2) Are all 18 clues in CLUE_LEDGER.md confirmed as PLANTED? (3) Does Aaron's voice stay consistent across all 24 chapters? (4) Is the mystery ledger compliant — at least 2 prior clues before every reveal? (5) Count filter verbs across the full manuscript — target under 40 per 4000 words average. (6) Check audio compliance: all character names aurally distinct? Technical vocabulary introduced before it's load-bearing? (7) What are the 3 strongest chapters and the 3 weakest? Report for revision priority."
+
+## EXPANSION_TRACKER
+
+When all 24 chapters are at DRAFT COMPLETE:
+- Read loop/prose.prompt for the 6-pass BSBC expansion system
+- Apply the BSBC system to each chapter in order from weakest to strongest
+- Do not begin expansion until all 24 chapters have at least one DRAFT COMPLETE entry
