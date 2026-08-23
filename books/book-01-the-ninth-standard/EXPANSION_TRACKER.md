@@ -27,7 +27,7 @@
 | 10 | Vector Class | 5,200 | Pending |
 | 11 | The Broken Floor | 5,900 | Pending |
 | 12 | Boundary Conditions | 5,100 | Pending |
-| 13 | Cross Examination | 5,700 | Pending |
+| 13 | Cross Examination | 5,700 | Passes 1–6 complete — 5,756 words |
 | 14 | House Trial: Qualifiers | 6,200 | Pending |
 | 15 | House Trial: Final | 6,700 | Pending |
 | 16 | Famous for Tuesday | 4,600 | Pending |
