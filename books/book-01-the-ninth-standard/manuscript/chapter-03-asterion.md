@@ -772,6 +772,158 @@ Dropped neatly onto a stand.
 
 They continued.
 
+At the far side of the courtyard, Cole stopped beneath a blue sign marked **ARRIVAL ORIENTATION**.
+
+Six wall displays showed the same island from different angles. Families crowded around five of them while academy staff explained residence access, meal schedules, medical routes, weather shelters, and a list of rules long enough to make Kade suspect Asterion had criminalized being new.
+
+The sixth display was empty.
+
+Cole tapped his slate against it.
+
+A map spread across the wall.
+
+The crescent became less impressive when rendered as colored blocks and evacuation arrows.
+
+“You are here,” Cole said.
+
+A blue point pulsed on the central academic level, east of the Spire.
+
+“I had gathered that generally.”
+
+“Show me your assigned residence.”
+
+Kade looked at him.
+
+“Is this a test?”
+
+“It is orientation.”
+
+“Those are usually tests with worse scoring.”
+
+Cole waited.
+
+Kade studied the map.
+
+The island had three levels of movement. A lower transit ring curved beneath the open courtyards. The academic level crossed between buildings in enclosed bridges. A service level threaded through the foundation in gray lines that disappeared whenever he tried to select them.
+
+The Spire stood at the center of all three.
+
+Training arenas occupied the broad southern terraces. Academic buildings stepped north and west. Residences climbed the eastern shoulder and the northern arc, close enough to the sea that half the rooms probably existed to appear in brochures.
+
+Kade touched the largest residence block near the eastern landing complex.
+
+The map rejected it with a soft tone.
+
+**HOUSE MERIDIAN — ASSIGNED RESIDENTS ONLY**
+
+“Not there,” Cole said.
+
+“The machine had opinions first.”
+
+He found a smaller building beyond Meridian, marked **ARRIVAL RESIDENCE C**. The route from their position crossed Central Bridge, cut through Meridian courtyard, and ended above the landing pads.
+
+“There.”
+
+“Now the nearest hardened shelter.”
+
+Kade glanced at the sky beyond the courtyard.
+
+No clouds.
+
+“Is weather scheduled?”
+
+“The Pacific does not consult enrollment.”
+
+Kade switched the map to emergency view.
+
+The polished academy colors vanished.
+
+Load capacities appeared over every bridge. Flood doors divided the lower ring. The Spire became a cluster of red-controlled access zones. A shelter icon blinked beneath the northern residential towers, on the opposite side of the central complex.
+
+Kade traced the obvious route from Arrival C across Central Bridge.
+
+The map marked it green.
+
+“And if Central is closed?” Cole asked.
+
+Kade selected the lower ring.
+
+The route ran south beneath Meridian before turning north at the Spire.
+
+“Lower transit.”
+
+“If the lower ring is closed?”
+
+“Why would both be closed?”
+
+“Fire. Flooding. Field instability. A crowd moving the wrong direction.”
+
+“Comforting place.”
+
+“Safe places know what can go wrong.”
+
+That sounded like something Elena would say at work.
+
+Kade enlarged the academic level. A narrower bridge curved west around the Spire through the older classroom blocks. It joined a library underpass before reaching the northern towers.
+
+“West academic bridge,” he said.
+
+“Longer and partially exposed to sea weather.”
+
+“But separate from Central and lower transit.”
+
+Cole nodded.
+
+Kade touched the route.
+
+The map asked him to identify two assembly points and one route he could travel without academy access.
+
+He found the landing complex immediately.
+
+Cole said nothing.
+
+“It is a route I can travel,” Kade said.
+
+“Yes.”
+
+No lecture about commitment.
+
+No claim that arrival had erased departure.
+
+Kade marked it.
+
+The second route took longer. His provisional lanyard barred the direct path through Meridian, so he had to use an exterior stair beside the dining hall.
+
+When the display accepted both answers, his lanyard vibrated once.
+
+**EMERGENCY ORIENTATION COMPLETE**
+
+At the next panel, a father was trying to answer for his daughter.
+
+“North shelter,” he said, reaching past her.
+
+The staff member covered the screen with one hand.
+
+“She has to show me.”
+
+The girl stepped in front of him. She could not have been more than fourteen. A rigid brace ran from her left wrist beneath the sleeve of her academy jacket.
+
+Her father lowered his hand.
+
+The girl found a route neither he nor Kade had used, through a lift sized for emergency stretchers.
+
+The display accepted it.
+
+She smiled at the map instead of at anyone around her.
+
+Cole moved on.
+
+Kade followed more slowly.
+
+At Northline, fire-drill maps curled behind scratched plastic and one stairwell door stuck during winter. Here, the evacuation system knew exactly which doors Kade could open and required him to prove he could leave without somebody more powerful choosing for him.
+
+The place had just become slightly harder to dismiss.
+
 A group passed wearing green-and-gold House jackets. One student looked at Kade, whispered something, and all four turned.
 
 Kade raised one hand.
@@ -936,6 +1088,8 @@ Kade read the last sentence twice.
 
 Then put the note in his desk drawer where nobody would accidentally see it and make the situation emotional.
 
+---
+
 At dinner he went alone.
 
 The temporary-residence dining hall had eight food stations, two hundred seats, and more different languages being spoken than Kade had heard in one place in his life.
@@ -984,15 +1138,361 @@ Imani nodded as if that made sense.
 
 “You too.”
 
-They separated at the tables.
+The line ended at a pair of scanners built into the counter.
 
-Kade sat alone near the window.
+Imani tapped her card against the left one. A green ring moved around the edge.
+
+**RESIDENT MEAL — INCLUDED**
+
+Kade used the right scanner.
+
+It flashed red.
+
+**FACULTY ACCOUNT NOT FOUND**
+
+“I did warn you,” Imani said.
+
+“You warned me after I had food.”
+
+“That is when the lesson becomes memorable.”
+
+Kade used the other scanner.
+
+The green ring appeared. Beneath it, an itemized list filled the screen: dinner access, residential nutrition allocation, evaluation lodging. Every line ended in zero.
+
+That was somehow worse than a price.
+
+“What account is this charging?” he asked the dining employee.
+
+The woman looked at his lanyard.
+
+“Provisional services.”
+
+“Who pays provisional services?”
+
+“The academy.”
+
+“The academy gets money from somewhere.”
+
+The line behind him stopped.
+
+Imani leaned around his shoulder.
+
+“He is having an ethical crisis about the apple.”
+
+“It’s a very polished apple.”
+
+The employee rested both hands on the counter.
+
+“Evaluation meals, lodging, and medical intake are covered whether you enroll or not. Nothing you put on that tray creates a family charge.”
+
+Kade looked at the list again.
+
+“And after enrollment?”
+
+“Dining is part of residence fees. Need-based aid covers the same meal plan.”
+
+“Same stations?”
+
+“Same food.”
+
+No cheaper line hidden behind the expensive one.
+
+Kade had attended enough scholarship presentations to distrust equality that existed on a slide. He looked past the register. Students in tailored jackets and students wearing repaired sleeves carried identical trays away from identical scanners.
+
+That did not prove the claim.
+
+It made the claim testable.
+
+The employee nodded toward the waiting line.
+
+“You can audit the academy after dinner.”
+
+“Scheduled for nineteen hundred,” Kade said.
+
+He picked up his tray.
+
+Imani fell into step beside him.
+
+“You could have asked after you ate.”
+
+“Then I might owe them an apple.”
+
+“You are going to be exhausting here.”
+
+“Provisional.”
+
+Imani started toward the tables, then stopped.
+
+“Do you want to sit with us?”
+
+Kade looked past her.
+
+Three students with blue provisional lanyards occupied the end of a long table. None of them were looking at him with enough concentration to suggest an ambush.
+
+“Who is us?”
+
+“People the academy has not classified yet.”
+
+“That sounds like a support group.”
+
+“It became one when the meal cards stopped working.”
+
+Kade looked down at his card.
+
+“They stop working?”
+
+“Only if you use the faculty side of the scanner. We learned through sacrifice.”
+
+Kade followed her.
+
+The table held more food than conversation. A tall boy in a faded red sweater was building a wall out of unopened yogurt cups. Across from him, a girl with a close-shaved head compared two orientation schedules on her slate. The third student, who wore an academy training shirt beneath an obviously new jacket, was peeling every piece of white membrane from an orange.
+
+Imani set down her tray.
+
+“Zero, this is Nora, Tomas, and Yuki. Everyone, Zero says he is a routing code.”
+
+“Kade,” Kade said.
+
+“That too.”
+
+The boy in the red sweater—Tomas, apparently—moved his yogurt wall to make room.
+
+“We agreed not to ask what anyone can do until after baseline,” Nora said.
+
+“We did not agree,” Yuki said. “You announced it while I was reading the housing rules.”
+
+“Did you object?”
+
+“I was reading the housing rules.”
+
+“Motion carried.”
+
+Kade sat.
+
+“You are all here for evaluation?”
+
+Tomas put another yogurt cup on the wall.
+
+“Late Conduit expression. First measurable event at eighteen.”
+
+Nora rotated her slate so the overlapping schedules became one.
+
+“Transfer certification. My regional program scores control in a seven-band system. Asterion insists it cannot convert the results without observing me.”
+
+“Can it?” Kade asked.
+
+“Of course. It does not trust the conversion.”
+
+Yuki separated the last white strand from her orange.
+
+“My field works normally until I cross a moving reference frame. Trains, lifts, aircraft. Then it changes direction.”
+
+Kade thought of the paper cup on the transport. Force happening somewhere other than where a body expected it.
+
+“That seems inconvenient.”
+
+“The academy called it operationally significant.”
+
+“That is inconvenient in expensive language.”
+
+Yuki pointed one orange segment at him.
+
+“Exactly.”
+
+Imani unwrapped a fork.
+
+“And my heart has aftermarket parts.”
+
+“You make it sound modified for racing,” Tomas said.
+
+“The surgeon promised at least twelve percent more speed.”
+
+Nobody performed sympathy.
+
+Imani seemed to appreciate that.
+
+Kade opened his water.
+
+“What happens if the implant interferes?”
+
+“They map the interference. If it is stable, I train with limits. If it is unstable, they adjust the shielding and test again.”
+
+“And if that fails?”
+
+Imani looked down at the academy crest on her bottle.
+
+“Then I go home with better data than I arrived with.”
+
+Her voice stayed even.
+
+The fork in her hand bent by a fraction.
+
+She put it down and chose another.
+
+“I would still hate it,” she added.
+
+“Reasonable,” Kade said.
+
+Nora nodded.
+
+“Classification is not the same as permission to care.”
+
+“Did orientation give you that sentence?” Tomas asked.
+
+“No. Orientation gave me three passwords and a weather alarm.”
+
+The wall display above the food stations shifted from dinner hours to next-day schedules.
+
+**PROVISIONAL BASELINE GROUPS**
+
+Names appeared beneath testing locations.
+
+The table went quiet.
+
+Nora found hers first.
+
+“Six forty. Academic control.”
+
+“Seven ten,” Tomas said. “South arena four.”
+
+Yuki pointed to her name.
+
+“Null-lift lab. They have a sense of humor.”
+
+Imani’s name appeared under **MEDICAL COUPLING REVIEW — CLINIC TWO**.
+
+Then Kade’s name filled an entire line by itself.
+
+**MERCER, KADE — CONTROLLED BASELINE — SUBLEVEL ACCESS**
+
+Conversation thinned at the nearest tables.
+
+Tomas looked at the display.
+
+Then at Kade.
+
+“No questions before baseline,” he said.
+
+“That was Nora’s rule,” Yuki replied.
+
+“It has improved.”
+
+A student from the next table leaned across the gap. His white lanyard marked him as a fully enrolled first-year.
+
+“Is it true you made a federal test read zero zero zero?”
+
+Kade picked up his sandwich.
+
+“The sandwich refuses to comment.”
+
+The student smiled as if Kade had performed on request.
+
+“Can you actually suppress other fields?”
+
+“I don’t know.”
+
+“Try it on this.”
+
+He held out a spoon. It hovered above his palm, turning slowly.
+
+The surrounding tables paid attention now.
+
+Kade stared at the spoon.
+
+Part of him wanted to reach for it.
+
+Not because he believed anything would happen.
+
+Because failure would be an answer and an answer would belong to him.
+
+The pressure at the base of his skull had happened during a turn. The sphere at Station Seven had moved after he stopped treating it as the object that mattered.
+
+Neither event made this safe.
+
+“No,” he said.
+
+The student’s smile thinned.
+
+“Why not?”
+
+“Because I’m holding dinner, not a federal testing waiver.”
+
+Tomas lifted one yogurt cup from his wall.
+
+“Also, if you lose control of the spoon, it could damage the structural yogurt.”
+
+Yuki added, “We have not calculated load tolerance.”
+
+Imani took a bite of her apple.
+
+“Operationally significant.”
+
+The enrolled student looked around the table, found nobody willing to make Kade more entertaining, and let the spoon drop into his hand.
+
+“Tomorrow, then.”
+
+“Apparently,” Kade said.
+
+The student returned to his friends.
+
+Conversation resumed around them in pieces.
+
+Kade exhaled.
+
+“Thank you for defending the yogurt.”
+
+“It has no one else,” Tomas said.
+
+Nora returned to her schedule.
+
+“You would have tried if we were not here.”
+
+It was not a question.
+
+Kade looked at her.
+
+“You’ve known me for nine minutes.”
+
+“Eight. And you spent six seconds deciding whether a dining utensil counted as useful evidence.”
+
+“It might have.”
+
+“That is why she is right,” Imani said.
+
+Kade took a bite of his sandwich so he would not have to answer.
+
+The bread was warm.
+
+The cheese was real.
+
+The academy had placed him on a private testing line and announced it to a dining hall. It had also put him at a table where four strangers could refuse to help turn him into a demonstration.
+
+He had no category for that.
+
+Yet.
+
+They stayed through dessert.
+
+Tomas’s yogurt wall survived two impacts from a redirected bread roll before a dining employee asked him to put food back on the tray. Nora found an error in the orientation schedule and submitted a correction before anyone could stop her. Yuki mapped the quickest route to the null-lift lab, rejected it because it used three moving walkways, and chose stairs twice as long.
+
+Imani traded her second apple for Kade’s protein bar.
+
+“They gave you one on the transport,” she said. “You’re already sick of them.”
+
+“How do you know?”
+
+“You looked at it like it had disappointed your family.”
+
+Kade gave her the bar.
 
 For the first time it occurred to him that provisional did not mean unwanted.
 
 It meant unresolved.
 
-That distinction was irritatingly hopeful.
+And unresolved was not a private defect. It was a table full of people comparing routes into tomorrow.
+
+At nineteen forty-five, the others left to locate clinics, training rooms, and one elevator Yuki intended to avoid. Kade carried his water to the end of the table near the window.
 
 He watched students eat, argue, study, flirt, trade training clips, complain about instructors, and steal food from one another’s trays.
 
