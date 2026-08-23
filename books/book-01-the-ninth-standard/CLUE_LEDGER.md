@@ -50,7 +50,7 @@
 - Expansion turns the Open into an academy-wide event with Meridian/Northline/family spectators, supporting Rule 3 school-world density.
 - Mara defeats him 4–1 by planning several decisions ahead, directly paying off Julian’s critique.
 - Kade reaches a live projection of #286 before Mara, then recalculates to #211 after the quarterfinal due opponent quality, bracket depth, clean wins and low penalties.
-- Kade begins suspecting the visible ranking ladder is also high-resolution institutional measurement infrastructure.
+- Kade confirms the visible ranking ladder retains a sixty-four-category performance audit, including his aborted Boundary event; its research exemption permits `aggregate capability forecasting` for undefined accredited institutional partners. He begins treating the ladder as high-resolution institutional measurement infrastructure rather than only a public ranking.
 
 ## Chapter 23 — The Twelfth Name
 - Twelve sequential Standard Eight identifier slots exist despite only eleven public names.
