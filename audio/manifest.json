@@ -188,7 +188,19 @@
           "number": 9,
           "title": "Meridian Night",
           "manuscript": "books/book-01-the-ninth-standard/manuscript/chapter-09-meridian-night.md",
-          "renders": []
+          "renders": [
+            {
+              "render": "holden",
+              "engine": "ElevenLabs",
+              "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
+              "file": "audio/book-01-the-ninth-standard/ch09-meridian-night.holden.mp3",
+              "bytes": 39102633,
+              "durationSec": 2443.83,
+              "sha256": "3dbe540d913469d256187033c6608a7ce133bc8e0b64ae3adda84b02ef36bb2f",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch09-meridian-night.holden.mp3",
+              "note": "Expanded manuscript. Eight chunks, per-chunk drift corrected at assembly; max correction 1.40dB."
+            }
+          ]
         },
         {
           "number": 10,
