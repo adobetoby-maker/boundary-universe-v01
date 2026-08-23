@@ -3,6 +3,8 @@
 ## Manuscript status
 - **Chapters 1–33 polished at developmental/prose level.**
 - Density-expansion pass now covers Chapters 1–33 at least once; Chapter 1 has received an additional benchmark-density pass.
+- **Chapter 30 `Siege of Asterion` is at architecture target:** 7,940 / 7,800 words; Passes 1–6 complete against manuscript blob `1de4181e86a54f3bb18f10d8631c68ca1744bc4b`. Sol's southeast evacuation route through Meridian and west academic is established before systems fail; Meridian dining becomes triage; north shelter receives the student body; and both east and west academic bridges fail only after their occupants clear.
+- Chapter 30 end-state delta: Asterion's rank hierarchy becomes a distributed rescue network that shelters the student body without Kade's Boundary power, while the Directorate breach, Taren's burned identity, and Aaron's appearance turn the hidden war into an open crisis beneath the Spire.
 - **Chapter 32 `Consensus` is at architecture target:** 8,351 / 8,200 words; Passes 1–6 complete against manuscript blob `70edc251ce3692978b5e6cb06604573d6cf299ab`.
 - Chapter 32 end-state delta: Kade and five peers create the first stable modern Consensus and free Aaron from constant manual containment, but their 0.83-second leak receives coordinates and an unexplained countdown in return.
 - Full Book 1 story is structurally complete.
