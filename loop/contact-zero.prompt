@@ -48,6 +48,7 @@ Check STATE_LEDGER.md:
    grep -nE "\b(was|were|had been|felt|seemed|appeared|looked)\b" manuscript/chapter-0*.md | wc -l
    If count > 40 per 4000 words, revise: replace filter verbs with specific physical actions
 5. Commit to draft/contact-zero-book1 with message: "draft: chapter [N] [title]"
+6. Push to origin: git push origin draft/contact-zero-book1
 
 ## Canon compliance (LOCKED — these cannot be violated)
 
