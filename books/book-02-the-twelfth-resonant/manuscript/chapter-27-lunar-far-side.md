@@ -56,7 +56,7 @@ Zhou ignored them.
 
 “The returned coordinates and countdown have been treated publicly as one message. We do not know that they are one function.”
 
-That sentence became the chapter.
+That distinction changed the problem.
 
 ---
 
@@ -370,37 +370,17 @@ The Refuge Node had been hiding from something capable of hearing it.
 
 If the countdown opened a communication window, using it might make humanity louder.
 
-Mara said, “That is Chapter Thirty-Two’s problem.”
+Mara said, “That is a later problem.”
 
 Kade looked at her.
 
-She froze.
-
-He stared.
-
-Mara closed her eyes.
-
-“No.”
-
-Eli started laughing.
-
-Kade pointed.
-
-“You did the thing.”
-
-Mara looked genuinely irritated with herself.
-
-“I meant that is a later problem.”
-
-“Much better.”
+“Unfortunately.”
 
 Sera said, “Everybody is tired.”
 
 They were.
 
-Kade filed the accidental phrasing as evidence that long missions damaged language.
-
-Then he returned to the data.
+Kade returned to the data.
 
 One question mattered now:
 
