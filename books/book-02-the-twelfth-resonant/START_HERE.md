@@ -3,7 +3,13 @@
 ## Current status
 Book 1 developmental/prose polish is complete enough for the audio-production path, with a separate BSBC payoff-density repair loop active on `expand/book1-ch01-10`.
 Book 2 drafting is active on `draft/book-02-four-pass`.
-Chapters 1–20 exist in manuscript form. Chapters 1–10 have completed Pass 6 BSBC review; Chapters 11–20 are under six-phase reconciliation/attestation.
+
+**Current manuscript frontier: Chapter 30 — Dark Relay is complete through the six-pass + payoff-density gate. Chapter 31 — The Survivor is next.**
+
+- Chapters 1–10: Pass 6 BSBC complete (`BSBC_REVIEW_CH01_10.md`).
+- Chapters 20–30: six-pass attested (`SIX_PASS_ATTESTATION_CH20_30.md`).
+- Chapters 11–19 have individual pass/review artifacts from the drafting run, but the main consolidated attestation ledger still needs reconciliation into one canonical record.
+- Two older immersion-cleanup items remain tracked outside the 20–30 frontier: Ch16 authorial `reveal/meta` wording and Ch19 `Chapter Seven again` wording. Do not forget them before production lock.
 
 ## Read before drafting Book 2
 1. `CANON_RULES.md`
@@ -18,7 +24,8 @@ Chapters 1–20 exist in manuscript form. Chapters 1–10 have completed Pass 6 
 10. `CHAPTER_ARCHITECTURE.md`
 11. `BOOK2_PAYOFF_DENSITY_REVIEW_CH01_20.md`
 12. `BSBC_REVIEW_CH01_10.md`
-13. `planning/BSBC_PASS6.md`
+13. `SIX_PASS_ATTESTATION_CH20_30.md`
+14. `planning/BSBC_PASS6.md`
 
 ## Chapter drafting protocol — SIX PASSES
 Every new chapter completes six passes before attestation and before the next chapter advances:
@@ -45,13 +52,10 @@ Before a major reveal, reunion, public demonstration, political reversal, battle
 
 This gate exists because Book 1 external review found the dangerous pattern of fully dramatized setup and compressed payoff concentrated in later chapters. Book 2 must not repeat it.
 
-## Immediate reconciliation task
-- Preserve Chapters 1–10 as Pass 6 complete.
-- Apply `BOOK2_PAYOFF_DENSITY_REVIEW_CH01_20.md` findings to Chapters 11–20.
-- Ch16: remove authorial `reveal/meta` scaffold language on next manuscript touch.
-- Ch19: remove `Chapter Seven again` scaffold language on next manuscript touch.
-- Ch20: complete formal Passes 2–6 and targeted cadence polish; do not add plot unless a missing lived scene is identified.
-- Then continue sequentially from Chapter 21 under the six-pass + payoff-density gate.
+## Immediate drafting task
+Draft **Chapter 31 — The Survivor** under all six passes and the payoff-density gate.
+
+Chapter 31 must pay the first undeniable exchange promised by Chapter 30 without turning the responder into a complete exposition source. The responder identifies itself as survivor/descendant rather than conqueror; ambiguity around Quieters/Severance remains protected for Book 3.
 
 ## Book 2 thematic sentence
 **Trust is not permission to control.**
