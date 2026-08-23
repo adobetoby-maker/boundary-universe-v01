@@ -38,7 +38,7 @@
 | 21 | Midyear: Open Rounds | 6,200 | Passes 1–6 complete — 6,288 words |
 | 22 | Midyear: Mercer v. Vey | 6,400 | Passes 1–6 complete — 6,447 words |
 | 23 | The Twelfth Name | 5,300 | Passes 1–6 complete — 5,329 words |
-| 24 | The Quiet War | 5,600 | Passes 1–6 complete — 5,887 words |
+| 24 | The Quiet War | 5,600 | Passes 1–6 cadence re-passed — 5,907 words |
 | 25 | Taren Holt | 5,700 | Passes 1–6 complete — 5,792 words |
 | 26 | Lab Six | 6,500 | Passes 1–6 complete — 6,503 words |
 | 27 | The Empty Bed | 4,800 | Passes 1–6 complete — 4,814 words |

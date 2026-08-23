@@ -1390,13 +1390,13 @@ He hated that the choice existed.
 
 Elena closed her eyes.
 
-“Okay.”
+“He never told me that.”
 
 “She confirmed Zero was connected to the old program.”
 
 Another breath.
 
-“Okay.”
+“Keep going.”
 
 “She saw him after the official accident.”
 
@@ -1480,7 +1480,9 @@ Elena looked at him for a long time.
 
 The distinction landed.
 
-“Mine.”
+Kade held her gaze.
+
+“I made it.”
 
 “Why?”
 
@@ -1506,7 +1508,7 @@ Elena said, “When can you tell me?”
 
 “I’m going to find a safe way.”
 
-“Okay.”
+“Then tell me what safe requires. Don’t make me guess.”
 
 No blind trust.
 
