@@ -68,10 +68,10 @@ git fetch origin --prune -q 2>/dev/null
 say "iteration $iter starting on $BRANCH"
 
 # check: all 24 chapters done?
-DONE_COUNT=$(grep -c "✓ WRITTEN" "$REPO/books/book-01-contact-zero/CHAPTER_ARCHITECTURE.md" 2>/dev/null || echo 0)
+DONE_COUNT=$(grep -cE "(✓ WRITTEN|DRAFT COMPLETE)" "$REPO/books/book-01-contact-zero/CHAPTER_ARCHITECTURE.md" 2>/dev/null || echo 0)
 if [ "$DONE_COUNT" -ge 24 ]; then
-  say "ALL 24 CHAPTERS WRITTEN — prose phase complete. Switching to expansion phase."
-  say "Run expansion via BSBC system in loop/prose.prompt."
+  say "ALL 24 CHAPTERS DRAFTED — prose phase complete."
+  say "Next: Grok + codex review pass before audio production."
   touch "$LOOP_DIR/STOP-contact-zero"
   command -v osascript >/dev/null && osascript -e 'display notification "Contact Zero: all 24 chapters drafted." with title "Boundary loop"' 2>/dev/null
   exit 0
