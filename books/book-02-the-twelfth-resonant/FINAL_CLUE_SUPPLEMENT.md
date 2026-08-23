@@ -2,6 +2,8 @@
 
 **Purpose:** record major final-act payoffs and their pre-payoff clue chains for whole-book Rule 6 audit.
 
+**Post-review status:** FINAL / PASS. The outside review independently checked the eight payoff chains against exact chapter text. Reconciliation removed three self-referential `Rule Six fairness` lines but changed no clue fact, order or reveal boundary. Ch23 and Ch28 received operational dramatization only.
+
 ## PAYOFF A — Aya can initiate shared state without Kade
 Prior independent clues:
 1. Ch5: M-Null means individual-output axis is the wrong model; Aya experiences relationship before output.
@@ -72,4 +74,4 @@ Prior independent clues:
 Payoff: final Ch34 pulse from avoided-reference direction.
 
 ## Rule 6 status
-All major Book 2 final-act reveals above have 2+ independent prior clue paths. Exact chapter wording/order should be revalidated in the whole-book final audit before production lock.
+All major Book 2 final-act reveals above have 2+ independent prior clue paths. Exact chapter wording/order was revalidated during the attributed outside review and independent reconciliation. No major reveal depends on a single archive, character or institution.

@@ -346,7 +346,7 @@ Kade stopped.
 
 Taren continued.
 
-“They wanted me to report on international Consensus networks. You would be part of that. So would Aya, Jonas, Neema, Arjun, faculty, maybe others.”
+“They wanted me to report on international Consensus networks. You would be part of that. So would Aya, Jonas, Imani, Arjun, faculty, maybe others.”
 
 “Same thing.”
 
@@ -620,4 +620,4 @@ Trust had not been repaired.
 
 But for the first time since the betrayal, Taren had chosen a harder future without asking anyone to reward him for it.
 
-That was enough for one chapter.
+That was enough for today.

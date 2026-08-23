@@ -80,7 +80,7 @@ Zhou nodded.
 
 The raw return consisted of repeated timing packets, coordinates, parity structures, and one recurring interval sequence that decremented predictably against atomic time.
 
-Humans turned that into:
+Humans turned that into the number that had first appeared on every screen:
 
 **00:364:17:42:08**
 
@@ -167,8 +167,6 @@ Kade looked at her.
 Mara exhaled.
 
 There.
-
-Rule Six fairness arriving as mathematics.
 
 The countdown was not proven to be an attack timer.
 

@@ -174,7 +174,7 @@ Taren.
 
 Aaron.
 
-Book One had taught Kade to build something that worked because six people chose together.
+Sublevel Nine had taught Kade to build something that worked because six people chose together.
 
 It had not taught him what happened if one person stopped choosing.
 
@@ -1214,7 +1214,7 @@ Maybe it was care.
 
 ---
 
-Before bed, Kade opened the Sublevel Nine telemetry from Book One.
+Before bed, Kade opened the Sublevel Nine telemetry.
 
 He had avoided doing that since the siege.
 

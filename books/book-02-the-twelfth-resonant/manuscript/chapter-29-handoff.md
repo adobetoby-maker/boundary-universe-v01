@@ -20,7 +20,7 @@ No team could complete the full scenario alone.
 
 That was the point.
 
-Cell One contained Kade, Mara, and Neema.
+Cell One contained Kade, Mara, and Imani.
 
 Cell Two contained Aya, Julian, and Arjun.
 
@@ -48,7 +48,7 @@ Mara looked at him.
 
 “I like problems with obvious failure modes.”
 
-Neema shook her head.
+Imani shook her head.
 
 “You will regret saying that.”
 
@@ -64,7 +64,7 @@ Kade held the shared physical boundary.
 
 Mara owned geometry.
 
-Neema owned access priority.
+Imani owned access priority.
 
 The network formed quickly.
 
@@ -74,13 +74,13 @@ They had become good at this version.
 
 Mara exposed the safe load path.
 
-Neema rejected the narrowest route because it would exclude the mobility chair.
+Imani rejected the narrowest route because it would exclude the mobility chair.
 
 Kade moved existing structural load through the frame without becoming the only place where the geometry lived.
 
 The gate opened.
 
-Neema sent the role-players through.
+Imani sent the role-players through.
 
 Task complete.
 
@@ -92,7 +92,7 @@ Kade released Consensus.
 
 Mara published geometry.
 
-Neema published access restrictions.
+Imani published access restrictions.
 
 Arjun acknowledged.
 
@@ -222,7 +222,7 @@ Mara said, “Especially for you.”
 
 “Accurate.”
 
-Neema added a sixth line.
+Imani added a sixth line.
 
 **WHO IS NO LONGER IN CHARGE**
 
@@ -386,7 +386,7 @@ The fourth test introduced participant withdrawal during handoff.
 
 Of course.
 
-Neema withdrew from Cell One after the rescue gate opened.
+Imani withdrew from Cell One after the rescue gate opened.
 
 No reason given.
 
@@ -474,7 +474,7 @@ Kade noticed it.
 
 Mara noticed him noticing it.
 
-Neema did not.
+Imani did not.
 
 The vibration stayed below two percent.
 
@@ -595,7 +595,7 @@ Stopped.
 
 Fair.
 
-Neema tapped the final line.
+Imani tapped the final line.
 
 “This is the one that matters.”
 
@@ -615,7 +615,7 @@ No Kade in two of them.
 
 That mattered.
 
-Cell One: Kade, Mara, Neema.
+Cell One: Kade, Mara, Imani.
 
 Cell Two: Aya, Julian, Arjun.
 
@@ -709,7 +709,7 @@ Not failure.
 
 Success.
 
-That was the piece he had been missing since Book One.
+That was the piece he had been missing since Sublevel Nine.
 
 Consensus did not need to become the operating system for every problem.
 

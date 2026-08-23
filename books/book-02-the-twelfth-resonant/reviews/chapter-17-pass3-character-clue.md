@@ -5,7 +5,7 @@ Reviewed blob: `0350646c7c608cb37f7f6c23fc3eb509b7a2f1a5`
 ## Character agency
 - Every participant has a distinct operational contribution and speaks for their own domain.
 - Aya withdraws from Attempt 1 without asking Kade's permission; the withdrawal is treated as correct system behavior, not betrayal.
-- Neema can change mission priority; Mara and Arjun can hold temporary decision centers by explicit group authorization.
+- Imani can change mission priority; Mara and Arjun can hold temporary decision centers by explicit group authorization.
 - Jonas voluntarily leaves Attempt 2 and the system adapts rather than framing his withdrawal as failure.
 
 ## Progression fairness

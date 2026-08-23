@@ -1,6 +1,14 @@
 # BOOK 2 — FINAL STATE SUPPLEMENT
 
-**Status:** provisional until whole-book continuity audit; derived from narrative through Chapter 34.
+**Status:** FINAL after whole-book continuity and outside-review reconciliation; derived from narrative through Chapter 34.
+
+## Post-review canonical name resolution
+- **Imani Mwangi** is the Kisiwa response trainee/operator previously drafted as Neema Mwangi.
+- **Owen Calder** is the minor Asterion student previously drafted as Owen Park.
+- **Jun Seo** is Eli's Kiyomizu instrumentation peer previously drafted as Jun Park.
+- **Dr. Kesler** is the minor Standards Board member previously drafted as Dr. Venn.
+- Nessa Kim, Dr. Park and Colonel Marcus Venn remain unchanged.
+- Prior forms remain only inside the verbatim outside-review artifact as provenance, not current canon.
 
 ## Kade Mercer
 - Remains publicly associated with provisional IX/Consensus history but no longer treats himself as the necessary center of shared-state systems.

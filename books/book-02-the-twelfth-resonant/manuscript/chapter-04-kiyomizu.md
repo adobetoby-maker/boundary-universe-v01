@@ -378,7 +378,7 @@ Kiyomizu had ignored them.
 
 Ren handed out assignments.
 
-“Mara Vey with Hana Sato. Sera Vale with Akari Nwosu. Eli Navarro with Jun Park. Julian Cross with Daichi Sakamoto.”
+“Mara Vey with Hana Sato. Sera Vale with Akari Nwosu. Eli Navarro with Jun Seo. Julian Cross with Daichi Sakamoto.”
 
 Ren looked at Kade.
 
@@ -960,7 +960,7 @@ At the next table, Sera was talking with Akari Nwosu about municipal response ce
 
 Kade knew because he heard the words *load triage* and then Sera stopped touching her food entirely.
 
-At another table, Jun Park had Eli’s prototype controller open and was pointing at its power routing with chopsticks.
+At another table, Jun Seo had Eli’s prototype controller open and was pointing at its power routing with chopsticks.
 
 Mara and Hana were arguing over correction latency.
 

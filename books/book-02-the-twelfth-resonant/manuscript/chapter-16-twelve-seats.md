@@ -558,19 +558,9 @@ Kisiwa civic continuity.
 
 Asterion’s hidden Twelve.
 
-The clue network tightened.
+The evidence narrowed.
 
-Mara said, “This is the reveal.”
-
-Kade looked at her.
-
-“You just called it that.”
-
-“Yes.”
-
-“Very meta.”
-
-“I mean this is what we can actually claim.”
+Mara said, “This is what we can actually claim.”
 
 She counted on her fingers.
 
@@ -604,7 +594,7 @@ More questions.
 
 But a real answer underneath them.
 
-Good mystery.
+Enough.
 
 ---
 

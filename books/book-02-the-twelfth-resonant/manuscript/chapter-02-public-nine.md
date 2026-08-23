@@ -178,7 +178,7 @@ Progress.
 
 He finished with four minutes remaining.
 
-Owen Park, two seats over, finished with twelve.
+Owen Calder, two seats over, finished with twelve.
 
 Kade disliked him on principle.
 
@@ -588,7 +588,7 @@ The applause when Kade walked out was louder than he expected.
 
 He hated that part of him liked it.
 
-Sera’s sentence from Book One returned.
+Sera’s warning about applause returned.
 
 *Everybody likes applause. Just don’t confuse it with love.*
 
@@ -704,7 +704,7 @@ Even Sen smiled.
 
 Price did not.
 
-One of the Standards Board members, Dr. Venn, lifted a different report.
+One of the Standards Board members, Dr. Kesler, lifted a different report.
 
 “Dr. Park, preliminary review of the Sublevel Nine participants shows unusually high cooperative adaptation scores across House Trial, team simulation, and emergency-response metrics. Is that correlation meaningful?”
 
@@ -716,7 +716,7 @@ Park did not look pleased by the question.
 
 “Retrospective correlation from six people is not a predictive model.”
 
-Venn said, “That was not my question.”
+Kesler said, “That was not my question.”
 
 “It is my answer.”
 
@@ -756,7 +756,7 @@ Again, not stop.
 
 Choose.
 
-He looked at Venn’s report.
+He looked at Kesler’s report.
 
 House Trial.
 

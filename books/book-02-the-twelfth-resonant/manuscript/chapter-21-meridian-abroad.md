@@ -162,7 +162,7 @@ For twenty minutes they talked about nothing important.
 
 A Kiyomizu student who had challenged Eli to a vending-machine repair contest.
 
-Neema’s refusal to accept Asterion’s definition of emergency drills.
+Imani’s refusal to accept Asterion’s definition of emergency drills.
 
 Arjun’s belief that orbital logistics was a personality type.
 
@@ -412,7 +412,7 @@ Data ownership.
 
 Rank appeal.
 
-Kade’s group included Jonas, Neema, Arjun, Ren, and a Kisiwa second-year named Laila Okafor.
+Kade’s group included Jonas, Imani, Arjun, Ren, and a Kisiwa second-year named Laila Okafor.
 
 The moderator asked one question:
 
@@ -428,7 +428,7 @@ Jonas wanted Kiyomizu’s right to request a partner change without proving misc
 
 Arjun wanted Kisiwa’s rule requiring community stakeholders in emergency-system simulations.
 
-Neema wanted Vahana’s explicit responsibility-handoff notation.
+Imani wanted Vahana’s explicit responsibility-handoff notation.
 
 Laila wanted Asterion’s public incident summaries after training injuries.
 

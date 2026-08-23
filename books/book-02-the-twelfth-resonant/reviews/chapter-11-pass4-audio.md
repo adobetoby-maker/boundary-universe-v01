@@ -4,7 +4,7 @@ Reviewed manuscript blob: `17d07077b8ad8c256b5ade7cc265ea23ed489843`
 
 ## Checks
 - Scene transitions are explicit and audible.
-- Sera / Kade / Neema / Kamau voices remain distinct in multi-speaker training scenes.
+- Sera / Kade / Imani / Kamau voices remain distinct in multi-speaker training scenes.
 - Training geography is stated before movement accelerates.
 - Screen text is short and interpretable aloud.
 - Repeated `Cruel / Accurate` callback is limited enough to remain a motif rather than verbal clutter.

@@ -572,7 +572,7 @@ Julian did not take it.
 
 Mara looked at Kade.
 
-Visible progression.
+The difference showed.
 
 Public.
 
@@ -880,7 +880,7 @@ Across the room Aya’s tablet filled with messages from Kiyomizu.
 
 Jonas received Helix student-government requests.
 
-Neema got calls from Kisiwa response trainees asking whether their local authority would now be overridden by international rules.
+Imani got calls from Kisiwa response trainees asking whether their local authority would now be overridden by international rules.
 
 Arjun’s Vahana classmates wanted to know whether temporary handoff centers counted as recognized command.
 

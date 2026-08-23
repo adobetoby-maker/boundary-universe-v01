@@ -74,7 +74,7 @@ Jonas Falk.
 
 Arjun Rao.
 
-Neema Mwangi.
+Imani Mwangi.
 
 Nessa Kim.
 
@@ -182,7 +182,7 @@ Phase One began without Consensus.
 
 That was deliberate.
 
-Neema owned civic mission priority.
+Imani owned civic mission priority.
 
 Arjun owned orbital transfer state.
 
@@ -214,7 +214,7 @@ One constrained system.
 
 Arjun said, “I need temporary transfer center.”
 
-Neema asked, “Scope?”
+Imani asked, “Scope?”
 
 “Orbital load ordering only.”
 
@@ -456,7 +456,7 @@ Scope defined.
 
 Sera challenged one priority.
 
-Neema reframed civic consequence.
+Imani reframed civic consequence.
 
 Taren supplied legacy behavior.
 
@@ -546,7 +546,7 @@ Kade laughed once.
 
 Good.
 
-Instead Neema called:
+Instead Imani called:
 
 “Local cells. Reconstruct only what each task needs.”
 
@@ -558,7 +558,7 @@ Functionally.
 
 Three temporary groups.
 
-Sera, Neema, and Ren rebuilt civic routing.
+Sera, Imani, and Ren rebuilt civic routing.
 
 Julian, Arjun, and Eli rebuilt orbital state.
 
@@ -718,7 +718,7 @@ Not one.
 
 Not broken.
 
-Neema said, “Then model that.”
+Imani said, “Then model that.”
 
 No one asked Kade to approve.
 
@@ -774,7 +774,7 @@ The mission had required all twelve people’s trained differences across the fu
 
 It had required no one person continuously.
 
-That was the answer Book One had not known how to ask.
+That was the answer Sublevel Nine had not forced them to ask.
 
 ---
 
@@ -906,7 +906,7 @@ Taren, from the observer row, did not add anything.
 
 Good.
 
-Not every story beat required him to earn a line.
+His silence did not erase the work that had brought him there.
 
 ---
 
@@ -1030,7 +1030,7 @@ Kade watched the transport leave.
 
 He did not experience it as failure.
 
-That might have been the largest progression event of the book.
+That might have been the hardest thing he had learned all year.
 
 No scoreboard noticed.
 
@@ -1110,8 +1110,6 @@ The Refuge Node archive reacted.
 
 Aaron’s old suppression logs contained the same damaged pattern.
 
-Rule Six fairness.
-
 Old clue.
 
 New context.
@@ -1154,9 +1152,9 @@ Still a network.
 
 Kade looked at the countdown.
 
-Book One had taught him that belonging did not mean giving people ownership of him.
+His first year at Asterion had taught him that belonging did not mean giving people ownership of him.
 
-Book Two had taught him the inverse.
+The international circuit had taught him the inverse.
 
 Caring about people did not give him ownership of them either.
 

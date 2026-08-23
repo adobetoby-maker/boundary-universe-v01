@@ -152,6 +152,88 @@ Mara corrected directly.
 
 The shared state strengthened.
 
+Inside the lab, Mara had expected the room to become Kade-shaped without Kade.
+
+It did not.
+
+Her geometry remained hers.
+
+Hana’s left boundary remained Hana’s.
+
+Julian’s failure ordering did not arrive as an answer everyone else had to accept.
+
+What Mara felt instead was the instant when one local model stopped fitting another.
+
+Not the other person’s thought.
+
+The incompatibility.
+
+Her first correction tightened the right field arc by twelve centimeters.
+
+The change would have improved her load margin.
+
+It would also have forced Hana’s boundary inward.
+
+The conflict became legible before Mara committed it.
+
+She stopped.
+
+Kade’s network usually made the whole room available at once.
+
+Aya’s made the cost of crossing another person’s edge impossible to miss.
+
+“Hana,” Mara said. “Right arc needs twelve.”
+
+“Left boundary can give six.”
+
+Mara asked, “Julian?”
+
+“Six preserves the highest failure margin if Jonas updates the uncertainty band.”
+
+Jonas said, “Updating.”
+
+Mara felt the altered estimate reach her directly.
+
+Not through Aya.
+
+Not as permission.
+
+As a dependency she now owned.
+
+She rebuilt the correction around six centimeters.
+
+The field steadied.
+
+Then Julian elevated a load warning.
+
+Mara’s instinct was to solve it before anyone else could.
+
+Aya’s voice cut across the lab.
+
+“Do not send every problem to me.”
+
+Mara almost laughed.
+
+Even now.
+
+Especially now.
+
+She routed the geometry consequence to Hana and the failure consequence to Julian.
+
+They answered each other.
+
+Aya held neither answer.
+
+For the first time Mara understood the difference from inside.
+
+The network did not have a second center.
+
+It had six people who could reach one another without borrowing a permanent one.
+
+Behind the glass, Kade could see only the external traces.
+
+He watched corrections move participant to participant without touching Aya’s channel.
+
 Three seconds.
 
 Four.
@@ -546,7 +628,7 @@ Different failure modes.
 
 Different strengths.
 
-The whole book had been trying to teach him not to turn every difference into a ladder.
+Every stop on the circuit had been trying to teach him not to turn every difference into a ladder.
 
 Apparently the lesson became harder when the ladder involved his own identity.
 

@@ -1,6 +1,6 @@
 # CLUE LEDGER — BOOK 2
 
-**Status: PROVISIONAL**
+**Status: FINAL through Chapter 34; see `FINAL_CLUE_SUPPLEMENT.md` and `FINAL_OUTSIDE_REVIEW_RECONCILIATION.md`.**
 
 ## Book 1 evidence inherited
 - Consensus requires voluntary participation and preserves agency.

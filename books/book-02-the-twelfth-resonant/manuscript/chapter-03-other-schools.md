@@ -1250,7 +1250,7 @@ Kade understood why.
 
 Asterion had taught all of them to believe it was the center.
 
-Book One had taught them the island did not even know its own history.
+Sublevel Nine had taught them the island did not even know its own history.
 
 Now the world was opening.
 

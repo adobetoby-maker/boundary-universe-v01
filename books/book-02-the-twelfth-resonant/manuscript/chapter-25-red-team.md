@@ -36,7 +36,7 @@ Optional participant withdrawal.
 
 One team member on each group received permission to mislead the others within safety limits.
 
-Kade’s group included Mara, Aya, Jonas, Arjun, Neema, and Kade.
+Kade’s group included Mara, Aya, Jonas, Arjun, Imani, and Kade.
 
 Six people.
 
@@ -78,7 +78,7 @@ Mara listed structural margin.
 
 Arjun listed transfer timing.
 
-Neema listed human priorities.
+Imani listed human priorities.
 
 Jonas listed uncertainty.
 
@@ -104,7 +104,7 @@ Arjun built a handoff around it.
 
 Mara adjusted geometry.
 
-Neema protected the hospital route.
+Imani protected the hospital route.
 
 Nothing seemed wrong.
 
@@ -142,7 +142,7 @@ Evacuation delayed.
 
 Reservoir temperature rising.
 
-Neema said, “We need to spend uncertainty.”
+Imani said, “We need to spend uncertainty.”
 
 Kade frowned.
 
@@ -228,11 +228,11 @@ The system needed to survive uncertainty about motive.
 
 ---
 
-The liar had been Neema.
+The liar had been Imani.
 
 Kade did not believe the reveal for three seconds.
 
-Neema looked offended.
+Imani looked offended.
 
 “That is flattering and insulting.”
 
@@ -246,7 +246,7 @@ Her false report had not caused the reserve collapse.
 
 That had been system deception.
 
-Neema’s lie had changed which route they thought could absorb displaced civilians.
+Imani’s lie had changed which route they thought could absorb displaced civilians.
 
 They had caught it only because Sera’s external response team reported a physical crowding problem.
 
@@ -268,7 +268,7 @@ Not catastrophic.
 
 Not free.
 
-Neema said, “I chose the lie because it was plausible enough to survive your first checks.”
+Imani said, “I chose the lie because it was plausible enough to survive your first checks.”
 
 Kade looked at her.
 
@@ -306,7 +306,7 @@ Arjun’s academy would be penalized if his handoff failed.
 
 Jonas’s simulated visa status depended on compliance.
 
-Neema’s local-response team would lose resources if mission score fell.
+Imani’s local-response team would lose resources if mission score fell.
 
 Aya’s research track would be suspended if she rejected a requested role.
 
@@ -446,7 +446,7 @@ Julian’s domain.
 
 Kade almost trusted it automatically.
 
-Chapter Thirty-Two’s old failure returned in a new form.
+The Sublevel Nine failure returned in a new form.
 
 Certainty as authority.
 

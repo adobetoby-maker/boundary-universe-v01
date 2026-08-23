@@ -260,14 +260,38 @@ Initial draft moved too quickly for the first structured-contact payoff. Expansi
 
 ---
 
+## Post-outside-review superseding repairs
+
+The original block verdict remains valid at story-function level but its density conclusion was rechecked against the complete manuscript.
+
+### Chapter 23 — Second Center
+Added 291 words of lived shared-state experience from Mara's position inside Aya's non-hub architecture. The scene now shows a local correction conflict, direct dependency routing and participant-to-participant resolution before the telemetry result/debrief. Status: **SIX-PASS COMPLETE AFTER TARGETED DENSITY REPAIR.**
+
+### Chapter 28 — Broken Command
+Added 340 words to the real-stakes rescue chain: a failed navigation solution, crew-side uncertainty, a domain-scoped hold decision and an explicitly incomplete Vahana handoff before final capture. Status: **SIX-PASS COMPLETE AFTER TARGETED DENSITY REPAIR.**
+
+### Chapters 17 and 25
+Re-audited after outside-review expansion recommendations. Both already contain the full lived functions requested; no ratio-driven padding was added. Rationale is recorded in `FINAL_OUTSIDE_REVIEW_RECONCILIATION.md`.
+
+### Immersion/audio corrections in this block
+- Ch20 emotional-peak cadence loosened at seven ethical admissions.
+- Ch22, Ch23, Ch24, Ch25, Ch26, Ch27, Ch28, Ch29 and Ch30 scaffold/craft leaks recast in-world or removed.
+- Ch27's correct original `00:364` value now carries an explicit first-display cue.
+- Ch30's return to Kade POV before the Eli paragraph is explicit.
+- Imani Mwangi is the canonical Kisiwa operator name, replacing prior Neema Mwangi to separate her aurally from Nessa Kim.
+
+---
+
 # BLOCK RESULT
 
 **CHAPTERS 20–30 — SIX-PASS COMPLETE.**
 
-### Chapters completed without post-draft manuscript repair in this block
-20, 21, 22, 23, 24, 25, 26, 28
+### Chapters completed without payoff-density expansion in this block
+20, 21, 22, 24, 25, 26, 27
 
 ### Chapters requiring targeted post-draft repair
+23 — premise-turn lived-experience expansion
+28 — real-stakes rescue-chain expansion
 27 — immersion/planning-language cleanup
 29 — payoff-density expansion
 30 — payoff-density expansion

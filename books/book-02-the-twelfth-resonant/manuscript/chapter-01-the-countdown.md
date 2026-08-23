@@ -1130,7 +1130,7 @@ A lunar emergency network could not tolerate more than forty milliseconds of add
 
 And the public information system had to remain live enough to prevent panic from becoming its own infrastructure failure.
 
-Kade’s group included Owen Park again, a Vahana exchange applicant named Leena Das, and a quiet Perception student Kade knew only as Arun.
+Kade’s group included Owen Calder again, a Vahana exchange applicant named Leena Das, and a quiet Perception student Kade knew only as Arun.
 
 Owen started assigning bandwidth by institutional priority.
 

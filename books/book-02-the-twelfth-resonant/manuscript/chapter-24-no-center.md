@@ -450,7 +450,7 @@ Probably correct.
 
 They did not resolve the argument with a kiss.
 
-Kade considered this poor narrative efficiency.
+Kade considered this inconvenient.
 
 Instead Mara left dinner early to finish an analysis report.
 

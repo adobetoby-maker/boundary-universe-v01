@@ -54,7 +54,7 @@ That had been Park’s condition.
 
 Kade liked it more than Aaron did.
 
-The first packet after Chapter Thirty’s coordinate transform had repeated every eleven minutes.
+The first packet after the coordinate transform had repeated every eleven minutes.
 
 Same carrier family.
 
@@ -540,11 +540,9 @@ Then disappearing.
 
 Not proof.
 
-The next chapter of the problem arriving early.
+Another hypothesis arriving too early.
 
 He pushed the thought away.
-
-No chapter language.
 
 Just state.
 

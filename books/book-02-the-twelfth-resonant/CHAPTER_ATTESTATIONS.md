@@ -209,3 +209,27 @@ Aya tells Kade he should stop letting institutions call him `Nine` because they 
 Both six-person models fail under critique. Kade begins privately considering whether the important number is not two Zeros but zero permanent centers.
 
 **Advance gate:** PASSED. Chapter 7 may begin.
+
+---
+
+# Whole-book post-review attestation — Chapters 1–34
+
+**Baseline externally reviewed:** `64557629acef670aaefff03f59e55443f49e56d7`
+
+**Outside-review artifact:** `reviews/OUTSIDE_REVIEW_CLAUDE_2026-08-23.md` at commit `00f0b97`
+
+**Reconciliation:** `FINAL_OUTSIDE_REVIEW_RECONCILIATION.md`
+
+The completed manuscript has received a full attributed outside review and independent finding-by-finding reconciliation.
+
+- All substantiated scaffold/meta leaks were removed or converted to in-world experience.
+- Ch23 and Ch28 received the only additional scene-level density repair; Ch17/Ch25 expansion requests were rejected after verifying their required functions already exist on-page.
+- Ch20 cadence was loosened only at major ethical admissions.
+- Ch7 speaker tracking, Ch9 circuit continuity, Ch27 countdown presentation and Ch30 POV tracking were repaired.
+- Audio-name collisions were resolved as Imani Mwangi, Owen Calder, Jun Seo and Dr. Kesler; established Nessa Kim, Dr. Park and Colonel Venn remain unchanged.
+- Rule 6 clue chains, countdown arithmetic, family-clean constraints and Book 3 reveal boundaries pass without structural changes.
+- Final state and clue supplements are reconciled to current prose.
+
+**Whole-book status:** **SIX-PASS / BSBC / PAYOFF-DENSITY RECONCILED — PRODUCTION-LOCK CANDIDATE.**
+
+A final human proof/listening pass remains recommended before recording or publication.

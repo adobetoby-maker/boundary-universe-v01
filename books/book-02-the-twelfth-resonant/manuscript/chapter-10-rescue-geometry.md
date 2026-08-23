@@ -44,7 +44,7 @@ Kade looked at the last line.
 
 “That feels targeted.”
 
-Neema Mwangi appeared in the doorway wearing response orange and a helmet.
+Imani Mwangi appeared in the doorway wearing response orange and a helmet.
 
 “It is.”
 
@@ -82,7 +82,7 @@ Kade frowned.
 
 “What does mobile mean?”
 
-Neema looked at Sera.
+Imani looked at Sera.
 
 “She goes where the incident commander needs an operator who can understand more than one problem.”
 
@@ -978,7 +978,7 @@ Sera thought.
 
 “Staying at transit too long.”
 
-Neema looked at her.
+Imani looked at her.
 
 Sera continued.
 
@@ -1038,7 +1038,7 @@ Sera looked at him.
 
 He went.
 
-Outside, Neema caught up with him.
+Outside, Imani caught up with him.
 
 “She is good.”
 
@@ -1046,7 +1046,7 @@ Kade smiled.
 
 “I know.”
 
-Neema looked at him sideways.
+Imani looked at him sideways.
 
 He corrected himself.
 

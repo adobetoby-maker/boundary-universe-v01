@@ -206,7 +206,7 @@ Kiyomizu had infected everyone.
 
 ---
 
-The next morning Neema took Sera to Kisiwa’s field-access course.
+The next morning Imani took Sera to Kisiwa’s field-access course.
 
 Kade was not invited.
 
@@ -230,7 +230,7 @@ One a flooded utility corridor.
 
 One a clinic doorway blocked by debris.
 
-Professor Kamau stood with Neema and six trainees.
+Professor Kamau stood with Imani and six trainees.
 
 “Today’s metric is access.”
 
@@ -284,9 +284,9 @@ Kade saw the possible field solution.
 
 Sera did not use it.
 
-She asked Neema, “Is the adjacent room clear?”
+She asked Imani, “Is the adjacent room clear?”
 
-Neema checked scenario data.
+Imani checked scenario data.
 
 “Yes.”
 
@@ -336,7 +336,7 @@ Water reached mid-calf and carried simulated contamination markers. The power wa
 
 The nearest exit required crossing a floor section that would become electrically unsafe if temporary power returned.
 
-Neema ran the scenario first.
+Imani ran the scenario first.
 
 She isolated the corridor, verified lockout, used a portable barrier to redirect water, then moved the casualty.
 
@@ -350,7 +350,7 @@ The lockout indicator failed.
 
 Sera looked at it.
 
-Then at Neema.
+Then at Imani.
 
 “You changed that.”
 
@@ -504,7 +504,7 @@ Just one added line beneath her name:
 
 Sera read it twice.
 
-Neema bumped her shoulder.
+Imani bumped her shoulder.
 
 “You hated that.”
 
@@ -530,7 +530,7 @@ Some progress was easier to ruin by congratulating it.
 
 ---
 
-After the course, Neema and Sera disappeared into the equipment room.
+After the course, Imani and Sera disappeared into the equipment room.
 
 Kade found them twenty minutes later arguing over gloves.
 
@@ -538,7 +538,7 @@ Not philosophically.
 
 Literally gloves.
 
-Neema held up a thick rescue pair.
+Imani held up a thick rescue pair.
 
 “You lose fine control.”
 
@@ -556,7 +556,7 @@ Sera frowned.
 
 “What happens when Perception is wrong?”
 
-Neema stopped.
+Imani stopped.
 
 Kade leaned against the doorway.
 
@@ -566,7 +566,7 @@ Both looked at him.
 
 “I am supporting local debate.”
 
-Neema threw the thick gloves at him.
+Imani threw the thick gloves at him.
 
 Kade caught them.
 
@@ -588,9 +588,9 @@ That sounded like a claim.
 
 Better.
 
-Sera looked at Neema.
+Sera looked at Imani.
 
-Neema said, “Go. You are becoming irritating about gloves.”
+Imani said, “Go. You are becoming irritating about gloves.”
 
 “I am correct about gloves.”
 
@@ -614,7 +614,7 @@ She looked at them.
 
 They walked toward lunch.
 
-Sera said, “Neema is probably right for most calls.”
+Sera said, “Imani is probably right for most calls.”
 
 “That sounded painful.”
 
@@ -842,9 +842,9 @@ Sera said, “I never said you didn’t.”
 
 “You implied it.”
 
-“No. Neema did.”
+“No. Imani did.”
 
-Across the room Neema shouted, “Correct.”
+Across the room Imani shouted, “Correct.”
 
 Peter laughed.
 

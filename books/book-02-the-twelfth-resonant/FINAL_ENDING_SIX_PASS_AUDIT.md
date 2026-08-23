@@ -2,7 +2,9 @@
 
 **Branch:** `draft/book-02-four-pass`
 **Scope:** final payoff block
-**Status:** STORY-COMPLETE; line-level scaffold cleanup remains before production lock.
+**Status:** COMPLETE AFTER OUTSIDE-REVIEW RECONCILIATION.
+
+**Superseding note:** This audit accurately records the story-level ending pass but undercounted whole-book scaffold leakage. The attributed outside review found additional sites, and `FINAL_OUTSIDE_REVIEW_RECONCILIATION.md` records the completed repairs. Any `cleanup required` wording below describes the pre-reconciliation manuscript baseline, not current work.
 
 ## Chapter 31 — The Survivor
 **Pass 1 Structure — PASS.**
@@ -92,7 +94,7 @@ Payoff: `Twelfth Resonant` is not an individual rank. Twelve becomes an interope
 The title payoff receives multiple distinct operational tests plus long aftermath. It does not jump from successful test straight to Book 3 hook.
 
 **Pass 3 Character/Clue/Continuity — PASS.**
-- Twelve operators: Kade, Aya, Mara, Sera, Julian, Eli, Taren, Jonas, Arjun, Neema, Nessa, Ren.
+- Twelve operators: Kade, Aya, Mara, Sera, Julian, Eli, Taren, Jonas, Arjun, Imani, Nessa, Ren.
 - Taren participates under explicit security scope; this is evidence, not forgiveness/reinstatement.
 - Aya is medically stopped and the network survives.
 - Kade is absent from useful portions of the mission.
@@ -131,9 +133,9 @@ Still OPEN:
 - whether rendezvous window is deliberately created or merely exploited;
 - long-term limits/interference of large rotating Consensus architectures.
 
-# Required pre-production micro-cleanup
-Before production lock, remove four explicit drafting-scaffold references in Chapters 31–34. These are line-level immersion repairs only; they do not block story completion or require plot restructuring.
+# Required pre-production micro-cleanup — RESOLVED
+The original four-site estimate was incomplete. The final reconciliation removed every catalogued scaffold/meta site in Chapters 31–34 and the earlier manuscript, plus two adjacent leaks found during the independent sweep. No plot restructuring was required.
 
 # Final verdict
 **BOOK 2 NARRATIVE DRAFT COMPLETE THROUGH CHAPTER 34.**
-Next phase: whole-book exact count/density audit, continuity + name audit, Rule 6 reveal audit, cadence/tic cleanup, scaffold-line cleanup, state/clue ledger reconciliation, family-clean audit, audio-first listening pass, then production lock.
+Whole-book count/density, continuity/name, Rule 6, cadence, scaffold, state/clue, family-clean and textual audio-first audits are complete. The manuscript is a production-lock candidate pending a recommended final human proof/listening pass.

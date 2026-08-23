@@ -32,7 +32,7 @@ Mara noticed the municipal route map.
 
 Julian noticed a Kisiwa student give up his seat to an older passenger without being asked.
 
-Aya, who had joined the international circuit for the Kisiwa and Vahana legs after three days of administrative negotiation, noticed all of them noticing different things.
+Aya, who had joined the international circuit for the remaining legs after three days of administrative negotiation, noticed all of them noticing different things.
 
 “Good,” she said.
 
@@ -212,7 +212,7 @@ Kade followed with the others.
 
 The student turned.
 
-“Neema Mwangi.”
+“Imani Mwangi.”
 
 She was eighteen, maybe nineteen, with short braids, a compact responder pack, and the expression of someone who had been told visiting students were coming and had not yet decided whether this was useful.
 
@@ -220,7 +220,7 @@ She was eighteen, maybe nineteen, with short braids, a compact responder pack, a
 
 “I know.”
 
-Neema pointed at the pack on Sera’s shoulders.
+Imani pointed at the pack on Sera’s shoulders.
 
 “Asterion Response issue?”
 
@@ -236,7 +236,7 @@ Sera looked at him.
 
 “I said nothing.”
 
-Neema looked between them.
+Imani looked between them.
 
 Kade said, “She made me carry it nine flights.”
 
@@ -244,7 +244,7 @@ Kade said, “She made me carry it nine flights.”
 
 “I had opinions.”
 
-Neema nodded.
+Imani nodded.
 
 “Corrective education.”
 
@@ -434,7 +434,7 @@ One student had mud dried to both knees.
 
 Another smelled faintly of ozone.
 
-Neema sat with Sera.
+Imani sat with Sera.
 
 David Okello joined them carrying the toolbox Kade had seen on the bus route.
 
@@ -552,7 +552,7 @@ Samwel turned in his seat.
 
 “That is not wrong.”
 
-Neema heard him.
+Imani heard him.
 
 “Do not encourage him.”
 
@@ -578,7 +578,7 @@ A fight over what prestige should buy.
 
 The second combat student said, “My scholarship requires top-eight regional placement. If civic rotation takes twelve hours a week from training, that matters.”
 
-Neema answered, “And if your field work cannot operate around a live electrical crew, that should matter too.”
+Imani answered, “And if your field work cannot operate around a live electrical crew, that should matter too.”
 
 Peter looked at Sera.
 
@@ -610,7 +610,7 @@ Peter leaned back.
 
 Sera said, “If you are training to compete, train to compete. If you are training to lead field crews during emergencies, then knowing how those crews work is not a distraction.”
 
-Neema looked pleased.
+Imani looked pleased.
 
 Sera noticed and immediately looked annoyed at being noticed.
 
@@ -666,7 +666,7 @@ Aya worked with a paired-control water-balancing crew.
 
 Eli disappeared into a microgrid lab with Asha.
 
-Sera left campus with Neema for a supervised response rotation.
+Sera left campus with Imani for a supervised response rotation.
 
 Kade received a leaking irrigation valve.
 
@@ -784,7 +784,7 @@ Good.
 
 “What happened?” he asked.
 
-Neema came around the vehicle carrying two empty medical cases.
+Imani came around the vehicle carrying two empty medical cases.
 
 “Warehouse stair collapse. Minor injuries. Mostly access problem.”
 
@@ -802,7 +802,7 @@ Focused after the fact.
 
 The way she looked after a difficult fight she believed had mattered.
 
-Neema said, “Vale found the secondary entrance.”
+Imani said, “Vale found the secondary entrance.”
 
 Sera shook her head.
 
@@ -812,7 +812,7 @@ Sera shook her head.
 
 “That is not the same as finding it.”
 
-Neema looked at Kade.
+Imani looked at Kade.
 
 “She does this.”
 
@@ -890,7 +890,7 @@ Sera’s contribution existed inside the event without becoming the headline.
 
 She stood beneath the board reading the review notice.
 
-Neema joined her.
+Imani joined her.
 
 “You coming?”
 
@@ -916,7 +916,7 @@ Kade stopped two meters away.
 
 “Kiyomizu changed my definitions.”
 
-Neema looked between them.
+Imani looked between them.
 
 Sera said, “He means useful.”
 
@@ -924,7 +924,7 @@ Sera said, “He means useful.”
 
 Sera almost smiled.
 
-Then she left with Neema.
+Then she left with Imani.
 
 Kade watched her go.
 

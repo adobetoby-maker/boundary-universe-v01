@@ -384,7 +384,7 @@ Kade laughed without humor.
 
 “And measured them.”
 
-“Yes.”
+“It measured them too.”
 
 “Secretly.”
 
@@ -514,7 +514,7 @@ Still angry.
 
 “Was Meridian watched because I was there?”
 
-“Yes.”
+“The model began watching after House Trial.”
 
 There.
 
@@ -772,7 +772,7 @@ Aaron did not evade.
 
 “Sen?”
 
-“Yes.”
+“Sen approved its continuation.”
 
 Kade’s jaw tightened.
 
@@ -1060,7 +1060,7 @@ Kade continued.
 
 “Did they know the academy was using the underlying behavior to identify people for precursor-style cooperative research?”
 
-“No.”
+“They did not.”
 
 “Then do not tell me the visible score made it honest.”
 
@@ -1078,7 +1078,7 @@ Mara asked, “Is the hidden layer still active?”
 
 Sen looked at her.
 
-“Yes.”
+“It still operates.”
 
 Kade laughed.
 
@@ -1088,7 +1088,7 @@ Kade laughed.
 
 “Still active.”
 
-“Yes.”
+“Within those limits, yes.”
 
 “What does it do now?”
 
@@ -1098,7 +1098,7 @@ Kade laughed.
 
 Sen was quiet.
 
-“No.”
+“Not yet.”
 
 Mara nodded once.
 

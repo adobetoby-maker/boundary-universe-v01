@@ -828,7 +828,7 @@ Just the system.
 
 On the return flight Kade did not get sick.
 
-He considered this his most important progression event of the day.
+He considered this his most important achievement of the day.
 
 Eli disagreed.
 

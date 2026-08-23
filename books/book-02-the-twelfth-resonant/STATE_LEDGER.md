@@ -1,6 +1,6 @@
 # STATE LEDGER — BOOK 2 OPENING
 
-**Status: PROVISIONAL until Book 2 prose establishes details.**
+**Status: OPENING BASELINE. Book 2 prose is complete; current end-state canon is in `FINAL_STATE_SUPPLEMENT.md`.**
 
 ## Time / world state
 - Book 2 begins after the three-month aftermath covered in Book 1 Chapter 33.

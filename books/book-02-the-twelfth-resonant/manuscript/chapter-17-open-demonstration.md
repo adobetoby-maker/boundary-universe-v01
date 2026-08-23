@@ -62,7 +62,7 @@ Jonas Falk at four.
 
 Arjun Rao at five.
 
-Neema Mwangi at six.
+Imani Mwangi at six.
 
 Kade had station one.
 
@@ -174,7 +174,7 @@ Arjun.
 
 Responsibility states became clearer: who owned which transition, what had been handed off, what remained pending.
 
-Neema.
+Imani.
 
 The system acquired mission priority.
 
@@ -202,7 +202,7 @@ Too late.
 
 Jonas changed a power route.
 
-Neema changed access priority.
+Imani changed access priority.
 
 Arjun handed maintenance-platform control to Mara.
 
@@ -264,7 +264,7 @@ Kade rubbed his temple.
 
 “Everybody is very helpful.”
 
-Neema said, “You want less?”
+Imani said, “You want less?”
 
 “No.”
 
@@ -276,7 +276,7 @@ Good.
 
 Park made them wait twelve minutes.
 
-Kade hated medical competence because it operated on timelines unrelated to narrative tension.
+Kade hated medical competence because it refused to become faster when he was worried.
 
 His headache remained a three.
 
@@ -292,7 +292,7 @@ Jonas complained the sensors were cold.
 
 Arjun asked whether complaints counted as medical symptoms.
 
-Neema said only if they became useful.
+Imani said only if they became useful.
 
 The cameras waited.
 
@@ -316,13 +316,13 @@ Jonas said yes after hearing the rule.
 
 Arjun said yes.
 
-Neema said, “If the task still matters more than proving the network.”
+Imani said, “If the task still matters more than proving the network.”
 
 Kade smiled.
 
 “That should be written on every lab wall.”
 
-Neema did not smile.
+Imani did not smile.
 
 She meant it.
 
@@ -334,13 +334,13 @@ Aya described the new rule.
 
 Jonas nodded immediately.
 
-“If my power change affects Neema, she must receive the dependency directly, not through Kade.”
+“If my power change affects Imani, she must receive the dependency directly, not through Kade.”
 
 Arjun said, “Handoff states publish to affected operators.”
 
 Mara said, “Geometry changes publish locally.”
 
-Neema said, “Mission-priority changes require explicit confirmation from whoever inherits the consequence.”
+Imani said, “Mission-priority changes require explicit confirmation from whoever inherits the consequence.”
 
 Kade looked at the structure forming in language before any field activated.
 
@@ -408,7 +408,7 @@ Jonas.
 
 Arjun.
 
-Neema.
+Imani.
 
 Six minds remained six minds.
 
@@ -428,9 +428,9 @@ Arjun acknowledged.
 
 Jonas rerouted power.
 
-The dependency reached Neema.
+The dependency reached Imani.
 
-Neema said no.
+Imani said no.
 
 Not disagreement with Jonas.
 
@@ -478,7 +478,7 @@ Authority over one decision class.
 
 Arjun acknowledged.
 
-Neema acknowledged.
+Imani acknowledged.
 
 Jonas acknowledged.
 
@@ -532,7 +532,7 @@ Arjun saw the power state directly.
 
 Mara saw geometry.
 
-Neema saw mission impact.
+Imani saw mission impact.
 
 Aya saw the changed edges.
 
@@ -590,7 +590,7 @@ Correct domain.
 
 No argument.
 
-Neema changed the mission priority.
+Imani changed the mission priority.
 
 “Finish crossing. Drop nonessential load frame three.”
 
@@ -614,7 +614,7 @@ Eleven.
 
 The platform reached the safe zone.
 
-Neema said, “Mission complete.”
+Imani said, “Mission complete.”
 
 Kade released.
 
@@ -722,7 +722,7 @@ Jonas answered a question about prediction.
 
 Arjun answered one about handoff.
 
-Neema answered one about mission priority.
+Imani answered one about mission priority.
 
 Mara answered one about field geometry.
 
@@ -832,7 +832,7 @@ The team ate in Helix’s dining hall with local students.
 
 Jonas had returned to the experiment after medical review and claimed withdrawal had been the best part because everyone had to prove they did not need his prediction layer.
 
-Neema said that was an unhealthy way to describe friendship.
+Imani said that was an unhealthy way to describe friendship.
 
 Arjun said it was an excellent way to describe engineering.
 

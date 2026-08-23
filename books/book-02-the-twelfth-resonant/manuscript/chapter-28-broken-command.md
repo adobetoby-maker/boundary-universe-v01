@@ -104,7 +104,7 @@ The tug commander said over comms, “Which order has priority?”
 
 Silence.
 
-Kade felt the whole chapter turn.
+Kade felt the problem turn.
 
 Not power problem.
 
@@ -376,13 +376,99 @@ Not complete rescue by one system.
 
 A chain.
 
-The far-side array tracked *Peregrine Six*.
+The far-side array acquired *Peregrine Six* on three sectors.
+
+The first solution failed validation.
+
+One sector had treated the platform’s own thermal plume as a stable reference.
+
+Zhou killed the packet before Vahana could use it.
+
+On the tug, Commander Ortiz heard only, “Navigation solution withdrawn.”
+
+The stars beyond the forward port had finally stopped wheeling.
+
+That made the blindness worse.
+
+The tug was stable enough to fly and unable to prove where the safe corridor began.
+
+One crew member held a checklist against the panel with both hands because anything released drifted toward the air intake.
+
+Another watched the propellant estimate fall from twelve percent to eleven.
+
+Ortiz asked, “Time to next solution?”
+
+Zhou looked at the array team.
+
+No one offered hope as data.
+
+“Ninety seconds minimum.”
+
+The national controller said, “Continue platform approach under inertial guidance.”
+
+The crew-safety channel said, “Hold thrust and preserve return reserve.”
+
+Two valid orders again.
+
+Julian reached for the authority board.
+
+“Ortiz owns immediate flight safety,” he said. “Platform control owns capture corridor. No corridor exists until navigation quality passes.”
+
+The national controller objected.
+
+Julian did not out-rank her.
+
+He pointed to the conflict rule all three agencies had accepted nine minutes earlier.
+
+Ortiz said, “Holding thrust.”
+
+The tug held its uncertain attitude.
+
+Kade watched the crew feed.
+
+He could not make the array solve faster.
+
+He could not turn uncertainty into authority.
+
+He could stay present while someone else carried both.
+
+Eli moved beside Zhou.
+
+“Sector four can replace the contaminated reference if Vahana solves angular rate before position.”
+
+“That gives them an incomplete state,” Zhou said.
+
+“Label it incomplete.”
+
+Vahana accepted the partial handoff.
+
+Angular rate first.
+
+Position confidence later.
+
+The second packet crossed the network with its missing dimensions visible.
+
+Ortiz read it aloud.
+
+“Rate solution good. Position degraded. I can trim the residual drift without committing to approach.”
+
+“Your decision,” Julian said.
+
+Ortiz fired two short pulses.
+
+The reference markers on the crew feed steadied.
+
+The propellant display reached nine percent.
+
+Then held.
+
+The third array solution passed.
 
 Vahana converted phase data into relative motion.
 
 Lunar response maintained crew safety.
 
-The national agency coordinated platform capture.
+The national agency rebuilt the platform capture corridor around the new approach state.
 
 No institution did the whole job.
 

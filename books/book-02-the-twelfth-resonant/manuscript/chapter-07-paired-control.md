@@ -404,7 +404,7 @@ Aya stood two lanes away with Keiko Matsuda.
 
 Ren and Nao were in the next heat.
 
-Julian had been paired with Daichi for the event. Eli had declined because he wanted to observe Jun Park’s instrumentation team. Sera and Akari had entered a response-oriented course in another hall.
+Julian had been paired with Daichi for the event. Eli had declined because he wanted to observe Jun Seo’s instrumentation team. Sera and Akari had entered a response-oriented course in another hall.
 
 Different people.
 
@@ -744,7 +744,7 @@ The problem was surviving one beam becoming unavailable.
 
 Mara said, “My cross-support limit is thirty-two percent.”
 
-“Kade support thirty-eight. Shared target pulls left.”
+Kade answered, “Mine is thirty-eight. Shared target pulls left.”
 
 They moved.
 

@@ -86,7 +86,7 @@ Kade hated it.
 
 Good compromise.
 
-Cell C contained Kade, Aya, Mara, Julian, Eli, and Neema.
+Cell C contained Kade, Aya, Mara, Julian, Eli, and Imani.
 
 Not because they were the six most important people.
 
@@ -102,7 +102,7 @@ Julian — failure ordering under time pressure.
 
 Eli — machine-state interpretation.
 
-Neema — mission priority and human consequence.
+Imani — mission priority and human consequence.
 
 Sera remained outside Consensus as response lead.
 
@@ -122,7 +122,7 @@ He watched from an approved observer room with no access to live control channel
 
 That also mattered.
 
-The story did not repair his consequences just because he had made one good choice.
+Refusing the Directorate did not repair his consequences just because he had made one good choice.
 
 Aaron watched from medical support with Park close enough to end his participation in the briefing if he tried to become useful through exhaustion.
 
@@ -218,7 +218,7 @@ Sera said, “You said that about a circuit board last week.”
 
 “Love is not zero-sum.”
 
-Neema stared at him.
+Imani stared at him.
 
 Eli stopped speaking.
 
@@ -248,7 +248,7 @@ Julian: zero.
 
 Eli: one, from lack of sleep, which Park disliked more than the number justified.
 
-Neema: zero.
+Imani: zero.
 
 Park looked at Kade.
 
@@ -294,7 +294,7 @@ Eli sighed.
 
 “Or because the machine is interesting.”
 
-Neema.
+Imani.
 
 “Mission complete means release even if more information is available.”
 
@@ -336,7 +336,7 @@ Julian said, “No priority persists after its decision class ends.”
 
 Confirmed.
 
-Neema said, “If task completes, we release even if the signal is still interesting.”
+Imani said, “If task completes, we release even if the signal is still interesting.”
 
 Confirmed.
 
@@ -360,7 +360,7 @@ Julian.
 
 Eli through direct haptic interface instead of remote bridge this time.
 
-Neema.
+Imani.
 
 Kade last.
 
@@ -386,7 +386,7 @@ Eli carried machine state.
 
 Julian carried failure ordering.
 
-Neema carried mission consequence.
+Imani carried mission consequence.
 
 Aya carried edge consistency.
 
@@ -460,7 +460,7 @@ The system should decide what kind of failure it could afford before the stronge
 
 He let that thought go.
 
-Eli was the hardest to hold.
+Kade found Eli the hardest to hold.
 
 Not because he resisted.
 
@@ -492,7 +492,7 @@ Painful.
 
 Necessary.
 
-Neema carried the simplest question.
+Imani carried the simplest question.
 
 What is the mission right now?
 
@@ -542,7 +542,7 @@ Cell D asked whether the anomaly could indicate external response.
 
 Kade almost answered.
 
-Neema’s mission state sharpened.
+Imani’s mission state sharpened.
 
 “We do not know.”
 
@@ -621,7 +621,7 @@ Julian published failure order:
 3. retain opportunity to observe;
 4. do not increase visibility unnecessarily.
 
-Neema accepted.
+Imani accepted.
 
 Mara accepted.
 
@@ -669,7 +669,7 @@ No.
 
 Good question.
 
-Neema asked whether the signal required an answer.
+Imani asked whether the signal required an answer.
 
 Unknown.
 
@@ -767,7 +767,7 @@ Kade felt how easy it would be to convert shared state into persuasive authority
 
 They could say the network recommended one choice and make six people's agreement sound like objective physics.
 
-Neema challenged that before anyone spoke.
+Imani challenged that before anyone spoke.
 
 “Our cell does not own transmit.”
 
@@ -819,8 +819,6 @@ Daedalus confirmed receiver state.
 
 Four sources.
 
-Rule Six fairness even in science.
-
 A final packet arrived.
 
 Longer than the others.
@@ -863,7 +861,7 @@ Eli’s contribution sharpened.
 
 “We need one more frame comparison.”
 
-Neema said, “Mission complete for our scope.”
+Imani said, “Mission complete for our scope.”
 
 “We have not decoded it.”
 
@@ -883,7 +881,7 @@ Aya agreed.
 
 Julian agreed.
 
-Neema agreed.
+Imani agreed.
 
 Eli took one second longer.
 
@@ -897,7 +895,7 @@ The signal did not return.
 
 The mission continued without them.
 
-That was the payoff.
+That was the point.
 
 The universe did not require Consensus to keep existing.
 
@@ -919,7 +917,7 @@ Julian drank water slowly.
 
 Eli looked at the screens like someone had removed food while he was still hungry.
 
-Neema looked relieved.
+Imani looked relieved.
 
 Six different reactions.
 
@@ -1095,7 +1093,7 @@ Aya said, “Possibly.”
 
 Julian said, “None changes the next decision yet.”
 
-Neema was not there, but Kade could hear her influence in the sentence.
+Imani was not there, but Kade could hear her influence in the sentence.
 
 Good.
 

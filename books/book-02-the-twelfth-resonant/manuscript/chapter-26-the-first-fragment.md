@@ -412,7 +412,7 @@ That was almost worse.
 
 ---
 
-The chapter’s real turn came the next morning.
+The decisive evidence arrived the next morning.
 
 Mara arrived with a newly declassified routing index from Helix.
 

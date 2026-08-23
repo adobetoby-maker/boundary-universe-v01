@@ -238,7 +238,7 @@ The Continuity Directorate had built an ideology around centralized control.
 
 The Refuge Node may have survived by doing the opposite.
 
-That contradiction would matter later.
+That contradiction remained unresolved.
 
 Not today.
 
@@ -308,11 +308,7 @@ Emergency transfers manually rerouted.
 
 He hated that answer.
 
-The book had trained him for it.
-
-No.
-
-The year had.
+The year had trained him for it.
 
 ---
 
@@ -818,7 +814,7 @@ Zhou continued.
 
 “It appears to predict a geometry condition. A window when Earth, the current survivor reference, and the relay corridor enter a more favorable relational state.”
 
-Kade felt the final-act shape click into place.
+Kade felt the shape click into place.
 
 Not attack.
 

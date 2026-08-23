@@ -162,7 +162,7 @@ That expectation survived almost seven minutes.
 
 ---
 
-Neema said yes.
+Imani said yes.
 
 Arjun said yes with one condition: handoff state could be public, but raw communications timestamps had to be binned enough that flight-procedure habits could not be reverse-engineered.
 
@@ -332,7 +332,7 @@ Not names removed.
 
 Identity removed only if the remaining data could not reconstruct it.
 
-Eli said, “We have the same problem with Neema. Her mission-priority transitions are recognizable if you know the Kisiwa curriculum.”
+Eli said, “We have the same problem with Imani. Her mission-priority transitions are recognizable if you know the Kisiwa curriculum.”
 
 Kade looked at the release package.
 
@@ -420,7 +420,7 @@ Not one yes.
 
 Several.
 
-Neema allowed aggregate mission-priority state and authority assignments but withheld communications content.
+Imani allowed aggregate mission-priority state and authority assignments but withheld communications content.
 
 Arjun allowed handoff/dependency data with timing coarsened.
 
@@ -786,7 +786,7 @@ Mara continued.
 
 There.
 
-Chapter Seven again.
+The paired-control failure all over again.
 
 Different system.
 

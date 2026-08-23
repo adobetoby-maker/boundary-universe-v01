@@ -5,8 +5,8 @@ Book 1 developmental/prose polish is complete enough for the audio-production pa
 
 Book 2 drafting is active on `draft/book-02-four-pass`.
 
-**Narrative draft status: COMPLETE through Chapter 34.**
-Chapters 31–34 have completed the final six-pass ending audit at story level. A small set of line-level drafting-scaffold phrases remains for production cleanup; no plot restructuring is required.
+**Narrative draft status: COMPLETE through Chapter 34; outside review reconciled.**
+The full manuscript has completed the final six-pass ending audit plus an attributed Claude outside review and independent reconciliation. Scaffold/meta leaks, audio name collisions, Chapter 20 cadence peaks and two compressed payoff scenes were repaired. No known story-level, continuity, clue-fairness, scaffold or Book 3 protection blocker remains.
 
 ## Read before touching Book 2
 1. `CANON_RULES.md`
@@ -23,7 +23,9 @@ Chapters 31–34 have completed the final six-pass ending audit at story level. 
 12. `BSBC_REVIEW_CH01_10.md`
 13. `SIX_PASS_ATTESTATION_CH20_30.md`
 14. `FINAL_ENDING_SIX_PASS_AUDIT.md`
-15. `planning/BSBC_PASS6.md`
+15. `reviews/OUTSIDE_REVIEW_CLAUDE_2026-08-23.md`
+16. `FINAL_OUTSIDE_REVIEW_RECONCILIATION.md`
+17. `planning/BSBC_PASS6.md`
 
 ## Chapter drafting protocol — SIX PASSES
 Every chapter completes six passes before attestation:
@@ -61,20 +63,21 @@ Humanity adopts phased, scoped response authority rather than one irreversible p
 ### 34 — Twelve
 Title payoff: `Twelfth Resonant` is not a person or rank. Twelve is an interoperable rotating network with no permanent center or mandatory operator. Aya and Kade reject hierarchy. The network survives Aya withdrawal and periods when Kade is not needed. Sera leaves for Kisiwa without becoming abandonment. Final hook: one confirmed pulse from the survivor's avoided-reference direction.
 
-## Immediate next task — WHOLE-BOOK CLOSURE
+## Whole-book closure status
 Do **not** draft Chapter 35. There is no Chapter 35.
 
-Next actions:
-1. exact chapter-by-chapter word-count / density audit;
-2. whole-book payoff-density audit, especially 23–24 and 29–34;
-3. remove explicit drafting-scaffold/meta phrases identified in `FINAL_ENDING_SIX_PASS_AUDIT.md` plus prior Ch16/Ch19 scaffold lines;
-4. proper-noun/name collision audit (Sen/Park class of defect);
-5. Rule 6 reveal audit for survivor, visibility, rendezvous window, Twelve architecture and avoided-reference pulse;
-6. update Book 2 state/clue ledgers from facts actually on-page;
-7. cadence/tic audit for bare `Yes.` / `No.` and repeated deadpan constructions at emotional peaks;
+Completed:
+1. exact whole-book word-count / density diagnostic;
+2. payoff-density reconciliation with targeted Ch23 and Ch28 expansion;
+3. whole-manuscript drafting-scaffold/meta sweep and repair;
+4. proper-noun/name collision audit and four minor-name repairs;
+5. Rule 6 audit for survivor, visibility, rendezvous window, Twelve architecture and avoided-reference pulse;
+6. state/clue ledger reconciliation;
+7. cadence/tic audit with narrow Chapter 20 repair;
 8. family-clean audit;
-9. whole-book audio-first/listening pass;
-10. production lock only after the above are clean.
+9. textual audio-first audit for speaker/POV/name clarity.
+
+Remaining production recommendation: one final human proof/listening pass before recording or publication.
 
 ## Book 2 thematic sentence
 **Trust is not permission to control.**

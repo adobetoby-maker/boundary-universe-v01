@@ -420,7 +420,7 @@ Silence sounded neutral only if you ignored who had authority to impose it.
 
 “Exactly.”
 
-Kade thought of the whole book.
+Kade thought about the rules they had spent all year learning.
 
 Consent scoped to purpose.
 
