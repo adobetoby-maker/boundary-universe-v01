@@ -22,7 +22,7 @@
 | 5 | House Meridian | 5,400 | Passes 1–6 complete — 5,431 words |
 | 6 | Forty-Seven Seconds | 5,600 | Passes 1–6 complete — 5,668 words |
 | 7 | The Suppression Order | 4,900 | Passes 1–6 complete — 4,912 words |
-| 8 | The Ladder | 5,800 | Pending |
+| 8 | The Ladder | 5,800 | Passes 1–6 complete — 5,832 words |
 | 9 | Meridian Night | 4,800 | Passes 1–6 complete — 4,852 words |
 | 10 | Vector Class | 5,200 | Passes 1–6 complete — 5,268 words |
 | 11 | The Broken Floor | 5,900 | Passes 1–6 complete — 5,919 words |

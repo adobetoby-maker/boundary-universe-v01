@@ -602,6 +602,260 @@ Eli stopped typing.
 
 ---
 
+The next afternoon, Mason Cole posted a challenge from 9,982.
+
+Kade recognized the name before Eli turned the tablet around.
+
+Mason had been the first student to beat him in Simulation Hall Four. Seventy-eight seconds. Three corrections Kade had understood only after they stopped mattering.
+
+The listing remained open to everyone inside its rank band.
+
+Eli had already highlighted it green.
+
+“Good opponent profile,” he said. “Comparable reach. Strong fundamentals. His Redirection gives him an advantage at contact, but his last four wins came against people who chased his hands.”
+
+“I chased his hands.”
+
+“You chased everyone’s hands.”
+
+“Past tense feels optimistic.”
+
+Eli enlarged the schedule beneath the challenge.
+
+“You have not trained today. Recovery score is acceptable. No class conflict. Hale is supervising the session.”
+
+Kade looked at the green outline.
+
+For once, the fight he wanted was also the fight the model liked.
+
+That made him suspicious.
+
+“What are we missing?”
+
+Eli’s eyebrows rose.
+
+“Did you just ask that before accepting?”
+
+“Do not make it unpleasant.”
+
+“His ranking has risen too,” Eli said. “The first bout is not evidence that he stayed still while you learned.”
+
+There it was.
+
+Kade accepted.
+
+Mason met him at the lower arena gate with the same relaxed expression he had worn in the simulation.
+
+“You fixed your stance,” Mason said.
+
+“People kept insulting it.”
+
+“Effective instruction.”
+
+The arena floor was a twelve-meter square with a blue center mark and a white boundary strip wide enough to make exits undeniable. No transparent dividers. No neighboring bouts. Hale stood at the control rail with one hand near the abort panel.
+
+Mason’s field clearance appeared above his gate.
+
+**REDIRECTION — ACTIVE**
+
+Kade’s side remained blank except for the yellow restriction banner.
+
+Mason glanced up at it.
+
+“You want me to go without field?”
+
+The offer caught Kade off guard.
+
+He considered it.
+
+“Would you normally?”
+
+“No.”
+
+“Then use it.”
+
+Mason nodded.
+
+No gratitude. No performance of fairness. He had asked which fight they were agreeing to, and Kade had answered.
+
+Hale gave them the stop condition: first to three boundary points, clean contact only, no head strikes, and any symptom from Kade ended the match whether Kade agreed or not.
+
+“That last part seems targeted,” Kade said.
+
+“It is,” Hale replied.
+
+They took their marks.
+
+The signal sounded.
+
+Mason did not offer the same opening as before.
+
+Of course he didn’t.
+
+He pressed Kade’s left side, forced a high guard, and turned Kade’s block against him. Redirection changed the angle of Kade’s own resistance. His shoulder rotated, his stance opened, and Mason guided him onto the white strip with almost insulting efficiency.
+
+One-zero.
+
+Kade reset at center.
+
+The old mistake waited for him.
+
+Watch the hands. Find the trick. Solve the ability.
+
+Instead, he dropped his attention to Mason’s hips.
+
+Second exchange.
+
+Mason reached.
+
+Kade gave him no rigid contact to redirect. He let his guard yield, moved his feet first, and returned through the space Mason had expected him to contest.
+
+Mason turned in time.
+
+Kade did not score.
+
+Neither did Mason.
+
+They separated.
+
+Mason’s smile widened.
+
+“Better.”
+
+Third exchange.
+
+Mason shortened his steps. Kade matched him without crossing his feet. Mason tested the right pivot that had failed in Kade’s early footage.
+
+Kade gave ground.
+
+One step.
+
+Then stopped before the retreat became a route.
+
+Mason had already committed to closing it.
+
+Kade stepped outside his lead leg and put a palm against his shoulder.
+
+Mason crossed the strip.
+
+One-one.
+
+Eli struck one line from the model and began another.
+
+The fourth exchange went to Mason when Kade planted too hard and gave the Redirection field something solid to use.
+
+Two-one.
+
+The fifth went to Kade when Mason assumed the same correction would work twice.
+
+Two-two.
+
+Hale called a thirty-second equipment check.
+
+Kade walked to his gate, breathing hard.
+
+Eli held the tablet where Kade could read it without leaving the arena.
+
+**COLE CHANGES ENTRY AFTER KADE YIELDS CONTACT**
+
+Beneath it, Eli had written:
+
+**KADE STILL TREATS TIED SCORE AS EMERGENCY**
+
+Kade looked up.
+
+“Subjective.”
+
+“Observable.”
+
+Hale signaled them back.
+
+Final exchange.
+
+Kade’s body wanted speed.
+
+The score had turned thirty seconds into a deadline even though the match clock showed two minutes remaining.
+
+Mason knew it.
+
+He waited with his weight centered and his hands low, ready for Kade to manufacture urgency and bring it to him.
+
+Kade breathed once.
+
+Then again.
+
+He did not enter.
+
+Ten seconds passed.
+
+Mason shifted first.
+
+Not an attack. A step meant to improve his angle.
+
+Kade moved with it.
+
+Mason tried to catch his wrist. Kade let the hand go, denied the shoulder contact behind it, and held center.
+
+Mason changed direction.
+
+Kade held center again.
+
+The arena became smaller around Mason one unremarkable step at a time.
+
+No trick.
+
+No anomaly.
+
+Mason reached the boundary and tried to turn Kade’s pressure sideways.
+
+Kade was not pressing.
+
+He was standing where the exit needed to be.
+
+Mason’s heel touched white.
+
+The buzzer sounded.
+
+Three-two.
+
+For a moment Kade remained at center, lungs burning, with nothing impossible in the telemetry.
+
+Mason walked back from the strip and offered his hand.
+
+“Fundamentals,” he said.
+
+Kade took it.
+
+“I was hoping they would become optional.”
+
+“They get more expensive.”
+
+The board recalculated.
+
+**KADE MERCER — 9,982**
+
+The number mattered.
+
+But Mason’s first point mattered more.
+
+Kade had fixed several visible habits. Mason had arrived with different questions anyway.
+
+Improvement had not made the old lesson unnecessary.
+
+It had made the lesson available under pressure.
+
+At the gate, Eli added a line beneath **LESSON TRANSFER**.
+
+“What now?” Kade asked.
+
+“Opponent transfer.”
+
+Kade looked back at Mason, who was reviewing the final exchange with Hale instead of leaving.
+
+“Keep that too.”
+
+---
+
 The model gained a fatigue column.
 
 Then recovery time.
@@ -714,9 +968,7 @@ A grin appeared.
 
 ---
 
-9,982 came two days later.
-
-Then 9,604.
+9,604 came two days later.
 
 The wins did not arrive in a montage when Kade actually lived them.
 
@@ -1251,6 +1503,204 @@ He went to class.
 That felt less exciting than winning.
 
 It also felt like learning.
+
+That evening Elena called while Kade was icing his ribs and pretending the ice was preventive.
+
+She wore dark blue scrubs and sat beneath the humming light of a hospital break room. A paper cup rested beside her tablet. Someone had written **NIGHT SHIFT SURVIVORS** on the wall cabinet behind her and drawn four increasingly desperate faces underneath.
+
+Her eyes moved from Kade’s face to the edge of the ice pack.
+
+“What happened?”
+
+“Training.”
+
+“That answer has never reassured a nurse.”
+
+Kade adjusted the tablet so the ice pack disappeared from view.
+
+Elena waited.
+
+He put it back.
+
+“I lost a challenge yesterday.”
+
+“How badly?”
+
+“Three-one.”
+
+“I meant the ribs.”
+
+“Also three-one.”
+
+“Kade.”
+
+“Bruised. Medical cleared them. Full breathing range, no fracture signs, no anomalous event, no neurological symptoms.”
+
+Elena studied him long enough to verify the list was not improvisation.
+
+“And today?”
+
+“I declined one.”
+
+“Because of the ribs?”
+
+“Because every person with useful information said I should rest.”
+
+“You listened to all of them?”
+
+“Eventually.”
+
+She picked up the paper cup.
+
+“Should I call the academy? This may be a neurological event.”
+
+Kade smiled despite himself.
+
+Through the small break-room window behind her, a figure in green scrubs crossed the hall at a run. Elena tracked the movement until the person passed, attention dividing without becoming careless.
+
+“Was declining difficult?” she asked.
+
+Kade looked toward Eli’s tablet on the desk.
+
+The unaccepted challenge had expired seventeen minutes earlier. Another student had taken it. The result already sat on the public feed.
+
+“Nothing happened,” he said.
+
+“That was not my question.”
+
+He pressed the ice against the sorest rib.
+
+“There were about four hundred people at the fight I lost.”
+
+“That many?”
+
+“The other student has followers.”
+
+“Do they walk behind him?”
+
+“Online followers.”
+
+“I know what followers are.”
+
+“You asked if they walked behind him.”
+
+“I was hoping Asterion had improved the concept.”
+
+Kade laughed, then stopped because of the ribs.
+
+Elena’s expression tightened.
+
+“Still cleared,” he said.
+
+“Continue.”
+
+He looked down at his hands.
+
+“I knew he wanted the audience. That was the point of challenging me. Everyone told me. I accepted because I wanted the same thing if I won.”
+
+Elena said nothing.
+
+She was good at that when silence made lying require more work.
+
+“Today was a better matchup,” Kade continued. “Higher rank. I wanted to prove yesterday did not matter.”
+
+“Did it?”
+
+“Apparently enough to make me want to fight injured.”
+
+“Bruised.”
+
+“You just spent five minutes calling them ribs.”
+
+“Precision is situational.”
+
+Kade shifted in the chair.
+
+The expired challenge result updated again as the rating system settled. The winner had gained one hundred nine places.
+
+Kade could picture his own name there too easily.
+
+“Declining was worse after somebody else won,” he said.
+
+Elena nodded.
+
+Not approval. Recognition.
+
+“At the hospital, people love test results when the number improves,” she said. “When it does not, suddenly numbers are an insult to human complexity.”
+
+“That sounds medically irresponsible.”
+
+“It is extremely human.”
+
+She leaned closer to the screen.
+
+“Do you want the ranking?”
+
+Kade’s first answer arrived quickly.
+
+It was a joke.
+
+He let it pass.
+
+“Yes.”
+
+The word sat between them without defense.
+
+Elena’s face softened.
+
+“Then want it,” she said. “Just do not make every hour prove you deserve to.”
+
+The break-room door opened. A gray-haired doctor leaned in and lifted two fingers.
+
+Elena raised one finger back.
+
+One minute.
+
+An owned limit.
+
+“I have to go,” she said. “Show me the ribs tomorrow if the bruising spreads.”
+
+“That seems incompatible with calling.”
+
+“Photograph.”
+
+“Absolutely not.”
+
+“Then visit medical.”
+
+“Fine.”
+
+“And Kade?”
+
+He waited.
+
+“I am glad you care about something enough to be foolish.”
+
+“That sounds like bad parenting.”
+
+“I am less glad about the foolish part.”
+
+The doctor appeared in the doorway again.
+
+Elena stood.
+
+“Ice twenty minutes, then off.”
+
+“Yes, Nurse Mercer.”
+
+“Do not use my title sarcastically while ignoring the instruction.”
+
+“I would never.”
+
+She gave him the look that had survived seventeen years of evidence.
+
+Then the call ended.
+
+Kade set a twenty-minute timer.
+
+Before sleeping, he opened Eli’s model and added one note to the challenge-quality column.
+
+**Winning is not the only reason a fight can be expensive.**
 
 Sera continued stealing food.
 
