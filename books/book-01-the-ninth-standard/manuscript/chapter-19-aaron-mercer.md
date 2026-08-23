@@ -92,15 +92,141 @@ The room smelled faintly of dust and coolant.
 
 “Because old systems are terrible,” Eli said. “And important systems are immortal.”
 
-Mara sat at the first terminal.
+The compatibility room had six terminals and twelve chairs, as if the academy expected the dead software to become popular again. A printed sign beside the door instructed students to request faculty supervision before connecting external storage. Someone had added a second sign beneath it in marker.
 
-Modern search filters returned nothing for Aaron Mercer.
+**THE PRINTER IS NOT EXTERNAL STORAGE. STOP ASKING.**
 
-So they searched the precursor program identifier instead.
+Eli read both signs.
 
-The screen paused long enough to make all three of them hold still.
+“Good news,” he said. “The institution remains prepared for every emergency except the one we have.”
 
-Then a roster appeared.
+Mara had already disconnected the nearest terminal from the academy network.
+
+Kade looked at the dark cable in her hand.
+
+“You know how to use this system?”
+
+“My father collects obsolete things and calls them dependable.”
+
+“Including software?”
+
+“Especially software. It cannot contradict him if nobody supports it anymore.”
+
+She set the cable on the table where all three of them could see it.
+
+The choice mattered. Offline, the terminal could read its local index without reporting their queries to the modern search service. It also could not retrieve anything the room had not cached.
+
+Eli pulled a maintenance binder from beneath the desk.
+
+“We do this in order,” he said. “Public index first. No credentials, no bypasses, no exploiting whatever security failure preserved this thing. If a door is already open, we look through it. We do not make a new door.”
+
+Kade glanced at him.
+
+“That speech sounded rehearsed.”
+
+“I live with you.”
+
+Mara powered on the terminal.
+
+The machine clicked, hummed, and displayed a date eleven years in the past. She corrected it without connecting to the network. Eli found a narrow strip of thermal paper in the binder and fed it into a printer mounted beneath the desk.
+
+“Why paper?” Kade asked.
+
+“Because screenshots have metadata,” Mara said.
+
+“Paper has fingerprints.”
+
+“Then try not to commit a crime while holding it.”
+
+The first query returned two hundred and twelve entries for *Mercer*.
+
+Kade leaned toward the screen.
+
+Payroll disputes. Student applications. A donor named Mercer who had funded a desalination pump and apparently expected the pump to be named after him. Six publications with Mercer in the citations.
+
+No Aaron.
+
+Mara narrowed the date range.
+
+Seventy-one results.
+
+Eli searched the archive marker’s catalog prefix in the maintenance binder. The prefix belonged to an import batch, not a department.
+
+“They moved the records,” he said.
+
+“When?”
+
+“No date. The old catalog was ingested into the current one, then partially reconciled. Anything the new system could not classify stayed in a compatibility table.”
+
+Kade looked at the long list of ordinary Mercers.
+
+“So the record survived because the new archive did not know what to do with it.”
+
+“Never underestimate institutional confusion,” Eli said. “Sometimes it is the only thing protecting the evidence.”
+
+They searched the catalog prefix.
+
+The terminal asked for a media family.
+
+Mara tried personnel.
+
+Nothing.
+
+Eli tried research administration.
+
+Nothing.
+
+Kade looked again at the original line on Mara’s tablet.
+
+**ASTERION PRECURSOR PROGRAM**
+
+Not academy.
+
+Not research department.
+
+Something the archive treated as older than both.
+
+“Facilities,” he said.
+
+Mara turned toward him.
+
+“Why?”
+
+“Because if the program existed before the academy, the current archive might treat the whole thing like part of the site.”
+
+Eli selected legacy facilities.
+
+One result appeared.
+
+Not Aaron’s record.
+
+A conversion log.
+
+Seven media boxes had been entered under the precursor-program identifier. Five were marked destroyed after water damage. One had been transferred to a classified repository. The last had no disposition at all.
+
+Mara printed the log.
+
+The thermal printer screamed for six seconds and produced a pale gray strip.
+
+Kade took it carefully.
+
+“One box.”
+
+“One box the system lost track of,” Eli corrected.
+
+“That sounds better.”
+
+“It is not better.”
+
+“It is to me.”
+
+Mara entered the orphaned box number.
+
+The terminal paused.
+
+Its cooling fan climbed until the desk vibrated under Kade’s palms.
+
+Then an unreconciled roster opened.
 
 Most names were replaced by black classification bars.
 
@@ -232,6 +358,58 @@ Kade already knew the answer was probably yes in theory and terrible in practice
 
 “Right,” he said.
 
+Mara printed the index entry.
+
+The paper came out in broken lines, every other field interrupted by a black rectangle. She laid it beside the conversion log and aligned the box numbers.
+
+“The reauthorization belongs to the same intake record,” she said. “It is not a later annotation.”
+
+“Meaning?”
+
+“Meaning we know when the word entered the system. Not what it meant.”
+
+Kade wanted the difference to be pedantic.
+
+It was the only honest difference in the room.
+
+Eli opened the roster’s data dictionary. Most field definitions pointed to a server that no longer existed. The few stored locally were worse than useless.
+
+**SUBJECT AND PARTICIPANT: OPERATIONAL ROLE VARIES**
+
+**REAUTHORIZED: SEE GOVERNING INSTRUMENT**
+
+**CONTINUITY: SEE PROGRAM AUTHORITY**
+
+Each definition used three more concealed things to explain the first.
+
+Kade tapped *governing instrument*.
+
+The terminal requested a credential.
+
+Mara caught his wrist before his finger reached the keyboard again.
+
+Not hard.
+
+Enough.
+
+“Open door,” she said. “Not a new one.”
+
+Kade looked at her hand and then at Eli.
+
+Eli had not moved, but his coffee sat forgotten beside the maintenance binder.
+
+Both of them were waiting for him to decide.
+
+Kade pulled his hand back.
+
+“Open door.”
+
+Mara released him.
+
+He hated that restraint could look exactly like surrender from inside his own body.
+
+He hated more that Sen had made him question who got to name the difference.
+
 Mara searched for Contact Zero.
 
 The terminal returned only a classification notice.
@@ -334,13 +512,99 @@ The anger did not vanish.
 
 It changed direction.
 
-“They came to the apartment?”
+“Where was I?”
 
-“Yes.”
+Elena’s breath caught against the phone.
 
-“You never told me that.”
+“In the apartment.”
 
-“No.”
+“You let them come in while I was there?”
+
+“I did not let them do anything. They knocked. When I opened the door, one of them said Aaron’s full name and told me to sit down.”
+
+Kade pressed his palm flat against the wall.
+
+“Where was I?”
+
+“In the blue chair by the window. You had learned how to pull yourself up but not how to get down. You kept dropping a wooden spoon and shouting until I gave it back.”
+
+The detail entered the stairwell with them.
+
+A blue chair Kade knew only from photographs.
+
+His mother at twenty-four—only seven years older than Mara was now—opening the door to men who already knew her husband would not come home.
+
+A baby turning a spoon into the largest available emergency.
+
+“How many men?”
+
+“Two. Dark suits. No uniforms.”
+
+“Names?”
+
+“They showed identification too quickly for me to remember. One spoke. The other walked through the apartment looking at everything.”
+
+“Looking for what?”
+
+“I asked. He did not answer.”
+
+Kade’s fingers curled against the concrete.
+
+“Did he touch anything?”
+
+“The photographs on the shelf. Aaron’s drafting case. The kitchen door.”
+
+“Why the kitchen door?”
+
+“I don’t know. He opened it and stood there for a while.”
+
+Elena went quiet.
+
+When she continued, her voice had the controlled flatness she used when telling an emergency-room story that still had blood in it.
+
+“The one who spoke put an envelope on the coffee table. He said there had been a containment failure at a private industrial site. Aaron had been supporting a federal research partnership. There had been no recoverable remains.”
+
+Kade swallowed.
+
+“He said that in front of me.”
+
+“You were a baby.”
+
+“I was still there.”
+
+“I know.”
+
+“What did you do?”
+
+“I asked him to say it again.”
+
+Kade shut his eyes.
+
+Of course she had.
+
+Elena continued.
+
+“He repeated the same words. Exactly. I asked where the site was. He said the location was classified. I asked who had been with Aaron. He said the personnel list was classified. I asked who had identified him if there were no remains.”
+
+“What did he say?”
+
+“He pointed at the envelope.”
+
+Paper shifted on Elena’s end of the call.
+
+Kade pictured her in their apartment, at the narrow kitchen counter where bills and grocery lists accumulated beneath a chipped ceramic bowl.
+
+“Do you still have it?”
+
+“The envelope is in the box.”
+
+“I never opened the envelope.”
+
+“You opened the death certificate. The rest is under the cardboard insert.”
+
+There had been a second layer to the box.
+
+Even the box had kept a secret from him.
 
 “Did you see a body?”
 
@@ -363,6 +627,32 @@ Silence.
 “Yes.”
 
 He thought of the dead watch in the box.
+
+“What else?”
+
+“His wallet. Keys. The mechanical pencil he carried everywhere. A ring he wore on his right hand when he worked.”
+
+Kade knew all four objects.
+
+The wallet was thin brown leather with Aaron’s expired transit card still inside. The keys opened nothing Elena owned. The pencil had teeth marks along the metal barrel. The ring was a plain steel band too large for any of Kade’s fingers when he first found it and almost the right size now.
+
+“Did the things prove it?” he asked.
+
+“They proved someone had emptied his pockets.”
+
+The answer came without hesitation.
+
+“Why keep the keys?”
+
+“Because throwing them away would mean agreeing there was nothing left for them to open.”
+
+Kade lowered his head.
+
+He had held those keys at twelve and dismissed them as an adult’s failure to clean out a drawer.
+
+“Mom.”
+
+“I know.”
 
 “Did you believe them?”
 
@@ -393,6 +683,138 @@ Kade’s mouth had gone dry.
 Elena went quiet.
 
 “Amara Sen.”
+
+The name remained between them.
+
+Kade could hear a cart rolling past Elena at the hospital. A voice asked her something. Elena answered, “Two minutes,” with the authority that made most people believe she could control time.
+
+Then a door closed on her end.
+
+“Tell me exactly what she said.”
+
+“I cannot give you exactly. It was seventeen years ago.”
+
+“Tell me what you remember.”
+
+Elena let out a breath.
+
+“She came after dark. It was raining. Not dramatically, before you say anything. Ordinary rain.”
+
+“I wasn’t going to say anything.”
+
+“You inherited your face from him. I know when something is coming.”
+
+Kade’s mouth opened.
+
+Then closed.
+
+That had always been a harmless sentence.
+
+It was not harmless anymore.
+
+Elena continued.
+
+“She had no umbrella and no coat. Her hair was wet. She looked exhausted. I almost did not let her inside.”
+
+“Why did you?”
+
+“She said Aaron used to call me Len when he wanted me to stop being angry.”
+
+Kade did not know that name.
+
+“Did it work?”
+
+“Never.”
+
+The answer came close to a laugh and failed.
+
+“She knew other things. The burn on his left thumb. The notebook he kept in the freezer because he said no reasonable person would search there. She described the way he drew a box around equations he did not trust.”
+
+“So she proved she knew him.”
+
+“She proved she had access to details about him.”
+
+The distinction sounded like Kade.
+
+Or perhaps Kade sounded like her.
+
+“Did she say she was from Asterion?”
+
+“She called it the Asterion site. Never the academy.”
+
+“Did she say Directorate?”
+
+“No.”
+
+“Continuity?”
+
+Elena paused.
+
+“Maybe. I remember her saying that Aaron had protected the continuity of something. I thought she meant the research.”
+
+Kade looked down at the archive image.
+
+**TRANSFERRED — ASTERION SITE — PROJECT CONTINUITY**
+
+“What did she want from you?”
+
+“Silence.”
+
+“What did she offer?”
+
+“Nothing.”
+
+“Protection?”
+
+“She said people would monitor the official file for anyone who refused the accident story. She said questions would create attention. She did not promise to stop it.”
+
+“And you believed her.”
+
+“I believed she was afraid.”
+
+“That is not the same thing.”
+
+“At twenty-four, with you asleep in the next room, it was close enough.”
+
+Kade pushed away from the wall and walked down three steps. The call shifted between towers, filling his ear with a brief rush of static.
+
+“Did you ask if he was alive?”
+
+Elena’s answer took too long.
+
+“I asked whether she had been there when he died.”
+
+“That is not what I asked.”
+
+“It is what I asked her.”
+
+“What did she say?”
+
+“She said she had been there when the project ended.”
+
+The careful sentence belonged to the Sen Kade knew.
+
+True along an edge too narrow to stand on.
+
+“And you let her leave?”
+
+“I threw a glass at the door after she closed it.”
+
+Kade stopped on the landing.
+
+“You threw a glass.”
+
+“It was a bad glass.”
+
+Despite everything, a sound escaped him.
+
+Small.
+
+Broken in the middle.
+
+His mother heard it.
+
+Neither of them pretended it was laughter.
 
 The stairwell seemed to tilt.
 
@@ -519,6 +941,144 @@ Kade stared at the stairwell wall.
 Elena laughed softly, and the sound hurt.
 
 “He said the shelf had misunderstood gravity.”
+
+“What did you say?”
+
+“I told him gravity had understood perfectly and he was avoiding the question.”
+
+“Did he explain?”
+
+“He tried.”
+
+“That sounds different.”
+
+“It was. He drew three diagrams on the back of an electricity bill. Two contradicted each other. Then he got a nosebleed and insisted it was dust.”
+
+Kade touched two fingers beneath his own nose.
+
+No blood now.
+
+Only the remembered heat after the training floor broke and the copper taste at the back of his throat.
+
+“That happened often?”
+
+“The nosebleeds? Near the end, sometimes. Headaches too. He said the lab lights were bad.”
+
+Kade looked toward the narrow stairwell fixture overhead.
+
+White plastic cage.
+
+Cheap light.
+
+Nothing special.
+
+“Did you believe that?”
+
+“I believed he needed me to. There is a difference.”
+
+Another answer Elena had carried alone.
+
+“Why didn’t you tell me any of this when my headaches started?”
+
+“Because until your test, your headaches looked like the headaches of a teenager who slept four hours and lived on cafeteria fries.”
+
+“That remains a strong diagnosis.”
+
+“It does.”
+
+The familiar rhythm held for one exchange.
+
+Then Elena said, “After Northline called me, I took the box out.”
+
+“Why?”
+
+“To see if I had missed something.”
+
+“Did you?”
+
+“Everything looks like something after you have a reason to be afraid of it.”
+
+Kade sat on the next step.
+
+Below him, the stairwell descended through three more landings. Above him, Mara waited without pretending not to listen.
+
+“Tell me one thing that has nothing to do with Asterion.”
+
+Elena went quiet.
+
+“About him,” Kade said. “Something that isn’t Resonance or classified or useful.”
+
+“He could not cook rice.”
+
+Kade frowned.
+
+“Rice is mostly water and patience.”
+
+“He distrusted both.”
+
+“That cannot be true.”
+
+“He burned the bottom and left the top raw. Every time.”
+
+“How many times did you let him try?”
+
+“More than was reasonable. He treated the pot like a system he could solve.”
+
+Kade put his elbow on his knee.
+
+“What else?”
+
+“He sang when he was doing dishes.”
+
+“Well?”
+
+“No.”
+
+“What songs?”
+
+“Whatever was on the radio, but he never knew the words. He invented technical lyrics and claimed they were improvements.”
+
+“That sounds terrible.”
+
+“It was terrible.”
+
+The warmth in her voice made the landing too small.
+
+“He carried mints and never ate them. He fixed things before asking whether I wanted them fixed. He hated being photographed unless he was the one holding the camera. He could make you furious and then ask one question that proved he had listened to every word.”
+
+Elena stopped.
+
+Kade waited through the hospital silence on her end.
+
+“He wanted you,” she said.
+
+Kade’s hand tightened around the phone.
+
+“You don’t have to make him better for me.”
+
+“I am not.”
+
+“You don’t know what he chose.”
+
+“Neither do you.”
+
+The answer struck cleanly because it was true.
+
+Elena continued before he could turn it into an argument.
+
+“Wanting you does not prove he did right by us. It does not prove anything except that he wanted you. You asked for something ordinary. That is ordinary.”
+
+Kade looked down at his empty hand.
+
+He had no memory of Aaron holding it.
+
+No voice attached to the photographs.
+
+Now he had burned rice and bad songs.
+
+It was not enough.
+
+It was more than he had possessed that morning.
 
 Kade closed his eyes.
 
@@ -666,13 +1226,139 @@ That was irritating enough to work.
 
 Kade went.
 
-Professor Amadi discussed load paths for fifty minutes.
+Professor Amadi had scheduled fifty minutes on load paths.
 
 Of course she did.
 
 Kade sat in the third row hearing every sentence through the phrase *my father was Zero*.
 
-A beam distributed force across four supports.
+Each pair of students had a tabletop truss, four weighted blocks, and a tray of ceramic failure tabs. The exercise was supposed to make an invisible load path visible: build the frame, predict which tab would crack first, then keep adding weight until the prediction became expensive.
+
+Kade’s lab partner was a Sol second-year who labeled every component before touching it. She slid the worksheet between them.
+
+“You calculate. I’ll assemble?”
+
+“Fine.”
+
+Kade wrote the first equation.
+
+The force diagram turned into the precursor roster.
+
+One load entering through a point nobody had labeled correctly.
+
+One support transferred somewhere else.
+
+One entire system built around the assumption that a missing piece was gone.
+
+“Mercer.”
+
+He looked up.
+
+His partner pointed at the page.
+
+Kade had copied the same value into two different supports.
+
+“That one should be negative,” she said.
+
+“Right.”
+
+He corrected it.
+
+They built the truss. She seated each connector with her thumbnail and checked the alignment from table level. Kade placed the first block where his calculation indicated.
+
+The wrong tab snapped.
+
+The sound was tiny.
+
+Kade flinched hard enough to strike the tray with his wrist.
+
+Three intact tabs scattered across the floor.
+
+Two students turned.
+
+His partner did not. She crouched and began gathering the pieces.
+
+“The diagonal was carrying more than the model said,” Kade told her.
+
+“The model said exactly how much it was carrying.”
+
+He looked at the page.
+
+The negative sign he had added sat in front of the correct number.
+
+The next line still used the wrong value.
+
+“I propagated the error.”
+
+“You did.”
+
+No comfort.
+
+No accusation.
+
+Just a failed tab and a fact.
+
+They reset the frame.
+
+Kade tried again.
+
+This time the equations stayed equations for almost a minute. His partner loaded the first block. Then the second.
+
+Across the aisle, somebody’s frame collapsed and earned a cheer. Professor Amadi told them structural failure was not a sporting event. The room quieted for four seconds.
+
+Kade placed the third block.
+
+The frame held.
+
+His partner said his name again.
+
+The fourth block remained in her open hand.
+
+“Sorry.”
+
+“Do we load it?”
+
+Kade looked at the frame.
+
+He could not remember which tab they had predicted.
+
+“Give me a second.”
+
+She waited.
+
+Waiting made it worse. The whole class continued around the two of them: weights settling, tabs breaking, students arguing over arithmetic. Everyone else’s invisible forces remained ordinary enough to calculate.
+
+Kade pushed the worksheet toward her.
+
+“Check me.”
+
+She traced the numbers with one finger.
+
+“You dropped the lateral component.”
+
+Again.
+
+He had built the same absence into the system twice.
+
+“Right.”
+
+She removed the third block before the frame could fail.
+
+“Do you need to go?”
+
+The answer rose automatically.
+
+*No.*
+
+Kade held it behind his teeth.
+
+“Probably.”
+
+“Then why are you still here?”
+
+He had no useful response.
+
+On the board, a beam distributed force across four supports.
 
 A failure in one changed the others.
 
@@ -850,15 +1536,55 @@ Then smiled.
 
 “House liaison notices.”
 
-Plausible.
+“Show me.”
 
-Too plausible.
+Taren’s expression held.
 
-Kade stared.
+“The notice?”
 
-Taren lifted both hands.
+“You said House liaison notices. Open it.”
 
-“You asked.”
+Behind them, the Commons doors opened and released a group returning from afternoon drills. Conversation crossed the room, then thinned as the students dispersed toward the lifts.
+
+Taren took out his tablet.
+
+He scrolled through the House channel with the screen angled toward Kade. Meal assignments. A maintenance closure. Training-room reservations. An advisory about visiting officials that named no agency.
+
+Taren tapped it.
+
+**EXPECT LIMITED ADMINISTRATIVE ACCESS DURING EXTERNAL SECURITY REVIEW.**
+
+“No Directorate,” Kade said.
+
+“The liaison briefing was more specific.”
+
+“Which liaison briefing?”
+
+Taren locked the screen.
+
+Half a second too late.
+
+“Upper-year captains get additional context.”
+
+“You are not a captain.”
+
+“I help with scheduling.”
+
+Another plausible answer.
+
+Kade had spent months admiring Taren’s ability to know where everyone would be before they arrived.
+
+Now every useful thing about him had acquired a second edge.
+
+“Did the briefing mention Project Continuity?” Kade asked.
+
+Taren’s eyes moved to the archive printout still folded in Kade’s hand.
+
+“I don’t know what that is.”
+
+This answer came slower.
+
+Kade filed the difference beside everything else.
 
 The name meant nothing yet.
 
