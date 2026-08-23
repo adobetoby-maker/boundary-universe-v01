@@ -282,6 +282,176 @@ Kade left.
 
 ---
 
+He made it down two flights before Park caught up with him.
+
+“Medical.”
+
+Kade kept walking.
+
+“I was in medical yesterday.”
+
+“Yesterday you could not identify yesterday.”
+
+He stopped.
+
+Park stood one step above him, which made the height difference unnecessarily authoritative.
+
+“I got one answer wrong.”
+
+“Then today should be easy.”
+
+The medical wing placed him in the same examination room as before. Same white walls. Same reclining chair. Same instrument cart pretending not to contain needles.
+
+This time Park handed him the tablet.
+
+“Read the authorization line.”
+
+**POST-EVENT NEUROLOGICAL BASELINE — NO FIELD PROVOCATION**
+
+Kade looked at her.
+
+“You wrote ‘no field provocation’ twice.”
+
+“The first one is for the clinician.”
+
+“The second?”
+
+“For you.”
+
+Park tested his pupils under three light levels. She made him follow a moving point, tap alternating shapes, repeat seven numbers backward, and place six images in the order they had appeared.
+
+He put the fourth image third.
+
+Park recorded it.
+
+“That was close.”
+
+“Close is not a neurological category.”
+
+She gave him a grip sensor.
+
+Kade squeezed.
+
+The line on the wall trembled near the top.
+
+He tightened his hand harder.
+
+The tremor worsened.
+
+Park took the sensor away.
+
+“I can hold it.”
+
+“You can hide it inside more force.”
+
+The sentence stayed with him.
+
+Park pulled up two traces. One from the hour after the fight. One from now.
+
+The first shook visibly.
+
+The second did not, unless he knew where to look.
+
+“Improved,” she said. “Not resolved.”
+
+“How long until it is resolved?”
+
+“I do not know.”
+
+“That answer seems popular here.”
+
+“It is more useful than a false one.”
+
+Kade set the tablet on his knees.
+
+“What exactly gets me cleared?”
+
+Park opened a new page.
+
+“Stable neurological baselines. No temporal errors. No recurrent headache or tremor. Controlled activity without unexplained transfer. A training plan Hale can stop without arguing with you for six minutes.”
+
+“Five.”
+
+“Six.”
+
+“Was someone timing?”
+
+“Several people.”
+
+She turned the page toward him. The criteria were written there, including who owned each decision and where Kade could request review.
+
+Medical clearance belonged to Park.
+
+Field clearance belonged to Hale.
+
+The restriction itself belonged to Sen.
+
+Three separate signatures.
+
+Three separate ways to remain stuck.
+
+Also three separate decisions he could challenge instead of one invisible wall.
+
+“Can I have this?” he asked.
+
+“It is your record.”
+
+That answer surprised him.
+
+“All of it?”
+
+“The order, criteria, source traces, and every change made after today.”
+
+“Northline did not hand students the evidence used to restrict them.”
+
+“Most students do not ask.”
+
+Park showed him the export control.
+
+The file included a revision history. Sen could alter the order, Park could add findings, and Hale could record training decisions, but none of them could replace an earlier entry.
+
+Kade sent a copy to his personal account.
+
+The restriction did not become fair because it was documented.
+
+It became possible to prove if someone changed the bargain.
+
+Park tapped the symptom log.
+
+“There is one part you own.”
+
+“Reporting.”
+
+“Accurate reporting. A headache you conceal is not evidence of recovery.”
+
+“And if I report every headache, I stay restricted.”
+
+“Possibly.”
+
+Kade stared at the criteria.
+
+The unfair part was that she was right.
+
+The worse part was that being right gave her power over something he wanted.
+
+Park waited without softening either fact.
+
+Kade opened the symptom log.
+
+Under **CURRENT**, he selected **HAND TREMOR — MILD**.
+
+“There,” he said.
+
+Park locked the entry.
+
+“There.”
+
+The order was still a wall.
+
+At least now it had doors.
+
+---
+
 The order was private for approximately forty-seven minutes.
 
 By lunch, half of Meridian knew.
@@ -548,6 +718,178 @@ He was beginning to understand that getting better involved an irritating amount
 
 ---
 
+The next thing nobody applauded was observation duty.
+
+Hale sent Kade to the north rail above acceleration lab with a tablet and three instructions.
+
+Identify one decision.
+
+Name one constraint.
+
+Propose one correction.
+
+“Do not diagnose field behavior you cannot sense,” Hale added.
+
+“That removes most of the interesting nouns.”
+
+“Use verbs.”
+
+Below them, three six-meter lanes ran between force plates. Each student had to cross the lane, pass through offset gates at two and four meters, then stop inside a marked square without touching its edge.
+
+Fastest clean time won.
+
+Priya took the center lane.
+
+Her first run took one-point-eight seconds.
+
+Kade wrote: **RIGHT FOOT LOADS BEFORE EVERY START.**
+
+Hale read over his shoulder.
+
+“Decision?”
+
+“She commits from the right foot.”
+
+“Constraint?”
+
+“She needs the floor to push against.”
+
+“Correction?”
+
+Kade started typing.
+
+Stopped.
+
+*Do not load the foot* would be advice for flying.
+
+Priya reset.
+
+Second run.
+
+Same stance.
+
+Same right-foot load.
+
+One-point-seven-nine.
+
+Nessa stood at the final gate with a perception trace open across her Conduit display.
+
+She raised one hand.
+
+“Again.”
+
+Priya frowned but returned to the start.
+
+Third run.
+
+One-point-eight-one.
+
+Nessa crossed to the rail.
+
+“She loads twenty-two hundredths before release,” she said.
+
+Kade looked at the three times.
+
+“All three?”
+
+“Within one hundredth.”
+
+“So the foot is not the problem.”
+
+Nessa glanced at his note.
+
+“The regularity is.”
+
+Kade changed the first line.
+
+**DECISION: SAME COMMIT TIMING BEFORE EVERY START.**
+
+The constraint remained.
+
+Priya needed a planted foot. Removing the load removed the acceleration.
+
+The correction took longer.
+
+“Change when she commits,” Kade said. “Not how.”
+
+Hale folded his arms.
+
+“Testable version.”
+
+Kade looked at the gates.
+
+“Make the ready window variable. If her time gets worse, the fixed count is doing part of the work.”
+
+Hale changed the start tone from a steady three-count to a random interval between two and five seconds.
+
+Priya’s next run took two-point-zero-four.
+
+She crossed the stop square and turned toward the rail.
+
+“Who changed it?”
+
+Hale pointed at Kade.
+
+Priya put both hands on her hips.
+
+“You have fought one official match.”
+
+“I had time to study it from the floor.”
+
+“You think I should remove the load?”
+
+“No. I think you should stop announcing when it begins.”
+
+Nessa held up her trace.
+
+“He is right about the timing. Not the announcement. I could measure it. He could only predict it because you used the same count against him.”
+
+The distinction mattered.
+
+Kade had not uncovered a universal weakness.
+
+He had recognized one repeated decision because Priya had made it while hitting him.
+
+Priya returned to the line.
+
+On the next attempt, her foot loaded early.
+
+She held the pressure.
+
+Released late.
+
+One-point-nine-two.
+
+Slower than her best.
+
+Still clean.
+
+Kade entered the result.
+
+**CORRECTION CREATES TIMING VARIATION AT 0.12-SECOND COST.**
+
+Hale approved the observation.
+
+“I made her worse,” Kade said.
+
+“You made one choice harder to read.”
+
+Below them, Priya tried again.
+
+This time she released early.
+
+The first gate clipped her shoulder and sounded a fault tone.
+
+Priya looked up at Kade.
+
+He lifted one thumb.
+
+She answered with one thumb pointed firmly down.
+
+Observation duty ended before Kade could improve his response.
+
+---
+
 At dinner, Priya Shah sat across from him without invitation.
 
 A few conversations nearby quieted.
@@ -608,6 +950,200 @@ Kade resented her for it.
 
 A little.
 
+At 20:06, he called Elena.
+
+She answered from a supply corridor at St. Vincent with a box of examination gloves braced against one hip.
+
+“You’re at work.”
+
+“Astute.”
+
+“I can call later.”
+
+Elena shifted the box and studied his face.
+
+“You called instead of waiting for me. Talk.”
+
+Kade turned the camera toward Meridian’s common room.
+
+Students filled the tables behind him. Nobody looked interested in his conversation, which meant several people were listening with professional skill.
+
+He moved into the stairwell.
+
+“They suspended field training.”
+
+Elena’s grip changed on the box.
+
+“For how long?”
+
+“Pending review.”
+
+“That is not a duration.”
+
+“I said something similar.”
+
+“Who signed it?”
+
+“Sen. Park controls medical clearance. Hale controls field clearance.”
+
+“Send me the order.”
+
+Kade leaned against the wall.
+
+“You are going to call them.”
+
+“I am going to read it.”
+
+“Then call them.”
+
+“Possibly.”
+
+“Mom.”
+
+Elena set the glove box on the floor.
+
+“Did they give you written criteria?”
+
+Kade hesitated.
+
+“Yes.”
+
+“Did they prohibit everything?”
+
+“No field work. No ranked challenges. No trying to reproduce it.”
+
+“What can you do?”
+
+He recited the list with increasing irritation.
+
+Conditioning.
+
+Academics.
+
+Tactical theory.
+
+Combat observation.
+
+Footwork.
+
+Grappling.
+
+Conduit theory.
+
+Elena waited until he finished.
+
+“That sounds like quite a lot.”
+
+“You are supposed to be on my side.”
+
+“I am.”
+
+“Poorly.”
+
+“Kade, your hands were shaking when you called me last night.”
+
+His left hand closed out of frame.
+
+Elena’s eyes dropped anyway.
+
+There were disadvantages to being raised by a nurse.
+
+“Park tested me again,” he said.
+
+“And?”
+
+“Better. Not resolved.”
+
+“Your words or hers?”
+
+“Hers.”
+
+“Do you disagree?”
+
+Kade looked through the stairwell glass at the ocean beyond the commons.
+
+“No.”
+
+It cost more to say to Elena than it had to select the symptom on Park’s form.
+
+She picked up the box again.
+
+“Send me everything anyway.”
+
+“Why, if they’re right?”
+
+“Because safety rules still need limits. Because you should know who decides when they end. Because being frightened for you does not make every institutional decision correct.”
+
+Kade straightened.
+
+Elena continued.
+
+“And because if they change the terms, I want the first version.”
+
+That sounded less like the nurse.
+
+More like someone who had learned to keep records before Kade was born.
+
+“Okay.”
+
+“Daily calls.”
+
+“That was already the agreement.”
+
+“Daily honest calls.”
+
+“That is invasive.”
+
+“Including the embarrassing symptom.”
+
+Kade looked at his hand.
+
+“Fine.”
+
+“That did not sound like a promise.”
+
+He could have made the word easy.
+
+Instead he made it true.
+
+“I promise.”
+
+Elena nodded.
+
+Someone called her name from beyond the camera.
+
+“I have to go.”
+
+“I know.”
+
+“Eat something.”
+
+“Priya Shah supervised dinner.”
+
+Elena paused.
+
+“The girl you fought?”
+
+“She remains tragically uninjured.”
+
+“Good.”
+
+“Again, support.”
+
+Elena smiled.
+
+“Tomorrow, Kade.”
+
+“Tomorrow.”
+
+The call ended.
+
+He sent the order, the clearance criteria, and Park’s baseline report before he could decide any of them were too private.
+
+Then he returned to the common room and ate the dessert Sera claimed she had not saved for him.
+
+---
+
 The next replacement session was academic.
 
 Conduit Theory I.
@@ -618,7 +1154,59 @@ Instead Professor Ife Amadi wrote one sentence across the wall.
 
 **A CONDUIT DOES NOT CREATE ABILITY. IT MAKES INTERACTION LEGIBLE.**
 
-Then she spent ninety minutes proving it.
+Then she gave the class two transfer diagrams.
+
+Both began with the same force.
+
+Both ended with a training platform rising exactly one meter.
+
+The first displayed every connection between the operator, Conduit, platform, floor, and stabilizing frame. The second showed one arrow from **INPUT** to **RESULT**.
+
+“Which system did more work?” Amadi asked.
+
+Half the class chose the first.
+
+The other half chose the second.
+
+Kade chose neither.
+
+Amadi selected his response.
+
+“Mercer has declined the question.”
+
+Twenty students turned toward him.
+
+“I dislike false choices,” Kade said.
+
+“A useful preference. Defend it.”
+
+He pointed to the platform height and force values.
+
+“Same input. Same result. The first diagram tells us where failure can happen. That does not mean the Conduit added work.”
+
+Amadi expanded the stabilizing frame in the first diagram.
+
+“And if this connection fails?”
+
+“The platform still rises.”
+
+“Success, then?”
+
+Kade traced the unbalanced load into the floor.
+
+“Not for whoever owns the floor.”
+
+Amadi looked at him for a beat.
+
+Then she changed one line in the diagram.
+
+The platform rose one meter.
+
+The simulated floor cracked beneath it.
+
+“Ability is the interaction,” she said. “A modern Conduit measures and exposes parts of that interaction so an operator can control them. It does not exempt the world from accounting.”
+
+The class spent the next hour labeling paths, limits, losses, and owners.
 
 Kade understood perhaps sixty percent.
 
