@@ -23,9 +23,10 @@ Targets live in that tracker -- never hardcode one from memory or from an
 earlier message. An earlier draft of this prompt carried hand-copied targets
 and every one of them was wrong.
 
-Scale of the job, so you do not mistake progress for completion: the book is
-at 101,298 of 187,000 words. All 33 chapters are under target. The shortfall
-is ~86,000 words. At one chapter per iteration this is a long run, and that
+Scale of the job, so you do not mistake progress for completion: the book
+started this loop at 101,298 of 187,000 words with all 33 chapters under
+target. Run done.sh for the CURRENT count -- this paragraph is a starting
+line, not a status. At one chapter per iteration this is a long run, and that
 is expected -- do not batch chapters to go faster.
 
 KNOWN RE-PASS ITEM -- ch32 Consensus. It hit its word target on the loop's
@@ -39,8 +40,11 @@ reported feeling.
 
 After the word targets, in order:
   - deadpan-reply tic at emotional peaks: ch20, 24, 25, 29, 32
-  - continuity: Dr. Amara Park (B2 ch2) -> Lian Park; Leela Sen -> Leela Nair;
-    Dr. Lian Zhou (B2 ch27) collides with Book 1's Lian Park
+  - continuity: ONE bug left of the three. Book 2's `Dr. Lian Zhou` collides
+    with Book 1's `Dr. Lian Park` -- same first name, both senior doctors, and
+    both now appear on-page together in B2 ch31/32/34. Rename Zhou.
+    (`Amara Park` and `Leela Sen` were both fixed in Book 2 on 2026-08-22 and
+    verified gone -- do not go looking for them.)
 
 ONE chapter per iteration, all six passes before you mark it done.
 
