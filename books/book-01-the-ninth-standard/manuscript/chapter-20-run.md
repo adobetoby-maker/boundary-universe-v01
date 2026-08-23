@@ -4,7 +4,7 @@ Kade packed in eleven minutes.
 
 Most of that time was spent finding socks.
 
-The efficiency should have felt satisfying.
+The efficiency should have been satisfying.
 
 One bag in.
 
@@ -24,7 +24,7 @@ Eli watched from the desk chair while Kade folded nothing and shoved everything 
 
 “You know this is a terrible plan.”
 
-“Yes.”
+“We agree.”
 
 “Good. I wanted to establish common ground.”
 
@@ -43,6 +43,64 @@ Kade pushed a shirt into the side pocket.
 Kade zipped the bag.
 
 The sound was louder than it needed to be.
+
+He checked the room for anything he might have mistaken for his.
+
+Two library books sat beneath Eli's chair. The chipped Meridian mug on the windowsill belonged to the House kitchen. The second blanket had come from a supply closet after the island temperature dropped in October, and Kade had never learned whether it was issued to him or merely appeared.
+
+His mechanical pencil lay beside the coupled-field notes Mara had lent him. He put the pencil in the bag and set the notes squarely in the middle of the desk.
+
+Eli followed the inventory with growing alarm.
+
+“You're returning objects.”
+
+“I don't want to steal Mara's notes.”
+
+“You have had those for six weeks. At this point they have tenancy.”
+
+Kade opened the top drawer. Spare charging cable. Three meal vouchers he had forgotten to use. A folded duty schedule with his name beside Thursday bell watch.
+
+He put the cable in the bag and left the schedule.
+
+Eli said, “Who is covering Thursday?”
+
+“Someone else.”
+
+“Excellent. I'll inform the House administrator that someone else has volunteered. We can list their contact information as *somewhere*.”
+
+Kade shut the drawer.
+
+“I'm not filling out a departure form.”
+
+“Then you aren't leaving. You're disappearing with luggage.”
+
+“The distinction seems administrative.”
+
+“Administration is how a hundred and eighty people know whether to search the ocean for you.”
+
+Kade's hand stopped on the drawer pull.
+
+Eli did not soften the sentence.
+
+Outside, someone ran down the corridor late for class. A door opened. A first-year shouted that the lift had stalled again, and three voices told him to take the stairs.
+
+The House kept operating around the possibility of Kade leaving it.
+
+He took his room key from his pocket and set it on the desk.
+
+Eli picked it up and tossed it back.
+
+Kade caught it against his chest.
+
+“You don't return that to me,” Eli said. “I don't run housing.”
+
+“You were the available representative.”
+
+“I reject the appointment.”
+
+Kade put the key in his pocket.
+
+That was not the same as keeping it.
 
 He had arrived at Asterion carrying almost nothing.
 
@@ -94,6 +152,40 @@ Eli looked uncomfortable.
 
 “You made it weird by looking at me like I have dimensions.”
 
+Kade moved closer to the projection.
+
+The red components formed a rough ring around the stabilizer core.
+
+“Why are those failing?”
+
+Eli glanced at the clock, as though Kade had chosen an inconvenient time to remain interested in his life.
+
+“They aren't failing. They're the parts I can't make cheaply enough. Commercial field sinks are precise because precision is expensive. Rescue crews don't need a device that can hold a surgical tolerance for six hours. They need one that survives being dropped down a stairwell and buys three minutes.”
+
+He expanded the power assembly. Two replacement designs unfolded beside it, both crossed out.
+
+“Three minutes for what?”
+
+“To lift a beam. Restart a pump. Move somebody past a live field. Depends on who uses it.”
+
+“And the fellowship lets you build it?”
+
+“The fellowship lets me break versions with the lab's money. Ideally one stops breaking before they notice the pattern.”
+
+Kade looked at the application deadline in the corner of the projection.
+
+Five days.
+
+Eli had built a future in the same room where Kade had packed his past into one bag.
+
+“You should put the stairwell part in the application.”
+
+“I did. In more respectable language.”
+
+“That seems dishonest.”
+
+“It is called grant writing.”
+
 Kade almost smiled.
 
 Then the bag reminded him why it was on his shoulder.
@@ -106,7 +198,7 @@ She looked at the duffel.
 
 Then Kade.
 
-“No.”
+“I won't lock the door.”
 
 Kade blinked.
 
@@ -132,7 +224,7 @@ Occupying it with intent.
 
 “You’re not actually going to stop me.”
 
-“No.”
+“Walk around me.”
 
 That sounded familiar.
 
@@ -184,7 +276,7 @@ Sera folded her arms.
 
 “I know this one.”
 
-“No, you don’t.”
+“You don’t.”
 
 “New school. New program. New people. Something goes wrong, and suddenly you were never invested anyway.”
 
@@ -214,11 +306,49 @@ Kade waited.
 
 “That sounds reasonable.”
 
-“It felt reasonable.”
+“It sounded reasonable.”
 
 “The difference?”
 
 “I liked people there.”
+
+She rubbed one thumb across a pale seam in the doorframe.
+
+“A girl named Imani waited outside my room every morning because she hated going into breakfast alone. I taught two kids how to get onto the laundry roof without setting off the window alarm. There was a maintenance man who saved the good cereal for Fridays.”
+
+Kade had never heard any of those names or facts.
+
+“When I left, I told myself none of it counted because the counselor had lied. That made the bag lighter.”
+
+“Did you tell them?”
+
+“Imani?”
+
+Kade nodded.
+
+“I left a note.”
+
+“That is not telling her.”
+
+“It isn't.”
+
+The answer carried no defense.
+
+Kade shifted the duffel strap higher. The canvas pressed across his collarbone.
+
+“Did she ever contact you?”
+
+“She mailed the note back. No message. Just my own handwriting in an envelope.”
+
+Sera looked directly at the bag.
+
+“I kept it.”
+
+Kade pictured a returned note without allowing himself to invent what it said.
+
+The counselor's lie could have been enough reason to leave.
+
+It had not made leaving cost nothing.
 
 Kade looked away.
 
@@ -296,10 +426,6 @@ Kade gripped the strap.
 
 “You think I should just stay?”
 
-“No.”
-
-He looked at her.
-
 “I think you should decide whether you want to stay after you’ve finished being angry.”
 
 That was worse advice because it made sense.
@@ -324,7 +450,7 @@ He did not unpack.
 
 Not yet.
 
-The three of them sat there in a silence that would have felt unbearable six months earlier.
+The three of them sat there in a silence that would have been unbearable six months earlier.
 
 Eventually Eli returned to his stabilization model.
 
@@ -418,11 +544,11 @@ Kade pointed at her.
 
 “You said decide after I finish being angry.”
 
-“Yes.”
+“I said that.”
 
 “I’m still angry.”
 
-“Yes.”
+“You are.”
 
 “So I’m going for a walk.”
 
@@ -465,6 +591,98 @@ Nobody stopped him.
 That was worse than being stopped.
 
 He passed the common room where Nessa and Anton were arguing about orbital-construction placements.
+
+Anton saw him through the open door.
+
+“Mercer. Tell her orbital welding is not a personality.”
+
+Nessa turned in her chair.
+
+“Tell him vacuum certification does not make him interesting.”
+
+They both registered the duffel.
+
+Anton lowered the placement brochure in his hand.
+
+“Are you switching rooms?”
+
+“Possibly islands.”
+
+Nessa's eyes narrowed. “For how long?”
+
+“I haven't decided.”
+
+The common room did not fall silent. A card game continued near the window. Someone at the long table asked for a power adapter. The orbital-placement projection rotated between Anton and Nessa, showing a construction frame against a curve of blue planet.
+
+Nessa tapped the projection off.
+
+“You're on bell watch Thursday.”
+
+Kade stared at her.
+
+“Eli mentioned that.”
+
+“Because you traded with me. I have my placement interview.”
+
+“Ask Anton.”
+
+Anton shook his head. “Prototype shop. Final materials test.”
+
+“Someone will cover it.”
+
+Nessa stood.
+
+“Who?”
+
+The same question Eli had asked.
+
+Kade looked toward the duty board beside the common-room door. Every week fit into a narrow grid: bell watch, kitchen close, training-floor reset, first-year escort. His name appeared three times. Thursday had Nessa's name crossed out beneath it.
+
+“If I withdraw, the House will reassign it.”
+
+“Have you withdrawn?”
+
+“Not yet.”
+
+“Then the House thinks you're coming back.”
+
+There was no accusation in her voice. Just the practical problem he had created by existing on a schedule.
+
+Kade pulled the stylus from the board.
+
+He could erase his name.
+
+He could write **OPEN** and make absence somebody else's emergency.
+
+Instead he added a small mark beside it: **CONFIRM BY 18:00**.
+
+Nessa read the note.
+
+“That is not coverage.”
+
+“It's a deadline.”
+
+“For you?”
+
+“Apparently.”
+
+Anton turned the placement projection back on.
+
+“If you're here at six, Nessa wins the argument.”
+
+“Which argument?”
+
+“All of them. It's safer if you return by five fifty-nine.”
+
+Nessa gave Anton a look that promised a future vacuum-related accident.
+
+Kade returned the stylus to its slot.
+
+Neither asked why he might leave. Neither volunteered to abandon what they wanted so he could do it cleanly.
+
+They simply required his choice to touch the same world everyone else lived in.
+
+He stepped back into the courtyard.
 
 Passed the training floor where Priya was teaching a younger student how to load acceleration without telegraphing the direction.
 
@@ -526,6 +744,42 @@ Cole checked his screen.
 
 “You are not under travel restriction.”
 
+He slid a blank transit slate across the desk.
+
+“Place your enrollment band here.”
+
+Kade did.
+
+The slate populated his name, medical clearance, emergency contact, and one line for destination after San Diego.
+
+He entered **UNDECIDED**.
+
+The field turned amber.
+
+Cole waited.
+
+Kade changed it to Elena's city.
+
+The field cleared.
+
+“Bag on the scale,” Cole said.
+
+Kade lifted the duffel onto the metal plate. Eight point three kilograms. Everything he had brought to Asterion, plus two school shirts and a charging cable.
+
+“No checked luggage. Seat fourteen.”
+
+“You assigned me a seat.”
+
+“You asked whether you could take the shuttle.”
+
+The desk printed a narrow boarding strip. Cole placed it beside Kade's band.
+
+**ASTERION–SAN DIEGO. GATE EAST TWO. BOARDING 11:42.**
+
+Kade picked it up.
+
+The paper made the question heavier than the bag.
+
 Kade had expected resistance.
 
 “What about Zero Protocol?”
@@ -534,7 +788,7 @@ Kade had expected resistance.
 
 “So I can leave.”
 
-“Yes.”
+“There is no hold on your enrollment record.”
 
 “Just like that.”
 
@@ -562,6 +816,8 @@ No director would order him back.
 
 No friend was standing between him and the aircraft.
 
+Seat fourteen existed whether he used it or not.
+
 The choice became real.
 
 Kade sat on the same style of bench he had nearly walked into on arrival.
@@ -586,7 +842,7 @@ Northline the next morning if he wanted.
 
 Safety through reduction.
 
-The thought felt good.
+The thought loosened something in his chest.
 
 Then the other half arrived.
 
@@ -624,7 +880,7 @@ She took one look at the background.
 
 “You’re at transit.”
 
-“Yes.”
+“You are.”
 
 “Are you coming home?”
 
@@ -640,13 +896,13 @@ No relief.
 
 “Do you want me to tell you to stay?”
 
-“No.”
+“Don't tell me to stay.”
 
 “Do you want me to tell you to come home?”
 
 Kade thought about it.
 
-“No.”
+“Don't tell me to leave either.”
 
 “What do you want?”
 
@@ -688,6 +944,30 @@ The shuttle touched down.
 
 Boarding began.
 
+Students and staff formed a short line at East Two. The sleeping upper-year woke, shouldered his duffel, and joined it without looking fully conscious. The second-year hugged her family one last time and presented her band.
+
+The gate reader chimed for each passenger.
+
+Kade remained on the bench.
+
+A terminal attendant checked the slate in her hand.
+
+“Mercer? Seat fourteen?”
+
+He raised the boarding strip before he had decided why.
+
+“We're ready for you.”
+
+The line had cleared. Beyond the gate, a covered path led straight to the shuttle. No barrier. No test. About twenty steps.
+
+Kade bent the strip across his thumb.
+
+“One minute,” he said.
+
+The attendant looked at the departure clock.
+
+“You have one.”
+
 Kade looked at the gate.
 
 Then at Elena.
@@ -717,6 +997,24 @@ Kade smiled faintly.
 “Love you too.”
 
 He ended the call.
+
+The attendant was still waiting.
+
+Kade crossed the distance to East Two.
+
+For one second, the boarding strip hovered over the reader.
+
+Then he set it on the counter instead.
+
+“I'm not boarding.”
+
+The attendant cancelled the seat. The green square beside seat fourteen went gray.
+
+“Safe day, Mr. Mercer.”
+
+No question.
+
+No attempt to make the choice meaningful for him.
 
 The shuttle gate closed without him.
 
@@ -768,7 +1066,7 @@ Sen looked at the bag.
 
 “You nearly left.”
 
-“Yes.”
+“I had a seat.”
 
 “Why didn’t you?”
 
@@ -790,7 +1088,7 @@ A. Sen.
 
 “You lied to me.”
 
-“Yes.”
+“I did.”
 
 No qualification.
 
@@ -798,11 +1096,11 @@ The direct answer hit harder than denial would have.
 
 “You knew my father.”
 
-“Yes.”
+“I knew him.”
 
 “You met my mother after he disappeared.”
 
-“Yes.”
+“I went to her apartment.”
 
 “You told her to let me believe he died in an industrial accident.”
 
@@ -812,13 +1110,13 @@ Sen’s face tightened.
 
 “That is a very careful sentence.”
 
-“Yes.”
+“Deliberately.”
 
 Kade leaned forward.
 
 “Was he Zero?”
 
-“Yes.”
+“He was.”
 
 The confirmation still hurt.
 
@@ -854,6 +1152,116 @@ Kade looked at her.
 
 Another answer he had not expected.
 
+He took the folded boarding strip from his pocket and flattened it against Sen's desk.
+
+“Who decides when *yet* is over?”
+
+Sen did not look away from him.
+
+“For information held under academy authority, I do.”
+
+“So the person who lied decides when I have earned the truth.”
+
+“That is the structure, not a defense of it.”
+
+“Change the structure.”
+
+Sen's fingers rested motionless beside her tablet.
+
+“Some records are not under academy authority.”
+
+“I asked about the ones that are.”
+
+The room's ventilation moved a corner of the boarding strip. Kade pinned it with one finger.
+
+Sen opened a blank authorization form.
+
+“I can release your complete academy file, including internal routing, access history, and every version of the Zero Protocol order.”
+
+“That is the file about me since I got here.”
+
+“Correct.”
+
+“I want the file about me before I got here.”
+
+Sen's face tightened.
+
+There it was.
+
+Not a refusal yet.
+
+The calculation before one.
+
+“Any reference to me,” Kade said. “My name, my mother, Northline, hospital records, aptitude projections. If a record is withheld, I want the record identifier, who withheld it, and the stated reason. No invisible gaps.”
+
+“I cannot guarantee an index for systems I do not control.”
+
+“Then guarantee it for yours.”
+
+Sen read the demand back on the wall as if it had arrived from someone with authority over her.
+
+Maybe that was the point.
+
+“For Asterion-controlled systems,” she said, “I will provide the records and a withholding index.”
+
+“When?”
+
+“The academy file now. The historical search already exists.”
+
+Kade stared at her.
+
+“You searched for records about me.”
+
+“After your structural event. I was trying to determine what the Directorate already knew.”
+
+“And you did not think the person being searched deserved the list.”
+
+“I thought showing it to you would expose sources we were still protecting.”
+
+“Do you still think that?”
+
+Sen considered him for several seconds.
+
+Then she separated two documents from her wall display. One bore the academy seal. The other was mostly record identifiers, authority codes, and blocks marked **WITHHELD**. The list extended beyond the bottom of the wall.
+
+“The protected sources remain redacted,” she said. “The record identifiers and withholding authorities do not.”
+
+She transferred both documents to Kade's band.
+
+He opened them before the confirmation light faded.
+
+His academy file began with Cole's first Northline report. The historical index began years earlier.
+
+No answers.
+
+But the gaps had shapes now, and every shape named who claimed the right to keep it empty.
+
+“And don't make Mara bring me messages again.”
+
+“I sent the appointment to you.”
+
+“She brought it because you knew I would ignore it.”
+
+“She brought it because she chose to.”
+
+Kade studied Sen's face.
+
+“Did you ask anyone to stop me leaving?”
+
+“I did not.”
+
+“Did Renn?”
+
+“Not at my direction.”
+
+“That was careful too.”
+
+“It was exact.”
+
+Kade could work with exact.
+
+He could also verify it.
+
 “Then why stay?”
 
 “That is your decision.”
@@ -870,7 +1278,7 @@ Then receded enough for him to hear the question.
 
 He thought of the transit gate closing.
 
-“Yes.”
+“I chose to stay.”
 
 Sen nodded.
 
@@ -882,7 +1290,7 @@ Kade stood.
 
 “For my classes.”
 
-“Yes.”
+“Those remain yours.”
 
 “For answers.”
 
@@ -900,7 +1308,7 @@ He turned.
 
 “I am sorry.”
 
-He waited for himself to feel something useful.
+He waited for something useful to arrive.
 
 Nothing arrived.
 
@@ -946,7 +1354,7 @@ Eli leaned against his own desk.
 
 “No speech?”
 
-“No.”
+“You survived the first one.”
 
 “Good.”
 
@@ -954,7 +1362,105 @@ Kade put the shirts away.
 
 Then the charger.
 
+Mara's coupled-field notes still sat in the center of the desk where he had returned them.
+
+Kade sent her a message.
+
+**DO YOU NEED THESE BACK?**
+
+Her reply came before he put the phone down.
+
+**THAT IS NOT THE QUESTION.**
+
+He stared at the screen.
+
+Then tried again.
+
+**MAY I KEEP BORROWING THEM?**
+
+**UNTIL OUR NEXT REVIEW. YOU ARE STILL WRONG ON PAGE 14.**
+
+Kade put the notes beside the projection.
+
+Nothing about the exchange required them to pretend the past day had not happened.
+
+It only established what came next.
+
 The mechanical pencil went back into the desk drawer.
+
+Kade took out the room key.
+
+For six months, he had kept it in his pocket or on the desk where he could grab it quickly. Eli had installed two hooks beside the door during their first week. One held Eli's key. The other had remained empty.
+
+Kade hung his key on the second hook.
+
+Eli regarded it.
+
+“Reckless.”
+
+“I'll establish an emergency exit protocol.”
+
+“Make a diagram.”
+
+Kade opened the top drawer and removed the duty schedule.
+
+17:46.
+
+Fourteen minutes before the deadline he had written on the common-room board.
+
+He opened the House schedule on his band. Thursday bell watch waited for confirmation.
+
+Kade pressed **CONFIRM**.
+
+Nessa responded before he could close it.
+
+**GOOD. ANTON IS STILL WRONG ABOUT VACUUM CERTIFICATION.**
+
+Kade typed:
+
+**I DID NOT AGREE TO ARBITRATE.**
+
+Three dots appeared.
+
+**TOO LATE. YOU RETURNED.**
+
+He closed the message.
+
+One Thursday on a schedule did not bind him to Asterion forever.
+
+It bound him to Thursday.
+
+For now, that was an honest size for the promise.
+
+The cancelled boarding strip remained in his pocket.
+
+He set it beside the pencil and turned it over.
+
+The back was blank.
+
+Kade wrote three lines.
+
+**ACADEMY FILE — RECEIVED**
+
+**HISTORICAL INDEX — RECEIVED**
+
+**EVERY WITHHOLDING HAS AN OWNER**
+
+Eli read over his shoulder.
+
+“That is an aggressive use of transit documentation.”
+
+“Sen likes structures.”
+
+“You made her a list on a boarding pass.”
+
+“She knows where I got it.”
+
+Kade propped the strip against the base of his desk projection, where the departure time faced away and the promises faced him.
+
+He had not stayed because Asterion finally deserved him.
+
+He had stayed long enough to make demands of it.
 
 The last item was Elena’s folded note from his first night.
 
@@ -1000,11 +1506,11 @@ Eli said, “I kept your desk.”
 
 Mara asked, “Did you talk to Sen?”
 
-“Yes.”
+“She gave me my academy file and the index of historical records.”
 
 “And?”
 
-“She admitted the lie.”
+“She admitted the lie. The answers are still withheld, but the gaps have owners now.”
 
 Taren looked down at his food.
 
