@@ -1036,6 +1036,288 @@ Elena looked ahead.
 
 Kade smiled despite himself.
 
+---
+
+She drove past the turn for home.
+
+Kade let one intersection go by before mentioning it.
+
+“Our house was back there.”
+
+“I remember where we live.”
+
+“Good. The day has already raised enough questions.”
+
+Elena turned into a discount store wedged between a pharmacy and a vacant pet-supply shop. Half the red letters in the sign had burned out, leaving **VALUE AR** over the entrance.
+
+Kade looked at the Asterion folder on his knees.
+
+“No.”
+
+“That word is doing a lot of work today.”
+
+“I am being evaluated for three days, not presented to foreign royalty.”
+
+“The packing list says formal academy wear.”
+
+“The packing list also recommends recreation equipment. I could bring a deck of cards and a tie.”
+
+Elena parked.
+
+“You own neither.”
+
+“Then I am already failing transition.”
+
+She got out.
+
+Kade remained in the passenger seat until she opened the automatic doors without looking back. This was unfair. She knew he would follow rather than make her shop for him alone, and she was willing to weaponize that knowledge.
+
+He carried the folder inside.
+
+The store smelled like cardboard, detergent, and fabric that had crossed an ocean folded into a cube. Fluorescent lights made every color look apologetic. Elena took a cart with one front wheel that objected loudly to forward motion.
+
+“One collared shirt,” she said. “One pair of decent pants. Toiletries that do not come from the hospital travel bin.”
+
+“Those were legally obtained.”
+
+“They were free samples.”
+
+“That is what free means.”
+
+She handed him a black shirt from a rack.
+
+Kade checked the tag and put it back.
+
+“What?”
+
+“Twenty-eight dollars.”
+
+“That is not a reason.”
+
+“It is several reasons in numerical form.”
+
+Elena returned it to the cart.
+
+“We can afford a shirt.”
+
+“For three days?”
+
+“For longer than three days. Clothing continues to exist after evaluations.”
+
+He opened the folder to the equipment page. The requirements occupied a full column.
+
+Two formal academy sets. Three training sets. Indoor shoes, outdoor shoes, weather shell, approved field underlayer, personal medical supplies, and an optional practice uniform that cost more than their monthly electric bill.
+
+There was a code beside each item.
+
+Kade turned to the admissions terms and started reading the small print.
+
+Elena pushed the cart toward men’s trousers.
+
+“Walking would improve the pace of this activity.”
+
+He followed without looking up.
+
+Section fourteen covered residential housing. Section fifteen covered damage liability. Section sixteen began with mandatory equipment, skipped into academy trademarks for two paragraphs, and ended with a sentence in type small enough to qualify as concealment.
+
+Kade stopped beside a display of belts.
+
+“They provide it.”
+
+Elena turned.
+
+He held out the folder.
+
+“Required clothing and safety equipment during provisional jurisdiction remain the property and financial responsibility of the academy.”
+
+She read the sentence.
+
+Then the equipment list.
+
+Then the sentence again.
+
+“Provisional institutional jurisdiction,” Kade said. “Friendlier already.”
+
+“They put that on page eleven.”
+
+“They put the shopping list on page three.”
+
+Elena’s mouth flattened.
+
+For the first time since Renn had opened the Zero Protocol file, Kade pitied the institution about to meet his mother.
+
+She removed the trousers from the cart.
+
+The shirt stayed.
+
+“They can issue what they require,” she said. “You are still taking one thing that belongs to you.”
+
+Kade ran a thumb under the collar. It was stiff enough to have political opinions.
+
+“Can the thing belong to me from the clearance rack?”
+
+Elena looked toward the sign at the end of the aisle.
+
+“Obviously.”
+
+They found a dark gray shirt for eleven dollars. The sleeves were slightly too long, which meant it fit Kade everywhere else. Elena made him try it on over his T-shirt in front of a mirror fixed to a support column.
+
+Kade buttoned the collar.
+
+The person in the glass looked as if he might be permitted near expensive furniture under supervision.
+
+He opened the top button again.
+
+“Better,” Elena said.
+
+“Less likely to confess?”
+
+“Marginally.”
+
+At the luggage wall, she pulled down a small rolling suitcase in hard blue plastic.
+
+Kade recoiled.
+
+“Absolutely not.”
+
+“The zipper on your duffel opens when it is placed under emotional pressure.”
+
+“The zipper has character.”
+
+“The zipper has one tooth missing.”
+
+She put the suitcase in the cart.
+
+Kade lifted it back out.
+
+“I have a bag.”
+
+“You have a grocery-store promotion older than the basil plant you keep forgetting to water.”
+
+“It has experience.”
+
+Elena rested both hands on the cart.
+
+“What is wrong with the suitcase?”
+
+“It has wheels.”
+
+“Those are generally the point.”
+
+“It looks like luggage.”
+
+She waited.
+
+Kade hated when she did that. Silence turned weak answers transparent.
+
+He set the suitcase on the floor between them.
+
+“It looks like I expect to stay.”
+
+There.
+
+The real objection, standing upright on four bright wheels.
+
+Elena’s expression softened, which was worse than winning.
+
+“Preparing is not consenting.”
+
+“Going is mandatory.”
+
+“Going to the evaluation is mandatory. Medical procedures are not. Enrollment is not. Letting them turn uncertainty into ownership of you is not.”
+
+She tapped the folder.
+
+“Renn signed that because we required him to. Paper does not make people honest, but it gives dishonesty somewhere to stand where you can point at it.”
+
+Kade looked down at the suitcase.
+
+“That sounds like something Ms. Alvarez would say.”
+
+“She texted me while you were packing your test tablet.”
+
+“Conspiracy.”
+
+“Community.”
+
+He made a face.
+
+Elena smiled.
+
+“You do not have to prove you can leave by refusing everything you might need if you stay.”
+
+That landed close enough to the conversation in the car to be irritating and different enough that he could not dismiss it as repetition.
+
+Kade put the suitcase in the cart.
+
+“We are buying it because the old zipper is structurally compromised.”
+
+“Of course.”
+
+“I am still taking the duffel.”
+
+“Of course.”
+
+Near the registers, every display television showed the same news channel. A red map of the national testing outage filled the screens.
+
+Cell-phone footage shook across a school hallway Kade recognized immediately. Northline’s faded blue lockers. The door to Multipurpose Two. Russell moving past the camera with both arms spread, trying to herd students away from the sealed room.
+
+The caption read **MYSTERY FAILURE HALTS NATIONAL APTITUDE EXAM**.
+
+No name.
+
+Not yet.
+
+A cashier followed Kade’s attention to the screen, then to the crest on the folder under his arm.
+
+Her eyes narrowed in recognition.
+
+Elena moved the folder into the cart and laid the shirt over it.
+
+Not dramatic.
+
+Not fast.
+
+The motion of someone closing a curtain.
+
+The cashier scanned the suitcase.
+
+“Busy day over there,” she said.
+
+Kade looked at the screen again.
+
+Northline had never appeared on national news for anything good. The building looked smaller on television. Cheaper. Like a place the rest of the country could use for ten seconds of mystery and forget before the weather.
+
+“Apparently,” he said.
+
+The cashier waited for more.
+
+Elena inserted her card.
+
+Kade gave her nothing.
+
+Outside, the heat had finally begun to break. Elena loaded the suitcase into the trunk. It fit beside an emergency medical kit, two reusable shopping bags, and a case of bottled water she had been meaning to carry inside for a week.
+
+Kade held the new shirt on its plastic hanger.
+
+“I do want to know,” he said.
+
+Elena closed the trunk.
+
+He looked toward the store windows. The testing map flashed red behind the glass.
+
+“What the answer was. Why it chose me. Why you knew the word.”
+
+Elena did not defend the last part.
+
+“Those are reasons to go,” she said. “They are not promises to stay.”
+
+Kade opened the passenger door.
+
+For now, that distinction was large enough to stand inside.
+
+---
+
 At home, the Asterion folder occupied the kitchen table like an accusation.
 
 Their house was small enough that the kitchen table had several jobs. Meals. Mail. Elena’s continuing-education modules. Kade’s half-finished electronics projects when he remembered they existed. On Tuesdays, laundry waiting to be folded.
@@ -1210,7 +1492,9 @@ His closet contained more empty hangers than clothes.
 
 Asterion’s packing guide recommended formal academy wear, athletic clothes, personal electronics, optional recreation equipment, and “items supporting successful transition to residential learning.”
 
-Kade owned a hoodie with a repaired cuff and a duffel bag from a grocery-store promotion six years earlier.
+Until that evening, Kade’s contribution to the list had been a hoodie with a repaired cuff and a grocery-store duffel Elena had owned since before he was born.
+
+The new shirt hung from his closet door. The blue suitcase sat zipped on the floor, looking far too committed.
 
 He pulled the bag from under his bed.
 
