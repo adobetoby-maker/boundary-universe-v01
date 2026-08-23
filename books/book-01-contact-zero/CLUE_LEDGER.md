@@ -35,8 +35,8 @@ Each clue entry has:
 
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
-| CZ-04 | Ch 1 | Amara asks about the array calibration at morning briefing before Aaron has flagged anything — "standard" question she asks most weeks | She already sees the anomaly in the shared diagnostic feed | Ch 11 | PLANTED ✓ |
-| CZ-05 | Ch 2 | Aaron notices Amara looked at his workstation before he arrived, though her terminal log shows nothing unusual. He assumes she was checking on Lena's work. | Amara has access to everything. She was checking on his. | Ch 11 | PENDING |
+| CZ-04 | Ch 1 | Amara asks about array calibration BEFORE opening the log view — "Aaron — coupling array. Anything new?" — she knows before she looks. Aaron notes she asked before touching her terminal. | She already sees the anomaly in the shared diagnostic feed | Ch 11 | PLANTED ✓ (strengthened in architecture review pass) |
+| CZ-05 | Ch 2 | Aaron notices Amara looked at his workstation before he arrived, though her terminal log shows nothing unusual. He assumes she was checking on Lena's work. | Amara has access to everything. She was checking on his. | Ch 11 | PENDING — must be added in Ch 2 expansion pass |
 | CZ-06 | Ch 5 | Amara, during the "Lunch" chapter, mentions offhand: "sometimes the right move is to give a person room to find something before you say what you already know." Aaron interprets this as advice about Lena. | She is describing, in real time, what she is doing with him | Ch 11 | PENDING |
 
 ---

@@ -74,7 +74,13 @@ He saved the retrospective analysis to his personal research partition, not the 
 
 Amara Sen ran the morning briefing the way she ran everything — with a warmth that was organizational rather than performed, each item prioritized not by the institutional order of the agenda but by which items would eat the most of people's time if they stayed confused about them.
 
-"Array calibration," she said, looking at Aaron's submitted log entry. "Drift again?"
+She started before she had pulled up the agenda. "Aaron — coupling array. Anything new this shift, or same drift?"
+
+The question came before she had touched her terminal. Aaron noted this and said nothing about it.
+
+"Same drift," he said. "I've logged it."
+
+She nodded, then opened her log view. "Array calibration," she said, confirming. "Drift again?"
 
 "Within the established variance," Aaron said.
 
