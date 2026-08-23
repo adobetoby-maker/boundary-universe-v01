@@ -170,6 +170,17 @@
               "sha256": "d86c6d63e46298d453e7000965c44fc2485a4aca29c063c7fe2aae0eba375361",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch08-the-ladder.holden.mp3",
               "note": "Rendered from the expanded manuscript. Per-chunk drift corrected at assembly: brightness spread 374->163 Hz, pauses normalised to 0.89s median. higgsfield MCP has no request stitching, so correction is applied post-render."
+            },
+            {
+              "render": "george",
+              "engine": "ElevenLabs API",
+              "voice": "George (JBFqnCBsd6RMkjVDRZzb) + locked chain (EQ 85/140/250Hz, +0.5st)",
+              "file": "audio/book-01-the-ninth-standard/ch08-the-ladder.george.mp3",
+              "bytes": 37057977,
+              "durationSec": 2316.04,
+              "sha256": "45326c52a9516ebd9d6439d7d7d27796c8623402867b40201c44cf4c7b20b21a",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch08-the-ladder.george.mp3",
+              "note": "Rendered via the direct API with request stitching (previous_request_ids + previous_text/next_text, seed 20260823). Chunk-to-chunk spread 142 Hz raw, versus 374 Hz for the unstitched MCP render of the same chapter."
             }
           ]
         },
