@@ -8,7 +8,7 @@
       "id": "book-01-the-ninth-standard",
       "title": "The Ninth Standard",
       "totalChapters": 33,
-      "renderedChapters": 11,
+      "renderedChapters": 12,
       "chapters": [
         {
           "number": 1,
@@ -226,6 +226,24 @@
               "sha256": "2afd34007b81a8a061a398e487f4e70e1a90e215afad1703bb5844bee5a7e723",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch11-the-broken-floor.holden.mp3",
               "note": "5,919 words, 21 chunks, 52.4 min (6,777 w/hr -- inside the 6,700-6,950 band this narrator holds).\n\nSame method as ch10: 1,800-char chunks, no delivery phrase, tail click removed\nper chunk before joining. Post-hoc drift correction was applied this time --\ncentroid spread ran 1770-2078 Hz across the 21 chunks, wide enough to hear as\nthe voice changing, so each chunk was pulled to the 1891 Hz chapter median.\n\nTwo chars/sec FAST outliers (chunk 05 +10.3%, chunk 16 +17.7%) were transcribed\nwith whisper before assembly. Both end exactly where their text does; the speed\nis long-prose delivery, not dropped text. FAST is a flag, not a verdict.\n\nassemble_fixed.py: concat hands libmp3lame odd-sized anullsrc frames on any\nchunk with many short silences (chunk 21 had 111 segments) and the encoder\nrefuses them -- 'inadequate AVFrame plane padding'. Added an aresample before\nthe encoder to re-buffer into uniform frames.\n\npublish_chapter.py now derives renderedChapters from the manifest instead of\ntrusting a stored counter."
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "title": "Boundary Conditions",
+          "manuscript": "books/book-01-the-ninth-standard/manuscript/chapter-12-boundary-conditions.md",
+          "renders": [
+            {
+              "render": "holden",
+              "engine": "ElevenLabs",
+              "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
+              "file": "audio/book-01-the-ninth-standard/ch12-boundary-conditions.holden.mp3",
+              "bytes": 42006195,
+              "durationSec": 2625.31,
+              "sha256": "d2b76a97cb126615e8498fdf22d023830c3dbd93dc8cc54130827dae4acae0e4",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch12-boundary-conditions.holden.mp3",
+              "note": "5,176 spoken words, 19 chunks, 43.8 min (7,090 w/hr -- about 2 percent above the\n6,700-6,950 band, consistent with how much of this chapter is one-line dialogue).\n\nOne chars/sec FAST outlier, chunk 16 at +14.5 percent, transcribed with whisper\nbefore assembly. It ends exactly where its text does.\n\nChunked at 1,800 chars. prep_el.py still hard-codes MAX_CHARS = 4000, so that\nvalue was overridden at the call site rather than trusted; the module needs\nupdating to match the method ch10 established.\n\nRead from the expanded 5,200-word chapter on expand/book1-ch01-10. The\nmanuscript committed on main for chapters 1-11 is still the pre-expansion text\n-- ch01 4,016 vs 5,337 words, ch08 1,805 vs 5,832 -- so the audio and the prose\nbeside it in this commit do not describe the same chapter. That branch has not\nbeen merged and merging it is not an audio decision."
             }
           ]
         }
