@@ -38,21 +38,11 @@
               "engine": "ElevenLabs",
               "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
               "file": "audio/book-01-the-ninth-standard/ch02-zero-protocol.holden.mp3",
-              "bytes": 29066081,
-              "durationSec": 2101.45,
-              "sha256": "467f02ae01fb0d81ef1f85c88c23e2ac2390687fc5b4e9da80a08dcd2e4abf9b",
-              "note": "Production voice. Engine-timed; the SSML pacing map does not apply."
-            },
-            {
-              "render": "cast",
-              "engine": "ElevenLabs",
-              "voice": "Full cast \u2014 Holden (narrator/Kade +0.50, Russell +1.00, Darius -0.65, Renn -0.85) + Maeve (Vale 0.00, Elena -1.00, Alvarez -1.75)",
-              "file": "audio/book-01-the-ninth-standard/ch02-zero-protocol.cast.mp3",
-              "bytes": 31264226,
-              "durationSec": 1953.95,
-              "sha256": "7d02dd36d1dd2b6ff16ac55c272fb6abadebaa5d4ebcd61508e4023a678b317d",
-              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch02-zero-protocol.cast.mp3",
-              "note": "8 speaking parts, 323 segments, 380ms turn gaps. Dialogue tags split off into the narrator. Per-base makeup gain balances Holden against Maeve, whose EQ removes far less energy."
+              "bytes": 42142032,
+              "durationSec": 2633.8,
+              "sha256": "5d78c1632ca24f896ac47200533d2fdb9e8579e85e2c6ea65d319b2fe9bc6d5c",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch02-zero-protocol.holden.mp3",
+              "note": "5,214 spoken words, 19 chunks, 43.9 min (7,046 w/hr).\n\nReplaces the 35.0 min holden render and withdraws the 32.6 min cast render.\nBoth read the 3,301-word pre-expansion chapter; this reads the 5,234-word\nexpanded text. The cast render is also the one whose per-line splices were\naudible.\n\nFive chars/sec FAST outliers this chapter -- chunks 01, 12, 13, 14, 19, from\n+12.1 to +16.5 percent. All five transcribed with whisper; every one ends\nexactly where its text does. They cluster on the narrative passages (the drive\nhome, the discount store, the closing beat) and away from the interrogation\ndialogue, which is what a chars/sec measure should do: short quoted lines carry\npauses that long prose does not. Five flags in one chapter is a property of the\nprose mix, not a defect rate."
             }
           ]
         },
