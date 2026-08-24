@@ -56,11 +56,11 @@
               "engine": "ElevenLabs",
               "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
               "file": "audio/book-01-the-ninth-standard/ch03-asterion.holden.mp3",
-              "bytes": 28408729,
-              "durationSec": 1775.48,
-              "sha256": "70dd7a87237e4dcedc514aeb07a058f2261f163f783b14b96432fe2b13a27c8a",
+              "bytes": 45545474,
+              "durationSec": 2846.53,
+              "sha256": "91452d453dbee46eccbe5aaacdb36e8b98901bb99ad5d5c3c193f0073c418b19",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch03-asterion.holden.mp3",
-              "note": "Production voice. Re-rendered chunks 2 and 4-6 after the audit fixes."
+              "note": "5,713 spoken words, 21 chunks, 47.4 min (7,156 w/hr).\n\nReplaces the 29.6 min holden render, which read the 2,906-word pre-expansion\nchapter. This reads the 5,729-word expanded text -- the longest single jump so\nfar, and the reason the old render sounded like a summary of this chapter\nrather than the chapter.\n\nFour chars/sec FAST outliers -- chunks 10, 12, 15, 19, +10.5 to +13.7 percent.\nAll four whisper-verified; each ends exactly where its text does."
             }
           ]
         },
