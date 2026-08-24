@@ -16,24 +16,15 @@
           "manuscript": "books/book-01-the-ninth-standard/manuscript/chapter-01-the-kid-in-room-four.md",
           "renders": [
             {
-              "render": "elevenlabs",
+              "render": "holden",
               "engine": "ElevenLabs",
               "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
-              "file": "audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.elevenlabs.mp3",
-              "bytes": 30572458,
-              "durationSec": 2168.39,
-              "sha256": "c12251ba906ab8d29540d6f070e1d8a1b8932c88533967e109571ebefc13f39a",
-              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.elevenlabs.mp3"
-            },
-            {
-              "render": "studio-q",
-              "engine": "Google Cloud TTS",
-              "voice": "en-US-Studio-Q",
-              "file": "audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.studio-q.mp3",
-              "bytes": 14854701,
-              "durationSec": 1856.81,
-              "sha256": "6d9c9eb577c20ffe3605d3051ef23dd83b7b6d616ed93633f5bc48736c8f457d",
-              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.studio-q.mp3"
+              "file": "audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.holden.mp3",
+              "bytes": 44052942,
+              "durationSec": 2753.25,
+              "sha256": "850a6733f91cfa570da5325278162cbd4781f263c3e44887487c415d024cfb25",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch01-the-kid-in-room-four.holden.mp3",
+              "note": "5,352 words, 20 chunks, 45.9 min (6,996 w/hr).\n\nWithdraws the elevenlabs and studio-q renders. Both were read from the\n4,016-word pre-expansion chapter; this one is the 5,337-word expanded text.\n\nChunk 09 came back as a 30.9s fragment for 1,771 characters -- 57 chars/sec\nagainst a 12.5 median. It had already been downloaded in an earlier pass and\nwould have shipped inside the chapter unheard. The chars/sec gate caught it;\nre-rendered clean at 129.0s. Chunks 06 and 08 also flagged FAST (+17.1%,\n+13.2%) and were transcribed with whisper -- both end exactly where their text\ndoes, so those two are delivery speed, not loss. FAST is a flag, not a verdict.\n\nOne submission in this chapter failed with 'Out of credits' while three in the\nsame batch succeeded and the balance read 959 credits. Retrying that index\nalone worked. Treat it as a race in the credit check, not a wall."
             }
           ]
         },
