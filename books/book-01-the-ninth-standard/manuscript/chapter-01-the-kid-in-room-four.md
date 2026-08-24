@@ -356,7 +356,7 @@ Tessa leaned closer.
 
 “You have a complicated family.”
 
-She gave him a finger and walked away.
+She gave him a look and walked away.
 
 Darius waited until she was gone.
 
@@ -1038,7 +1038,7 @@ Darius stopped beside Kade.
 
 “Because I’ve had seventeen years to think about it.”
 
-“You’d be annoying as hell with powers.”
+“You’d be unbearable with powers.”
 
 “That’s fair.”
 
@@ -1188,7 +1188,7 @@ Just a single line of black text.
 
 SESSION TERMINATED
 
-The proctor swore.
+The proctor muttered something sharp.
 
 His wrist terminal began vibrating.
 
