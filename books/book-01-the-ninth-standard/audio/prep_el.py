@@ -13,7 +13,11 @@ import json, pathlib, re, sys
 
 from normalise import chapter_heading, normalise, strip_markdown
 
-MAX_CHARS = 4000        # ElevenLabs per-request ceiling, with headroom
+# Not the engine ceiling. 4000 was the ceiling and it was wrong for prose:
+# measured on identical text, 1800-char chunks read 6s tighter with half the
+# pauses >=0.8s, and Toby could not hear the extra seam. Every chapter from
+# ch10 on has used 1800. The ceiling is still ~4000 if something ever needs it.
+MAX_CHARS = 1800
 
 
 def prep(path: str) -> list[str]:
