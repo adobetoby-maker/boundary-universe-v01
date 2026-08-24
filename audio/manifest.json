@@ -206,7 +206,19 @@
           "number": 10,
           "title": "Vector Class",
           "manuscript": "books/book-01-the-ninth-standard/manuscript/chapter-10-vector-class.md",
-          "renders": []
+          "renders": [
+            {
+              "render": "holden",
+              "engine": "ElevenLabs",
+              "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
+              "file": "audio/book-01-the-ninth-standard/ch10-vector-class.holden.mp3",
+              "bytes": 43658806,
+              "durationSec": 2728.6,
+              "sha256": "c6e199345c57ee38ca53a5866fcb6c08e605831f075b0ba777e3f754c536ab65",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch10-vector-class.holden.mp3",
+              "note": "First chapter on the revised method: 1800-char chunks (not 4000), no delivery phrase, tail-click removed per chunk, chars/sec truncation gate. No post-hoc drift correction applied -- smaller chunks made it unnecessary."
+            }
+          ]
         }
       ]
     }
