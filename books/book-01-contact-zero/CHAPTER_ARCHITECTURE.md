@@ -24,7 +24,7 @@
 
 | Ch | Title | Target | Beat | Status |
 |---|---|---|---|---|
-| 7 | Restricted | 4,500 | Station lockdown. Director Rhys arrives. Aaron is assigned Primary Coupling Interface designation. His role changes from "person nobody paid attention to" to "person everyone is extremely careful around." | PENDING |
+| 7 | Restricted | 4,500 | Station lockdown. Director Rhys arrives. Aaron is assigned Primary Coupling Interface designation. His role changes from "person nobody paid attention to" to "person everyone is extremely careful around." | ✓ WRITTEN |
 | 8 | Translation | 4,400 | Aaron's first authorized coupling session. The Node's communication — field-state sequences — described in physical, concrete terms. First real comprehension. He translates: something very old. Something that was there before. Something that recognizes something about him. | PENDING |
 | 9 | Non-Restorable | 4,200 | Aaron visits Yuki. She is conscious, coherent enough to be present, not coherent enough to say what happened. He sits with her for four hours. He does not tell her what caused it. The clinical file is being written around her. | PENDING |
 | 10 | The Geometry of Hiding | 4,600 | Aaron's translation work advances. He builds a model: the Node is not broadcasting. It has been hiding. The field signature is not an anomaly — it is the result of something extremely powerful doing everything it can to be quiet. He reports the model partially. | PENDING |
