@@ -8,7 +8,7 @@
       "id": "book-01-the-ninth-standard",
       "title": "The Ninth Standard",
       "totalChapters": 33,
-      "renderedChapters": 12,
+      "renderedChapters": 13,
       "chapters": [
         {
           "number": 1,
@@ -234,6 +234,24 @@
               "sha256": "d2b76a97cb126615e8498fdf22d023830c3dbd93dc8cc54130827dae4acae0e4",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch12-boundary-conditions.holden.mp3",
               "note": "5,176 spoken words, 19 chunks, 43.8 min (7,090 w/hr -- about 2 percent above the\n6,700-6,950 band, consistent with how much of this chapter is one-line dialogue).\n\nOne chars/sec FAST outlier, chunk 16 at +14.5 percent, transcribed with whisper\nbefore assembly. It ends exactly where its text does.\n\nChunked at 1,800 chars. prep_el.py still hard-codes MAX_CHARS = 4000, so that\nvalue was overridden at the call site rather than trusted; the module needs\nupdating to match the method ch10 established.\n\nRead from the expanded 5,200-word chapter on expand/book1-ch01-10. The\nmanuscript committed on main for chapters 1-11 is still the pre-expansion text\n-- ch01 4,016 vs 5,337 words, ch08 1,805 vs 5,832 -- so the audio and the prose\nbeside it in this commit do not describe the same chapter. That branch has not\nbeen merged and merging it is not an audio decision."
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "title": "Cross Examination",
+          "manuscript": "books/book-01-the-ninth-standard/manuscript/chapter-13-cross-examination.md",
+          "renders": [
+            {
+              "render": "holden",
+              "engine": "ElevenLabs",
+              "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
+              "file": "audio/book-01-the-ninth-standard/ch13-cross-examination.holden.mp3",
+              "bytes": 46583266,
+              "durationSec": 2911.39,
+              "sha256": "6e990a3f47f652d17f4a26ae94b6eb1db03297dcdaaecc73387e1f07c4bfc238",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch13-cross-examination.holden.mp3",
+              "note": "5,749 spoken words, 21 chunks, 48.5 min (7,054 w/hr).\n\nOne chars/sec FAST outlier, chunk 09 at +12.2 percent, whisper-verified: it ends\nexactly where its text does.\n\nFirst chapter prepped through prep_el.py rather than by hand. MAX_CHARS is still\n4000 in that module, overridden to 1800 at the call site; audit_text.py returned\n0 READ findings and one DECIDE note (a run of sentence fragments beginning 'Ms.\nAlvarez.') that reads correctly in the render."
             }
           ]
         }
