@@ -44,7 +44,7 @@
 | 16 | What He Doesn't Tell Lena | 4,200 | Lena figures out something is wrong. She doesn't know what — she's been reading Aaron for three years and something shifted. Aaron has one chance to tell her. He doesn't. The decision to not-tell Lena is the one that costs him the most, privately, for the rest of his life. | ✓ WRITTEN |
 | 17 | The Encoding | 4,600 | Aaron begins building the encrypted field-architecture signature into the Conduit design. He works slowly. He is very careful. Every element of the encryption must be invisible to Standard Eight practitioners and below. He is designing something for a Standard Nine practitioner who does not yet exist. He does not know if this is hope or hubris. He decides to consider them equivalent. | ✓ WRITTEN |
 | 18 | Yes | 3,800 | Aaron accepts the offer. The chapter is quiet. Rhys thanks him. Aaron asks one question: *what happens to the Node?* Rhys says: it continues to be monitored. Carefully. Aaron says: that's not an answer. Rhys says: it's the one we have. | ✓ WRITTEN |
-| 19 | Amara Again | 3,800 | Aaron tells Amara what he decided. She already knew. She is not proud of knowing. Brief chapter. The conversation is formal, careful, and leaves both of them feeling the specific loneliness of choosing the same thing for different reasons. END ACT II-B. | PENDING |
+| 19 | Amara Again | 3,800 | Aaron tells Amara what he decided. She already knew. She is not proud of knowing. Brief chapter. The conversation is formal, careful, and leaves both of them feeling the specific loneliness of choosing the same thing for different reasons. END ACT II-B. | ✓ WRITTEN |
 
 ---
 
