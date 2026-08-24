@@ -12,6 +12,8 @@ Kisiwa.
 
 Professor Kamau drew three boxes on a shared board during the emergency analysis session the next morning.
 
+She refused the central lectern. Instead she stood beside a movable whiteboard borrowed from House Meridian, its lower corner still carrying a blue bell sticker. Policy delegates had filled the formal seats. Students, engineers, responders, and one transit planner occupied the aisles. The room’s geometry claimed hierarchy; Kamau conducted a field correction with furniture.
+
 **EXISTS**
 
 **CAN BE DETECTED**
@@ -23,6 +25,8 @@ Then she said, “These are not the same condition.”
 Kade sat at the back of the room with Mara, Sera, Aya, Julian, Eli, and Taren.
 
 Taren’s presence had required three signatures and one argument with security.
+
+He sat at the end of the row with a paper notebook and a security officer behind him. Eli had left a wrapped breakfast bar on his chair without comment. Taren had eaten half and folded the wrapper into smaller and smaller squares while other people discussed whether coordination itself could become a detectable threat.
 
 He had no system access.
 

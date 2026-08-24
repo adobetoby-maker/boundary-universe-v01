@@ -8,6 +8,8 @@ He had not expected distance to become visible in every movement.
 
 The Lunar Far-Side Array sat inside a pressure-linked cluster of low structures buried partly under regolith. No towers. No glass. Nothing built to impress anyone who might fall upward if distracted.
 
+The ceilings curved around regolith shielding thick enough to turn radiation into architecture. Handholds ran along every corridor at two heights. Doors were round, floors subtly concave, and every junction carried a pressure number large enough to read while frightened. Machinery reached them through gloves and boots as a constant low vibration. The silence outside was absolute; the building made sure nobody inside could forget how much work life required.
+
 Eli loved it immediately.
 
 “This is the best place humans have ever made.”
@@ -302,9 +304,13 @@ Zhou handed response authority to the lunar safety officer.
 
 Not herself.
 
+The authority change appeared above the door in plain text. Zhou’s name dimmed. The safety officer’s brightened. Every control request acquired a new signature requirement. Nobody had to infer whether the signal window outranked the people crossing the trench.
+
 The safety officer rerouted two maintenance crawlers.
 
 One route crossed a communications trench scheduled for active calibration.
+
+On the external feed, two suited technicians moved beside a crawler under hard white work lights. Dust rose from each step and traveled in long, slow arcs before falling. The crawler carried a replacement radiator panel wider than the trench. Its suspension had locked unevenly, tilting the load toward the nearest technician’s life-support pack.
 
 Eli said, “We need to pause sector tests.”
 
@@ -319,6 +325,10 @@ Sera looked at him.
 The scientist said, “They have shielding.”
 
 “Enough?”
+
+The scientist checked the shielding model. While he did, the panel slipped another degree. The technician on the low side planted both boots and pushed, but lunar gravity reduced the weight without reducing the panel’s inertia. Once moving, it wanted to keep moving.
+
+Sera pointed at the crawler camera. “Their shielding does not matter if the load takes the antenna off the suit.”
 
 No one answered quickly.
 

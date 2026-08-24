@@ -6,6 +6,8 @@ The disaster began at 08:00 with a text message.
 
 Kade read it in the Kisiwa dining hall.
 
+The hall opened directly onto a public courtyard. Commuters crossed it on their way to the transit platform, and a clinic worker bought tea from the same counter as the academy delegation. Kisiwa had no clean border between campus and city. When the lights failed, the room did not become an isolated training environment. It became one dark room inside a district that still had to work.
+
 Then the lights went out.
 
 Half the room shouted.
@@ -13,6 +15,8 @@ Half the room shouted.
 The other half kept eating.
 
 Emergency strips came on along the floor.
+
+Only every second strip lit. The dark gaps were deliberate: enough guidance to move, not enough battery drain to pretend the outage would be brief. Kitchen staff shut gas valves by hand. A student held the cold-room door closed and wrote the opening time on a paper tag. Before anyone used Resonance, the building began conserving what it already had.
 
 Eli looked delighted.
 

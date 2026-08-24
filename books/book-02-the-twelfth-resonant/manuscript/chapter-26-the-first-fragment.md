@@ -22,6 +22,8 @@ Kade looked at him.
 
 They were in Asterion’s historical analysis room with Sen, Mara, Aya, Eli, and two external archivists from the Lunar Far-Side Array.
 
+The room occupied a former chart vault beneath Central Library. Its walls could block modern field telemetry, but brass rails for paper drawers still crossed the floor. The Lunar archivists wore gloves. Mara had arranged pencils, not tablets, beside every seat. For the first time in months, the most dangerous object in front of Kade could survive a power failure.
+
 Park had limited Aaron to ninety minutes.
 
 Aaron had objected.
@@ -29,6 +31,14 @@ Aaron had objected.
 Park had ignored him.
 
 Good system.
+
+Aaron adjusted the support chair closer to the table. Kade reached for the brake before remembering to ask.
+
+“Do you want help?”
+
+Aaron looked at the wheel, then at him. “Yes.”
+
+Kade set it. The exchange was small, delayed by seventeen years, and harder than moving the chair alone would have been.
 
 The cardboard box belonged to a retired Chilean radio astronomer named Dr. Camila Rojas.
 

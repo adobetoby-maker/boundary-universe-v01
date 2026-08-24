@@ -6,6 +6,8 @@ Kade stared at her.
 
 They stood three meters apart on Kiyomizu’s paired-control floor while thirty students arranged themselves around identical training rigs.
 
+The hall’s timber roof concealed a steel load lattice. Morning light passed through paper-faced panels along the east wall, but every panel could fold upward behind a fire shield. No arena boundary marked the floor. Instead, thin brass lines connected each training station to a central drain, a thermal sink, and two mechanical anchors. Kiyomizu showed the consequence paths as part of the room.
+
 The sun had not fully cleared the eastern buildings.
 
 Kade had been awake for twenty-three minutes.
@@ -19,6 +21,8 @@ This felt early for hostility.
 “That sounded like an accusation.”
 
 Aya adjusted the training bands around her wrists.
+
+She checked each buckle by feel, then held the loose end out to the student beside her without looking. Ren tightened it one notch. Aya did the same for his left band. The exchange took two seconds and no thanks. Kade had known them less than a minute and already understood that Kiyomizu treated preparation as a relationship, not a private ritual.
 
 “It is preventive.”
 

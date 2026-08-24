@@ -18,7 +18,17 @@ He did not say that last one.
 
 They were back in transit again, this time between Asterion and a short reciprocal academy conference in Geneva, which Helix insisted was technically not part of the formal circuit and therefore required twice as much paperwork.
 
+The gate had too few seats, so Meridian built a temporary House from luggage. Julian found a wall outlet and surrendered it to Eli’s equipment case. Sera distributed food by medical need while pretending not to. Mara claimed the one table, then divided its surface into six equal territories with boarding passes. Kade sat inside the arrangement and realized home had become something they could assemble badly in public.
+
 Kade sat on the floor of an airport gate with his back against Eli’s equipment case.
+
+The case hummed against his shoulder as its thermal pack equalized. Every few minutes Eli leaned over to read a diagnostic light near Kade’s ear.
+
+“If that catches fire,” Kade said, “I am abandoning your research internationally.”
+
+“If it catches fire, move it away from the window first. The glass is expensive.”
+
+Sera looked over. “This is why your civilian equipment requires civilian supervision.”
 
 “You packed the blue mug,” he said.
 

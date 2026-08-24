@@ -6,6 +6,8 @@ He considered that on-brand.
 
 The room belonged to Asterion Security, but the two people waiting inside did not.
 
+Its table was bolted down. The chairs were not. Taren noticed because movable chairs meant the room was intended for interviews, not detention, and because he had spent too much of his childhood learning what furniture revealed about authority. A red mechanical cutoff beside the door could kill every recorder. A smaller green light showed that nobody had used it.
+
 One was Deputy Director Mina Orr from the academy’s external oversight office.
 
 The other was a man Taren knew as Gabriel Holt.
@@ -13,6 +15,10 @@ The other was a man Taren knew as Gabriel Holt.
 Uncle Gabriel to the family.
 
 Director Holt to the Continuity Directorate.
+
+Gabriel rose as if offering Taren the choice to interpret the gesture as affection or protocol. He opened one hand, stopped before extending it, and let the hand fall.
+
+That hesitation frightened Taren more than confidence would have. It meant Gabriel had prepared for the person Taren had become, not only the child he remembered controlling.
 
 Taren stopped in the doorway.
 

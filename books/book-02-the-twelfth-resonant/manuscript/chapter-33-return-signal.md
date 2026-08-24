@@ -6,6 +6,8 @@ Kade thought this was appropriate.
 
 The International Resonance Accord had converted Asterion’s Central Forum into a decision chamber because nobody trusted a capital city to host the vote without turning location into ownership.
 
+House banners had been removed from the upper rails. In their place hung six plain status boards: proposal, evidence, risk, reversibility, authority, withdrawal. Public observers entered through the same doors as ministers but sat behind soundproof glass. The arena floor beneath the forum had been mechanically locked, preventing any delegation from turning debate into a demonstration.
+
 The room held governments, academies, lunar operations, orbital networks, scientific consortia, infrastructure authorities, and public observers.
 
 The countdown above them read:
@@ -53,6 +55,8 @@ Sera sat with Kisiwa.
 Eli with the technical consortium.
 
 Julian with Asterion student operations.
+
+They could still see one another across the chamber. Kade raised two fingers when Sera caught his eye. She answered with one, their old Meridian signal for *still here*. Aya did not signal. She placed her hand flat on Kiyomizu’s table when her delegation recorded its vote, choosing a public gesture nobody could mistake for Kade’s influence.
 
 Taren was absent by choice.
 

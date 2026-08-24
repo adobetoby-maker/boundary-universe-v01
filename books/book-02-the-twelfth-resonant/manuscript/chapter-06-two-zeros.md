@@ -6,6 +6,8 @@ Kiyomizu was making that belief difficult to maintain before breakfast.
 
 Professor Takahara stood at the center of the paired-control hall with four transparent cylinders floating above the floor. Each held a steel sphere suspended inside a low-power field cage.
 
+The cylinders were not truly floating. Clear support rods carried their weight into a circular base, and braided cables ran from each base to a row of flywheels behind safety glass. When a sphere moved, the wheels answered. Kiyomizu wanted observers to see both sides of the effect: the elegant object in motion and the machinery accepting what its motion cost.
+
 Kade recognized the apparatus.
 
 He did not recognize why Aya Mori was standing alone beside the second cylinder.

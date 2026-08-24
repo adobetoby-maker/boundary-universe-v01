@@ -5,8 +5,8 @@ Book 1 developmental/prose polish is complete enough for the audio-production pa
 
 Book 2 drafting is active on `draft/book-02-four-pass`.
 
-**Narrative draft status: COMPLETE through Chapter 34; outside review reconciled.**
-The full manuscript has completed the final six-pass ending audit plus an attributed Claude outside review and independent reconciliation. Scaffold/meta leaks, audio name collisions, Chapter 20 cadence peaks and two compressed payoff scenes were repaired. No known story-level, continuity, clue-fairness, scaffold or Book 3 protection blocker remains.
+**Narrative draft status: COMPLETE through Chapter 34; outside review reconciled; Pass 7 depth expansion complete.**
+The full manuscript has completed the final six-pass ending audit, an attributed Claude outside review, independent reconciliation, and a seventh post-BSBC depth pass for action, location, interaction, and power-system clarity. Scaffold/meta leaks, audio name collisions, Chapter 20 cadence peaks and compressed payoff scenes were repaired. No known story-level, continuity, clue-fairness, scaffold or Book 3 protection blocker remains.
 
 ## Read before touching Book 2
 1. `CANON_RULES.md`
@@ -26,6 +26,7 @@ The full manuscript has completed the final six-pass ending audit plus an attrib
 15. `reviews/OUTSIDE_REVIEW_CLAUDE_2026-08-23.md`
 16. `FINAL_OUTSIDE_REVIEW_RECONCILIATION.md`
 17. `planning/BSBC_PASS6.md`
+18. `PASS_07_DEPTH_EXPANSION.md`
 
 ## Chapter drafting protocol — SIX PASSES
 Every chapter completes six passes before attestation:
@@ -36,6 +37,10 @@ Every chapter completes six passes before attestation:
 4. **Audio-first polish** — speaker clarity, audible scene geography, cadence, repetition, family-clean check.
 5. **Story completeness** — verify setup/context, causality, motive clarity, lived proof, emotional processing, aftermath, standalone chapter shape, and next-chapter handoff.
 6. **BSBC review** — transferable Brandon Sanderson + Bryce O'Connor / Warformed craft lens, without imitation. Verify Promise → Progress → Payoff, visible competence delta, limitation/cost-driven solutions, action geography before speed, distinct ensemble competence, no filler/repeated conflict, no artificial withholding, Rule 6 fairness, and a one-sentence end-state delta.
+
+## Post-BSBC protocol — PASS 7
+
+7. **Fight detail + system and worldbuilding detail expansion** — expand physical and system conflict through geography, try/fail/adapt causality, reservoirs, consequence paths, bodily cost, location-specific texture, institutional behavior, and relationship-bearing interaction. Preserve all approved outcomes and reveal boundaries. Full attestation: `PASS_07_DEPTH_EXPANSION.md`.
 
 ### Pass 5/6 repair rule
 A short chapter is not automatically incomplete and a long chapter is not automatically complete. Identify a missing story function before adding prose. Repair with the smallest scene-level unit that solves the actual gap, then rerun affected continuity/clue/audio checks.
@@ -76,6 +81,7 @@ Completed:
 7. cadence/tic audit with narrow Chapter 20 repair;
 8. family-clean audit;
 9. textual audio-first audit for speaker/POV/name clarity.
+10. Pass 7 fight/action, system, worldbuilding, location and interaction expansion across Chapters 1–34.
 
 Remaining production recommendation: one final human proof/listening pass before recording or publication.
 

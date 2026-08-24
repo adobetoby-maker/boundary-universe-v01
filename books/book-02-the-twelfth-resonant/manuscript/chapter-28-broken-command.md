@@ -16,6 +16,8 @@ Then three jurisdictions tried to help.
 
 Kade was in the array briefing room when every wall display changed at once.
 
+The room transformed by function. The central table lowered into the floor. Wall benches folded into operator consoles. White work lights narrowed to red bands above the exits, leaving displays bright without destroying anyone’s dark adaptation. People who had been discussing signal theory thirty seconds earlier moved to stations marked FLIGHT, LIFE SUPPORT, RELAY, and CREW AUTHORITY.
+
 **PEREGRINE SIX — ATTITUDE CONTROL ANOMALY**
 
 **CREW: 4**
@@ -256,6 +258,10 @@ Alarm.
 
 The tug rotated faster.
 
+At first the stars on the crew feed moved too slowly to frighten Kade. Then a wrench broke free from a restraint loop and crossed the cabin. It struck a ceiling panel, rebounded, and nearly caught Ortiz at the temple. A crew member trapped it against the wall with a checklist board and clipped it to her own belt.
+
+Warning tones layered over one another. The saturated wheel dumped no more momentum; it only screamed inside its housing while the vehicle turned around it.
+
 The national agency immediately issued:
 
 **ABORT DESATURATION. RETURN NOW.**
@@ -340,6 +346,8 @@ Command did not have to erase agency.
 
 The tug stabilized nine minutes later.
 
+Stabilized did not mean still. Ortiz released thrust in pulses short enough that the damaged sensors could validate each one. The stars slowed, paused, then began drifting the other direction. On the sixth pulse, the crew’s loose shoulder straps settled instead of lifting. On the ninth, the horizon marker stopped rotating across the display.
+
 Propellant: seventeen percent.
 
 Enough for return if nothing else went wrong.
@@ -379,6 +387,12 @@ A chain.
 The far-side array acquired *Peregrine Six* on three sectors.
 
 The first solution failed validation.
+
+For three seconds the false corridor painted itself green across Vahana’s board. A controller reached toward authorization. Mara saw the confidence mismatch first: three array sectors agreed on position, but only two agreed on velocity.
+
+“Hold.”
+
+Zhou killed the packet. The green corridor vanished before it became an order the crew might trust.
 
 One sector had treated the platform’s own thermal plume as a stable reference.
 

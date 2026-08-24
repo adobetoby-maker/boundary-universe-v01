@@ -14,6 +14,8 @@ Vahana’s orbital network handled transfer timing.
 
 Asterion hosted the human shared-state synthesis cell because no government wanted the first live cross-system Consensus handoff inside its capital infrastructure.
 
+Operations occupied the repaired chamber above Asterion’s old tidal station. The ocean moved behind three walls, audible as a deep impact whenever a wave found the breakwater. New consoles stood on the same platform where containment had nearly failed. Every cable route was exposed and labeled. Nobody wanted a sealed system beneath their feet again.
+
 Helix ran independent telemetry verification.
 
 Kiyomizu supplied participant-rights observers and challenge-protocol review.
@@ -43,6 +45,8 @@ Sera looked at the system diagram.
 Kade smiled.
 
 The room needed normality.
+
+It also needed six kinds of time. Lunar geometry counted signal windows. Vahana counted relay latency. Asterion counted neurological exposure. Kiyomizu counted consent renewals. Kisiwa counted fallback readiness. Helix counted verification delay. The clocks covered one wall without agreeing on which number deserved to be largest.
 
 Outside Asterion’s operations chamber, the countdown continued falling.
 
@@ -151,6 +155,8 @@ At 03:11 UTC, Cell A began lunar calibration.
 Dr. Zhou’s team phased array sectors against the relay corridor.
 
 The first handoff packet arrived twelve minutes later.
+
+A quiet tone sounded. No applause followed. Zhou’s signed state appeared first on the lunar console, crossed an air-gapped verifier, and printed on paper before it entered the next system. A Kiyomizu observer compared the withdrawal ledger. A Kisiwa planner checked whether losing sector four changed any evacuation or power fallback. Only then did Vahana acknowledge receipt.
 
 **CURRENT:** corridor lock 91% coherence.
 

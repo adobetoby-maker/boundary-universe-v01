@@ -10,6 +10,8 @@ But after Kiyomizu, Kisiwa, Vahana, and Helix, the island no longer felt like th
 
 It felt like one answer among several.
 
+Kiyomizu had taught him to look for withdrawal paths. Kisiwa made him notice who kept water moving after the demonstration ended. Vahana made every shortcut list its propellant. Helix asked who owned the model. Back at Asterion, he saw missing labels everywhere—and saw, with uncomfortable affection, how much the island had taught him before he knew to challenge it.
+
 Kade liked it more that way.
 
 He dropped his bag in Meridian at 16:20.

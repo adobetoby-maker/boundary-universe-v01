@@ -6,6 +6,8 @@ It called itself after.
 
 Kade sat in Asterion Operations at 06:42 with a medical patch still attached below his collarbone while twelve independent translation teams argued over a packet nobody wanted to mistranslate into history.
 
+Morning reached the chamber only through a narrow window above the tidal wall. It laid one pale bar across empty cups, discarded translation drafts, and the physical cutoff key beside Sen’s hand. The operations displays had been dimmed until the nonhuman structure seemed less like a message and more like a constellation people were assembling one verified relation at a time.
+
 The room had been awake for too long.
 
 That helped.
@@ -33,6 +35,8 @@ Kade stared at it.
 “Possible is doing important work.”
 
 Mara sat beside him with her shoes off under the table because apparently first contact did not improve circulation.
+
+Kade slid his unopened water toward her without interrupting the translation channel. She drank half, marked the bottle with her initials, and returned it. Consent culture had apparently reached hydration.
 
 “Yes.”
 

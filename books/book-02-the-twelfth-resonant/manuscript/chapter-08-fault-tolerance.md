@@ -2,6 +2,8 @@
 
 Aya Mori failed on purpose at 06:41.
 
+Outside the paired-control hall, grounds staff swept rainwater from the covered walkways in practiced arcs. Inside, five floor officers occupied separate corners and one stood by the mechanical cutoff. Kiyomizu rehearsed failure with more personnel than Asterion assigned to many finals. Nothing in the room suggested that collapse was shameful. Everything suggested it deserved preparation.
+
 Kade knew it was on purpose because she looked directly at Professor Takahara before stepping out of the training circle.
 
 Then she turned off her field.
@@ -17,6 +19,8 @@ No one shouted for Aya.
 No one waited.
 
 The suspended frame dipped four degrees.
+
+Its left corner descended first. Water in the four balance cups climbed their painted limits, and a steel bearing rolled hard enough to ring against its stop. The surviving students did not attempt to restore the original shape. Ren called the new angle. Keiko released the unnecessary right-side correction. Haru let the frame settle into a configuration that was worse, stable, and shared.
 
 Ren shifted pressure.
 

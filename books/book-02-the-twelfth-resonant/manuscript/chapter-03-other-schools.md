@@ -12,6 +12,8 @@ Not projected.
 
 Printed.
 
+Four academy brochures pinned its corners. Kiyomizu’s showed a cedar-roofed paired-control hall reflected in a training pond. Kisiwa’s showed responders working in an ordinary market street. Vahana used an orbital transfer diagram instead of a campus photograph. Helix offered a glass building covered in equations and no people at all. Even the advertisements disagreed about what Resonance was for.
+
 Kade stared at it.
 
 “Why is this paper?”

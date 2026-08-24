@@ -6,6 +6,8 @@ That made it worse.
 
 They were in Training Hall Five with Aya’s network trace projected across the wall.
 
+The hall was empty except for stacked mats and the faint impact marks left by ordinary combat drills. Kade and Mara had chosen it because no observation system recorded audio there after hours. The trace floated above a wall scar where Priya had once thrown Kade into the padding. Both forms of correction felt relevant.
+
 Temporary concentrations of authority moved through the graph like weather.
 
 Geometry to Mara.
@@ -19,6 +21,10 @@ Relational correction to Aya.
 No permanent route through one person.
 
 Kade stared at it.
+
+Mara stood close enough to reach the controls but not close enough to make disagreement look like comfort. When Kade shifted toward her, she did not move away. She also did not close the distance for him.
+
+That was the whole argument in one meter of floor.
 
 Mara stood beside him with her arms folded.
 

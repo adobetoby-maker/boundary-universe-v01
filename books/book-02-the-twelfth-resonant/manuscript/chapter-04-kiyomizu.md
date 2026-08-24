@@ -4,6 +4,8 @@ Kade’s first impression of Japan was that airports had become too good at know
 
 His second was that Eli should never be allowed near international customs unsupervised.
 
+Beyond the terminal glass, rain softened the runways and turned every service light into a second light on the pavement. Kade had expected Japan to feel unfamiliar all at once. Instead the differences arrived in procedures: where the line began, how luggage carts nested, how every instruction included the person responsible for the next handoff. Kiyomizu had started teaching before they reached it.
+
 “I declared it,” Eli said.
 
 The customs officer looked at the open equipment case.
@@ -17,6 +19,24 @@ The officer lifted a palm-sized stabilizer controller connected to three exposed
 “And this?”
 
 “Research prototype.”
+
+The customs officer rotated the controller until the exposed heat sink faced Eli.
+
+“Reservoir?”
+
+Eli pointed to the isolated cell compartment.
+
+“Removed for transport.”
+
+“Field-capable?”
+
+“Not without the cell, a reference clock, and somebody willing to sign the safety interlock.”
+
+The officer looked at Hale.
+
+Hale said, “Nobody here is willing.”
+
+The case received a red inspection seal. Eli looked offended by the implication and impressed by the thoroughness.
 
 Sera closed her eyes.
 

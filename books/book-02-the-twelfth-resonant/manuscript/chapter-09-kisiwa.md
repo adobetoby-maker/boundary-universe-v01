@@ -4,6 +4,8 @@ Kisiwa did not send a car to collect them from the airport.
 
 It sent a city bus.
 
+The bus left the airport expressway and joined a city already in motion: vendors raising shade cloth over stalls, motorcycles filtering between lanes, solar canopies opening above transit stops, utility crews marking a repaired water line in blue paint. Resonance appeared only in small places—a cargo ramp held level while a wheel was changed, a traffic barrier shifting load away from cracked pavement. Nobody stopped to watch.
+
 Kade thought this was a mistake until he saw Professor Njeri Kamau waiting beside the rear door with a transit card clipped to her Kisiwa jacket.
 
 Instructor Hale looked at the bus.
@@ -17,6 +19,8 @@ Then at Kamau.
 Hale looked again.
 
 The bus was carrying twelve ordinary passengers, three Kisiwa students, a woman with two grocery bags, and a man asleep against the window.
+
+One Kisiwa student stood before Hale could ask and helped the woman secure her bags beneath a restraint strap. Another tapped his card for an older passenger whose wrist account would not register. Kamau waited through both interruptions without introducing anyone. Kade understood later that this had been the introduction.
 
 Kamau smiled.
 

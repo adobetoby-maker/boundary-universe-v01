@@ -6,6 +6,8 @@ Before that, he had been too busy trying not to throw up.
 
 Vahana’s orbital training vehicle was called **Shakti Six** and looked much less impressive from inside than it had on the briefing display.
 
+The cabin smelled of warm electronics, disinfectant, and the faint metal tang of air that had been through too many filters. Every storage latch carried two colored marks: one showing who had closed it, another showing who had verified it. Nothing floated loose. Even Eli’s enthusiasm had been clipped to a tether point by a Vahana technician who did not find him charming.
+
 The cabin held twelve seats, two equipment racks, one narrow central aisle, and enough labels to make Kade suspect every surface could kill him if misunderstood.
 
 Eli loved it.
@@ -264,6 +266,8 @@ Kade’s assignment:
 
 Stop the case without contacting it physically.
 
+The case rotated through the bay’s work lights, each face appearing and vanishing in sequence. One corner carried a mock coolant line. Another held a fragile-instrument marker. A crude solution could stop the rotation and still fail by crushing what the case was supposed to protect.
+
 His band changed from observer to:
 
 **SUPERVISED FIELD TASK — LOW ENERGY**
@@ -367,6 +371,14 @@ A torque without net translation.
 The energy still went somewhere.
 
 Into his field work and heat/deformation in the case and training system.
+
+Kade established the first contact near the upper handle and the second against the reinforced lower frame. He waited through half a rotation, matching the case’s rhythm instead of opposing it all at once. Then he increased both forces together.
+
+The case shuddered. Its rotation slowed. Heat warnings climbed along the two contact points while its center of mass drifted only centimeters.
+
+Kade eased before the frame exceeded tolerance, waited for the hot metal to share heat with the rest of the housing, and applied the couple again. Three corrections instead of one heroic stop. On the fourth pass, the handle no longer struck the wall.
+
+His forearms trembled with the effort of holding two opposed relations at once. The field meter showed modest energy use. The neurological monitor did not.
 
 But not primarily into annex attitude.
 

@@ -24,6 +24,8 @@ The test took place twenty-three days after the phased response protocol passed 
 
 Asterion’s largest training hall had been stripped of ranking displays.
 
+In their place, twelve narrow boards showed only local state: medical load, current role, withdrawal status, and the next decision each operator owned. Colored cable covers divided the floor into task cells that overlapped without meeting at a center. The hall looked less impressive than any tournament arena Kade had entered and more honest than most command rooms.
+
 No audience seating.
 
 No press.
@@ -47,6 +49,8 @@ No permanent center.
 No permanent cell.
 
 No permanent leader.
+
+The twelve participants stood in a loose ring while technicians completed checks. Nobody faced inward. Mara studied the load lattice. Aya checked relational exits. Julian read the mission priorities. Sera walked the casualty route herself. Eli knelt beside a thermal cabinet despite three signs telling him not to touch it. Kade watched them choose different first concerns and felt the system becoming capable before any field formed.
 
 And no assumption that all twelve needed Consensus at the same time.
 

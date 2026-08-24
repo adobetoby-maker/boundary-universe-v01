@@ -4,6 +4,8 @@ By nine the next morning, Asterion had produced three official definitions of St
 
 None agreed.
 
+The disagreement had changed the campus physically. Temporary press rails divided Central Forum. Legal observers occupied two seminar rooms. Medical staff had installed privacy screens around the demonstration platform, while engineering students taped reservoir labels to every visible cable so nobody could claim the apparatus created energy. A classification argument had become furniture.
+
 Kade found this encouraging.
 
 The first came from the academy registrar.

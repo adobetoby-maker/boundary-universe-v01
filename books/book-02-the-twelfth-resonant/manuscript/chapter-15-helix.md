@@ -8,6 +8,8 @@ The equation covered an entire glass wall in the arrivals atrium, white notation
 
 **SHARED STATE**
 
+The atrium had been built around an older railway shed. Iron arches crossed above glass laboratories, and worn platform numbers remained in the stone floor beneath newer directional lights. Every seminar room had at least two doors and a table made from separate pieces that could be rearranged. Helix had turned a place of arrivals and departures into an argument that systems should expect both.
+
 Kade stopped under it.
 
 Aya stopped beside him.
@@ -17,6 +19,18 @@ Mara stopped on his other side.
 Eli walked directly into Kade’s shoulder because he was reading the ceiling.
 
 “Sorry.”
+
+The ceiling carried the same equation from the opposite perspective. What looked like convergence from the floor became divergence from above.
+
+Eli stepped back to compare them.
+
+“That is either excellent mathematics or aggressive interior design.”
+
+Aya said, “Both can be true.”
+
+Mara was already photographing the operator labels. “The final line is not an average. It preserves dissent terms.”
+
+Kade looked between the three of them. Helix had managed to start an argument before assigning rooms.
 
 Kade did not move.
 

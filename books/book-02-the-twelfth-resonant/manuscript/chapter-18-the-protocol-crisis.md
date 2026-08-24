@@ -6,7 +6,11 @@ Kade considered this evidence against government.
 
 Helix had converted its largest lecture hall into a joint policy room overnight. Academy directors occupied the front row. Medical staff sat together near the aisle. International regulators appeared across three wall displays. National security representatives filled the remote participant list with titles long enough to become threats by punctuation alone.
 
+Translation booths filled the upper gallery. Power strips crossed the aisles beneath bright safety covers, and catering staff moved coffee between delegations that would not share draft language. The old chalkboards had been left visible behind the wall displays. By midmorning, one carried legal definitions, one carried neurological limits, and one carried a handwritten list of questions nobody’s jurisdiction owned.
+
 Kade sat between Mara and Aya.
+
+Mara had taken the aisle seat for access to the drafters. Aya had taken the inner seat so nobody could approach Kade privately without crossing her attention. Neither arrangement had been discussed. Both were obvious once Kade noticed.
 
 He would have preferred breakfast.
 

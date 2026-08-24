@@ -10,11 +10,23 @@ Kade read the rules twice.
 
 Taren, sitting beside him in the briefing room under his restricted-status band, smiled.
 
+The room had been divided by portable walls so no team could read another team’s displays. White-noise emitters whispered above every doorway. A glass cabinet held sealed envelopes with the adversarial instructions, each signed across the flap by two academies. Even deception had provenance here.
+
 “You dislike being professionally outclassed.”
 
 “You are not participating.”
 
 “Exactly. Maximum safety.”
+
+Taren tapped his band against the table. It remained amber, denying him every system in the building.
+
+“You are enjoying this too much,” Kade said.
+
+“For once, suspicion is on the syllabus.”
+
+Mara, two seats away, did not look up. “Suspicion is always on the syllabus. Today it has limits and medical staff.”
+
+The smile left Taren for half a second. “That is an improvement.”
 
 The international red-team program had been designed after the protocol crisis by people who had looked at consent-based shared state and asked the obvious unpleasant question:
 
@@ -110,6 +122,8 @@ Nothing seemed wrong.
 
 Then the reserve collapsed at nineteen percent.
 
+The simulated substation did not merely change color. Cooling louvers slammed shut. A heavy vibration entered the floor as the training flywheel shed load, and the hospital route on Imani’s board flickered from green to amber. Somewhere behind the partition, role-players began calling for lift power and oxygen support. The lie had acquired voices.
+
 Alarm.
 
 Kade looked at Jonas.
@@ -177,6 +191,10 @@ Participant withdrawal did not require justification.
 The network lost Aya’s dependency map.
 
 Not catastrophic.
+
+Mara’s structural plan immediately showed three unlabeled relationships where Aya’s confidence had been. Arjun slowed the power transfer rather than guessing. Imani changed the evacuation promise from *open* to *open with delay*. Jonas began reading uncertainty aloud in five-second intervals.
+
+Kade felt the urge to replace Aya’s missing map with his memory of it. He did not. Remembering what Aya had believed was not the same as owning what she would have corrected next.
 
 More expensive.
 

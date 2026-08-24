@@ -6,6 +6,8 @@ Kade decided this was becoming an international conspiracy.
 
 The problem arrived on a thin black tablet while the Asterion delegation stood in the arrivals hall of Vahana’s Bengaluru campus, still carrying bags and still pretending the overnight flight had not happened.
 
+The arrivals hall looked like a railway concourse designed by mission controllers. Departure clocks shared a wall with orbital windows. Colored paths on the floor led to classrooms, dormitories, medical quarantine, or remote-operations suites, and every path ended at a staffed handoff desk. Through the open southern screens came humid air, traffic noise, and the smell of wet earth after rain. Vahana did not hide the city behind its command systems.
+
 The tablet displayed one sentence.
 
 **YOU HAVE CONTROL OF ORBITAL PLATFORM KAPILA-3 FOR THE NEXT NINE MINUTES. PREPARE A HANDOFF.**

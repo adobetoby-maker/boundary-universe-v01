@@ -10,6 +10,8 @@ He hated the second enough to recognize it.
 
 The test took place in Asterion’s Containment Lab Two because no international academy had volunteered to host the first attempt to prove Kade Mercer was unnecessary.
 
+Lab Two had been rebuilt after the siege with lessons borrowed from every partner school. Brass withdrawal lines crossed the floor in the Kiyomizu style. Kisiwa-style wall maps showed evacuation ownership. Vahana reservoir accounts remained visible above every station. Helix provenance tags identified each model update. Asterion had not become less itself by borrowing. It had become more honest about where its answers came from.
+
 Eli had called the phrasing unhelpful.
 
 Mara had called it accurate enough to be useful.
@@ -19,6 +21,22 @@ Kade had called both of them hostile.
 Now he stood behind the observation glass with Park, Sen, Professor Takahara, Dr. Varga, and three medical staff while Aya sat inside the lab with five volunteers.
 
 No Kade.
+
+Aya checked each volunteer directly before taking her station. Not *Are you ready?* The questions were specific.
+
+“Headache?”
+
+“Zero.”
+
+“Reason to remain if the task degrades?”
+
+“None.”
+
+“Who owns your withdrawal?”
+
+“I do.”
+
+Five variations. Five answers. Only then did she sit.
 
 That was the rule.
 

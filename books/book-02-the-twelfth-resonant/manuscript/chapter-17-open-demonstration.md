@@ -20,6 +20,8 @@ Park ignored him and continued checking the medical leads along his collar.
 
 The Helix demonstration hall had been rebuilt overnight around a circular field platform with six operator stations.
 
+Tiered seats rose on three sides. The fourth remained open to medical access, equipment carts, and a direct route outdoors. Transparent floor panels revealed six separate reservoir trunks feeding the stations; none crossed beneath the center. Helix had designed the room so the audience could see that cooperation did not require one hidden source.
+
 No audience sat closer than twenty meters.
 
 No participant stood inside the physical field volume.
@@ -210,13 +212,21 @@ Kade tried to preserve all three transitions himself.
 
 The shared state tightened around him.
 
+The apparatus answered in physical signs. Mara’s station tilted toward a load path she had not chosen. Arjun’s timing lights began waiting on Kade’s heartbeat. A thin oscillation appeared in Aya’s handrail as five independent correction loops collapsed into one rhythm. To the audience, the network looked smoother. Inside it, everyone else had less room.
+
 Mara’s geometry became harder to distinguish from his expectation of her geometry.
 
 Aya withdrew.
 
 Immediately.
 
+She opened her hand and stepped outside the brass boundary before Kade could make the withdrawal another transition for him to manage. Her station went mechanically neutral. The load it had carried divided according to the predeclared failure map—not according to Kade’s instinct.
+
 The network collapsed.
+
+Mara’s platform dropped to its safety stops. Arjun’s flywheel spun down with a rising metallic whine. Jonas caught the rail as his station rotated twelve degrees. Imani stayed seated but slapped her own cutoff when the evacuation model continued displaying stale confidence.
+
+Kade felt five relations vanish in the wrong order. The absence hit like missing a stair in darkness. His knees unlocked.
 
 Park said, “Stop.”
 

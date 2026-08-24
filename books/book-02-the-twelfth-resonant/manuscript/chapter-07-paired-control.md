@@ -8,6 +8,8 @@ Kade learned this when his wrist display lit during breakfast.
 
 **KIYOMIZU EXCHANGE PAIR EVENT — Vey / Mercer — CONFIRMED**
 
+The notice included more than a start time. It listed medical thresholds, permitted reservoirs, withdrawal signals, the name of the floor officer, and the exact loads at which each obstacle would fail safely. Asterion event notices assumed competitors wanted the spectacle first. Kiyomizu assumed partners needed to know what they were asking one another to risk.
+
 He read it twice.
 
 Then looked across the table.
@@ -830,6 +832,8 @@ Mara’s beam failed.
 
 She dropped forty-three centimeters.
 
+The broken section rotated beneath her rather than disappearing. Its far end struck the arrest mesh and threw a shudder through the entire course. Kade felt the vibration reach his own platform one support at a time. He bent his knees, letting the structure move, while the target between them swung far enough to expose its hot side.
+
 The arrest field caught.
 
 Her knees bent.
@@ -844,7 +848,11 @@ Mara still had field control from the lower position.
 
 She redirected the swing.
 
+Mara did it from an ugly position: left knee below her hip, right foot skidding on recovery mesh, one hand still carrying the tremor from the fall. She could not stop the target without taking more load than they had agreed. She changed the arc instead, sending it above Kade’s shoulder where its momentum could wind into the course’s capture drum.
+
 Kade absorbed the opposite correction.
+
+The correction hit his field and then his body. His vision flashed at the edges. He routed the impulse through both legs into the spring plate under his feet, which depressed almost to its stop and returned a warning tone. For half a second he had no reserve left for balance. Mara saw it and held the target’s final degree alone.
 
 Their target stabilized between them.
 

@@ -6,11 +6,15 @@ Lucian Cross sounded extremely reasonable at 05:40 Bengaluru time.
 
 Julian sat alone in one of Vahana’s small call rooms with a cup of coffee cooling beside him and a privacy light glowing over the door.
 
+The room had no decorative view. One wall showed Bengaluru waking below monsoon clouds; the other carried a live strip of orbital traffic and the names of controllers responsible for each object. Vahana considered accountability calming. Julian found that he preferred it to the Cross family rooms, where decisions arrived dressed as inevitabilities and nobody signed them.
+
 His father’s face occupied the wall display.
 
 Perfect collar.
 
 Perfect lighting.
+
+Lucian had chosen the frame so Julian could see the Cross crest but not the room around it. Julian shifted his own tablet two centimeters, widening the camera until his father could see the Vahana duty board behind him. The act was small enough to deny as accident.
 
 No visible fatigue despite the hour difference.
 

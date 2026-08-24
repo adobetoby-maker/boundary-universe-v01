@@ -6,6 +6,8 @@ At 07:14:22, Kade Mercer stood in Meridian Commons with a bowl of cereal going s
 
 **00:271:09:31:46**
 
+The number shared the wall with the things Meridian had always cared about: meal hours, training assignments, House maintenance, the duty roster. That was either healthy or absurd. Beneath it, first-years argued over toast while the island grid display shifted loads around a turbine inspection. Asterion had put the end of the known world beside breakfast and then expected both systems to keep functioning.
+
 “Two hundred seventy-one days,” Eli Navarro said. “Plenty of time to improve the eggs.”
 
 Sera Vale looked at the tray in front of him.
@@ -920,6 +922,8 @@ Hale was correct.
 
 Now she drove Kade backward with a clean three-step combination, waited for the retreat habit he had supposedly fixed months ago, and scored when he gave her half of it back under fatigue.
 
+Her first step threatened his center. The second was deliberately short, baiting the retreat. On the third she released a narrow acceleration reserve through her rear leg—not enough to look spectacular, only enough to arrive before his weight finished moving. Her shoulder touched his chest plate. The legal-contact sensor chimed while Kade was still trying to decide which feint had beaten him.
+
 The training board flashed.
 
 **SHAH 2 — MERCER 1**
@@ -970,6 +974,8 @@ He moved too early.
 
 She changed levels and took his base.
 
+Kade tried to widen his stance. Priya caught the outside of his lead ankle with hers and drove across his hips, making the correction part of the fall. He slapped the mat a fraction before his shoulder hit. The impact still rattled his teeth.
+
 Kade hit the mat.
 
 Point.
@@ -996,6 +1002,8 @@ Not elegantly.
 
 He watched her hips instead of her field trace and denied the inside route before she committed.
 
+Priya switched to a hand trap. Kade let her control his wrist, stepped through the space she expected him to protect, and put his shoulder against her line of retreat. No unusual transfer. No secret architecture. Just a position she could not leave without crossing the boundary first.
+
 Three-two.
 
 The crowd reacted harder to that point than Priya’s previous two.
@@ -1016,9 +1024,15 @@ So did she.
 
 The exchange lasted forty seconds.
 
+Priya opened with the combination that had scored first, then cut it short when Kade refused the retreat. Kade answered with pressure, forcing her clockwise along the arena ring. She checked his leading hand, stamped his forward foot, and made him recover twice before he could attack once.
+
+He found a rhythm on the fourth contact. Palm to forearm. Shoulder to shoulder. A narrow acceleration pulse trembled through Priya’s frame; Kade felt it gathering and stepped inside before it released. For one breath he had her at the boundary, hips square, heel centimeters from the line.
+
 Kade nearly took the boundary.
 
 Priya recovered, changed direction off the same right foot Kade had learned to read in his first week, and turned his own pressure into the deciding point.
+
+She did not overpower him. She removed the resistance he had been counting on. Kade’s drive carried past her as she pivoted, one hand guiding his elbow and the other checking his shoulder. He crossed the boundary under his own momentum and caught the padded wall with both palms.
 
 **FINAL — SHAH 4 — MERCER 2**
 

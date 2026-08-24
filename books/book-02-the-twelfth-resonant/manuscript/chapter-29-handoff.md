@@ -6,6 +6,8 @@ That was new.
 
 The Vahana lunar operations annex had been divided into three independent systems for the test.
 
+Physical partitions separated the bays, not just colored floor lines. The rescue zone smelled of concrete dust. The power lattice radiated heat through a safety screen. The navigation wall flashed simulated stars against black glass. Participants could hear one another’s alarms without seeing why they sounded. A handoff would have to make another room legible.
+
 A simulated rescue corridor occupied the west bay.
 
 A damaged power-transfer lattice filled the center.
@@ -78,11 +80,25 @@ Imani rejected the narrowest route because it would exclude the mobility chair.
 
 Kade moved existing structural load through the frame without becoming the only place where the geometry lived.
 
+The gate weighed eight hundred kilograms and carried part of the corridor ceiling through a twisted hinge. Mara marked two temporary paths: load into the east brace while the upper pin cleared, then down through a floor jack after rotation. Kade took only the transition between them. Concrete grit lifted around his boots as the east brace flexed.
+
+Imani rolled an empty mobility chair to the opening before she approved another centimeter.
+
+The footrests struck the bent lower rail.
+
+“Stop.”
+
+Kade held. Mara recalculated. They raised the gate four centimeters instead of forcing the chair sideways, spending more thermal margin to preserve the person’s route.
+
 The gate opened.
+
+Not cleanly. It climbed, stuck, and dropped against the jack with a blow Kade felt through the shared boundary. Mara shifted the hinge load before he could centralize it. Imani crouched beside the role-player’s chair and asked permission before touching the controls.
 
 Imani sent the role-players through.
 
 Task complete.
+
+Kade’s shoulders burned. The power meter showed that most of the work had come from the jack and gate motor. His nervous system had paid for deciding, moment by moment, which machine was allowed to carry it.
 
 Now handoff.
 

@@ -2,6 +2,8 @@
 
 Sera Vale carried the Kisiwa Response packet for sixteen hours before opening it.
 
+The packet had softened at one corner from being handled. Kade noticed because Sera’s equipment was never soft at the corners. Her responder pack sat beneath the table with every strap tucked, while the envelope kept migrating from hand to hand as if she could learn the choice through contact before she had to read it.
+
 Kade knew because he saw it at breakfast, still sealed, beside her plate.
 
 Then at lunch, under her tablet.
@@ -19,6 +21,18 @@ Sera looked at him.
 “I’m making conversation.”
 
 “You are monitoring paper.”
+
+Sera turned the packet over. Kisiwa’s seal showed four linked shapes: clinic, transit, water, shelter. No figure stood at the center.
+
+“If I open it,” she said, “then I have to decide whether wanting it is the same as leaving.”
+
+Kade abandoned the joke he had prepared.
+
+“Those sound like different systems.”
+
+“They share load.”
+
+“That does not make them the same system.”
 
 “That sounds worse.”
 

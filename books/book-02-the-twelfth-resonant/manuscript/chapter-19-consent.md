@@ -20,6 +20,22 @@ That was usually where trouble began.
 
 He sat in the Helix methods lab with Jonas, Eli, and three graduate researchers, building the release package.
 
+The lab tables had wheels, independent power, and colored privacy shutters that could close around one person’s work without hiding whether the person was present. Every shared display showed who had contributed each layer. Helix treated provenance as part of the apparatus. Kade still kept saying *our release* when he meant a dozen people’s decisions.
+
+Jonas corrected him the third time.
+
+“Whose?”
+
+Kade looked up. “The group’s.”
+
+“Which group?”
+
+Eli stopped typing. One graduate researcher slowly lowered her coffee.
+
+Kade heard the trap only after entering it. “The participants and methods team, pending individual review.”
+
+Jonas nodded. “Longer. Also true.”
+
 The wall display showed layers of yesterday’s network.
 
 Shared physical state.

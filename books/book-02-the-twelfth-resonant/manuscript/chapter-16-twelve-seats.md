@@ -2,6 +2,8 @@
 
 The restricted archive room contained twelve chairs.
 
+They were not arranged around one table. Four clusters faced four walls, each with its own display, translation controls, and mechanical record box. A narrow aisle connected them without privileging a head position. Dust marks showed the chairs had been rearranged many times and returned to twelve with equal persistence.
+
 Kade hated it immediately.
 
 Mara stopped in the doorway.
@@ -19,6 +21,14 @@ Kade pointed.
 Jonas looked at the chairs.
 
 “There are also three tables.”
+
+“The tables are not in the sealed files,” Mara said.
+
+Jonas considered this. “You have made furniture suspicious.”
+
+“The furniture was already suspicious,” Kade said. “I identified it.”
+
+Aya walked to the nearest chair but did not sit. She checked the worn patch on its left arm, where generations of nervous hands had rested. “Twelve people used this room often enough to leave a pattern. The number mattered to someone before it mattered to us.”
 
 “Twelve chairs.”
 
