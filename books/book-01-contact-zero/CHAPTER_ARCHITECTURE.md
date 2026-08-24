@@ -39,7 +39,7 @@
 
 | Ch | Title | Target | Beat | Status |
 |---|---|---|---|---|
-| 14 | Classification | 4,300 | Rhys meets with Aaron alone. The offer. Not a threat. A position. Technical work. Important work. Permanently invisible. The conversation is careful and completely honest, which is the most frightening thing about it. | PENDING |
+| 14 | Classification | 4,300 | Rhys meets with Aaron alone. The offer. Not a threat. A position. Technical work. Important work. Permanently invisible. The conversation is careful and completely honest, which is the most frightening thing about it. | ✓ WRITTEN |
 | 15 | Three Days | 4,500 | Aaron's three-day decision window. What he does in that time: unauthorized coupling session. Documentation in a format no one will find. Visit to Yuki. The unauthorized session is the most significant: the Node communicates something that cannot be translated except as a question. The question is: *will you be the one who decides?* | PENDING |
 | 16 | What He Doesn't Tell Lena | 4,200 | Lena figures out something is wrong. She doesn't know what — she's been reading Aaron for three years and something shifted. Aaron has one chance to tell her. He doesn't. The decision to not-tell Lena is the one that costs him the most, privately, for the rest of his life. | PENDING |
 | 17 | The Encoding | 4,600 | Aaron begins building the encrypted field-architecture signature into the Conduit design. He works slowly. He is very careful. Every element of the encryption must be invisible to Standard Eight practitioners and below. He is designing something for a Standard Nine practitioner who does not yet exist. He does not know if this is hope or hubris. He decides to consider them equivalent. | PENDING |
