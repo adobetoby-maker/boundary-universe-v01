@@ -112,7 +112,7 @@ Darius stared at it.
 
 “So your review is Friday.”
 
-Darius’s jaw tightened.
+Darius folded the attendance contract until the warning disappeared inside the crease.
 
 Kade knew about Friday because Darius had spent most of the previous afternoon pretending not to care whether his mother could get off work for the meeting.
 

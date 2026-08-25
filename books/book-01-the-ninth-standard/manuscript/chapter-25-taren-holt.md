@@ -282,7 +282,7 @@ Taren looked at him.
 
 “That explains the system, not your knowledge.”
 
-Taren’s jaw tightened.
+Taren's automatic smile reached for the space between them and failed before it formed.
 
 Kade remembered the roof.
 

@@ -1044,7 +1044,7 @@ Cole studied him.
 
 Then said, “Mr. Mercer, Asterion is not interested in proving you belong here.”
 
-Kade’s jaw tightened.
+Kade pressed his tongue against the back of his teeth and kept the first answer there.
 
 Cole continued.
 

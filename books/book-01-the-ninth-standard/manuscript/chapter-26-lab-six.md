@@ -1370,7 +1370,7 @@ The commander looked at her.
 
 “Candidate, what is the first rescue priority?”
 
-Sera’s jaw tightened.
+Sera's hand closed once around the edge of her comm. She made herself release it.
 
 “Do not create more casualties.”
 

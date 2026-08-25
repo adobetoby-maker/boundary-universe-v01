@@ -600,7 +600,7 @@ Aaron.
 
 The missing twelfth name.
 
-Kade’s stomach tightened.
+Aaron's name seemed to alter the pressure in the room. Kade drew a breath that stopped high in his chest.
 
 “So he used it.”
 

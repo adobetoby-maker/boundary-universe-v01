@@ -250,7 +250,7 @@ Sera’s expression changed slightly.
 
 “Enough people did.”
 
-Kade’s jaw tightened.
+Kade hooked two fingers under the duffel strap until the webbing bit into them.
 
 “So move.”
 
@@ -340,7 +340,7 @@ Kade shifted the duffel strap higher. The canvas pressed across his collarbone.
 
 “She mailed the note back. No message. Just my own handwriting in an envelope.”
 
-Sera looked directly at the bag.
+Sera glanced at the zipper he had pulled closed with such care.
 
 “I kept it.”
 
@@ -432,7 +432,7 @@ That was worse advice because it made sense.
 
 Kade sat on the edge of the bed.
 
-The bag remained on his shoulder.
+He sat without taking off the duffel, as if touching the bed with both feet might count as staying.
 
 Eli said, “For the record, if you leave, I’m keeping your desk.”
 
@@ -504,7 +504,7 @@ Kade looked at her.
 
 “That is irritatingly fair.”
 
-Mara’s gaze moved to the bag.
+Mara took in the strained strap, the squared-off shape of folded shirts, and the schedule still lying untouched on his desk.
 
 “You leaving?”
 
@@ -584,7 +584,7 @@ He crossed Meridian courtyard with the duffel over his shoulder.
 
 The bell hung above him.
 
-A few students glanced at the bag.
+Students made space for him without asking why he needed it.
 
 Nobody stopped him.
 
@@ -1062,7 +1062,7 @@ Kade accepted it.
 
 Twenty-seven minutes later he sat in her office with the duffel beside his chair.
 
-Sen looked at the bag.
+Sen studied the boarding strip protruding from the duffel's side pocket.
 
 “You nearly left.”
 
@@ -1186,11 +1186,9 @@ Sen opened a blank authorization form.
 
 Sen's face tightened.
 
-There it was.
+Sen's eyes moved once toward the restricted-records indicator at the edge of her display.
 
-Not a refusal yet.
-
-The calculation before one.
+Not a refusal yet. The calculation before one.
 
 “Any reference to me,” Kade said. “My name, my mother, Northline, hospital records, aptitude projections. If a record is withheld, I want the record identifier, who withheld it, and the stated reason. No invisible gaps.”
 
