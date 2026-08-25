@@ -1,6 +1,6 @@
 # BOOK 3 — THE FINAL BOUNDARY — START HERE
 
-**Production status:** architecture locked for drafting; Chapter 1 is the active six-pass frontier.
+**Production status:** architecture locked; Chapters 1–2 are six-pass complete and audio-render ready; Chapter 3 is the active frontier.
 
 ## Source of truth
 
@@ -33,4 +33,3 @@ Read in this order before drafting or revising:
 ## Drafting rule
 
 Architecture and ledgers precede prose. Every chapter must pass Structure, Density, Character/Clue/Continuity, Audio-first, Story Completeness, and BSBC, followed by the payoff-density gate and attestation.
-
