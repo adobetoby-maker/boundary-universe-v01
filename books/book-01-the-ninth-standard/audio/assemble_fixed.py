@@ -22,6 +22,22 @@ byte-identical to what shipped in chapters 1-7.
 import glob, os, re, statistics as st, subprocess, sys, tempfile
 
 SR = 44100
+
+# 64, not the 128 chapters 1-13 shipped at. One mono speaking voice does not use
+# 128 kbps: measured on ch13, 85% of energy sits below 2,863 Hz at 128 and 2,741
+# at 64 -- a 4% difference, and Toby could not hear it. 48 was also inaudible in
+# a 90s sample but drops the same figure to 1,532 Hz, so it is genuinely
+# discarding upper speech and is not used.
+#
+# Halving the file halves the radio time. That matters here because the PWA has
+# no offline cache -- no caches.open, no blob, no IndexedDB -- so every listen
+# re-streams the whole chapter, and GitHub's media CDN sends max-age=300, which
+# makes a 46 MB body stale five minutes after it arrives. That combination is
+# what was cooking Toby's phone.
+#
+# Chapters 1-13 stay at 128 by decision, so this applies from ch14 on.
+BITRATE = 64
+
 NOISE, MIN_SIL = "-38dB", 0.35
 HZ_PER_DB = 75.0                      # measured, not assumed
 CHAIN = ("highpass=f=85, equalizer=f=140:t=q:w=1.0:g=-6.5, "
@@ -76,7 +92,7 @@ def correct(src, dst, pause_scale, tilt_db):
         graph += f",treble=g={tilt_db:.2f}:f=2500:width_type=q:w=0.7"
     graph += "[out]"
     subprocess.run(["ffmpeg","-v","error","-i",src,"-filter_complex",graph,
-                    "-map","[out]","-c:a","libmp3lame","-b:a","192k",dst,"-y"], check=True)
+                    "-map","[out]","-c:a","pcm_s16le",dst,"-y"], check=True)
 
 def main(cdir, out):
     files = sorted(glob.glob(os.path.join(cdir, "chunk*.mp3")))
@@ -96,7 +112,7 @@ def main(cdir, out):
         scale = (tgt_p / p) if p else 1.0
         tilt  = max(-6.0, min(6.0, tilt))          # don't over-EQ a real outlier
         scale = max(0.6, min(1.6, scale))
-        d = os.path.join(tmpd, os.path.basename(f))
+        d = os.path.join(tmpd, os.path.basename(f).replace(".mp3", ".wav"))
         correct(f, d, scale, tilt)
         fixed.append(d)
         print(f"  {os.path.basename(f)}  centroid {c:6.0f}->{tgt_c:.0f} ({tilt:+.2f}dB)"
@@ -104,14 +120,14 @@ def main(cdir, out):
 
     lst = os.path.join(tmpd, "list.txt")
     open(lst,"w").write("".join(f"file '{f}'\n" for f in fixed))
-    joined = os.path.join(tmpd, "joined.mp3")
+    joined = os.path.join(tmpd, "joined.wav")
     subprocess.run(["ffmpeg","-v","error","-f","concat","-safe","0","-i",lst,
                     "-c","copy",joined,"-y"], check=True)
 
     r = 2 ** (SEMIS/12)
     chain = f"{CHAIN}, asetrate={SR}*{r:.6f}, aresample={SR}, atempo={1/r:.6f}"
     subprocess.run(["ffmpeg","-v","error","-i",joined,"-af",chain,
-                    "-c:a","libmp3lame","-b:a","128k",out,"-y"], check=True)
+                    "-c:a","libmp3lame","-b:a",f"{BITRATE}k",out,"-y"], check=True)
     print(f"\n  wrote {out}  ({dur(out)/60:.1f} min)")
 
 if __name__ == "__main__":
