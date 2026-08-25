@@ -1,0 +1,7 @@
+*.aiff
+*.m4a
+*.m4b
+*.mp3
+prepared/
+generated/
+__pycache__/
