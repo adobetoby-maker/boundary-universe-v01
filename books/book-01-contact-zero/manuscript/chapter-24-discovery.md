@@ -44,6 +44,7 @@ He typed:
 *Date:* the date. *Originating designation: Primary Coupling Interface. Aaron Mercer. Standard Eight. Station Helix Perimeter.*
 *Authorization:* the code. He knew it by the specific kind of memory that had no effort in it — not retrieved but present, the way things were present when they had been important and had not been given the ordinary permission to recede.
 *Clearance verification:* the verification. Done.
+*Review authority: Director Rhys.* The archive populated the field automatically. Rhys remained where he had always been in the Contact Zero record: not beside Aaron, not absent, but attached to what the institution would permit the truth to become.
 
 He typed the first sentence of the body:
 
@@ -62,6 +63,18 @@ He typed a third sentence. He typed a fourth. He worked into the section that ch
 He was not an elegant writer. He had known this since his first research position, when he had received a report back with a note that said *precise but not felicitous — acceptable for our purposes.* He had found the note accurate and had accepted the implied standard: precision was required, felicity was optional, and the purpose of a document was to say what had happened with the minimum amount of language necessary. He had written in that register ever since. He was writing in it now.
 
 He continued. The sentences arrived with the measured quality of things that had been held in readiness for some time and were now being released. He was not in a hurry. He wrote through the event itself, the nature of the communication, the manner in which his Standard Eight coupling architecture had interacted with the field-state structure the source was using as medium. He wrote about the session data, the way the contact had deepened across the authorized period, what the coupling interface had produced when the depth was sufficient. He wrote carefully about what had been understood and what had not been understood and what fell between those categories in the space where he had made decisions about how to classify his own comprehension.
+
+Then he reached the casualty section.
+
+*On Day 1,163, Dr. Yuki Osei entered the primary array while configured for class-three partition isolation and received an unmediated field-state return. Standard diagnostic instruments recorded no persistent anomaly. Direct coupling observation established a permanent reorganization of her field architecture incompatible with restoration under all available treatment protocols.*
+
+He read the paragraph once. The language was clinically exact. It recorded the date, the configuration, the failure of the instruments, the thing he alone had been able to see, and the permanence that every later file had approached through smaller words. It did not say that Yuki had been right about harmony. It did not say she had told him she would show him the method after lunch. It did not say he had assigned the dangerous outcome a low probability and left the room.
+
+He added one sentence.
+
+*Dr. Osei's analysis was correct.*
+
+The sentence did not belong in an incident summary under the ordinary rules of technical documentation. He left it there.
 
 He wrote for three hours.
 
@@ -121,7 +134,7 @@ Not as a conclusion he had reached — as a fact, with the specific quality of f
 
 *If I am the one who decides, then I have decided.*
 
-He held this.
+The sentence settled with the finality of a value that had stopped changing between measurements.
 
 The question had been: *will you be the one who decides.* He had translated it from field-state quality into language the way he had translated everything from those sessions — approximately, accurately within the approximation, in the vocabulary available at the interface between his experience and his comprehension. The translation was partial and precise in the way all partial characterizations of complex systems were precise: correct about the structure it described, silent about what it could not resolve. The question had stayed with him since the three-day window. He had written it in the private log. He had encoded its structure into the Conduit geometry — five notation elements, designed for a practitioner at the Standard Nine threshold, designed to outlast his own knowledge of whether the practitioner would ever exist. He had been carrying the question with the specific quality of things you carried when they did not have a scheduled resolution.
 

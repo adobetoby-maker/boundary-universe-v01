@@ -31,9 +31,9 @@
 | End Ch 19 | Building the encoding into the Conduit design. Designing for a Standard Nine practitioner. | Work described to Rhys without disclosure of encoding | Growing | 5 |
 | End Ch 20 | Writing official Resonance Discovery narrative. Technically accurate in every detail that matters least. | Built the lie. Omitted Quieters explicitly. | Private log sealed. | 5 |
 | End Ch 21 | Team dispersed. Helix Perimeter decommissioned. Office in Geneva. | — | Sealed | 5 |
-| End Ch 22 | Asterion Academy open. Enrollment data read. No Standard Nine. Building for someone not yet born. | — | Sealed | 5 |
+| End Ch 22 | Asterion Academy open. Enrollment data read. No Standard Nine. Early diagnostics repeatedly detect the encoding as unexplained secondary resonance. Building for someone not yet born. | — | Sealed | 5 |
 | End Ch 23 | Ran into Lena at symposium. Lunch. Did not discuss anything that matters. | — | Sealed | 5 |
-| End Ch 24 | Opened the document. Typed the heading. Saved. Did not look at private log. Never opened it again. New lunar station online, calibrated to his signature. | Everything | Never opened again | 5 |
+| End Ch 24 | Opened the document. Named Yuki and affirmed her analysis in the true account. Rhys remains its review authority. Saved. Did not look at private log. Never opened it again. New lunar station online, calibrated to his signature. | Everything | Never opened again | 5 |
 
 ---
 

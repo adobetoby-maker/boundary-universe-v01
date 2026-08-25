@@ -34,7 +34,7 @@ He noted, without immediately pressing it, that he was not the first person to e
 
 He could do the same thing.
 
-He held this for a moment.
+He left both hands off the controls until the implication finished resolving.
 
 He could, without visible alteration to the framework's functional specifications, build something into the null. Something that would produce a result at Standard Nine — where the null was no longer null, where the resolution of the coupling architecture was sufficient to read the geometric region as legible — that produced nothing at Standard Eight and below. The framework would function correctly in every operational tier. The null region would be invisible to everyone who would ever use the Conduit in the period he could currently project. It would remain invisible until a practitioner existed whose coupling architecture resolved the null as something other than background.
 
@@ -138,7 +138,7 @@ He had been running the notation through a series of coupling-architecture model
 
 He was, in other words, designing for a practitioner he could not verify existed.
 
-He held this. The notation sat in the secondary document and he sat with it, because holding things before pressing them had become a practice he relied on and he was relying on it now.
+The notation remained uncommitted in the secondary document. Aaron read it through twice before allowing the design question to become a moral one.
 
 The question that was becoming a question was: what did it mean to do this?
 
