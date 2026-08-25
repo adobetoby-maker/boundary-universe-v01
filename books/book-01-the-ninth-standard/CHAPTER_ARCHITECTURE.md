@@ -1,3 +1,5 @@
+> **ARCHIVED 2026-08-25** — historical snapshot of a pre-expansion state. For current status see /PUBLICATION_ROADMAP.md.
+
 # CHAPTER ARCHITECTURE — BOOK 1
 
 **Status: PROVISIONAL**

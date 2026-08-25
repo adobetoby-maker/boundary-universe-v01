@@ -1,8 +1,13 @@
 # HANDOFF — READ THIS FIRST
 
-**Updated:** 2026-08-21
+**Updated:** 2026-08-25
 **Project:** The Boundary Universe / Asterion Trilogy
-**Current phase:** Book 1 developmental/prose polish complete; production/listening pass next
+**Current phase:** Book 1 COMPLETE (189,588 words, expanded + reviewed); audio 13/33 published. Book 2 next.
+
+> **Status and sequencing now live in /PUBLICATION_ROADMAP.md — read that
+> before anything below.** The task list further down this file predates the
+> density expansion, the voice decision (Holden), and the audio pipeline; it
+> is retained as history, and several of its items are already done.
 
 ## Locked project decisions
 - Connected universe name (working): **The Boundary Universe**.

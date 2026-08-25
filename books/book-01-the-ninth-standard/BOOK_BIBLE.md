@@ -1,6 +1,6 @@
 # BOOK 1 BIBLE — THE NINTH STANDARD v0.1
 
-**Target:** 187,000 words
+**Final:** 189,588 words (target was 187,000)
 **Target audio:** ~20.1 hours at 9,300 words/hour
 **Planned chapters:** 33
 **Average:** ~5,667 words/chapter

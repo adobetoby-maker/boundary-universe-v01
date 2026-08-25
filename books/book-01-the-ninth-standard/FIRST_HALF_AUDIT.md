@@ -1,3 +1,5 @@
+> **ARCHIVED 2026-08-25** — historical snapshot of a pre-expansion state. For current status see /PUBLICATION_ROADMAP.md.
+
 # FIRST-HALF TRAJECTORY & CONTINUITY AUDIT
 
 **Scope:** Chapters 1–17 working manuscript

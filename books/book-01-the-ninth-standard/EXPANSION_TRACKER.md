@@ -1,6 +1,12 @@
-# BOOK 1 DENSITY EXPANSION TRACKER
+# BOOK 1 DENSITY EXPANSION TRACKER — CLOSED / COMPLETE
 
-**Branch:** `expand/book1-ch01-10`
+**Status:** CLOSED 2026-08-25. All 33 chapters expanded through Pass 6; the
+per-chapter counts below sum to exactly 189,588 words, the merged total on
+main (commit cfd0308). Despite the branch name and "Block A" framing below,
+all three blocks (ch1–33) were completed on this tracker. Kept as the
+reconciliation record; do not reopen.
+
+**Branch:** `expand/book1-ch01-10` (merged to main)
 **Purpose:** expand the polished 33-chapter manuscript from compressed treatment-density prose toward the original novel-density architecture without changing the established plot spine.
 
 ## Rules

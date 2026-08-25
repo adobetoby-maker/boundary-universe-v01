@@ -1,3 +1,5 @@
+> **ARCHIVED 2026-08-25** — historical snapshot of a pre-expansion state. For current status see /PUBLICATION_ROADMAP.md.
+
 # BOOK ONE RAPID-DRAFT AUDIT
 
 **Scope:** Chapters 1–33, structural/continuity review before polish.

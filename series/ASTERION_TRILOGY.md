@@ -4,7 +4,7 @@
 Character-driven progression science fiction centered on elite academy life, measurable advancement, found family, institutional mystery and eventual first contact.
 
 ## Planned scale
-- Book 1: **The Ninth Standard** — ~187k words / ~20 audio hours
+- Book 1: **The Ninth Standard** — 189,588 words (final) / ~27 audio hours at the measured 7,000 words/hour
 - Book 2: **The Twelfth Resonant** — 190k–205k words / ~20–22 audio hours
 - Book 3: **The Final Boundary** — 195k–210k words / ~21–23 audio hours
 

@@ -1,3 +1,5 @@
+> **ARCHIVED 2026-08-25** — historical snapshot of a pre-expansion state. For current status see /PUBLICATION_ROADMAP.md.
+
 # BOOK 1 — EXTERNAL BSBC FINAL REVIEW (CLAUDE)
 
 **Status:** ACCEPTED AS EXTERNAL REVIEW INPUT
