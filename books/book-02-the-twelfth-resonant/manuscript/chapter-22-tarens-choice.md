@@ -568,25 +568,31 @@ That night Taren called his mother.
 
 Kade did not hear the call.
 
-He heard about it later because Taren told him.
+He heard about it an hour later when Taren found him alone in the Meridian common room, took the chair across from him, and set his silent tablet facedown between them.
 
-His mother cried.
+“Gabriel called her first,” Taren said.
 
-Not because he had refused the Directorate.
+Kade waited.
 
-Because Gabriel had called her first.
+“My mother cried.” Taren smoothed one thumb along the tablet's edge. “Not because I refused the Directorate. She said she had already spent an hour imagining every way Gabriel could make me pay for it.”
 
 Family systems moved faster than governance.
 
-She asked whether Taren was ruining his future for people who might never forgive him.
+“Then she asked whether I was ruining my future for people who might never forgive me.”
 
-Taren said probably.
+“What did you say?”
 
-Then she asked whether the people mattered that much.
+“Probably.”
+
+Taren gave the word as though he had tested gentler answers on the walk over and rejected all of them.
+
+“Then she asked whether the people mattered that much.”
 
 He did not answer quickly.
 
-Kade asked what he finally said.
+Kade watched Taren's hand stop moving against the tablet.
+
+“What did you finally say?”
 
 Taren looked embarrassed.
 
@@ -597,6 +603,8 @@ Taren looked embarrassed.
 Taren looked toward the Meridian bell hanging over the common-room door.
 
 “Because I want my future to belong to the person who lives it.”
+
+The Meridian bell moved slightly above the common-room door, stirred by air from the vent. It made no sound. Taren's shoulders lowered a fraction anyway, as if he had finally stopped waiting for the House to certify the answer.
 
 Kade did not make a joke.
 

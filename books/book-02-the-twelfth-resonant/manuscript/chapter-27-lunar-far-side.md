@@ -328,6 +328,52 @@ The scientist said, “They have shielding.”
 
 The scientist checked the shielding model. While he did, the panel slipped another degree. The technician on the low side planted both boots and pushed, but lunar gravity reduced the weight without reducing the panel’s inertia. Once moving, it wanted to keep moving.
 
+The upper technician fired a suit tether into the crawler rail.
+
+The line caught, snapped taut, and turned the radiator instead of stopping it. The panel began a slow rotation around the anchored corner. On Earth it would have fallen. Here it swept.
+
+Its outer edge crossed the camera in a bright horizontal blur.
+
+Sera was already at the route display.
+
+“Suit clearances?”
+
+The safety officer split the feed into three telemetry columns. “Low-side antenna has nineteen centimeters. Backpack housing has forty-one.”
+
+“Not if they keep pushing against the rotation.”
+
+Kade saw it then. The technicians were treating the panel as weight because every rescue reflex they owned had been trained under gravity. Both were bracing beneath it. Neither was controlling the mass around its new pivot.
+
+He reached toward the route model and stopped before touching it. Zhou's name was dim. The safety officer's was bright. The architecture was making a demand of him before Sera could.
+
+“May I mark a vector?”
+
+The officer gave him temporary annotation authority.
+
+Only annotation.
+
+Kade drew the panel's arc and extended it six seconds. The projected edge passed through the low technician's shoulder and the seal ring beneath the helmet.
+
+Julian leaned over the display. “They need to move with it.”
+
+“They need to let it move,” Mara said. “One push at the outer edge will increase the rotation.”
+
+Eli pulled the crawler schematic beside the feed. “Maintenance arm has a passive brake. No power required, but somebody has to release the transport lock first.”
+
+The scientist looked from the countdown clock to the exterior feed. “Remote command can release it.”
+
+Zhou said, “Remote command crosses the sector test bus.”
+
+Meaning the calibration had to stop before the command could pass.
+
+On the feed, the panel's edge touched the low technician's shoulder plate. Not an impact. A patient pressure. The suit readout changed from green to amber.
+
+The technician tried to duck. The tether geometry pulled the panel after him.
+
+Sera did not raise her voice.
+
+“Shut down the sector test.”
+
 Sera pointed at the crawler camera. “Their shielding does not matter if the load takes the antenna off the suit.”
 
 No one answered quickly.
@@ -337,6 +383,14 @@ Sera turned to the safety officer.
 “Your call.”
 
 The officer canceled the calibration.
+
+The signal plots collapsed to standby. Eli used the newly open control path to release the maintenance arm. Outside, a jointed boom unfolded from the crawler with lunar slowness. The upper technician guided it against the radiator's far edge. The brake engaged.
+
+The panel stopped four centimeters from the low technician's helmet ring.
+
+For several seconds nobody in signal control spoke. Kade could hear the air system, the cooling pumps beneath the floor, and one technician breathing too fast over an open suit channel.
+
+The safety officer ordered both technicians into the crawler and sent the machine toward the nearest storm shelter without the radiator.
 
 Nobody died.
 

@@ -350,7 +350,7 @@ He could have made it cleaner.
 
 He said nothing.
 
-The center joint heated two percent.
+The center joint heated by two percent.
 
 Inside limit.
 
