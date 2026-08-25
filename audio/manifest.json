@@ -8,7 +8,7 @@
       "id": "book-01-the-ninth-standard",
       "title": "The Ninth Standard",
       "totalChapters": 33,
-      "renderedChapters": 13,
+      "renderedChapters": 14,
       "chapters": [
         {
           "number": 1,
@@ -252,6 +252,24 @@
               "sha256": "6e990a3f47f652d17f4a26ae94b6eb1db03297dcdaaecc73387e1f07c4bfc238",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch13-cross-examination.holden.mp3",
               "note": "5,749 spoken words, 21 chunks, 48.5 min (7,054 w/hr).\n\nOne chars/sec FAST outlier, chunk 09 at +12.2 percent, whisper-verified: it ends\nexactly where its text does.\n\nFirst chapter prepped through prep_el.py rather than by hand. MAX_CHARS is still\n4000 in that module, overridden to 1800 at the call site; audit_text.py returned\n0 READ findings and one DECIDE note (a run of sentence fragments beginning 'Ms.\nAlvarez.') that reads correctly in the render."
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "title": "House Trial: Qualifiers",
+          "manuscript": "books/book-01-the-ninth-standard/manuscript/chapter-14-house-trial-qualifiers.md",
+          "renders": [
+            {
+              "render": "holden",
+              "engine": "ElevenLabs",
+              "voice": "Holden + locked chain (EQ 85/140/250Hz, +0.5st)",
+              "file": "audio/book-01-the-ninth-standard/ch14-house-trial-qualifiers.holden.mp3",
+              "bytes": 25126705,
+              "durationSec": 3140.78,
+              "sha256": "cfe1152ba71279ed19859d1667cd67b81c4d7ee454cda9cd925394a6763284fa",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/book-01-the-ninth-standard/ch14-house-trial-qualifiers.holden.mp3",
+              "note": "6,381 spoken words, 23 chunks, 52.3 min (7,298 w/hr -- 5 percent above the\nband, consistent with this chapter's high dialogue fraction).\n\nFIRST CHAPTER AT 64 KBPS: 25.1 MB where the ch1-13 method would have produced\n~50. Encoded through the revised assemble_fixed.py -- WAV intermediates, one\nlossy generation instead of three.\n\nThree chars/sec FAST outliers (04 +11.8, 06 +12.2, 16 +11.6), all\nwhisper-verified: each ends exactly where its text does.\n\nOne operational note: chunks 14-16 sat in the render queue ~15 minutes without\nstarting; identical resubmissions went straight to in_progress and completed\nin about a minute. Queued-not-started jobs past a few minutes are dead --\nresubmit rather than wait."
             }
           ]
         }
