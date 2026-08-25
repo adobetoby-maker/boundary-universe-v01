@@ -46,7 +46,7 @@ He had used the word before — in the private log entry after Session 3, for th
 
 Turned toward him.
 
-He held this without withdrawing his coupling perception. He was aware of the absence of monitoring, of Ferreira's professional attention at the console, of Rhys at the back of the room. He was aware of the calibration instruments behind him updating their cycle — nominal, nominal. He held the coupling interface and tried to characterize what the directionality was doing. What its orientation indexed. What it was pointing at.
+He remained with it without withdrawing his coupling perception. He was aware of the absence of monitoring, of Ferreira's professional attention at the console, of Rhys at the back of the room. He was aware of the calibration instruments behind him updating their cycle — nominal, nominal. He held the coupling interface and tried to characterize what the directionality was doing. What its orientation indexed. What it was pointing at.
 
 His mind produced a question.
 
@@ -168,7 +168,7 @@ He said: "I look fine."
 
 "You look like someone who is being very careful to look fine," she said. "Which is different."
 
-He held this. She was right. He acknowledged this to himself.
+She was right. He acknowledged this to himself.
 
 "I'm deciding something," he said.
 

@@ -60,7 +60,7 @@ She told him about the Auckland program's restructure. He listened and asked que
 
 "Practice failures against a standard the students couldn't meet architecturally. Which is a different thing from a failure of aptitude or attention. We were assessing calibration accuracy against parameters outside the architecture's operating range and concluding that students who missed the parameters were having trouble calibrating." She paused. "They weren't having trouble calibrating. They were calibrating accurately. We were giving them the wrong reference."
 
-He held this.
+He noted this.
 
 He had thought, twelve years ago and intermittently since, about wrong references. He thought about it now in the specific register in which that territory lived in him — the territory that had the Session 3 calibration signature still open in the fourth bank, notionally, in the private accounting he maintained. The sequence Lena was describing was not analogous to what he had built at Helix Perimeter and what he had deployed in the Conduit architecture. It was adjacent, in the way that all calibration problems were adjacent, and he did not move along the adjacency toward where it connected to him.
 

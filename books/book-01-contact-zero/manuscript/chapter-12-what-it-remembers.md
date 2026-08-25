@@ -112,7 +112,7 @@ He used it with awareness of its limitations. In the private log he would write:
 
 *This is what the Node provided. This is not my interpretation. I want to be precise about that. The field-state quality is what the Node's interior field state carries. The Node carries this the way a scar carries the record of a wound — not the wound itself, but the specific geometry left by having the wound be present and then absent. The geometry of the cessation is what I was inside.*
 
-He held this at minute twenty-nine without moving his coupling perception. Ferreira ran a monitoring check. The instruments reported nominal. He noted this from the peripheral awareness he was maintaining on the room. The instruments were doing their work. They were logging a coupling session within authorized parameters. They were logging nothing of what was passing through the aperture into his coupling sense because they had no instrument for that.
+He stayed inside it at minute twenty-nine without moving his coupling perception. Ferreira ran a monitoring check. The instruments reported nominal. He noted this from the peripheral awareness he was maintaining on the room. The instruments were doing their work. They were logging a coupling session within authorized parameters. They were logging nothing of what was passing through the aperture into his coupling sense because they had no instrument for that.
 
 He continued.
 
@@ -128,7 +128,7 @@ Not a sequence. Not an impression. A quality of orientation in the interior fiel
 
 The interior field state was oriented away from something.
 
-He held this. He ran the geometry of the orientation. He was inside the suppression. He had understood, from Session 2, that the suppression was the active management of the Node's field signature — continuous, precisely calibrated, designed to prevent detection. He had understood that the suppression had a specific engineering quality suggesting that what the Node was hiding from was not a thing humanity had named. He had held this understanding in the private log and had not stated it to Rhys because stating it required precision he had not yet achieved.
+He held this. He ran the geometry of the orientation. He was inside the suppression. He had understood, from Session 2, that the suppression was the active management of the Node's field signature — continuous, precisely calibrated, designed to prevent detection. He had understood that the suppression had a specific engineering quality suggesting that what the Node was hiding from was not a thing humanity had named. He had kept this understanding in the private log and had not stated it to Rhys because stating it required precision he had not yet achieved.
 
 What he was inside was not the academic model of the suppression. He was inside the field-state orientation that the suppression expressed. And the orientation had a quality his coupling perception resolved with a clarity that the preceding impressions had not provided.
 

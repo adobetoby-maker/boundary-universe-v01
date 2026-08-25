@@ -68,6 +68,14 @@ Aaron said: "What happens to the research if I decline?"
 
 "It continues. Carefully. With whatever access structure is available and appropriate given the coupling architecture parameters."
 
+Aaron said: "The people who can't continue carefully."
+
+Rhys did not ask him to specify. That was itself information — he had not needed a moment to locate the referent, which meant he had been holding the same referent before Aaron asked.
+
+"They receive every possible treatment," Rhys said. "That commitment does not change with your decision."
+
+Aaron received this the way he received the other phrases Rhys chose with visible care. He did not ask what the phrase resolved to in practice. He had read language built the same way before — precise enough to be defensible, general enough to describe nothing — in a debrief format, in a file he had read once and had not needed to read twice. He did not say the name the sentence was built around. Neither did Rhys.
+
 "With whoever the alternative coupling interface is."
 
 Rhys looked at him directly. "There is not currently an alternative coupling interface with comparable architecture. If you decline, the session access questions are significant. We would need to work through them."
@@ -190,7 +198,7 @@ Rhys stopped. He did not turn fully. He turned the specific degree that indicate
 
 "That would be part of the access the designation provides," Rhys said. "It would not be available during the three-day window."
 
-Aaron held this.
+Aaron filed this without comment.
 
 "Thank you," he said.
 

@@ -202,7 +202,7 @@ He had said what he'd come to say, in the order it needed to be said. He had mov
 
 He knew the outcome before the meeting.
 
-Aaron held this with the same precision he held other things he could not yet use. He did not pursue it. He did not name it aloud. He let it settle into the category of things that would matter later and said: "The medical authority team will brief me this afternoon?"
+Aaron noted this with the same precision he brought to other things he could not yet use. He did not pursue it. He did not name it aloud. He let it settle into the category of things that would matter later and said: "The medical authority team will brief me this afternoon?"
 
 "14:00," Rhys said. He stood. He offered his hand. "I understand this changes the work considerably."
 

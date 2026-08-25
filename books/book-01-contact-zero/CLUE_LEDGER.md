@@ -73,7 +73,7 @@ Each clue entry has:
 |---|---|---|---|---|---|
 | CZ-13 | Ch 15 | In the unauthorized coupling session, the Node communicates "something that cannot be translated except as a question." Aaron does not transcribe the question, only its shape. | The question is what Aaron will encode in the Conduit architecture | Asterion B1 | PENDING |
 | CZ-14 | Ch 19 | Aaron describes the encoding as "invisible to Standard Eight practitioners and below" — a strange constraint to include | The person it's designed for is Standard Nine; this is the only way to hide something from himself | Asterion B1 | PENDING |
-| CZ-15 | Ch 22 | Aaron reads early Conduit diagnostic reports and notes they keep flagging "an unexplained secondary resonance pattern." Labs attribute it to manufacturing variance. | The secondary pattern is the encoding. It is functioning exactly as designed. | Asterion B1 | PENDING |
+| CZ-15 | Ch 22 | Aaron reads early Conduit diagnostic reports and notes they keep flagging "an unexplained secondary resonance pattern." Labs attribute it to manufacturing variance. | The secondary pattern is the encoding. It is functioning exactly as designed. | Asterion B1 | PLANTED ✓ ch22 |
 
 ---
 

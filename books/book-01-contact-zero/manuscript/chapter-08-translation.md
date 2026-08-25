@@ -92,7 +92,7 @@ The sequences he was receiving had an activity variance below the floor he had e
 
 Not zero. Below the floor. Below what he had set as his minimum-variance reference for this source, calibrated to what the source had shown him across hundreds of sample windows at multiple array configurations. Whatever he had established as a stable low-variance baseline, the sequences in the authorized session were lower than that.
 
-He held this carefully and did not let his mind reach for the wrong word.
+He approached this carefully and did not let his mind reach for the wrong word.
 
 The wrong word was *old*. He found it and set it aside. Old was time-referenced — the description you applied to something that had been in existence for a long interval, where long was measured against a timeline the observer recognized. The impression he was receiving was not time-referenced. It was not saying: *I have been here for a long time.* It was not saying anything about duration. It was saying something he could not find a direct translation for and kept approaching from the periphery.
 

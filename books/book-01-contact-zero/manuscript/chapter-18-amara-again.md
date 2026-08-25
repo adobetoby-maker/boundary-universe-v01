@@ -58,7 +58,7 @@ He looked at her. "That's not the same thing."
 
 "No," she said.
 
-He held this. The distinction was important in the way technical distinctions were important: they did not change the substance of what had happened, but they placed it correctly, and placement was accuracy, and inaccuracy had costs he knew well enough not to prefer comfort to it. She had known the directionality. She had not known the moment of resolution. He had told himself, for three days, that the resolution had happened at no identifiable point, that it had been there when he walked back from the medical bay and perhaps before. She had tracked the directionality without him telling her. The directionality was not in question for her before it had been resolved for him.
+He noted this. The distinction was important in the way technical distinctions were important: they did not change the substance of what had happened, but they placed it correctly, and placement was accuracy, and inaccuracy had costs he knew well enough not to prefer comfort to it. She had known the directionality. She had not known the moment of resolution. He had told himself, for three days, that the resolution had happened at no identifiable point, that it had been there when he walked back from the medical bay and perhaps before. She had tracked the directionality without him telling her. The directionality was not in question for her before it had been resolved for him.
 
 He said: "How."
 

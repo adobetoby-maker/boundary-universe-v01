@@ -4,6 +4,10 @@ The decommissioning orders came through the Institute's priority channel on a mo
 
 He read the directive once. Then again. It was thorough. The schedule was precise: personnel dispersal coordinated over eight weeks, equipment archiving over twelve, the coupling array decommissioning itself scheduled in phases across the final four weeks. The directive named specific components, specific personnel, specific receiving facilities. It had been written by someone who understood what they were decommissioning.
 
+The authorization line at the base of the directive carried a routing code rather than a signature — the Institute's administrative systems did not preserve handwriting, only origin — but the origin was legible enough: RHYS — AUTHORIZING OFFICER. He had not seen the name attached to anything addressed to him since the morning in Observation Module B, four months ago. It appeared here doing exactly what a name did in an administrative routing field: establishing who had authorized the action, nothing more. No note attached. No acknowledgment of what the decommissioning would mean for the people it dispersed, or for the record it would seal, or for the man reading it at his terminal at the end of an otherwise ordinary shift.
+
+Aaron looked at the line for a moment longer than the line required.
+
 He closed the channel. He returned to the comparative analysis.
 
 He completed it before lunch and filed it with the session archive. The filing was automatic — destination already configured, the archive path written into the station's operational protocols. He confirmed the filing and cleared the workstation. Outside the viewport the heliospheric background moved through its ordinary slow pattern, and in the direction he did not look, at a bearing he still knew to four decimal places without consulting the supplements, the background held its organized depression — not deep, not dramatic, exactly what it had always been.
@@ -28,7 +32,7 @@ Lena's departure was scheduled at the end of the fifth week.
 
 He had not known she had accepted the teaching position — she had confirmed it before the decommissioning directive arrived, in the three days he had been in Geneva for onboarding with the Institute, and she had not mentioned it when he returned because there had been no occasion and because Lena Park did not arrange occasions for announcements that the administrative schedule would handle. He had learned about it from the dispersal manifest: *TRANSFER CONFIRMED — RECEIVING INSTITUTION: University of Auckland. Department of Atmospheric and Field Sciences. POSTING TYPE: Permanent.*
 
-University of Auckland. Undergraduate program. He had held this for a moment when he read it and then moved to the next line in the manifest.
+University of Auckland. Undergraduate program. He had paused on this for a moment when he read it and then moved to the next line in the manifest.
 
 She had calibrated coupling arrays. She had calibrated him, in the functional sense — she was the person who caught the borderline readings, the ones that sat within the acceptable range but were trending outside it, who caught them before they drifted into the zone where calibration intervention was required. She had done this without being asked to, without formally acknowledging that she was doing it, in the way that rigorous people brought rigor to the space around them not as a project but as a condition of their presence.
 

@@ -66,6 +66,20 @@ He updated his tracking record and noted the cohort's standard-type ceiling. He 
 
 ---
 
+The quarterly quality assurance package included, this cycle, the labs' consolidated diagnostic summary from the earliest Conduit production run — the first sixty units built to the deployment specification, now three years into service across the original twelve facilities. He read it in order, the way he read everything in the package, without skipping ahead to the section that would eventually matter most to him.
+
+Fourteen of the sixty units had returned, at some point in their service record, a diagnostic flag the labs described as an unexplained secondary resonance pattern, low amplitude, present across the aperture calibration layer. The flag did not affect operational performance. It did not correlate with any known component defect. The labs' assessment attributed it to manufacturing variance in the early production batches — a plausible explanation, stated with the ordinary confidence of an assessment nobody had seriously contested, because nothing about the pattern demanded contest.
+
+He read the attribution twice.
+
+He did not correct it. He did not annotate the record. He entered nothing in his private tracking file beyond the routine notation the quality assurance protocol required — unit count, flag frequency, no operational impact, no recommended action. He set the rest of it beside the other material that required no immediate response and would require something, eventually, that he could not yet specify.
+
+Fourteen units. Low amplitude. Present across the aperture calibration layer, exactly where he had built it to be present.
+
+Manufacturing variance was not the correct explanation. It was, for now, the only explanation anyone had reason to look for.
+
+---
+
 He thought, that Saturday, about patience.
 
 The word was not precisely accurate to what he meant, which was a structural property rather than an emotional one. Patience in its ordinary usage described a quality of experience — the capacity to wait without distress, to hold an intention across a duration without losing confidence in it. He did not mean this. What he meant was something about the relationship between a system and the timescale on which the system operated, and whether those two things were in the right alignment.
