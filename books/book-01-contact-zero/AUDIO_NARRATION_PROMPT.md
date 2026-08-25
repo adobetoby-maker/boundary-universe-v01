@@ -93,7 +93,7 @@ The page Aaron writes and destroys: the reader does not hear its contents. The n
 **Chapter 14 (Classification):**
 Rhys's offer is delivered carefully and completely honestly. This is the most frightening thing about it. Read Rhys at his usual unhurried pace, every word considered, no word wasted. The listener should finish this chapter understanding why Aaron cannot simply say no.
 
-**Chapter 17 (The Encoding):**
+**Chapter 19 (The Encoding):**
 The technical work of building something for a person who doesn't exist yet. Read the encoding process with care — the mathematics are not described, but the deliberateness is. Aaron is moving slowly on purpose. The slowness is the design.
 
 **Chapter 24 (DISCOVERY):**

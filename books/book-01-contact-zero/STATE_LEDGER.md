@@ -26,9 +26,9 @@
 | End Ch 14 | Rhys offered him the position. Permanent, invisible. The offer is completely honest. | Nothing new | Growing | 4 |
 | End Ch 15 | Three-day window. Did unauthorized session. Node asked: "will you be the one who decides?" Documented everything in private format. Visited Yuki. | Three-day period not fully accounted to Rhys | Growing | 5 (1 unauthorized after lockdown) |
 | End Ch 16 | Did not tell Lena. Lost that chance. | Lost the chance; didn't lie — just didn't say. | Growing | 5 |
-| End Ch 17 | Building the encoding into the Conduit design. Designing for a Standard Nine practitioner. | Work described to Rhys without disclosure of encoding | Growing | 5 |
-| End Ch 18 | Accepted the offer. Asked what happens to Node. No satisfactory answer. | Full scope of private documentation not disclosed to Rhys | Growing | 5 |
-| End Ch 19 | Told Amara. She knew. Loneliness of two people choosing the same thing for different reasons. | — | Growing | 5 |
+| End Ch 17 | Accepted the offer. Asked what happens to Node. No satisfactory answer. | Full scope of private documentation not disclosed to Rhys | Growing | 5 |
+| End Ch 18 | Told Amara. She knew. Loneliness of two people choosing the same thing for different reasons. | — | Growing | 5 |
+| End Ch 19 | Building the encoding into the Conduit design. Designing for a Standard Nine practitioner. | Work described to Rhys without disclosure of encoding | Growing | 5 |
 | End Ch 20 | Writing official Resonance Discovery narrative. Technically accurate in every detail that matters least. | Built the lie. Omitted Quieters explicitly. | Private log sealed. | 5 |
 | End Ch 21 | Team dispersed. Helix Perimeter decommissioned. Office in Geneva. | — | Sealed | 5 |
 | End Ch 22 | Asterion Academy open. Enrollment data read. No Standard Nine. Building for someone not yet born. | — | Sealed | 5 |
@@ -56,7 +56,7 @@
 | Book open | Sees the anomaly in shared diagnostics | Waiting to see if Aaron finds it | No |
 | End Ch 2 | Sees the shared anomaly diagnostics and has checked Aaron's workstation before his shift | Continues giving Aaron room to find the pattern | No |
 | Ch 11 | Everything about Aaron's private finding | She chose to wait; does not say what she chose about the cover-up | Told Aaron she waited. Said nothing about her own choice. |
-| Ch 19 | Aaron is taking the position | She already knew | No new information exchanged |
+| Ch 18 | Aaron is taking the position | She already knew | No new information exchanged |
 | End of book | Public face of Resonance Discovery | 30 years of giving the official history perfectly | — |
 
 ---
@@ -104,7 +104,7 @@
 | Book 1 opens | Day 1,127 of Aaron's posting | Ch 1 |
 | Yuki's contact event | ~3 weeks into book (est. Ch 6) | PENDING |
 | Rhys arrives | Within 31 hours of incident report | PENDING |
-| Aaron accepts the offer | ~5 weeks into book (est. Ch 18) | PENDING |
+| Aaron accepts the offer | ~5 weeks into book (est. Ch 17) | PENDING |
 | Helix Perimeter decommissioned | ~1 year after Ch 1 | PENDING |
 | Asterion Academy opens | Several years after book closes | LOCKED (Asterion B1) |
 | Kade Mercer born | End of Book 3 (Contact Zero Trilogy) | LOCKED |
