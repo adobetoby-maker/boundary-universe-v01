@@ -1,4 +1,4 @@
-# Chapter Eighteen: Yes
+# Chapter Seventeen: Yes
 
 He arrived at Observation Module B at 08:54.
 

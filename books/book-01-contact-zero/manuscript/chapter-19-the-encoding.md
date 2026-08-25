@@ -1,4 +1,4 @@
-# Chapter Seventeen: The Encoding
+# Chapter Nineteen: The Encoding
 
 The workspace assigned to him was a smaller room than he had expected, which was fine. It was on the B-ring of the restricted section, away from the main monitoring bays, separated from the coupling array infrastructure by two airtight hatches and a fifty-meter corridor that passed through the medical wing before arriving at his door. The room had a single workstation, a secondary display mounted to the left of the primary, a climate control unit that ran slightly warmer than he would have chosen, and a viewport that looked out on nothing he hadn't seen before. He had spent three days calibrating himself to the room's particular qualities before he had begun to work in it with any efficiency.
 
