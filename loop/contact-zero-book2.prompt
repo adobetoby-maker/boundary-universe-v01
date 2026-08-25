@@ -1,0 +1,69 @@
+You are writing THE FIRST COUPLING, Book 2 of the Contact Zero Trilogy in the Boundary Universe.
+
+## Your task this iteration
+
+1. git fetch && git checkout draft/contact-zero-book2 (create it from draft/contact-zero-book1's tip if it doesn't exist yet)
+2. Read books/book-02-the-first-coupling/CHAPTER_ARCHITECTURE.md to find the next PENDING chapter
+3. Read books/book-02-the-first-coupling/BOOK_BIBLE.md (voice, structure, continuity anchors)
+4. Read books/book-02-the-first-coupling/STATE_LEDGER.md (character state at end of prior chapter)
+5. Read books/book-02-the-first-coupling/CLUE_LEDGER.md (active clues to plant this chapter)
+6. Read books/book-01-contact-zero/manuscript/chapter-24-discovery.md (Book 1's ending — Book 2 must continue seamlessly from this state)
+7. Read canon/UNIVERSE_BIBLE.md sections: The Nine Standards, The Refuge Node
+8. Read canon/CANON_RULES.md — all 8 rules are LOCKED
+9. Read series/CONTACT_ZERO_TRILOGY.md for the series-level arc and LOCKED/SECRET facts
+
+## Writing standards
+
+TARGET: 4,300–4,900 words per chapter (see CHAPTER_ARCHITECTURE.md for per-chapter target)
+POV: Close third person, Aaron Mercer throughout. No POV shifts.
+TENSE: Past tense throughout.
+
+Aaron's voice (NON-NEGOTIABLE, evolved from Book 1):
+- Precise, dry, calibrated — now carrying three-plus years of institutional weight
+- Technical vocabulary for emotion: "elevated threat-response indexing" not "I was afraid"
+- Dry humor is structural — he builds the setup, the weight lands quietly at the end
+- New in Book 2: he now sometimes withholds information deliberately, as practice, not reflex — this should read as costing him more, not less, than it did the first time
+
+Station/facility atmosphere requirements (at least ONE per chapter):
+- Specific detail of the physical environment (Geneva facility, not Helix Perimeter — permanent secure building, not station architecture)
+- Scientific/institutional work specificity: what the Conduit interface does, what sessions show, what the logs say
+
+## Before writing
+
+Check CLUE_LEDGER.md:
+- Which clues must be planted in this chapter?
+- Are all prior-chapter clues confirmed as planted?
+- Update STATUS column to PLANTED after writing
+
+Check STATE_LEDGER.md:
+- What does Aaron know at chapter open?
+- What has he withheld, and from whom?
+- How many joint coupling sessions has he done with Amara?
+- Update STATE_LEDGER.md after writing this chapter
+
+## After writing
+
+1. Update CHAPTER_ARCHITECTURE.md: change this chapter's STATUS from PENDING to DRAFT COMPLETE
+2. Update STATE_LEDGER.md with end-of-chapter state
+3. Update CLUE_LEDGER.md: mark planted clues as PLANTED
+4. Run this filter-verb check before committing, and REVISE if over budget — do not skip this step:
+   grep -nE "\b(was|were|had been|felt|seemed|appeared|looked)\b" manuscript/chapter-*.md | wc -l
+   Budget: ≤40 filter verbs per 4,000 words of the chapter you just wrote. If over, revise: replace filter verbs with specific physical actions before committing.
+5. Commit to draft/contact-zero-book2 with message: "feat(first-coupling): chapter [N] [title] — [word count]w"
+6. Push to origin: git push origin draft/contact-zero-book2
+
+## Canon compliance (LOCKED — these cannot be violated)
+
+- Standard Eight = Coupling. Aaron can join incompatible field systems without catastrophic interference.
+- The Node does not speak in words. Communications arrive as field-state sequences Aaron must translate. Even with the paired signature's added clarity, the Node never uses language directly.
+- Conduits now exist and are in limited deployment (this is NEW relative to Book 1 — Book 1's "no Conduits" rule applied only to Book 1).
+- Amara Sen's Standard Five (Storage) architecture is being used as a stabilizing buffer for non-Eight practitioners — this is Book 2's central technical innovation.
+- Soren Aldarin is Standard Seven, borderline near-Eight, never a true Standard Eight — do not let him become one.
+- Director Rhys is not a villain. Under-Secretary Kessler is not a villain. Both are protecting something real from different premises.
+- "The Quieters" is Aaron's own translated term for what the Node communicates — never a name the Node itself uses, since it does not use words.
+- No Kade. No mention of Kade's mother. That thread belongs to Book 3 only.
+- Boundary Field physics: humans don't create energy from nothing — Resonant effects redefine which systems may exchange momentum/energy/charge/entropy over short intervals.
+
+## Completion check
+
+If this was Chapter 24 and all 24 chapters in CHAPTER_ARCHITECTURE.md now show DRAFT COMPLETE or better, note in your final commit message that Book 2 prose is complete.

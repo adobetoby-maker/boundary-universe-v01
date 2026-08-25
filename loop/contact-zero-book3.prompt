@@ -1,0 +1,68 @@
+You are writing THE LONG SILENCE, Book 3 of the Contact Zero Trilogy in the Boundary Universe. This is the final book of the trilogy.
+
+## Your task this iteration
+
+1. git fetch && git checkout draft/contact-zero-book3 (create it from draft/contact-zero-book2's tip if it doesn't exist yet)
+2. Read books/book-03-the-long-silence/CHAPTER_ARCHITECTURE.md to find the next PENDING chapter
+3. Read books/book-03-the-long-silence/BOOK_BIBLE.md (voice, structure, continuity anchors — read the LOCKED/SECRET/OPEN sections carefully, especially the Asterion Trilogy cross-reference about Aaron's eventual fate)
+4. Read books/book-03-the-long-silence/STATE_LEDGER.md (character state at end of prior chapter)
+5. Read books/book-03-the-long-silence/CLUE_LEDGER.md (active clues to plant this chapter)
+6. If this is Chapter 1: read books/book-02-the-first-coupling/manuscript/chapter-24-*.md in full — Book 3 must open in a state consistent with exactly how Book 2 ended. Do not assume the architecture outline's projections without checking the actual manuscript text.
+7. Read canon/UNIVERSE_BIBLE.md sections: The Nine Standards, The Refuge Node
+8. Read canon/CANON_RULES.md — all 8 rules are LOCKED
+9. Read series/CONTACT_ZERO_TRILOGY.md for the series-level arc, LOCKED/SECRET/OPEN facts — this is the FINAL book, so every OPEN thread this book is meant to resolve must resolve exactly as the series bible specifies
+
+## Writing standards
+
+TARGET: 4,400–5,100 words per chapter (see CHAPTER_ARCHITECTURE.md for per-chapter target)
+POV: Close third person, Aaron Mercer throughout. No POV shifts.
+TENSE: Past tense throughout.
+
+Aaron's voice (NON-NEGOTIABLE, final evolution):
+- Precise, dry, calibrated — eight years of institutional and personal weight now
+- Technical vocabulary for emotion, unchanged in mechanism from Books 1–2
+- New in Book 3: scenes with Elin Casaus should show the smallest possible loosening of his register — not performed warmth, just less distance. This must stay subtle until Chapter 24.
+- Chapter 24 ONLY: the first genuine, unguarded crack in the calibration since Book 1 Chapter 1. Do not let this leak into earlier chapters.
+
+Institutional/domestic atmosphere requirements (at least ONE per chapter):
+- Specific detail of the physical environment (Geneva facility, or wherever Elin/domestic scenes are set — these should feel different in texture from the classified-work scenes)
+- Scientific/institutional work specificity where relevant: what the erasure protocol requires, what the final encoding's physical form involves
+
+## Before writing
+
+Check CLUE_LEDGER.md:
+- Which clues must be planted in this chapter?
+- Are all prior-chapter clues confirmed as planted?
+- Update STATUS column to PLANTED after writing
+
+Check STATE_LEDGER.md:
+- What does Aaron know at chapter open?
+- What is his relationship status with Elin, and what has she been told?
+- What is Rhys's health/authority status?
+- Update STATE_LEDGER.md after writing this chapter
+
+## After writing
+
+1. Update CHAPTER_ARCHITECTURE.md: change this chapter's STATUS from PENDING to DRAFT COMPLETE
+2. Update STATE_LEDGER.md with end-of-chapter state
+3. Update CLUE_LEDGER.md: mark planted clues as PLANTED
+4. Run this filter-verb check before committing, and REVISE if over budget — do not skip this step:
+   grep -nE "\b(was|were|had been|felt|seemed|appeared|looked)\b" manuscript/chapter-*.md | wc -l
+   Budget: ≤40 filter verbs per 4,000 words of the chapter you just wrote. If over, revise: replace filter verbs with specific physical actions before committing.
+5. Commit to draft/contact-zero-book3 with message: "feat(long-silence): chapter [N] [title] — [word count]w"
+6. Push to origin: git push origin draft/contact-zero-book3
+
+## Canon compliance (LOCKED — these cannot be violated)
+
+- Standard Eight = Coupling. Aaron can join incompatible field systems without catastrophic interference.
+- The Node does not speak in words, even at its fullest disclosure in Chapters 7–8.
+- Elin Casaus is a civilian, never read into the classified program. What Aaron tells her (Ch16) is genuine and incomplete by design and by her own informed choice — not a lie, not full disclosure.
+- Rhys steps down (Ch12) — health-driven withdrawal, NOT death. He is alive at Book 3's close unless a later canon decision changes this.
+- Kade is born in Chapter 23 and does NOT appear as a developed character on-page — the book ends at or shortly after his birth. Do not age him up.
+- Aaron's classification formalizes (Ch22) in the same season as Kade's birth (Ch23) — these two events must land together per series bible, not years apart.
+- CRITICAL — do not contradict the Asterion Trilogy's eventual reveal (cross-reference in BOOK_BIBLE.md): 31 years after this trilogy, Aaron is alive, sealed in a chamber, sustaining containment around the Refuge Node. Nothing in Book 3 may write an ending incompatible with this — no character death for Aaron, no full retirement from the Node relationship, no permanent severing of his connection to the coupling work. His classification is an erasure from PUBLIC record, not from the actual ongoing work.
+- Boundary Field physics: humans don't create energy from nothing — Resonant effects redefine which systems may exchange momentum/energy/charge/entropy over short intervals.
+
+## Completion check
+
+If this was Chapter 24 and all 24 chapters in CHAPTER_ARCHITECTURE.md now show DRAFT COMPLETE or better, note in your final commit message that the Contact Zero Trilogy prose is complete — all three books drafted.
