@@ -1002,7 +1002,7 @@ Sen watched him.
 
 “To see whether you would leave.”
 
-His jaw tightened.
+The accusation landed close enough to something true that Kade had to choose his next breath.
 
 “You think I’m going to?”
 

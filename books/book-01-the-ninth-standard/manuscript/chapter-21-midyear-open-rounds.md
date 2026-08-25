@@ -1022,9 +1022,7 @@ Match.
 
 Julian, visible two sections away waiting for his own next bout, saw it and nodded once.
 
-Kade pretended not to notice.
-
-He noticed.
+Kade kept his attention on the boundary line, but Julian's nod followed him off the floor.
 
 Ortez shook his head as they left.
 

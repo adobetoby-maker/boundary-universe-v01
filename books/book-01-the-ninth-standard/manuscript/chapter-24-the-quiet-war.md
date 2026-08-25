@@ -554,7 +554,7 @@ Kade had enough pieces for one night.
 
 Mara asked, “Why erase Aaron?”
 
-Sen’s jaw tightened.
+Sen flattened both hands on the table, holding them still before she answered.
 
 “Because Contact Zero split the people studying it.”
 

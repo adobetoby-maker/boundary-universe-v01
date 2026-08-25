@@ -1604,7 +1604,7 @@ Kade looked at him.
 
 “No.”
 
-Julian’s jaw tightened.
+Julian checked the failing ceiling brace instead of Kade, then checked it again as if the numbers might make the request less personal.
 
 “I am asking because your ability can break a building and we are standing over the thing everyone is attacking.”
 

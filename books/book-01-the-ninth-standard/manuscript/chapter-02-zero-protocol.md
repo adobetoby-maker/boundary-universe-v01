@@ -378,7 +378,7 @@ The screen came alive beneath a red header.
 
 **ZERO PROTOCOL**
 
-Kade’s stomach tightened.
+The name turned the meeting from an evaluation into something designed in advance. Kade sat straighter.
 
 “So it has a name.”
 
