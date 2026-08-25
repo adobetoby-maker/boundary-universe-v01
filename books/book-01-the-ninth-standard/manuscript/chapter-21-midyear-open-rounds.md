@@ -12,7 +12,7 @@ Assign two medical technicians where one had previously seemed sufficient.
 
 Try not to let him break the floor.
 
-The Midyear Open began with 2,048 first-years and a bracket large enough to make Eli emotional.
+The Midyear Open began with 2,048 first-years and a bracket large enough to make Eli emotional. Qualifying pools had spent two days cutting the field to one hundred twenty-eight before the bracket rounds began.
 
 “It’s beautiful,” he said.
 
@@ -1088,7 +1088,7 @@ Sera locked the band display.
 
 Sera looked down at the sealed container in her lap.
 
-“My second placement had a kitchen fire.”
+“My first placement had a kitchen fire.”
 
 The room changed by a degree.
 

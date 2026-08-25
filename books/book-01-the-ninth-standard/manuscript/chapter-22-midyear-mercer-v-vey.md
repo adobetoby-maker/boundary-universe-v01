@@ -60,7 +60,7 @@ On the far wall, the spectator feed cycled through the people Meridian students 
 
 **ELENA MERCER — NORTHLINE MEDICAL**
 
-**DARIUS COLE — NORTHLINE CONTINUATION**
+**DARIUS BELL — NORTHLINE CONTINUATION**
 
 The green indicators beside both names meant they had opened the feed.
 
@@ -170,7 +170,7 @@ Kade looked up.
 
 “And yet.”
 
-Priya sat beside Mara and began retying the red Meridian thread around her own wrist. She had lost in the third round. The thread stayed on.
+Priya sat beside Mara and began retying the green first-year thread around her own wrist. She had lost in the third round. The thread stayed on.
 
 Kade looked down at his.
 
@@ -404,7 +404,7 @@ The technician fastened a scoring band around Kade’s ribs and asked him to bre
 
 The band tightened, calibrated, released one degree.
 
-Across the glass, Mara’s technician checked the seal at her left wrist. The red Meridian thread had been tucked beneath it so nothing could snag.
+Across the glass, Mara’s technician checked the seal at her left wrist. The green first-year thread had been tucked beneath it so nothing could snag.
 
 Kade did the same with his own.
 
@@ -1294,7 +1294,7 @@ If Mara took the whole center, Julian had the counter. If she took half, he kept
 
 Mara tried to make a third choice.
 
-Her heel crossed the scoring line by less than the width of the red thread beneath her wrist seal.
+Her heel crossed the scoring line by less than the width of the green thread beneath her wrist seal.
 
 The barrier chimed.
 

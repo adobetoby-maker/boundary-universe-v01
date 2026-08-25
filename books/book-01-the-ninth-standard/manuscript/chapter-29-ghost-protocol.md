@@ -656,7 +656,7 @@ Kade turned on him.
 
 “How long has it been?”
 
-“Thirty-six.”
+“Ninety-six.”
 
 Sera made a sound.
 
@@ -668,7 +668,7 @@ Eli raised both hands.
 
 Sen changed the wall display.
 
-A timeline filled it, thirty-six hours of small white marks arranged beneath academy system names.
+A timeline filled it, ninety-six hours of small white marks arranged beneath academy system names.
 
 Recovery team.
 
@@ -1218,7 +1218,7 @@ Kade noticed because watching a presumed-dead person complain about mustard was 
 
 “This is terrible mustard.”
 
-“You have been hidden underground for thirty-six hours.”
+“You have been hidden underground for ninety-six hours.”
 
 “That does not improve mustard.”
 
