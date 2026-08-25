@@ -13,14 +13,20 @@ file.
 
 | Work | Chapters | Words | Branch | State | Audio |
 |---|---|---|---|---|---|
-| B1 The Ninth Standard | 33 | 189,588 | main | COMPLETE — expanded, reviewed, continuity-fixed | 13/33 published |
-| B2 The Twelfth Resonant | 34 | 87,680 | draft/book-02-four-pass | COMPLETE at treatment density (43% of target) | none |
-| B3 The Final Boundary | 1 file | — | draft/book-03-six-pass | not started | none |
-| Contact Zero bk 1 | 24 | 108,754 | draft/contact-zero-book1 | COMPLETE draft, pre-polish | none |
+| B1 The Ninth Standard | 33 | 189,799 | main | COMPLETE — Pass 8 copyedit begun | 13/33 published |
+| B2 The Twelfth Resonant | 34 | 93,037 | main | Pass 8 expansion in progress (~47% of target) | local proof complete; Holden pending |
+| B3 The Final Boundary | 2 | ~5,287 | draft/book-03-six-pass | active six-pass draft | none |
+| Contact Zero bk 1 | 24 | 109,135 | main | COMPLETE draft — Pass 8 findings reconciled | none |
 | The Quiet Ward | 24 | 95,036 | feature/refuge-node-trilogy | COMPLETE with audio — CANON, review-gated pre-merge | complete |
 
 An editorial review (six independent readers, 2026-08-25) covered every word
 of B1, B2, and Contact Zero. Findings drove the punch lists below.
+
+Pass 8 integration on `main` consolidates the reviewed manuscripts that had
+previously lived on separate source branches. Source commits: Book 1
+`610cd2e`, Book 2 Pass 7/8 `fe4b41d` + `ee04287` (plus audio-proof commit
+`8b7a2d6`), and Contact Zero `ae5a2bf`. The per-book
+`PASS_08_EXTERNAL_READER_RECONCILIATION.md` files are the audit records.
 
 ---
 
@@ -40,15 +46,17 @@ series (see Decision 3) because nothing enforced that.
 
 ## Book 1 — The Ninth Standard — COMPLETE, in audio production
 
-- Manuscript: 33 ch / 189,588 words on main. Density expansion merged
-  (58,703 → 189,588). Five continuity defects from the editorial review fixed
+- Manuscript: 33 ch / 189,799 words on main. Density expansion merged
+  (58,703 → 189,588), followed by the first Pass 8 copyedit batch. Five
+  continuity defects from the editorial review fixed
   (Darius Bell surname, kitchen-fire placement, Open-thread color, Eli's
   96-hour timeline, 128-entrant bracket math) — commit 64a0f50.
 - Review verdict: the book sticks the landing. Reveal architecture passed an
   independent fair-play re-audit; ch32's climax repair held; clue-planting
   discipline in ch1–11 was found exceptional.
 - **Remaining gates before print-ready:**
-  1. Copyedit pass for systemic tics (one ticket, whole book): "jaw tightened"
+  1. Copyedit pass for systemic tics (IN PROGRESS; first batch applied, 40
+     regex candidates remain for editorial judgment): "jaw tightened"
      as universal tell, "laughed without humor," "stomach tightened,"
      "He noticed." beat-enders, "There it was." reveal-punctuation, the
      "That was true / Also true" triad, "That sounded almost X" scene-closers.
@@ -65,14 +73,16 @@ series (see Decision 3) because nothing enforced that.
 
 ## Book 2 — The Twelfth Resonant — next major writing effort
 
-- 34 ch / 87,680 words, treatment density, 43% of the 190–205k target.
+- 34 ch / 93,037 words after Pass 7 and the first Pass 8 critical-density
+  batch, approximately 47% of the 190–205k target.
 - Cross-book continuity is CLEAN — review found zero contradictions with
   Book 1; countdown arithmetic reconciles to the day. The Lian Zhou/Park
   "collision" from an earlier session **does not exist** (verified against
   full git history); B2's own sweep already fixed its three real collisions.
 - **Expansion pass, in priority order (from the review's triage):**
-  EXPAND-CRITICAL: ch27 (21% density, Zhou intro + Rule-6 payoff as pure
-  exposition) → ch24 → ch21 → ch33 → ch26 → ch22 → ch23 → ch17 → ch10.
+  EXPAND-CRITICAL: ch27 and ch22 have received their first Pass 8 scene
+  expansions; continue/verify ch27 → ch24 → ch21 → ch33 → ch26 → ch22 →
+  ch23 → ch17 → ch10.
   Then 19 EXPAND-STANDARD chapters. Six are NEAR-TARGET (1, 2, 3, 5, 18, 20).
 - The highest-leverage craft fix is mechanical and findable: the book
   *reports* scenes instead of dramatizing them ("Kade heard about it later").
@@ -89,14 +99,15 @@ series (see Decision 3) because nothing enforced that.
   Captain Ortiz (B1) vs Commander Ortiz (B2), Ms. Rook (B1) vs Dean Rook
   (B2) — promotions if same people, renames if not (canon/NAME_REGISTRY.md).
 
-## Book 3 — The Final Boundary — not started
+## Book 3 — The Final Boundary — active draft
 
-One manuscript file exists. Not a scheduling item until B2 expansion is done.
-B2's ending (30 days on the countdown) hard-constrains B3's opening.
+Two chapters are drafted and attested on `draft/book-03-six-pass`. The draft
+remains branch-scoped while it is actively changing. B2's ending (30 days on
+the countdown) hard-constrains B3's opening.
 
-## Contact Zero — complete draft, structural fix APPLIED
+## Contact Zero — complete draft, Pass 8 findings reconciled on main
 
-- 24 ch / 108,754 words. Review verdict: unusually disciplined; close to
+- 24 ch / 109,135 words. Review verdict: unusually disciplined; close to
   ready for density/polish. Prose held up even in the late-burst chapters.
 - **Structural surgery (one item):** ch17-19 chronology. ch17 "The Encoding"
   (Day ~1,200) sits before the acceptance it postdates; "Yes" and "Amara
@@ -106,10 +117,10 @@ B2's ending (30 days on the countdown) hard-constrains B3's opening.
   commit 643d6eb). ch24 "fourth session" RESOLVED AS NOT A DEFECT — a real
   fourth authorized session exists off-page (ch15 "four coupling sessions...
   in authorized configurations", ch17 "the four authorized sessions"); the
-  reviewer's session tally missed it. Remaining: Rhys vanishes ch19-24
-  (bible's own checklist calls for a closing beat); planned Yuki gut-punch
-  beat from BOOK_BIBLE never written; CLUE_LEDGER CZ-15 planted in ledger
-  but absent from ch22; "He held this." tic (15+ verbatim uses).
+  reviewer's session tally missed it. Pass 8 restored Rhys's closing
+  institutional shadow, wrote Yuki into Aaron's true account, planted CZ-15
+  in ch22, and reduced the exact "He held this." tic. Eight exact instances
+  remain for contextual polish.
 - ch24's ending inverts the bible's planned final image (secret TRUE account
   vs public lie-document) — arguably stronger, but confirm intentional.
 

@@ -7,8 +7,8 @@
       "title": "The Ninth Standard",
       "series": "The Asterion Trilogy \u2014 Book 1",
       "role": "Academy / origin",
-      "status": "Written",
-      "words": 189588,
+      "status": "Complete / Pass 8 copyedit in progress",
+      "words": 189799,
       "chapters": 33,
       "audio_hours": 20.1,
       "description": "Kade Mercer: zero output score, last-ranked freshman, impossible boundary architecture. The academy that rejected him becomes the one thing he has to save."
@@ -16,7 +16,7 @@
     {
       "id": "the-quiet-ward",
       "title": "The Quiet Ward",
-      "series": "The The Quiet Ward Trilogy \u2014 Book 1",
+      "series": "The Quiet Ward Trilogy \u2014 Book 1",
       "role": "Medical SF / first contact",
       "status": "Complete with Audio",
       "words": 95036,
@@ -25,12 +25,36 @@
       "description": "Dr. Sable Hren. Room Four. A patient whose field instruments return null \u2014 not low, not zero. Null. Thirty-three days to learn what the instruments cannot say."
     },
     {
+      "id": "the-twelfth-resonant",
+      "title": "The Twelfth Resonant",
+      "series": "The Asterion Trilogy \u2014 Book 2",
+      "role": "International academies / second contact",
+      "status": "Pass 8 expansion in progress",
+      "words": 93037,
+      "chapters_written": 34,
+      "chapters_total": 34,
+      "audio_hours": 10.4,
+      "description": "Kade and the Asterion cohort enter an international system while the returned signal becomes a physical countdown and a test of authority without permanent centers."
+    },
+    {
+      "id": "the-final-boundary",
+      "title": "The Final Boundary",
+      "series": "The Asterion Trilogy \u2014 Book 3",
+      "role": "Civilizational conflict / payoff",
+      "status": "Active six-pass draft",
+      "words": 5287,
+      "chapters_written": 2,
+      "chapters_total": null,
+      "audio_hours": null,
+      "description": "The countdown enters its final month as the distributed systems built in Books 1 and 2 face their civilizational test."
+    },
+    {
       "id": "contact-zero",
       "title": "Contact Zero",
       "series": "The Contact Zero Trilogy \u2014 Book 1",
       "role": "Space station / first signal",
-      "status": "Complete draft",
-      "words": 108754,
+      "status": "Complete draft / Pass 8 reconciled",
+      "words": 109135,
       "chapters_written": 24,
       "chapters_total": 24,
       "audio_hours": null,
@@ -38,33 +62,33 @@
     }
   ],
   "universe": {
-    "total_words": 481058,
-    "books_complete": 2,
-    "books_in_progress": 1,
-    "books_planned": 6
+    "total_words": 492294,
+    "books_complete": 3,
+    "books_in_progress": 2,
+    "books_planned": 4
   },
   "trilogy": [
     {
       "title": "The Ninth Standard",
       "role": "Academy / origin",
-      "status": "Written"
+      "status": "Complete / Pass 8 copyedit in progress"
     },
     {
       "title": "The Twelfth Resonant",
       "role": "International academies / first contact",
-      "status": "Planned"
+      "status": "Pass 8 expansion in progress"
     },
     {
       "title": "The Final Boundary",
       "role": "Civilizational conflict / payoff",
-      "status": "Planned"
+      "status": "Active draft \u2014 2 chapters"
     }
   ],
   "contact_zero_trilogy": [
     {
       "title": "Contact Zero",
       "role": "Station \u2014 first signal",
-      "status": "In Progress \u2014 3/24 chapters"
+      "status": "Complete draft / Pass 8 reconciled"
     },
     {
       "title": "Book 2",
@@ -79,7 +103,7 @@
   ],
   "book1": {
     "title": "The Ninth Standard",
-    "words": 187000,
+    "words": 189799,
     "chapters": 33,
     "audio_hours": 20.1
   },
