@@ -1,6 +1,6 @@
 # BOOK 1 BIBLE — THE QUIET WARD v0.1
 
-**Status: PROVISIONAL**
+**Status: CANON — manuscript complete; canonization review passed 2026-08-25 with docketed repairs**
 **Target:** 95,000–105,000 words
 **Target audio:** ~10–11 hours at 9,300 words/hour
 **Planned chapters:** 24
@@ -18,6 +18,7 @@ A reader should finish Book 1 feeling that a hospital is a more dangerous place 
 
 Close third person, Sable Hren throughout.
 No alternate POV in Book 1. This is a diagnostic novel. We stay inside the one person doing the diagnosis.
+Sanctioned exception: Chapter 12 (Fenn) — single-chapter close-third on Fenn Ash, retroactively approved at canonization review.
 
 ---
 

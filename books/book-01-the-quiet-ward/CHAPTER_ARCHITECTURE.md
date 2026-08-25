@@ -1,6 +1,6 @@
 # CHAPTER ARCHITECTURE — THE QUIET WARD
 
-**Status: PROVISIONAL**
+**Status: HISTORICAL — original outline; see STATE_LEDGER for final state**
 
 Current planned words: **100,000** across **24 chapters** (~10.8 audio hours at 9,300 words/hour).
 

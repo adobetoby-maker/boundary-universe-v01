@@ -74,7 +74,7 @@ She said yes.
 
 He said: "Neither have I."
 
-She stood in the doorway for a moment with the door at its hand's width, and then she went back to the ward, and the exchange went with her, at its own weight, which was not small. He had described her differential in nine words. He had also described the journal, the shape, the two years since a platform monitor logged forty-one seconds of nothing. Neither of them had found the edge of it. She had spent a career learning that the cases that mattered were the ones where the physician and the patient turned out to be doing the same work from opposite sides, and she filed the sentence where she filed the things that were true in both directions.
+She stood in the doorway for a moment with the door at its hand's width, and then she went back to the ward, and the exchange went with her, at its own weight, which was not small. He had described her differential in nine words. He had also described the journal, the shape, the eighteen months since a platform monitor logged forty-one seconds of nothing. Neither of them had found the edge of it. She had spent a career learning that the cases that mattered were the ones where the physician and the patient turned out to be doing the same work from opposite sides, and she filed the sentence where she filed the things that were true in both directions.
 
 ---
 

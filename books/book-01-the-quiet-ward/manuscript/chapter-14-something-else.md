@@ -94,7 +94,7 @@ She said: is it what I think it is?
 
 He considered the question. She watched the consideration, which had the grammar she had learned to read — not searching, verifying, the sentence checked against the data before release.
 
-"I don't know what you think it is," he said. A pause. "I know what I think it is. I've known for two years. I think what you perceived this morning was the same thing I perceived during the forty-one seconds. Not all of it. The part of it that was available from inside."
+"I don't know what you think it is," he said. A pause. "I know what I think it is. I've known for eighteen months. I think what you perceived this morning was the same thing I perceived during the forty-one seconds. Not all of it. The part of it that was available from inside."
 
 He looked at the journal on the windowsill.
 
@@ -108,7 +108,7 @@ She said: you told me I would know it when it happened. How did you know?
 
 She sat with that too.
 
-It was, she understood, the most important thing he had said in three weeks, and it had arrived the way everything important in this room arrived, flat, without ceremony, four sentences into an evening check. He had not known. All of it — the *you will*, delivered twelve days ago in the reporting tone she had transcribed as flat, not mystical; the patience with the scanner; the *I was glad you could see any* — all of it had been built not on knowledge but on hope: the hope of a man alone on the far side of an experience with no documentation, that someone whose way of looking resembled his own might one day stand in a corridor and receive what he had received, and come to his room in the evening, and say so. He had been waiting two years for corroboration. She had been, this morning, the corroborating instrument. She thought of the technician at the manufacturer's line — *we've never seen that before* — and of every null in the file, and of what it would be to carry a true reading that no second instrument would confirm, for two years, politely, in careful sentences that stopped where the useful information began because the useful information had always, until now, cost him his credibility to give.
+It was, she understood, the most important thing he had said in three weeks, and it had arrived the way everything important in this room arrived, flat, without ceremony, four sentences into an evening check. He had not known. All of it — the *you will*, delivered twelve days ago in the reporting tone she had transcribed as flat, not mystical; the patience with the scanner; the *I was glad you could see any* — all of it had been built not on knowledge but on hope: the hope of a man alone on the far side of an experience with no documentation, that someone whose way of looking resembled his own might one day stand in a corridor and receive what he had received, and come to his room in the evening, and say so. He had been waiting eighteen months for corroboration. She had been, this morning, the corroborating instrument. She thought of the technician at the manufacturer's line — *we've never seen that before* — and of every null in the file, and of what it would be to carry a true reading that no second instrument would confirm, for eighteen months, politely, in careful sentences that stopped where the useful information began because the useful information had always, until now, cost him his credibility to give.
 
 She did not say any of that either. She said: thank you for telling me.
 
