@@ -6,7 +6,7 @@ He was a broad man in the gray fleet jacket of the regional medical transport se
 
 Ruan Sela stepped down without touching the offered hand, thanked the driver for it anyway, and stood on the wet concrete of the receiving bay looking at the fog the way a person looks at weather they have missed.
 
-He was thirty-four by the paperwork and looked less. Not younger in the way of good luck or good bones — younger in the way of someone the last two years had declined to write anything on. Medium height. Dark hair cut short and growing out even, which meant it had been cut by hospital staff and left alone since. He wore his own clothes, not facility issue, and he carried one small bag, soft-sided, the size of a bag a man takes for two nights away. Nine weeks of inpatient care, and everything he owned or wanted rode in one hand.
+He was thirty-four by the paperwork and looked less. Not younger in the way of good luck or good bones — younger in the way of someone the last eighteen months had declined to write anything on. Medium height. Dark hair cut short and growing out even, which meant it had been cut by hospital staff and left alone since. He wore his own clothes, not facility issue, and he carried one small bag, soft-sided, the size of a bag a man takes for two nights away. Nine weeks of inpatient care, and everything he owned or wanted rode in one hand.
 
 The receiving nurse moved forward with the wheelchair, and he looked at it, and looked at her, and said, "Thank you. I'd rather walk, if that's allowed."
 
@@ -78,7 +78,7 @@ He looked at her for a moment longer than the exchange required. She had the imp
 
 "Your prior facility," she said. "Carrow Bay. How were they with you?"
 
-"Good. Careful. The nursing staff was kind to me, and Dr. Amroth was honest, which I valued. They ran everything they had. Toward the end they stopped telling me the results, but I didn't need telling by then. You can read a room, Dr. Hren. It's most of what I've had to do for two years."
+"Good. Careful. The nursing staff was kind to me, and Dr. Amroth was honest, which I valued. They ran everything they had. Toward the end they stopped telling me the results, but I didn't need telling by then. You can read a room, Dr. Hren. It's most of what I've had to do for eighteen months."
 
 "What happened to your field state, Ruan?" She asked it plainly, at the end, the way she'd planned to. "In your own understanding. Not the chart's."
 
