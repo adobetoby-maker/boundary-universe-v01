@@ -42,7 +42,219 @@ Meridian Night happened whenever the House moved upward in the inter-house stand
 
 The unofficial reason was Friday.
 
-The roof had transformed.
+Kade had first heard about Meridian Night at breakfast when Taren stood on a chair and announced, “By order of nobody with authority, tonight is mandatory.”
+
+A second-year yelled, “That word does not mean what you think it means.”
+
+Taren pointed at him.
+
+“You will be there.”
+
+“Probably.”
+
+“See?”
+
+Sera had confiscated the chair before Taren could declare anything else.
+
+By lunch, the event had acquired committees.
+
+Meridian apparently believed every informal gathering required organization sophisticated enough to support a minor military campaign.
+
+Nessa managed food.
+
+Anton handled heaters.
+
+Two second-years controlled music because the previous year Eli had been allowed near the sound system.
+
+“That happened once,” Eli said.
+
+“The fire alarm happened twice,” Sera replied.
+
+Kade had been assigned nothing.
+
+He found that more uncomfortable than he expected.
+
+At Northline, not being asked to participate had been freedom.
+
+At Meridian, it felt suspiciously like being a guest.
+
+So he spent twenty minutes helping Anton carry folding tables to the roof without telling anyone why.
+
+Anton noticed anyway.
+
+“You know you can just come tonight.”
+
+“I am currently carrying a table.”
+
+“That was not what I said.”
+
+Kade set his end down.
+
+“People here are very aggressive about social interpretation.”
+
+Anton grinned.
+
+“House living.”
+
+A heater waited beside the next table, lying on its back with the access panel open.
+
+Anton crouched beside it and held out a hand.
+
+“Blue case.”
+
+Three tool cases sat against the wall. Kade brought the blue one.
+
+“Other blue.”
+
+“That one is green.”
+
+“It was blue before the roof got to it.”
+
+Salt had bleached the lid to something between both colors. Kade traded cases and knelt on the other side of the heater.
+
+Inside, one connector had furred white around the contacts.
+
+“That seems bad.”
+
+“Advanced technical assessment.” Anton fitted a driver into the housing. “Hold the frame. If this screw strips, Nessa gets the last indoor unit and everyone on the north side develops character.”
+
+Kade braced the metal while Anton leaned into the driver.
+
+The screw refused to move.
+
+“Could heat the housing,” Kade said.
+
+“And expand the screw with it.”
+
+“Freeze the screw.”
+
+“With what?”
+
+Kade looked toward the greenhouse, where white vapor curled along the inside of one climate pipe.
+
+Anton followed his gaze.
+
+“You are not dismantling agriculture for a party.”
+
+“I was evaluating options.”
+
+“Evaluate holding still.”
+
+Anton changed the angle of the driver, tapped the handle twice, and broke the screw free.
+
+He handed Kade a replacement lead.
+
+Kade matched it to the empty socket.
+
+Wrong shape.
+
+Anton traded it for another without comment.
+
+The second one fit.
+
+“You could have labeled those,” Kade said.
+
+“I did.”
+
+Anton turned the first lead over. A strip of tape on the underside read **NOT THIS ONE**.
+
+“Hostile system design.”
+
+“It worked.”
+
+Kade held the housing while Anton closed the circuit. The heater came alive with a low hum, and warmth spread across Kade’s hands.
+
+Anton owned the repair. Kade had kept it from falling over.
+
+The job was smaller than he had wanted.
+
+It still counted.
+
+Nessa pushed through the roof door backward, carrying a sealed food crate against her chest.
+
+“Clear route.”
+
+Kade stood and reached for it.
+
+She turned away from him.
+
+“I have this.”
+
+“I was helping.”
+
+“Help with the other one.”
+
+The other crate was twice as wide and sitting on a wheeled dolly inside the door. A printed label warned that it contained frozen fruit bars.
+
+“You gave me the easy one.”
+
+“I gave you the one I do not already have.”
+
+Kade opened his mouth.
+
+Nessa raised the crate higher against her shoulder.
+
+“Do you want to help or be recognized helping?”
+
+Anton became intensely occupied with the heater controls.
+
+Kade took the dolly handle.
+
+“People here are very aggressive about social interpretation.”
+
+“House living,” Nessa and Anton said together.
+
+At the threshold, one wheel caught on the raised strip. Kade tipped the load back, but the top crate began to slide.
+
+Nessa stopped it with her heel without putting down the crate in her arms.
+
+“You need a spotter,” she said.
+
+“For frozen fruit?”
+
+“For the threshold.”
+
+She crossed first, set down her load, and guided his front wheel over the raised strip.
+
+The problem had not required strength. It had required someone on the other side.
+
+Kade chose not to say that sounded suspiciously designed.
+
+Sera met them at the tables with a checklist.
+
+“He volunteered,” Anton said.
+
+“I can see that.”
+
+“You told me I was assigned nothing,” Kade said.
+
+“You were.”
+
+“Now I am moving food.”
+
+“Yes.”
+
+He waited for the explanation.
+
+Sera checked off frozen storage.
+
+“An invitation is not a debt, Mercer. If you want a job, take a job. Do not confuse that with the price of being allowed upstairs.”
+
+Then she handed him the checklist and went to stop Eli from opening the sound cabinet.
+
+Kade stared at the list.
+
+Beside **HEATERS**, Anton had written *probably*.
+
+Beside **FOOD**, Nessa had written *unless Taren arrives early*.
+
+Kade added a check beside **TABLES**.
+
+Not payment.
+
+Just a thing he had done.
+
+The roof had transformed by evening.
 
 Light ribbons hung between antenna towers. Portable heaters glowed along the railings. Someone had moved couches outside. Folding tables carried enough food to supply a small evacuation center. Music played loudly enough to fill the open air but quietly enough that conversation remained possible if people actually wanted it.
 
@@ -64,7 +276,125 @@ For nearly six minutes.
 
 It was a record.
 
-Sera found him near a ventilation stack.
+A third-year named Mina insisted he sign the underside of the food table because “everyone who survives their first month does.”
+
+Kade looked beneath it.
+
+Hundreds of names covered the metal frame.
+
+Some were dated years earlier.
+
+Several had ranks written beside them, then crossed out and replaced by better ones.
+
+One simply said:
+
+**J. RAMOS — 9,882 → 114 — STILL BAD AT LAUNDRY**
+
+Kade smiled.
+
+“Do I have to put my rank?”
+
+Mina shrugged.
+
+“Only if you want to enjoy crossing it out later.”
+
+Kade took the marker.
+
+**KADE MERCER — 8,159**
+
+He stared at the number for a second.
+
+Then added:
+
+**WASHING MACHINE 1 — MERCER 0**
+
+Mina laughed.
+
+“Make room,” a voice said from above the table.
+
+Kade backed out.
+
+A broad-shouldered fourth-year dropped to the roof and slid underneath with his own marker. Two friends crouched beside the table to watch.
+
+“Found it,” the fourth-year said.
+
+He pointed to a name almost hidden behind the center brace.
+
+**DEV PATEL — 6,440**
+
+Dev drew one line through the number and wrote **1,998** beside it.
+
+His friends cheered loudly enough that people near the heaters turned around.
+
+“You waited until tonight?” Mina asked.
+
+“Meridian Night rules.”
+
+“There are rules?” Kade said.
+
+“Many,” Mina said. “We invent them when enforcement becomes necessary.”
+
+Dev capped the marker and ran one hand over his old number.
+
+“My first ladder instructor told me to leave it until I crossed two thousand.”
+
+“Why?”
+
+“He was rank nineteen hundred and something.”
+
+“Educational integrity.”
+
+“He also said I would need proof the first number happened.” Dev pointed at Kade’s fresh signature. “Don’t let anybody convince you to erase yours. Crossing out is different.”
+
+One of his friends pulled him upright by the wrist.
+
+The three of them left for the food line, still arguing about whether 1,998 made Dev responsible for buying anything.
+
+Kade ducked beneath the table again.
+
+His own number had not improved because someone else’s had.
+
+It looked less final anyway.
+
+Something about leaving his name under a table felt more intimate than it should have.
+
+Near the greenhouse door, an old brass Meridian history board had been decorated with paper streamers. Eleven tiny portrait medallions circled the words **FOUNDING STANDARD EIGHTS**.
+
+Kade noticed a twelfth circular recess beneath the streamer tape.
+
+Empty.
+
+He peeled the tape back far enough to see an old mounting screw.
+
+Mina caught him.
+
+“Do not dismantle House history on your first Meridian Night.”
+
+“There are twelve mounts.”
+
+“There are eleven portraits.”
+
+“I can count.”
+
+“Congratulations. Asterion admission validated.”
+
+“What was in the twelfth?”
+
+Mina glanced at the board.
+
+“No idea. That thing predates the House charter. Probably a donor plaque.”
+
+She pushed the streamer back over it.
+
+“Food.”
+
+Kade let himself be redirected.
+
+One extra screw in an old board was not a mystery.
+
+Asterion simply seemed to contain a lot of things nobody could explain without becoming annoyed.
+
+Sera found him near a ventilation stack ten minutes later.
 
 “You look alarmed.”
 
@@ -226,9 +556,37 @@ Julian’s smile sharpened.
 
 “No. They aren’t.”
 
-Somebody across the roof called his name.
+A student passing behind Julian said, “Cross, your father called the House office again.”
 
-Julian lifted the plate.
+Julian’s expression changed so quickly Kade almost missed it.
+
+Not fear.
+
+Tension.
+
+Then control.
+
+“Thanks,” Julian said.
+
+The student moved on.
+
+Kade pretended not to notice.
+
+Julian knew he had noticed anyway.
+
+“Family,” Julian said.
+
+“Dangerous institution.”
+
+“Sometimes.”
+
+That single word contained enough pressure to make Kade revise something.
+
+Rank one, apparently, had parents too.
+
+Somebody across the roof called Julian’s name.
+
+He lifted the plate.
 
 “Good luck with the climb, Mercer.”
 
@@ -257,6 +615,418 @@ Kade watched Julian join a group near the heaters. He was competitive even while
 Nice, Kade decided, was not the same as harmless.
 
 That helped.
+
+The party continued.
+
+A group started a ranking game called First Impression, where everyone guessed what rank a stranger had based only on posture and clothing. It lasted six minutes before somebody guessed a Standard Five upper-year at rank four thousand and the upper-year became personally invested in disproving the method.
+
+Taren climbed onto the greenhouse wall with a stack of empty cups tucked under one arm.
+
+“Relay,” he announced.
+
+Sera looked up from the first-aid station.
+
+“No fields near the food.”
+
+“No fields anywhere,” Taren said. “Pure athletic excellence.”
+
+“You brought cups.”
+
+“Accessible athletic excellence.”
+
+He arranged a course while objections were still forming. Start at the west heater. Carry one cup around the antenna mast, under the ribbon line, up the three greenhouse steps, and back. Each teammate had to hand the cup across the finish line without crushing it.
+
+“Why?” Julian asked from beside the dumplings.
+
+Taren pointed at the paper cup.
+
+“Because Meridian owns four relay batons and Engineering currently owns all of them.”
+
+That answer satisfied more people than it should have.
+
+Teams formed through a process that combined proximity, accusation, and Taren changing the rules whenever one side looked too strong.
+
+Kade ended up with Mara, Eli, and Mina.
+
+Across from them stood Anton, Nessa, Cal Reid, and a fourth-year Kade did not know.
+
+Cal glanced down his line, then across at Kade.
+
+“This is balanced?”
+
+“Mara is on their team,” Taren said.
+
+“Exactly.”
+
+“Their anchor is Eli.”
+
+Eli lifted one finger.
+
+“I reject the premise.”
+
+“Balance restored.”
+
+Taren gave both teams thirty seconds to choose an order.
+
+“Mina first,” Mara said. “Then me, Kade, Eli.”
+
+Kade studied the course.
+
+The antenna turn was narrow. The ribbon line hung low enough to catch anyone who entered upright. The greenhouse steps created the only place one runner could pass another.
+
+“Put me second,” he said. “If their first runner is slow, I can pass on the stairs.”
+
+“And collide with Mara when she takes the handoff,” Mina said.
+
+“Not if she moves.”
+
+Mara held out her hand for the cup.
+
+“You say that before every competition you are not prepared for.”
+
+“That cannot be true.”
+
+“You have been here two weeks.”
+
+“Small sample.”
+
+“Order stays.”
+
+On the opposite line, Cal arranged his team by rank until Nessa moved herself ahead of him.
+
+“I carried food through that door six times,” she said. “You asked which roof this was.”
+
+Cal stepped back without arguing.
+
+Taren raised both hands.
+
+“No fields. No breaking furniture. No appeals to rank, faculty policy, family influence, or the spiritual authority of Director Sen.”
+
+“That last one happened once,” someone called.
+
+“It worked.”
+
+“Start the race,” Sera said.
+
+Taren dropped his hands.
+
+Mina and Nessa ran.
+
+Mina reached the ribbon first and ducked too early. Nessa stayed upright until the final step, folded almost double, and gained a full stride. They hit the greenhouse stairs together.
+
+Nessa used the handrail to swing around the turn.
+
+“That counts as equipment,” Mina shouted behind her.
+
+“The building is available to everyone.”
+
+Nessa crossed the line first and passed to Anton.
+
+Mina arrived half a second later.
+
+Mara took the cup without looking down.
+
+Anton had longer legs. Mara chose the tighter line.
+
+They reached the antenna mast together. Anton tried to turn wide around the concrete base. Mara planted one hand on it and redirected without losing speed.
+
+Kade leaned forward.
+
+He knew that foot placement.
+
+Heel uncommitted until pressure selected the turn.
+
+She had been correcting him with it all week.
+
+Mara cleared the ribbon, took the steps two at a time, and reached Kade a pace ahead.
+
+The cup struck his palm.
+
+“Do not plan the opening,” she said.
+
+Then he was moving.
+
+Cal started across from him.
+
+Rank one hundred eighty-three versus eight thousand one hundred fifty-nine, with no fields and a paper cup.
+
+Cal accelerated hard enough to make the first corner before Kade.
+
+Kade let him.
+
+Cal entered the antenna turn on the inside. Kade stayed wide, where the path looked slower. Cal’s shoulder forced him to shorten one step beside the concrete base.
+
+The outside opened.
+
+Kade cut across it.
+
+They reached the ribbon together.
+
+Cal ducked.
+
+Kade went sideways.
+
+For one second the paper streamer brushed his hair, and the greenhouse steps opened in front of him.
+
+He took the first two fast, held his rear heel through the third, and let Cal’s approach choose the final angle.
+
+His foot landed clean.
+
+Not because Mara had told him where to put it.
+
+Because she had shown him when to decide.
+
+Kade reached Eli half a step ahead and offered the cup.
+
+Eli was not there.
+
+He had moved three meters to the left, beside the greenhouse service stairs.
+
+“Efficiency shortcut,” Eli called.
+
+“The course goes around the mast,” Kade said.
+
+“The rules said up the greenhouse steps. These are greenhouse steps.”
+
+Taren looked delighted.
+
+Sera did not.
+
+Kade threw the cup.
+
+Eli caught it against his chest, turned, and took the narrow stairs. Anton’s team’s last runner followed the marked course and emerged two body lengths behind.
+
+“We’re winning,” Mina said.
+
+“He’s going to fall,” Mara replied.
+
+Eli did not fall.
+
+The stairwell door opened outward.
+
+A second-year carrying a tray stepped through it.
+
+Eli stopped. The cup did not.
+
+It flew from his hand, struck the doorframe, and knocked two unused cups from Taren’s stack as it fell.
+
+All three landed in separate directions.
+
+The other runner crossed the finish line.
+
+Anton cheered. Nessa accepted victory as though she had expected nothing else. Cal stared at Kade across the course, no warmer than before but temporarily deprived of a useful insult.
+
+Eli came down the steps holding one flattened cup.
+
+“The route was clear when I assessed it.”
+
+“People move,” Mara said.
+
+“A design flaw.”
+
+Taren raised the surviving cup from Anton’s team above his head.
+
+“Official result.”
+
+Kade could have argued that the service stairs were not part of the course. He could have argued that the door created outside interference. He could have pointed out that his team had been ahead when Eli changed the plan.
+
+Instead he looked at the three crushed cups on the roof.
+
+“Our equipment failed.”
+
+Mara’s mouth curved.
+
+Eli looked offended.
+
+“Our equipment made an independent strategic choice.”
+
+Sera took the remaining stack away from Taren.
+
+“Meridian is structurally unfit for recreation.”
+
+“Rematch next month,” Taren said.
+
+“No.”
+
+Half the roof began proposing replacement equipment.
+
+For twenty minutes, nobody cared about Kade’s score, his ranking, Zero Protocol, or the final six seconds against Priya.
+
+He did not notice the absence until someone mentioned the national exam in a different conversation and Kade realized he had forgotten himself for a while.
+
+That was new.
+
+Then somebody turned the music down.
+
+A fourth-year named Lio climbed onto the low greenhouse wall.
+
+“First-month stories,” he announced.
+
+Half the roof cheered.
+
+The other half complained in the precise tone of people who intended to participate.
+
+Kade looked at Sera.
+
+“What is this?”
+
+“Public humiliation with historical value.”
+
+“Meridian has excellent traditions.”
+
+Lio pointed at Mina.
+
+She groaned.
+
+“Fine. First month, I challenged Rank 600 because I thought losing to somebody good would make me look ambitious.”
+
+“What happened?” someone called.
+
+“I woke up in medical.”
+
+The roof laughed.
+
+Mina raised a finger.
+
+“And moved down eighty places for unsafe decision-making.”
+
+More laughter.
+
+Anton went next.
+
+He had gotten lost in the Spire and accidentally attended half a graduate seminar on orbital structural dynamics before admitting he was in the wrong room.
+
+Nessa had cried during her first Perception lab because everyone else described field colors she could not see.
+
+Three weeks later she learned her perception manifested as pressure changes instead.
+
+A third-year had started at rank 9,744 and spent six months convinced the number meant Asterion had made an admissions mistake.
+
+A second-year had failed the same Conduit Theory exam twice.
+
+Sera refused to tell a story until the entire roof started chanting her name.
+
+She finally stood.
+
+“First month, I left campus twice.”
+
+The noise dropped.
+
+Kade looked at her.
+
+“Why?” somebody asked.
+
+“Because I decided everybody here was unbearable.”
+
+“That remains true,” Eli called.
+
+Sera pointed at him.
+
+“Case study.”
+
+People laughed.
+
+She continued.
+
+“The second time, an instructor told me if I walked out again I could keep walking.”
+
+Kade’s stomach tightened.
+
+“What happened?” Mina asked.
+
+“I stayed because I wanted to prove he was not the person who got to decide.”
+
+Sera sat.
+
+No lesson attached.
+
+No inspirational ending.
+
+The story simply joined the others.
+
+Taren pointed at Kade.
+
+“New person.”
+
+“No.”
+
+“Tradition.”
+
+“I do not respect tradition.”
+
+“Liar. You signed the table.”
+
+Everyone looked at him.
+
+Kade considered escape.
+
+There were three clear routes.
+
+He stayed.
+
+“Fine.”
+
+The roof quieted.
+
+Kade looked at all of them.
+
+“My first month is not over.”
+
+“That is technically true,” Eli said.
+
+“I arrived last in the entire first-year class.”
+
+“We know,” several people said.
+
+“Helpful.”
+
+Kade thought about the foam blocks.
+
+The wrong notation.
+
+Mae Larson putting him at the boundary.
+
+His gray shirts.
+
+He could choose any of them.
+
+Instead he said, “I thought being bad at things here would feel like proof I should not be here.”
+
+The sentence came out more honest than planned.
+
+Nobody laughed.
+
+Kade almost reached for a joke.
+
+Then Mina said, “And?”
+
+He looked around the roof.
+
+“And it mostly feels like homework.”
+
+That got the laugh.
+
+Good.
+
+But the honest part remained underneath it.
+
+Lio lifted his cup.
+
+“Meridian.”
+
+“Meridian,” the roof answered.
+
+Kade did not know whether the ritual was old or something Lio had invented last year.
+
+It did not matter.
+
+For a few minutes, everyone’s rank became less interesting than the thing they had once been terrible at.
+
+Kade had never been in a school culture that preserved failure on purpose.
+
+He liked it.
+
+That concerned him.
 
 ---
 
@@ -512,7 +1282,21 @@ Taren lifted his drink.
 
 “Everyone at Asterion does. Some of us admit it.”
 
-Then he wandered toward another group.
+Then his wrist display lit.
+
+He glanced down.
+
+The screen disappeared before Kade could read it.
+
+“You expecting someone?” Kade asked.
+
+“No.”
+
+The answer was smooth.
+
+Too smooth to mean anything yet.
+
+Taren wandered toward another group.
 
 Kade watched him go.
 
@@ -556,4 +1340,24 @@ Mara said, “That was predictable.”
 
 Kade laughed.
 
-And stayed.
+At midnight, House Meridian’s lights dimmed automatically.
+
+Nobody left immediately.
+
+The party simply became quieter.
+
+Kade helped carry two tables downstairs.
+
+He found his own name beneath one of them and touched the marker ink with his thumb.
+
+Still there.
+
+A stupid thing.
+
+A small thing.
+
+He had begun to understand those were often the dangerous ones.
+
+Then he went back upstairs.
+
+And stayed until the roof was nearly empty.

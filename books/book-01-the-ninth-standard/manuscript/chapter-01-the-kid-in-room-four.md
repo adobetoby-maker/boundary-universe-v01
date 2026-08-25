@@ -138,6 +138,180 @@ Still half full.
 
 Not lunch yet.
 
+She set the cup beside her tablet.
+
+“Since Mr. Bell has decided to remain enrolled for another eleven minutes, we are going to use them.”
+
+Darius looked offended.
+
+“I remained enrolled all morning.”
+
+“Physically.”
+
+Ms. Alvarez touched her screen. The cargo-tram problem appeared on the wall display, enlarged until the cartoon tram was nearly the size of an actual small car.
+
+Three students groaned.
+
+Kade looked down at the green check on his tablet.
+
+Ms. Alvarez said, “Who got twenty-seven thousand newtons?”
+
+Almost every hand went up.
+
+“Who got something else?”
+
+Darius raised his hand halfway.
+
+“I got a red box.”
+
+“That is not a unit of force.”
+
+“It is what the program gave me.”
+
+Ms. Alvarez waited.
+
+Darius sighed and turned his tablet around. He had multiplied eighteen thousand by twelve and divided by eight, but entered the number as twenty-seven hundred.
+
+Kade said, “You dropped a zero.”
+
+“I had plenty.”
+
+“Apparently not.”
+
+Darius pulled his tablet back. “This is why people leave.”
+
+“Correct the answer first,” Ms. Alvarez said. “Then you may blame the institution.”
+
+While Darius fixed it, she tapped the wall display again. A second line appeared under the question.
+
+WHAT INFORMATION IS MISSING?
+
+The raised hands came down.
+
+Kade stopped moving his thumb.
+
+Ms. Alvarez looked directly at him.
+
+He kept his face empty.
+
+“Mercer.”
+
+“The software says I’m right.”
+
+“The software also celebrates basic arithmetic with a rocket ship. I am asking you.”
+
+He glanced at the clock above the door. Its second hand twitched uselessly.
+
+“Friction,” he said.
+
+Ms. Alvarez wrote it on the display.
+
+“What else?”
+
+“Track grade. Drive efficiency. Whether twelve meters per second is relative to the track. Whether the cargo shifts under acceleration.”
+
+More words appeared as she wrote.
+
+Kade wished she would stop making the list visible.
+
+“Wheel condition,” he continued. “Wind, if this is outside. Maximum force versus average force. Whether the tram is self-propelled or being pulled. Whether the eighteen thousand includes the vehicle.”
+
+Darius looked from the list to the cartoon tram.
+
+“That thing has wheels?”
+
+“It has something pretending to be wheels.”
+
+“Then the load moves.” Darius pointed at the cargo boxes stacked in the picture. “You hit speed too fast, all that comes through the front.”
+
+Kade looked at him.
+
+Darius shrugged. “You ever watch a shopping cart stop?”
+
+Ms. Alvarez added LOAD SECUREMENT beneath Kade’s list.
+
+“Good,” she said.
+
+Darius sat a little straighter.
+
+Kade looked back at the display.
+
+The problem had seemed stupid because it ignored everything that could make the answer useful. Darius had found one of those things without needing the equation at all.
+
+Ms. Alvarez drew a box around twenty-seven thousand.
+
+“This is the answer the question requests. Under the stated simplification, it is correct.”
+
+Then she drew a larger box around the missing-information list.
+
+“This is the answer that keeps someone from loading a real tram badly and blaming mathematics when it fails.”
+
+One of the students near the windows said, “Which answer is on the test?”
+
+“The small box.”
+
+“Then why do we need the big one?”
+
+Ms. Alvarez capped the stylus.
+
+“Because sometimes passing a test and understanding a system are different jobs.”
+
+Kade stared at the two boxes.
+
+That sounded suspiciously like something a school was not supposed to admit.
+
+Darius tapped the missing-information list.
+
+“So he did all that in his head and still put the same answer as everybody else?”
+
+“Yes,” Ms. Alvarez said.
+
+“That seems unhealthy.”
+
+“It is occasionally exhausting.”
+
+Kade leaned back.
+
+“I’m sitting here.”
+
+“Physically,” Darius said.
+
+Two people laughed.
+
+Ms. Alvarez assigned the next problem. This one involved a water tank, an outlet valve, and a flow rate that assumed water behaved politely.
+
+Kade entered the requested answer.
+
+Then, before the rocket ship could finish its loop, he opened the notes field and typed the assumptions the question had left out.
+
+He did not look toward Ms. Alvarez.
+
+She did not say anything.
+
+Darius leaned across the gap between their desks.
+
+“What did the water do wrong?”
+
+Kade angled the screen away.
+
+“Nothing.”
+
+“Then why are you writing a complaint?”
+
+Kade glanced at the drawing. “The tank has no height. The outlet has no diameter. They gave a flow rate but not whether it stays constant as the level drops.”
+
+Darius considered the stained ceiling tile above them.
+
+“If it’s Northline water, the pipe is clogged.”
+
+“Probably.”
+
+Kade added PIPE CONDITION.
+
+Darius nodded as though this settled the matter and returned to his own tablet.
+
+For the first time since the rocket ship appeared, Kade did not want to close the problem.
+
 Northline Alternative occupied an old county records building between a tire warehouse and a self-storage facility. Someone had painted the exterior blue three years earlier, but the desert sun had bleached the south wall to a color best described as disappointed gray.
 
 The district website called it a personalized transitional learning campus.
@@ -316,9 +490,103 @@ Darius raised a hand.
 
 Chairs scraped back.
 
-Kade stayed seated long enough to close his tablet.
+Northline breaks had rules nobody had written down.
 
-A girl named Tessa passed his desk and tapped his shoulder.
+Students with jobs checked schedules.
+
+Students on probation checked whether their officers had messaged.
+
+People who wanted to be alone went behind the old records annex where the cameras covered the door but not the wall.
+
+Everybody else migrated toward the vending machines.
+
+Darius grabbed Kade’s sleeve.
+
+“Come witness history.”
+
+“I have testing.”
+
+“In twenty minutes.”
+
+“Exactly.”
+
+“The machine knows.”
+
+Kade allowed himself to be dragged into the hall.
+
+Mr. Boyd sat behind the security desk with the front wheel removed from a student’s bicycle.
+
+The bicycle belonged to a fourteen-year-old named Miguel whose family did not own a car and whose rear brake had failed on the ride to school.
+
+Boyd looked up as Kade and Darius passed.
+
+“Testing day.”
+
+Kade nodded.
+
+“Try not to overthrow anything federal.”
+
+“No promises.”
+
+Boyd returned to the brake cable.
+
+Northline had more adults doing things outside their job descriptions than any school Kade had attended.
+
+Sometimes that meant nobody knew who was responsible.
+
+Sometimes it meant a security officer fixed a kid’s bicycle because the kid needed to get home.
+
+Kade had not decided which version of the system was more honest.
+
+The vending machine waited near the multipurpose hallway.
+
+Darius approached it with ceremonial seriousness.
+
+“One pretzel.”
+
+“You say that like it understands language.”
+
+“It understands respect.”
+
+Darius inserted two credits and pressed B7.
+
+The machine hummed.
+
+One bag fell.
+
+Darius’s face collapsed.
+
+“Betrayal.”
+
+A second bag dropped.
+
+Then a third.
+
+Darius pointed at Kade without looking away.
+
+“Witness.”
+
+“I withdraw every criticism.”
+
+Tessa arrived in time to steal one bag.
+
+Darius looked offended.
+
+“The machine chose me.”
+
+“The machine chose community,” she said.
+
+“That sounds socialist.”
+
+“You don’t know what that means.”
+
+“I know I have fewer pretzels.”
+
+Kade took none.
+
+His stomach had begun feeling strange in a way he refused to label nervousness.
+
+Tessa opened her bag.
 
 “What do you think you’ll score?”
 
@@ -356,67 +624,89 @@ Tessa leaned closer.
 
 “You have a complicated family.”
 
-She gave him a look and walked away.
+She gave him a look.
 
-Darius waited until she was gone.
+Darius ate pretzels.
 
-“You ever think about it?”
+“What’d your mom score?” he asked Kade.
 
-“What?”
+Kade frowned.
 
-“Getting picked.”
+“How would I know?”
 
-Kade knew exactly what he meant.
+“Parents tell you that stuff.”
 
-Everyone did.
+“Your mother tells you her standardized test scores?”
 
-He looked at the scratched plastic edge of his desk.
+“She tells me everything I do is genetic when she is mad.”
+
+Tessa said, “My dad got five-ninety-eight and still talks about it.”
+
+“That explains your family more than the moon thing,” Kade said.
+
+She threw a pretzel at him.
+
+Darius looked back at Kade.
+
+“What about your dad?”
+
+The question was ordinary.
+
+That was why it landed.
+
+Kade shrugged.
+
+“He died when I was a baby.”
+
+Darius’s face changed.
+
+Not pity.
+
+A quick recalculation.
+
+“Oh.”
+
+“Industrial accident.”
+
+“You know his score?”
 
 “No.”
 
-Darius frowned.
+Kade had never wondered.
 
-“That was too fast.”
+Aaron Mercer existed in family history as a photograph, a broken watch, and a short list of stories Elena told carefully enough that Kade had stopped asking for new ones years ago.
 
-“I’ve had seventeen years.”
+A national test score had never been part of the story.
 
-“Nobody thinks about being Resonant at three.”
+For some reason, standing outside Multipurpose Two on the day of his own test, that absence felt briefly strange.
 
-“I was advanced.”
+Then Darius held out the remaining pretzel bag.
 
-“I’m serious.”
-
-Kade looked at him.
-
-Darius was serious too.
-
-That happened less often than his school file suggested.
-
-“Sure,” Kade said. “When I was twelve.”
-
-“And?”
-
-“And then I turned thirteen.”
-
-“That doesn’t mean anything.”
-
-“It means I got older.”
-
-Darius rolled his eyes.
-
-Kade smiled.
-
-The smile did what he wanted it to do.
+Kade took one.
 
 Conversation over.
 
-That was one of the useful things about jokes. People thought they were openings.
+That was one of the useful things about food. People thought they were sharing snacks.
 
-Mostly they were doors he could close without anybody noticing.
+Mostly they were also giving you an exit.
 
-At 10:56, Ms. Alvarez stopped him at the classroom door.
+Tessa checked the hall clock.
 
-The others filed past.
+“You’re going to be late.”
+
+Kade looked.
+
+10:54.
+
+He handed Darius the pretzel bag.
+
+“Try not to get expelled while I’m testing.”
+
+“No promises.”
+
+At 10:56, Ms. Alvarez stopped him at the classroom door while he retrieved his hoodie.
+
+The others filed past toward Multipurpose Two.
 
 “Kade.”
 
@@ -997,6 +1287,36 @@ Kade removed the sensor band.
 His skin felt cool where the contacts had rested.
 
 A drop of sweat moved from his hairline toward his temple.
+
+For the first time all morning, Kade wanted the score before he had a joke prepared for it.
+
+He thought of Ms. Alvarez saying *try*.
+
+Darius asking whether he ever imagined getting picked.
+
+Tessa’s cousin getting seven-twelve.
+
+His mother at St. Vincent, probably moving from one emergency-room problem to another without thinking about national aptitude scores at all.
+
+And, unexpectedly, the question from the vending machine hall.
+
+What did your dad score?
+
+Kade still did not know.
+
+It was a stupid detail to think about now.
+
+He looked at the spinning word SCORING and realized something more uncomfortable.
+
+If the number was good, he wanted to tell Elena.
+
+If it was terrible, he wanted to tell Darius first so Darius could make it funny.
+
+The test had become real enough to create an order of operations for who got the truth.
+
+That meant he cared.
+
+Annoying.
 
 The door opened.
 

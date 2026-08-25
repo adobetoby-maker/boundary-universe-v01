@@ -176,6 +176,62 @@ Darius leaned closer. “Your mom scary?”
 
 “Cool.”
 
+Russell resumed pacing.
+
+It was a short office, which meant he had to turn every four steps. Kade had been in the room enough times to know there were twenty-two full-length floor tiles between the filing cabinet and the door. Russell’s stride took him three and a half tiles. That gave him six steps in one direction, turn, six steps back.
+
+Kade counted two circuits before deciding the habit was annoying.
+
+“Can I ask a question?” he said.
+
+Russell stopped.
+
+“That has never prevented you.”
+
+“Did the district tell you what happened?”
+
+“No.”
+
+“Did the testing service?”
+
+“No.”
+
+“Did anybody?”
+
+Russell looked toward Ms. Alvarez.
+
+Ms. Alvarez looked back.
+
+Russell sighed. “At approximately twelve forty-eight, the district received an instruction to secure the testing room, preserve all hardware, and keep you on campus pending authorized review.”
+
+“Secure me or the hardware?”
+
+“The wording was not clear.”
+
+“Comforting.”
+
+“Then the superintendent called.”
+
+“That explains the pacing.”
+
+Russell ignored him.
+
+“Then district counsel. Then a federal office I have never spoken to before today.”
+
+Darius raised his hand.
+
+Russell looked at him.
+
+“Why are you still here?”
+
+“Emotional support.”
+
+“For whom?”
+
+“Undecided.”
+
+Ms. Alvarez finally smiled.
+
 The office door opened.
 
 Everyone stopped talking.
@@ -678,6 +734,122 @@ Renn said, “Non-emergency procedures require consent.”
 
 He did.
 
+While Renn drafted the language, Elena took Kade into the hallway.
+
+Not far. The office door remained open behind them.
+
+Far enough.
+
+“Tell me exactly what happened in that test,” she said.
+
+“I already told Russell.”
+
+“I am not Russell.”
+
+“Strong opening argument.”
+
+“Kade.”
+
+He leaned against the wall.
+
+The school had gone strangely quiet around them. Classes had been dismissed twenty minutes earlier, but nobody had left quickly. Students kept finding reasons to cross the hallway near Russell’s office. A head appeared at the far corner, saw Elena looking, and vanished.
+
+Kade told her.
+
+Not the ordinary sections. The strange part.
+
+The boundary question.
+
+The interface that stopped snapping to objects.
+
+REDEFINE.
+
+The blank field.
+
+The pressure behind his eyes.
+
+The score.
+
+Elena listened the way she listened to patients when she thought they were leaving out the part that mattered.
+
+When he finished, she asked, “Did you lose time?”
+
+“What?”
+
+“You said the room was almost empty when you finished.”
+
+“I didn’t notice people leaving.”
+
+“That’s not what I asked.”
+
+Kade thought about it.
+
+The timer showing eighty-seven minutes when it could not have been right.
+
+“I don’t know.”
+
+“Vision changes?”
+
+“No.”
+
+“Numbness?”
+
+“No.”
+
+“Nausea?”
+
+“Only after being federally interesting.”
+
+She did not smile.
+
+“Kade.”
+
+“No.”
+
+Her shoulders lowered a fraction.
+
+Then she looked through the office doorway toward the red ZERO PROTOCOL header still glowing on Renn’s tablet.
+
+Kade watched her.
+
+“You’ve heard of it.”
+
+Her gaze snapped to him.
+
+“No.”
+
+Too fast.
+
+Kade stored that away.
+
+Elena realized he had.
+
+She rubbed one hand over her forehead.
+
+“I have heard people use the word zero around Resonance research before. That is not the same thing.”
+
+“When?”
+
+“Years ago.”
+
+“How many?”
+
+“Kade.”
+
+“Everyone keeps saying my name instead of answering.”
+
+“I know.”
+
+The anger went out of him a little.
+
+Elena looked tired.
+
+Not hospital-shift tired.
+
+Older than that.
+
+Then Russell called them back inside, and the moment closed.
+
 Twenty minutes later Kade stepped out of Northline beside his mother.
 
 The desert light had softened toward evening. Three government vehicles still sat in the lot, looking much more dramatic than a school wedged between a tire warehouse and self-storage had ever requested.
@@ -706,7 +878,7 @@ Darius looked at Kade with an expression Kade could not read.
 
 That was unusual.
 
-Then the grin arrived.
+Then he grinned.
 
 “Try not to get expelled before dinner.”
 
@@ -722,41 +894,41 @@ Kade bumped it.
 
 “And if they give you powers—”
 
-“I know. Fix your posture.”
+“I know. Posture.”
 
-“Exactly.”
+Darius laughed.
 
-The grin faded a little.
+Then the grin faded.
 
-“You’re actually going?”
+“You coming back?”
 
-Kade looked at the folder.
+Kade blinked.
 
-“Apparently.”
+“I’m going for three days.”
 
-“That’s not what I asked.”
+“That wasn’t what I asked.”
 
-For a second Kade had the strange sensation that Darius and his mother had attended the same secret class about him.
+The answer Kade wanted was obvious.
 
-“I don’t know,” he said.
+Of course.
 
-Darius nodded.
+Probably.
 
-“Okay.”
+Depends whether the richest school on Earth decides I am medically disappointing.
 
-No speech. No prediction about destiny. No sudden treatment of Kade as something special.
+Instead he said, “Yeah.”
 
-Just okay.
+Darius nodded once.
 
-Kade appreciated it more than he wanted to explain.
+“Good.”
 
-Elena unlocked their car.
+Kade got into the passenger seat.
 
-They drove six blocks before she spoke.
+They drove six blocks before Elena spoke.
 
 “You were going to refuse.”
 
-Kade watched shops and parking lots slide past the window.
+He stared through the window.
 
 “I did refuse.”
 
@@ -778,7 +950,7 @@ He looked at her.
 
 The joke died halfway out.
 
-Elena kept both hands on the wheel.
+She kept both hands on the wheel.
 
 “You think I don’t know what those schools did to you?”
 
@@ -790,7 +962,7 @@ He said nothing.
 
 “Yes.”
 
-He looked at her, surprised.
+Kade looked at her, surprised.
 
 Elena glanced over.
 
@@ -798,15 +970,7 @@ Elena glanced over.
 
 “Thanks.”
 
-“You are welcome. You can be exhausting.”
-
-“Better.”
-
-“You are also very good at becoming difficult exactly when something starts mattering.”
-
-Kade turned back toward the window.
-
-Streetlights passed across his reflection.
+“You’re welcome. You can be difficult when you are afraid.”
 
 “I’m not afraid.”
 
@@ -818,37 +982,45 @@ Streetlights passed across his reflection.
 
 He frowned.
 
-“You rejected the word before checking whether it fit.”
+“You rejected the word before you checked whether it fit.”
 
-He looked away again.
+Kade looked away again.
 
-She drove another block.
+The city outside had entered the hour when everything looked temporarily nicer than it was. Long shadows. Warm storefront windows. Sprinklers running over lawns browned by summer.
 
-Then, quieter, “You have spent years demanding somebody give you a real chance.”
+He had spent most of his life in this part of town. He knew which convenience store clerk let Northline kids use the bathroom without buying anything. Which intersection flooded after fifteen minutes of rain. Which apartment balconies still had Christmas lights in August.
+
+Asterion was a place from broadcasts.
+
+This was real.
+
+That distinction felt important.
+
+Elena drove another block.
+
+Then said, softer, “You have spent years demanding somebody give you a real chance.”
 
 Kade’s throat tightened.
 
 “I never demanded Asterion.”
 
-“No. You demanded to be measured by what you can actually do instead of how well you sit still while somebody explains something you already understand.”
+“No. You demanded to be measured by what you can actually do instead of how well you sit still while someone explains something you already understand.”
 
-He could not argue without lying.
+He could not argue with that without lying.
 
 Elena stopped at a red light.
 
-For the first time since leaving Northline she looked at him fully.
+She looked at him fully.
 
 “Do not get scared now that somebody finally asked the right question.”
 
-Kade thought about the examination.
+Kade thought of the test.
 
-**Identify the boundary of the active system.**
+**IDENTIFY THE BOUNDARY OF THE ACTIVE SYSTEM.**
 
-He thought about the clean boxes the test had wanted him to accept.
+He thought of drawing a line where the software said no line should be.
 
-He thought about drawing a line through them instead.
-
-He thought about a federal officer telling him he had not answered wrong.
+He thought of the proctor stepping backward.
 
 “Mom.”
 
@@ -858,154 +1030,488 @@ He thought about a federal officer telling him he had not answered wrong.
 
 The light turned green.
 
-Elena looked ahead again.
+Elena looked ahead.
 
-“Then they should not have asked you.”
+“Then I suppose they should not have asked you.”
 
 Kade smiled despite himself.
 
-They reached home just after six.
+---
 
-Their apartment looked exactly as it had that morning: shoes by the door, two pieces of mail on the counter, Elena’s half-dead basil plant leaning toward the kitchen window, one dining chair with a stack of clean laundry on it because neither of them believed in finishing a task all the way to the last four percent.
+She drove past the turn for home.
 
-The normality felt wrong.
+Kade let one intersection go by before mentioning it.
 
-Kade set the Asterion folder on the table.
+“Our house was back there.”
 
-Elena changed out of her hospital scrubs and returned in sweatpants with her hair loose. She heated leftover soup. Kade opened the folder only after she stopped watching him.
+“I remember where we live.”
 
-The first page was not a welcome letter.
+“Good. The day has already raised enough questions.”
 
-**MANDATORY ZERO-PROTOCOL EVALUATION**
+Elena turned into a discount store wedged between a pharmacy and a vacant pet-supply shop. Half the red letters in the sign had burned out, leaving **VALUE AR** over the entrance.
 
-Below it:
-
-**ASTERION ACADEMY — RESTRICTED ADMISSIONS / SAFETY AUTHORITY**
-
-Then pages of transport instructions, consent forms, emergency contacts, prohibited devices, clothing recommendations, medical history, and language carefully designed to make compulsory travel sound like a scholarship opportunity.
-
-Kade turned a page.
-
-A photograph of Asterion Island filled the top half.
-
-He had seen the island on broadcasts a hundred times.
-
-Seeing his own name printed beneath it felt different.
-
-**Candidate: Kade A. Mercer**
-
-He closed the folder.
-
-Elena set a bowl of soup in front of him.
-
-“You hungry?”
+Kade looked at the Asterion folder on his knees.
 
 “No.”
 
-“Eat anyway.”
+“That word is doing a lot of work today.”
 
-He did.
+“I am being evaluated for three days, not presented to foreign royalty.”
 
-Halfway through, she said, “You know I cannot go with you past intake.”
+“The packing list says formal academy wear.”
 
-He looked up.
+“The packing list also recommends recreation equipment. I could bring a deck of cards and a tie.”
 
-“It says parents can attend medical review.”
+Elena parked.
 
-“For the first day. After that, if you remain, it becomes academy housing.”
+“You own neither.”
 
-“If I remain.”
+“Then I am already failing transition.”
 
-“If.”
+She got out.
 
-He studied her.
+Kade remained in the passenger seat until she opened the automatic doors without looking back. This was unfair. She knew he would follow rather than make her shop for him alone, and she was willing to weaponize that knowledge.
 
-“You want me to.”
+He carried the folder inside.
 
-Elena rested her elbows on the table.
+The store smelled like cardboard, detergent, and fabric that had crossed an ocean folded into a cube. Fluorescent lights made every color look apologetic. Elena took a cart with one front wheel that objected loudly to forward motion.
 
-“I want you to go long enough to find out what this actually is.”
+“One collared shirt,” she said. “One pair of decent pants. Toiletries that do not come from the hospital travel bin.”
 
-“That is not the same thing.”
+“Those were legally obtained.”
 
-“No.”
+“They were free samples.”
 
-“You’d be okay if I came home.”
+“That is what free means.”
 
-“Yes.”
+She handed him a black shirt from a rack.
 
-The answer arrived without hesitation.
-
-That mattered.
-
-She continued, “I would also be disappointed if you came home because you were afraid to find out whether you belonged there.”
-
-Kade stared into his soup.
-
-“Everybody is very interested in my emotional growth today.”
-
-“I can stop and tell you to wash your bowl.”
-
-“Comforting.”
-
-She smiled.
-
-Then her face softened, just a little.
-
-“Your father would have—”
-
-She stopped.
-
-Kade looked up.
-
-Elena’s eyes moved to the Asterion folder.
+Kade checked the tag and put it back.
 
 “What?”
 
-“Nothing.”
+“Twenty-eight dollars.”
 
-“That was clearly not nothing.”
+“That is not a reason.”
 
-She stood and took her bowl to the sink.
+“It is several reasons in numerical form.”
 
-“Your father would have hated the paperwork.”
+Elena returned it to the cart.
 
-Kade watched her back.
+“We can afford a shirt.”
 
-Aaron Mercer had been dead since Kade was too young to remember him clearly. Industrial accident. Equipment failure. A few photographs. A handful of stories Elena almost never volunteered.
+“For three days?”
 
-“That sounded like a safer sentence than the first one.”
+“For longer than three days. Clothing continues to exist after evaluations.”
 
-Elena turned on the faucet.
+He opened the folder to the equipment page. The requirements occupied a full column.
 
-“It was.”
+Two formal academy sets. Three training sets. Indoor shoes, outdoor shoes, weather shell, approved field underlayer, personal medical supplies, and an optional practice uniform that cost more than their monthly electric bill.
 
-Kade waited.
+There was a code beside each item.
 
-She did not say more.
+Kade turned to the admissions terms and started reading the small print.
 
-He filed the moment away because that was what he did with things people tried to make look unimportant.
+Elena pushed the cart toward men’s trousers.
 
-At 20:14 his phone chimed.
+“Walking would improve the pace of this activity.”
 
-Asterion Academy had sent a transport itinerary.
+He followed without looking up.
 
-Departure: forty-three hours.
+Section fourteen covered residential housing. Section fifteen covered damage liability. Section sixteen began with mandatory equipment, skipped into academy trademarks for two paragraphs, and ended with a sentence in type small enough to qualify as concealment.
 
-Destination: Asterion Island.
+Kade stopped beside a display of belts.
 
-Status:
+“They provide it.”
 
-**MANDATORY EVALUATION — ZERO PROTOCOL**
+Elena turned.
 
-Kade read the words three times.
+He held out the folder.
 
-Then he went to his room, opened the closet, and stared at everything he owned that could fit into one bag.
+“Required clothing and safety equipment during provisional jurisdiction remain the property and financial responsibility of the academy.”
 
-The old instinct suggested several jokes.
+She read the sentence.
 
-He ignored all of them.
+Then the equipment list.
 
-For the first time in years, Kade Mercer let himself admit the thing before he could ruin it.
+Then the sentence again.
+
+“Provisional institutional jurisdiction,” Kade said. “Friendlier already.”
+
+“They put that on page eleven.”
+
+“They put the shopping list on page three.”
+
+Elena’s mouth flattened.
+
+For the first time since Renn had opened the Zero Protocol file, Kade pitied the institution about to meet his mother.
+
+She removed the trousers from the cart.
+
+The shirt stayed.
+
+“They can issue what they require,” she said. “You are still taking one thing that belongs to you.”
+
+Kade ran a thumb under the collar. It was stiff enough to have political opinions.
+
+“Can the thing belong to me from the clearance rack?”
+
+Elena looked toward the sign at the end of the aisle.
+
+“Obviously.”
+
+They found a dark gray shirt for eleven dollars. The sleeves were slightly too long, which meant it fit Kade everywhere else. Elena made him try it on over his T-shirt in front of a mirror fixed to a support column.
+
+Kade buttoned the collar.
+
+The person in the glass looked as if he might be permitted near expensive furniture under supervision.
+
+He opened the top button again.
+
+“Better,” Elena said.
+
+“Less likely to confess?”
+
+“Marginally.”
+
+At the luggage wall, she pulled down a small rolling suitcase in hard blue plastic.
+
+Kade recoiled.
+
+“Absolutely not.”
+
+“The zipper on your duffel opens when it is placed under emotional pressure.”
+
+“The zipper has character.”
+
+“The zipper has one tooth missing.”
+
+She put the suitcase in the cart.
+
+Kade lifted it back out.
+
+“I have a bag.”
+
+“You have a grocery-store promotion older than the basil plant you keep forgetting to water.”
+
+“It has experience.”
+
+Elena rested both hands on the cart.
+
+“What is wrong with the suitcase?”
+
+“It has wheels.”
+
+“Those are generally the point.”
+
+“It looks like luggage.”
+
+She waited.
+
+Kade hated when she did that. Silence turned weak answers transparent.
+
+He set the suitcase on the floor between them.
+
+“It looks like I expect to stay.”
+
+There.
+
+The real objection, standing upright on four bright wheels.
+
+Elena’s expression softened, which was worse than winning.
+
+“Preparing is not consenting.”
+
+“Going is mandatory.”
+
+“Going to the evaluation is mandatory. Medical procedures are not. Enrollment is not. Letting them turn uncertainty into ownership of you is not.”
+
+She tapped the folder.
+
+“Renn signed that because we required him to. Paper does not make people honest, but it gives dishonesty somewhere to stand where you can point at it.”
+
+Kade looked down at the suitcase.
+
+“That sounds like something Ms. Alvarez would say.”
+
+“She texted me while you were packing your test tablet.”
+
+“Conspiracy.”
+
+“Community.”
+
+He made a face.
+
+Elena smiled.
+
+“You do not have to prove you can leave by refusing everything you might need if you stay.”
+
+That landed close enough to the conversation in the car to be irritating and different enough that he could not dismiss it as repetition.
+
+Kade put the suitcase in the cart.
+
+“We are buying it because the old zipper is structurally compromised.”
+
+“Of course.”
+
+“I am still taking the duffel.”
+
+“Of course.”
+
+Near the registers, every display television showed the same news channel. A red map of the national testing outage filled the screens.
+
+Cell-phone footage shook across a school hallway Kade recognized immediately. Northline’s faded blue lockers. The door to Multipurpose Two. Russell moving past the camera with both arms spread, trying to herd students away from the sealed room.
+
+The caption read **MYSTERY FAILURE HALTS NATIONAL APTITUDE EXAM**.
+
+No name.
+
+Not yet.
+
+A cashier followed Kade’s attention to the screen, then to the crest on the folder under his arm.
+
+Her eyes narrowed in recognition.
+
+Elena moved the folder into the cart and laid the shirt over it.
+
+Not dramatic.
+
+Not fast.
+
+The motion of someone closing a curtain.
+
+The cashier scanned the suitcase.
+
+“Busy day over there,” she said.
+
+Kade looked at the screen again.
+
+Northline had never appeared on national news for anything good. The building looked smaller on television. Cheaper. Like a place the rest of the country could use for ten seconds of mystery and forget before the weather.
+
+“Apparently,” he said.
+
+The cashier waited for more.
+
+Elena inserted her card.
+
+Kade gave her nothing.
+
+Outside, the heat had finally begun to break. Elena loaded the suitcase into the trunk. It fit beside an emergency medical kit, two reusable shopping bags, and a case of bottled water she had been meaning to carry inside for a week.
+
+Kade held the new shirt on its plastic hanger.
+
+“I do want to know,” he said.
+
+Elena closed the trunk.
+
+He looked toward the store windows. The testing map flashed red behind the glass.
+
+“What the answer was. Why it chose me. Why you knew the word.”
+
+Elena did not defend the last part.
+
+“Those are reasons to go,” she said. “They are not promises to stay.”
+
+Kade opened the passenger door.
+
+For now, that distinction was large enough to stand inside.
+
+---
+
+At home, the Asterion folder occupied the kitchen table like an accusation.
+
+Their house was small enough that the kitchen table had several jobs. Meals. Mail. Elena’s continuing-education modules. Kade’s half-finished electronics projects when he remembered they existed. On Tuesdays, laundry waiting to be folded.
+
+Tonight every other job had been evicted.
+
+Elena made soup because she believed soup solved categories of problems Kade considered unrelated to soup.
+
+He sat across from the folder.
+
+The first page said **MANDATORY EVALUATION** in larger letters than seemed necessary.
+
+The next six pages explained transport, medical authorization, temporary housing, information restrictions, liability, privacy, non-disclosure, and something called **provisional institutional jurisdiction**.
+
+Kade read that phrase three times.
+
+“Sounds friendly.”
+
+Elena set a bowl in front of him.
+
+“Eat.”
+
+He did.
+
+Halfway through dinner, his phone buzzed.
+
+Darius.
+
+**YOU FAMOUS YET**
+
+Kade typed:
+
+**Russell confiscated the paparazzi.**
+
+Then Tessa.
+
+**My cousin says Zero is impossible.**
+
+Then an unknown number.
+
+**Is this Kade Mercer? I’m with Channel—**
+
+He blocked it.
+
+Another unknown number arrived thirty seconds later.
+
+Elena held out her hand.
+
+“No.”
+
+“Kade.”
+
+“I am capable of blocking numbers.”
+
+“That is not why.”
+
+He stared at her.
+
+She stared back.
+
+He surrendered the phone.
+
+“Authoritarian.”
+
+“You can put that on my evaluation.”
+
+After dinner, Elena opened a hallway closet and pulled down an old black storage box.
+
+Kade knew the box.
+
+His father’s things.
+
+Not many.
+
+A watch that did not work.
+
+Two photographs.
+
+A small mechanical pencil.
+
+An old employee badge from an industrial systems company.
+
+Kade stood in the hallway.
+
+“Why are you getting that?”
+
+Elena froze with the box in her hands.
+
+For one second he thought she might put it back.
+
+Then she carried it to the table.
+
+“I don’t know.”
+
+“That’s not reassuring.”
+
+“No.”
+
+Kade sat.
+
+She opened the box.
+
+The photograph on top showed Aaron Mercer at twenty-three or twenty-four, standing beside a workbench, smiling at someone out of frame. Dark hair. Narrow face. Kade had been told for years that he had Aaron’s eyes.
+
+He had never found that useful.
+
+“You think this is connected to Dad.”
+
+Elena’s hand tightened around the photograph.
+
+“I think I heard words today that I have not heard in a very long time.”
+
+“Zero.”
+
+“Yes.”
+
+“What else?”
+
+She looked at him.
+
+“I don’t know what is connected.”
+
+“That’s different from no.”
+
+“Yes.”
+
+Kade sat back.
+
+That answer cost her something.
+
+He could see it.
+
+So he did not push.
+
+Not because he did not want to.
+
+Because for once he recognized the difference between somebody hiding something and somebody not knowing how to say it yet.
+
+Elena put the photograph back.
+
+“Your father worked in industrial systems.”
+
+“I know.”
+
+“That is true.”
+
+Kade looked at her.
+
+The sentence was too carefully built.
+
+She closed the box.
+
+The Asterion folder remained open beside it.
+
+Two histories sharing one table.
+
+At 20:43, an academy message arrived.
+
+**TRANSPORT CONFIRMED**
+
+**DEPARTURE: 15:30 — TWO DAYS**
+
+**DESTINATION: ASTERION ISLAND**
+
+**STATUS: MANDATORY EVALUATION — ZERO PROTOCOL**
+
+Kade read it three times.
+
+Then went to his room.
+
+His closet contained more empty hangers than clothes.
+
+Asterion’s packing guide recommended formal academy wear, athletic clothes, personal electronics, optional recreation equipment, and “items supporting successful transition to residential learning.”
+
+Until that evening, Kade’s contribution to the list had been a hoodie with a repaired cuff and a grocery-store duffel Elena had owned since before he was born.
+
+The new shirt hung from his closet door. The blue suitcase sat zipped on the floor, looking far too committed.
+
+He pulled the bag from under his bed.
+
+He started with socks.
+
+Then stopped.
+
+The strange thing was not that the government wanted him evaluated.
+
+The strange thing was not even Asterion.
+
+It was that somewhere beneath the fear and irritation and suspicion, something else had appeared.
+
+Curiosity.
 
 He wanted to know what happened next.
+
+Kade Mercer had spent years pretending not to care about outcomes.
+
+That evening, alone in his room with an empty bag on the bed, he discovered wanting an answer was considerably more frightening.

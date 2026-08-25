@@ -10,27 +10,353 @@ But if the lower-ranked fighter won—or even performed far above expectation—
 
 Kade had accepted in twelve seconds.
 
-Hale had taken eleven minutes to approve it.
+The acceptance control had barely finished turning green when Kade’s tablet locked.
 
-“Why?” the instructor had asked.
+**FACULTY REVIEW REQUIRED**
+
+Instructor Hale’s summons arrived underneath it.
+
+Kade reached the combat faculty office four minutes later. Hale sat behind a desk covered in match slates, injury reports, and a bowl of wrapped peppermints nobody had ever been brave enough to take from.
+
+The challenge acceptance glowed between them.
+
+**OPEN — PIKE, JONAH — RANK 2,301**
+
+**ACCEPTED — MERCER, KADE — RANK 8,159**
+
+Hale tapped the difference with one finger.
+
+“Read those numbers aloud.”
+
+“Two thousand three hundred one and eight thousand one hundred fifty-nine.”
+
+“Good. Your vision works. Why?”
 
 “Because he posted it.”
 
 “That is not a reason.”
 
-“He overcommits his right side.”
+“It is the rule.”
+
+“It is the mechanism. Why did you use it?”
+
+Kade glanced at the peppermint bowl.
+
+“Are those available to students?”
+
+“No.”
+
+“Then the meeting has become hostile.”
+
+Hale waited.
+
+Eleven minutes, Kade would later discover, could become remarkably long when an instructor refused to rescue a bad answer.
+
+“He overcommits his right side,” Kade said.
 
 “That is a reason.”
 
 “He also thinks nobody outside the top three thousand is worth planning for.”
 
-Hale had looked at him.
+Hale looked at him.
 
 “That sounds personal.”
 
 “It sounds observable.”
 
+Hale opened Pike’s challenge terms. Standard contact rules. No chosen opponent. No rank floor. Public gallery. Jonah had requested Arena Four, whose stands held twice the capacity of the ordinary first-year rooms.
+
+“Why did he post it?” Hale asked.
+
+“I assume he enjoys civic access.”
+
+“Try again.”
+
+Kade leaned back.
+
+“His last win was efficient and boring. The clip did badly.”
+
+“So?”
+
+“So he wants a mismatch people will share.”
+
+“And you intend to punish vanity.”
+
+“I intend to use it.”
+
+Hale turned the tablet around. Pike’s last six fights appeared as load maps instead of video. Bright red gathered on the right side of every exchange.
+
+Kade’s attention caught there.
+
+Clean transfers.
+
+Hard enough to read even through arena telemetry.
+
+Hale covered the maps with one hand.
+
+“There it is.”
+
+Kade kept his face still.
+
+“What?”
+
+“The reason you have not said.”
+
+“I said two.”
+
+“You do not need this match to learn Pike drops his right shoulder. You have spent three nights asking Navarro for force overlays from your own drills.”
+
+Kade said nothing.
+
+Hale’s voice remained level.
+
+“Director Sen’s restriction says no intentional attempt to recreate the Forty-Seven event.”
+
+“I am not recreating it.”
+
+“Then define what you are doing.”
+
+Kade looked at the hidden load maps under Hale’s palm.
+
+“Testing whether I can recognize the conditions before anything happens.”
+
+“Recognition is not intervention.”
+
+“I know.”
+
+“Say the rest.”
+
+Kade disliked instructions that required him to cooperate with the obvious point.
+
+“If something starts, I stop.”
+
+“Something is not a condition.”
+
+Hale pulled a blank match card onto the display.
+
+**MERCER FIELD RESTRICTION — ABORT TRIGGERS**
+
+“Write them.”
+
+Kade took the stylus.
+
+He wrote: **visual lag**.
+
+After a moment, **hand tremor**.
+
+Then: **cold-line sensation**.
+
+Hale added **uncommanded transfer anomaly** beneath it.
+
+“If any one occurs, you disengage and signal.”
+
+“If Pike lets me.”
+
+“If you cannot disengage, you signal and I suspend the match. This is the part where your team, your opponent, and the arena staff become more important than your dislike of stopping.”
+
+Kade put down the stylus.
+
+The match card requested his confirmation.
+
+“If I agree, are you approving it?”
+
+“If you agree, I will decide whether I believe you.”
+
+“Comforting.”
+
+Hale pushed the card closer.
+
+Kade pressed his thumb to the confirmation field.
+
+Hale studied him for another long second, then applied a restricted-clearance seal.
+
+“Your success condition is not winning,” he said.
+
+“That seems unnecessarily pessimistic.”
+
+“Your success condition is leaving with better information and no preventable injury to either fighter.”
+
+“That is difficult to put on a highlight reel.”
+
+“Which is why Pike did not write it.”
+
+The approval appeared.
+
+Kade rose.
+
+At the door, Hale said, “Mercer.”
+
+He turned.
+
+“You are allowed to discover that an experiment is a bad idea before it injures you.”
+
+Kade looked at the green clearance seal.
+
+“That sounds inefficient.”
+
+“Practice.”
+
 Hale approved the match with a field restriction and enough safety language to qualify as a small novel.
+
+By breakfast, the open challenge had become entertainment.
+
+Asterion’s student network showed the pairing beside a live prediction model.
+
+**PIKE — 91.8%**
+
+**MERCER — 8.2%**
+
+Eli stared at it.
+
+“Eight point two is insulting.”
+
+Kade looked over his cereal.
+
+“You think it should be lower?”
+
+“I think they are underestimating variance.”
+
+“That is the nicest possible version of what you mean.”
+
+Taren dropped into the chair beside them.
+
+“People are taking bets.”
+
+Sera looked up sharply.
+
+“Officially?”
+
+“No. Which makes the odds more interesting.”
+
+Mara sat across from Kade.
+
+“Why did Pike post it?”
+
+“Publicity,” Taren said.
+
+Kade looked at him.
+
+“You know that?”
+
+“His roommate told someone in Kepler, who told someone in Meridian, who told me.”
+
+Sera said, “Your information chain sounds imaginary.”
+
+“All information chains sound imaginary when summarized.”
+
+Kade looked back at the prediction model.
+
+He had told himself Pike’s style was useful.
+
+That was true.
+
+He had told himself the rank opportunity was useful.
+
+Also true.
+
+But the percentage bothered him.
+
+Eight point two.
+
+A number deciding what kind of story he was before the first exchange.
+
+That was dangerous motivation.
+
+He knew that now.
+
+Mara seemed to know it too.
+
+“If you fight the percentage, you lose,” she said.
+
+Kade looked at her.
+
+“I am not fighting the percentage.”
+
+“You are looking at it like it insulted your family.”
+
+“It lacks manners.”
+
+“Pike is enough problem for one match.”
+
+Kade closed the prediction window.
+
+That felt strangely difficult.
+
+“Fine.”
+
+Sera pointed her spoon at him.
+
+“That sounded like actual restraint.”
+
+“Do not make it weird.”
+
+The route from Meridian to Arena Four cut through the Hall of Standards.
+
+Kade had passed it before without stopping. Eleven bronze nameplates curved along one wall beneath larger-than-life relief portraits of the first publicly recognized Standard Eights.
+
+Sen was fifth from the left.
+
+Today Eli slowed.
+
+Kade nearly walked into him.
+
+“What?”
+
+Eli pointed at the wall.
+
+There were eleven portraits.
+
+Twelve stone bays.
+
+The final bay was not empty exactly. A narrow maintenance panel occupied it, newer than the surrounding stone and slightly the wrong color.
+
+Kade counted again.
+
+“Why build twelve?”
+
+Mara glanced over.
+
+“The hall predates the current display.”
+
+“That explains the stone. Not the symmetry.”
+
+Eli leaned closer to the panel.
+
+A tiny construction code sat near the bottom edge.
+
+**LEGACY BAY 12 — ACCESS SEALED**
+
+“Probably utilities,” Eli said.
+
+“That is an aggressively boring answer.”
+
+“We are going to a fight,” Sera said. “You can investigate suspicious architecture after Mercer survives it.”
+
+Kade looked once more at the eleven bronze names and the twelfth sealed bay.
+
+Then kept walking.
+
+Asterion had enough strange architecture that one asymmetrical memorial did not qualify as a mystery.
+
+Yet.
+
+A group of younger academy-track students entered from the east passage behind a guide in Sol gold. The guide recited the eleven names without consulting the wall. At each portrait, the students repeated the associated discipline: structural transfer, thermal control, charge mediation, biological stabilization.
+
+At Sen’s portrait, the answer came loudest.
+
+“Integrated transfer.”
+
+The guide moved directly from the eleventh bay to the arena passage.
+
+Nobody named the sealed space.
+
+One child dragged her fingers along the carved stone until the newer panel interrupted the pattern. Her hand dropped. She hurried to catch the group.
+
+Kade looked at the panel again.
+
+Institutions taught history through what people repeated.
+
+Apparently they also taught it through where the tour did not stop.
 
 Now Kade sat in the prep bay rolling his shoulders while Eli displayed Pike’s last six fights in miniature above a tablet.
 
@@ -183,6 +509,88 @@ Hale’s voice came over the prep speaker.
 “Mercer. Arena.”
 
 Kade stood.
+
+The final safety check happened in a narrow glass lane between the prep bay and the ring.
+
+Kade placed both hands on the calibration rail. A low pulse moved through the metal, testing his Conduit response against the match cap.
+
+The display returned the same result it always did.
+
+**CONVENTIONAL FIELD OUTPUT: 0.00**
+
+**CONTROL CAP: NOT APPLICABLE**
+
+The technician checked the sensor contacts twice.
+
+“It is not broken,” Kade said.
+
+“I am aware.”
+
+“You checked twice.”
+
+“I am professionally cautious.”
+
+On the other side of the barrier, Pike gripped his own rail. Red light filled the calibration trace, rose toward the match ceiling, then stopped precisely beneath it.
+
+**REDIRECTION CAP: VERIFIED**
+
+**AMPLIFICATION CAP: VERIFIED**
+
+Pike released the rail.
+
+The crowd reacted to his numbers and Kade’s absence of them with the same eager noise.
+
+The system had found two different ways to turn them into entertainment.
+
+Hale entered the lane and inspected both readouts.
+
+“Open challenge rule,” he said. “Either fighter may withdraw after calibration without penalty if the declared capability profile differs materially from the verified one.”
+
+Pike looked through the glass at Kade.
+
+“His profile is still zero.”
+
+“Correct,” Hale said.
+
+“Then mine does not differ.”
+
+Kade said, “That is a very formal way to say you still want to hit me.”
+
+“You accepted.”
+
+“I contain multitudes.”
+
+Hale ignored both of them.
+
+“Mercer, your restriction card is active. Recite the triggers.”
+
+The gallery quieted enough to become annoying.
+
+“Visual lag. Tremor. Cold line. Uncommanded anomaly.”
+
+“Required response?”
+
+“Disengage and signal.”
+
+“Required response if Pike prevents disengagement?”
+
+Kade glanced at Pike.
+
+“Complain to management.”
+
+Hale did not blink.
+
+“Signal for suspension.”
+
+“Good. Pike, you will release on the first suspension tone even if you have already initiated a strike.”
+
+Pike nodded.
+
+For a moment the match stopped being a prediction percentage.
+
+It became three people stating exactly where responsibility changed hands.
+
+Hale opened the lane.
 
 Eli held out a fist.
 
@@ -540,6 +948,556 @@ It concerned Kade too.
 
 He did not make that part into a joke.
 
+Jonah Pike arrived twenty minutes later carrying two sports drinks and a bruise beginning to darken along one forearm.
+
+Park looked at him.
+
+“This is not a social room.”
+
+“I am delivering electrolytes.”
+
+“You may deliver one.”
+
+Pike handed Kade a bottle.
+
+“Peace offering.”
+
+“For damaging your floor?”
+
+“You did not damage my floor.”
+
+“Generous.”
+
+Pike leaned against the wall.
+
+“I watched the replay.”
+
+“Everyone has.”
+
+“No. The sensor trace.”
+
+Kade looked at him.
+
+Pike shrugged.
+
+“My coach showed me before they locked it.”
+
+“And?”
+
+“My strike was normal.”
+
+“That is encouraging.”
+
+“The wall load was not.”
+
+“Less encouraging.”
+
+Pike took a drink.
+
+“You scared?”
+
+Kade almost answered no.
+
+The old door-closing reflex.
+
+He looked at his hand.
+
+A small tremor remained in two fingers.
+
+“Yes.”
+
+Pike nodded.
+
+“Good.”
+
+Kade frowned.
+
+“You people have terrible encouragement.”
+
+“If you weren’t scared, I’d be worried.”
+
+Park said from the terminal, “He is already worried.”
+
+“See?” Pike said. “Medical consensus.”
+
+Kade laughed.
+
+Pike left a few minutes later.
+
+The interaction did not make Kade feel better about what had happened.
+
+It made the world around it more normal.
+
+That helped.
+
+The door opened again before Park resumed the tests.
+
+Hale entered with a woman in a gray facilities coat. White dust marked one sleeve, and an arena schematic filled the tablet under her arm.
+
+Park moved between them and the bed.
+
+“Five minutes,” she said.
+
+“I need three,” the woman replied.
+
+“Everyone says that in medical.”
+
+“Facilities structural systems,” she said. “I need the order of events before the recording teaches you a cleaner version.”
+
+Kade looked at Park.
+
+Park checked his pupils again.
+
+“Three minutes. If he loses a word, you leave.”
+
+The engineer set the tablet on the rolling table. She did not play the footage. Instead she opened a blank diagram of Arena Four.
+
+“Where were your feet?”
+
+Kade marked them.
+
+“Pike’s?”
+
+He added two more positions.
+
+“Direction of his final strike.”
+
+An arrow.
+
+“Your intended movement.”
+
+Another arrow, shorter and angled inside Pike’s shoulder.
+
+The engineer expanded the diagram to show the arena subframe.
+
+Kade pointed to the western damper before she asked.
+
+“That one took the load first.”
+
+Her hand paused.
+
+“The public schematic does not label the dampers individually.”
+
+“The maintenance plan does.”
+
+Hale’s expression tightened.
+
+Kade added, “The copy attached to Arena Safety Orientation.”
+
+“Which no student reads,” Hale said.
+
+“It had diagrams.”
+
+The engineer rotated the model.
+
+“The western damper did take the first abnormal load. Then this support rib, this sensor housing, and the edge anchor.”
+
+She illuminated each component in order.
+
+“Could Pike’s strike do that?” Kade asked.
+
+“Pike’s strike contained enough energy to damage a sensor housing if all of it arrived there. It should not have arrived there.”
+
+“But it did.”
+
+“That is why I am here instead of repairing it.”
+
+Park pointed toward the door.
+
+“Two minutes.”
+
+The engineer changed the display. A list of room assignments appeared beside the fracture map.
+
+Arena Four would be closed for at least three days. Six combat sections had been relocated. Two team assessments had lost their booked space. Maintenance crews needed to lift the western third of the floor and inspect every anchor tied to the frame.
+
+The broken surface in the video had looked dramatic.
+
+The schedule looked expensive.
+
+“Was anyone under it?” Kade asked.
+
+“No. The service trench was clear.”
+
+His breath left him.
+
+The engineer met his eyes.
+
+“It is checked remotely before every match. That answer is procedure, not luck.”
+
+Kade nodded.
+
+The distinction mattered.
+
+“Will it happen again?” she asked.
+
+“I don’t know.”
+
+“Can you identify anything that began before the strike?”
+
+He could have said no.
+
+Hale already knew better.
+
+“Pressure behind my eyes. Then the cold line.”
+
+Hale folded his arms.
+
+“One of your abort triggers.”
+
+“Yes.”
+
+“Did you signal?”
+
+“No.”
+
+“Why?”
+
+Because Pike’s strike had already started.
+
+Because Kade had wanted the answer.
+
+Because twelve seconds had been enough to accept a match and one second should have been enough to stop it.
+
+“I thought I could get through the exchange.”
+
+Hale let the sentence stand without helping him.
+
+Kade looked at the closed-arena schedule.
+
+“That was wrong.”
+
+The engineer closed the schematic.
+
+“That is all I need.”
+
+Park pointed her out.
+
+Hale remained.
+
+“The match is recorded as no contest,” he said. “No ladder movement for either fighter.”
+
+The morning’s eight-point-two prediction returned to Kade’s mind.
+
+It seemed very small beside the empty service trench.
+
+“Okay.”
+
+Hale’s eyebrows rose.
+
+“No argument?”
+
+“Would one improve the floor?”
+
+“No.”
+
+“Then no.”
+
+“You are restricted from challenges and unsupervised combat until Park clears you and Sen completes her review.”
+
+There it was.
+
+The part Kade normally fought because somebody else had imposed it.
+
+This time the limit had his handwriting on the form he had ignored.
+
+“Understood.”
+
+Hale took one peppermint from his pocket and set it beside the sports drink.
+
+“That was almost mature.”
+
+“Is this one available to students?”
+
+“No.”
+
+Hale left it anyway.
+
+Park did not clear him to leave until he could walk two laps of the medical floor without his visual tracking lagging.
+
+On the second lap, Kade passed a glass room where structural engineers had already reconstructed the floor event in simulation.
+
+The model showed Pike’s strike entering Kade’s chest.
+
+Then the normal predicted path.
+
+Body displacement.
+
+Foot load.
+
+Boundary exit.
+
+Beside it, the measured path ran red through the support lattice.
+
+Kade stopped.
+
+Park stopped beside him.
+
+“Do not interpret medical wandering privileges as research access.”
+
+“I am standing in a hallway.”
+
+“You are standing in a hallway with intent.”
+
+The simulation repeated.
+
+Kade watched the energy totals.
+
+Input.
+
+Output.
+
+Heat.
+
+Structural strain.
+
+No extra energy.
+
+No impossible multiplication.
+
+Just the wrong destination.
+
+“I didn’t make force,” Kade said.
+
+Park looked at the screen.
+
+“No evidence you did.”
+
+“I moved where it counted.”
+
+“Maybe.”
+
+Kade glanced at her.
+
+“You sound like Sen.”
+
+“That is because uncertainty remains uncertainty when spoken by different people.”
+
+He watched the red path again.
+
+That mattered.
+
+Whatever he had done, it was not a miracle that ignored physics.
+
+The bill had still been paid.
+
+Just somewhere nobody expected.
+
+Park touched his shoulder.
+
+“Walk.”
+
+Kade obeyed.
+
+That was how worried he was.
+
+---
+
+Elena called before he reached the medical elevator.
+
+Kade considered letting it ring.
+
+That decision lasted until her name appeared a second time.
+
+He answered.
+
+She was in a hospital supply room. Shelves of sealed gauze rose behind her, and the disposable cap on her head meant she had stepped out of a procedure to call.
+
+“Hi,” Kade said.
+
+“Turn the camera toward your face.”
+
+“Good to see you too.”
+
+“Kade.”
+
+He adjusted the phone.
+
+Elena examined him with the expression that had made generations of Northline emergency-room patients confess to symptoms they had planned to hide.
+
+“Pupils equal?” she asked.
+
+“Park says yes.”
+
+“Headache?”
+
+“Two now. Five immediately after.”
+
+“Nausea?”
+
+“No.”
+
+“Tremor?”
+
+Kade held up his hand. The last two fingers still moved slightly.
+
+Elena went silent.
+
+“It is improving,” he said.
+
+“I did not ask whether it was improving.”
+
+“That is why I volunteered useful context.”
+
+“Are you discharged?”
+
+“Medically. Not politically.”
+
+“Explain.”
+
+He told her about the challenge restriction and Sen’s review. He left out the service trench, then put it back in because Elena’s face changed whenever he edited around an injury.
+
+“Nobody was below the floor,” he finished. “They verify it before every match.”
+
+“Good.”
+
+The word carried no relief yet.
+
+“How did you get the video?” Kade asked.
+
+“Darius sent it.”
+
+“I am going to block him.”
+
+“A patient showed him. Your brother was the second source.”
+
+Kade leaned against the corridor wall.
+
+The clip had reached Northline before he had left medical.
+
+“It looks worse from the spectator angle,” Elena said.
+
+“That camera is dramatic.”
+
+“It shows the floor dropping under you.”
+
+“Only a few centimeters.”
+
+“Do you want to keep giving me smaller units, or do you want to tell me why you accepted a fight against someone six thousand ranks above you?”
+
+Kade opened his mouth.
+
+The percentage answer was available.
+
+The style answer was better.
+
+Neither was complete.
+
+“His transfers are easy to read,” he said.
+
+Elena’s expression went very still.
+
+“You used yourself as test equipment.”
+
+“That is not exactly—”
+
+“Were you trying to learn whether the thing that happened in your last fight might happen again?”
+
+Kade looked through the glass wall at the medical staff crossing between rooms.
+
+“Yes.”
+
+Elena removed her cap and pressed it into one hand.
+
+“Thank you for telling me.”
+
+He had prepared for anger.
+
+Gratitude landed differently.
+
+“You can still be mad,” he said.
+
+“I am furious.”
+
+“There it is.”
+
+“But I am not going to make honesty more expensive than hiding it.”
+
+Kade stopped leaning on the wall.
+
+Elena glanced toward the supply-room door, checking the narrow window for anyone waiting.
+
+“Do they know what happened?”
+
+“They know the force came from Pike and ended up in the wrong structure. No unexplained energy.”
+
+“And the tremor?”
+
+“They do not know.”
+
+“Then you do not know enough to volunteer your nervous system for another test.”
+
+“I did not plan the transfer.”
+
+“You planned the conditions.”
+
+Mara had said almost the same thing.
+
+It was becoming inconvenient when people he trusted reached identical conclusions independently.
+
+“I know,” Kade said.
+
+Elena’s shoulders lowered by a fraction.
+
+“What happens now?”
+
+“Park monitors me. Sen reviews the event. Hale has me out of challenges until both of them agree.”
+
+“And what do you do?”
+
+“Attend.”
+
+“That is where your body goes.”
+
+Kade looked back toward the simulation room.
+
+The red path ran again behind the glass.
+
+“Tell them everything. Stop at the warning next time. Help with whatever review they give me.”
+
+“Good.”
+
+“You sound surprised.”
+
+“I sound like your mother after receiving a video in which a building loses a fight with you.”
+
+Kade smiled despite the headache.
+
+Someone knocked on Elena’s door.
+
+She raised one finger toward them without looking away from Kade.
+
+“I have to go.”
+
+“I know.”
+
+“Call me after Sen.”
+
+“I will.”
+
+“Not a text.”
+
+“Authoritarian.”
+
+“Alive.”
+
+The word struck too close to fear for either of them to joke past it.
+
+Kade nodded.
+
+“I love you too.”
+
+Elena’s expression softened.
+
+“I love you. You are allowed to stop before something breaks.”
+
+The call ended.
+
+Kade stood alone beside the elevator, looking at the hand that still would not remain completely steady.
+
+Then he went home to Meridian.
+
+---
+
 When he finally returned to Meridian, the video had escaped containment exactly as expected.
 
 Eli met him at the elevator.
@@ -592,7 +1550,61 @@ Kade rubbed one temple.
 
 “Human progress.”
 
-Mara waited in the Meridian common room.
+The social effect was stranger than the video count.
+
+Two students moved out of Kade’s path in the corridor.
+
+One did it unconsciously.
+
+The other definitely did not.
+
+A first-year he knew only as Devin asked whether Kade could “do the floor thing” to a person.
+
+“No.”
+
+“You sure?”
+
+Kade stopped walking.
+
+“No,” he said.
+
+Devin’s face changed.
+
+Kade hated the answer the instant it existed.
+
+Not because it was dishonest.
+
+Because it was honest.
+
+He did not know.
+
+Sera stepped beside him.
+
+“Go,” she told Devin.
+
+Devin went.
+
+Kade looked at her.
+
+“I could have handled that.”
+
+“I know.”
+
+“Then why—”
+
+“Because you looked like you were about to explain experimental physics to a frightened teenager.”
+
+Kade considered this.
+
+“Fair.”
+
+At dinner, his usual seat remained open.
+
+That mattered more than the students who moved away.
+
+Eli had put a plate there.
+
+Mara waited in the Meridian common room afterward.
 
 She looked at his hands before his face.
 
@@ -720,6 +1732,52 @@ Kade lost four to one.
 
 That ordinary argument helped more than Park’s scan results.
 
+Then Taren arrived.
+
+He stopped in the doorway, took in the group, and held up both hands.
+
+“I have no floor-related jokes.”
+
+“Liar,” Sera said.
+
+“I have several. I am choosing restraint.”
+
+Kade looked at him.
+
+Taren’s eyes flicked once to Kade’s hand.
+
+Then the medical band at his wrist.
+
+Then the replay Eli had paused.
+
+Too fast for concern alone.
+
+“Did you see restricted footage?” Kade asked.
+
+Taren blinked.
+
+“No.”
+
+“Why did you look at the six-frame marker?”
+
+Taren’s gaze moved to the screen.
+
+Eli had, in fact, left the red marker visible.
+
+Taren smiled.
+
+“Because Eli color-codes everything dramatic.”
+
+Eli looked offended.
+
+“I color-code responsibly.”
+
+The explanation worked.
+
+Mostly.
+
+Kade filed the rest away.
+
 His tablet chimed.
 
 A priority message appeared.
@@ -814,26 +1872,102 @@ Kade stared.
 
 “What is that?”
 
-Sen’s eyes stayed on him.
+“Not a Standard.”
 
-“Something we need to discuss very carefully.”
+“That was not my question.”
 
-Kade heard Mara’s voice in his head.
+“No.”
 
-*Ask what she isn’t telling you.*
+Sen moved to the wall and drew a rectangle around the arena.
 
-He looked at Sen.
+“Tomorrow we will discuss what we know. Tonight I need you to understand one thing.”
+
+“What?”
+
+“The floor did not crack because you created force.”
+
+Kade looked at the replay.
+
+“Then why?”
+
+“Because existing force resolved somewhere our models did not expect.”
+
+A cold feeling moved through him that had nothing to do with the anomaly.
 
 “You already had a name for it.”
 
-Sen did not answer.
+Sen went still.
 
-Kade’s stomach tightened.
+There.
 
-The floor had cracked less than four hours ago.
+Mara had been right.
 
-Sen had not invented those words tonight.
+Kade leaned forward.
 
-Whatever Boundary architecture was, Asterion had known enough about it to name it before Kade Mercer ever arrived.
+“You said Boundary architecture like you were remembering it, not inventing it.”
 
-And that was the first thing Sen did not tell him.
+Sen said nothing.
+
+“Has someone done this before?”
+
+“Tomorrow.”
+
+“That means yes.”
+
+“It means you are tired and I want Park’s final neurological clearance before we continue.”
+
+“Convenient.”
+
+“Yes.”
+
+Kade stood.
+
+At the door, he stopped.
+
+He wanted to demand the answer.
+
+Instead he turned back.
+
+“Is it dangerous?”
+
+Sen’s expression changed.
+
+“Everything powerful is dangerous if you misunderstand what it costs.”
+
+“That sounded rehearsed.”
+
+“It is older than you.”
+
+Kade stared.
+
+Another answer adjacent to the truth.
+
+He left.
+
+Outside, the old administration corridor was empty.
+
+His phone buzzed.
+
+Darius.
+
+**YOU BROKE A SCHOOL ALREADY?**
+
+Kade leaned against the stone wall and laughed.
+
+Then typed:
+
+**Just the floor. Working up to the rest.**
+
+Darius replied:
+
+**PROUD OF YOU**
+
+Kade looked back toward Sen’s closed office.
+
+Boundary architecture.
+
+A name that existed before him.
+
+For the first time since Zero Protocol, Kade had a mystery with edges.
+
+He was beginning to understand that edges were where the important things happened.
