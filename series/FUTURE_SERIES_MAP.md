@@ -1,9 +1,9 @@
 # FUTURE SERIES MAP
 
-## Prequel possibility — CONTACT ZERO
-**Format:** trilogy or two-book arc, 25–30 years before Asterion.
+## Prequel — CONTACT ZERO (Book 1 draft COMPLETE: 24 ch / 108,754 words on draft/contact-zero-book1)
+**Format:** trilogy or two-book arc, roughly two decades before Asterion — in the years shortly before Kade's birth.
 
-Young Aaron Mercer, Amara Sen and the first generation of Resonants discover that a scientific miracle is actually contact with a hidden intelligence.
+Aaron Mercer, a veteran coupling operator, and the station team around him discover that a recurring anomaly is contact with a hidden intelligence. **Timeline (decided 2026-08-25):** this is a SECOND contact event. The Resonance Discovery itself — the Refuge Node encounter, 31 years before Book 1 — remains a separate, earlier event per UNIVERSE_BIBLE; Contact Zero depicts the contact that Aaron's later life, containment, and Book 1's reveal descend from. Do not frame CZ as the origin of Resonance science in any copy.
 
 Tone:
 - research thriller
@@ -50,8 +50,20 @@ Could follow Julian, Sera or Taren in a military/political thriller where Kade i
 
 ---
 
-## Side series — BOUNDARY MEDICINE
-A medical SF series exploring how Resonance changes trauma care, neurorehabilitation, prosthetics and identity.
+## Side series — BOUNDARY MEDICINE → **THE QUIET WARD TRILOGY** (canonized 2026-08-25)
+This slot is now filled: "The Quiet Ward" (95,036 words, complete with audio, on
+feature/refuge-node-trilogy) is CANON as book 1 of The Quiet Ward Trilogy — a
+medical SF series exploring how Resonance changes trauma care,
+neurorehabilitation, prosthetics and identity.
+
+Naming rule (author-ratified): the series' internal working name referenced a
+LOCKED lore term; **"Refuge Node" must not appear in any reader-facing copy,
+series title, or catalogue text anywhere in the universe until the Asterion
+trilogy itself reveals it.** Public name: The Quiet Ward Trilogy. The branch
+name is historical and harmless.
+
+Gate before the branch merges: the book gets the same full editorial review
+Books 1-2 and Contact Zero received (it was not in the 2026-08-25 review's scope).
 
 Keep connected-universe links subtle. Different genre, same rules.
 

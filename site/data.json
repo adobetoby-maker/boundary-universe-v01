@@ -16,7 +16,7 @@
     {
       "id": "the-quiet-ward",
       "title": "The Quiet Ward",
-      "series": "The Refuge Node Trilogy \u2014 Book 1",
+      "series": "The The Quiet Ward Trilogy \u2014 Book 1",
       "role": "Medical SF / first contact",
       "status": "Complete with Audio",
       "words": 95036,
@@ -57,23 +57,6 @@
     {
       "title": "The Final Boundary",
       "role": "Civilizational conflict / payoff",
-      "status": "Planned"
-    }
-  ],
-  "refuge_node_trilogy": [
-    {
-      "title": "The Quiet Ward",
-      "role": "Medical \u2014 first perception",
-      "status": "Complete with Audio"
-    },
-    {
-      "title": "Book 2",
-      "role": "TBD",
-      "status": "Planned"
-    },
-    {
-      "title": "Book 3",
-      "role": "Refuge Node named",
       "status": "Planned"
     }
   ],
@@ -285,7 +268,7 @@
       "n": 31,
       "title": "Aaron",
       "words": 6200,
-      "summary": "Sealed chamber opened. Aaron Mercer alive, sustaining containment around the Refuge Node. Father-son reunion is angry, incomplete and emotionally messy."
+      "summary": "Sealed chamber opened. Aaron Mercer alive, sustaining containment around the Quiet Ward. Father-son reunion is angry, incomplete and emotionally messy."
     },
     {
       "n": 32,
@@ -298,6 +281,23 @@
       "title": "First Day",
       "words": 5600,
       "summary": "Aftermath, rank reset, consequences, partial accountability. Kade/Mara acknowledge attraction without a neat ending. Long-range signal receives coordinates and countdown. Kade's new rank is #37; Standard reads NINE."
+    }
+  ],
+  "quiet_ward_trilogy": [
+    {
+      "title": "The Quiet Ward",
+      "role": "Medical \u2014 first perception",
+      "status": "Complete with Audio"
+    },
+    {
+      "title": "Book 2",
+      "role": "TBD",
+      "status": "Planned"
+    },
+    {
+      "title": "Book 3",
+      "role": "The name is finally spoken",
+      "status": "Planned"
     }
   ]
 }

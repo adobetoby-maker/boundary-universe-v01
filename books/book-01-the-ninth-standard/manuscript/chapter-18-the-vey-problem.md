@@ -1084,7 +1084,7 @@ Paper had an advantage digital systems hated.
 
 Deletion was visible.
 
-A librarian named Mr. Chen brought her three bound volumes covering Asterion’s institutional history before the academy charter.
+A librarian named Mr. Liang brought her three bound volumes covering Asterion’s institutional history before the academy charter.
 
 “You’re researching architecture?” he asked.
 
@@ -1100,7 +1100,7 @@ Elite students doing independent research was normal.
 
 Elite students asking about pre-charter offshore facilities apparently was not.
 
-Chen did not object.
+Liang did not object.
 
 He brought a fourth volume.
 
@@ -1127,7 +1127,7 @@ Mara added each phrase to her evidence table.
 
 None named Aaron.
 
-Near the end of the second hour, Mr. Chen returned with a foam support wedge for the photograph volume.
+Near the end of the second hour, Mr. Liang returned with a foam support wedge for the photograph volume.
 
 “The binding complains if you open it flat,” he said.
 
@@ -1135,7 +1135,7 @@ Mara shifted the book onto the wedge.
 
 “Who wrote these captions?”
 
-Chen checked the title page.
+Liang checked the title page.
 
 “Institutional communications, mostly. Some were transferred from the platform records.”
 
@@ -1153,7 +1153,7 @@ Mara kept her expression still.
 
 “That was not the question.”
 
-Chen studied her for a moment.
+Liang studied her for a moment.
 
 “Yes. No flash.”
 
@@ -1181,7 +1181,7 @@ Someone had used a blade while the book lay open.
 
 “What happened to page 214?” she asked.
 
-Chen checked the binding.
+Liang checked the binding.
 
 “Archive note says removed under federal retention authority twenty-six years ago.”
 
@@ -1191,7 +1191,7 @@ Chen checked the binding.
 
 It was not.
 
-Chen brought the removal register anyway. The request itself had been sealed, but the register preserved its physical description.
+Liang brought the removal register anyway. The request itself had been sealed, but the register preserved its physical description.
 
 One photographic plate.
 
@@ -1209,7 +1209,7 @@ But someone had considered all of them important enough to remove together.
 
 “Do federal retention requests normally remove the page?” she asked.
 
-“Now? No. The archive would restrict the volume.” Chen looked down at the clean cut. “Twenty-six years ago, apparently someone preferred scissors.”
+“Now? No. The archive would restrict the volume.” Liang looked down at the clean cut. “Twenty-six years ago, apparently someone preferred scissors.”
 
 “Blade.”
 

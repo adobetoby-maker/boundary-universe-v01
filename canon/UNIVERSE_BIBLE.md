@@ -47,6 +47,11 @@ Studying its emissions leads to modern Resonance science.
 
 Public history calls this the Resonance Discovery.
 
+(Clarified 2026-08-25: the Contact Zero events — Aaron Mercer's array contact,
+roughly two decades before Book 1 — are a second, separate contact, not this
+Discovery. Resonance science, the Standards taxonomy, and coupling
+infrastructure already exist mature in Contact Zero's opening chapters.)
+
 Secret history calls it **Contact Zero**.
 
 Aaron Mercer is among the earliest human test subjects.

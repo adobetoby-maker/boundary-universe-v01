@@ -17,7 +17,7 @@ file.
 | B2 The Twelfth Resonant | 34 | 87,680 | draft/book-02-four-pass | COMPLETE at treatment density (43% of target) | none |
 | B3 The Final Boundary | 1 file | — | draft/book-03-six-pass | not started | none |
 | Contact Zero bk 1 | 24 | 108,754 | draft/contact-zero-book1 | COMPLETE draft, pre-polish | none |
-| The Quiet Ward (Refuge Node) | 24 | 95,036 | feature/refuge-node-trilogy | COMPLETE with full audio — **uncanonized** | complete |
+| The Quiet Ward | 24 | 95,036 | feature/refuge-node-trilogy | COMPLETE with audio — CANON, review-gated pre-merge | complete |
 
 An editorial review (six independent readers, 2026-08-25) covered every word
 of B1, B2, and Contact Zero. Findings drove the punch lists below.
@@ -82,66 +82,82 @@ series (see Decision 3) because nothing enforced that.
   two jobs per scene, preserve reveal order, family-clean) **plus** B2
   additions per Decision 4. Distrust B2's self-attestation docs — they
   declare "production-lock" at 43% density.
-- Punch list (small): ch13 "heated two percent" missing "by"; verify B2's
-  "Owen Park→Calder" rename doesn't contradict B1 ch10's Owen Park (same
-  student or different?).
+- Punch list (small): ch13 "heated two percent" missing "by". RESOLVED by
+  census: B2's Calder IS B1 ch10's Owen Park ("Owen Calder again") — B1
+  adopts Calder at pre-print (re-renders ch10/27/28). During expansion,
+  resolve two same-person-or-collision questions the census flagged:
+  Captain Ortiz (B1) vs Commander Ortiz (B2), Ms. Rook (B1) vs Dean Rook
+  (B2) — promotions if same people, renames if not (canon/NAME_REGISTRY.md).
 
 ## Book 3 — The Final Boundary — not started
 
 One manuscript file exists. Not a scheduling item until B2 expansion is done.
 B2's ending (30 days on the countdown) hard-constrains B3's opening.
 
-## Contact Zero — complete draft, needs one structural fix
+## Contact Zero — complete draft, structural fix APPLIED
 
 - 24 ch / 108,754 words. Review verdict: unusually disciplined; close to
   ready for density/polish. Prose held up even in the late-burst chapters.
-- **Structural surgery (one item):** ch17/18 chronological inversion — ch17
-  shows Aaron nine days *after* the acceptance that ch18 then narrates as
-  live scene. Swap them or give ch17 an explicit temporal marker. (Decision 2
-  covers which.)
-- Punch list: ch24 "fourth session" reference (no fourth session exists —
-  correct target depends on whether Aaron counts unauthorized sessions);
-  ch5 "Day 32" header breaks the absolute-day convention; Rhys vanishes for
-  ch19–24 (bible's own checklist calls for a closing beat); planned Yuki
-  gut-punch beat from BOOK_BIBLE never written; CLUE_LEDGER CZ-15 planted in
-  ledger but absent from ch22; "He held this." tic (15+ verbatim uses).
+- **Structural surgery (one item):** ch17-19 chronology. ch17 "The Encoding"
+  (Day ~1,200) sits before the acceptance it postdates; "Yes" and "Amara
+  Again" (both Day 1,190, continuous morning) follow it. Fix per Decision 2:
+  rotate to Yes → Amara Again → The Encoding.
+- Punch list: ch5 day header FIXED (private Day 32 = absolute Day 1,158;
+  commit 643d6eb). ch24 "fourth session" RESOLVED AS NOT A DEFECT — a real
+  fourth authorized session exists off-page (ch15 "four coupling sessions...
+  in authorized configurations", ch17 "the four authorized sessions"); the
+  reviewer's session tally missed it. Remaining: Rhys vanishes ch19-24
+  (bible's own checklist calls for a closing beat); planned Yuki gut-punch
+  beat from BOOK_BIBLE never written; CLUE_LEDGER CZ-15 planted in ledger
+  but absent from ch22; "He held this." tic (15+ verbatim uses).
 - ch24's ending inverts the bible's planned final image (secret TRUE account
   vs public lie-document) — arguably stronger, but confirm intentional.
 
-## The Quiet Ward / Refuge Node Trilogy — awaiting canonization decision
+## The Quiet Ward Trilogy — CANONIZED (Decision 1), renamed (Decision 3)
 
-Complete book (95,036 words) with complete audio, on an unmerged branch,
-absent from every canon doc, publicly named after a LOCKED-lore secret.
-Blocked entirely on Decisions 1 and 3.
+Complete book (95,036 words) with complete audio on feature/refuge-node-trilogy
+(branch name historical). Fills the Boundary Medicine slot. Public copy scrubbed
+of the locked lore term. Remaining gate: full editorial review before the
+branch merges — it was outside the 2026-08-25 review's scope.
 
 ---
 
-## DECISIONS NEEDED (author calls — nothing below proceeds without them)
+## DECISIONS — made 2026-08-25 (1 and 3 author-ratified; rest editor's selections, standing unless overruled)
 
-1. **Canonize The Quiet Ward?** Merge + add to FUTURE_SERIES_MAP (it fills
-   the "Boundary Medicine" slot), rename, or shelve.
-2. **Contact Zero ch17/18:** swap chapters, or add a temporal marker to ch17.
-3. **The "Refuge Node Trilogy" public name** leaks the Asterion endgame:
-   UNIVERSE_BIBLE defines the Refuge Node as the concealed entity, and the
-   site copy even lists book 3 as "Refuge Node named." Recommend renaming the
-   public series (The Quiet Ward already carries the better title) and
-   keeping "Refuge Node" out of all reader-facing copy until B3.
-4. **Contact Zero's timeline slot:** the bible puts the Resonance Discovery
-   31 years before B1; Aaron's containment is ~17 years before B1; CZ gives
-   Aaron a 15-year prior career using mature Standards infrastructure. This
-   reconciles ONLY if CZ's event is a *second* contact, not the Discovery —
-   but the series docs frame CZ as the origin. One line must change: either
-   the bible's framing of what CZ is, or CZ gets a retcon line. Decide which.
-5. **Surname policy:** rename B1's colliding minor characters (worst: three
-   Bells in a House whose symbol is a bell) or accept as texture. If renaming,
-   do it before ch14+ audio renders bake the names in. Create a NAME_REGISTRY
-   in canon/ either way — both books minted duplicate names because none
-   existed.
-6. **Book 2 audio voice:** Holden is Kade's book. B2 is still Kade POV
-   (Holden carries), but Contact Zero is Aaron POV — same voice aged, or a
-   new voice? Decide before any CZ rendering.
-7. **Release order:** B2 → CZ or CZ → B2? CZ is closer to done; B2 continues
-   the momentum. (Quiet Ward could slot anywhere once Decision 1 lands.)
+1. **DECIDED — CANONIZED (author-ratified).** The Quiet Ward fills the
+   Boundary Medicine slot as book 1 of The Quiet Ward Trilogy. Gate: it gets
+   the same full editorial review before its branch merges — it was not in
+   this review's scope.
+2. **DECIDED — ROTATION (revised from swap after seam check).** A straight
+   17/18 swap breaks the 18→19 seam: "Amara Again" is a same-morning
+   continuation of "Yes" and closes Act II-B. Correct order: Yes → Amara
+   Again → The Encoding (old 18, 19, 17). The Yes/Amara adjacency is
+   preserved byte-identical. APPLIED: both new seams verified clean (ch20
+   itself dates the encoding to Days 1,190-1,197, corroborating the order);
+   files rotated, headings renumbered, architecture + ledgers updated —
+   commits 6a46222 + f936aac on draft/contact-zero-book1.
+3. **DECIDED — RENAMED (author-ratified).** Public series is The Quiet Ward
+   Trilogy. "Refuge Node" is banned from all reader-facing copy until the
+   Asterion trilogy reveals it; site/data.json scrubbed to zero occurrences.
+4. **DECIDED — SECOND CONTACT.** The manuscript already votes this way
+   (15-year career, mature Standards from ch1). Resonance Discovery stays 31
+   years pre-B1; CZ is Aaron's later contact, ~two decades pre-B1. Bible and
+   series map carry the clarification; CZ needs no retcon line.
+5. **DECIDED — STAGED RENAMES.** Collisions living only in ch14-33 rename
+   now (the ch18 librarian). Collisions with occurrences in ch1-13 are
+   recorded in canon/NAME_REGISTRY.md with renames scheduled for the
+   pre-print pass, because they invalidate published audio (each triggers a
+   re-render, listed per name). Owen Park adopts B2's "Calder" if the census
+   confirms same character. Darius Bell keeps his name.
+6. **DECIDED — HOLDEN THROUGH THE ASTERION TRILOGY; CZ GETS ITS OWN VOICE.**
+   Holden is Kade's interiority and carries B2/B3. Aaron is a different man
+   in a different register — audition CZ narrators when its rendering starts.
+   Quiet Ward keeps its existing completed audio.
+7. **DECIDED — CZ RELEASES BETWEEN B1 AND B2.** CZ is weeks from done
+   (surgery applied; polish pass remains); B2's expansion is months. CZ
+   deepens Aaron exactly when B1 readers want him, and holds the audience
+   while B2 expands. Production order: finish CZ, then B2 expansion.
+   Quiet Ward slots after its review gate clears.
 
 ---
 
