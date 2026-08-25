@@ -66,8 +66,8 @@ series (see Decision 3) because nothing enforced that.
      pass predates the expansion. scripts/family_clean_check.py exists.
   4. Trim pass (optional): ch14/15/16/20 each carry 300–600 words of stacked
      closing beats; ch20's bag-notice beat repeats 5×.
-- Audio: 13/33 published (Holden, ElevenLabs; 128 kbps ch1–13, 64 kbps from
-  ch14). Chapters 4–7 were rendered from pre-expansion text and must be
+- Audio: 14/33 published (Holden, ElevenLabs; 128 kbps ch1–13, 64 kbps from
+  ch14 — ch14 landed at 25.1 MB / 52.3 min, half the old size). Chapters 4–7 were rendered from pre-expansion text and must be
   re-rendered (same condition ch1–3 were in; w/hr vs expanded text proves it).
   Render order interleaves new chapters with those four.
 
@@ -126,10 +126,14 @@ the countdown) hard-constrains B3's opening.
 
 ## The Quiet Ward Trilogy — CANONIZED (Decision 1), renamed (Decision 3)
 
-Complete book (95,036 words) with complete audio on feature/refuge-node-trilogy
-(branch name historical). Fills the Boundary Medicine slot. Public copy scrubbed
-of the locked lore term. Remaining gate: full editorial review before the
-branch merges — it was outside the 2026-08-25 review's scope.
+Complete book (95,041 words) with complete audio on feature/refuge-node-trilogy
+(branch name historical). REVIEW GATE PASSED 2026-08-25: avg 8.7/10, finale
+rated 10/10; lore-leak sweep fully clean; clue ledger verified verbatim.
+Outcomes: D1 timeline drift (eighteen months vs two years) FIXED on branch per
+bible (re-render of 7 chapters' audio queued for its production pass); D2
+Standards-taxonomy conflict resolved by bible ruling (civilian BM scale is a
+distinct system — doc-only); Osei + Vey collisions DEFERRED to docket; ch12
+POV exception sanctioned in its bible. Merge when its audio re-render lands.
 
 ---
 

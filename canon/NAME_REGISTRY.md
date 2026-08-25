@@ -162,3 +162,13 @@ These three surnames (**Calder, Seo, Kesler**) are now reserved in this registry
 - **Calder, Seo, Kesler** — B2 canon renames (Section G)
 
 *Git status intentionally not committed — per instructions, the lead commits this work.*
+
+
+## Quiet Ward additions (canonization review, 2026-08-25)
+
+| Name | Collision | Disposition |
+|---|---|---|
+| Osei (pharmacist, ~14 chapters) | Contact Zero's Yuki Osei | DEFERRED to trilogy pre-print pass — rename in QW (fewer dependent books) — matches Bell/Okafor/Cole precedent; triggers QW re-render of affected chapters |
+| Vey (Dr. Vey Orlan, forename; ch7/11/18) | Reserved surname of Alaric/Mara Vey (B1/B2 majors) | DEFERRED — aural-distinctness concern, not a rule breach; rename forename at QW pre-print |
+
+Quiet Ward clean-name census: Sable Hren, Colm, Lenne, Fenn Ash, (Vey) Orlan, Veld, Parris, Amroth, Maret, Teodor, Ruan — none collide elsewhere; reserved as used.

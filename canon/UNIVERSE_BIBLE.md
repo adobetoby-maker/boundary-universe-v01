@@ -99,6 +99,16 @@ This eventually becomes as important as combat.
 
 **LOCKED:** Standards describe *capability classes*, not simple power levels.
 
+(Ruling 2026-08-25, Quiet Ward canonization review: this LOCKED rule describes
+the ACADEMY taxonomy. Civilian Boundary Medicine licensing — the BM-1..BM-7
+scale in The Quiet Ward — is a distinct, older civilian system that borrowed
+"Standard" terminology and uses the numbers differently; in civilian usage
+"Standard Three" is the modal population classification and "Standard Six" a
+perception-adjacent medical class. The two systems coexist in-world and are a
+known point of in-world confusion. Neither redefines the other. Any scene
+placing an academy character and a medical license in the same room must keep
+the scales explicitly distinct.)
+
 1. **Perception** — sensing field interaction.
 2. **Redirection** — changing where an existing force or transfer resolves.
 3. **Amplification** — increasing a transfer by drawing from an available reservoir.
