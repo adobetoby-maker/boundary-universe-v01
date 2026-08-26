@@ -46,7 +46,7 @@ Each clue entry has:
 
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
-| FC-06 | Ch 7 | The paired session produces a quality of clarity Aaron has never experienced — he notes the difference in kind, not just degree, from every prior session including Book 1's deepest ones | The paired signature is qualitatively different from single-Eight contact — sets up why Ch12's disclosure only becomes possible now | Ch 12 | PENDING |
+| FC-06 | Ch 7 | The paired session produces a quality of clarity Aaron has never experienced — he notes the difference in kind, not just degree, from every prior session including Book 1's deepest ones | The paired signature is qualitatively different from single-Eight contact — sets up why Ch12's disclosure only becomes possible now | Ch 12 | PLANTED |
 | FC-07 | Ch 8 | Aaron references, obliquely, "the thing I wrote one page about and destroyed" (Book 1 Ch12) while preparing for a session, without elaborating | Reminds the reader the impression already exists; Ch12 escalates it rather than introducing it cold | Ch 12 | PENDING |
 
 ---
@@ -81,7 +81,7 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 |---|---|---|---|
 | Node's care extends beyond Aaron | 2 | 1 | No — FC-02 due Ch 8 |
 | Amara's change begins | 2 | 0 | No — clues due Ch 9, Ch 11 |
-| Severance/Quieters near-explicit | 2 | 0 | No — clues due Ch 7, Ch 8 |
+| Severance/Quieters near-explicit | 2 | 1 | No — FC-07 due Ch 8 |
 | Kessler's faction becomes doctrine | 2 | 1 | No — FC-09 due Ch 16 |
 | The next specification | 2 | 0 | No — clues due Ch 22, Ch 24 |
 
@@ -92,3 +92,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 **Chapter 5 audit:** FC-08 planted and confirmed in Kessler's explicit framing of acceleration as "the Directorate's mandate" and a continuity obligation that has a budget category and will outlast an individual officeholder. FC-01 remains confirmed. No prior-chapter clue remains unconfirmed; FC-09 remains scheduled for Chapter 16 before the Chapter 21 payoff.
 
 **Chapter 6 audit:** No new clue plant scheduled. FC-01 and FC-08 remain confirmed as planted. The Node again reduces relational load around Soren, continuing the already planted FC-01 pattern without creating a duplicate ledger clue. No prior-chapter clue remains unconfirmed; the next scheduled plants are FC-06 in Chapter 7 and FC-02/FC-07 in Chapter 8.
+
+**Chapter 7 audit:** FC-06 planted and confirmed. Amara's Storage envelope preserves the relational structure Aaron's attention normally displaces, allowing him to derive one transformation rule and correctly predict the Node's next field state after a single ordered change. The text explicitly distinguishes this as a difference in kind from all prior translation-through-impression. FC-01 and FC-08 remain confirmed; no prior-chapter clue remains unconfirmed. The next scheduled plants are FC-02 and FC-07 in Chapter 8.
