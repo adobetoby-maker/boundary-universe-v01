@@ -252,7 +252,7 @@ Thermal load.
 
 Operator strain.
 
-Then a field Kade had never seen in Book One.
+Then a field Kade had never seen before.
 
 **RELATIONAL COHERENCE EXCEPTION**
 
@@ -660,11 +660,7 @@ A promise neither of them had to complete tonight.
 
 Kade returned to Meridian Commons at 17:40.
 
-The emergency-center proposal from Chapter Three—no, the proposal from that morning—had been revised twice.
-
-He caught the production-language thought before it became words.
-
-Progress.
+The emergency-center proposal from that morning had been revised twice.
 
 The new version added withdrawal tests and local veto checks.
 
