@@ -68,7 +68,7 @@ Each clue entry has:
 
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
-| FC-10 | Ch 22 | Aaron builds the deepened encoding using the buffer method, noting it is still bound to the Conduit's operational lifespan — a limitation he doesn't like | Seeds the need for something more durable than software/field-architecture alone | Book 3 | PENDING |
+| FC-10 | Ch 22 | Aaron builds the deepened encoding using the buffer method, noting it is still bound to the Conduit's operational lifespan — a limitation he doesn't like | Seeds the need for something more durable than software/field-architecture alone | Book 3 | PLANTED |
 | FC-11 | Ch 24 | Aaron starts drafting "the next specification" without being able to say what it's for yet | Direct seed for Book 3's physical-artifact / successor-pathway arc | Book 3 | PENDING |
 
 ---
@@ -83,7 +83,7 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 | Amara's change begins | 2 | 2 | Yes |
 | Severance/Quieters near-explicit | 2 | 2 | Yes |
 | Kessler's faction becomes doctrine | 2 | 2 | Yes |
-| The next specification | 2 | 0 | No — clues due Ch 22, Ch 24 |
+| The next specification | 2 | 1 | No — FC-10 planted; FC-11 due Ch 24 |
 
 **Chapter 3 audit:** FC-01 planted and confirmed in the source-origin modulation that precedes both Aaron's closure command and the Conduit's automatic gain response. Aaron privately translates the ordered reduction as caution/restraint and withholds that interpretation from Soren. Chapters 1 and 2 had no scheduled clue plants, so no prior-chapter clue remains unconfirmed.
 
@@ -122,3 +122,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 **Chapter 20 audit:** FC-01 and FC-02 pay off in the full-trust disclosure. Given a choice between the higher-correlation Severance continuation and Soren's recorded architecture, the Node selects Soren and reconstructs three prospective outcomes, showing that its attenuation removed his unsafe paths before his response or the Conduit limiter. It then distinguishes dozens of individual human signatures rather than treating humanity as a single class. The final source sequence entrusts the Node's suppression-release path specifically to the Mercer-Sen paired signature, extending the established pattern of individual evaluation and chosen limits. No new clue is scheduled for Chapter 20; FC-03 through FC-05 remain planted with their partial Chapter 19 payoff, FC-06 and FC-07 remain paid off, FC-08 and FC-09 remain planted for Chapter 21, and no prior-chapter clue remains unconfirmed. The next scheduled plant is FC-10 in Chapter 22.
 
 **Chapter 21 audit:** FC-08 and FC-09 pay off in the Controlled Continuity Doctrine. Kessler's institutional capacity premise and Rhys's founding restraint-for-development bargain become coequal, funded obligations rather than resolving through either person's defeat. Permanent source, practitioner-classification, medical, technical, and strategic authorities preserve the conflict after the current officeholders leave; local closure and a ban on recursive live control contain acceleration while passive sites, safer derived standards, response capacity, quarterly review, and displacement funding preserve real development. No new clue is scheduled for Chapter 21, and no prior-chapter clue remains unconfirmed. FC-10 remains scheduled for Chapter 22.
+
+**Chapter 22 audit:** FC-10 planted and confirmed. Aaron deepens the original five-element encoding through nine distributed relational invariants derived from the order-preserving buffer method. Supported Conduit migrations retain the payload because they must authenticate why a new baseline follows from the old one; clean lattice retirement does not. Certified hardware lasts twelve years, extendable to sixteen, so the inheritance remains bound to one maintained Conduit lineage and one hardware generation without deliberate transfer. Aaron records the unresolved dependency and explicitly contrasts the replaceable lattice with the facility's durable physical structure. All prior-chapter clues remain confirmed; FC-11 remains scheduled for Chapter 24 as the second plant for Book 3's physical-artifact payoff.
