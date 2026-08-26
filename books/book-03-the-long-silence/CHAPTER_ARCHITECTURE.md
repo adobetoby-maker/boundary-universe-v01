@@ -27,7 +27,7 @@
 
 | Ch | Title | Target | Beat | Status |
 |---|---|---|---|---|
-| 7 | Full Disclosure | 5,000 | The deepest coupling session of the trilogy. The Node, fully trusting after Book 2's paired-signature work, communicates the complete shape of the Severance and what the Quieters actually are — no longer impression, no longer near-explicit, as complete as field-state communication allows. | PENDING |
+| 7 | Full Disclosure | 5,000 | The deepest coupling session of the trilogy. The Node, fully trusting after Book 2's paired-signature work, communicates the complete shape of the Severance and what the Quieters actually are — no longer impression, no longer near-explicit, as complete as field-state communication allows. | DRAFT COMPLETE |
 | 8 | Probability, Not Prophecy | 4,700 | The Node communicates something about the future — not a prediction, a structural fact: a Standard Nine practitioner will exist eventually, and what they do with what Aaron hides will matter more than anything Aaron does himself. Aaron translates this carefully, resisting the urge to read it as certainty. | PENDING |
 | 9 | Resonance | 4,800 | A joint session with Amara — something in the Ch7/8 disclosure resonates faintly with the fragment she's carried since Book 2, in a way neither of them can yet explain. Neither pursues it fully; both note it. | PENDING |
 | 10 | Rhys, Declining | 4,700 | Rhys's health accelerates its decline. A private scene between Aaron and Rhys — something closer to honesty than either has allowed before. Rhys does not apologize for the original suppression choice. He explains it, once, completely, for the first and only time. | PENDING |
