@@ -1186,8 +1186,6 @@ Not the tiny problem-solving smile.
 
 A real one.
 
-Kade noticed.
-
 He did not make it weird.
 
 That might have been his greatest advancement yet.

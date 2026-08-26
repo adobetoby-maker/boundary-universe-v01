@@ -72,7 +72,7 @@ Home.
 
 He pretended not to notice.
 
-Elena noticed.
+Elena’s expression flickered.
 
 Of course she did.
 
@@ -169,8 +169,6 @@ Whether Julian Cross was as good as the clips.
 Whether Mara Vey was “actually that scary.”
 
 Kade refused to answer the last question.
-
-Darius noticed.
 
 Unfortunately.
 
@@ -846,13 +844,9 @@ Hensley shook his hand enthusiastically.
 
 Ms. Alvarez’s face became very still.
 
-Kade noticed.
-
 Russell continued.
 
 “Everyone did.”
-
-There it was.
 
 Heat rose in Kade’s chest.
 

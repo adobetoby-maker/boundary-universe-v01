@@ -718,8 +718,6 @@ Mara was already standing.
 
 “We need to tell Sen before whoever receives that notification decides to come to us.”
 
-Kade laughed once.
-
 “Now we tell Sen?”
 
 “Yes.”
@@ -912,7 +910,7 @@ Kade stared.
 
 “I think it proves nothing.”
 
-“That sounded like you think yes.”
+“So, yes.”
 
 “I think somebody designing a permanent hall around eleven portraits had a strange sense of symmetry.”
 
@@ -1146,7 +1144,7 @@ Because yelling *there were twelve* at a school tour before he understood why on
 
 That restraint felt unpleasantly adult.
 
-Sera noticed.
+Sera watched him decide it.
 
 She did not congratulate him.
 

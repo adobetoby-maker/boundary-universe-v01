@@ -378,7 +378,7 @@ Aaron pointed without taking his hand from the rail.
 
 “Then it does not shear.” Mara dropped to one knee and pressed her burned hand against the deck. A narrow field rose beneath the support arm. Not enough to lift it. Enough to slow it.
 
-Her jaw tightened.
+Sweat beaded at her hairline.
 
 “I can hold this for thirty seconds.”
 

@@ -362,8 +362,6 @@ Okafor tapped the acknowledgment box.
 
 “This is an assessment, not a requirement to absorb contact. You can withdraw now, surrender in the arena, or ask Hale to stop at any point. A withdrawal leaves your combat rating unresolved. It does not alter your academic status.”
 
-There it was.
-
 An exit that did not require a broken window or a government transport.
 
 Kade read the form again.
@@ -1553,8 +1551,6 @@ The wall behind him.
 Taren’s expression changed.
 
 Only slightly.
-
-Kade noticed.
 
 Mara said, “Everything what?”
 

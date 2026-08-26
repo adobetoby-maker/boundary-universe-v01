@@ -268,7 +268,7 @@ Below it someone had taped a paper sign.
 
 Kade smiled.
 
-Mara noticed.
+Mara read the sign too.
 
 “Last year was difficult.”
 
@@ -1120,7 +1120,7 @@ Eli whistled.
 
 “Taren.”
 
-“That sounded like a diagnosis.”
+“Is that a diagnosis?”
 
 “More like weather.”
 
@@ -1253,8 +1253,6 @@ Kade almost laughed.
 “Did you rehearse that for me?”
 
 “A little.”
-
-There it was.
 
 An answer adjacent to the question.
 

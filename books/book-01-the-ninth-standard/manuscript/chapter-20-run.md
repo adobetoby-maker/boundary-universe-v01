@@ -1126,8 +1126,6 @@ Sen looked at the archive record.
 
 “I cannot tell you yet.”
 
-Kade laughed once.
-
 “Of course.”
 
 “I know how that sounds.”

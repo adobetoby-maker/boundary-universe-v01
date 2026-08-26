@@ -332,7 +332,7 @@ The word landed cleanly.
 
 A direct contradiction of the lie she had told him months earlier.
 
-Kade laughed once without humor.
+The relief did not feel like relief.
 
 “Finally.”
 

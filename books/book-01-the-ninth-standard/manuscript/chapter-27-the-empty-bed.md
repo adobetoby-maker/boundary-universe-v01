@@ -94,8 +94,6 @@ The professor looked at him more closely.
 
 “He filed three complaints about it last term.”
 
-There it was.
-
 Not a ghost.
 
 A procedural irritation Eli had left embedded in the academy.

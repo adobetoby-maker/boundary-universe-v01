@@ -610,8 +610,6 @@ Aaron's name seemed to alter the pressure in the room. Kade drew a breath that s
 
 Sen was silent.
 
-Kade laughed once.
-
 “Of course.”
 
 “Kade.”
@@ -778,7 +776,7 @@ At 15:00, the same charge hit Eli’s account.
 
 Forty-three seconds later, someone queried medical intake.
 
-Mara’s jaw tightened.
+Mara’s expression stilled.
 
 “Specific surveillance.”
 

@@ -438,8 +438,6 @@ All consistent with left until the actuator reversed.
 
 “Every third sequence now includes one. The course updated yesterday.”
 
-Mara’s jaw tightened.
-
 “You changed the failure rule without announcing it.”
 
 “The briefing says not all initial conditions remain reliable.”
@@ -979,8 +977,6 @@ He made a face.
 “No. You’re excellent at not answering.”
 
 Mara froze.
-
-Kade noticed.
 
 His expression changed.
 

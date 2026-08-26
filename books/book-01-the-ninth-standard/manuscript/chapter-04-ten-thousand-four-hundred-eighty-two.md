@@ -566,7 +566,7 @@ Kade said, “What rank?”
 
 Kade paused with the spoon halfway to his mouth.
 
-Mateo noticed.
+Mateo caught the pause.
 
 “Rankings are stupid for the first month.”
 
@@ -828,7 +828,7 @@ Sen looked pleased.
 
 “Your baseline data is being entered now.”
 
-Kade’s stomach tightened.
+Unease moved through him.
 
 “I’m not enrolled.”
 
@@ -1154,7 +1154,7 @@ Park folded her arms.
 
 He looked up.
 
-“That sounded almost critical.”
+“That’s a careful way to say critical.”
 
 “It was precise.”
 
@@ -1702,7 +1702,7 @@ At the first-year ranking board with his name at the bottom.
 
 The answer surprised him with how quickly it came.
 
-Elena noticed.
+Elena studied him for a second.
 
 “Okay.”
 

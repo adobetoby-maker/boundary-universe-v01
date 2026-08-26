@@ -678,7 +678,7 @@ His face appeared beside large silver words.
 
 **BREAK THE BOUNDARY**
 
-His stomach tightened.
+The room tilted half a degree.
 
 “Who gave you that phrase?”
 

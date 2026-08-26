@@ -356,8 +356,6 @@ Eli’s eyes narrowed.
 
 “It is not.”
 
-There it was.
-
 A truth shaped like an opening.
 
 Kade stared at Taren.
@@ -464,7 +462,7 @@ Taren looked at the search list.
 
 “Not here.”
 
-Kade laughed once without humor.
+Kade’s mouth thinned.
 
 “Convenient.”
 
@@ -1132,7 +1130,7 @@ Kade had never heard that happen.
 
 “They approached me after my academy ranking posted. Said I had the right social profile. High enough rank to move between groups. No famous family name. Good at getting people to talk.”
 
-Taren laughed once, bitterly.
+Taren’s smile went brittle.
 
 “Turns out being likable is a security skill if the wrong people write the job description.”
 
@@ -1622,7 +1620,7 @@ For tonight, that counted as a change.
 
 “Consensus.”
 
-Kade’s stomach tightened.
+Kade’s mouth went dry.
 
 “She knows the term?”
 

@@ -300,7 +300,7 @@ He moved.
 
 Kade almost smiled.
 
-Sera noticed.
+Sera’s eyes cut toward him.
 
 “Do not.”
 

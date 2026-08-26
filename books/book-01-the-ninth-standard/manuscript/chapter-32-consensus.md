@@ -158,7 +158,7 @@ Aaron met his eyes.
 
 “It was easier to measure.”
 
-Julian's jaw tightened at the answer. Kade left it alone.
+Julian's mouth flattened at the answer. Kade left it alone.
 
 Mara pointed toward the Refuge Node.
 

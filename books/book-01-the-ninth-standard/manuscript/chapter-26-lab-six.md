@@ -310,7 +310,7 @@ Taren shook his head.
 
 “I don’t know what they could access.”
 
-Eli laughed once.
+Eli tilted his head.
 
 “You always know.”
 

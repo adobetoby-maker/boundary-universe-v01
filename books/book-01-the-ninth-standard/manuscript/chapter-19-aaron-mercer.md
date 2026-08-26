@@ -826,9 +826,7 @@ Director Sen had looked Kade in the eye and said no verified modern program had 
 
 Then she had said she did not know Aaron Mercer.
 
-Kade laughed once.
-
-There was no humor in it.
+The sound that came out of him wasn’t a laugh.
 
 “I have to go.”
 
@@ -1475,8 +1473,6 @@ Kade looked down at the water bottle.
 “Thank you.”
 
 “I am helping.”
-
-Kade laughed once.
 
 Eli’s presence made the problem no smaller.
 
