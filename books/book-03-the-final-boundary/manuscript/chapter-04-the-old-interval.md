@@ -10,7 +10,21 @@ Because Aaron only used paper when the digital record had become too complicated
 
 They sat in a small recovery conference room beneath Asterion Medical with one table, four chairs, and a wall display Park had refused to activate until she finished checking Aaron's vitals.
 
-“Thirty minutes,” she said.
+The room had once been an imaging consult bay. The wall still carried pale rectangles where older monitors had been removed, and the air smelled faintly of disinfectant and warm electronics from the medical floor beyond the door.
+
+Aaron had arranged the pages in three stacks.
+
+Pre-standardization human records.
+
+Refuge-era suppression records.
+
+His own handwritten notes.
+
+Kade noticed the third stack was smallest.
+
+That helped.
+
+“Thirty minutes,” Park said.
 
 Aaron looked offended.
 
@@ -108,6 +122,46 @@ A research station Kade did not recognize.
 
 “Coupled prediction between two remote operator models.”
 
+Aaron turned over the page.
+
+A photograph had been copied onto the back.
+
+The Atacama station was barely a station.
+
+Two low concrete buildings sat against a slope of pale stone. A lattice mast leaned into a blue sky too hard to look at. Thick shielded cable ran above ground because the first team had not trusted the soil temperature enough to bury it. Someone had weighted the cable covers with rocks.
+
+Kade looked at the people in the photograph.
+
+Six researchers.
+
+Two wore early Conduit harnesses that looked more like climbing equipment than anything Asterion would allow near a student now.
+
+“Those are terrible.”
+
+“They were worse to wear.”
+
+“You were there?”
+
+“No. This was before me.”
+
+“Memory?”
+
+“Archive.”
+
+Good.
+
+Aaron pointed to a handwritten note along the photo margin.
+
+**WEST RACK FAN FAILED AGAIN. RUN ENDED BY THERMAL LIMIT, NOT MODEL FAILURE.**
+
+Kade read it twice.
+
+“People were already separating physical failure from model failure.”
+
+“They had to. Early Resonance work produced so many ordinary equipment problems that mystery was usually the least interesting explanation.”
+
+That sounded like Eli's religion.
+
 Kade looked at the date again.
 
 “Human operators?”
@@ -162,6 +216,20 @@ Another interval.
 
 **0.86 s ± 0.04**
 
+This record included a floor plan.
+
+Not because the researchers cared about architecture.
+
+Because the anomaly had occurred during a simulated emergency in which one training team believed a corridor was blocked and the other believed it remained usable.
+
+Two prediction systems changed their triage recommendations because they were trying to anticipate the other's correction.
+
+The corridor had never physically closed.
+
+The disagreement had.
+
+For less than a second.
+
 Kade looked up.
 
 “Kiyomizu precursor?”
@@ -187,6 +255,20 @@ Industrial control team.
 Orbital logistics simulation.
 
 Disaster coordination experiment.
+
+Each record came with mundane failure notes.
+
+Bad cooling.
+
+Clock drift.
+
+A supervisor who had entered one timestamp by hand.
+
+A relay whose battery died six minutes after the interesting event.
+
+Kade began to understand why the records had never become a theory.
+
+Every anomaly lived inside enough ordinary imperfection to make extraordinary interpretation irresponsible.
 
 Not many.
 
@@ -242,6 +324,18 @@ Because they had too much damaged data and not enough trustworthy order.
 
 Aaron activated the wall display.
 
+The screen took three tries to recognize his medical-session credentials.
+
+On the second failure Aaron reached toward it automatically.
+
+Then stopped before touching the administrator field.
+
+Kade saw that too.
+
+Different habit.
+
+Same lesson everywhere.
+
 A legacy suppression log appeared.
 
 Rows of phase corrections.
@@ -252,7 +346,7 @@ Thermal load.
 
 Operator strain.
 
-Then a field Kade had never seen before.
+Then a field Kade had never seen in the earlier records.
 
 **RELATIONAL COHERENCE EXCEPTION**
 
@@ -308,9 +402,83 @@ The second 0.82.
 
 The third 0.83.
 
-Kade stopped breathing normally.
+Beside the third event, the temperature trace climbed eleven degrees in four seconds.
 
-“You knew.”
+Kade pointed.
+
+“What heated?”
+
+“Interface ballast.”
+
+“Why?”
+
+“We pushed correction authority harder after the unresolved interval.”
+
+“Because you thought the answer was more control.”
+
+Aaron looked at him.
+
+“Yes.”
+
+The word cost him something.
+
+Kade could hear it.
+
+“Did it help?”
+
+“No.”
+
+“What happened?”
+
+Aaron enlarged the thermal trace.
+
+“The ballast hit its cutout. The Node reduced coupling. The human model recovered.”
+
+“Because your system worked?”
+
+“Because a thermal protection circuit older than our theory refused to let us keep doing the stupid thing.”
+
+Kade looked at him.
+
+“Eli would enjoy this.”
+
+“He did, seventeen years later.”
+
+There was a story inside that sentence.
+
+Kade let it wait.
+
+The fourth event showed something stranger.
+
+The human operator's heart rate jumped before the predictive layer lost resolution.
+
+“Did they feel it coming?” Kade asked.
+
+“Unknown.”
+
+“Report?”
+
+“Head pressure. Distance. They said the Node felt farther away.”
+
+“Could be fear.”
+
+“Yes.”
+
+“Could be field effect.”
+
+“Yes.”
+
+“Could be both.”
+
+“Yes.”
+
+Kade stared at the line.
+
+Three yeses.
+
+None comforting.
+
+“You knew,” he said.
 
 Aaron looked at him.
 
@@ -340,7 +508,17 @@ Old anger waiting.
 
 Kade stood.
 
-Aaron did not stop him.
+The chair legs scraped hard against the floor.
+
+Aaron flinched.
+
+Not from Kade.
+
+From the sound.
+
+That made the room worse.
+
+Kade walked to the far wall because he needed distance that was not abandonment.
 
 “I am not everyone.”
 
@@ -432,6 +610,38 @@ Aaron looked at him.
 
 “Family trait.”
 
+Aaron rubbed at the heel of his hand.
+
+Kade noticed the tremor before Aaron hid it under the table.
+
+“Park is going to end this early.”
+
+“She ends everything early.”
+
+“You almost died.”
+
+Aaron looked at him.
+
+Kade regretted the sentence immediately.
+
+Not because it was false.
+
+Because it was the old move again.
+
+Fear becoming jurisdiction.
+
+Aaron saw the correction happen on Kade's face.
+
+Neither rescued the other from it.
+
+Kade sat back down.
+
+“Keep going until she stops you.”
+
+Aaron nodded.
+
+Better.
+
 ---
 
 Petrov refused to let them run a live test with people.
@@ -470,9 +680,29 @@ At low gain, nothing happened.
 
 At medium gain, oscillation.
 
-At high gain, the system became unstable and shut itself down conventionally.
+The hardware rack fans rose in pitch.
+
+A technician stepped closer to the physical cutoff.
+
+At high gain, the prediction loop began correcting faster than its own uncertainty estimate could settle.
+
+The rack temperature climbed.
+
+One storage controller started dropping nonessential logging to protect write integrity.
+
+Jonas swore under his breath.
+
+“Abort high gain.”
+
+He did not wait for Petrov.
+
+Local technical authority.
+
+The system shut itself down conventionally.
 
 No missing interval.
+
+The fans took another twenty seconds to quiet.
 
 “Good,” Kade said.
 
@@ -487,6 +717,32 @@ Jonas looked offended.
 Vahana went second.
 
 Arjun configured a transfer simulation where two autonomous schedulers changed handoff timing based on their predictions of each other's predicted margin.
+
+The simulated vehicles were not abstract dots.
+
+One carried medical oxygen.
+
+One carried station coolant.
+
+The scheduler's mistake had consequences written into the model.
+
+At medium recursion, one scheduler began hoarding margin because it predicted the other would become conservative.
+
+The second then became conservative because the first had hoarded margin.
+
+A docking window closed.
+
+The oxygen vehicle missed its preferred slot.
+
+A backup route activated.
+
+No one died in simulation.
+
+The loss was seven minutes and fourteen kilograms of reserve propellant.
+
+Arjun looked displeased.
+
+Good.
 
 Again, no interval.
 
@@ -526,6 +782,16 @@ Then each changed behavior from the predicted relation.
 
 A third layer compared how the relation prediction changed after each adjustment.
 
+The test hardware was physically separated across three benches.
+
+Aya insisted on that.
+
+Different power supplies.
+
+Different clocks.
+
+One fiber link between them, routed through a manual optical break box Ren kept his hand beside.
+
 Kade felt his stomach tighten.
 
 Not because he understood every equation.
@@ -544,17 +810,43 @@ Ten.
 
 Eleven.
 
+The center bench emitted a short alarm.
+
+Not external.
+
+Its uncertainty reservoir had crossed the threshold Aya set before the test.
+
+Ren's hand moved toward the optical break.
+
+Aya said, “Hold. Local state?”
+
+Three operators answered independently.
+
+“Valid.”
+
+“Valid.”
+
+“Valid.”
+
 Then every local process continued while the relation layer stopped producing a unique state.
 
 Timer:
 
 **0.79 s**
 
-Then resolution returned.
+For less than a second the three benches disagreed about what relationship had existed between them without disagreeing about their own local histories.
 
-Nobody spoke.
+The display flashed amber.
 
-Aya ended the test immediately.
+Ren opened the optical break the instant resolution returned.
+
+Hard physical separation.
+
+No software command.
+
+The fiber light went dark.
+
+Aya ended the test.
 
 No repeat.
 
@@ -601,6 +893,10 @@ Petrov said, “Stop all recursive tests.”
 No one argued.
 
 That mattered.
+
+Ren kept the fiber physically open anyway.
+
+That mattered too.
 
 The source had not reacted to Helix's high gain.
 
@@ -657,6 +953,26 @@ Then nodded.
 Good.
 
 A promise neither of them had to complete tonight.
+
+Before Park took him back, Aaron touched Kade's sleeve.
+
+Not grabbing.
+
+Just enough to stop him for one second.
+
+“The Atacama people,” Aaron said. “Most of them thought their anomaly was bad instrumentation.”
+
+Kade waited.
+
+“Were they wrong?”
+
+“I don't know.”
+
+Aaron smiled tiredly.
+
+Kade did too.
+
+There were worse family traditions than learning to leave a question labeled correctly.
 
 Kade returned to Meridian Commons at 17:40.
 
