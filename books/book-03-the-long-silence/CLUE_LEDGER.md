@@ -45,7 +45,7 @@ Each clue entry has:
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
 | LS-04 | Ch 11 | Elin asks directly what Aaron's actual work is; he deflects competently and hates how competent it is | Establishes the deflection as a skill he's ashamed of, setting up why Ch16's disclosure — partial as it is — costs him something real | Ch 16 | PENDING |
-| LS-05 | Ch 2 (initial); reinforce Ch 4 | Elin's structural-engineering vocabulary (load-bearing, tolerance, failure points, controlled interfaces) unconsciously echoes Aaron's own coupling vocabulary | Plants the thematic rhyme that makes her eventual "something, not everything" acceptance feel earned rather than convenient | Ch 16–17 | PLANTED |
+| LS-05 | Ch 2 (initial); Ch 4 (reinforced) | Elin's structural-engineering vocabulary (load-bearing, tolerance, failure points, controlled interfaces) unconsciously echoes Aaron's own coupling vocabulary | Plants the thematic rhyme that makes her eventual "something, not everything" acceptance feel earned rather than convenient | Ch 16–17 | PLANTED |
 
 ---
 
@@ -76,3 +76,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 **Chapter 2 audit:** LS-05 planted initially and confirmed through Elin's working vocabulary: actual load paths, permitted tolerance, controlled interfaces, failure consequences, and determining which systems can truly move. Aaron recognizes the mapping to his Coupling framework; Elin does not, and learns nothing classified. Chapter 4 must reinforce the rhyme in an ordinary relational context as scheduled. LS-01 remains confirmed; no prior-chapter clue is unconfirmed.
 
 **Chapter 3 audit:** No new clue is scheduled for Chapter 3. LS-01 and LS-05 remain confirmed as planted, and no prior-chapter clue is unconfirmed. The succession review and Rhys's visibly declining health fulfill direct architecture beats rather than mystery-ledger planting. LS-05 remains due for reinforcement in Chapter 4; LS-02 remains scheduled for Chapter 5.
+
+**Chapter 4 audit:** LS-05 reinforced and confirmed in an ordinary relational context. Elin describes safe structures as retaining visible, controlled failure points and inspectable interfaces rather than forcing rigid union; Aaron privately recognizes the rhyme with Coupling's retained boundaries and declared exchange paths without disclosing classified work. LS-01 remains confirmed; no prior-chapter clue is unconfirmed. LS-02 remains scheduled for Chapter 5.
