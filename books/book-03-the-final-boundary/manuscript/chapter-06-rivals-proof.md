@@ -32,11 +32,7 @@ The exercise hall had six independent rigs spaced far enough apart that one team
 
 That was new.
 
-Before Book—
-
-Kade stopped the thought.
-
-Before the international circuit, he would have considered shared infrastructure more elegant.
+Before the international circuit, Kade would have considered shared infrastructure more elegant.
 
 Now physical independence looked like care.
 
