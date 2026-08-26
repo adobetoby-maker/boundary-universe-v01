@@ -1,7 +1,7 @@
 # CHAPTER ARCHITECTURE — THE FIRST COUPLING (Book 2)
 
 **Target:** 24 chapters × ~4,600 words = ~110,400 words
-**Status:** DRAFT — architectural targets locked, prose pending
+**Status:** DRAFT COMPLETE — all 24 chapters drafted
 **Opens:** Day 2,222 of the Contact Zero record. Aaron Mercer, 29. Senior Coupling Specialist, Conduit Program, Geneva.
 
 ---
@@ -58,7 +58,7 @@
 | 21 | Containment, Negotiated | 4,600 | The institutional conflict resolves into compromise rather than victory. Kessler's acceleration agenda is contained, not defeated — a negotiated doctrine that will calcify, over decades, into the Continuity Directorate structure referenced in the Asterion Trilogy. Aaron understands he has just helped build an institution, not just kept a secret. | DRAFT COMPLETE |
 | 22 | The Deeper Encoding | 4,700 | Aaron returns to the Conduit encoding from Book 1's Ch17, now integrating what the buffer method taught him about paired signatures. The new encoding is richer, more deeply hidden, carries more of what a future Standard Nine practitioner will need — built with Amara's unknowing help, though she does not know this is what her presence in his sessions ultimately enabled. | DRAFT COMPLETE |
 | 23 | What It Cost | 4,400 | Quiet chapter. Aaron takes stock: Yuki still non-restorable, off-page, unresolved. Soren safe, genuinely safe, the program's one clean win. Amara changed in a way that has no name and no known ceiling. Lena still not told. He does not resolve any of this. He notes it, the way he notes an instrument reading, and continues. | DRAFT COMPLETE |
-| 24 | The First Coupling | 4,400 | Title payoff. The paired-practitioner protocol Aaron and Amara pioneered is formally named and adopted as Continuity Directorate doctrine: The First Coupling. Final beat: Aaron understands the shape of what's coming — the encoding will need a physical form durable enough to outlast even the Conduits it began in. He does not yet know what that means. He starts drafting the next specification anyway. END BOOK 2. | PENDING |
+| 24 | The First Coupling | 4,400 | Title payoff. The paired-practitioner protocol Aaron and Amara pioneered is formally named and adopted as Continuity Directorate doctrine: The First Coupling. Final beat: Aaron understands the shape of what's coming — the encoding will need a physical form durable enough to outlast even the Conduits it began in. He does not yet know what that means. He starts drafting the next specification anyway. END BOOK 2. | DRAFT COMPLETE |
 
 ---
 
