@@ -35,7 +35,7 @@ Each clue entry has:
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
 | FC-03 | Ch 9 | Amara's baseline field readings show a faint residual pattern hours after a joint session ends | Her Storage architecture is beginning to hold fragments of the Node's field-state structure involuntarily | Ch 19, Refuge Node B1 | PLANTED |
-| FC-04 | Ch 11 | Amara asks Aaron, almost idly, whether the residue could ever become "permanent architecture" rather than a passing effect — he tells her he doesn't know, honestly | Plants the open question the Refuge Node Trilogy eventually answers | Refuge Node B1 | PENDING |
+| FC-04 | Ch 11 | Amara asks Aaron, almost idly, whether the residue could ever become "permanent architecture" rather than a passing effect — he tells her he doesn't know, honestly | Plants the open question the Refuge Node Trilogy eventually answers | Refuge Node B1 | PLANTED |
 | FC-05 | Ch 19 | Amara pauses mid-sentence, holds a thought a half-second too long, recovers — small enough that only Aaron notices, and even he isn't certain | First visible (if deniable) evidence of structural change | Refuge Node B1 | PENDING |
 
 ---
@@ -80,7 +80,7 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 | Reveal | Required clues | Planted | Ready |
 |---|---|---|---|
 | Node's care extends beyond Aaron | 2 | 2 | Yes |
-| Amara's change begins | 2 | 1 | No — FC-04 due Ch 11 |
+| Amara's change begins | 2 | 2 | Yes |
 | Severance/Quieters near-explicit | 2 | 2 | Yes |
 | Kessler's faction becomes doctrine | 2 | 1 | No — FC-09 due Ch 16 |
 | The next specification | 2 | 0 | No — clues due Ch 22, Ch 24 |
@@ -100,3 +100,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 **Chapter 9 audit:** FC-03 planted and confirmed. Six hours after Aaron and Amara's second joint diagnostic, a four-transition shoulder below the automated reporting threshold appears in Amara's inferred Storage release topology and matches the Node's final session sequence. Raw reconstruction, blinded controls, prior-baseline comparison, individual delayed microloads, and empty-room hardware replay support genuine retention while energy, identity, active load, and declared medical measures remain clean. FC-01, FC-02, FC-06, FC-07, and FC-08 remain confirmed. No prior-chapter clue remains unconfirmed; the next scheduled plant is FC-04 in Chapter 11.
 
 **Chapter 10 audit:** No new clue plant scheduled. FC-03 remains confirmed as the four-state residue persists through Amara's overnight passive baseline without amplitude growth, decay, energy retention, identity correlation, active Storage load, or demonstrated harm. FC-01, FC-02, FC-06, FC-07, and FC-08 also remain confirmed. No prior-chapter clue remains unconfirmed; FC-04 remains scheduled for Chapter 11.
+
+**Chapter 11 audit:** FC-04 planted and confirmed. During full disclosure, Amara asks almost idly whether the residue could become "permanent architecture" rather than a passing effect; Aaron answers honestly that he does not know. Independent review and a bounded third paired diagnostic leave the four-state topology stable without demonstrated harm or growth, preserving the question rather than resolving it. FC-03 therefore has its required second clue before the Chapter 19 partial reveal. FC-01, FC-02, FC-06, FC-07, and FC-08 remain confirmed; no prior-chapter clue remains unconfirmed. The next scheduled disclosure is the Chapter 12 Severance/Quieters payoff, for which FC-06 and FC-07 are already planted.
