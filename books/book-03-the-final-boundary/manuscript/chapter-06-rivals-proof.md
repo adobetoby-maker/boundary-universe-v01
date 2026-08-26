@@ -28,7 +28,19 @@ Kisiwa refused to call it a competition and then arrived with matching team jack
 
 Asterion called it Friday.
 
-The exercise hall had six independent rigs spaced far enough apart that one team's failure could not cascade physically into another.
+The exercise hall had been rebuilt after the siege.
+
+Not restored.
+
+Rebuilt.
+
+The old central control gallery was gone. Six independent rig bays now sat around the floor with their own power isolation, local emergency stops, medical kits, and mechanical barriers. A yellow line marked the boundary beyond which one team's equipment could not cross into another's failure space.
+
+Hale had made the line ugly on purpose.
+
+“People respect ugly safety paint,” he said when Kade asked.
+
+The ceiling cranes carried removable ballast blocks. Hydraulic frames could imitate building load. Water jackets gave the power rigs real thermal inertia. A row of rescue dummies waited beside the Kisiwa bay because Neema had refused a version of the exercise where `medical capacity` was only a number.
 
 That was new.
 
@@ -70,9 +82,217 @@ He could watch somebody else fail before him.
 
 Growth.
 
+Hale looked at the time.
+
+“Warm-up.”
+
+Kade frowned.
+
+“This is a systems exercise.”
+
+“Bodies are systems.”
+
+That sounded ominous.
+
+Hale pointed at Julian.
+
+“Mercer. Cross. Ring Three.”
+
+Julian smiled.
+
+Kade disliked the day immediately.
+
 ---
 
-The task was simple to describe.
+Ring Three was not a formal challenge floor.
+
+No rankings moved.
+
+No audience requirement.
+
+It was a six-meter mat surrounded by low impact rails and instrumented floor plates.
+
+The task was simple.
+
+Touch the opponent's shoulder plate three times.
+
+No field amplification above Standard Two assistance.
+
+No Consensus.
+
+No shared prediction.
+
+No weapons.
+
+Julian rolled his shoulders.
+
+“You look worried.”
+
+“I am protecting your confidence.”
+
+“Kind.”
+
+Hale raised one hand.
+
+“Begin.”
+
+Kade moved first.
+
+Wrong choice.
+
+Julian gave him the outside lane, exactly as if conceding ground.
+
+Kade took it.
+
+Julian pivoted inside, caught Kade's forearm with one hand, and used the turn of Kade's own shoulders to guide him past.
+
+Tap.
+
+Left shoulder.
+
+Kade spun away.
+
+“Rude.”
+
+“Physics.”
+
+Second exchange.
+
+Kade stopped trying to beat Julian's speed.
+
+He watched weight transfer instead.
+
+Julian's right heel lifted before the entry.
+
+Kade redirected his own momentum half a step left and brushed Julian's shoulder.
+
+One-one.
+
+Julian smiled.
+
+Good.
+
+The third exchange lasted longer.
+
+Kade used a faint field redirection at the floor, not enough to move Julian, only enough to change how quickly Kade could settle after a feint.
+
+Julian saw the adjustment.
+
+He did not chase.
+
+Kade feinted high.
+
+Julian stayed centered.
+
+Kade went low.
+
+Julian stepped back.
+
+Kade committed.
+
+Julian's rear foot hit the rail.
+
+For half a second Kade thought he had him.
+
+Julian used the rail.
+
+He planted one foot against the padded base, turned the trapped retreat into a lateral push, and came off the boundary at an angle Kade had not modeled.
+
+Tap.
+
+Kade's right shoulder.
+
+Two-one.
+
+“Using terrain,” Kade said.
+
+“It was there.”
+
+Fourth exchange.
+
+Kade tried not to predict Julian.
+
+That was impossible.
+
+Prediction was what brains did.
+
+The trick was not treating prediction as permission to act before evidence arrived.
+
+Julian's shoulders dipped.
+
+Kade waited.
+
+Julian's hips did not.
+
+False cue.
+
+Kade stayed.
+
+Julian came straight.
+
+Kade caught the wrist, redirected, stepped inside.
+
+For one clean moment Julian's shoulder plate was open.
+
+Kade reached.
+
+Julian let him.
+
+Then hooked Kade's ankle with the edge of his shoe and turned his own shoulder away.
+
+Kade hit the mat on one hip.
+
+Julian touched his shoulder while he was still deciding whether to be offended.
+
+Three-one.
+
+Hale called the round.
+
+Kade stayed on the mat.
+
+Julian offered a hand.
+
+Kade took it.
+
+“You are still irritatingly good at that.”
+
+“Yes.”
+
+Kade glanced at the international teams watching.
+
+Aya looked amused.
+
+Neema looked satisfied for reasons Kade did not trust.
+
+Jonas had probably recorded the entire thing.
+
+Hale said, “Lesson?”
+
+Kade brushed dust from his sleeve.
+
+“Julian cheats with available geometry.”
+
+“Lesson?”
+
+Kade sighed.
+
+“I can coordinate systems larger than this building and still lose to one person who controls his own feet better than I control mine.”
+
+Julian nodded.
+
+“Healthy.”
+
+Hale pointed toward the rigs.
+
+“Remember it when the scoreboard starts telling you architecture makes you superior.”
+
+That was annoyingly good.
+
+Kade hated education.
+
+---
+
+The main task was simple to describe.
 
 Each team had to stabilize a distributed physical system, reach a target condition, then separate every shared predictive layer while keeping local service alive.
 
@@ -85,6 +305,16 @@ structural load,
 medical capacity,
 
 transport priority.
+
+But `simulated` did not mean consequence-free.
+
+A two-hundred-kilogram ballast arm represented structural load and actually moved across a steel frame.
+
+Power decisions heated real coolant loops.
+
+Transport decisions moved autonomous carts through crossing lanes.
+
+Medical capacity controlled which rescue dummy received air, power, and monitored stabilization first.
 
 No team could solve every domain with one operator.
 
@@ -108,9 +338,9 @@ Good.
 
 Eli handled machine state.
 
-A fourth-year named Priya Deshmukh handled medical capacity.
+Priya Deshmukh handled medical capacity.
 
-Another student handled transport.
+A fourth-year named Tomas Reed handled transport.
 
 Julian held temporary failure ordering.
 
@@ -118,13 +348,51 @@ They used no Consensus.
 
 Only signed minimum-state exchange.
 
+The run began.
+
+The ballast arm rolled left as simulated structural demand shifted.
+
+Eli bled power from a noncritical pump to keep the coolant loop under threshold.
+
+Tomas slowed one cart rather than rerouting both.
+
+Priya moved simulated oxygen reserve to the red-tag dummy.
+
 At minute three the false confidence value entered the medical channel.
 
-Eli flagged provenance mismatch.
+It claimed the red-tag dummy had eight minutes of reserve.
 
-Priya refused it.
+The physical bottle gauge beside Priya showed five.
+
+Eli flagged provenance mismatch at the same moment Priya saw the gauge.
+
+“Reject shared value,” she said.
 
 No cascade.
+
+She kept the local bottle state.
+
+The system marked a temporary prediction disagreement.
+
+At minute four, a second problem arrived.
+
+The ballast arm changed direction while the transport carts crossed beneath its exclusion zone.
+
+Julian said, “Structural priority until carts clear.”
+
+Scoped command.
+
+Tomas halted one cart.
+
+Eli dumped a fraction of power into the hydraulic brake.
+
+The arm stopped twenty centimeters before the cart boundary.
+
+Heat climbed in the coolant loop.
+
+Priya gave up one nonurgent simulated imaging load to preserve medical reserve.
+
+The system remained ugly and alive.
 
 At minute five Julian's authority token vanished.
 
@@ -136,7 +404,19 @@ Medical continued.
 
 Power continued.
 
-The failure-ordering question became local until a new shared priority was explicitly requested.
+The ballast arm began moving again.
+
+For three seconds there was no shared failure order.
+
+Tomas cleared his cart.
+
+Eli protected thermal margin.
+
+Priya protected the red-tag dummy.
+
+Three local priorities.
+
+None waited for Julian to return.
 
 At minute seven they released all cross-domain prediction.
 
@@ -180,11 +460,13 @@ Aya tracked relationship changes only where one operator's action altered anothe
 
 The rig's public stability score sat six points below Asterion's.
 
-Then the false confidence value arrived.
+The ballast arm moved farther before correction.
 
-Kiyomizu did not reject it immediately.
+One transport cart waited longer.
 
-Kade frowned.
+Their coolant loop ran closer to the yellow band.
+
+Kade felt himself judging.
 
 Mara noticed.
 
@@ -196,19 +478,47 @@ Mara noticed.
 
 “Multitasking.”
 
-The false value entered one local model.
+Then the false confidence value arrived.
+
+This time it entered the structural channel.
+
+The system told Ren the ballast brake had already accepted Hana's load reduction.
+
+It had not.
+
+Kiyomizu did not reject the value immediately.
+
+Kade frowned harder.
 
 Aya did not correct it centrally.
 
 She published the disagreement.
 
+“Brake acceptance unverified.”
+
 Ren changed his behavior because uncertainty increased, not because Aya told him which value was true.
 
-Hana preserved capacity.
+He reduced the ballast arm's acceleration physically at his station.
+
+Hana preserved service capacity.
 
 The system degraded two percent.
 
-Then recovered when independent state confirmed the false input.
+The moving arm crossed five centimeters into a warning zone.
+
+Ren used a manual brake lever and took the load into his shoulders until the hydraulic catch engaged.
+
+His shoes slid half a step.
+
+No field amplification.
+
+No miracle.
+
+Just leverage and a correctly placed safety handle.
+
+Then independent state confirmed the false input.
+
+The network recovered.
 
 At minute five Aya's role vanished.
 
@@ -217,6 +527,8 @@ The network barely changed.
 Because she had never become the place the disagreement had to resolve.
 
 At minute seven they released.
+
+The physical cutoff lights went dark almost together.
 
 Separation time:
 
@@ -232,9 +544,13 @@ Authority residue:
 
 Kade stared.
 
+Ren flexed his sore hands.
+
+Hana checked the service board before looking at the score.
+
 Aya looked across the hall.
 
-Not at him.
+Not at Kade.
 
 At the scoreboard.
 
@@ -266,29 +582,39 @@ Too perfect.
 
 Each state transfer contained enough detail that the receiving operator spent precious time verifying everything rather than acting on what mattered.
 
-At minute five, Arjun's temporary transfer authority vanished.
+The flaw became physical at minute four.
 
-Leela inherited a packet containing four hundred twenty-one state fields.
+A transport cart approached a narrowing lane while the coolant loop rose toward its yellow band.
 
-She looked at it.
+Arjun handed Leela four hundred twenty-one state fields.
+
+She had nine seconds before the cart committed to the lane.
+
+She looked at the packet.
 
 Then deliberately ignored most of it.
 
-“Power margin?” she asked.
-
-A local operator answered.
+“Power margin?”
 
 “Twenty-two percent.”
 
 “Thermal?”
 
-“Stable.”
+“Rising, two degrees to yellow.”
 
 “Next irreversible decision?”
 
 “Transport closure in nine seconds.”
 
+“Structural exclusion?”
+
+“Clear.”
+
 She acted.
+
+The cart cleared.
+
+The coolant loop entered yellow for two seconds and recovered.
 
 The system survived.
 
@@ -328,6 +654,16 @@ Good rivalry.
 
 Nobody died.
 
+The coolant did boil a cup of water someone had left illegally close to the return pipe.
+
+Iyer held up the steaming cup.
+
+“Whose?”
+
+Nobody answered.
+
+International cooperation.
+
 ---
 
 Kisiwa ignored the scoreboard for most of its run.
@@ -342,6 +678,12 @@ Power.
 
 Shelter.
 
+The rescue dummies had names on tape strips.
+
+Not because anyone thought the dummies were people.
+
+Because Neema wanted every abstract capacity decision to sound like it affected someone.
+
 When the false confidence value arrived, they asked one question:
 
 “Who is affected if this is wrong?”
@@ -349,6 +691,40 @@ When the false confidence value arrived, they asked one question:
 The answer was shelter water.
 
 So the shelter operator owned the immediate decision.
+
+Then Hale injected a structural fault early.
+
+A ballast latch released five centimeters farther than expected.
+
+The frame slammed into its secondary catch.
+
+Everyone in the hall heard it.
+
+Peter Kato moved before the warning finished sounding.
+
+He did not try to stop two hundred kilograms with Resonance.
+
+He hit the local mechanical lock and shouted the bay clear.
+
+Laila pulled the shelter cart backward by its manual handle.
+
+Neema moved the nearest rescue dummy out of the secondary fall zone.
+
+No one asked the global board.
+
+The frame settled.
+
+Hale checked the catch.
+
+“Within test parameters.”
+
+Neema glared at him.
+
+“Your parameters are rude.”
+
+“Educational.”
+
+“Everyone here has the same disease.”
 
 At minute five Neema's role vanished.
 
@@ -434,7 +810,17 @@ Kade handled dependency visibility.
 
 The first three minutes went well.
 
-Then the false confidence value arrived in Kade's layer.
+The ballast arm stayed inside nominal range.
+
+The coolant loop ran cool.
+
+The carts crossed cleanly.
+
+Too cleanly.
+
+Kade distrusted it.
+
+Then the false confidence value arrived in his layer.
 
 It said Nessa had confirmed a load transfer she had not confirmed.
 
@@ -464,6 +850,28 @@ Mara said, “That sentence is too long for a crisis.”
 
 They preserved the disagreement.
 
+Then the physical system punished the delay.
+
+The ballast arm reached the edge of its green zone.
+
+Mara did not have Nessa's predicted load correction.
+
+Nessa did not have Mara's geometry confidence.
+
+Kade could have forced a combined answer by stepping into a center role nobody had assigned him.
+
+He did not.
+
+“Local actions,” Mara said.
+
+Nessa reduced predictive load.
+
+Mara slowed the arm at her own station.
+
+Kade published one thing only.
+
+“Dependency unresolved.”
+
 The rig remained stable.
 
 At minute five Kade's role vanished.
@@ -478,17 +886,27 @@ Nessa had only local prediction.
 
 For four seconds they overcorrected each other.
 
-Then Mara said, “Publish only conflicts.”
+The ballast arm reversed twice.
 
-Nessa did.
+A transport cart stopped in the crossing lane.
 
-The system recovered.
+Coolant climbed three degrees.
 
 Kade stood outside the role and did nothing.
 
 Harder than expected.
 
 Good.
+
+Mara said, “Publish only conflicts.”
+
+Nessa did.
+
+The system recovered.
+
+The cart cleared.
+
+The ballast arm settled.
 
 At minute seven release command arrived.
 
@@ -512,6 +930,18 @@ The monitor marked:
 
 Kade swore internally.
 
+Then the rig made it worse.
+
+His stale dependency model predicted Mara would increase brake load.
+
+She had already released.
+
+The system blocked the prediction from acting because the authority token had expired.
+
+A tiny red indicator flashed beside Kade's station.
+
+**REJECTED: ROLE EXPIRED**
+
 Mara looked at him.
 
 “Useful.”
@@ -519,6 +949,12 @@ Mara looked at him.
 “Humiliating.”
 
 “Same thing sometimes.”
+
+Kade stared at the red indicator.
+
+The system had done for him what he was trying to learn to do for himself.
+
+End the role when the role ended.
 
 They finished third overall.
 
@@ -531,6 +967,20 @@ Definitely.
 ---
 
 The rival teams ate lunch together because apparently existential-risk research still produced cafeteria schedules.
+
+The temporary international dining area smelled like five different ideas of what counted as portable lunch.
+
+Kiyomizu had neat bento containers.
+
+Vahana had metal tins marked with crew names.
+
+Kisiwa had brought enough food to accidentally feed two extra teams.
+
+Helix had forgotten utensils and was attempting to prove forks were an avoidable dependency.
+
+Asterion had sandwiches.
+
+Of course.
 
 Jonas claimed Helix had the best predictive score.
 
@@ -556,6 +1006,16 @@ Kade pointed at him.
 
 “Healthy.”
 
+Kade rubbed the hip Julian had put on the mat that morning.
+
+Julian noticed.
+
+“Still hurt?”
+
+“Emotionally.”
+
+“Good.”
+
 Sera joined remotely from Nairobi for twelve minutes and immediately asked for the local-continuity table.
 
 Of course.
@@ -580,6 +1040,8 @@ Mara sat beside Kade.
 
 Kade thought.
 
+The answer bothered him because it sounded virtuous.
+
 “Responsibility that had not received the message that it was over.”
 
 Mara nodded.
@@ -591,6 +1053,22 @@ He looked at her.
 “Closer to what?”
 
 “The problem.”
+
+Kade looked across the room at Julian.
+
+“The fight this morning felt cleaner.”
+
+“Because?”
+
+“When he beat me, the round ended. Nobody asked whether I should keep controlling his next move because I cared about the outcome.”
+
+Mara considered.
+
+“Physical boundaries are sometimes easier to believe.”
+
+“Then maybe we need more red lights.”
+
+“Probably.”
 
 Good.
 
@@ -677,6 +1155,24 @@ Kade looked at him.
 Mara said, “Even when leaving is costly.”
 
 “Especially then.”
+
+Taren looked at the exercise floor behind them.
+
+“At Directorate selection, failure to leave was often recorded as commitment.”
+
+Kade went still.
+
+“You mean people stayed because leaving cost them something.”
+
+“Career. Access. Family expectations. Sometimes legal exposure.”
+
+“And that counted as choosing to stay.”
+
+“Yes.”
+
+No dramatic confession.
+
+Just one line showing where Taren had learned to mistrust the second definition.
 
 Aya pointed at the third phrase.
 
@@ -770,9 +1266,23 @@ One second sounded trivial.
 
 It was not.
 
+The rig started under moderate load.
+
+Ballast moving.
+
+One transport cart in motion.
+
+Medical reserve at seventy percent.
+
+Coolant warm but stable.
+
 The test began.
 
 Mara vanished first.
+
+Not physically.
+
+Her role token disappeared and her station went read-only.
 
 Kade's mind reached for geometry.
 
@@ -782,6 +1292,8 @@ Nessa had local load.
 
 Kade had dependency visibility.
 
+The ballast arm began drifting toward its warning boundary.
+
 For one second they could not appoint a new center.
 
 So they worked locally.
@@ -790,7 +1302,11 @@ Nessa reduced load.
 
 Kade published uncertainty.
 
+The transport operator halted the cart without asking them.
+
 One second passed.
+
+The ballast arm stopped six centimeters from yellow.
 
 They could have created a temporary center.
 
@@ -824,7 +1340,19 @@ No timing disturbance.
 
 Five architectures had formed, failed, adapted, and separated.
 
-None remained persistent long enough to become the same kind of structure Helix had tested yesterday.
+Ren's hands were bruised from the manual brake.
+
+Leela had cut a packet to five fields under moving-load pressure.
+
+Peter had hit a mechanical lock before the model finished describing the fault.
+
+Kade had been thrown onto a mat by one person and then blocked by a red expired-role light from continuing to act after his job ended.
+
+None of those lessons required a larger power.
+
+They required limits that still worked when people were stressed.
+
+None of the networks remained persistent long enough to become the same kind of structure Helix had tested yesterday.
 
 Not proof of safety.
 
