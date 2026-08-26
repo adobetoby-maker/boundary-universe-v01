@@ -67,3 +67,69 @@
 **Exact end-state delta:** Humanity begins with unexplained legacy Continuity traffic and a Taren who could probably exploit it. It ends with a read-only succession map showing that old infrastructure encoded disagreement as upward authority transfer, with Taren having proven restraint by refusing self-authorization, Meridian having adopted eight explicit emergency-governance rules, and a modern permanent-center proposal independently recognized by the old map because its governance topology matches the same dependency shape. No Quieter identity or Severance history is revealed.
 
 **Render state:** Editorially ready; declare fresh-audio readiness after exact CLI word count and mechanical family-clean gate are recorded.
+
+---
+
+## Chapter 4 — The Old Interval
+
+**Status:** SIX-PASS COMPLETE EDITORIALLY / MECHANICAL CLEANUP PENDING
+**Manuscript:** `manuscript/chapter-04-the-old-interval.md`
+**Review:** `reviews/chapter-04-six-pass.md`
+**Word count:** pending exact CLI `wc -w`.
+
+- Structure: PASS.
+- Density: PASS.
+- Character / Clue / Continuity: PASS; Q-02 advanced through pre–Contact Zero timing evidence and Refuge challenge history.
+- Audio-first: PASS except one tracked production-language self-correction near the Meridian aftermath.
+- Story Completeness: PASS.
+- BSBC: PASS.
+- Payoff-density: 10/10, no zero.
+- Family-clean: editorially clean; mechanical lint pending.
+
+**Exact end-state delta:** Earth begins with a new avoided-direction pulse and a 0.83-second anomaly. It ends knowing analogous intervals existed before official Contact Zero, the Refuge Node encountered the same timing family, one relational topology can reproduce a close interval from stored state, and the avoided direction emits a second correlated pulse after that topology forms.
+
+**Render state:** Not yet declared audio-ready; remove the tracked meta line and record mechanical gates first.
+
+---
+
+## Chapter 5 — Low Coherence
+
+**Status:** SIX-PASS COMPLETE EDITORIALLY / MECHANICAL VERIFICATION PENDING
+**Manuscript:** `manuscript/chapter-05-low-coherence.md`
+**Review:** `reviews/chapter-05-six-pass.md`
+**Word count:** pending exact CLI `wc -w`.
+
+- Structure: PASS.
+- Density: PASS.
+- Character / Clue / Continuity: PASS; Q-04 and V-02 groundwork advanced.
+- Audio-first: PASS.
+- Story Completeness: PASS.
+- BSBC: PASS.
+- Payoff-density: 10/10, no zero.
+- Family-clean: editorially clean; mechanical lint pending.
+
+**Exact end-state delta:** Earth begins unsure whether the avoided source reacts to signal strength, energy, or network behavior. It ends with evidence that the strongest simple transmission can be ignored while low-power persistent recursive systems draw response, and that genuine repeated separation reduces attention without eliminating capability.
+
+**Render state:** Editorially ready; declare fresh-audio readiness after CLI count/lint are recorded.
+
+---
+
+## Chapter 6 — Rivals' Proof
+
+**Status:** SIX-PASS COMPLETE EDITORIALLY / MECHANICAL CLEANUP PENDING
+**Manuscript:** `manuscript/chapter-06-rivals-proof.md`
+**Review:** `reviews/chapter-06-six-pass.md`
+**Word count:** pending exact CLI `wc -w`.
+
+- Structure: PASS.
+- Density: PASS.
+- Character / Clue / Continuity: PASS; S-01 planted/advanced through incompatible Refuge consent definitions.
+- Audio-first: PASS except one tracked `Before Book—` production-language fragment near the opening.
+- Story Completeness: PASS.
+- BSBC: PASS.
+- Payoff-density: 10/10, no zero.
+- Family-clean: editorially clean; mechanical lint pending.
+
+**Exact end-state delta:** Earth begins with one emerging theory of safe separability. It ends with multiple rival proofs that networks can separate through different architectures, Kade has objective evidence of residual control habit after release, and Refuge memory shows that ancient systems themselves used conflicting definitions of consent.
+
+**Render state:** Not yet declared audio-ready; remove the tracked meta fragment and record mechanical gates first.
