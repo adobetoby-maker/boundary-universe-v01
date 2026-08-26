@@ -43,3 +43,27 @@
 **Exact end-state delta:** Humanity begins with the anomaly correlated to three elite recursive models. It ends knowing the same 0.83-second unresolved relationship exists in Prototype Four's civilian confidence layer despite no Consensus or active Resonant operator. Local stabilizers, manual authority, and service continue, establishing that the failure boundary can be contained by separable local systems.
 
 **Render state:** Ready for a fresh audio render after commit.
+
+---
+
+## Chapter 3 — Restricted Map
+
+**Status:** SIX-PASS COMPLETE EDITORIALLY / EXACT WORD COUNT PENDING CLI GATE
+**Manuscript:** `manuscript/chapter-03-restricted-map.md`
+**Review:** `reviews/chapter-03-six-pass.md`
+**Final reviewed manuscript SHA:** `bdd9a58853966db2b32452a0bad04fdc73d4a542`
+**Word count:** pending exact `wc -w`; not invented in connector-only session.
+
+- Structure: PASS.
+- Density: PASS; scene-level jobs fully dramatized despite target being diagnostic only.
+- Character / Clue / Continuity: PASS after scaffold repair; C3 advanced through Taren's witnessed refusal to self-authorize hidden access.
+- Audio-first: PASS after removal of production-language leakage.
+- Story Completeness: PASS.
+- BSBC: PASS.
+- Payoff-density: 10/10, no zero.
+- Family-clean: PASS by editorial read; rerun mechanical lint with CLI word-count gate.
+- Meta/scaffold sweep: PASS after replacing book/chapter-production references with in-world event language.
+
+**Exact end-state delta:** Humanity begins with unexplained legacy Continuity traffic and a Taren who could probably exploit it. It ends with a read-only succession map showing that old infrastructure encoded disagreement as upward authority transfer, with Taren having proven restraint by refusing self-authorization, Meridian having adopted eight explicit emergency-governance rules, and a modern permanent-center proposal independently recognized by the old map because its governance topology matches the same dependency shape. No Quieter identity or Severance history is revealed.
+
+**Render state:** Editorially ready; declare fresh-audio readiness after exact CLI word count and mechanical family-clean gate are recorded.
