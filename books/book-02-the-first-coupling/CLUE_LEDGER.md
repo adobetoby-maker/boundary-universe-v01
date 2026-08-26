@@ -23,7 +23,7 @@ Each clue entry has:
 
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
-| FC-01 | Ch 3 | The Node's response to Soren's signature reads as caution rather than indifference — Aaron notes it privately without acting on the observation | The Node exercises deliberate judgment toward non-Eight humans; it is not indifferent to anyone in contact range | Ch 20 | PENDING |
+| FC-01 | Ch 3 | The Node's response to Soren's signature reads as caution rather than indifference — Aaron notes it privately without acting on the observation | The Node exercises deliberate judgment toward non-Eight humans; it is not indifferent to anyone in contact range | Ch 20 | PLANTED |
 | FC-02 | Ch 8 | Soren's post-session data, run through the buffer, shows no instability across multiple sessions — statistically better than Aaron's own early unsupervised sessions in Book 1 | The Node is actively protecting Soren in a way it never protected Aaron in Book 1, because it had not yet decided to trust humans generally | Ch 20 | PENDING |
 
 ---
@@ -79,10 +79,10 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 
 | Reveal | Required clues | Planted | Ready |
 |---|---|---|---|
-| Node's care extends beyond Aaron | 2 | 0 | No — clues due Ch 3, Ch 8 |
+| Node's care extends beyond Aaron | 2 | 1 | No — FC-02 due Ch 8 |
 | Amara's change begins | 2 | 0 | No — clues due Ch 9, Ch 11 |
 | Severance/Quieters near-explicit | 2 | 0 | No — clues due Ch 7, Ch 8 |
 | Kessler's faction becomes doctrine | 2 | 0 | No — clues due Ch 5, Ch 16 |
 | The next specification | 2 | 0 | No — clues due Ch 22, Ch 24 |
 
-**Chapter 2 audit:** No clue plants were scheduled for Chapter 2. Chapter 1 also had no scheduled clue plants, so no prior-chapter clue remains unconfirmed.
+**Chapter 3 audit:** FC-01 planted and confirmed in the source-origin modulation that precedes both Aaron's closure command and the Conduit's automatic gain response. Aaron privately translates the ordered reduction as caution/restraint and withholds that interpretation from Soren. Chapters 1 and 2 had no scheduled clue plants, so no prior-chapter clue remains unconfirmed.
