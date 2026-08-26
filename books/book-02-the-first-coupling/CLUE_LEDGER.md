@@ -58,7 +58,7 @@ Each clue entry has:
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
 | FC-08 | Ch 5 | Kessler describes her position in explicitly institutional terms — "the Directorate," "the mandate," never personal ambition | Establishes she represents a durable institutional position, not a personality to be defeated | Ch 21 | PLANTED |
-| FC-09 | Ch 16 | Rhys tells Aaron something about the original suppression decision he's never said aloud — implies the doctrine has always been a negotiation between exactly these two impulses (restraint vs. competitive advantage) | Confirms the compromise in Ch21 isn't new — it's the same argument Rhys has been having with versions of Kessler for decades | Ch 21 | PENDING |
+| FC-09 | Ch 16 | Rhys reveals that the original Contact Zero concealment received executive approval only as a bargain: the people demanding silence accepted controlled Conduit development, and the people demanding capability accepted gates | Confirms the compromise in Ch21 isn't new — it's the same argument Rhys has been having with versions of Kessler for decades | Ch 21 | PLANTED |
 
 ---
 
@@ -82,7 +82,7 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 | Node's care extends beyond Aaron | 2 | 2 | Yes |
 | Amara's change begins | 2 | 2 | Yes |
 | Severance/Quieters near-explicit | 2 | 2 | Yes |
-| Kessler's faction becomes doctrine | 2 | 1 | No — FC-09 due Ch 16 |
+| Kessler's faction becomes doctrine | 2 | 2 | Yes |
 | The next specification | 2 | 0 | No — clues due Ch 22, Ch 24 |
 
 **Chapter 3 audit:** FC-01 planted and confirmed in the source-origin modulation that precedes both Aaron's closure command and the Conduit's automatic gain response. Aaron privately translates the ordered reduction as caution/restraint and withholds that interpretation from Soren. Chapters 1 and 2 had no scheduled clue plants, so no prior-chapter clue remains unconfirmed.
@@ -110,3 +110,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 **Chapter 14 audit:** No new clue plant is scheduled. FC-01, FC-02, FC-03, FC-04, and FC-08 remain confirmed as PLANTED; FC-06 and FC-07 remain confirmed as planted and paid off in Chapter 12. The controlled-deployment annex creates evidence-based friction without advancing any scheduled mystery: passive capacity work proceeds, active expansion remains gated, and the full Mercer-Sen partition stays restricted for thirty days pending an independent reviewer. No prior-chapter clue remains unconfirmed. FC-09 remains scheduled for Chapter 16.
 
 **Chapter 15 audit:** No new clue plant is scheduled. FC-01 and FC-02 remain confirmed in the source-origin attenuation that contributes to Soren's eight stable buffered sessions; Aaron continues to withhold the private care/restraint interpretation rather than creating a duplicate clue. FC-03 and FC-04 remain confirmed as Amara's acquired four-state topology stays within established variance without a fifth relation or functional change. FC-06 and FC-07 remain paid off, and FC-08 remains confirmed. No prior-chapter clue remains unconfirmed. FC-09 remains scheduled for Chapter 16.
+
+**Chapter 16 audit:** FC-09 planted and confirmed. Rhys tells Aaron that he originally recommended a ten-year halt to source-capable interface development, but the executive group approved Contact Zero concealment only through a bargain pairing restricted truth and source restraint with controlled Conduit development, monitoring, and technical-standard capacity. He explicitly identifies the present conflict as an older argument conducted for decades with different officeholders using substantially the same sentences. Together with FC-08, the clue establishes Kessler's position as a durable founding force before the Chapter 21 doctrine payoff. FC-01 through FC-04 remain confirmed as planted; FC-06 and FC-07 remain paid off. No prior-chapter clue remains unconfirmed; the next scheduled plant is FC-05 in Chapter 19.
