@@ -57,7 +57,7 @@ Each clue entry has:
 
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
-| FC-08 | Ch 5 | Kessler describes her position in explicitly institutional terms — "the Directorate," "the mandate," never personal ambition | Establishes she represents a durable institutional position, not a personality to be defeated | Ch 21 | PENDING |
+| FC-08 | Ch 5 | Kessler describes her position in explicitly institutional terms — "the Directorate," "the mandate," never personal ambition | Establishes she represents a durable institutional position, not a personality to be defeated | Ch 21 | PLANTED |
 | FC-09 | Ch 16 | Rhys tells Aaron something about the original suppression decision he's never said aloud — implies the doctrine has always been a negotiation between exactly these two impulses (restraint vs. competitive advantage) | Confirms the compromise in Ch21 isn't new — it's the same argument Rhys has been having with versions of Kessler for decades | Ch 21 | PENDING |
 
 ---
@@ -82,9 +82,11 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 | Node's care extends beyond Aaron | 2 | 1 | No — FC-02 due Ch 8 |
 | Amara's change begins | 2 | 0 | No — clues due Ch 9, Ch 11 |
 | Severance/Quieters near-explicit | 2 | 0 | No — clues due Ch 7, Ch 8 |
-| Kessler's faction becomes doctrine | 2 | 0 | No — clues due Ch 5, Ch 16 |
+| Kessler's faction becomes doctrine | 2 | 1 | No — FC-09 due Ch 16 |
 | The next specification | 2 | 0 | No — clues due Ch 22, Ch 24 |
 
 **Chapter 3 audit:** FC-01 planted and confirmed in the source-origin modulation that precedes both Aaron's closure command and the Conduit's automatic gain response. Aaron privately translates the ordered reduction as caution/restraint and withholds that interpretation from Soren. Chapters 1 and 2 had no scheduled clue plants, so no prior-chapter clue remains unconfirmed.
 
 **Chapter 4 audit:** No new clue plant scheduled. FC-01 remains confirmed as planted; Aaron discloses a defensible practitioner-directed interpretation to Amara for informed consent but does not add a second clue or claim the Node's intention as fact. No prior-chapter clue remains unconfirmed.
+
+**Chapter 5 audit:** FC-08 planted and confirmed in Kessler's explicit framing of acceleration as "the Directorate's mandate" and a continuity obligation that has a budget category and will outlast an individual officeholder. FC-01 remains confirmed. No prior-chapter clue remains unconfirmed; FC-09 remains scheduled for Chapter 16 before the Chapter 21 payoff.
