@@ -1124,7 +1124,7 @@ Kade did not raise his hand.
 
 That was harder than it should have been.
 
-Julian noticed.
+So did Julian.
 
 Mara noticed Julian noticing.
 

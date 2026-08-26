@@ -342,7 +342,7 @@ Confirmed.
 
 Eli made a face.
 
-Kade noticed.
+Kade marked it.
 
 “Problem?”
 
@@ -418,7 +418,7 @@ Old Kade would have wanted the point.
 
 Current Kade let the cone remain.
 
-Mara noticed.
+Mara clocked the restraint.
 
 She did not praise him.
 

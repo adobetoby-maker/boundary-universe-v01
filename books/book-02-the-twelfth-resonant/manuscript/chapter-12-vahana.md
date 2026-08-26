@@ -28,7 +28,7 @@ She was perhaps forty, with a silver thread at one temple and the calm expressio
 
 Eli straightened immediately.
 
-Kade noticed.
+Kade caught it before Iyer did.
 
 Iyer noticed too.
 
@@ -858,9 +858,9 @@ Kade looked at him.
 
 Sera said, “You usually act twelve.”
 
-“Cruel.”
+“Ouch.”
 
-“Accurate.”
+“Also true.”
 
 Eli ignored them.
 

@@ -114,7 +114,7 @@ Aya noticed the expression.
 
 “Nothing.”
 
-“That is usually false.”
+“You don’t do nothing.”
 
 Kade stared at her.
 
@@ -702,7 +702,7 @@ Aya looked at him.
 
 “Nothing.”
 
-“That is usually false.”
+“Convincing.”
 
 “Still learning.”
 
@@ -858,7 +858,7 @@ Only a name remained.
 
 Kade’s breathing changed.
 
-Mara noticed.
+Mara didn’t miss it.
 
 “Do not decide yet.”
 

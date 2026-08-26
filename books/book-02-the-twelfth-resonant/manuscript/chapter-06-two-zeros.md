@@ -238,7 +238,7 @@ Takahara moved to the next exercise.
 
 This one had three operator stations around a suspended triangular frame.
 
-Kade’s stomach tightened.
+A low unease settled under Kade’s ribs.
 
 Not because the apparatus looked dangerous.
 
@@ -476,7 +476,7 @@ Aya answered for herself.
 
 “If I leave, two edges disappear. One remains.”
 
-There it was.
+The shape of it was already obvious.
 
 Not proof of stronger architecture.
 
@@ -504,7 +504,7 @@ Everyone leaves eventually.
 
 The phrase hurt in too many directions.
 
-Aya noticed.
+Aya registered it.
 
 She did not apologize.
 
@@ -604,7 +604,7 @@ Julian said, “If I leave a fight and my team stops functioning, I was not lead
 
 “Yes.”
 
-Julian smiled without humor.
+Julian’s smile carried no warmth.
 
 “That is one reason I am keeping it.”
 
@@ -678,7 +678,7 @@ It did not need to.
 
 The photograph plus the title did the work.
 
-Kade’s stomach tightened.
+The photo landed harder than it should have.
 
 Aya walked past the courtyard entrance with Nao.
 
@@ -904,7 +904,7 @@ Without another operator or changing relationship to read, Aya’s field was cle
 
 Aya’s mouth tightened.
 
-Kade noticed.
+Kade clocked it.
 
 “You hate that.”
 
@@ -1062,7 +1062,7 @@ Kade turned to her.
 
 “You have identified why the old axis is insufficient. You have not identified the final axis.”
 
-There it was.
+He felt the gap close.
 
 The reminder he needed.
 

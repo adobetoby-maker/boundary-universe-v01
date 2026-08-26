@@ -376,7 +376,7 @@ Kade knew all of them.
 
 Aaron said, “When Asterion was designed as a public academy, its educational structure solved two problems at once.”
 
-Kade laughed without humor.
+Kade made a short, flat sound.
 
 “Of course it did.”
 
@@ -396,7 +396,7 @@ Aaron nodded.
 
 “No. The hidden layer retained underlying behavioral features for precursor research and strategic selection.”
 
-There it was.
+Confirmation, finally.
 
 Kade stood.
 

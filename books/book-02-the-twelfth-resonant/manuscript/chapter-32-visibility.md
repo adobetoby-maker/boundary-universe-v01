@@ -506,9 +506,9 @@ Kade laughed once.
 
 “That is one interpretation.”
 
-“Cruel.”
+“Brutal.”
 
-“Accurate.”
+“You’re welcome.”
 
 He leaned back.
 
@@ -756,7 +756,7 @@ Eli caught him staring.
 
 “Nothing.”
 
-“That is usually false.”
+“Try harder.”
 
 Kade smiled.
 

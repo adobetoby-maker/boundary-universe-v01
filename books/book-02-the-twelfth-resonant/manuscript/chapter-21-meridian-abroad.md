@@ -178,7 +178,7 @@ It meant the world was becoming populated rather than expanded.
 
 Mara finally closed the governance packet.
 
-Eli noticed.
+Eli read her face.
 
 “Bad?”
 
@@ -362,7 +362,7 @@ That felt more believable.
 
 Elena said, “He asked about you.”
 
-Kade’s stomach tightened.
+Kade went very still.
 
 “What did you say?”
 

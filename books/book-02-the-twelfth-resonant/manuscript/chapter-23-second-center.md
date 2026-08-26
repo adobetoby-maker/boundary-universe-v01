@@ -638,9 +638,9 @@ Apparently the lesson became harder when the ladder involved his own identity.
 
 He looked at her.
 
-“Cruel.”
+“That was mean.”
 
-“Accurate.”
+“Guilty.”
 
 This time he smiled.
 

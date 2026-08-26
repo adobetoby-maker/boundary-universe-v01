@@ -314,7 +314,7 @@ They met Taren in a small café near the harbor where Asterion students went whe
 
 Taren arrived without an escort.
 
-Kade noticed.
+Kade filed that away.
 
 Taren noticed him noticing.
 
@@ -426,7 +426,7 @@ Mara asked, “What does declining cost?”
 
 Taren’s smile came back.
 
-There it was.
+The cost was already priced in.
 
 “Probably my semester.”
 
@@ -458,9 +458,9 @@ Taren looked almost disappointed.
 
 “Save it.”
 
-“Cruel.”
+“That stings.”
 
-“Accurate.”
+“I try.”
 
 Mara ignored them.
 
@@ -542,7 +542,7 @@ Julian offered too.
 
 Sera did not immediately.
 
-Everyone noticed.
+The pause stretched long enough to be its own answer.
 
 She looked at Taren.
 

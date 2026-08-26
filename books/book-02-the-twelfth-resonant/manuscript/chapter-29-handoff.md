@@ -218,9 +218,9 @@ Kade looked at the last field.
 
 Mara said, “Especially for you.”
 
-“Cruel.”
+“Low blow.”
 
-“Accurate.”
+“Deserved.”
 
 Imani added a sixth line.
 
@@ -370,7 +370,7 @@ Arjun looked at him.
 
 “Yes.”
 
-Kade smiled without humor.
+Kade’s smile didn’t touch anything else in his face.
 
 “Welcome.”
 
@@ -512,7 +512,7 @@ He hated that he knew.
 
 Kade looked at her.
 
-There it was.
+He saw what he’d done.
 
 He had decided what mattered to the next team based on the outgoing team’s problem.
 
@@ -765,7 +765,7 @@ Everyone looked at him.
 
 Kade felt the room tighten.
 
-Taren noticed.
+Taren felt it too.
 
 “Useful reflex,” he said. “But I am asking openly.”
 

@@ -56,7 +56,7 @@ Kade pointed at the wall.
 
 “Twenty-six.”
 
-Kade’s stomach tightened.
+Something in Kade went cold.
 
 Before Asterion Academy’s public version of modern Resonance theory had settled into its current form.
 
@@ -147,8 +147,6 @@ Varga continued.
 Aya leaned forward.
 
 Kade did too.
-
-Varga noticed.
 
 “Good. The unusual students are awake.”
 
@@ -715,8 +713,6 @@ Aya said, “Relational response?”
 “No.”
 
 Too fast.
-
-He noticed.
 
 Varga noticed him noticing.
 

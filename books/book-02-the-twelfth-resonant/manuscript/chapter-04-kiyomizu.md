@@ -980,7 +980,7 @@ Mara had disappeared deeper into conversation with Hana.
 
 Kade watched her for a moment.
 
-Ren noticed.
+Ren clocked it first.
 
 “You two paired?”
 
@@ -1098,7 +1098,7 @@ Julian had gone quiet.
 
 “Nothing.”
 
-“That is usually false.”
+“Try again.”
 
 Julian leaned against the desk.
 

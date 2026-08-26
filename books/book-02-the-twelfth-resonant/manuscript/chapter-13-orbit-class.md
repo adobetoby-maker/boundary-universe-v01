@@ -236,8 +236,6 @@ Iyer said, “It is measured.”
 
 “Because the correct answer is not zero.”
 
-There it was.
-
 First cut.
 
 Kade looked at the sphere.

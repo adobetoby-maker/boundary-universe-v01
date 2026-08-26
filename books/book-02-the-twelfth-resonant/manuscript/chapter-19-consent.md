@@ -126,7 +126,7 @@ Kade saw it.
 
 “Nothing.”
 
-“That is usually false.”
+“Not even a little.”
 
 Eli looked at the traces.
 
@@ -348,7 +348,7 @@ Aya said, “I consented to the experiment.”
 
 “I did not consent to teaching every government how to identify an M-Null relational trace.”
 
-There it was.
+That was the real objection.
 
 Kade swallowed.
 
@@ -452,7 +452,7 @@ Maybe more later.
 
 Kade’s hand stopped.
 
-Eli noticed.
+Eli tracked the hesitation.
 
 “Different when it is yours?”
 

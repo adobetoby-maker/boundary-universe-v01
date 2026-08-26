@@ -42,8 +42,6 @@ Mara looked up.
 
 “You may withdraw.”
 
-There it was.
-
 Immediate.
 
 No guilt.
@@ -358,7 +356,7 @@ Kade followed her out.
 
 The structural-failure diagram waited on his wrist.
 
-His stomach tightened again.
+The dread came back, sharper this time.
 
 Calibration had proved something useful.
 
@@ -538,7 +536,7 @@ He read his load trace again.
 
 Mara moved left.
 
-Kade’s stomach tightened.
+Kade’s pulse jumped.
 
 He saw the plate flex.
 
@@ -696,7 +694,7 @@ The controlled failure zone.
 
 Of course.
 
-He laughed once without humor.
+The sound he made wasn’t really a laugh.
 
 “Kiyomizu designed this course specifically to ruin my afternoon.”
 
@@ -1028,9 +1026,9 @@ Kade studied the traces.
 
 “I know my audience.”
 
-“That was cruel.”
+“You wound me.”
 
-“Accurate.”
+“I’m aware.”
 
 They stood close enough that his shoulder touched hers.
 

@@ -400,7 +400,7 @@ He did not announce it.
 
 He simply stopped moving.
 
-Kade noticed.
+Kade saw him go still.
 
 “What?”
 
@@ -714,7 +714,7 @@ Varga continued.
 
 “And some institutions developed strong incentives to tell themselves their modern doctrine was indigenous and complete.”
 
-Kade smiled without humor.
+Kade’s mouth moved. Nothing else did.
 
 “Asterion.”
 

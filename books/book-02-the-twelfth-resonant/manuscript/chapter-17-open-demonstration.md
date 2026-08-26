@@ -4,7 +4,7 @@ The demonstration had six emergency stop buttons.
 
 Kade counted them twice.
 
-Dr. Park noticed.
+Dr. Park had already spotted him counting.
 
 “Good,” she said.
 

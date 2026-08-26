@@ -40,7 +40,7 @@ Julian looked at the cooling coffee.
 
 Reasonable.
 
-There it was.
+The catch, arriving on schedule.
 
 “What does that require?” Julian asked.
 
@@ -328,7 +328,7 @@ The second first-year, Riya Menon, looked at Julian.
 
 Julian almost laughed.
 
-There it was.
+That was the tell.
 
 Permission from the strongest person.
 

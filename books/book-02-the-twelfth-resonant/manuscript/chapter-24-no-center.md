@@ -324,7 +324,7 @@ Mostly because she was right.
 
 “I want you to stop asking what answer makes the feeling go away.”
 
-Kade’s jaw tightened.
+Kade felt the words land wrong.
 
 There.
 
@@ -394,7 +394,7 @@ Kade flinched.
 
 He swallowed.
 
-There it was.
+He’d found the word for it.
 
 He had taken a true thing about himself and used it as a lens on her without enough evidence.
 

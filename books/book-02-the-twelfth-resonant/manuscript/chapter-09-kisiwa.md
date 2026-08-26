@@ -314,7 +314,7 @@ Aya looked at service overlap.
 
 Sera did nothing.
 
-Kade noticed.
+Kade was the one watching for it.
 
 “What?”
 
@@ -855,8 +855,6 @@ Kade winced.
 Sera’s expression softened.
 
 “I used what Response taught me.”
-
-There it was.
 
 A tiny sentence.
 

@@ -802,8 +802,6 @@ Takahara looked at Kade.
 
 “Withdraw.”
 
-There it was.
-
 Kade stepped out.
 
 Ren remained.
@@ -1242,7 +1240,7 @@ The visualization was crude because the instruments had not been built to measur
 
 Still.
 
-There it was.
+The pattern held anyway.
 
 Most shared-state coherence passed through Kade’s neurological trace.
 

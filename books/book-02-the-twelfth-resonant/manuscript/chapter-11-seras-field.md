@@ -732,7 +732,7 @@ Sera looked at him for a long time.
 
 “No.”
 
-There it was.
+That was answer enough.
 
 Kade nodded.
 
@@ -1028,7 +1028,7 @@ She looked up.
 
 “Nothing.”
 
-“That is usually false.”
+“Sure you are.”
 
 He held up the laundry bag.
 

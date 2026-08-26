@@ -616,7 +616,7 @@ Then Price spoke.
 
 “Whatever terminology we ultimately adopt, the Sublevel Nine event demonstrated a capability with strategic implications beyond standard individual Resonance.”
 
-There it was.
+That was the word he had been waiting for.
 
 Strategic.
 
@@ -1124,7 +1124,7 @@ The image centered Kade.
 
 Nessa and Anton were visible on either side like equipment required for the demonstration.
 
-Kade’s stomach tightened.
+Something cold moved through Kade’s chest.
 
 Nessa said, “My mother is going to call and ask if I joined your power.”
 
@@ -1364,7 +1364,7 @@ That was the problem with friends who had once studied you professionally.
 
 “You don’t need to do anything,” Taren said.
 
-Kade’s jaw tightened.
+Kade said nothing for a second too long.
 
 “I know.”
 

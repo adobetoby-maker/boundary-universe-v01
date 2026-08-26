@@ -1008,7 +1008,7 @@ Sera looked at him.
 
 “That is not the same as being right.”
 
-There it was.
+He felt the distinction land.
 
 Kade wrote it down.
 
