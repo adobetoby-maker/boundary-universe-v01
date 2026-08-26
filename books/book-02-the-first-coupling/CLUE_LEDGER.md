@@ -86,3 +86,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 | The next specification | 2 | 0 | No — clues due Ch 22, Ch 24 |
 
 **Chapter 3 audit:** FC-01 planted and confirmed in the source-origin modulation that precedes both Aaron's closure command and the Conduit's automatic gain response. Aaron privately translates the ordered reduction as caution/restraint and withholds that interpretation from Soren. Chapters 1 and 2 had no scheduled clue plants, so no prior-chapter clue remains unconfirmed.
+
+**Chapter 4 audit:** No new clue plant scheduled. FC-01 remains confirmed as planted; Aaron discloses a defensible practitioner-directed interpretation to Amara for informed consent but does not add a second clue or claim the Node's intention as fact. No prior-chapter clue remains unconfirmed.
