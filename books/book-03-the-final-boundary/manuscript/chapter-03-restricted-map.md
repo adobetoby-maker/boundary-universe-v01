@@ -514,16 +514,6 @@ Kade stared at it.
 
 Mara's face had gone still.
 
-“Was this active in Book—”
-
-She stopped herself.
-
-Not book language.
-
-Taren noticed anyway.
-
-She corrected.
-
 “Was this active during the siege?”
 
 “Parts of it.”
@@ -606,13 +596,13 @@ No full Consensus.
 
 Only need, capacity, threat, uncertainty, and compliance state.
 
-Exactly the kinds of things Book Two's handoff architecture had learned to move safely.
+Exactly the kinds of things the handoff architecture had learned to move safely.
 
 Kade felt the temptation before he finished reading.
 
 The proposal solved real problems.
 
-Broken Command had nearly killed people because three correct authorities could not reconcile quickly enough.
+The orbital emergency had nearly killed people because three correct authorities could not reconcile quickly enough.
 
 The dark relay required six institutions to negotiate every boundary.
 
