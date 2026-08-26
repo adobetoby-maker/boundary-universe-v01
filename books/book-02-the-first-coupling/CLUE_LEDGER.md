@@ -24,7 +24,7 @@ Each clue entry has:
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
 | FC-01 | Ch 3 | The Node's response to Soren's signature reads as caution rather than indifference — Aaron notes it privately without acting on the observation | The Node exercises deliberate judgment toward non-Eight humans; it is not indifferent to anyone in contact range | Ch 20 | PLANTED |
-| FC-02 | Ch 8 | Soren's post-session data, run through the buffer, shows no instability across multiple sessions — statistically better than Aaron's own early unsupervised sessions in Book 1 | The Node is actively protecting Soren in a way it never protected Aaron in Book 1, because it had not yet decided to trust humans generally | Ch 20 | PENDING |
+| FC-02 | Ch 8 | Soren's post-session data, run through the buffer, shows no instability across multiple sessions — statistically better than Aaron's own early unsupervised sessions in Book 1 | The Node is actively protecting Soren in a way it never protected Aaron in Book 1, because it had not yet decided to trust humans generally | Ch 20 | PLANTED |
 
 ---
 
@@ -47,7 +47,7 @@ Each clue entry has:
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
 | FC-06 | Ch 7 | The paired session produces a quality of clarity Aaron has never experienced — he notes the difference in kind, not just degree, from every prior session including Book 1's deepest ones | The paired signature is qualitatively different from single-Eight contact — sets up why Ch12's disclosure only becomes possible now | Ch 12 | PLANTED |
-| FC-07 | Ch 8 | Aaron references, obliquely, "the thing I wrote one page about and destroyed" (Book 1 Ch12) while preparing for a session, without elaborating | Reminds the reader the impression already exists; Ch12 escalates it rather than introducing it cold | Ch 12 | PENDING |
+| FC-07 | Ch 8 | Aaron references, obliquely, "the thing I wrote one page about and destroyed" (Book 1 Ch12) while preparing for a session, without elaborating | Reminds the reader the impression already exists; Ch12 escalates it rather than introducing it cold | Ch 12 | PLANTED |
 
 ---
 
@@ -79,9 +79,9 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 
 | Reveal | Required clues | Planted | Ready |
 |---|---|---|---|
-| Node's care extends beyond Aaron | 2 | 1 | No — FC-02 due Ch 8 |
+| Node's care extends beyond Aaron | 2 | 2 | Yes |
 | Amara's change begins | 2 | 0 | No — clues due Ch 9, Ch 11 |
-| Severance/Quieters near-explicit | 2 | 1 | No — FC-07 due Ch 8 |
+| Severance/Quieters near-explicit | 2 | 2 | Yes |
 | Kessler's faction becomes doctrine | 2 | 1 | No — FC-09 due Ch 16 |
 | The next specification | 2 | 0 | No — clues due Ch 22, Ch 24 |
 
@@ -94,3 +94,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 **Chapter 6 audit:** No new clue plant scheduled. FC-01 and FC-08 remain confirmed as planted. The Node again reduces relational load around Soren, continuing the already planted FC-01 pattern without creating a duplicate ledger clue. No prior-chapter clue remains unconfirmed; the next scheduled plants are FC-06 in Chapter 7 and FC-02/FC-07 in Chapter 8.
 
 **Chapter 7 audit:** FC-06 planted and confirmed. Amara's Storage envelope preserves the relational structure Aaron's attention normally displaces, allowing him to derive one transformation rule and correctly predict the Node's next field state after a single ordered change. The text explicitly distinguishes this as a difference in kind from all prior translation-through-impression. FC-01 and FC-08 remain confirmed; no prior-chapter clue remains unconfirmed. The next scheduled plants are FC-02 and FC-07 in Chapter 8.
+
+**Chapter 8 audit:** FC-02 and FC-07 planted and confirmed. Across four spaced Storage-buffered sessions, Soren's normalized instability measures below Aaron's early external-array contacts, and source-origin attenuation removes the specific relations most likely to recruit Soren's prospective nesting before either his response or the limiter. Aaron records adaptive attenuation but withholds the protection/care translation. During the first buffered session, he recalls the one page he wrote and destroyed about irreversible absence and recursive suppression; the present sequence approaches that structure without disclosing it. FC-01, FC-06, and FC-08 remain confirmed. No prior-chapter clue remains unconfirmed; the next scheduled plant is FC-03 in Chapter 9.
