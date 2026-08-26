@@ -84,3 +84,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 | Severance/Quieters near-explicit | 2 | 0 | No — clues due Ch 7, Ch 8 |
 | Kessler's faction becomes doctrine | 2 | 0 | No — clues due Ch 5, Ch 16 |
 | The next specification | 2 | 0 | No — clues due Ch 22, Ch 24 |
+
+**Chapter 2 audit:** No clue plants were scheduled for Chapter 2. Chapter 1 also had no scheduled clue plants, so no prior-chapter clue remains unconfirmed.
