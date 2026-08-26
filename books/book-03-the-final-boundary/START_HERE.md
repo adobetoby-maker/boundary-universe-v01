@@ -1,6 +1,6 @@
 # BOOK 3 — THE FINAL BOUNDARY — START HERE
 
-**Production status:** architecture locked; Chapters 1–2 are six-pass complete and audio-render ready; Chapter 3 is six-pass complete editorially with exact CLI word-count/mechanical family-clean gate pending; Chapter 4 is the active prose frontier.
+**Production status:** architecture locked; Chapters 1–2 are six-pass complete and audio-render ready; Chapters 3–6 are six-pass complete editorially with exact CLI/mechanical gates pending where recorded; Chapter 7 is the active prose frontier.
 
 ## Source of truth
 
@@ -31,15 +31,22 @@ Read in this order before drafting or revising:
 - Aaron and Kade are in an unresolved but continuing relationship.
 - Mara and Kade remain connected through disagreement.
 
-## Current Book 3 evidence after Chapter 3
+## Current Book 3 evidence after Chapter 6
 
-- The avoided-direction event creates a reproducible 0.83-second unresolved interval specifically in recursive mutual-model relationships while local state remains intact.
+- The avoided-direction event creates a reproducible ~0.83-second unresolved interval specifically in recursive mutual-model relationships while local state remains intact.
 - The anomaly is not specific to Consensus, Resonants, or elite systems; Kisiwa's Prototype Four confidence layer shows the same relationship failure while local civic service survives.
 - Legacy Continuity infrastructure contains a read-only succession/authority graph that encodes disagreement as upward transfer toward a root authority.
 - Taren can probably reach parts of the legacy route but has explicitly refused self-authorization and remains under witnessed restriction.
 - A modern permanent-center proposal was independently recognized by the legacy graph because its governance topology matched the same dependency shape, not because of names or faction membership.
 - House Meridian has adopted eight explicit emergency-governance rules centered on expiring scope, local refusal, tested withdrawal, machine uncertainty, and no self-authorization of hidden access.
-- No Quieter identity, Severance history, or avoided-source intent has yet been revealed.
+- Similar unresolved timing intervals were recorded before official Contact Zero; damaged Refuge suppression logs contain the same timing family.
+- A deliberately constructed Kiyomizu relational topology reproduced a close interval from stored state, followed by a second correlated avoided-direction pulse.
+- Raw transmission power is not the discriminating axis. Persistent recursive coherence draws stronger source response; low-coherence civic systems continue useful work without comparable attention.
+- Repeated genuine separation reduces source attention while preserving much of the useful capability.
+- Rival schools can demonstrate safe separability through different architectures; there is no single universal release method.
+- Kade shows measurable authority residue after release, preserving his Book 3 control-risk arc.
+- Refuge memory contains at least three incompatible operational definitions of consent: mutual model acceptance, continued participation after challenge, and capacity to separate without destruction.
+- No Quieter identity, full visibility mechanism, Severance history, or avoided-source intent has yet been revealed.
 
 ## Drafting rule
 
@@ -47,8 +54,17 @@ Architecture and ledgers precede prose. Every chapter must pass Structure, Densi
 
 Word targets remain compression diagnostics, never quotas. Do not trust a `PASS` label over the lived manuscript: if a promised event is summarized rather than experienced, deepen the scene before advancing.
 
+## Mechanical cleanup queue
+
+- Chapter 3: exact CLI word count + mechanical family-clean lint pending.
+- Chapter 4: exact count/lint plus remove one tracked production-language self-correction near the Meridian aftermath.
+- Chapter 5: exact count/lint pending.
+- Chapter 6: exact count/lint plus remove one tracked `Before Book—` production-language fragment near the opening.
+
+Do not declare Chapters 3–6 fresh-audio ready until these recorded gates are completed.
+
 ## Active frontier
 
-**Chapter 4 — The Old Interval**
+**Chapter 7 — The Silence Vote**
 
-Required job: Aaron and Kade compare the avoided pulse with damaged Refuge suppression logs; the same timing challenge must be shown to predate the official Contact Zero era without turning Aaron into an answer engine. Separate memory from inference. The chapter should end only after a deliberate recursive-model test produces another source response, advancing Q-02 while keeping Quieter identity protected.
+Required job: the emergency coalition must debate dismantling the dark relay and suppressing high-coherence research. Kade should favor a temporary pause while Mara argues that retreat without measurement can erase the evidence needed to survive. The vote must have real consequences, preserve their relationship through unresolved disagreement, and advance V-02 without naming the Quieters before the planned reveal.
