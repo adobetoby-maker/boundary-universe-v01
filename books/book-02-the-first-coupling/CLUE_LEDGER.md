@@ -34,7 +34,7 @@ Each clue entry has:
 
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
-| FC-03 | Ch 9 | Amara's baseline field readings show a faint residual pattern hours after a joint session ends | Her Storage architecture is beginning to hold fragments of the Node's field-state structure involuntarily | Ch 19, Refuge Node B1 | PENDING |
+| FC-03 | Ch 9 | Amara's baseline field readings show a faint residual pattern hours after a joint session ends | Her Storage architecture is beginning to hold fragments of the Node's field-state structure involuntarily | Ch 19, Refuge Node B1 | PLANTED |
 | FC-04 | Ch 11 | Amara asks Aaron, almost idly, whether the residue could ever become "permanent architecture" rather than a passing effect — he tells her he doesn't know, honestly | Plants the open question the Refuge Node Trilogy eventually answers | Refuge Node B1 | PENDING |
 | FC-05 | Ch 19 | Amara pauses mid-sentence, holds a thought a half-second too long, recovers — small enough that only Aaron notices, and even he isn't certain | First visible (if deniable) evidence of structural change | Refuge Node B1 | PENDING |
 
@@ -80,7 +80,7 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 | Reveal | Required clues | Planted | Ready |
 |---|---|---|---|
 | Node's care extends beyond Aaron | 2 | 2 | Yes |
-| Amara's change begins | 2 | 0 | No — clues due Ch 9, Ch 11 |
+| Amara's change begins | 2 | 1 | No — FC-04 due Ch 11 |
 | Severance/Quieters near-explicit | 2 | 2 | Yes |
 | Kessler's faction becomes doctrine | 2 | 1 | No — FC-09 due Ch 16 |
 | The next specification | 2 | 0 | No — clues due Ch 22, Ch 24 |
@@ -96,3 +96,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 **Chapter 7 audit:** FC-06 planted and confirmed. Amara's Storage envelope preserves the relational structure Aaron's attention normally displaces, allowing him to derive one transformation rule and correctly predict the Node's next field state after a single ordered change. The text explicitly distinguishes this as a difference in kind from all prior translation-through-impression. FC-01 and FC-08 remain confirmed; no prior-chapter clue remains unconfirmed. The next scheduled plants are FC-02 and FC-07 in Chapter 8.
 
 **Chapter 8 audit:** FC-02 and FC-07 planted and confirmed. Across four spaced Storage-buffered sessions, Soren's normalized instability measures below Aaron's early external-array contacts, and source-origin attenuation removes the specific relations most likely to recruit Soren's prospective nesting before either his response or the limiter. Aaron records adaptive attenuation but withholds the protection/care translation. During the first buffered session, he recalls the one page he wrote and destroyed about irreversible absence and recursive suppression; the present sequence approaches that structure without disclosing it. FC-01, FC-06, and FC-08 remain confirmed. No prior-chapter clue remains unconfirmed; the next scheduled plant is FC-03 in Chapter 9.
+
+**Chapter 9 audit:** FC-03 planted and confirmed. Six hours after Aaron and Amara's second joint diagnostic, a four-transition shoulder below the automated reporting threshold appears in Amara's inferred Storage release topology and matches the Node's final session sequence. Raw reconstruction, blinded controls, prior-baseline comparison, individual delayed microloads, and empty-room hardware replay support genuine retention while energy, identity, active load, and declared medical measures remain clean. FC-01, FC-02, FC-06, FC-07, and FC-08 remain confirmed. No prior-chapter clue remains unconfirmed; the next scheduled plant is FC-04 in Chapter 11.
