@@ -88,6 +88,11 @@ series (see Decision 3) because nothing enforced that.
   *reports* scenes instead of dramatizing them ("Kade heard about it later").
   Hunting that pattern converts summary to scene exactly where density is
   thinnest.
+- Tic pass DONE ahead of expansion (commit c7ae4d6): 7 families reduced
+  book-wide. Deliberately done FIRST so the expansion writer reads clean prose
+  and does not multiply the patterns 2.5x. The self-aware "Cruel."/"Accurate."
+  runner was thinned in its densest stretches (ch23, ch29) rather than
+  removed — the text lampshades it, so it is a joke, not only a tic.
 - Methodology: Book 1's EXPANSION_TRACKER rules apply (add scenes not filler,
   two jobs per scene, preserve reveal order, family-clean) **plus** B2
   additions per Decision 4. Distrust B2's self-attestation docs — they
