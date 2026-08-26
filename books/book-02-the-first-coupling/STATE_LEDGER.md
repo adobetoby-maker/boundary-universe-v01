@@ -10,7 +10,7 @@
 | Chapter | What he knows | What he has lied about / withheld | Coupling sessions this book | Encoding work |
 |---|---|---|---|---|
 | Book open (post-Book 1) | Impression-level knowledge of the Quieters (Ch12 destroyed page). Conduit encoding built (Book 1 Ch17). Role: Senior Coupling Specialist. | Full scope of Book 1's private log never disclosed to anyone. | 0 | Book 1 encoding stable, unmodified |
-| End Ch 1 | Ordered to vet a second practitioner. Knows exactly what this risks. | Nothing new | 0 | — |
+| End Ch 1 | Ordered to vet Soren Aldarin under written stop authority and no-contact controls. Knows exactly what a non-Eight attempt risks. | Nothing new; private log and full Contact Zero record remain restricted as before | 0 | Book 1 encoding stable, unmodified |
 | End Ch 6 | Soren nearly lost in an unsupervised deepening; caught in time. | Nothing new disclosed | 1 (supervised, Ch3) | — |
 | End Ch 11 | Amara carries buffer residue; he told her; she chose to continue. | Told Amara — first time he's the one who discloses rather than withholds | 3 (Ch7, Ch8-adjacent, Ch11 joint) | — |
 | End Ch 13 | Near-explicit Severance/Quieters disclosure from Ch12 session. Reported redacted version to Rhys/Kessler. | Full disclosure withheld from Rhys and Kessler | 4 | — |
