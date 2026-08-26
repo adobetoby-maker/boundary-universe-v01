@@ -24,7 +24,7 @@ Each clue entry has:
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
 | LS-01 | Ch 1 | The erasure protocol paperwork uses a Directorate-standard template Aaron has not personally reviewed in detail | He has been trusting institutional infrastructure he hasn't verified himself — uncharacteristic, and a vulnerability | Ch 5, Ch 15 | PLANTED |
-| LS-02 | Ch 5 | The audit nearly surfaces the inconsistency; Aaron resolves it in real time but notes privately how close it came | Establishes the membrane between his two lives is thinner than the trilogy has previously shown | Ch 15 | PENDING |
+| LS-02 | Ch 5 | A blinded provenance proof nearly links Aaron's named public credential to the protected office continuing his work; he corrects the sampled failure truthfully, but the external relation comes within one automated release of propagation | Establishes that the standard template protects identity values but not equivalence relations, and that the membrane between Aaron's lives is thinner than the trilogy has previously shown | Ch 15 | PLANTED |
 
 ---
 
@@ -66,9 +66,9 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 
 | Reveal | Required clues | Planted | Ready |
 |---|---|---|---|
-| Cover architecture fragility | 2 | 1 | No — LS-01 planted; LS-02 due Ch 5 |
+| Cover architecture fragility | 2 | 2 | Yes — LS-01 and LS-02 planted; payoff remains Ch 15 |
 | Amara's resonance | 1 (deliberately left open — cross-trilogy payoff) | 0 | No — clue due Ch 9 |
-| Something, not everything (Elin) | 2 | 1 | No — LS-05 planted initially in Ch 2 and due for reinforcement in Ch 4; LS-04 due Ch 11 |
+| Something, not everything (Elin) | 2 | 1 | No — LS-05 planted and reinforced in Ch 2/4; LS-04 due Ch 11 |
 | What a Standard Nine will need | 2 | 0 | No — clues due Ch 8, Ch 20 |
 
 **Chapter 1 audit:** LS-01 planted and confirmed. Aaron accepts intake under Directorate-standard Trace Retirement Protocol 4.2 after using its outputs indirectly for years without personally reviewing the template in detail. He schedules full review and marks the external-record convergence assumptions for review, but twelve validated applications and the protocol's phased approval structure leave the underlying vulnerability unrecognized. No prior-chapter Book 3 clue remains unconfirmed. LS-02 remains scheduled for Chapter 5 before the Chapter 15 redesign payoff.
@@ -78,3 +78,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 **Chapter 3 audit:** No new clue is scheduled for Chapter 3. LS-01 and LS-05 remain confirmed as planted, and no prior-chapter clue is unconfirmed. The succession review and Rhys's visibly declining health fulfill direct architecture beats rather than mystery-ledger planting. LS-05 remains due for reinforcement in Chapter 4; LS-02 remains scheduled for Chapter 5.
 
 **Chapter 4 audit:** LS-05 reinforced and confirmed in an ordinary relational context. Elin describes safe structures as retaining visible, controlled failure points and inspectable interfaces rather than forcing rigid union; Aaron privately recognizes the rhyme with Coupling's retained boundaries and declared exchange paths without disclosing classified work. LS-01 remains confirmed; no prior-chapter clue is unconfirmed. LS-02 remains scheduled for Chapter 5.
+
+**Chapter 5 audit:** LS-02 planted and confirmed. A public provenance audit combines Aaron's named prior authorship with a blinded proof behind the newly office-attributed Standard 6.4 and can infer that both roles share one continuing person. Aaron separates evidence contribution, office harmonization, public promulgation, and controlled accountability into truthful attestations, preventing propagation without inventing an author or denying his decision. The failure arrives seventy-eight days before quarterly sampling and exposes seventeen additional vulnerable transition actions, directly motivating the Chapter 15 redesign. LS-01 pays into the revealed standard-template weakness; LS-05 remains confirmed. No prior-chapter clue remains unconfirmed.
