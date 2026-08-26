@@ -22,11 +22,19 @@ No live human decision authority.
 
 Just architectures.
 
-Jonas stood beside the control rack in Helix's main systems hall.
+Helix's main systems hall looked less like a laboratory than a warehouse that had learned to distrust walls.
+
+Most of the racks stood on open frames. Every cable route was visible overhead. Provenance tags hung from junctions in plastic sleeves large enough to read from the floor. Red physical cutoff paddles sat at shoulder height beside every active test island.
+
+Helix did not hide complexity.
+
+It labeled it until disagreement became possible.
+
+Jonas stood beside the control rack.
 
 “Power levels verified.”
 
-Mara checked the independent meter.
+Mara checked the independent meter on a separate circuit.
 
 “Verified.”
 
@@ -34,7 +42,19 @@ Aya checked Kiyomizu's mirror instrumentation.
 
 “Topology states verified.”
 
-Kade stood behind the observer line because nobody had given him an operational job.
+A Helix technician named Sofia Marin walked the room and touched each cutoff paddle in sequence.
+
+“Mechanical isolation verified.”
+
+Jonas looked at her.
+
+“You enjoy this part.”
+
+“I enjoy systems that can stop.”
+
+Kade liked her immediately.
+
+He stood behind the observer line because nobody had given him an operational job.
 
 He hated how healthy that felt.
 
@@ -43,6 +63,12 @@ Petrov's voice came through the room speaker.
 “Proceed System One.”
 
 The high-power calibration pulse transmitted.
+
+The antenna load meter climbed.
+
+Cooling fans changed pitch.
+
+A bank of dummy resistors warmed enough that the air above them shimmered slightly.
 
 Lunar watched the avoided direction.
 
@@ -58,6 +84,18 @@ No response.
 
 System One stopped.
 
+Sofia put one hand on the hot-load enclosure.
+
+“Expected thermal rise.”
+
+Mara checked the independent trace.
+
+“Agreed.”
+
+The strongest thing they intended to send today had accomplished exactly what a calibration pulse should accomplish.
+
+It had heated hardware and made the universe remain silent.
+
 System Two activated.
 
 Lower power.
@@ -65,6 +103,28 @@ Lower power.
 Persistent prediction.
 
 The model adjusted itself every two hundred milliseconds based on predicted operator reactions.
+
+The first ten seconds looked almost boring.
+
+Then the model began reallocating compute toward the operator whose last two choices it had predicted most accurately.
+
+Jonas frowned.
+
+“That weighting is within bounds.”
+
+Aya said, “It is becoming asymmetric.”
+
+“Still within bounds.”
+
+“Not the same statement.”
+
+Kade watched the relation graph thicken around one operator.
+
+The model was not commanding anyone.
+
+It was deciding whose future mattered most to predict.
+
+That felt familiar in a way he disliked.
 
 At twelve seconds, nothing.
 
@@ -74,7 +134,29 @@ Not a pulse.
 
 Not yet.
 
-At twenty-four seconds, the disturbance sharpened.
+At twenty-two seconds the system's confidence score rose even though one operator deliberately made an unexpected choice.
+
+Mara leaned forward.
+
+“Why did confidence increase?”
+
+Jonas's hands moved over the console.
+
+“It predicted the correction after the miss.”
+
+“So the miss made it more certain about the operator.”
+
+“Yes.”
+
+Kade's stomach tightened.
+
+The system learned from being wrong.
+
+Useful.
+
+Dangerous only if useful things were dangerous in the wrong shape.
+
+At twenty-four seconds, the external disturbance sharpened.
 
 Duration:
 
@@ -82,7 +164,19 @@ Duration:
 
 System Two stopped automatically.
 
-The disturbance vanished.
+Not gracefully.
+
+Its predictive layer dropped first.
+
+Two local processes continued using stale confidence for ninety milliseconds before their own expiration rules rejected it.
+
+A yellow warning strip lit across the rack.
+
+Sofia slapped the mechanical cutoff.
+
+The fiber link went dark.
+
+Then the disturbance vanished.
 
 Kade's mouth went dry.
 
@@ -96,11 +190,33 @@ Good.
 
 Nobody overclaimed.
 
-System Three activated.
+Sofia reset the local systems manually.
+
+“Stale-state window ninety milliseconds,” she said.
+
+Jonas winced.
+
+“That is below operational limit.”
+
+“It is still a window.”
+
+Helix wrote it down.
+
+Of course they did.
+
+System Three activated only after the rack returned to thermal baseline.
 
 No external transmission beyond ordinary synchronization traffic.
 
 Its six-agent model maintained continuous mutual prediction.
+
+The display looked quieter than System Two.
+
+Less data moving.
+
+Less power.
+
+More relationship.
 
 Eight seconds.
 
@@ -128,6 +244,10 @@ Petrov said, “Stop.”
 
 System Three dissolved.
 
+One of the six local agents attempted to preserve a cached prediction of another after the release command.
+
+Sofia killed that process manually before it could rejoin.
+
 The pulse ended three hundred milliseconds later.
 
 Nobody spoke.
@@ -141,6 +261,22 @@ The source had cared more.
 If care was the word.
 
 It probably was not.
+
+Jonas stared at the residual cache Sofia had killed.
+
+“That would have expired in six hundred milliseconds.”
+
+Sofia looked at him.
+
+“But it had not expired yet.”
+
+Kade thought of his authority residue in the previous day's exercise.
+
+Responsibility that had not received the message that it was over.
+
+Machines could have habits too.
+
+Or at least architectures could.
 
 ---
 
@@ -164,13 +300,25 @@ None maintained persistent high-coherence mutual models.
 
 Sera stood in East District General beside Daniel Otieno while Helix and Asterion watched remotely.
 
-“You are not changing hospital operations to make your experiment clean,” she said.
+Behind her, a cart squeaked past carrying sealed meal trays. A nurse interrupted twice to confirm whether a portable imaging unit could move to another floor without changing reserve calculations. Outside the power room, a handwritten sign directed families around a corridor still drying from the previous day's storm.
+
+“You are not changing hospital operations to make your experiment clean,” Sera said.
 
 Jonas looked mildly offended through the screen.
 
 “We know.”
 
 “Good.”
+
+Daniel pointed at the power board.
+
+“Imaging load moves in four minutes whether your observation window likes it or not.”
+
+Petrov said, “Then the observation window adapts.”
+
+Sera nodded once.
+
+Better answer.
 
 The hospital mesh predicted local demand and neighboring reserve.
 
@@ -196,9 +344,29 @@ No induced load.
 
 No forced recursion.
 
-They watched for forty minutes.
+They watched.
 
-Nothing from the avoided direction.
+At minute nine, imaging moved two procedures because one elevator dropped out of service.
+
+Daniel did not ask the regional mesh for permission.
+
+He told it the new local state.
+
+At minute fourteen, a flood-board operator downgraded a road from yellow to red after a driver reported water over the lane markers.
+
+The model still predicted yellow for another two minutes.
+
+The road remained red.
+
+At minute twenty-one, a bus dispatcher ignored the optimal reroute because it would have sent three full buses past a school shelter during pickup.
+
+Kade watched the system log the decision as a deviation.
+
+No punishment.
+
+No override.
+
+Just a deviation with provenance.
 
 A storm cell moved over Nairobi.
 
@@ -210,7 +378,37 @@ Two buses fell behind schedule.
 
 No pulse.
 
-Sera looked at Kade's remote window.
+Then an ambulance call came in.
+
+Not part of the test.
+
+A motorcycle collision on a feeder road.
+
+One patient unstable.
+
+East District General needed an emergency imaging slot and a trauma bay.
+
+The predictive mesh recommended delaying a dialysis transfer by nine minutes.
+
+Daniel looked at the recommendation.
+
+Then called the dialysis supervisor.
+
+The supervisor said the patient could tolerate six.
+
+Not nine.
+
+Daniel changed the imaging plan instead.
+
+Less efficient globally.
+
+Correct locally.
+
+The system accepted the new state because it had never been granted authority to refuse it.
+
+Kade looked at Sera.
+
+She was already looking at him.
 
 “Still want to centralize everything because it is cleaner?”
 
@@ -244,6 +442,12 @@ The avoided monitor remained quiet.
 
 That quiet had become data.
 
+So had the ambulance.
+
+A low-coherence system had not failed to coordinate.
+
+It had coordinated while leaving enough authority at the edges for a person beside a real patient to be more correct than the model.
+
 ---
 
 Governments reacted exactly as badly as everyone expected.
@@ -258,7 +462,11 @@ Then once more because he disliked how much he understood it.
 
 Julian joined him in Asterion's west study hall.
 
-“What are you reading?”
+The study hall had once been quiet enough to hear pages turn.
+
+Now half the tables held emergency-policy drafts, academy comparison packets, or students pretending not to watch the countdown projected above the door.
+
+“What are you reading?” Julian asked.
 
 Kade turned the tablet.
 
@@ -368,6 +576,32 @@ Kade felt better.
 
 Normal disagreement still existed.
 
+He looked at Julian again.
+
+“You used to like winning.”
+
+“I still do.”
+
+“This would make us faster.”
+
+“Probably.”
+
+“Then why hate it immediately?”
+
+Julian considered.
+
+“Because I know what it feels like when everyone assumes the best person in the room should make the decision.”
+
+Kade said nothing.
+
+Julian looked back at the proposal.
+
+“It feels good right up until the room forgets everyone else can still be right about their own part.”
+
+There.
+
+Rank One had become useful in a different direction.
+
 ---
 
 The second Helix trial changed only persistence.
@@ -386,15 +620,21 @@ Aya designed the release condition.
 
 Mara audited it.
 
-Jonas complained that Kiyomizu had made his beautiful model intentionally forgetful.
+Sofia added one requirement nobody had requested: after each release, a technician had to be able to remove any one physical link without the system reconstructing it through a backup route.
+
+Jonas complained that Kiyomizu and his own staff had made his beautiful model intentionally forgetful.
 
 Aya said, “Correct.”
+
+Sofia said, “And removable.”
 
 The test began.
 
 Five seconds coherent.
 
 Release.
+
+Fiber relays clicked open across the rack.
 
 Nothing from the source.
 
@@ -411,6 +651,10 @@ Third cycle.
 A faint timing disturbance appeared at four-point-eight seconds.
 
 The system dissolved.
+
+One backup route tried to hold association state.
+
+Sofia physically pulled its patch lead.
 
 The disturbance vanished.
 
@@ -441,6 +685,10 @@ Kade asked, “What changed?”
 Aya said, “Persistence changed.”
 
 Mara added, “And the system proved separation repeatedly.”
+
+Sofia held up the disconnected patch lead.
+
+“Physically.”
 
 Kade looked at the avoided monitor.
 
@@ -518,6 +766,40 @@ Still connected.
 
 Good.
 
+Kade looked at her hands.
+
+She had a shallow cut across one knuckle from helping Sofia reroute a physical isolation cable after the test.
+
+“You didn't need to be on the floor for that.”
+
+Mara looked at him.
+
+There it was again.
+
+His reflex.
+
+He corrected before she had to.
+
+“You chose to be on the floor for that.”
+
+“Yes.”
+
+“Was the cut worth it?”
+
+“No.”
+
+Kade blinked.
+
+Mara almost smiled.
+
+“Not every consequence validates the choice.”
+
+He looked at the cut.
+
+Another version of the same lesson.
+
+Choice was not permission granted by a good outcome.
+
 Mara finally said, “Your pause should include the planetary defense core.”
 
 Kade looked at her.
@@ -574,17 +856,21 @@ Sera attached one note.
 
 **LOW COHERENCE IS NOT LOW CAPABILITY.**
 
-Kade read it twice.
+Below it, Daniel had added another.
 
-That sentence belonged in the book of things humans would later pretend had been obvious.
+**LOCAL AUTHORITY IS NOT A FALLBACK. IT IS PART OF THE DESIGN.**
 
-He forwarded it to Petrov.
+Kade read both twice.
+
+Those sentences belonged in the book of things humans would later pretend had been obvious.
+
+He forwarded them to Petrov.
 
 Then to Julian.
 
 Then to Eli.
 
-Then stopped himself before sending it to everyone he knew.
+Then stopped himself before sending them to everyone he knew.
 
 Mara would accuse him of turning insight into infrastructure.
 
@@ -598,7 +884,9 @@ The strongest transmission had been ignored.
 
 The weakest high-coherence model had been noticed.
 
-And the systems most willing to become separate again had drawn the least response.
+The repeated-release model had reduced the response while preserving most of its useful prediction.
+
+And the messiest civic systems had continued making decisions because the people closest to the consequences were still allowed to disagree with the model.
 
 Whatever waited in the wrong direction was not measuring how loudly Earth spoke.
 
