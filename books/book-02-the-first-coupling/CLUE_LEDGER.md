@@ -90,3 +90,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 **Chapter 4 audit:** No new clue plant scheduled. FC-01 remains confirmed as planted; Aaron discloses a defensible practitioner-directed interpretation to Amara for informed consent but does not add a second clue or claim the Node's intention as fact. No prior-chapter clue remains unconfirmed.
 
 **Chapter 5 audit:** FC-08 planted and confirmed in Kessler's explicit framing of acceleration as "the Directorate's mandate" and a continuity obligation that has a budget category and will outlast an individual officeholder. FC-01 remains confirmed. No prior-chapter clue remains unconfirmed; FC-09 remains scheduled for Chapter 16 before the Chapter 21 payoff.
+
+**Chapter 6 audit:** No new clue plant scheduled. FC-01 and FC-08 remain confirmed as planted. The Node again reduces relational load around Soren, continuing the already planted FC-01 pattern without creating a duplicate ledger clue. No prior-chapter clue remains unconfirmed; the next scheduled plants are FC-06 in Chapter 7 and FC-02/FC-07 in Chapter 8.
