@@ -11,7 +11,7 @@
 |---|---|---|---|---|
 | Book open (post-Book 2) | Full Book 1–2 knowledge. "The First Coupling" is doctrine. Deepened encoding built. | Senior Coupling Specialist | Not yet met | Book 2's deepened encoding, stable |
 | End Ch 1 | His named public role cannot coexist indefinitely with The First Coupling's root-record dependencies and his unique source authority. Consents to Living-Subject Continuity Classification; phase zero complete; public and controlled traces both remain active pending formalization on Days 4,885–4,915. | Senior Coupling Specialist; future functions mapped to sealed Coupling Classification Authority, Source Interface Custodian, and Conduit Continuity Architect credentials | Not yet met | Deepened nine-invariant encoding stable, private, and Conduit-lineage dependent. THE NEXT SPECIFICATION has two requirements—passive durability and identity-independent provenance—but no material solution. |
-| End Ch 2 | — | — | Met Elin (professional context) | — |
+| End Ch 2 | Elin separates protected purpose from measurable engineering consequence without treating the omission as personal leverage; the Léman Annex's real wall/load path differs from its inherited drawings. | Senior Coupling Specialist; public and controlled traces remain active; signs the Annex suspension under his public credential | Met Elin through a civilian structural consultation; accepts her invitation to dinner Friday | Deepened encoding and THE NEXT SPECIFICATION unchanged |
 | End Ch 6 | Audit survived; understands his cover architecture is fragile | — | Ongoing, early | Begins designing his own erasure protocol |
 | End Ch 12 | Full disclosure (Ch7–8): complete Severance/Quieters picture, structural fact about a future Standard Nine | Full institutional authority (Rhys steps down) | Ongoing | — |
 | End Ch 16 | — | — | Told Elin "something, not everything" | — |
@@ -25,7 +25,7 @@
 
 | Chapter | What she knows | Relationship status | Notes |
 |---|---|---|---|
-| Ch 2 (intro) | Nothing about the classified apparatus | Meets Aaron | Structural engineer, civilian |
+| Ch 2 (intro) | Knows Aaron holds final technical authority at a public Authority annex and works around continuously operating protected instruments; knows only released mass, motion, displacement, and thermal constraints, not their purpose | Meets Aaron professionally; gives him her private number and asks him to dinner | Independent structural engineer, civilian; entirely outside the classified apparatus |
 | Ch 4 | Nothing | Genuine, ordinary relationship forming | Vocabulary echo established (LS-05) |
 | Ch 11 | Asks directly what Aaron's work is; gets a competent deflection | Ongoing | — |
 | Ch 14 | Pregnant | — | Scene is primarily human, not institutional |

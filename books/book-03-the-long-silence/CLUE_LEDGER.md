@@ -45,7 +45,7 @@ Each clue entry has:
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
 | LS-04 | Ch 11 | Elin asks directly what Aaron's actual work is; he deflects competently and hates how competent it is | Establishes the deflection as a skill he's ashamed of, setting up why Ch16's disclosure — partial as it is — costs him something real | Ch 16 | PENDING |
-| LS-05 | Ch 4 | Elin's structural-engineering vocabulary (load-bearing, tolerance, failure points) unconsciously echoes Aaron's own coupling vocabulary | Plants the thematic rhyme that makes her eventual "something, not everything" acceptance feel earned rather than convenient | Ch 16–17 | PENDING |
+| LS-05 | Ch 2 (initial); reinforce Ch 4 | Elin's structural-engineering vocabulary (load-bearing, tolerance, failure points, controlled interfaces) unconsciously echoes Aaron's own coupling vocabulary | Plants the thematic rhyme that makes her eventual "something, not everything" acceptance feel earned rather than convenient | Ch 16–17 | PLANTED |
 
 ---
 
@@ -68,7 +68,9 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 |---|---|---|---|
 | Cover architecture fragility | 2 | 1 | No — LS-01 planted; LS-02 due Ch 5 |
 | Amara's resonance | 1 (deliberately left open — cross-trilogy payoff) | 0 | No — clue due Ch 9 |
-| Something, not everything (Elin) | 2 | 0 | No — clues due Ch 4, Ch 11 |
+| Something, not everything (Elin) | 2 | 1 | No — LS-05 planted initially in Ch 2 and due for reinforcement in Ch 4; LS-04 due Ch 11 |
 | What a Standard Nine will need | 2 | 0 | No — clues due Ch 8, Ch 20 |
 
 **Chapter 1 audit:** LS-01 planted and confirmed. Aaron accepts intake under Directorate-standard Trace Retirement Protocol 4.2 after using its outputs indirectly for years without personally reviewing the template in detail. He schedules full review and marks the external-record convergence assumptions for review, but twelve validated applications and the protocol's phased approval structure leave the underlying vulnerability unrecognized. No prior-chapter Book 3 clue remains unconfirmed. LS-02 remains scheduled for Chapter 5 before the Chapter 15 redesign payoff.
+
+**Chapter 2 audit:** LS-05 planted initially and confirmed through Elin's working vocabulary: actual load paths, permitted tolerance, controlled interfaces, failure consequences, and determining which systems can truly move. Aaron recognizes the mapping to his Coupling framework; Elin does not, and learns nothing classified. Chapter 4 must reinforce the rhyme in an ordinary relational context as scheduled. LS-01 remains confirmed; no prior-chapter clue is unconfirmed.
