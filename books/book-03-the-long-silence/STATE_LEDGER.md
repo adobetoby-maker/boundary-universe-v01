@@ -10,6 +10,7 @@
 | Chapter | What he knows | Institutional authority | Relationship w/ Elin | Encoding work |
 |---|---|---|---|---|
 | Book open (post-Book 2) | Full Book 1–2 knowledge. "The First Coupling" is doctrine. Deepened encoding built. | Senior Coupling Specialist | Not yet met | Book 2's deepened encoding, stable |
+| End Ch 1 | His named public role cannot coexist indefinitely with The First Coupling's root-record dependencies and his unique source authority. Consents to Living-Subject Continuity Classification; phase zero complete; public and controlled traces both remain active pending formalization on Days 4,885–4,915. | Senior Coupling Specialist; future functions mapped to sealed Coupling Classification Authority, Source Interface Custodian, and Conduit Continuity Architect credentials | Not yet met | Deepened nine-invariant encoding stable, private, and Conduit-lineage dependent. THE NEXT SPECIFICATION has two requirements—passive durability and identity-independent provenance—but no material solution. |
 | End Ch 2 | — | — | Met Elin (professional context) | — |
 | End Ch 6 | Audit survived; understands his cover architecture is fragile | — | Ongoing, early | Begins designing his own erasure protocol |
 | End Ch 12 | Full disclosure (Ch7–8): complete Severance/Quieters picture, structural fact about a future Standard Nine | Full institutional authority (Rhys steps down) | Ongoing | — |
@@ -39,6 +40,7 @@
 | Chapter | Health | Authority | Notes |
 |---|---|---|---|
 | Book open | Declining, visible | Senior Director | Continuity from Book 2 |
+| Ch 1 | Decline subtly visible through medication schedule and slowed right-hand movement; no acute event | Senior Director; initiates Aaron's trace-retirement protocol and retains authority | Alive and working. Protocol explicitly preserves Aaron's ongoing Node/containment duties rather than retiring him from them. |
 | Ch 3 | Declining further | Succession question raised obliquely | — |
 | Ch 10 | Accelerating decline | — | Private honesty scene with Aaron — explains the original suppression choice once, completely |
 | Ch 12 | — | Formally steps down; full authority passes to Aaron | Quiet, procedural exit — alive, in retirement/health-driven withdrawal, not deceased |
@@ -66,8 +68,8 @@
 
 | Event | When | Canon confirmation |
 |---|---|---|
-| Book 2 closes | ~5 years before Book 3 opens | LOCKED (Book 2 Ch24) |
-| Book 3 opens | Aaron approaching 34 | LOCKED (series bible) |
+| Book 2 closes | ~5 years before Book 3 opens; completed manuscript ends on Day 2,530 | LOCKED (Book 2 Ch24; Book 3 bible) |
+| Book 3 opens | Day 4,356; Aaron approaching 34; approximately five years after Book 2 and seven years into maintenance of the official-history lie | CONFIRMED — completed Book 2 state carried forward |
 | Rhys steps down, full authority to Aaron | Book 3 Ch 12 | PENDING |
 | Aaron's classification formalizes | Book 3 Ch 22 | PENDING — must land same season as Kade's birth |
 | Kade Mercer born | Book 3 Ch 23 | LOCKED (series bible) — END TRILOGY |

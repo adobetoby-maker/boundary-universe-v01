@@ -23,7 +23,7 @@ Each clue entry has:
 
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
-| LS-01 | Ch 1 | The erasure protocol paperwork uses a Directorate-standard template Aaron has not personally reviewed in detail | He has been trusting institutional infrastructure he hasn't verified himself — uncharacteristic, and a vulnerability | Ch 5, Ch 15 | PENDING |
+| LS-01 | Ch 1 | The erasure protocol paperwork uses a Directorate-standard template Aaron has not personally reviewed in detail | He has been trusting institutional infrastructure he hasn't verified himself — uncharacteristic, and a vulnerability | Ch 5, Ch 15 | PLANTED |
 | LS-02 | Ch 5 | The audit nearly surfaces the inconsistency; Aaron resolves it in real time but notes privately how close it came | Establishes the membrane between his two lives is thinner than the trilogy has previously shown | Ch 15 | PENDING |
 
 ---
@@ -66,7 +66,9 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 
 | Reveal | Required clues | Planted | Ready |
 |---|---|---|---|
-| Cover architecture fragility | 2 | 0 | No — clues due Ch 1, Ch 5 |
+| Cover architecture fragility | 2 | 1 | No — LS-01 planted; LS-02 due Ch 5 |
 | Amara's resonance | 1 (deliberately left open — cross-trilogy payoff) | 0 | No — clue due Ch 9 |
 | Something, not everything (Elin) | 2 | 0 | No — clues due Ch 4, Ch 11 |
 | What a Standard Nine will need | 2 | 0 | No — clues due Ch 8, Ch 20 |
+
+**Chapter 1 audit:** LS-01 planted and confirmed. Aaron accepts intake under Directorate-standard Trace Retirement Protocol 4.2 after using its outputs indirectly for years without personally reviewing the template in detail. He schedules full review and marks the external-record convergence assumptions for review, but twelve validated applications and the protocol's phased approval structure leave the underlying vulnerability unrecognized. No prior-chapter Book 3 clue remains unconfirmed. LS-02 remains scheduled for Chapter 5 before the Chapter 15 redesign payoff.
