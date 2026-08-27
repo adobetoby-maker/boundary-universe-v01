@@ -34,7 +34,7 @@ Each clue entry has:
 
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
-| LS-03 | Ch 9 | During a joint session, something in Amara's readings shifts in sync with the Node's fullest disclosure — neither she nor Aaron can explain it, and neither pursues it fully | The fragment she carries (Book 2) is not inert — it responds to the Node's own state | Refuge Node Trilogy | PENDING |
+| LS-03 | Ch 9 | During a blinded paired local reconstruction, Amara's four carried relations redistribute their internal phase twice in sync with the block representing the Node's partitioned continuities, her absent Storage position, and Aaron's compatibility path; neither she nor Aaron can explain it, and both stop after the one authorized repeat | The fragment she carries (Book 2) is not inert — it responds selectively to a representation of the Node's own state | Refuge Node Trilogy | PLANTED |
 
 ---
 
@@ -67,7 +67,7 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 | Reveal | Required clues | Planted | Ready |
 |---|---|---|---|
 | Cover architecture fragility | 2 | 2 | Yes — LS-01 and LS-02 planted; payoff remains Ch 15 |
-| Amara's resonance | 1 (deliberately left open — cross-trilogy payoff) | 0 | No — clue due Ch 9 |
+| Amara's resonance | 1 (deliberately left open — cross-trilogy payoff) | 1 | Yes — LS-03 planted; full resolution remains in Refuge Node Trilogy |
 | Something, not everything (Elin) | 2 | 1 | No — LS-05 planted and reinforced in Ch 2/4; LS-04 due Ch 11 |
 | What a Standard Nine will need | 2 | 1 | No — LS-06 planted in Ch 8; LS-07 due Ch 20 |
 
@@ -86,3 +86,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 **Chapter 7 audit:** No new mystery clue is scheduled or planted. LS-01, LS-02, and LS-05 remain confirmed, and no prior-chapter clue remains unconfirmed. The fullest Severance/Quieters disclosure fulfills the direct Chapter 7 architecture beat rather than a clue-ledger reveal: the Node communicates exclusively through field-state relationships, while Aaron separates measurement from human translation. Amara's carried four-relation topology remains stable and does not resonate early. LS-06 remains due in Chapter 8, LS-03 in Chapter 9, LS-04 in Chapter 11, and LS-07 in Chapter 20.
 
 **Chapter 8 audit:** LS-06 planted and confirmed. Nine source-origin constraints already nested in Chapter 7's closing trace characterize a minimum Standard Nine/Consensus topology and a conditional human development path toward it without supplying a date, identity, inevitable outcome, or spoken prediction. Three constraints reference Aaron's current Coupling, Conduit, and operationally inactive hidden null; the future architecture can resolve that structure and choose whether to admit, preserve, distribute, or close it. This establishes the future reader as a choice-maker who controls the consequence of reading and frames the Chapter 21 design philosophy. LS-01, LS-02, and LS-05 remain confirmed; no prior-chapter clue remains unconfirmed. Amara's carried topology remains stable and does not resonate early. LS-03 remains due in Chapter 9, LS-04 in Chapter 11, and LS-07 in Chapter 20.
+
+**Chapter 9 audit:** LS-03 planted and confirmed. In a blinded paired session with no live source path, Amara's four carried relations undergo the same small zero-net-duration phase redistribution twice when a locally powered reconstruction presents the Node's partitioned continuities, Amara's absent Storage position, and Aaron's compatibility path. The topology gains no amplitude, fifth relation, active load, retained energy, identity correlation, damage, or demonstrated capability, and returns fully to baseline after closure. Aaron and Amara use the single repeat authorized before the finding, then preserve rather than factor or adapt the triggering structure. The event shows selective response without explaining mechanism or content and remains deliberately unresolved for the Refuge Node Trilogy. LS-01, LS-02, LS-05, and LS-06 remain confirmed; no prior-chapter clue remains unconfirmed. LS-04 remains due in Chapter 11 and LS-07 in Chapter 20.
