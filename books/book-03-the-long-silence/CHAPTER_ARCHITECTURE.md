@@ -1,7 +1,7 @@
 # CHAPTER ARCHITECTURE — THE LONG SILENCE (Book 3)
 
 **Target:** 24 chapters × ~4,800 words = ~115,200 words
-**Status:** DRAFT — architectural targets locked, prose pending
+**Status:** DRAFT COMPLETE — all 24 chapters drafted
 **Opens:** ~5 years after Book 2's close. Aaron Mercer, approaching 34.
 
 **Before writing Chapter 1:** confirm exact final state of Book 2's Chapter 24 (the deepened encoding, "the next specification," Rhys's condition, Kessler's status) — do not assume this outline's projections without checking the actual manuscript.
@@ -60,7 +60,7 @@
 | 21 | What a Standard Nine Will Need | 4,700 | Aaron works through what he actually believes a future Standard Nine practitioner will need to survive finding what he's hidden — not just information, but enough structure to make a different choice than his own, if a different choice is right. | DRAFT COMPLETE |
 | 22 | Formalized | 4,800 | Aaron's classification formalizes. The administrative process begun in Chapter 1 completes. "Aaron Mercer, public record" ends here, precisely, on schedule, without ceremony. | DRAFT COMPLETE |
 | 23 | Kade | 4,900 | Kade is born. The chapter is almost entirely human — hospital room, Elin, the specific unbearable smallness of a newborn — with the classified apparatus present only at the edges, the way it should be, for once, in this book. | DRAFT COMPLETE |
-| 24 | The Long Silence | 4,600 | Closing chapter. Aaron holding his son. The first unguarded moment in the trilogy since Book 1's opening — not a breakdown, a single crack in the calibration. He understands the Long Silence is no longer imposed on him; it is something he now chooses to keep, on purpose, for someone impossibly young who has no idea what has just been built for him. END BOOK 3. END CONTACT ZERO TRILOGY. | PENDING |
+| 24 | The Long Silence | 4,600 | Closing chapter. Aaron holding his son. The first unguarded moment in the trilogy since Book 1's opening — not a breakdown, a single crack in the calibration. He understands the Long Silence is no longer imposed on him; it is something he now chooses to keep, on purpose, for someone impossibly young who has no idea what has just been built for him. END BOOK 3. END CONTACT ZERO TRILOGY. | DRAFT COMPLETE |
 
 ---
 
