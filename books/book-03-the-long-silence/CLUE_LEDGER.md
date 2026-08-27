@@ -56,7 +56,7 @@ Each clue entry has:
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
 | LS-06 | Ch 8 | Nine source-origin constraints in the Ch7 closing trace define a conditionally reachable Standard Nine/Consensus topology and place Aaron's inactive Conduit null inside its future decision boundary; the reader can admit, preserve, distribute, or close what they find | Frames Ch21's design philosophy — Aaron builds for a choice-maker who controls the consequence of reading, not a message recipient | Ch 21 | PLANTED |
-| LS-07 | Ch 20 | The physical form of the final encoding is described only structurally — durability, not content | Preserves ambiguity about exactly what Kade finds, consistent with Asterion Trilogy owning that reveal | Asterion B1 | PENDING |
+| LS-07 | Ch 20 | The physical form of the final encoding is described only structurally — durability, not content | Preserves ambiguity about exactly what Kade finds, consistent with Asterion Trilogy owning that reveal | Asterion B1 | PLANTED |
 
 ---
 
@@ -69,7 +69,7 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 | Cover architecture fragility | 2 | 2 | Yes — LS-01 and LS-02 planted; payoff remains Ch 15 |
 | Amara's resonance | 1 (deliberately left open — cross-trilogy payoff) | 1 | Yes — LS-03 planted; full resolution remains in Refuge Node Trilogy |
 | Something, not everything (Elin) | 2 | 2 | Yes — LS-05 planted and reinforced in Ch 2/4; LS-04 planted in Ch 11 |
-| What a Standard Nine will need | 2 | 1 | No — LS-06 planted in Ch 8; LS-07 due Ch 20 |
+| What a Standard Nine will need | 2 | 2 | Yes — LS-06 planted in Ch 8 and LS-07 planted in Ch 20 |
 
 **Chapter 1 audit:** LS-01 planted and confirmed. Aaron accepts intake under Directorate-standard Trace Retirement Protocol 4.2 after using its outputs indirectly for years without personally reviewing the template in detail. He schedules full review and marks the external-record convergence assumptions for review, but twelve validated applications and the protocol's phased approval structure leave the underlying vulnerability unrecognized. No prior-chapter Book 3 clue remains unconfirmed. LS-02 remains scheduled for Chapter 5 before the Chapter 15 redesign payoff.
 
@@ -108,3 +108,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 **Chapter 18 audit:** No new mystery-ledger clue is scheduled or planted. LS-01, LS-02, LS-03, LS-04, LS-05, and LS-06 remain confirmed as PLANTED, and no prior-chapter clue remains unconfirmed. Soren's bounded derived-operation qualification and his observation that Aaron has become softer and more distracted fulfill the direct Chapter 18 architecture beat rather than opening a later mystery. Soren remains Standard Seven and learns no classified or pregnancy fact. LS-07 remains due in Chapter 20.
 
 **Chapter 19 audit:** No new mystery-ledger clue is scheduled or planted. LS-01, LS-02, LS-03, LS-04, LS-05, and LS-06 remain confirmed as PLANTED, and no prior-chapter clue remains unconfirmed. Aaron and Elin's late-pregnancy domestic life and the erasure protocol's entry into continuous readiness fulfill the direct Chapter 19 architecture beat rather than opening a new mystery. The deepened encoding and THE NEXT SPECIFICATION remain unchanged. LS-07 remains due in Chapter 20 and is not planted early.
+
+**Chapter 20 audit:** LS-07 planted and confirmed. Article Seven's physical form is shown only through structural and durability properties: an inert aluminosilicate monolith with nine disconnected internal Resonant-phase interface paths, no active state or sustaining energy, tested survival beyond a Conduit generation, identity-independent blinded provenance, and below-Nine failure boundaries. The chapter does not disclose the payload's specific content, its eventual permanent location, what Kade finds, or how a future Standard Nine practitioner interprets it. LS-06 remains confirmed and, with LS-07, supplies the two clues required before Chapter 21's design-philosophy payoff. LS-01 through LS-05 remain confirmed as PLANTED, and no prior-chapter clue remains unconfirmed.

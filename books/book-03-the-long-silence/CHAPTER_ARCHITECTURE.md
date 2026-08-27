@@ -56,7 +56,7 @@
 
 | Ch | Title | Target | Beat | Status |
 |---|---|---|---|---|
-| 20 | The Next Specification | 4,900 | Aaron completes the final, most complete version of the encoding — built with full knowledge of the Quieters and the Severance. He gives it physical form for the first time, durable enough to outlast the Conduit generation it began in. | PENDING |
+| 20 | The Next Specification | 4,900 | Aaron completes the final, most complete version of the encoding — built with full knowledge of the Quieters and the Severance. He gives it physical form for the first time, durable enough to outlast the Conduit generation it began in. | DRAFT COMPLETE |
 | 21 | What a Standard Nine Will Need | 4,700 | Aaron works through what he actually believes a future Standard Nine practitioner will need to survive finding what he's hidden — not just information, but enough structure to make a different choice than his own, if a different choice is right. | PENDING |
 | 22 | Formalized | 4,800 | Aaron's classification formalizes. The administrative process begun in Chapter 1 completes. "Aaron Mercer, public record" ends here, precisely, on schedule, without ceremony. | PENDING |
 | 23 | Kade | 4,900 | Kade is born. The chapter is almost entirely human — hospital room, Elin, the specific unbearable smallness of a newborn — with the classified apparatus present only at the edges, the way it should be, for once, in this book. | PENDING |
