@@ -42,7 +42,7 @@
 
 | Ch | Title | Target | Beat | Status |
 |---|---|---|---|---|
-| 14 | Elin, Pregnant | 4,600 | Elin tells Aaron she's pregnant. The scene is not primarily about the classified apparatus — it is two people finding out, with all the ordinary weight that carries, before Aaron's other life reasserts itself in the chapter's final beat. | PENDING |
+| 14 | Elin, Pregnant | 4,600 | Elin tells Aaron she's pregnant. The scene is not primarily about the classified apparatus — it is two people finding out, with all the ordinary weight that carries, before Aaron's other life reasserts itself in the chapter's final beat. | DRAFT COMPLETE |
 | 15 | The Architecture of Erasure | 4,900 | Aaron begins finalizing his own classification protocol — separating the version of himself history will remember from the version that continues the work. The most personal engineering of the trilogy: protecting a family from a truth that would make them targets or complicit. | PENDING |
 | 16 | Something, Not Everything | 4,700 | The central ethical crisis: how much does Aaron tell Elin. He decides on a version — genuine, incomplete, enough that she understands he's protecting something larger than himself. He tells her. | PENDING |
 | 17 | Her Choice | 4,600 | Elin's response — she accepts the incomplete disclosure on her own terms, deliberately, the way Amara once did in Book 2. Not naive. A real choice, made with an adult's understanding of what she isn't being told. | PENDING |
