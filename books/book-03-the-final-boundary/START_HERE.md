@@ -1,6 +1,6 @@
 # BOOK 3 — THE FINAL BOUNDARY — START HERE
 
-**Production status:** architecture locked; Chapters 1–2 are six-pass complete and audio-render ready; Chapters 3–6 are six-pass complete editorially with exact CLI/mechanical gates pending where recorded; Chapter 7 is the active prose frontier.
+**Production status:** architecture locked; Chapters 1–2 are six-pass complete and audio-render ready; Chapters 3–6 are six-pass complete editorially with exact CLI/mechanical gates pending where recorded; Chapters 7–9 are eight-pass complete editorially; Chapter 10 is the active prose frontier.
 
 ## Source of truth
 
@@ -19,6 +19,8 @@ Read in this order before drafting or revising:
 9. `CHAPTER_ARCHITECTURE.md`
 10. `PRODUCTION_PROTOCOL.md`
 11. `CHAPTER_ATTESTATIONS.md`
+12. `PASS_07_DEPTH_CH04_06.md`
+13. `EIGHT_PASS_ATTESTATION_CH07_09.md`
 
 ## Locked inherited state
 
@@ -31,7 +33,7 @@ Read in this order before drafting or revising:
 - Aaron and Kade are in an unresolved but continuing relationship.
 - Mara and Kade remain connected through disagreement.
 
-## Current Book 3 evidence after Chapter 6
+## Current Book 3 evidence after Chapter 9
 
 - The avoided-direction event creates a reproducible ~0.83-second unresolved interval specifically in recursive mutual-model relationships while local state remains intact.
 - The anomaly is not specific to Consensus, Resonants, or elite systems; Kisiwa's Prototype Four confidence layer shows the same relationship failure while local civic service survives.
@@ -46,25 +48,41 @@ Read in this order before drafting or revising:
 - Rival schools can demonstrate safe separability through different architectures; there is no single universal release method.
 - Kade shows measurable authority residue after release, preserving his Book 3 control-risk arc.
 - Refuge memory contains at least three incompatible operational definitions of consent: mutual model acceptance, continued participation after challenge, and capacity to separate without destruction.
+- The Silence Vote preserves passive observation and bounded temporary testing while denying a permanent predictive-defense exemption. The decision has real costs in withdrawn sensors, funding, liability posture, and infrastructure leverage.
+- Persistent topology matters more than formal authority alone: a non-commanding but permanent observer can draw stronger avoided-source response than rotating cells that actually dissolve.
+- The longest avoided-source packet so far presents a bounded classification-like contrast between clean separation and persistence after a separation condition; source identity and intent remain unproven.
+- A thousand-person Rich State simulation fails by turning recursive confidence and withdrawal into global variables even without external interference.
+- A five-field Minimum State architecture preserves useful coordination with lower global efficiency, faster withdrawal, lower relational depth, and no permanent observer.
+- Kade recognizes that centers are computationally tempting because hierarchy compresses complexity. The next global-layer design therefore begins with a cut architecture he cannot own.
 - No Quieter identity, full visibility mechanism, Severance history, or avoided-source intent has yet been revealed.
 
-## Drafting rule
+## Drafting rule — EIGHT PASSES FROM CHAPTER 7 FORWARD
 
-Architecture and ledgers precede prose. Every chapter must pass Structure, Density, Character/Clue/Continuity, Audio-first, Story Completeness, and BSBC, followed by the payoff-density gate and attestation.
+Every new chapter completes:
+
+1. Structure
+2. Density / dramatization
+3. Character / clue / continuity
+4. Audio-first
+5. Story completeness
+6. BSBC
+7. Depth — action, systems, worldbuilding, location, relationship-bearing interaction
+8. Final-reader polish — cadence, repetition, immersion/meta leakage, payoff compression, continuity, one-hearing clarity
+
+Then apply the payoff-density gate and attestation.
 
 Word targets remain compression diagnostics, never quotas. Do not trust a `PASS` label over the lived manuscript: if a promised event is summarized rather than experienced, deepen the scene before advancing.
 
 ## Mechanical cleanup queue
 
 - Chapter 3: exact CLI word count + mechanical family-clean lint pending.
-- Chapter 4: exact count/lint plus remove one tracked production-language self-correction near the Meridian aftermath.
-- Chapter 5: exact count/lint pending.
-- Chapter 6: exact count/lint plus remove one tracked `Before Book—` production-language fragment near the opening.
+- Chapters 4–6: known scaffold leaks removed and depth pass complete; exact CLI word count + mechanical family-clean lint still pending.
+- Chapters 7–9: eight-pass editorial review complete; exact CLI word count + mechanical family-clean lint still pending.
 
-Do not declare Chapters 3–6 fresh-audio ready until these recorded gates are completed.
+Do not declare Chapters 3–9 fresh-audio ready until the recorded mechanical gates are completed.
 
 ## Active frontier
 
-**Chapter 7 — The Silence Vote**
+**Chapter 10 — Maintenance Standard**
 
-Required job: the emergency coalition must debate dismantling the dark relay and suppressing high-coherence research. Kade should favor a temporary pause while Mara argues that retreat without measurement can erase the evidence needed to survive. The vote must have real consequences, preserve their relationship through unresolved disagreement, and advance V-02 without naming the Quieters before the planned reveal.
+Required job: Asterion maintenance crews, instructors, and students rebuild local fallback systems before the crisis scales further. Taren must accept witnessed oversight rather than emergency absolution. Ordinary campus operations should reveal how dependent the academy became on invisible central services. The chapter should make mundane maintenance feel like progression: resilience comes from systems that can keep working when elite coordination disappears.
