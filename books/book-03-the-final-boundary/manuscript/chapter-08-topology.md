@@ -871,7 +871,7 @@ The countdown continued.
 
 **00:027:19:12:51**
 
-Act I ended without anyone naming the thing in the wrong direction.
+They still could not name the thing in the wrong direction.
 
 Good.
 
