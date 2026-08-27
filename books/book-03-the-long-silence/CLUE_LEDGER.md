@@ -55,7 +55,7 @@ Each clue entry has:
 
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
-| LS-06 | Ch 8 | The Node communicates a structural fact, not a prophecy: a Standard Nine practitioner will exist, and what they do will matter more than what Aaron does | Frames Ch21's design philosophy — Aaron builds for a choice-maker, not a message recipient | Ch 21 | PENDING |
+| LS-06 | Ch 8 | Nine source-origin constraints in the Ch7 closing trace define a conditionally reachable Standard Nine/Consensus topology and place Aaron's inactive Conduit null inside its future decision boundary; the reader can admit, preserve, distribute, or close what they find | Frames Ch21's design philosophy — Aaron builds for a choice-maker who controls the consequence of reading, not a message recipient | Ch 21 | PLANTED |
 | LS-07 | Ch 20 | The physical form of the final encoding is described only structurally — durability, not content | Preserves ambiguity about exactly what Kade finds, consistent with Asterion Trilogy owning that reveal | Asterion B1 | PENDING |
 
 ---
@@ -69,7 +69,7 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 | Cover architecture fragility | 2 | 2 | Yes — LS-01 and LS-02 planted; payoff remains Ch 15 |
 | Amara's resonance | 1 (deliberately left open — cross-trilogy payoff) | 0 | No — clue due Ch 9 |
 | Something, not everything (Elin) | 2 | 1 | No — LS-05 planted and reinforced in Ch 2/4; LS-04 due Ch 11 |
-| What a Standard Nine will need | 2 | 0 | No — clues due Ch 8, Ch 20 |
+| What a Standard Nine will need | 2 | 1 | No — LS-06 planted in Ch 8; LS-07 due Ch 20 |
 
 **Chapter 1 audit:** LS-01 planted and confirmed. Aaron accepts intake under Directorate-standard Trace Retirement Protocol 4.2 after using its outputs indirectly for years without personally reviewing the template in detail. He schedules full review and marks the external-record convergence assumptions for review, but twelve validated applications and the protocol's phased approval structure leave the underlying vulnerability unrecognized. No prior-chapter Book 3 clue remains unconfirmed. LS-02 remains scheduled for Chapter 5 before the Chapter 15 redesign payoff.
 
@@ -84,3 +84,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 **Chapter 6 audit:** No new mystery clue is scheduled or planted. LS-01 and LS-02 remain confirmed and directly motivate Aaron's replacement design basis for the Chapter 15 payoff. LS-05 remains confirmed; Elin's ordinary observation that people conceal objects but forget relationships provides thematic continuity without giving her classified knowledge or advancing the Chapter 16 disclosure early. No prior-chapter clue remains unconfirmed. LS-06 remains due in Chapter 8, LS-03 in Chapter 9, LS-04 in Chapter 11, and LS-07 in Chapter 20.
 
 **Chapter 7 audit:** No new mystery clue is scheduled or planted. LS-01, LS-02, and LS-05 remain confirmed, and no prior-chapter clue remains unconfirmed. The fullest Severance/Quieters disclosure fulfills the direct Chapter 7 architecture beat rather than a clue-ledger reveal: the Node communicates exclusively through field-state relationships, while Aaron separates measurement from human translation. Amara's carried four-relation topology remains stable and does not resonate early. LS-06 remains due in Chapter 8, LS-03 in Chapter 9, LS-04 in Chapter 11, and LS-07 in Chapter 20.
+
+**Chapter 8 audit:** LS-06 planted and confirmed. Nine source-origin constraints already nested in Chapter 7's closing trace characterize a minimum Standard Nine/Consensus topology and a conditional human development path toward it without supplying a date, identity, inevitable outcome, or spoken prediction. Three constraints reference Aaron's current Coupling, Conduit, and operationally inactive hidden null; the future architecture can resolve that structure and choose whether to admit, preserve, distribute, or close it. This establishes the future reader as a choice-maker who controls the consequence of reading and frames the Chapter 21 design philosophy. LS-01, LS-02, and LS-05 remain confirmed; no prior-chapter clue remains unconfirmed. Amara's carried topology remains stable and does not resonate early. LS-03 remains due in Chapter 9, LS-04 in Chapter 11, and LS-07 in Chapter 20.
