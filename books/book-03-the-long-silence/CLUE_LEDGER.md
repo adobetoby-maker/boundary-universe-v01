@@ -44,7 +44,7 @@ Each clue entry has:
 
 | ID | Planted In | Surface text | Deep meaning | Payoff | Status |
 |---|---|---|---|---|---|
-| LS-04 | Ch 11 | Elin asks directly what Aaron's actual work is; he deflects competently and hates how competent it is | Establishes the deflection as a skill he's ashamed of, setting up why Ch16's disclosure — partial as it is — costs him something real | Ch 16 | PENDING |
+| LS-04 | Ch 11 | Elin asks directly what Aaron's actual work is; he deflects competently and hates how competent it is | Establishes the deflection as a skill he's ashamed of, setting up why Ch16's disclosure — partial as it is — costs him something real | Ch 16 | PLANTED |
 | LS-05 | Ch 2 (initial); Ch 4 (reinforced) | Elin's structural-engineering vocabulary (load-bearing, tolerance, failure points, controlled interfaces) unconsciously echoes Aaron's own coupling vocabulary | Plants the thematic rhyme that makes her eventual "something, not everything" acceptance feel earned rather than convenient | Ch 16–17 | PLANTED |
 
 ---
@@ -68,7 +68,7 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 |---|---|---|---|
 | Cover architecture fragility | 2 | 2 | Yes — LS-01 and LS-02 planted; payoff remains Ch 15 |
 | Amara's resonance | 1 (deliberately left open — cross-trilogy payoff) | 1 | Yes — LS-03 planted; full resolution remains in Refuge Node Trilogy |
-| Something, not everything (Elin) | 2 | 1 | No — LS-05 planted and reinforced in Ch 2/4; LS-04 due Ch 11 |
+| Something, not everything (Elin) | 2 | 2 | Yes — LS-05 planted and reinforced in Ch 2/4; LS-04 planted in Ch 11 |
 | What a Standard Nine will need | 2 | 1 | No — LS-06 planted in Ch 8; LS-07 due Ch 20 |
 
 **Chapter 1 audit:** LS-01 planted and confirmed. Aaron accepts intake under Directorate-standard Trace Retirement Protocol 4.2 after using its outputs indirectly for years without personally reviewing the template in detail. He schedules full review and marks the external-record convergence assumptions for review, but twelve validated applications and the protocol's phased approval structure leave the underlying vulnerability unrecognized. No prior-chapter Book 3 clue remains unconfirmed. LS-02 remains scheduled for Chapter 5 before the Chapter 15 redesign payoff.
@@ -90,3 +90,5 @@ Per CANON_RULES.md, each reveal must have ≥2 prior clues before the chapter it
 **Chapter 9 audit:** LS-03 planted and confirmed. In a blinded paired session with no live source path, Amara's four carried relations undergo the same small zero-net-duration phase redistribution twice when a locally powered reconstruction presents the Node's partitioned continuities, Amara's absent Storage position, and Aaron's compatibility path. The topology gains no amplitude, fifth relation, active load, retained energy, identity correlation, damage, or demonstrated capability, and returns fully to baseline after closure. Aaron and Amara use the single repeat authorized before the finding, then preserve rather than factor or adapt the triggering structure. The event shows selective response without explaining mechanism or content and remains deliberately unresolved for the Refuge Node Trilogy. LS-01, LS-02, LS-05, and LS-06 remain confirmed; no prior-chapter clue remains unconfirmed. LS-04 remains due in Chapter 11 and LS-07 in Chapter 20.
 
 **Chapter 10 audit:** No new mystery-ledger clue is scheduled or planted. LS-01, LS-02, LS-03, LS-05, and LS-06 remain confirmed as PLANTED, and no prior-chapter clue remains unconfirmed. Rhys's complete explanation of the original suppression choice closes the character and institutional arc begun in Book 1 Chapter 14 rather than opening a later mystery: he confirms the prior monitoring chronology, the observation-window choice, the species-scale reversibility asymmetry, and the controlled-development bargain, while declining to convert regret into apology. LS-04 remains due in Chapter 11 and LS-07 in Chapter 20.
+
+**Chapter 11 audit:** LS-04 planted and confirmed. Elin asks what Aaron actually does from ordinary curiosity, not suspicion. Aaron gives a technically true, institutionally rehearsed account of protected field-monitoring compatibility work whose omissions create a coherent false center. Elin identifies the prepared institution inside his answer and asks whether he wants to tell her; Aaron admits that he does and that he does not want her forced to carry what he protects. This leaves her entirely outside the classified program while establishing the personal cost and ethical defect that Chapter 16's genuine partial disclosure must address. LS-01, LS-02, LS-03, LS-05, and LS-06 remain confirmed as PLANTED, and no prior-chapter clue remains unconfirmed. LS-07 remains due in Chapter 20.
