@@ -47,7 +47,7 @@
 | 16 | Something, Not Everything | 4,700 | The central ethical crisis: how much does Aaron tell Elin. He decides on a version — genuine, incomplete, enough that she understands he's protecting something larger than himself. He tells her. | DRAFT COMPLETE |
 | 17 | Her Choice | 4,600 | Elin's response — she accepts the incomplete disclosure on her own terms, deliberately, the way Amara once did in Book 2. Not naive. A real choice, made with an adult's understanding of what she isn't being told. | DRAFT COMPLETE |
 | 18 | What Soren Sees | 4,400 | Minor Soren chapter — now a stable, trusted colleague, he notices something has shifted in Aaron (softer, more distracted, unmistakably different) without knowing why. A small human moment inside the institutional machine. | DRAFT COMPLETE |
-| 19 | The Last Ordinary Season | 4,700 | Aaron and Elin in the last stretch before the birth — genuinely happy, genuinely ordinary, shadowed only by what the reader knows is coming (the erasure protocol's completion, timed to land near the birth). END ACT II-B. | PENDING |
+| 19 | The Last Ordinary Season | 4,700 | Aaron and Elin in the last stretch before the birth — genuinely happy, genuinely ordinary, shadowed only by what the reader knows is coming (the erasure protocol's completion, timed to land near the birth). END ACT II-B. | DRAFT COMPLETE |
 
 ---
 
