@@ -24,7 +24,7 @@ She looked at his wrist band.
 
 At least she was honest.
 
-By six forty-five, he had been scanned, weighed, measured, photographed, tested for color perception, lung capacity, reflex response, joint stability, hearing range, balance, sleep debt, reaction latency, blood chemistry, Conduit compatibility markers, and several things Kade suspected existed solely to justify expensive equipment.
+By six forty-five, they had measured nearly everything medical, sensory, or mechanical about him: blood chemistry, breathing, hearing, balance, reflexes, joint stability, sleep debt, reaction time, and Conduit compatibility. Several remaining tests seemed designed solely to justify expensive equipment.
 
 He received a protein bar after the third machine.
 
@@ -170,23 +170,7 @@ Just pressure.
 
 “Nothing.”
 
-The tests repeated.
-
-Gravity differential.
-
-Electromagnetic gradient.
-
-Kinetic storage field.
-
-Thermal transfer.
-
-Localized structural cohesion.
-
-Each time, Park asked the same kind of question.
-
-Each time Kade gave the same answer.
-
-Nothing.
+The equipment cycled through gravity, electromagnetic force, kinetic storage, heat transfer, and structural cohesion. Each time Park asked the same kind of question, and each time Kade gave the same answer: nothing.
 
 At first the technicians watched every screen.
 
@@ -358,25 +342,9 @@ A waist-high table rose in front of Kade. On it sat a one-kilogram steel puck.
 
 Park waited.
 
-Kade stared at the puck.
+Kade stared at the puck. It continued being a puck.
 
-The puck continued being a puck.
-
-He concentrated.
-
-Nothing.
-
-He imagined pushing it.
-
-Nothing.
-
-He pictured it sliding.
-
-Nothing.
-
-He thought of acceleration, friction, weight, every physical thing that should matter.
-
-Nothing.
+He concentrated, imagined pushing it, pictured it sliding, and ran through acceleration, friction, weight—every physical thing that should matter. Nothing changed.
 
 He thought about the examination.
 
@@ -404,21 +372,7 @@ Park said, “Environmental artifact.”
 
 “Of course it was.”
 
-They reset.
-
-Nothing.
-
-They changed the object.
-
-Nothing.
-
-They gave him a training bead designed to respond to first-time Resonants.
-
-Nothing.
-
-They gave him a suspended ribbon sensitive to microscopic field interaction.
-
-Nothing.
+They reset and changed the object. A training bead designed for first-time Resonants stayed still. A suspended ribbon sensitive to microscopic field interaction stayed still too.
 
 By nine thirty, Kade’s official output remained zero.
 
@@ -758,15 +712,7 @@ Park’s voice came over the speaker.
 
 “Shocking.”
 
-His reaction metrics climbed.
-
-Seventy-third percentile.
-
-Eighty-first.
-
-Ninety-sixth in adaptive route selection.
-
-The technicians became interested again.
+His reaction metrics climbed from the seventy-third percentile to the eighty-first, then reached the ninety-sixth in adaptive route selection. The technicians became interested again.
 
 Kade hated that he liked it.
 

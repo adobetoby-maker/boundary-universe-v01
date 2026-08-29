@@ -134,9 +134,7 @@ Too large to understand scale from the image.
 
 Nobody moved.
 
-Official history said Resonance emerged from experimental physics thirty-one years ago. A cascade of breakthroughs. New sensors. New neural interfaces. A rare compatibility between human cognition and previously undetected field behavior.
-
-Kade had read versions of that story in school.
+Official history said Resonance emerged from experimental physics thirty-one years ago through a cascade of breakthroughs: new sensors, new neural interfaces, and a rare compatibility between human cognition and previously undetected field behavior. Kade had read versions of that story in school.
 
 Sen looked at the object.
 
@@ -166,9 +164,15 @@ Instead came a strange inevitability.
 
 Thirty-one years of miracles had apparently required an origin nobody wanted to discuss.
 
-Sen continued.
+Sen pointed to the damaged object.
 
-“A deep-space survey detected a patterned emission. Artificial. Repeating, but unstable. The object producing it was damaged. We did not understand its language, if it had one. We did understand that its field emissions interacted with human neural activity in ways no known physical model predicted.”
+“Plain version first. Imagine finding a broken instrument beyond Neptune. We could not read its music, but some human nervous systems responded to its field the way glassware answers the right note.”
+
+Mara frowned. “Not literally vibrating.”
+
+“No. But the relationship existed before we had a theory or a name for it.”
+
+Sen returned to the record. “A deep-space survey detected a patterned emission—artificial, repeating, but unstable. The object producing it was damaged. We did not understand its language, if it had one. We did understand that its field emissions interacted with human neural activity in ways no known physical model predicted.”
 
 “Resonance,” Mara said.
 
@@ -310,9 +314,9 @@ Aaron.
 
 Sen looked at him.
 
-“Attempts to understand why some compatible subjects could stabilize one another’s field interactions.”
+“Imagine two people carrying the same tray. Every correction by one person changes the weight the other person feels. Some pairings made the tray steadier. Others shook it apart. We were trying to learn why.”
 
-“Multi-user Resonance?”
+“Multi-user Resonance?” Eli asked.
 
 “Crude versions.”
 
@@ -354,11 +358,7 @@ Sen enlarged the Twelve diagram.
 
 Each subject had a different telemetry trace.
 
-Some bright.
-
-Some faint.
-
-Aaron’s looked wrong compared with the others—not larger, but crossing between categories instead of staying inside one.
+Some traces were bright and others faint. Aaron’s looked wrong compared with all of them—not larger, but crossing between categories instead of staying inside one.
 
 “What does his trace mean?” Kade asked.
 
@@ -396,11 +396,7 @@ Kade leaned forward involuntarily.
 
 Aaron moved.
 
-Not a photograph.
-
-Not a frozen face.
-
-His father shifted his weight, said something to a person beside him, and laughed.
+This was not a photograph or a frozen face. His father shifted his weight, said something to a person beside him, and laughed.
 
 No audio survived.
 
@@ -472,15 +468,9 @@ Mara asked, “Why rankings?”
 
 Sen looked at her.
 
-“Competition produces high-quality observation under stress.”
+“Competition produces high-quality observation under stress. A calm drill shows what a student knows. A broken plan shows what survives when knowledge, pride, and fear collide.”
 
-Something settled unpleasantly into place.
-
-Every fight recorded.
-
-Every decision scored.
-
-Every personality exposed under pressure.
+Something settled unpleasantly into place: every fight recorded, every decision scored, every personality exposed under pressure.
 
 “So I was right,” he said.
 
@@ -534,7 +524,7 @@ That was interesting.
 
 Sen looked at the Twelve.
 
-“How people adapt. Whether they can coordinate. Whether they remain themselves under pressure. Whether power makes them more or less capable of sharing control.”
+“What they do when a plan breaks, a teammate disagrees, or the strongest operator disappears. Whether they adapt, coordinate, and remain themselves under pressure. Whether power makes them more or less capable of sharing control.”
 
 The words landed before he understood their destination.
 
@@ -728,9 +718,9 @@ Mara pointed at the ring.
 
 “Then coherence did not mean sameness.”
 
-Sen’s hand dropped from the control.
+Kade looked at the ring of unequal traces. “Same tray. Different hands.”
 
-“No. We learned that afterward.”
+Sen’s hand dropped from the control. “Yes. We learned that afterward.”
 
 Mara looked at Kade.
 
