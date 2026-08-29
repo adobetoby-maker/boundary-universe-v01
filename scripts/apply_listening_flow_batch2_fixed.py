@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Run Batch 2 with the verified Cross Examination replacements only."""
 
-from scripts.apply_listening_flow_batch2 import REPLACEMENTS, ROOT, apply
+from apply_listening_flow_batch2 import REPLACEMENTS, ROOT, apply
 
 CH13 = "books/book-01-the-ninth-standard/manuscript/chapter-13-cross-examination.md"
 
