@@ -1,0 +1,47 @@
+name: Export Listening Review Source
+
+on:
+  push:
+    branches:
+      - revision/listening-flow-book1
+    paths:
+      - '.github/workflows/export-listening-review-source.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out revised Book 1
+        uses: actions/checkout@v4
+        with:
+          ref: revision/listening-flow-book1
+          path: book1
+          fetch-depth: 1
+
+      - name: Check out Contact Zero benchmark
+        uses: actions/checkout@v4
+        with:
+          ref: revision/pass8-reader-review-contact-zero
+          path: contact-zero
+          fetch-depth: 1
+
+      - name: Assemble review source
+        shell: bash
+        run: |
+          mkdir -p export/book1 export/contact-zero
+          cp -R book1/books/book-01-the-ninth-standard/manuscript export/book1/
+          cp book1/books/book-01-the-ninth-standard/PASS_09_LISTENING_FLOW.md export/book1/
+          cp -R contact-zero/books/book-01-contact-zero/manuscript export/contact-zero/
+          find export -type f -print0 | sort -z | xargs -0 sha256sum > export/SHA256SUMS.txt
+
+      - name: Upload review source
+        uses: actions/upload-artifact@v4
+        with:
+          name: listening-review-source
+          path: export/
+          if-no-files-found: error
+          retention-days: 30
