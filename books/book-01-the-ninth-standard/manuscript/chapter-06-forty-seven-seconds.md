@@ -1216,7 +1216,7 @@ Kade looked at the paused image: Priya’s hand on his chest, his body at the bo
 
 “Meaning?” Mara asked.
 
-“Pike—Priya. Me. The floor and wall.”
+“Priya. Me. The floor and wall.”
 
 “That is ordinary force transfer.”
 

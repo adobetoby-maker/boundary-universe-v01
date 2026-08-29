@@ -2,17 +2,7 @@
 
 The first thing Kade learned about climbing Asterion’s rankings was that everyone lied about why they cared.
 
-They said it was about placement.
-
-Scholarship weighting.
-
-House points.
-
-Professional scouting.
-
-Training access.
-
-All true.
+They said it was about placement, scholarship weighting, House points, professional scouting, and training access. All of that was true.
 
 But by the time Kade had watched fourteen challenge recordings before breakfast, he understood the deeper reason.
 
@@ -22,7 +12,7 @@ Kade understood that perfectly.
 
 Asterion’s first-year ladder looked simple until someone tried to move on it.
 
-Students could normally challenge within a fixed band above or below their current rank. Winning did not simply exchange two numbers. The system recalculated performance based on opponent rating, margin, safety compliance, field efficiency, recent results, and something the academy called *competitive confidence*, which Kade suspected had been invented by mathematicians who disliked happiness.
+Students could normally challenge within a fixed band above or below their current rank. Winning did not simply exchange two numbers. The system considered opponent rating, margin, safety compliance, field efficiency, and recent results. It also measured something called *competitive confidence*, which Kade suspected had been invented by mathematicians who disliked happiness.
 
 Open challenges existed, but they were rare. House events used different weighting. Tournament results could cause larger recalculations.
 
@@ -66,27 +56,9 @@ The first opponent was Rank 10,311, a broad-shouldered student named Mason Cole 
 
 They did.
 
-Mason beat Kade in seventy-eight seconds.
+Mason beat Kade in seventy-eight seconds. The second opponent needed fifty-two, and the third needed ninety-one.
 
-The second opponent beat him in fifty-two.
-
-The third took ninety-one.
-
-Kade left the hall furious.
-
-Not because he lost.
-
-Because every loss became obvious one beat too late.
-
-His stance was too high.
-
-His feet crossed when he retreated.
-
-He watched shoulders and ignored hips.
-
-He chased hands instead of center mass.
-
-He planted his rear foot before he knew which direction he needed to leave.
+Kade left the hall furious—not simply because he had lost, but because each mistake became obvious one beat too late. His stance was too high. His feet crossed when he retreated. He watched shoulders and ignored hips, chased hands instead of center mass, and planted his rear foot before he knew which direction he needed to leave.
 
 Worst of all, none of those mistakes required classified physics to fix.
 
@@ -126,23 +98,7 @@ She took another potato.
 
 So he did.
 
-For four days, Kade did almost nothing interesting.
-
-Stance drills.
-
-Balance drills.
-
-Falls.
-
-Recoveries.
-
-Foot placement.
-
-Breathing.
-
-Grip breaks.
-
-Hip escapes.
+For four days, Kade did almost nothing interesting: stance and balance drills, falls and recoveries, foot placement, breathing, grip breaks, and hip escapes.
 
 He ran stairs without field assistance until his lungs felt too small. He spent an hour learning how to fall correctly and discovered he had been doing that wrong too. Hale made him repeat a three-step lateral movement so many times that Kade began to suspect the instructor had confused training with revenge.
 
@@ -260,19 +216,9 @@ Kade stared.
 
 “Memory is unreliable.”
 
-On the fifth day, Kade beat Rank 10,205 in an unranked simulation.
+On the fifth day, Kade beat Rank 10,205 in an unranked simulation. It was not elegant. He absorbed two clean impacts, missed a sweep, recovered badly, and won because he recognized that his opponent always shifted weight before accelerating.
 
-Not elegantly.
-
-He absorbed two clean impacts, missed a sweep, recovered badly, and won because he recognized that his opponent always shifted weight before accelerating.
-
-No cold line behind his eyes.
-
-No impossible transfer.
-
-No missing telemetry.
-
-Just timing.
+There was no cold line, impossible transfer, or missing telemetry. Just timing.
 
 The lack of mystery felt unexpectedly good.
 
@@ -280,15 +226,7 @@ Hale reviewed the footage.
 
 “Again.”
 
-Kade won the next one.
-
-Lost the third.
-
-Won two more.
-
-No symptoms.
-
-No anomalies.
+Kade won the next simulation, lost the third, and won two more. No symptoms appeared, and no anomalies followed.
 
 His challenge clearance returned the next morning with a yellow warning banner.
 
@@ -306,19 +244,7 @@ Eli nearly celebrated harder than Kade did.
 
 “Of course.”
 
-Eli’s first version of the model had six columns.
-
-Opponent rank.
-
-Dominant side.
-
-Average opening distance.
-
-First-step direction.
-
-Most common finish.
-
-And one called **KADE DID SOMETHING DUMB**.
+Eli’s first five columns tracked opponent rank, dominant side, average opening distance, first-step direction, and most common finish. The sixth was called **KADE DID SOMETHING DUMB**.
 
 Kade stared at it.
 
@@ -332,9 +258,7 @@ Kade stared at it.
 
 “Then this is easier.”
 
-The model was crude.
-
-Useful anyway.
+The model was crude, but useful.
 
 ---
 
@@ -350,13 +274,7 @@ The student’s name was Mae Larson, a compact fighter who knew exactly what Kad
 
 She attacked his right side for the first thirty seconds because his early simulations showed a delayed pivot there.
 
-Kade lost the first exchange.
-
-Adjusted.
-
-Lost the second by less.
-
-On the third, he stopped trying to catch her and started denying the route she preferred.
+Kade lost the first exchange, adjusted, and lost the second by less. On the third, he stopped trying to catch Mae and started denying the route she preferred.
 
 Mae stepped where she expected space.
 
@@ -370,13 +288,7 @@ The ranking board updated before he left the arena.
 
 He stared at it longer than he wanted anyone to notice.
 
-It was only eighty-one places.
-
-It felt enormous.
-
-Not because the number mattered.
-
-Because he knew exactly how he had earned it.
+It was only eighty-one places, but it felt enormous—not because the number itself mattered, but because he knew exactly how he had earned it.
 
 Mae came up beside him while he was still looking.
 
@@ -422,13 +334,7 @@ That night, Eli added three columns.
 
 The next challenge was Rank 10,177, Oren Mills, a Storage prospect with enough lower-body field control to make simple grappling unpleasant.
 
-Oren did not rush.
-
-He waited.
-
-Kade hated waiting opponents.
-
-They denied him obvious information.
+Oren did not rush. He waited, and Kade hated waiting opponents because they denied him obvious information.
 
 The arena was nearly empty compared with the Larson bout. Two other challenges ran behind transparent dividers, and most of Meridian was in class. Eli sat alone in the observation row with his spreadsheet open and the solemn expression of someone about to learn whether a theory survived contact with another person’s elbows.
 
@@ -452,13 +358,7 @@ Oren gave him exactly the distance he wanted.
 
 Kade entered.
 
-The floor seemed to grab Oren’s stance.
-
-Storage.
-
-Not holding Kade.
-
-Holding the movement Oren had refused to spend.
+The floor seemed to grab Oren’s stance. Storage was not holding Kade; it was holding the movement Oren had refused to spend.
 
 Oren released it all at once.
 
@@ -472,47 +372,17 @@ Eli made a small chopping gesture from the seats.
 
 Kade ignored him.
 
-Second exchange.
+The second exchange began with the same patience and the same offered distance. This time Kade started in, then stopped before Oren could load the response.
 
-Same patience.
+Oren’s expression changed by a tiny, annoyed fraction.
 
-Same offered distance.
+There. Kade had been watching bodies when he needed to watch *timing*.
 
-This time Kade started in, then stopped before Oren could load the response.
+In the third exchange, Kade stepped forward twice without committing. Oren stored both reactions, and the field trace around his feet brightened.
 
-Oren’s expression changed.
+Kade retreated. Oren followed for the first time. That was what Kade wanted.
 
-Tiny.
-
-Annoyed.
-
-There.
-
-Kade had been watching bodies.
-
-He needed to watch *timing*.
-
-Third exchange.
-
-Kade stepped forward twice without committing.
-
-Oren stored both reactions.
-
-The field trace around his feet brightened.
-
-Kade retreated.
-
-Oren followed for the first time.
-
-That was what Kade wanted.
-
-He changed rhythm abruptly.
-
-Fast entry.
-
-Oren released early.
-
-Kade was not where the release expected him to be.
+He changed rhythm and entered fast. Oren released early, but Kade was no longer where the stored movement expected him to be.
 
 He cut to the outside and tapped Oren’s shoulder before the stored movement could rebuild.
 
@@ -540,33 +410,15 @@ Stop trying to catch the opponent.
 
 Deny the route they preferred.
 
-Oren needed space to collect before he could release.
+Oren needed space to collect before he could release, so Kade stopped giving it to him. He did not charge. He simply stood where Oren wanted to reset.
 
-Kade stopped giving it to him.
-
-Not by charging.
-
-By standing where Oren wanted to reset.
-
-For the first time, Oren had to move around Kade instead of arranging Kade around himself.
-
-His feet crossed.
-
-One step.
-
-Small mistake.
-
-Enough.
+For the first time, Oren had to move around Kade instead of arranging Kade around himself. His feet crossed for one small step. It was enough.
 
 Kade took the boundary point.
 
 The buzzer sounded.
 
-Kade won.
-
-Not because Oren’s ability had failed.
-
-Because something he had learned against Mae had survived into a different problem.
+Kade won, not because Oren’s ability had failed, but because something he had learned against Mae had survived into a different problem.
 
 That felt better than the ranking update.
 
@@ -868,13 +720,7 @@ Kade’s next mistake was believing improvement meant he had become good at choo
 
 A first-year named Mira Chen posted at 9,721.
 
-Fast.
-
-Technically clean.
-
-Coming off a loss.
-
-Kade had already trained twice that day.
+She was fast, technically clean, and coming off a loss. Kade had already trained twice that day.
 
 Hale told him to wait.
 
@@ -970,9 +816,7 @@ A grin appeared.
 
 9,604 came two days later.
 
-The wins did not arrive in a montage when Kade actually lived them.
-
-Between them were sore mornings, ordinary classes, laundry, a failed mechanics quiz because he had used the right reasoning with notation the professor refused to accept, two dinners where he was too tired to talk, and one spectacularly bad challenge that ended with Kade face-down at the boundary while Eli shouted useful advice approximately three seconds too late.
+The wins did not arrive as a montage while Kade was living them. They came between sore mornings, ordinary classes, and laundry. He failed a mechanics quiz after using the right reasoning with notation the professor refused to accept. He sat through two dinners too tired to talk, then ended one spectacularly bad challenge face-down at the boundary while Eli shouted useful advice approximately three seconds too late.
 
 The laundry incident was worse.
 
