@@ -6,9 +6,7 @@ Asterion would replay the final six for weeks.
 
 He spent the first forty-one discovering how thoroughly a trained Resonant could rearrange his understanding of pain.
 
-The day began two hours earlier with Eli trying to explain how not to get hit.
-
-This would have been more useful if Eli were good at not getting hit.
+The day began two hours earlier with Eli trying to explain how not to get hit, which would have been more useful if Eli were good at not getting hit.
 
 They stood in Meridian’s lower training room before breakfast. Eli held a tablet in one hand and a piece of toast in the other. Kade wore borrowed training shoes because his own had failed an equipment check for insufficient lateral support.
 
@@ -40,21 +38,11 @@ Sera set the cup on the floor and moved Kade’s rear foot six inches outward wi
 
 “You had optimism.”
 
-Kade shifted his weight.
+Kade shifted his weight. The stance felt less comfortable and more stable, which he hated.
 
-The position felt less comfortable.
+Mara arrived five minutes later, already dressed for her own morning session. She watched Kade move through a basic defensive pattern twice before speaking.
 
-Also more stable.
-
-He hated that.
-
-Mara arrived five minutes later, already dressed for her own morning session.
-
-She watched Kade move through a basic defensive pattern once.
-
-Then twice.
-
-“Your shoulders tell the truth before your feet do,” she said.
+“Your shoulders tell the truth before your feet do.”
 
 Kade stopped.
 
@@ -68,7 +56,7 @@ Kade stopped.
 
 Sera collected four flat marker discs from the equipment rack and dropped them around Kade in a crooked square.
 
-“New rule,” she said. “Mara touches your shoulder, you leave through an open side.”
+“New rule. Mara touches your shoulder, you leave through an open side.”
 
 Kade examined the markers.
 
@@ -80,9 +68,9 @@ Kade examined the markers.
 
 “It is a fight.”
 
-Mara took a padded contact baton from the wall. She tested its flexibility against one palm, then stood two meters in front of him.
+Mara took a padded contact baton from the wall, tested its flexibility against one palm, and stood two meters in front of him.
 
-“No field,” she said. “No hard contact. I touch your shoulder, you reset.”
+“No field. No hard contact. I touch your shoulder, you reset.”
 
 Eli propped his tablet against a water bottle and opened a timer.
 
@@ -92,19 +80,13 @@ Sera moved his toast away from the tablet.
 
 “You will provide breakfast contamination.”
 
-Mara came forward.
-
-Kade retreated.
-
-The baton touched his right shoulder before his second step landed.
+Mara came forward. Kade retreated, and the baton touched his right shoulder before his second step landed.
 
 “One point for the terrifying piece of foam,” Eli said.
 
 They reset.
 
-Mara approached from the same angle. Kade fixed on the baton this time. It shifted left. He went right.
-
-Her empty hand closed the space he had chosen. The baton tapped his ribs.
+Mara approached from the same angle. Kade fixed on the baton as it shifted left, then moved right. Her empty hand closed the space he had chosen, and the baton tapped his ribs.
 
 “Two.”
 
@@ -118,9 +100,7 @@ Kade looked at the open marker behind Mara.
 
 “You are allowed to move too.”
 
-On the third attempt, Kade waited.
-
-So did Mara.
+On the third attempt, Kade waited. So did Mara.
 
 Five seconds passed.
 
@@ -128,9 +108,7 @@ Eli checked the timer as though it might offer policy guidance.
 
 “At some point this becomes a very tense meeting.”
 
-Mara flicked the baton at Kade’s left shoulder.
-
-He flinched backward before the foam crossed half the distance. She changed direction and touched his right.
+Mara flicked the baton at Kade’s left shoulder. He flinched backward before the foam crossed half the distance, so she changed direction and touched his right.
 
 “Your shoulders,” she said.
 
@@ -146,39 +124,27 @@ He dragged the replay backward.
 
 “I react before she moves?”
 
-“You prepare to be hit before she chooses where.” Sera stepped into the square. “That means she gets both choices.”
+“You prepare to be hit before she chooses where.” Sera stepped into the square. “That gives her both choices.”
 
-Kade rolled his shoulders until the tension released.
-
-Mara returned to her mark.
+Kade rolled his shoulders until the tension released. Mara returned to her mark.
 
 “Again.”
 
-The next touch landed on his chest.
-
-Then his arm.
-
-Then his ribs because he crossed his feet and nearly removed himself from the exercise without Mara’s help.
+The next touches landed on his chest, his arm, and then his ribs because he crossed his feet and nearly removed himself from the exercise without Mara’s help.
 
 Each reset made the square smaller. Sera moved one disc inward whenever Kade backed through it without choosing. Eli called the time between Mara’s first commitment and Kade’s first useful step. None of the numbers were flattering.
 
 On the ninth attempt, Mara’s weight shifted onto her front foot.
 
-Kade’s shoulders started upward.
+Kade’s shoulders started upward. He forced them down.
 
-He forced them down.
-
-The baton came toward his left side. Mara’s right hip blocked the gap beside it. The marker behind him offered distance and no angle. The space beyond her empty hand looked open.
+The baton came toward his left side while Mara’s right hip blocked the gap beside it. The marker behind him offered distance but no angle. The space beyond her empty hand looked open.
 
 Too obvious.
 
-He stepped toward the baton instead.
+He stepped toward the baton instead. The foam brushed his sleeve as he turned through the contact and left the square past Mara’s loaded foot.
 
-The foam brushed his sleeve. Kade turned through the contact and left the square past Mara’s loaded foot.
-
-Eli stopped the timer.
-
-Sera left the last marker where it was.
+Eli stopped the timer. Sera left the final marker where it was.
 
 Mara looked over her shoulder.
 
@@ -190,15 +156,7 @@ Kade’s breathing had accelerated as though the forty-second drill had been a s
 
 “Do it twice.”
 
-He failed the next three attempts.
-
-On the fourth, he made it through a different side.
-
-Not fast.
-
-Not clean.
-
-But before Mara chose for him.
+He failed the next three attempts. On the fourth, he made it through a different side. It was neither fast nor clean, but he moved before Mara chose for him.
 
 Eli held out the surviving half of his toast.
 
@@ -210,13 +168,11 @@ Kade looked at the bite missing from it.
 
 “Your commitment to improvement is inconsistent.”
 
-Sera gathered the markers. Mara returned the baton to the wall.
-
-The square vanished, leaving only four pale circles in the floor coating and the unpleasant discovery that Kade could become measurably less bad at something before breakfast.
+Sera gathered the markers while Mara returned the baton to the wall. The square vanished, leaving four pale circles in the floor coating and the unpleasant discovery that Kade could become measurably less bad at something before breakfast.
 
 Eli held up the tablet.
 
-“Priya Shah. Rank six two-oh-four. Standard One confirmed. Primary strength: acceleration control and balance disruption.”
+“Priya Shah. Rank six two-oh-four. Standard One confirmed. Her main strengths are acceleration control and balance disruption.”
 
 Kade looked at Mara.
 
@@ -234,31 +190,17 @@ Kade looked at Mara.
 
 Kade sighed.
 
-A month ago, waking before seven to practice being hit by strangers would have qualified as evidence that his life had deteriorated.
-
-Now he was annoyed that he only had forty minutes.
+A month ago, waking before seven to practice being hit by strangers would have qualified as evidence that his life had deteriorated. Now he was annoyed that he only had forty minutes.
 
 That realization bothered him more than the assessment.
 
 At breakfast, House Meridian behaved as though Kade’s upcoming match were community property.
 
-Anton Bell had watched Priya’s last three bouts.
+Anton Bell had watched Priya’s last three bouts. Nessa Kim thought Kade should stay mobile. Sera thought Kade should stop listening to Anton and Nessa. Eli had built a probability model he refused to show anyone because its first result gave Kade a four percent chance of winning, which he called “emotionally irresponsible sampling.”
 
-Nessa Kim thought Kade should stay mobile.
+Priya herself arrived halfway through breakfast and set down a tray three seats away.
 
-Sera thought Kade should stop listening to Anton and Nessa.
-
-Eli had built a probability model he refused to show anyone because its first result gave Kade a four percent chance of winning and he claimed the sample was “emotionally irresponsible.”
-
-Priya herself arrived halfway through breakfast.
-
-She set down a tray three seats away.
-
-Kade looked at her.
-
-She looked at him.
-
-Eli immediately became fascinated by his oatmeal.
+Kade looked at her. She looked at him. Eli immediately became fascinated by his oatmeal.
 
 Priya smiled.
 
@@ -286,13 +228,13 @@ Sera nodded.
 
 “Why?”
 
-“Because if she were awful you could get angry instead of learning.”
+“Because if she were awful, you could get angry instead of learning.”
 
 Kade hated Meridian before eight in the morning.
 
 At eight forty, the assessment wing separated Kade from them.
 
-Students entered through the east corridor. Housemates and observers continued up a ramp to the seating tier. Competitors went through an equipment bay with gray lockers, a medical station, and a yellow line on the floor that led toward the arena doors.
+Students entered through the east corridor. Housemates and observers continued up a ramp to the seating tier. Competitors followed a yellow line through an equipment bay with gray lockers and a medical station, then toward the arena doors.
 
 Eli stopped at the ramp.
 
@@ -304,7 +246,7 @@ Eli stopped at the ramp.
 
 Sera caught Eli by the back of his shirt before he could follow Kade across the yellow line.
 
-Mara did not offer a final instruction. She touched two fingers to her own right shoulder.
+Mara offered no final instruction. She touched two fingers to her own right shoulder.
 
 Kade lowered his.
 
@@ -330,7 +272,7 @@ Okafor waited with one hand above the medical screen.
 
 “No,” he said.
 
-She entered the answer and turned the screen toward him. The form showed his field-output cap as a flat gray line.
+She entered the answer and turned the screen toward him. His field-output cap appeared as a flat gray line.
 
 **MEASURED SAFE MAXIMUM: UNRESOLVED**
 
@@ -338,7 +280,7 @@ She entered the answer and turned the screen toward him. The form showed his fie
 
 **CONVENTIONAL CONTACT PROTOCOL: NOVICE**
 
-“You cannot initiate field action,” Okafor said. “If an event occurs, Hale stops the assessment. Shah’s cap is twelve percent and her permitted contact force is keyed to your strips, not hers. Two amber readings end the match. One red reading ends it immediately.”
+“You cannot initiate field action,” Okafor said. “If an event occurs, Hale stops the assessment. Shah’s cap is twelve percent, and her permitted contact force is keyed to your impact strips, not hers. Two amber readings end the match. One red reading ends it immediately.”
 
 “Does she know that?”
 
@@ -346,23 +288,19 @@ She entered the answer and turned the screen toward him. The form showed his fie
 
 Across the bay, Priya stood with another officer while blue calibration light traveled from her ankles to her shoulders. She raised both hands, rotated each wrist, and let a small field pulse pass through the floor plate beneath her.
 
-The plate shifted half a centimeter.
-
-Priya shifted with it so smoothly that her head remained level.
+The plate shifted half a centimeter. Priya moved with it so smoothly that her head remained level.
 
 The officer reset the plate.
 
 “Again at six percent.”
 
-This time it moved the other direction. Priya’s balance never broke.
+This time the plate moved the other direction. Priya’s balance never broke.
 
 Kade looked down at his own stationary plate.
 
 Okafor tapped the acknowledgment box.
 
-“This is an assessment, not a requirement to absorb contact. You can withdraw now, surrender in the arena, or ask Hale to stop at any point. A withdrawal leaves your combat rating unresolved. It does not alter your academic status.”
-
-There it was.
+“This is an assessment, not a requirement to absorb contact. You can withdraw now, surrender in the arena, or ask Hale to stop at any point. Withdrawal leaves your combat rating unresolved. It does not alter your academic status.”
 
 An exit that did not require a broken window or a government transport.
 
@@ -372,11 +310,11 @@ Kade read the form again.
 
 “Nothing today. It prevents the system from calculating a combat component.”
 
-“So it remains blank.”
+“So the field remains blank.”
 
 “Until there is evidence.”
 
-Beyond the arena doors, the seats vibrated with a hundred conversations. On the display above them, his empty combat field waited beside Priya’s rank.
+Beyond the arena doors, the seating tier vibrated with a hundred conversations. On the display above them, his empty combat rating waited beside Priya’s rank.
 
 He pressed his thumb to the acknowledgment.
 
@@ -392,7 +330,7 @@ Priya joined him at the yellow line.
 
 “Apparently I am delicate.”
 
-“It means I control the exchange.” Her tone had lost its breakfast humor. “If you turn away, I disengage. If you go down, I give you room. If your collar flashes red, I stop whether Hale calls it or not.”
+“It means I control the exchange.” Her breakfast humor disappeared. “If you turn away, I disengage. If you go down, I give you room. If your collar flashes red, I stop whether Hale calls it or not.”
 
 Kade studied her.
 
@@ -400,17 +338,15 @@ Kade studied her.
 
 “Everyone should hear it.”
 
-The doors began to open.
-
-White floor appeared between them, then the transparent walls, then the two circles twelve meters apart.
+The doors began to open, revealing the white floor, the transparent walls, and two circles twelve meters apart.
 
 Priya offered him the arena first.
 
 Kade crossed the line.
 
-The assessment arena was smaller than the broadcast stadiums, built for instruction rather than spectacle. White composite floor. Transparent barrier walls. Two starting circles twelve meters apart. Embedded sensors traced every approved field effect, impact vector, balance shift, and physiological change.
+The assessment arena was smaller than the broadcast stadiums, built for instruction rather than spectacle. A white composite floor sat inside transparent barrier walls. Embedded sensors recorded approved field effects, impact direction, balance changes, and physiological stress.
 
-One hundred first-years sat in tiered seats around the perimeter.
+One hundred first-years occupied the tiered seats.
 
 Kade had learned during orientation that students attended one another’s assessments because “peer observation accelerated tactical learning.”
 
@@ -422,13 +358,9 @@ He stood inside the left circle wearing a gray training suit and a sensor collar
 
 Across from him stood Priya Shah.
 
-Rank 6,204.
+Rank 6,204. Standard One confirmed. Three years of preparatory combat training.
 
-Standard One confirmed.
-
-Three years of preparatory combat training.
-
-Kade’s current combat rating remained blank.
+Kade’s combat rating remained blank.
 
 Priya looked at the board, then at him.
 
@@ -452,23 +384,17 @@ Kade pointed at him. “You do not count. Housing assigned you.”
 
 Eli looked wounded.
 
-Mara sat beside him, arms folded. Sera stood behind them against the wall. Taren Holt had somehow acquired a seat three rows higher despite not being assigned to the session.
+Mara sat beside him with her arms folded. Sera stood behind them against the wall. Taren Holt had somehow acquired a seat three rows higher despite not being assigned to the session.
 
-Kade had met Taren on the Meridian roof the previous night and learned three things quickly.
+Kade had met Taren on the Meridian roof the previous night and learned three things quickly: Taren talked easily, knew everyone, and answered questions by giving information adjacent to the thing asked.
 
-Taren talked easily.
-
-Taren knew everyone.
-
-Taren answered questions by giving information adjacent to the thing asked.
-
-Kade had not yet decided whether that made him useful or dangerous.
+Kade had not decided whether that made him useful or dangerous.
 
 Probably both.
 
 Instructor Hale’s voice came over the arena speaker.
 
-“Assessment rules. Controlled contact. No head strikes. No intentional joint injury. Field output capped at twelve percent of measured safe maximum. Match ends on pin, surrender, boundary exit, or instructor stop.”
+“Assessment rules. Controlled contact. No head strikes or intentional joint injury. Field output is capped at twelve percent of measured safe maximum. The match ends on pin, surrender, boundary exit, or instructor stop.”
 
 Kade raised one hand.
 
@@ -492,7 +418,7 @@ Eli covered his face.
 
 Mara’s eyes remained on Priya.
 
-“Watch her right foot,” she said through the open barrier before the field sealed.
+“Watch her right foot,” she said through the open barrier.
 
 Kade looked at her.
 
@@ -502,33 +428,19 @@ Kade looked at her.
 
 “Generous.”
 
-The barrier sealed with a soft tone.
-
-The signal changed from red to amber.
+The barrier sealed with a soft tone. The signal changed from red to amber.
 
 Priya bounced once on the balls of her feet.
 
 Kade did not.
 
-Amber to green.
+Amber became green.
 
-Priya disappeared.
+Priya did not actually disappear, but Kade’s eyes lost her anyway.
 
-Not actually.
+Something struck his chest. Air left his lungs, his feet left the floor, and he landed on his back three meters from where he had started.
 
-Kade knew that.
-
-His eyes lost her anyway.
-
-Something struck his chest.
-
-Air left his lungs.
-
-His feet left the floor.
-
-He hit the arena mat on his back and slid three meters.
-
-The display timer read:
+The timer read:
 
 **00:03**
 
@@ -546,59 +458,37 @@ Priya stopped instead of following.
 
 Kade rolled to one knee.
 
-His chest hurt.
-
-Not badly. The training suit had distributed most of the impact.
-
-What bothered him was not being hit.
-
-It was not understanding how.
+His chest hurt, although the training suit had distributed most of the impact. What bothered him was not being hit. It was failing to understand how.
 
 Priya had crossed twelve meters almost instantly, but she had not merely run faster. The floor beneath her starting circle showed faint scuffing where one foot had loaded.
 
+She had pushed into the floor, and the field had changed what the floor gave back.
+
 Momentum.
 
-She had altered hers somehow.
+Kade could not sense the Resonance that did it. He could see the result.
 
-Kade could not sense the field that did it.
-
-He could see what the field had accomplished.
-
-He stood.
-
-Priya returned to ready stance.
+He stood. Priya returned to ready stance.
 
 “Again?” she asked.
 
 “I was hoping we’d move to the written portion.”
 
-She laughed.
-
-Then attacked.
+She laughed and attacked.
 
 This time Kade watched her feet.
 
 Wrong choice.
 
-Her shoulder struck him from the side.
-
-He spun.
-
-Priya hooked his ankle and put him down before he recovered.
+Her shoulder struck him from the side. He spun, and Priya hooked his ankle before he recovered.
 
 **00:09**
 
-The audience had stopped laughing.
-
-Not because Kade was doing well.
-
-Because the novelty was wearing off.
+The audience had stopped laughing, not because Kade was doing well, but because the novelty was wearing off.
 
 He knew that feeling too.
 
-At Northline, being bad at something in public was ordinary.
-
-At Asterion, failure had an audience with statistics.
+At Northline, being bad at something in public was ordinary. At Asterion, failure had an audience and statistics.
 
 Priya backed away.
 
@@ -612,17 +502,9 @@ Kade pushed himself up.
 
 “Even worse.”
 
-His ribs complained as he stood.
+His ribs complained as he stood, but the sensor collar remained green and Hale had not stopped the match.
 
-The sensor collar remained green.
-
-Hale had not stopped the match.
-
-Kade looked toward the booth.
-
-Dr. Park sat behind the glass.
-
-Next to her stood Dr. Sen.
+Kade looked toward the booth. Dr. Park sat behind the glass, and Dr. Sen stood beside her.
 
 Of course.
 
@@ -630,23 +512,11 @@ No pressure.
 
 Kade rolled his shoulders.
 
-Priya came forward more slowly this time.
+Priya came forward more slowly. That helped, but not enough.
 
-That helped.
+She feinted left. Kade followed. She changed direction with a sharpness no unassisted body could manage and touched her forearm to his shoulder, redirecting him toward the boundary.
 
-Not enough.
-
-She feinted left.
-
-Kade followed.
-
-She changed direction with a sharpness no unassisted body should manage.
-
-He barely turned before her forearm touched his shoulder and redirected him toward the boundary.
-
-Kade stumbled.
-
-Recovered one step before the line.
+Kade stumbled, then recovered one step before the line.
 
 **00:18**
 
@@ -668,9 +538,7 @@ Kade stared at her.
 
 Kade almost said, *Nothing.*
 
-The word reached the back of his teeth.
-
-He stopped it.
+The word reached the back of his teeth before he stopped it.
 
 Sera’s voice from dinner returned.
 
@@ -680,25 +548,9 @@ He inhaled slowly.
 
 For three exchanges he had been trying to solve Priya.
 
-Wrong problem.
+That was the wrong problem.
 
-He looked at the arena.
-
-Not metaphorically.
-
-Actually looked.
-
-Floor.
-
-Walls.
-
-Boundary strips.
-
-Priya’s feet.
-
-His own balance.
-
-The faint marks in the traction coating where dozens of students had accelerated before them.
+Kade looked at the arena itself: the floor, walls, boundary strips, Priya’s feet, his own balance, and the faint marks in the traction coating where dozens of students had accelerated before them.
 
 He could not feel Resonance.
 
@@ -708,27 +560,13 @@ He could see consequence.
 
 Priya shifted her weight.
 
-Kade saw it before she moved.
-
-Not the field.
-
-The decision.
-
-Her right foot loaded.
-
-Hip turned.
-
-Floor accepted force before her body accelerated.
+Kade saw the decision before the movement. Her right foot loaded, her hip turned, and the floor accepted force before her body accelerated.
 
 Kade moved first.
 
 Priya’s eyes widened.
 
-He stepped inside the attack rather than away.
-
-Her forearm missed his chest.
-
-Kade caught her wrist.
+He stepped inside the attack rather than away. Her forearm missed his chest, and Kade caught her wrist.
 
 For half a second, the entire arena seemed to pause.
 
@@ -736,9 +574,7 @@ Then Priya smiled.
 
 “Better.”
 
-She rotated.
-
-Kade went over her hip.
+She rotated, and Kade went over her hip.
 
 He hit the floor.
 
@@ -746,9 +582,7 @@ He hit the floor.
 
 This time the audience laughed with him rather than at him.
 
-He stayed on his back.
-
-Priya leaned over.
+He stayed on his back while Priya leaned over.
 
 “You almost had something.”
 
@@ -756,41 +590,23 @@ Priya leaned over.
 
 “That is technically something.”
 
-Kade got up.
+Kade got up. His left shoulder had joined his ribs in filing formal complaints.
 
-His left shoulder had joined his ribs in filing formal complaints.
-
-He looked at the timer.
-
-Twenty-seven seconds.
-
-It felt like ten minutes.
+He looked at the timer. Twenty-seven seconds felt like ten minutes.
 
 Priya attacked again at thirty-one.
 
-Kade avoided the first strike.
-
-Not the second.
-
-He absorbed a controlled hit to the ribs, grabbed her sleeve, and immediately released when she accelerated sideways to break his balance.
+Kade avoided the first strike but not the second. He absorbed a controlled hit to the ribs, grabbed her sleeve, and released immediately when she accelerated sideways to break his balance.
 
 Thirty-six seconds.
 
-He was learning.
+He was learning. Unfortunately, Priya had started the match several years ahead.
 
-Unfortunately Priya had started the match several years ahead.
-
-She was faster.
-
-Stronger.
-
-Trained.
-
-Kade could not beat her at the thing she had spent years learning.
+She was faster, stronger, and trained. Kade could not beat her at the thing she had spent years learning.
 
 That was obvious.
 
-So stop doing her thing.
+So he stopped doing her thing.
 
 He backed toward the wall.
 
@@ -802,35 +618,17 @@ Priya slowed.
 
 She frowned.
 
-Kade’s heel touched the boundary strip.
+Kade’s heel touched the boundary strip. One step behind him meant elimination, and the transparent wall stood less than a meter farther back.
 
-One step behind him was elimination.
+Priya had one obvious choice: drive him out.
 
-The transparent wall stood less than a meter farther.
+Kade did not know whether she understood that was why he had moved there.
 
-Priya had one obvious choice.
-
-Drive him out.
-
-Kade did not know whether she realized that was why he had moved there.
-
-He barely realized it himself.
+He barely understood it himself.
 
 At forty-one seconds, Priya accelerated.
 
-Kade watched the whole system.
-
-Her body.
-
-Her foot.
-
-Floor.
-
-His body.
-
-Boundary.
-
-Wall.
+Kade watched the whole system at once: her body and foot, the floor beneath her, his body, the boundary, and the wall.
 
 Force had to go somewhere.
 
@@ -838,71 +636,33 @@ The thought was not new.
 
 The sensation was.
 
-A cold line formed behind his eyes.
+A cold line formed behind his eyes. It was not pain yet. It was clarity.
 
-Not pain.
+For one impossible instant, the world did not separate into objects. It separated into relationships.
 
-Clarity.
+Priya’s foot pushed the floor. The floor loaded its supports. Her momentum entered Kade. His body moved toward the boundary, and the boundary ended at the wall.
 
-For one impossible instant the world did not separate into objects.
+The chain formed one system.
 
-It separated into relationships.
+Systems ended only where somebody decided they ended.
 
-Priya’s foot to the floor.
-
-Floor to support lattice.
-
-Support lattice to wall.
-
-Her momentum into him.
-
-His body toward the boundary.
-
-A chain.
-
-A system.
-
-And systems only ended where somebody decided they ended.
-
-Something in Kade’s mind moved.
-
-Not a muscle.
-
-Not a thought he could name.
-
-A decision about where one thing stopped and another began.
+Something in Kade’s mind shifted—not a muscle and not a thought he could name, but a decision about where one thing stopped and another began.
 
 Priya struck his chest.
 
 Kade should have flown backward.
 
-Instead the wall boomed.
+Instead, the wall boomed.
 
-The sound hit the arena like thunder trapped indoors.
+The sound hit the arena like thunder trapped indoors. Every light flickered.
 
-Every light flickered.
+Priya stopped dead, and not gently. Her momentum vanished from Kade’s chest and resolved somewhere behind him. The transparent wall flexed outward while white stress lines flashed through the floor supports.
 
-Priya stopped dead.
-
-Not gently.
-
-Her momentum vanished from Kade’s chest and resolved somewhere behind him.
-
-The transparent wall flexed outward.
-
-White stress lines flashed through the floor supports.
-
-Kade remained standing.
-
-For half a second.
+Kade remained standing for half a second.
 
 Then both knees gave out.
 
-He dropped.
-
-Priya stumbled forward, shock replacing concentration.
-
-Kade’s vision narrowed.
+He dropped as Priya stumbled forward, shock replacing concentration. Kade’s vision narrowed.
 
 Hale shouted, “Stop!”
 
@@ -910,25 +670,15 @@ The timer froze.
 
 **00:47**
 
-Silence.
+The arena went silent—the kind of silence where a hundred people forgot to make sound at the same time.
 
-Not ordinary arena silence.
-
-The kind where a hundred people forgot to make sound at the same time.
-
-Kade sat on the floor.
-
-His hands trembled.
-
-The cold line behind his eyes became pain.
+Kade sat on the floor with his hands trembling. The cold line behind his eyes had become pain.
 
 Priya crouched several feet away.
 
 “What did you do?”
 
-Kade looked at the wall.
-
-The stress lines were already fading as smart material redistributed load.
+Kade looked at the wall. The stress lines were already fading as the smart material redistributed the load.
 
 “I have no idea.”
 
@@ -936,21 +686,15 @@ That was not entirely true.
 
 He knew what it had felt like.
 
-The examination.
-
-The line through the platform.
+The examination. The line through the platform.
 
 **REDEFINE.**
 
 His stomach turned.
 
-Dr. Park entered the arena at a run.
+Dr. Park entered the arena at a run. Sen walked behind her.
 
-Sen walked behind her.
-
-Of course Sen walked.
-
-People who frightened rooms rarely needed to hurry.
+Of course Sen walked. People who frightened rooms rarely needed to hurry.
 
 Park dropped beside Kade and checked his pupils.
 
@@ -968,9 +712,7 @@ Park dropped beside Kade and checked his pupils.
 
 “Tremor?”
 
-Kade held up his hand.
-
-It shook.
+Kade held up his shaking hand.
 
 “Very observant.”
 
@@ -984,21 +726,11 @@ Priya flexed both hands and rolled one shoulder.
 
 “No. Just surprised.”
 
-Sen looked at the wall.
-
-Then at Kade.
+Sen looked at the wall, then at Kade.
 
 No smile this time.
 
-Behind the barrier, students had started whispering.
-
-Eli stood with both hands against the glass.
-
-Mara had risen from her seat.
-
-Taren was no longer pretending he had wandered into the session accidentally.
-
-Sera watched Kade with an expression he could not read.
+Behind the barrier, students had started whispering. Eli stood with both hands against the glass. Mara had risen from her seat. Taren no longer pretended he had wandered into the session accidentally. Sera watched Kade with an expression he could not read.
 
 Hale checked the official system.
 
@@ -1028,9 +760,7 @@ Sen’s attention stayed on the damaged support lattice.
 
 “Not here.”
 
-Kade tried to push himself upright.
-
-Park pressed one hand to his shoulder.
+Kade tried to push himself upright. Park pressed one hand to his shoulder.
 
 “Stay seated.”
 
@@ -1062,37 +792,15 @@ A maintenance panel illuminated on the barrier.
 
 Eli made a sound somewhere between a gasp and a laugh.
 
-The arena replay activated automatically.
+The arena replay activated automatically. Priya’s final charge appeared in slow motion.
 
-Priya’s final charge appeared in slow motion.
+Forty-one seconds: foot load, acceleration, impact.
 
-Forty-one seconds.
+Then the telemetry disappeared for six frames.
 
-Foot load.
+When it returned, the wall carried the energy.
 
-Acceleration.
-
-Impact.
-
-Then something strange.
-
-Telemetry that normally tracked field exchange disappeared for six frames.
-
-When it returned, the wall registered the energy.
-
-Six frames.
-
-Kade watched again.
-
-Priya’s strike touched his chest.
-
-No visible flash.
-
-No field flare.
-
-No dramatic wave.
-
-Just consequence in the wrong place.
+Kade watched it again. Priya’s strike touched his chest. There was no flash, field flare, or dramatic wave. The only visible evidence was consequence in the wrong place.
 
 The replay froze.
 
@@ -1136,7 +844,7 @@ Kade laughed despite the headache.
 
 Medical kept him for three hours.
 
-Park ran neurological scans twice, then made him walk a straight line, touch his nose with each index finger, identify flashing symbols, and answer orientation questions Kade found insulting until he missed one.
+Park ran two neurological scans, then made him walk a straight line, touch his nose with each index finger, identify flashing symbols, and answer orientation questions that Kade found insulting until he missed one.
 
 “What day is it?” Park asked.
 
@@ -1146,9 +854,7 @@ Park ran neurological scans twice, then made him walk a straight line, touch his
 
 Kade stared at her.
 
-Behind Park, a sequence of five shapes remained on the wall display. Kade had named them correctly less than a minute earlier.
-
-Square. Circle. Triangle. Two interlocked rings. A black shape with seven sides.
+Behind Park, five shapes remained on the wall display. He had named them correctly less than a minute earlier: a square, circle, triangle, two interlocked rings, and a black shape with seven sides.
 
 The last one had taken too long.
 
@@ -1160,17 +866,17 @@ Park’s expression did not change.
 
 “Good.”
 
-The answer escaped before Kade could make it sound like a joke.
+The answer escaped before Kade could disguise it as a joke.
 
 Park turned off the shape sequence.
 
-“Neurological injuries reward performance,” she said. “People learn which answers get them out of the room. I need the wrong ones too.”
+“Neurological injuries reward performance,” she said. “People learn which answers get them out of the room. I need the wrong answers too.”
 
 “That seems inefficient.”
 
 “For your discharge time, yes. For keeping your brain functional, no.”
 
-She placed a row of textured tiles on the bed table: smooth, ridged, dotted, crosshatched. Kade closed his eyes and identified each under his right hand, then his left. The dotted tile became ridged somewhere between hands.
+She placed a row of textured tiles on the bed table: smooth, ridged, dotted, and crosshatched. Kade closed his eyes and identified each under his right hand, then his left. The dotted tile became ridged somewhere between hands.
 
 Park marked the error without comment.
 
@@ -1178,7 +884,7 @@ Park marked the error without comment.
 
 The second pass was clean.
 
-Then came light tracking. Sound localization. A balance plate that leaned three degrees and made Kade’s stomach try to continue without him.
+Then came light tracking, sound localization, and a balance plate that leaned three degrees and made Kade’s stomach try to continue without him.
 
 He stepped off too quickly.
 
@@ -1202,31 +908,21 @@ Kade took the basin.
 
 He waited until the room settled.
 
-“Three,” he said.
+“Three.”
 
-Park changed the record.
-
-The number did not become an accusation. No lecture followed it. She simply lowered the balance plate to one degree and changed the next test.
+Park changed the record. The number did not become an accusation, and no lecture followed. She simply lowered the balance plate to one degree and changed the next test.
 
 Kade had spent years treating pain as information other people might use to stop him. Park treated it as a condition of the problem.
 
-That did not make the room less frightening.
-
-It made honesty marginally more useful.
+That did not make the room less frightening. It made honesty marginally more useful.
 
 She repeated the scan.
 
-By the third hour his pupils matched again. The tremor had faded. The headache remained at two out of ten.
+By the third hour, his pupils matched again and the tremor had faded. The headache remained at two out of ten.
 
-No structural brain injury.
+No structural brain injury. No detectable conventional Resonance discharge. No explanation.
 
-No detectable conventional Resonance discharge.
-
-No explanation.
-
-Priya stopped by before leaving for her afternoon class.
-
-She stood in the doorway wearing regular academy blue instead of training gray.
+Priya stopped by before leaving for her afternoon class. She stood in the doorway wearing regular academy blue instead of training gray.
 
 “You okay?”
 
@@ -1270,9 +966,7 @@ Then she left.
 
 Kade decided Priya Shah was annoyingly difficult to resent.
 
-His phone had been returned while he was in medical.
-
-It contained 318 notifications.
+His phone had been returned while he was in medical. It contained 318 notifications.
 
 The first was Eli.
 
@@ -1282,7 +976,7 @@ Then:
 
 **DO NOT ANSWER THAT YET PARK SAID NO SCREENS**
 
-Then, eight minutes later:
+Eight minutes later:
 
 **I HAVE THE TELEMETRY**
 
@@ -1346,9 +1040,7 @@ Park saw.
 
 Park almost smiled.
 
-Sen entered ten minutes later.
-
-This time she carried a tablet.
+Sen entered ten minutes later carrying a tablet.
 
 Kade looked at it.
 
@@ -1376,9 +1068,7 @@ Kade’s shoulders tightened.
 
 He stared at her.
 
-Sen did not soften it.
-
-Kade appreciated that and resented it simultaneously.
+Sen did not soften the answer. Kade appreciated that and resented it at the same time.
 
 “What did I do?”
 
@@ -1400,19 +1090,13 @@ Sen’s eyes narrowed.
 
 “Do you have a name for it?”
 
-A pause.
-
-Not long.
-
-Long enough.
+A pause. Not long, but long enough.
 
 “Not one I am prepared to give you today.”
 
 Kade looked at her.
 
-There it was again.
-
-The shape around an answer.
+There it was again: the shape around an answer.
 
 Sen said, “Go back to Meridian. Eat. Sleep. Tomorrow we discuss training.”
 
@@ -1420,9 +1104,7 @@ Sen said, “Go back to Meridian. Eat. Sleep. Tomorrow we discuss training.”
 
 “Yes.”
 
-Kade slid off the medical bed.
-
-His knees held.
+Kade slid off the medical bed. His knees held.
 
 Progress.
 
@@ -1450,9 +1132,7 @@ A hand-drawn sign over the elevator read:
 
 **WELCOME BACK, WALL BOY**
 
-Someone had crossed out WALL BOY and written ZERO WALL beneath it.
-
-Someone else had crossed out both and written **NO**.
+Someone had crossed out WALL BOY and written ZERO WALL beneath it. Someone else had crossed out both and written **NO**.
 
 Kade suspected Mara.
 
@@ -1462,19 +1142,11 @@ Eli met him outside room 814.
 
 “Park confirmed.”
 
-Eli hugged him.
-
-Briefly.
-
-Then immediately pretended he had been reaching around Kade for the door control.
+Eli hugged him briefly, then immediately pretended he had been reaching around Kade for the door control.
 
 Kade decided not to mention it.
 
-Inside the room, Mara sat at Eli’s desk with three replay windows open.
-
-Sera occupied Kade’s chair eating something from a takeout box.
-
-Taren leaned against the wall.
+Inside the room, Mara sat at Eli’s desk with three replay windows open. Sera occupied Kade’s chair while eating from a takeout box. Taren leaned against the wall.
 
 Kade stopped in the doorway.
 
@@ -1484,7 +1156,7 @@ Kade stopped in the doorway.
 
 “Democracy,” Taren added.
 
-Mara looked at Kade’s hands.
+Mara looked at Kade’s hands before his face.
 
 “Still shaking?”
 
@@ -1534,51 +1206,29 @@ Sera pointed a fork at him.
 
 “Fair.”
 
-Kade sat on his bed.
-
-The room quieted.
+Kade sat on his bed. The room quieted.
 
 Mara asked, “What did it feel like?”
 
-Kade looked at the paused image.
+Kade looked at the paused image: Priya’s hand on his chest, his body at the boundary, and the wall behind him.
 
-Priya’s hand on his chest.
+“Like the arena was one thing.”
 
-His body at the boundary.
+“Meaning?” Mara asked.
 
-The wall behind him.
-
-“Like everything was connected.”
-
-Taren’s expression changed.
-
-Only slightly.
-
-Kade noticed.
-
-Mara said, “Everything what?”
-
-“Priya. Me. Floor. Wall.”
+“Pike—Priya. Me. The floor and wall.”
 
 “That is ordinary force transfer.”
 
 “No.”
 
-Kade closed his eyes.
+Kade closed his eyes. How did he describe something that had not felt like sight or touch?
 
-How did you describe something that had not felt like sight or touch?
+“It wasn’t that they were connected. The divisions felt optional.”
 
-“It wasn’t that they were connected. It was that the divisions felt optional.”
+The room went silent.
 
-Silence.
-
-Eli stopped moving.
-
-Mara’s attention sharpened.
-
-Sera put down her fork.
-
-Taren looked at the replay again.
+Eli stopped moving. Mara’s attention sharpened. Sera put down her fork. Taren looked at the replay again.
 
 Kade opened his eyes.
 
@@ -1600,13 +1250,13 @@ Sera pointed her fork at the headache monitor Park had paired to Kade’s phone.
 
 “That is why Eli is using the wall and you are sitting over there.”
 
-Eli placed six plain blocks in the model: two bodies, the arena floor, its support lattice, the barrier, and the building frame. Lines joined each contact point.
+Eli placed six plain blocks in the model: Priya, Kade, the arena floor, its support lattice, the barrier, and the building frame. Lines joined each contact point.
 
-“Conventional chain,” he said. “Priya accelerates against the floor. Priya transfers momentum into Kade. Kade transfers it into the boundary strip, eventually, with several painful intermediate steps.”
+“Ordinary version,” Eli said. “Priya pushes against the floor. The floor pushes back. Priya hits Kade. Kade crosses the boundary after several painful intermediate steps.”
 
 “Accurate,” Kade said.
 
-Mara stood and moved Priya’s block until it touched Kade’s.
+Mara moved Priya’s block until it touched Kade’s.
 
 “But he did not take the expected acceleration.”
 
@@ -1618,25 +1268,19 @@ The system rejected the result.
 
 Taren leaned closer.
 
-“Assign him and the wall as one body for the six missing frames.”
+“Treat Kade and the wall as one body for the six missing frames.”
 
 Nobody moved.
 
-Taren’s gaze remained on the model.
+Taren kept his gaze on the model.
 
 “That is what he described.”
 
-Eli drew a temporary boundary around both blocks.
-
-The warning disappeared. Momentum entered through Kade’s block and resolved through the wall.
+Eli drew a temporary boundary around both blocks. The warning disappeared. Momentum entered through Kade’s block and resolved through the wall.
 
 The model balanced.
 
-Kade’s headache sharpened.
-
-Not from the screen.
-
-The drawn line was wrong.
+Kade’s headache sharpened—not from the screen, but because the drawn line was wrong.
 
 “No.”
 
@@ -1652,11 +1296,9 @@ Mara looked from the model to him.
 
 Kade stood despite Sera’s expression and crossed to the wall display. He took the control from Eli.
 
-The program had assigned every line one owner and every block a clean edge. Priya ended at the point where Kade began. Kade ended where the wall began. The floor stopped at its support lattice because the diagram needed separate colors.
+The program had given every line one owner and every block a clean edge. Priya ended where Kade began. Kade ended where the wall began. The floor stopped at its support lattice because the diagram needed separate colors.
 
-He erased the boundary around himself and the wall.
-
-Then he erased the line between Priya’s foot and the floor.
+He erased the boundary around himself and the wall. Then he erased the line between Priya’s foot and the floor.
 
 The blocks remained separate.
 
@@ -1664,9 +1306,7 @@ The relationships did not.
 
 His hand began to shake.
 
-Mara took the control from him.
-
-Sera killed the display.
+Mara took the control from him. Sera killed the display.
 
 Dark glass replaced the model.
 
@@ -1684,9 +1324,7 @@ Sera slid the takeout box toward him.
 
 “Eat.”
 
-Kade looked inside.
-
-Rice, vegetables, chicken.
+Kade looked inside: rice, vegetables, chicken.
 
 “Is this yours?”
 
@@ -1714,21 +1352,7 @@ She took one look at him.
 
 “Kade.”
 
-He told her.
-
-Not every detail.
-
-Enough.
-
-The fight.
-
-The wall.
-
-Medical.
-
-The headache.
-
-The wrong day.
+He told her enough: the fight, the wall, medical, the headache, and the wrong day.
 
 Elena became so quiet that Kade regretted mentioning the last part.
 
@@ -1764,23 +1388,15 @@ When she opened them, the nurse had receded and his mother was back.
 
 The question landed harder than expected.
 
-He looked out over Asterion.
+He looked out over Asterion: training lights along the southern arenas, students crossing bridges, the Meridian bell above him.
 
-Training lights along the southern arenas.
-
-Students crossing bridges.
-
-The Meridian bell above him.
-
-“No,” he said.
-
-Then quickly, “Not because I don’t want you. I mean—”
+“No,” he said, then quickly added, “Not because I don’t want you. I mean—”
 
 Elena smiled faintly.
 
 “I know what you mean.”
 
-Kade rubbed one hand over the back of his neck.
+Kade rubbed the back of his neck.
 
 “This place is weird.”
 
@@ -1824,35 +1440,15 @@ That made it worse.
 
 After the call, Kade remained on the roof.
 
-Forty-seven seconds.
+Forty-seven seconds: officially a loss, publicly a spectacle, and medically an unresolved problem.
 
-Officially a loss.
+But somewhere inside those seconds, he had seen something real.
 
-Publicly a spectacle.
+He did not know what it was. Sen probably knew more than she had said. Eli had six missing frames. Mara had questions. Sera had food. Taren had looked too interested when Kade said the divisions felt optional.
 
-Medically an unresolved problem.
+The Meridian bell hung above him in darkness, still silent.
 
-But somewhere inside those forty-seven seconds, he had seen something real.
-
-He did not know what it was.
-
-Sen probably knew more than she said.
-
-Eli had six missing frames.
-
-Mara had questions.
-
-Sera had food.
-
-Taren had looked too interested when Kade said the divisions felt optional.
-
-The Meridian bell hung above him in darkness.
-
-Still silent.
-
-Kade looked at his shaking hand.
-
-It had stopped.
+Kade looked at his hand. It had stopped shaking.
 
 He curled it into a fist.
 
