@@ -2,17 +2,9 @@
 
 Julian Cross beat Kade eleven times before breakfast.
 
-The first took nineteen seconds.
+The first took nineteen seconds, the second twenty-three, and the third fifteen because Kade became irritated and attempted something ambitious. By the fifth, he understood why Rank One was Rank One.
 
-The second took twenty-three.
-
-The third took fifteen because Kade became irritated by the first two and attempted something ambitious.
-
-By the fifth, he understood why Rank One was Rank One.
-
-Julian did not look fast.
-
-He removed decisions.
+Julian did not look fast. He removed decisions.
 
 Every step closed an option. Every feint moved Kade toward a worse answer. Every small pressure forced a response Julian had already planned for. By the time the final strike arrived, losing had happened several seconds earlier.
 
@@ -42,17 +34,7 @@ Kade stared up at him. “I used the wall.”
 
 The distinction remained irritating through reset five.
 
-On reset six, Kade tried waiting.
-
-Julian waited better.
-
-On reset seven, Kade attacked first.
-
-Julian used the attack to decide where Kade would be standing three exchanges later.
-
-On reset eight, Kade attempted to become unpredictable.
-
-Julian swept him in fourteen seconds.
+On reset six, Kade tried waiting, and Julian waited better. On reset seven, Kade attacked first, allowing Julian to decide where he would be standing three exchanges later. On reset eight, Kade tried to become unpredictable and Julian swept him in fourteen seconds.
 
 “You looked pleased,” Kade said from the floor.
 
@@ -186,13 +168,7 @@ Julian shrugged.
 
 “I enjoy learning. Losing is often how the lesson arrives. I do not have to enjoy delivery.”
 
-There.
-
-Competitive.
-
-Not saintly.
-
-Much better.
+There. Competitive, not saintly. Much better.
 
 “Why me?” Kade asked.
 

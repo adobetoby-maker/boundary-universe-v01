@@ -8,11 +8,7 @@ That was unfair.
 
 It was also accurate.
 
-Containment read twenty-three percent.
-
-Then twenty-two.
-
-Aaron braced one hand against the rail.
+Containment fell from twenty-three percent to twenty-two. Aaron braced one hand against the rail.
 
 “Do not pull them in,” he said.
 
@@ -40,29 +36,7 @@ Mara stepped beside him.
 
 That had become her answer to nearly everything.
 
-Kade looked around.
-
-Mara.
-
-Sera.
-
-Julian.
-
-Taren.
-
-Sen.
-
-Aaron.
-
-Eli, present as a voice and a live network trace above them.
-
-Everyone carrying different fear.
-
-Different training.
-
-Different reasons to stay.
-
-Different reasons not to trust.
+Kade looked around at Mara, Sera, Julian, Taren, Sen, Aaron, and Eli—the last present as a voice and a live network trace above them. Each carried different fear and training, with a different reason to stay and a different reason not to trust.
 
 The chamber gave Kade too many things to look at and no useful way to rank them.
 
@@ -70,9 +44,7 @@ The Refuge Node hung below the lower platform in its broken cradle, a dark shape
 
 Above it, the east signal damper was visibly out of phase. Light traveled around its housing, reached a cracked section, and returned a fraction late. Each late return made Aaron's shoulders tighten against the rail.
 
-The room had become a machine for transferring one failure into the next.
-
-Field instability from the Node loaded the dampers. The dampers pushed correction into the containment spine. The cracked spine bled force into Asterion's foundation. Heat climbed through the emergency sinks. The sinks were already sharing coolant with the damaged engineering level overhead.
+The chamber had become Professor Amadi's couch problem with an island underneath it: every correction changed the weight in everyone else's hands. Field instability from the Node loaded the dampers. The dampers pushed correction into the containment spine. The cracked spine bled force into Asterion's foundation. Heat climbed through the emergency sinks, which were already sharing coolant with the damaged engineering level overhead.
 
 If they stabilized only one piece, another would fail faster.
 
@@ -148,7 +120,7 @@ Sen looked toward the Node.
 
 “The dominant operator received every variance and returned corrections. Latency increased with each participant.”
 
-Eli said, “So eventually one brain became the network bottleneck.”
+“So twelve people were carrying the same table, and one brain kept grabbing every corner to correct it,” Eli said. “Eventually the foreman became the bottleneck.”
 
 “And the authority bottleneck,” Aaron said. “Everyone else began anticipating correction instead of contributing. We called the increased uniformity coherence.”
 
@@ -238,9 +210,7 @@ Taren remained silent.
 
 Kade understood the shape of the decision.
 
-They did not need one person willing to try Consensus.
-
-They needed six people to reject the alternative separately.
+They did not need one person willing to try Consensus. They needed six people to reject the alternative separately.
 
 ---
 
@@ -348,33 +318,13 @@ Stopped reaching.
 
 Stopped thinking of himself as the person who had to make the connection happen.
 
-He thought instead of the space they were both choosing to share.
+He thought instead of the space they were both choosing to share: a physics problem with no owner, a House plan that had outgrown its author, and a training partnership where either person could change the answer.
 
-A physics problem with no owner.
-
-A House plan nobody owned anymore.
-
-A training partnership where both people could change the answer.
-
-The world shifted.
-
-No light.
-
-No dramatic sound.
+The world shifted without light or dramatic sound.
 
 Kade became aware of Mara’s control as a structure beside his own awareness.
 
-Not her thoughts.
-
-Not memories.
-
-Nothing private.
-
-Her balance.
-
-Her field geometry.
-
-Her intent to hold the chamber stable and remain herself while doing it.
+He received no thoughts, memories, or private rooms. He received her balance, her field geometry, and her intent to hold the chamber stable while remaining herself.
 
 The last part had weight.
 
@@ -390,13 +340,7 @@ It said *this is what I can hold*.
 
 The distinction registered as clearly as temperature.
 
-A boundary held around everything else.
-
-There were rooms he could not enter.
-
-Her fear was not available to him.
-
-Neither were her memories, her family, or whatever she had thought when she first met him in a borrowed Asterion uniform trying not to look impressed.
+A boundary held around everything else. There were rooms he could not enter: her fear, her memories, her family, and whatever she had thought when she first met him in a borrowed Asterion uniform trying not to look impressed.
 
 The shared space contained only what the work required.
 
@@ -620,19 +564,7 @@ Kade formed the connection with Mara.
 
 Then waited.
 
-Sera entered differently.
-
-Not as more information.
-
-As another center.
-
-Distribution.
-
-Risk as routes.
-
-Loads that needed somewhere safe to go.
-
-People before structures.
+Sera entered differently—not as more information, but as another center. She brought distribution, risk translated into routes, and loads that needed somewhere safe to go. People came before structures.
 
 The entire chamber’s emergency architecture became legible through her training.
 
@@ -744,23 +676,9 @@ He put one hand on Sera’s other shoulder.
 
 The network expanded.
 
-Julian's contribution arrived as decisions made before panic could own them.
+Julian's contribution arrived as decisions made before panic could own them: force balance, priorities, and the ability to abandon one option so another survived. It was leadership without control, not command.
 
-Force balance.
-
-Priorities.
-
-The ability to accept that one option had to be abandoned so another survived.
-
-Not command.
-
-Leadership without control.
-
-He did not bring a plan.
-
-That surprised Kade.
-
-Julian always seemed to have one.
+He did not bring a plan, which surprised Kade. Julian always seemed to have one.
 
 What entered the shared model was the discipline beneath planning: a constant separation between what mattered, what could still change, and what had already been lost.
 
@@ -790,11 +708,7 @@ Mara’s field geometry tightened around it.
 
 Sera’s evacuation model lost options.
 
-The network became cleaner.
-
-Stronger.
-
-Wrong.
+The network became cleaner and stronger—and wrong.
 
 Aaron shouted, “Break.”
 
@@ -898,19 +812,7 @@ Eli said, “Seven minutes, eight seconds, and I dislike every one of them.”
 
 “Join the club.”
 
-They reformed.
-
-Mara.
-
-Sera.
-
-Julian.
-
-Separate.
-
-Present.
-
-No one promoted to center.
+They reformed with Mara, Sera, and Julian separate, present, and still themselves. No one was promoted to center.
 
 Containment dropped to fifteen percent.
 
@@ -922,17 +824,7 @@ Taren stood near the legacy control station.
 
 His face had gone pale.
 
-Everything between him and Kade remained unresolved.
-
-The reports.
-
-The friendship.
-
-The betrayal.
-
-The eight-second archive override.
-
-The key that opened Sublevel Nine.
+Everything between him and Kade remained unresolved: the reports, friendship, betrayal, eight-second archive override, and the key that opened Sublevel Nine.
 
 Taren looked at the network of hands.
 
@@ -994,11 +886,9 @@ It did not feel like a collection of passwords.
 
 Suspicion had become architecture.
 
-Every access route divided people into categories. Cleared or excluded. Useful or dangerous. Observer or subject. A maintenance panel in the east damper accepted commands from three Directorate pathways that did not appear on Asterion's own system map. Each pathway required a person with the correct inherited authority, and each authority could revoke the one below it.
+Every access route divided people into categories: cleared or excluded, useful or dangerous, observer or subject. A maintenance panel in the east damper accepted commands from three Directorate pathways that did not appear on Asterion's own system map. Each pathway required a person with the correct inherited authority, and each authority could revoke the one below it.
 
-Nothing moved sideways.
-
-Everything moved down.
+Nothing moved sideways. Everything moved down.
 
 Taren's knowledge of that system arrived threaded through his hatred of it.
 
@@ -1170,25 +1060,9 @@ Eli joined.
 
 The system nearly collapsed.
 
-Information flooded everything.
+Information flooded everything: thermal load, signal phase, damper latency, structural temperature, and containment geometry. Eli processed the machine faster than the machine could present itself to everyone else.
 
-Thermal loads.
-
-Signal phase.
-
-Damper latency.
-
-Structural temperatures.
-
-Containment geometry.
-
-Eli processed the machine faster than the machine could present itself to everyone else.
-
-The flood carried no sense of importance.
-
-That was the problem.
-
-A temperature rise of point two degrees arrived beside a catastrophic phase inversion. An old maintenance warning from before the siege demanded the same attention as a cracked coolant manifold. Six thousand live values pushed toward the shared space because the systems had been built to report data, not meaning.
+The flood carried no sense of importance. Everything shouted at the same volume: a temperature rise of point two degrees beside a catastrophic phase inversion, an old maintenance warning beside a cracked coolant manifold. Six thousand live values pushed toward the shared space because the systems had been built to report data, not meaning.
 
 Kade tried to hold all of it.
 
@@ -1196,9 +1070,7 @@ His vision whitened at the edges.
 
 Then Eli changed the shape of his contribution.
 
-The data did not lessen.
-
-It acquired grammar.
+The data did not lessen; it acquired grammar.
 
 Temperatures gathered into trends. Timing discrepancies became cause and response. Three separate damper faults resolved into one repeating delay that moved clockwise around the containment rings.
 
@@ -1296,21 +1168,7 @@ Mara tightened her grip.
 
 “Stay here.”
 
-Kade found her presence.
-
-Then Sera.
-
-Julian.
-
-Taren.
-
-Eli.
-
-Separate.
-
-Chosen.
-
-The network stabilized.
+Kade found Mara, Sera, Julian, Taren, and Eli—separate, chosen, and still themselves. The network stabilized.
 
 ---
 
@@ -1328,29 +1186,7 @@ Object on one side.
 
 Operator on the other.
 
-He looked at the entire containment problem.
-
-Node.
-
-Damper arrays.
-
-Asterion’s buried structure.
-
-Aaron.
-
-The six-person Consensus network.
-
-Heat sinks.
-
-Signal leakage.
-
-The Directorate bypass routes.
-
-One system.
-
-Not because the boundaries were unreal.
-
-Because they could be chosen for the work that needed doing.
+He looked at the entire containment problem: the Node, damper arrays, Asterion's buried structure, Aaron, the six-person Consensus network, heat sinks, signal leakage, and the Directorate bypass routes. Together they formed one active system—not because the boundaries were unreal, but because they could be chosen for the work that needed doing.
 
 Kade exposed the relationships.
 
@@ -1644,13 +1480,7 @@ Nobody waited for Kade to order them.
 
 That was why it worked.
 
-Containment climbed.
-
-Nine.
-
-Eleven.
-
-Fourteen.
+Containment climbed from nine to eleven to fourteen percent.
 
 The Refuge Node pulsed.
 
@@ -1776,9 +1606,7 @@ Not stronger because everyone obeyed.
 
 Stronger because nobody had to.
 
-Containment climbed to twenty-eight percent.
-
-Then forty-one.
+Containment climbed to twenty-eight percent, then forty-one.
 
 Sen stared at the readings.
 
@@ -1948,13 +1776,7 @@ Nobody believed him.
 
 Sera checked the shelter routes one last time.
 
-North shelter remained stable.
-
-The dining-hall triage grid had full power.
-
-The arena team was clear.
-
-She released the counts instead of trying to carry them out of the network with her.
+North shelter remained stable, the dining-hall triage grid had full power, and the arena team was clear. Sera released the counts instead of trying to carry them out of the network with her.
 
 Her hand left Mara's shoulder.
 
@@ -2158,11 +1980,7 @@ Kade’s stomach dropped.
 
 Eli pulled the transmission log.
 
-The signal had been suppressed.
-
-Almost.
-
-A burst lasting 0.83 seconds had escaped during the initial synchronization.
+The signal had been suppressed—almost. A burst lasting 0.83 seconds had escaped during the initial synchronization.
 
 Kade looked at Aaron.
 
