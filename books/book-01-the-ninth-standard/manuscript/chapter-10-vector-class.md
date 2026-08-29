@@ -10,17 +10,51 @@ There was being corrected by Mara Vey stupid.
 
 And there was Vector Analysis at eight in the morning.
 
-Professor Ife Amadi wrote three coupled equations across the wall display and turned to the class.
+Professor Ife Amadi did not begin with equations.
+
+She began with a couch.
+
+A projection appeared above the front table: one oversized couch, one narrow stairwell, and three annoyed movers trapped on the landing.
+
+“Three people are carrying this upstairs,” Amadi said. “The person at the top pulls. The person at the bottom lifts. The person in the middle keeps insisting the couch will fit.”
+
+A few students laughed.
+
+The projected couch struck the corner and stopped.
+
+“Who is controlling the couch?” Amadi asked.
+
+“The person at the top,” someone said.
+
+“Then why can the person at the bottom break the lamp?”
+
+The couch rotated. A lamp died with a very small, very final crunch.
+
+“Fine,” another student said. “All three.”
+
+“Better. Now suppose each mover corrects after seeing what the others just did. By the time the correction arrives, the couch has moved again.”
+
+The projection froze with the couch wedged diagonally between two walls.
+
+“This is a coupled system. The transfer manifold is the set of positions and force paths still available without the couch, the walls, or the movers becoming structurally educational.”
+
+Kade looked at Eli.
+
+“Structurally educational?”
+
+“Broken,” Eli whispered.
+
+“I preferred her version.”
+
+Only then did Amadi write three coupled equations across the wall display.
 
 “Resolve the transfer manifold.”
 
-Kade understood every word individually.
+Kade understood the couch.
 
-Together, they were apparently an attack.
+The equations appeared to be revenge for understanding it.
 
-Around him, students began writing.
-
-Styluses moved over tablets. Equations populated shared displays. Nobody screamed.
+Around him, students began writing. Styluses moved over tablets. Symbols populated shared displays. Nobody screamed.
 
 Mara’s hand started almost immediately.
 
@@ -32,25 +66,27 @@ Eli leaned toward Kade.
 
 “Do you know what this one is?”
 
-“No.”
+Kade looked from the equations to the trapped couch.
 
-“Excellent.”
+“The places the problem can still go without breaking something.”
 
-Kade stared at the equations.
+Eli blinked.
 
-The physical problem made sense.
+“That sounded almost educated.”
 
-Three bodies interacting through a constrained field. One allowed transfer path. Two correction loops. Loss terms that increased as the coupled system approached instability.
+“Do not spread it around.”
 
-He could see the motion in his head.
+The physical problem made sense now.
 
-Not numbers.
+Three bodies shared one constrained field. The first shifted. The second compensated. The third inherited the force created by both corrections. The notation called that last force secondary.
 
-Motion.
+Kade could see it becoming the whole problem.
 
-The first mass shifted. The second compensated. The third inherited a force everyone else’s notation seemed determined to call secondary even though Kade could see it becoming the whole problem.
+He did not see numbers first.
 
-What he could not do was translate that picture into the language everybody around him appeared to speak fluently.
+He saw motion.
+
+What he could not do was translate the motion into the language everybody around him appeared to speak fluently.
 
 That part was new.
 
@@ -78,25 +114,25 @@ A few students stopped writing.
 
 Amadi’s expression remained neutral.
 
-“Why?”
+“Plain language first.”
 
-“Because the model treats the second body like it stays isolated after the first exchange.”
+“The second mover corrects as though the first correction is finished. It isn’t. So the third mover receives both mistakes at once.”
 
-One of her eyebrows rose.
+“Good. Now give me the mathematics.”
 
-“Show me.”
+“That seems unnecessarily cruel.”
 
-Kade walked to the board.
+“It is called sequence.”
 
-He took the stylus.
+Kade walked to the board and took the stylus.
 
 Then stopped.
 
 He knew what was wrong.
 
-He had absolutely no idea how to write it.
+He had absolutely no idea how to prove it in symbols.
 
-There were few experiences more humiliating than understanding a thing and being unable to prove you understood it.
+There were few experiences more humiliating than understanding a thing and being unable to show that the understanding was real.
 
 A quiet voice from the third row said, “Use lambda three.”
 
@@ -112,15 +148,13 @@ Then the next term.
 
 Wrong index.
 
-Mara made a tiny rotating gesture.
+Mara made a small rotating gesture.
 
 Kade corrected it.
 
-Then another term.
+He added the delayed correction. The symbols finally described the moving couch in his head.
 
 The structure clicked into place.
-
-He stepped back.
 
 Professor Amadi looked from the board to Kade.
 
@@ -130,7 +164,7 @@ Kade returned to his seat.
 
 Eli leaned toward him.
 
-“You just solved a problem you cannot write.”
+“You solved a problem you cannot write.”
 
 “I prefer conceptual elegance.”
 
@@ -140,9 +174,19 @@ Also true.
 
 Amadi continued class.
 
-Kade spent the next forty minutes discovering that his gaps were worse than he thought.
+For the next forty minutes, Kade discovered that his gaps were worse than he thought.
 
-He understood vectors intuitively and occasionally abused notation in ways that made classmates physically uncomfortable. He had never seen two of the tensor conventions Asterion treated as prerequisites. His algebra was fast, his proofs were inconsistent, and his habit of skipping steps worked poorly in a room full of instructors who wanted to know whether the skipped step was genius or a mistake.
+He understood vectors intuitively. He also abused notation in ways that made nearby students wince. Asterion treated two tensor conventions as basic knowledge; Kade had never seen either one. His algebra was fast. His proofs were unreliable. He skipped steps because the missing bridge felt obvious inside his own head.
+
+Amadi wanted the bridge on the page.
+
+“Why?” Kade asked after she marked the third omitted step.
+
+“Because a proof is not a diary of your confidence,” she said. “It is a route another person can follow without borrowing your brain.”
+
+“That sounds invasive.”
+
+“It is the opposite.”
 
 By the end of class, he had four pages of corrections.
 
@@ -150,15 +194,23 @@ Mara had one.
 
 Kade found that offensive on principle.
 
-The final exercise involved a six-user stabilization grid around a collapsing platform.
+The final exercise involved six users stabilizing a collapsing platform.
+
+Amadi translated it before she released the formal model.
+
+“Imagine six people holding a sagging tarp while someone crosses the middle. Every person feels a different amount of weight. If one person lifts, the weight does not disappear. It goes somewhere else.”
+
+The platform projection appeared. Six operators ringed it at unequal distances.
+
+“Your equations must say where.”
 
 Students worked in pairs.
 
-Amadi assigned Kade to a boy named Owen Park, rank 2,804, who had the formal vocabulary Kade lacked and no patience for explanations that could not be expressed in symbols.
+Amadi assigned Kade to Owen Park, rank 2,804. Owen had the formal vocabulary Kade lacked and no patience for explanations that could not be expressed in symbols.
 
 Owen wrote three lines.
 
-Kade stared at the simulated platform.
+Kade watched the simulated platform bow.
 
 “You’re going to overload the southwest anchor.”
 
@@ -174,17 +226,15 @@ Owen did not look up.
 
 Owen finally looked at him.
 
-“You can’t just change the assumptions.”
+“You cannot change the assumptions because you dislike the answer.”
 
-“I’m not changing them. I’m noticing the operators are standing in different places.”
+“I am not changing them. I am noticing the operators are standing in different places.”
 
-Owen sighed.
-
-Kade leaned over and shifted one response node.
+Kade shifted one response node.
 
 The simulation stabilized two seconds longer.
 
-Then failed somewhere else.
+Then it failed somewhere else.
 
 Owen frowned.
 
@@ -196,7 +246,7 @@ Owen’s expression became less dismissive.
 
 “Why?”
 
-“Because your equations are pretending the geometry doesn’t matter after the field activates.”
+“Because your equations stop paying attention to the room after the field turns on. The southwest operator is farther from the load. Their correction arrives later and carries more leverage.”
 
 Owen looked at the model again.
 
@@ -208,7 +258,21 @@ Kade grimaced.
 
 “That is where our partnership becomes difficult.”
 
-For ten minutes, Owen translated Kade’s intuition into notation while Kade kept finding assumptions that produced physically stupid outcomes.
+For ten minutes, Owen translated Kade’s physical picture into notation while Kade kept finding assumptions that produced ridiculous outcomes.
+
+Whenever the symbols became too dense, Amadi made them state the ordinary version.
+
+“What is this term?” she asked, pointing at Owen’s third line.
+
+“Delayed southwest correction,” Owen said.
+
+“What does it do?”
+
+Kade answered. “It is the person at the corner lifting after everyone else has already moved.”
+
+“Then make sure the equation says *after*, not merely *also*.”
+
+Owen changed the term.
 
 They finished third in the class.
 
@@ -238,7 +302,7 @@ Professor Amadi stopped him before he reached the door.
 
 He turned.
 
-“Your prior transcript indicates you completed introductory calculus independently.”
+“Your transcript says you completed introductory calculus independently.”
 
 “Technically.”
 
@@ -302,8 +366,6 @@ He narrowed his eyes.
 
 “You need tutoring.”
 
-There it was.
-
 “I was happier two seconds ago.”
 
 “You understand systems and guess notation.”
@@ -340,7 +402,7 @@ Kade considered it.
 
 “Nineteen hundred.”
 
-At lunch, Eli reacted to the arrangement exactly as badly as Kade expected.
+At lunch, Eli reacted exactly as badly as Kade expected.
 
 “So you and Mara are studying alone.”
 
@@ -388,11 +450,11 @@ Kade closed his eyes.
 
 “Good.”
 
-The rest of the school day made the tutoring feel less like a social event and more like survival.
+The rest of the school day made tutoring feel less like a social event and more like survival.
 
-In Applied Mechanics, Kade lost points for failing to show a derivation he had done mentally.
+In Applied Mechanics, Kade lost points for failing to show a derivation he had completed mentally.
 
-In Conduit Theory, he misunderstood an abbreviation everyone else seemed to know from feeder programs.
+In Conduit Theory, he misunderstood an abbreviation everyone else knew from feeder programs.
 
 At conditioning, Mara corrected his stance without stopping long enough for Eli to make a face.
 
@@ -421,8 +483,6 @@ Then both of them went still.
 Kade looked at her.
 
 “He did?”
-
-Elena’s expression tightened a fraction.
 
 “In engineering school. He said if the machine worked, the symbols were showing off.”
 
@@ -468,7 +528,9 @@ Owen opened the door.
 
 Kade followed because refusing in front of Owen would turn embarrassment into a measurable decision.
 
-The room contained fourteen students, none of whom looked relieved to be there. Two wore first-year academy gray. The rest wore House colors from every year. A fourth-year from Sol sat at the front relearning fractional exponents beside a first-year who had apparently missed an entire unit on proofs. Nobody had been arranged by rank.
+The room contained fourteen students, none of whom looked relieved to be there. Two wore first-year gray. The rest wore House colors from every year. A fourth-year from Sol sat at the front relearning fractional exponents beside a first-year who had apparently missed an entire unit on proofs.
+
+Nobody had been arranged by rank.
 
 That alone made the room strange.
 
@@ -488,9 +550,7 @@ Dev pointed toward a table.
 
 Kade sat beside Owen.
 
-“Why are you here?” he asked.
-
-Owen placed his tablets on the table.
+“Why are you here?”
 
 “Proof structure.”
 
@@ -512,7 +572,7 @@ The diagnostic began with an ordinary load transfer across three supports. Kade 
 
 Dev appeared beside him.
 
-“You have omitted the initial condition.”
+“You omitted the initial condition.”
 
 “It is in the diagram.”
 
@@ -522,13 +582,31 @@ Dev appeared beside him.
 
 Dev tapped the empty first line.
 
+“The initial condition is where everybody stands before anyone moves. Write it.”
+
+“That sounds less mathematical.”
+
+“It is not less mathematical. It is merely understandable.”
+
 Kade wrote the condition.
 
 On the next problem he omitted a unit.
 
-On the third, he changed coordinate frames halfway through because the second one made the answer easier.
+Dev circled the number.
 
-Dev drew a box around the change.
+“Ten what?”
+
+“The unit is obvious.”
+
+“Ten newtons and ten transport trams are different amounts of inconvenience.”
+
+Owen coughed into his hand.
+
+Kade added the unit.
+
+On the third problem he changed coordinate frames halfway through because the second frame made the answer easier.
+
+Dev boxed the change.
 
 “Declare it.”
 
@@ -546,19 +624,19 @@ Kade looked up.
 
 The fourth problem was harder.
 
-A rescue platform hung between two field anchors while a third operator moved an injured body across it. The official solution treated the passenger as a changing load and the operators as fixed control sources.
+A rescue platform hung between two field anchors while a third operator moved an injured body across it. The official solution treated the passenger as changing weight and the operators as fixed control sources.
 
 Kade drew the first two transfer arrows.
 
 Then he stopped.
 
-“The third operator moves differently once the passenger reaches center.”
+“The carrier changes once the passenger reaches center.”
 
 Dev leaned over the table.
 
 “Why?”
 
-“Because the left anchor has to compensate.”
+“The passenger grabs them. That shifts the carrier’s balance. The person being moved is now changing the person doing the moving.”
 
 “Write it.”
 
@@ -580,15 +658,15 @@ Owen leaned closer.
 
 “The problem defines three operators and one load.”
 
-“The injured person grabs the carrier at midpoint.” Kade pointed to the small note beneath the diagram. “Now the load can change the carrier’s balance.”
+“The load just grabbed an operator. Definitions do not get to ignore hands.”
 
-Dev read the note.
+Dev read the note beneath the diagram.
 
 “Most people treat that as flavor text.”
 
 “Then most people drop the patient.”
 
-The Sol fourth-year turned around from the front table.
+The Sol fourth-year turned from the front table.
 
 “Response practical?”
 
@@ -598,7 +676,7 @@ Kade shook his head.
 
 She came over anyway.
 
-“I did this practical last year. He’s right about the grip. The training dummy locks one arm at the midpoint and everyone loses the left anchor the first time.”
+“I did this practical last year. He’s right. The training dummy locks one arm at midpoint and everyone loses the left anchor the first time.”
 
 Owen studied Kade’s interaction term.
 
@@ -612,11 +690,11 @@ He fixed it.
 
 The fourth-year supplied the actual carrier position. Owen rebuilt the proof around a cleaner frame. Kade added the correction loop. Dev made all three of them label every assumption.
 
-Their result used twice as many lines as the official solution.
+Their answer used twice as many lines as the official solution.
 
 It also kept the platform level.
 
-Dev sent a copy to the Response faculty with a note attached.
+Dev sent a copy to Response faculty with a note attached.
 
 Kade stared at the submission marker.
 
@@ -652,7 +730,7 @@ Owen kept walking.
 
 It was not friendship.
 
-But it was starting to become a language both of them spoke.
+But it was becoming a language both of them spoke.
 
 ---
 
@@ -674,7 +752,7 @@ They argued about coordinate conventions.
 
 Then sign conventions.
 
-Then whether a model that concealed physically meaningful assumptions deserved to be called elegant.
+Then whether a model that concealed a physical assumption deserved to be called elegant.
 
 Mara looked almost offended by that one.
 
@@ -690,21 +768,25 @@ She stared at him.
 
 Then, unexpectedly, smiled.
 
-“Do that again.”
+“New rule,” Mara said. “You explain the ordinary problem first. Then you earn the symbols.”
 
-“What?”
+“That is Professor Amadi’s rule.”
 
-“Explain the last problem without notation.”
+“It worked once.”
 
-Kade leaned back.
+“Dangerous sample size.”
+
+“Explain the beam problem.”
 
 The problem showed two Resonant operators stabilizing a loaded beam through independent control loops.
+
+Kade leaned back.
 
 “Two people carrying a table through a narrow door.”
 
 Mara waited.
 
-“One person thinks the table belongs to them. The other thinks it belongs to the room. Both are wrong. The important part is where the forces are allowed to go when the edge hits the frame.”
+“One person thinks the table belongs to them. The other thinks it belongs to the room. Both are wrong. The important part is where the force goes when the edge hits the frame.”
 
 Mara’s expression changed.
 
@@ -712,11 +794,11 @@ Mara’s expression changed.
 
 “Nothing.”
 
-“That’s usually not true.”
+“That is usually not true.”
 
 She turned the tablet toward him.
 
-“Write it.”
+“Now write it.”
 
 Kade did.
 
@@ -732,9 +814,7 @@ Again.
 
 They worked until the library’s evening lights shifted warmer.
 
-At 20:12, Kade’s attention failed completely.
-
-He read the same line four times.
+At 20:12, Kade’s attention failed completely. He read the same line four times.
 
 Mara noticed.
 
@@ -742,7 +822,7 @@ Mara noticed.
 
 “I’m fine.”
 
-“You just wrote lambda where you meant mass.”
+“You wrote lambda where you meant mass.”
 
 “Creative notation.”
 
@@ -750,7 +830,7 @@ Mara noticed.
 
 They went to the vending alcove.
 
-Asterion’s machines contained fruit, protein drinks, coffee, six kinds of tea, and exactly one candy bar that cost enough to offend Kade personally.
+Asterion’s machines contained fruit, protein drinks, coffee, six kinds of tea, and one candy bar expensive enough to offend Kade personally.
 
 Mara bought tea.
 
@@ -761,8 +841,6 @@ They sat on the floor near the window.
 Below them, the island’s walkways glowed blue-white.
 
 Kade said, “Did you always know you were coming here?”
-
-Mara looked at him.
 
 “To Asterion?”
 
@@ -810,8 +888,6 @@ Mara glanced at him.
 
 “I’m learning boundaries.”
 
-Her eyes narrowed.
-
 “That was terrible.”
 
 “Still true.”
@@ -822,11 +898,11 @@ They returned to the table.
 
 Mara replaced the textbook with a blank display.
 
-“The beam problem again,” she said. “No diagram this time.”
+“The beam problem again. No diagram this time.”
 
 “That seems hostile to visual learners.”
 
-“You’re going to make the diagram.”
+“You are going to make the diagram.”
 
 She read the conditions aloud while Kade drew.
 
@@ -836,11 +912,23 @@ Kade drew the beam first.
 
 Then the forces.
 
-Then two separate control loops.
+Then two control loops.
 
 Mara watched without helping.
 
-He added the sensor delay and wrote the first transfer equation.
+He added the delayed sensor.
+
+“So the east operator is driving by a mirror that shows where the road was half a second ago,” he said.
+
+“Imprecise.”
+
+“Useful?”
+
+Mara considered.
+
+“Yes.”
+
+He wrote the first transfer equation.
 
 His notation survived two full lines before he used the same symbol for output and correction.
 
@@ -854,23 +942,19 @@ Mara circled both.
 
 “That is not a defense.”
 
-Kade looked at her.
+Kade changed the symbol.
 
-Mara’s expression remained composed.
-
-He changed the symbol.
-
-On the fifth line, the east operator’s correction arrived late. The west operator corrected the correction. Kade started a third loop, stopped, and erased the boundary between the first two.
+On the fifth line, the east operator’s correction arrived late. The west operator corrected that correction. Kade started a third loop, stopped, and erased the boundary between the first two.
 
 Mara leaned forward.
 
-“Why did you do that?”
+“Why?”
 
 “Because neither loop owns the beam anymore.”
 
 “They still control their own output.”
 
-“Yes, but every choice starts from a state the other person helped create.”
+“Yes. But every choice now starts from a state the other person helped create.”
 
 Mara looked at the blank space where the dividing line had been.
 
@@ -880,11 +964,9 @@ Mara looked at the blank space where the dividing line had been.
 
 “That is not notation.”
 
-“I was hoping you wouldn’t notice.”
+“I was hoping you would not notice.”
 
-She turned the display toward herself.
-
-Instead of restoring the dividing line, she wrote a bracket around both loops and marked each operator’s limit separately inside it.
+She turned the display toward herself. Instead of restoring the line, she bracketed both loops and marked each operator’s limit separately inside it.
 
 Kade watched the symbols assemble.
 
@@ -894,9 +976,9 @@ Kade watched the symbols assemble.
 
 “Meaning?”
 
-“Meaning Professor Amadi can tell me why it’s wrong tomorrow.”
+“Professor Amadi can tell me why it is wrong tomorrow.”
 
-Mara Vey had just written uncertain mathematics on purpose.
+Mara Vey had written uncertain mathematics on purpose.
 
 Kade sat back.
 
@@ -910,11 +992,11 @@ She passed the display back.
 
 He tried.
 
-The first attempt failed because the shared bracket concealed which operator reached limit first.
+The first attempt failed because the shared bracket hid which operator reached a limit first.
 
 Mara did not fix it.
 
-She asked, “What information did you lose?”
+“What information did you lose?”
 
 Kade restored the individual limits.
 
@@ -930,7 +1012,7 @@ Not quickly.
 
 But every assumption remained visible, including the dangerous one he had wanted to hide inside the picture in his head.
 
-Mara read the final proof.
+Mara read the proof.
 
 “Acceptable.”
 
@@ -944,7 +1026,7 @@ By the end of the second hour, the symbols felt less like a foreign language and
 
 Kade stared at the final line.
 
-“So notation is basically proof that I am not quietly changing the problem in my head.”
+“So notation is proof that I am not quietly changing the problem in my head.”
 
 “Among other things.”
 
@@ -970,8 +1052,6 @@ A training harness. Two Resonant users connected through a stabilization frame.
 
 “Your assignment?”
 
-Mara looked down.
-
 “Yes.”
 
 “The coupling model is wrong.”
@@ -984,15 +1064,11 @@ She stopped walking.
 
 Mara folded her arms.
 
-“Why?”
+“Plain language.”
 
-Kade pointed at the paired control loops.
+Kade enlarged the schematic.
 
-“It assumes each user corrects independently.”
-
-“They do.”
-
-“Not after the first correction.”
+“Two people are steering the same shopping cart. The problem pretends each person is correcting the cart independently. They are not. After the first correction, each person is reacting to the cart the other person already changed.”
 
 “That delay is modeled.”
 
@@ -1000,21 +1076,15 @@ Kade pointed at the paired control loops.
 
 Mara frowned.
 
-Kade enlarged the schematic.
-
-“If you compensate for me, my next correction starts from the state you created. Then your next correction starts from mine. After enough cycles, saying there are two independent controllers is mathematically convenient and physically dishonest.”
-
-Mara’s eyes moved over the model.
-
 “What would you change?”
 
 Kade drew a line linking the loops.
 
-“Stop treating them as two operators.”
+“Stop treating them as independent while they are coupled.”
 
 “For part of the calculation?”
 
-“Whenever they are actually coupled.”
+“Whenever both corrections depend on the same changing state.”
 
 “That creates a shared state.”
 
@@ -1058,8 +1128,6 @@ Kade fell into step beside her.
 
 “That is not the answer.”
 
-Mara looked ahead.
-
 For several steps he thought she would ignore him.
 
 Then she said, “My parents both work in coupled-field systems.”
@@ -1080,7 +1148,7 @@ That was also new.
 
 House Meridian treated homework as a contact sport.
 
-Kade discovered this at twenty-two hundred when he carried the two-page note into the common room and found every table occupied.
+At twenty-two hundred, Kade carried his two-page note into the common room and found every table occupied.
 
 First-years filled the long central table. Two second-years argued over orbital mechanics beside the window. Nessa had taken the floor with a field-perception exercise spread around her in colored tiles. Somebody near the kitchen whispered vocabulary into a recorder while making noodles.
 
@@ -1088,7 +1156,7 @@ Nobody was quiet.
 
 Everyone was working.
 
-Sera sat on a couch reading an emergency-procedure manual with one boot braced against the coffee table. Eli had dismantled a pocket projector across three cushions.
+Sera sat on a couch reading an emergency-procedure manual with one boot against the coffee table. Eli had dismantled a pocket projector across three cushions.
 
 Kade held up his note.
 
@@ -1116,13 +1184,13 @@ Kade sat.
 
 The title of his note read: **DEPENDENT CORRECTION IN COUPLED OPERATOR SYSTEMS**.
 
-The page beneath it contained three false starts and one paragraph that became less comprehensible each time he read it.
+The page beneath it contained three false starts and one paragraph that became less comprehensible every time he read it.
 
 Eli leaned over.
 
 “What are you trying to say?”
 
-“That two operators stop being independent when their corrections change what the other one has to correct.”
+“That two operators stop being independent when each correction changes what the other person has to correct.”
 
 “That sentence was free. Why are the next two pages hostile?”
 
@@ -1140,7 +1208,7 @@ Eli picked up the pocket projector.
 
 “Related discipline.”
 
-He projected two white circles above the table and linked each to a blue square representing a control target. When one circle moved, its square followed.
+He projected two white circles above the table and linked each to a blue square. When one circle moved, its square followed.
 
 “Independent,” Eli said.
 
@@ -1154,7 +1222,7 @@ Kade adjusted the response delay.
 
 The jitter slowed, then amplified.
 
-“Because both corrections arrive after the other one has already changed the state.”
+“Both corrections arrive after the other person has already moved the target.”
 
 “So give one priority.”
 
@@ -1212,7 +1280,7 @@ This time Eli slowed at the door. Sera turned. The stretcher cleared, but the pa
 
 Kade watched their hands.
 
-Each was controlling a separate end.
+Each controlled a separate end.
 
 Neither could succeed alone.
 
@@ -1248,7 +1316,7 @@ With the shared state visible, each could see the load the other had created. Se
 
 The patient indicator remained centered.
 
-Eli stared at the result.
+Eli stared.
 
 “That is either obvious or illegal.”
 
@@ -1296,7 +1364,7 @@ Kade’s was not.
 
 He had improved enough to be annoyed by exactly where he had lost points.
 
-Written at the bottom of his page, beneath a long correction in red, was a single line.
+At the bottom of his page, beneath a long correction in red, Amadi had written one line.
 
 **You understand more than your notation suggests. Fix the notation before it limits the understanding.**
 
@@ -1328,7 +1396,7 @@ Eli pressed a hand to his chest.
 
 Kade laughed.
 
-That afternoon, Professor Amadi assigned a team exercise using the same two-operator coupling model Mara had questioned.
+That afternoon, Amadi assigned a team exercise using the same two-operator model Mara had questioned.
 
 Her group changed the assumptions.
 
@@ -1348,11 +1416,17 @@ Not asking permission.
 
 Acknowledging origin.
 
-Then she explained the shared-state correction in clean mathematical language Kade could almost follow.
+Then she gave the ordinary version first.
 
-Professor Amadi listened.
+“Two operators were correcting the same beam. Each correction changed the beam the other operator received. The old model treated those decisions as independent after they stopped being independent.”
 
-When Mara finished, Amadi said, “Interesting. Dangerous if generalized.”
+Amadi nodded toward the equations.
+
+“And the formal change?”
+
+Mara explained the shared-state correction in clean mathematical language Kade could almost follow.
+
+When she finished, Amadi said, “Interesting. Dangerous if generalized.”
 
 Mara nodded.
 
@@ -1416,13 +1490,13 @@ She called it a timed technical recitation.
 
 Kade called it an ambush with stationery.
 
-Teams of four received a failing stabilization system and twenty minutes to diagnose it, write the governing transfer equations, and propose a correction before the simulated structure crossed its failure threshold.
+Teams of four received a failing stabilization system and twenty minutes to diagnose it, write the governing equations, and propose a correction before the simulated structure crossed its failure threshold.
 
 Mara was assigned across the room.
 
 Eli’s team worked on the mezzanine, safely beyond signaling range.
 
-Kade’s team included Owen Park, Nessa Kim, and a feeder-program student named Leila Tran who had been writing tensor notation since approximately birth.
+Kade’s team included Owen Park, Nessa Kim, and Leila Tran, a feeder-program student who had apparently been writing tensor notation since birth.
 
 The simulation started.
 
@@ -1450,7 +1524,7 @@ Leila did not look up.
 
 “Yes.”
 
-“The structure moves before the sensor finishes reporting it.”
+“The structure moves before the sensor finishes reporting it. You are steering with yesterday’s picture.”
 
 Owen looked at Kade.
 
@@ -1490,7 +1564,7 @@ Nessa said, “West operator is compensating twice.”
 
 Kade saw it.
 
-Two people solving the same correction independently.
+Two people were solving the same correction independently.
 
 The coupled-state problem again.
 
@@ -1530,7 +1604,7 @@ Cleaner than yesterday.
 
 Owen corrected one sign.
 
-Kade corrected it and kept going.
+Kade fixed it and kept going.
 
 They submitted with forty-three seconds left.
 
@@ -1584,7 +1658,7 @@ The second had fewer.
 
 “Your shared-state model is unfinished,” she said.
 
-“I had gathered that from the weather pattern.”
+“I gathered that from the weather pattern.”
 
 “You preserve separate limits, which is good. You define a common state, which is interesting. You still do not define success until halfway down page two.”
 
@@ -1604,7 +1678,7 @@ Sera’s voice returned from the common room.
 
 Kade took the note.
 
-“So I move this to the top.”
+“So I move the success condition to the top.”
 
 Amadi’s eyebrow rose.
 
