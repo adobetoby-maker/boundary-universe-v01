@@ -6,6 +6,7 @@ on:
       - revision/listening-flow-book1
     paths:
       - 'scripts/apply_listening_flow_batch2.py'
+      - 'scripts/apply_listening_flow_batch2_fixed.py'
       - '.github/workflows/apply-listening-flow-batch2.yml'
   workflow_dispatch:
 
@@ -23,7 +24,7 @@ jobs:
           fetch-depth: 0
 
       - name: Apply exact editorial replacements
-        run: python3 scripts/apply_listening_flow_batch2.py
+        run: python3 scripts/apply_listening_flow_batch2_fixed.py
 
       - name: Commit manuscript changes
         shell: bash
