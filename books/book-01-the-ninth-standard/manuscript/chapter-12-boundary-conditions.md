@@ -30,19 +30,49 @@ Kade sighed.
 
 “No. You understand that somebody can draw them.”
 
+She added a laptop beside the glass.
+
+The water tipped.
+
+Kade watched it spread across the table toward the computer.
+
+Sen froze the image.
+
+“Did the water change?”
+
+“No.”
+
+“Did the table?”
+
+“No.”
+
+“Then why did the problem change?”
+
+“Because now the laptop is about to die.”
+
+“Exactly. The physics did not become different. What mattered did.”
+
 She erased everything.
 
-The display changed to an arena simulation. A training sphere struck a padded barrier. Colored vectors showed energy moving into the barrier frame and floor.
+The display changed to an arena simulation. A training sphere struck a padded barrier. Colored arrows showed the impact moving into the barrier frame and down through the floor.
 
-“Most Resonant instruction begins after the system has already been defined,” Sen said. “A student learns to sense a transfer, then alter it. Momentum. Pressure. Charge. Thermal energy. Structural load. Eventually several at once.”
+“Most Resonant instruction begins after someone else has drawn the box,” Sen said. “You are told which objects count. Then you learn to move momentum, pressure, charge, heat, or structural load.”
+
+“Different ways of saying something has to go somewhere.”
+
+“Yes.”
+
+“That version would improve several textbooks.”
+
+“It would shorten them. Textbook authors dislike that.”
 
 The simulation replayed.
 
 This time a Redirection user diverted the sphere sideways.
 
-The vector map brightened at the moment of contact. Energy entered the barrier, the frame, the concrete under the frame, then spread outward in branches too small for the display to label.
+The vector map brightened at contact. Energy entered the barrier, the frame, and the concrete under it, then spread outward in branches too small for the display to label.
 
-Sen paused it.
+Sen paused the footage.
 
 “Did the operator redirect the sphere?”
 
@@ -54,11 +84,9 @@ Sen paused it.
 
 “Then why did its bolts flex?”
 
-Kade glanced at her.
-
 “Because the sphere still hit it.”
 
-“So the operator changed a path without owning every consequence of the change.”
+“So the operator changed the route. They did not erase the consequences.”
 
 “That sounds less impressive when you say it that way.”
 
@@ -66,15 +94,15 @@ Kade glanced at her.
 
 She advanced the footage one frame at a time. The side rail flexed. A floor seam compressed. The table holding the recording equipment moved less than a millimeter.
 
-“The academy model stops here,” Sen said, drawing a box around the instrumented arena. “Not because the world stops here. Because beyond this line, the contribution becomes too small to matter to this exercise and too expensive to measure.”
+“The academy model stops here,” Sen said, drawing a box around the instrumented arena. “Not because the world stops here. Because the sensors stop paying attention here. Beyond this line, the contribution is too small to matter to this exercise and too expensive to measure.”
 
 “So the system is whatever the sensors can afford.”
 
 “Sometimes.”
 
-She changed the image. Now the sphere struck the same barrier in an arena occupied by two students and a referee. One student stood close enough that the diverted sphere passed across the front of her uniform.
+She changed the image. The same sphere struck the same barrier, but now two students and a referee occupied the arena. One student stood close enough that the diverted sphere passed across the front of her uniform.
 
-“Same equipment. Same transfer. Same physical boundary. Same system?”
+“Same equipment. Same transfer. Same physical walls. Same system?”
 
 Kade watched the student recoil.
 
@@ -104,11 +132,13 @@ Kade looked at the crooked white shape.
 
 “In research, bad manners are survivable. Bad bookkeeping is not.”
 
-“The operator does not normally ask whether the sphere belongs to the barrier, or the barrier to the building, or the building to the island. Those boundaries are stable enough to be assumptions.”
+She pointed to the sphere, then the barrier, then the building beneath it.
+
+“Most operators never need to ask whether the sphere belongs to the barrier, the barrier to the building, or the building to the island. Those relationships stay stable enough to treat as facts.”
 
 Kade thought of the examination.
 
-The selection box that stopped snapping to objects.
+The selection box that had stopped snapping to objects.
 
 **REDEFINE.**
 
@@ -116,7 +146,7 @@ The selection box that stopped snapping to objects.
 
 Sen folded her hands behind her back.
 
-“You appear to challenge the assumption itself.”
+“You appear to challenge the fact.”
 
 “Appear?”
 
@@ -134,7 +164,7 @@ He told her about Eli’s tactical model.
 
 The smaller anomalies.
 
-A block that pushed an opponent farther than expected. An impact that seemed to resolve through Kade with less effect than the measured acceleration predicted. A stumble whose path did not quite match the force that caused it.
+A block that pushed an opponent farther than expected. An impact that seemed to pass through Kade with less effect than the measured acceleration predicted. A stumble whose path did not quite match the force that caused it.
 
 “Nothing large,” Kade said. “Nothing I chose.”
 
@@ -188,23 +218,29 @@ Sen brought up the cracked-floor footage.
 
 The image froze at Pike’s impact.
 
-“Here is what we know.”
+“Here is what we know,” she said. “Plain version first.”
 
 Kade leaned forward.
 
-“First: Pike generated the majority of the kinetic energy involved in the event. Your body and stance contributed a smaller amount. The building contributed no unexplained energy.”
+“Pike hit you. His strike supplied almost all the energy. Your body and stance added a smaller amount. The building added nothing unexplained.”
 
-“So I did not amplify.”
+“So I did not create extra force.”
 
-“Correct.”
+“Correct. Nothing appeared from nowhere.”
 
-“Second?”
+“Good start.”
 
-“The load registered in the arena structure along a path our standard field telemetry did not detect.”
+“The bad part is where the force went.”
+
+She magnified the support lattice.
+
+The strike should have loaded the floor directly beneath Kade. Instead, the stress had traveled sideways into structural members designed for a different job.
+
+“The arena felt the impact through supports that should not have been carrying it,” Sen said. “Our normal field telemetry never saw the transfer happen.”
 
 “Because my output was zero.”
 
-“Your *conventional* output was beneath measurable threshold.”
+“Your *conventional* output was below measurable threshold.”
 
 Kade looked at her.
 
@@ -212,9 +248,9 @@ Kade looked at her.
 
 “It is an important one.”
 
-Sen magnified the support lattice.
+She traced the unexpected path with one finger.
 
-“Third: the floor damage is consistent with a transfer from Pike’s strike resolving into structural members that should not have been the primary load path.”
+“Pike supplied the hit. The floor paid for it. Something changed which route counted.”
 
 Kade stared at the fracture line.
 
@@ -242,21 +278,33 @@ His hands remembered the tremor.
 
 “The headache,” he said. “The pupil thing. Losing the day after Shah.”
 
-“We cannot yet prove causation, but the correlation is strong.”
+“We cannot yet prove the Boundary event caused every symptom, but the pattern is strong.”
 
 “So every time I do this, my brain pays for it.”
 
-“We do not know whether your brain is the source, the controller, the sensor, or merely where overload becomes symptomatic.”
+“We do not know what job your brain is doing.”
 
-“That is not reassuring.”
+“That sounds concerning.”
 
-“It should not be.”
+“It is.”
 
-Kade appreciated that more than reassurance.
+Sen counted on her fingers.
+
+“It may be the engine producing the effect. The steering wheel directing it. The dashboard detecting it. Or the fuse that fails when the rest of the system overloads.”
+
+Kade looked at her hand.
+
+“Those are four bad options.”
+
+“They are also four different medical problems. We cannot treat them as one because the symptoms happen in the same head.”
+
+That was much easier to understand and not remotely reassuring.
+
+Kade appreciated it more than reassurance.
 
 Sen opened Park’s recovery chart beside the fracture map.
 
-The first graph showed his pupil response. The second tracked motor tremor. A third plotted a set of reaction-time tests he barely remembered taking after the match.
+The first graph showed his pupil response. The second tracked motor tremor. A third plotted reaction-time tests he barely remembered taking after the match.
 
 His line fell hard after the first hour, improved, then dipped again the next morning.
 
@@ -274,15 +322,19 @@ He had missed four tones.
 
 “I thought I was fine by then.”
 
-“That is why subjective recovery is not clearance.”
+“That is why feeling recovered is not the same as being cleared.”
 
-The irritation arrived first. Then the memory of standing in the medical bay, insisting he could go back to class while Park watched him put the same shoe on the wrong foot twice.
+The irritation arrived first. Then the memory of standing in the medical bay, insisting he could return to class while Park watched him put the same shoe on the wrong foot twice.
 
 “What is the rule?” he asked.
 
 Sen closed the chart.
 
-“Until we can provoke the effect without unacceptable risk, observation only. No deliberate Boundary attempt without Park present, a safety team briefed, and the structural load mapped in advance.”
+“Observation only. No deliberate Boundary attempt without Park present, a briefed safety team, and the structural load mapped before you begin.”
+
+“Until when?”
+
+“Until we can provoke the effect without unacceptable risk.”
 
 “That could take weeks.”
 
@@ -300,25 +352,29 @@ Kade rubbed his thumb against the edge of the chair.
 
 “Right. Stupid question.”
 
-“No. An important question with an easy answer while nobody is hitting you. We need the answer to remain easy when someone is.”
+“No. It is an important question with an easy answer while nobody is hitting you. We need the answer to remain easy when someone is.”
 
 That was worse than a lecture because it sounded true.
 
-Sen replaced the arena image with a simple diagram: three connected circles with a movable line passing through them.
+Sen cleared the wall and placed three words on it.
 
-“Boundary architecture,” she said.
+**SOURCE. PATH. SINK.**
 
-“A provisional term.”
+“Before the symbols,” she said, “these mean three ordinary things. Where the trouble starts. What carries it. Where it ends.”
 
-“Yes.”
+“That sounds less mathematical.”
 
-She labeled the circles: **SOURCE**, **PATH**, **SINK**.
+“It is the mathematics before the letters dress it up.”
 
-“Conventional training asks what can move from source to sink and how an operator changes the path. Boundary architecture asks which parts are allowed to count as source, path, or sink in the first place.”
+A diagram appeared beneath the words: three connected circles with a movable line passing through them.
+
+“Conventional training asks what can move from source to sink and how an operator changes the path.”
 
 She moved the line so that it cut the middle circle in half.
 
 The labels changed. Part of **PATH** became **SOURCE**.
+
+“Boundary architecture asks who gets counted in each job before the transfer begins.”
 
 Kade frowned.
 
@@ -328,9 +384,15 @@ Kade frowned.
 
 “Usually?”
 
-“A model can be wrong in ways reality ignores. The danger is assuming reality always ignores them.”
+“A map can label a river as a road. Most of the time, reality ignores the mistake and your car gets wet. The danger is discovering a model can make the mistake operational.”
 
-Sen placed three metal disks on the desk. One copper, one black composite, one steel. She touched the copper disk.
+“That analogy became violent quickly.”
+
+“Education should have consequences.”
+
+Sen placed three metal disks on the desk. One copper, one black composite, one steel.
+
+She touched the copper disk.
 
 “This is a power cell.”
 
@@ -340,9 +402,19 @@ The black disk.
 
 The steel.
 
-“A containment shell. The cell is discharging through the conduit and heating the shell. What is the system?”
+“A containment shell. The cell discharges through the conduit and heats the shell. Where does the trouble start?”
 
-Kade pointed to all three.
+“The cell.”
+
+“What carries it?”
+
+“The conduit.”
+
+“Where does it end?”
+
+“The shell.”
+
+“Source. Path. Sink.”
 
 “Too easy.”
 
@@ -350,7 +422,7 @@ Sen moved the steel disk away.
 
 “The shell is part of a medical transport holding a patient.”
 
-He included the empty space beyond the desk.
+Kade included the empty space beyond the desk.
 
 “Patient too.”
 
@@ -360,9 +432,9 @@ Kade looked at the disks again.
 
 The answer he had been about to give stopped working.
 
-If the regulator belonged to the failing circuit, isolating it could protect the shell and kill the patient. If it belonged to the patient, the discharge path was not merely waste heat. Same components. Different obligation.
+If the regulator belonged to the failing circuit, isolating it could protect the shell and kill the patient. If it belonged to the patient, the discharge path was not merely waste heat. Same parts. Different obligation.
 
-“You can’t choose until you know what each connection does.”
+“You can’t choose the sink until you know what every connection does.”
 
 “Good.”
 
@@ -390,8 +462,6 @@ The sentence landed harder than the metal.
 
 Sen became still.
 
-There.
-
 Mara had been right.
 
 Kade sat forward.
@@ -418,7 +488,7 @@ Too clean.
 
 That was not the same answer.
 
-He felt the difference immediately.
+He heard the missing space immediately.
 
 “Modern.”
 
@@ -548,19 +618,21 @@ Kade sat beside her.
 
 Students crossed the courtyard around them. Somewhere above, a maintenance drone buzzed along the old building’s facade.
 
-He told her the explanation.
+He gave her the ordinary version first.
 
-Not every sentence.
+“Pike supplied the hit. I did not add unexplained power. The force reached the wrong supports. Sen thinks I may be changing which parts count as one system.”
 
-Enough.
+“Boundary architecture.”
 
-Existing force.
+“Yes.”
 
-Unexpected load path.
+Then he gave her the evidence beneath it.
 
 Conventional output near zero.
 
-Boundary architecture.
+Unexpected load path.
+
+Neurological cost.
 
 Mara listened without interrupting.
 
@@ -640,7 +712,7 @@ Mara ignored that.
 
 Kade’s jaw tightened.
 
-Mara turned the book so he could see a marked passage. It described recursive coupling as a problem of observation: where an analyst drew the system edge determined which feedback looked like cause and which looked like response.
+Mara turned the book so he could see a marked passage. It described recursive coupling as a problem of observation. Where an analyst drew the system edge determined which feedback looked like cause and which looked like response.
 
 “What do we know?” she asked.
 
@@ -662,7 +734,7 @@ He disliked it because it worked.
 
 “Being right near me.”
 
-“That is not a rare enough event to remain enjoyable.”
+“That is not rare enough to remain enjoyable.”
 
 Kade stared at her.
 
@@ -796,9 +868,9 @@ Eli looked almost disappointed.
 
 They prepared a clean copy.
 
-It took forty minutes because Eli had apparently written several comments about faculty models that could not safely be shared with faculty.
+It took forty minutes because Eli had written several comments about faculty models that could not safely be shared with faculty.
 
-It also took forty minutes because “observations only” turned out to require a definition.
+It also took forty minutes because “observations only” required a definition.
 
 The tactical model contained time stamps from their matches, which Eli approved. It contained dorm-room motion readings from the night Kade’s hands shook, which he did not. It contained three guesses about Kade’s sleep schedule, one note about Sera’s habit of checking the door before she sat down, and a chart correlating Taren’s lateness with dining-hall dessert quality.
 
@@ -888,7 +960,7 @@ A Redirection student changed the path of a rolling mass.
 
 A Storage student absorbed a controlled impact and released it into a damping block.
 
-Two Coupling students stabilized a suspended platform while technicians deliberately altered load.
+Two Coupling students stabilized a suspended platform while technicians deliberately changed the load.
 
 Kade wore no active Conduit.
 
@@ -926,7 +998,7 @@ She marked the response.
 
 Park set a five-minute timer beside the red control.
 
-“At each interval, you report symptoms before you report observations.”
+“At each interval, report symptoms before observations.”
 
 “What if there are none?”
 
@@ -934,7 +1006,7 @@ Park set a five-minute timer beside the red control.
 
 “Efficient.”
 
-“This is not an endurance test, Mercer. The successful result is not staying in the room longest. It is leaving with an accurate record and no injury.”
+“This is not an endurance test, Mercer. Success is not staying in the room longest. Success is leaving with an accurate record and no injury.”
 
 The distinction bothered him.
 
@@ -1022,7 +1094,7 @@ Park spoke to the technicians through the room channel.
 
 “Repeat the coupled-platform sequence. Reverse primary and support roles after ten seconds.”
 
-The students below exchanged places. One took responsibility for the platform’s vertical load. The other managed rotation. Their Conduits shifted from blue to white as the trial reset.
+The students below exchanged places. One took responsibility for vertical load. The other managed rotation. Their Conduits shifted from blue to white as the trial reset.
 
 “What am I looking for?” Kade asked.
 
@@ -1042,21 +1114,21 @@ It tipped right, faster.
 
 “They switched tasks.”
 
-“No. The first student still expects her correction to be primary. The second is waiting to support it. They’re both acting like the first arrangement still exists.”
+“No. The first student still expects her correction to be primary. The second is waiting to support it. They are both behaving as though the first arrangement still exists.”
 
 The left edge dropped again.
 
 “What happens next?” Park asked.
 
-Kade followed the sequence. The first student pushed up. The second compensated late. That delay would make the first student reduce too early.
+Kade followed the sequence. The first student pushed up. The second compensated late. That delay would make the first reduce too early.
 
-“Front right corner rises, then they overcorrect backward.”
+“Front right rises. Then they overcorrect backward.”
 
 The corner lifted.
 
 The platform rolled back.
 
-One technician reached for the emergency control, but the students separated their inputs and brought the platform level.
+One technician reached for emergency control, but the students separated their inputs and brought the platform level.
 
 Park marked something on her tablet.
 
@@ -1083,8 +1155,6 @@ Park lowered her tablet.
 “They made the boundary between their jobs explicit.”
 
 “And?”
-
-Kade watched the stable platform.
 
 “They kept changing it on purpose instead of pretending the first assignment stayed true.”
 
@@ -1200,7 +1270,7 @@ Even now, the gesture worked on both of them.
 
 Elena leaned against the wall.
 
-“He was hired through an industrial controls contractor. Ports, power routing, automated safety systems. That was what the pay records said, and some of it was real. He would come home complaining about load-balancing software and spend half of dinner drawing diagrams on whatever paper was near him.”
+“He was hired through an industrial-controls contractor. Ports, power routing, automated safety systems. That was what the pay records said, and some of it was real. He would come home complaining about load-balancing software and spend half of dinner drawing diagrams on whatever paper was near him.”
 
 “What kind of diagrams?”
 
@@ -1388,12 +1458,9 @@ Nobody demanded the rest.
 
 That made it easier to give them some of it.
 
-
-
 “Mom remembers a refrigerator losing an argument with Aaron,” Kade said. “Nothing she knows how to connect to Sen.”
 
 Taren lowered himself into the last open chair.
-
 
 “The refrigerator knows too much,” Taren said.
 
@@ -1415,7 +1482,7 @@ Kade had once believed serious things required being alone with them.
 
 Asterion kept proving otherwise.
 
-He sat down beside Eli.
+He sat beside Eli.
 
 The questions remained.
 
