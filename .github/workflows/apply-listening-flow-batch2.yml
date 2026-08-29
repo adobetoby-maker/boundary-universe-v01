@@ -1,0 +1,39 @@
+name: Apply Listening Flow Batch 2
+
+on:
+  push:
+    branches:
+      - revision/listening-flow-book1
+    paths:
+      - 'scripts/apply_listening_flow_batch2.py'
+      - '.github/workflows/apply-listening-flow-batch2.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v4
+        with:
+          ref: revision/listening-flow-book1
+          fetch-depth: 0
+
+      - name: Apply exact editorial replacements
+        run: python3 scripts/apply_listening_flow_batch2.py
+
+      - name: Commit manuscript changes
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo 'No manuscript changes to commit.'
+            exit 0
+          fi
+          git config user.name 'boundary-universe-editor'
+          git config user.email 'actions@users.noreply.github.com'
+          git add books/book-01-the-ninth-standard/manuscript
+          git commit -m 'Apply listening-flow climax and training edits [skip ci]'
+          git push origin HEAD:revision/listening-flow-book1
