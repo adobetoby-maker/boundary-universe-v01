@@ -1,0 +1,52 @@
+name: Listening Flow Audit
+
+on:
+  push:
+    branches:
+      - revision/listening-flow-book1
+    paths:
+      - 'books/book-01-the-ninth-standard/manuscript/**'
+      - 'scripts/listening_flow_audit.py'
+      - '.github/workflows/listening-flow-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out listening-flow branch
+        uses: actions/checkout@v4
+        with:
+          path: repo
+          fetch-depth: 1
+
+      - name: Check out Contact Zero comparison source
+        uses: actions/checkout@v4
+        with:
+          ref: revision/pass8-reader-review-contact-zero
+          path: contact-zero
+          fetch-depth: 1
+
+      - name: Stage Contact Zero manuscript for comparison
+        shell: bash
+        run: |
+          mkdir -p repo/books/book-01-contact-zero
+          rm -rf repo/books/book-01-contact-zero/manuscript
+          cp -R contact-zero/books/book-01-contact-zero/manuscript repo/books/book-01-contact-zero/manuscript
+
+      - name: Run listening-flow audit
+        shell: bash
+        run: |
+          cd repo
+          python3 scripts/listening_flow_audit.py
+
+      - name: Upload audit report
+        uses: actions/upload-artifact@v4
+        with:
+          name: listening-flow-audit
+          path: repo/build/listening-flow-audit/
+          if-no-files-found: error
+          retention-days: 30
