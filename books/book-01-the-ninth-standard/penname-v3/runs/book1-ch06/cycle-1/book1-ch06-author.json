@@ -1,0 +1,73 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch06-author-recovery-c1-1788177987",
+  "scene_id": "book1-ch06",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-06-forty-seven-seconds.md",
+  "word_count": 6413,
+  "obligations": [
+    {
+      "obligation": "First combat assessment. Kade loses but performs impossible-looking momentum routing in the final seconds. Faculty quietly flag the footage.",
+      "status": "MET",
+      "evidence": "Draft lines 153-237: assessment runs 0:03 to 0:47; at 0:41 Priya's palm lands and the wall booms, lights flicker, stress lines flash, Kade's knees give; line 273 Hale: 'Match to Shah. Mercer unable to continue.' Lines 293-301: STRUCTURAL LOAD EVENT / SOURCE: UNRESOLVED, six-frame telemetry hole, DATA FLAGGED — RESTRICTED REVIEW; lines 281-287 Sen's 'Yes' / 'Not here'; line 401 Eli's access removed; lines 411-433 Sen restricts field activity and withholds the word."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Scene construction differs from the frozen source: drone-tell drill in Bay One (lines 5-71) replaces the baton/marker-square drill; breakfast scene replaced by the walk-over delegation and fork (75-77); Priya's 'Sorry' beat moved to the equipment bay (125-135, 311-315); arena narrated through the floor/lattice/wall chain rather than staccato fragments; new two-minute medical-bay call honoring the ch05 'hurt goes right then' deal (357-379); room scene restaged with the model in the air and Kade erasing the foot-to-floor line by instruction (465-531); roof ending built on the ch05 pencil (549-599). Caveat disclosed in deviations: several source narration sentences and short exchanges survive near-verbatim; editor should judge whether they cross the synonym-swap line."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Priya Shah 6,204 / Standard One / three years prep (61); 12% cap, novice contact, strips-keyed force, two ambers / one red (99-101); MEASURED SAFE MAXIMUM UNRESOLVED form (99); withdrawal terms (111); Hale's rules (147); Park and Sen in booth, Taren unassigned (139-143); 0:03 first hit and start-circle scuff (157-159); 'Nothing' held back (191); 0:41 charge, cold line, wall boom, 0:47 stop (221-237); headache 4 / nausea 2 / tremor / unequal pupils (251-289); six frames, DATA FLAGGED (295-301); three hours medical, Tuesday/Wednesday, seven-sided shape, nausea 1 to 3, 'condition of the problem' (319-355); pupils matched, headache 2, no structural injury, no conventional discharge (381); Priya's forty-four seconds (393); 318 notifications, Eli's column, 50k views, ZERO IS CHEATING (401-403); Sen: cleared for housing, no unsupervised field activity, 'Until we understand', careful sentence, name withheld, 'So did we' (411-445); Eli's hug, room annexed, six-frame gap, Taren's 'House systems have gaps', UNASSIGNED LOAD, Taren's one-body suggestion, Kade's refusal, erased foot/floor line, tremor, Sera kills display, takeout (451-545); Elena: 'Do you want me there?', 'No... not because', three people from work, surgeon, 'You got up every time' (553-591); bell silent fourteen months and ten days, wanting to know what he had done (597-599). Minor non-ledger variances listed in deviations."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Author self-assessment, not independently verifiable: causal chain of force made concrete before the anomaly (173, 193, 223-225); the one conventional correction is earned in the drill and paid off at 0:19 (51-57, 175-177); the anomaly costs headache, tremor, anisocoria, restriction, and a wrong weekday (237-241, 289, 323-329, 411); receipts written down as Park's word on a duty sheet (551-557); close-third practical attention (shoes, collar, strips, plate response, basin)."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "No profanity, sexual content, or lingering gore located on read-through; injuries are controlled-contact and neurological. Audio: scene breaks are marked; speakers are tagged at every exchange change except short two-voice runs. Flag for editor: lines 183-189 run four untagged lines before 'She stepped back' resolves who spoke; lines 303-309 rely on the reader tracking Sen versus Kade across a joke."
+    }
+  ],
+  "inventions": [
+    "Drone-based tell drill in Bay One using Eli's rebuilt drone from ch05 (lines 5-57), replacing the source's baton and marker square; retains the locked 160-millisecond shoulder-tell fact and Sera's foot correction.",
+    "Mara's line 'Once is weather' and the 'Which foot?' / 'Find out' exchange (55, 67-69), replacing the source's across-the-barrier 'Watch her right foot'.",
+    "Breakfast replaced by a walking delegation and the corridor fork (75-77); Priya's 'Sorry / You'll see' beat moved to the equipment bay and post-match floor (125-135, 311-315).",
+    "Hale's rules question changed to 'What counts as an event?' / 'Anything this room can't explain' (149-151).",
+    "Priya's floor-plate calibration described from Kade's viewpoint, including PLATE RESPONSE: NONE on his own screen (107-109).",
+    "Intermediate clock marks staged at 0:10, 0:19, 0:28, 0:33 (source 0:09, 0:18, 0:27, 0:31/0:36); 0:03, 0:41, 0:47 unchanged.",
+    "Kade grips Priya's elbow rather than her wrist at 0:28 (197-207).",
+    "Two-minute medical-bay call to Elena under Park's clock, honoring the ch05 'cold at twenty hundred, hurt right then' rule (357-379).",
+    "Priya offers 'Lunch tomorrow' to explain the floor technique (397).",
+    "Sen phrases the withheld name as 'There is a word. You are not getting it from me today' (433); same reveal content as the source, slightly more explicit that a word exists.",
+    "Bedsheet from ch05 repainted with 'WALL, ONE. MERCER, NOTHING.' and 'SHAH, ONE. READ THE BOARD.' (449), replacing the source's elevator sign and Priya's forum reply.",
+    "Eli's model drawn in the air over the far bed in place of the ch05 wire drone (465); Eli's 'Six minutes' / Sera's 'Too many' (531) replacing eight/ten minutes.",
+    "Roof scene: Kade writes Park's findings with the ch05 pencil on a Meridian duty sheet and reads them to Elena as 'the word' (549-557, 595).",
+    "Elena's line 'Eleven times, according to Darius. Twice, according to me' (585); Darius is an established ch1-2 character.",
+    "Numbered italic message device continued from ch05 (*Twelve.* line 3, *Thirteen.* line 407).",
+    "Academy-issued shoes from the ch05 box worn for the assessment (13-15) instead of the source's borrowed shoes after a failed equipment check.",
+    "Unnamed background texture: forum comments, seat behaviour, surgeon at Elena's work."
+  ],
+  "state_change_proposals": [
+    "Rewrite-only prop thread: Kade has now used the ch05 pencil for the first time (Park's discharge findings on a Meridian duty sheet, kept). Suggest a rewrite-ledger note so ch07+ can honor it or ignore it deliberately.",
+    "Rewrite-only relational fact: Elena received two calls on assessment day — a two-minute 'hurt' call from medical under Park's supervision and the twenty-hundred call with the doctor's word. The ch05 deal is on record as honored.",
+    "Priya has proposed lunch the following day to explain floor manipulation; ch07 may pick this up or drop it without contradiction.",
+    "The Meridian bedsheet now carries WALL, ONE. MERCER, NOTHING. / SHAH, ONE. READ THE BOARD. in addition to the ch05 text.",
+    "Eli's telemetry access was revoked after roughly eleven minutes (source: temporary access); no change to canon, recorded for continuity.",
+    "No changes proposed to canon, rank arithmetic, reveal order, chapter outcome, or Book Two facts."
+  ],
+  "deviations": [
+    "Word count 6,413 exceeds the packet ceiling of 6,272 (5,600 ±12%) by 141 words; finding B1C06-E03 is reduced from 464 over to 141 over but not fully repaired.",
+    "Retained near-verbatim source language despite restaging: line 355 (pain as information / Park treats it as a condition of the problem), line 249 (people who frightened rooms), line 141 ('Of course.'), line 247 ('That was not quite true'), line 401 (Eli's notification column), lines 537-545 (rice/vegetables/chicken takeout exchange and 'Nobody asked him anything else'), lines 273-287 and 441-445 (locked dialogue beats: 'Match to Shah', 'You remained combat capable', 'Yes', 'Not here', 'You did not win... So did we'), and the closing two lines 597-599. Editor to judge whether these cross the B1C06-E01 synonym-swap line.",
+    "Internal timeline slip at line 15: the academy shoe box was shelved during ch05 unpacking (yesterday relative to this chapter), but the draft says 'two days ago'. The other 'two days ago' callbacks (Sen's elevator line, ch04 line 267; Elena's 'Do you want to come home?', ch04 line 471) are consistent.",
+    "Shoe provenance changed from source (borrowed after failed equipment check) to academy-issued shoes from the ch05 box; the Okafor scanner check is preserved.",
+    "Elena call restaged: Kade initiates at twenty hundred per the ch05 rule, with an added medical-bay call, instead of Elena calling at 21:10.",
+    "Intermediate match timestamps shifted by roughly one second from the source (see inventions); 0:03, 0:41, and 0:47 are unchanged.",
+    "Source's Hale exchange ('measured safe maximum is zero' / 'I recommend creativity') replaced; source's explicit REDEFINE recall replaced by an oblique reference to the ch04 examination (line 247).",
+    "Word count derived by ripgrep whitespace-token enumeration rather than wc -w because no shell was available in this session; an independent manual tally returned 6,407."
+  ],
+  "blockers": []
+}

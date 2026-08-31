@@ -1,9 +1,9 @@
 {
   "schema_version": "3.1",
-  "scene_id": "book1-ch06",
+  "scene_id": "book1-ch07",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "line_edit",
+  "job": "draft",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -12,7 +12,6 @@
     "registry": "9cab5f30f45e9eed7c8aa1de28e37a1d6c60398a136f17005abf3ba50594b43a"
   },
   "modules": [
-    "combat",
     "progression",
     "moral-choice"
   ],
@@ -25,10 +24,10 @@
       "Treat registry role descriptions as naming aids, not story authority."
     ]
   },
-  "purpose": "Freshly re-author Chapter 6, Forty-Seven Seconds. Locked chapter function: First combat assessment. Kade loses but performs impossible-looking momentum routing in the final seconds. Faculty quietly flag the footage.",
+  "purpose": "Freshly re-author Chapter 7, The Suppression Order. Locked chapter function: Sen orders conservative training limits. Kade hears a distorted version. Campus interprets it as institutional suppression. End Act I: Kade decides if they want him last, he will climb anyway.",
   "scene_shape": {
     "opening_state": "Preserve the incoming physical, relational, rank, and knowledge state established by the prior chapter and ledgers.",
-    "pov_goal": "Give the viewpoint character an immediate, concrete objective that delivers this chapter function: First combat assessment. Kade loses but performs impossible-looking momentum routing in the final seconds. Faculty quietly flag the footage.",
+    "pov_goal": "Give the viewpoint character an immediate, concrete objective that delivers this chapter function: Sen orders conservative training limits. Kade hears a distorted version. Campus interprets it as institutional suppression. End Act I: Kade decides if they want him last, he will climb anyway.",
     "opposition": "Use the source chapter's causal obstacles and social pressures; make resistance active rather than summarized.",
     "turn": "Preserve the locked decisive reversal or discovery, but stage it freshly with visible cause and consequence.",
     "choice": "Make the viewpoint character choose under pressure; do not let power, coincidence, or an authority figure make the emotional decision for them.",
@@ -37,7 +36,7 @@
   },
   "obligations": {
     "must_include": [
-      "First combat assessment. Kade loses but performs impossible-looking momentum routing in the final seconds. Faculty quietly flag the footage.",
+      "Sen orders conservative training limits. Kade hears a distorted version. Campus interprets it as institutional suppression. End Act I: Kade decides if they want him last, he will climb anyway.",
       "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
       "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
       "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
@@ -120,33 +119,18 @@
     {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
-      "path": "penname-v3/manuscript/chapter-05-house-meridian.md",
-      "required": true
-    },
-    {
-      "kind": "reference",
-      "label": "Current rewrite to repair",
       "path": "penname-v3/manuscript/chapter-06-forty-seven-seconds.md",
       "required": true
     }
   ],
-  "verified_findings": [
-    {
-      "id": "B1C06-E05",
-      "severity": "MEDIUM",
-      "gate": "Authority conflicts: canon and causal continuity",
-      "evidence": "penname-v3/manuscript/chapter-06-forty-seven-seconds.md:369-369: No structural injury. No conventional discharge from him or from anything in the room. Verification: The categorical medical statement contradicts Priya's established conventional field activity instead of limiting the negative result to Kade or the anomalous transfer. The finding and reader consequence are verified. The run remains on structural hold because the required report could not be written under the read-only filesystem policy.",
-      "consequence": "Park's categorical statement erases Priya's established conventional field activity during the bout. A careful reader may interpret the medical report as contradicting both the visible fight mechanics and the room telemetry rather than distinguishing Kade's anomalous event from Priya's authorized discharge.",
-      "repair_target": "Limit Park's statement to Kade or to the unexplained transfer event, preserving the fact that Priya produced authorized conventional pulses during the assessment."
-    }
-  ],
+  "verified_findings": [],
   "exceptions": [],
   "output": {
-    "draft_path": "penname-v3/manuscript/chapter-06-forty-seven-seconds.md",
-    "report_path": "penname-v3/reports/current/book1-ch06-author.json",
-    "editor_report_path": "penname-v3/reports/current/book1-ch06-editor.json",
-    "verifier_report_path": "penname-v3/reports/current/book1-ch06-verifier.json",
-    "target_words": 5600,
+    "draft_path": "penname-v3/manuscript/chapter-07-the-suppression-order.md",
+    "report_path": "penname-v3/reports/current/book1-ch07-author.json",
+    "editor_report_path": "penname-v3/reports/current/book1-ch07-editor.json",
+    "verifier_report_path": "penname-v3/reports/current/book1-ch07-verifier.json",
+    "target_words": 4900,
     "tolerance_percent": 12
   }
 }

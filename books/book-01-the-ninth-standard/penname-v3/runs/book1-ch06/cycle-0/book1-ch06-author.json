@@ -1,0 +1,89 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch06-author-recovery-c0-1788176536",
+  "scene_id": "book1-ch06",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-06-forty-seven-seconds.md",
+  "word_count": 6736,
+  "obligations": [
+    {
+      "obligation": "First combat assessment. Kade loses but performs impossible-looking momentum routing in the final seconds. Faculty quietly flag the footage.",
+      "status": "MET",
+      "evidence": "Assessment vs Priya Shah (#6,204, Standard One) runs on a visible clock 3/9/18/27/31/36/41/47 (draft lines 247-335). At 41s Kade, heel on the boundary strip, has Priya's palm-strike resolve into the barrier wall instead of his body (lines 321-335); Hale calls 'Match to Shah. Mercer unable to continue' (line 371). Flagging: replay shows a six-frame telemetry dropout, then 'DATA FLAGGED — RESTRICTED REVIEW' (lines 403-409); Sen answers 'Yes' / 'Not here' (lines 379-385); Eli's House telemetry access is removed (line 543); Sen imposes restriction from unsupervised field activity 'until we understand what happened' (lines 571-583)."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MISSED",
+      "evidence": "Honest self-assessment: the draft re-voices the source into Fantasy Author A paragraphing and adds new connective material (4 a.m. equipment-check notice and the ch5 shoebox, lines 5-7; Bay One/Bay Two seam, line 13; the medical-bay call to Elena under the 'hurt goes right then' rule, lines 471-507; 'Twelve'/'Thirteen' numbered messages, lines 3 and 563; Hale's description, line 219; Sen without a cup, lines 273 and 367). But the beat order is identical to the frozen source and a large share of dialogue is retained verbatim or near-verbatim across every section: square drill ('Your shoulders tell the truth before your feet do', 'Acceptable' / 'Do it twice'), breakfast (Anton/Nessa/Sera/Eli four-percent paragraph, 'If she were awful you could get angry instead of learning'), equipment bay (contract text, 'Then let's make some bad evidence' / 'extensive storage'), arena ('Then I recommend creativity', 'I dislike preventable stupidity', 'Maybe I like architecture', the relationships/'a decision about where one thing stopped and another began' passage), Park's battery ('Neurological injuries reward performance', 'My skin is dramatic'), notifications, Sen's 'It means three' / 'Not one I'm prepared to give you today', Meridian model ('the divisions felt optional', UNASSIGNED LOAD, 'Systems evolve'). By my estimate roughly 15-20% of the text is new; the rest is a close restaging. The editor should judge whether this clears the bar; I am not claiming it does."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Preserved: Priya 6,204 / Standard One / three years prep (line 89); 12% output cap, novice contact protocol, strips/collar/amber-red rules (lines 157-159, 221); all timer beats; wall boom, flexed barrier, floor stress lines, six-frame telemetry gap, STRUCTURAL LOAD EVENT / SOURCE: UNRESOLVED, DATA FLAGGED banner; power cost (knees fail, headache 4->2, nausea 2->3->1, tremor, unequal pupils, missed orientation day, three hours in medical, no structural injury, no conventional discharge); Sen's careful non-answer and 'So did we'; Eli's revoked access; Taren's reaction to 'everything was connected' (line 681) and his one-body suggestion (line 715); the Meridian model erasure and Sera stopping the screen; restriction from unsupervised field activity; Elena has seen the clip, asks 'Do you want me there?', Kade says No; ends with 'He wanted to know what he had done.' Seam facts carried correctly: bell at fourteen months and TEN days (ch5 said nine, line 811), Sen's ch4 cup/elevator callbacks (lines 273, 367, 607), Elena's 'nothing folded up' question from ch4 (line 785), Sera taking Eli's roll from ch5 (line 745), seventeen years / the pencil box age. Rank arithmetic untouched; combat line stays unresolved. Exceptions I changed are listed under deviations (weekday, who initiates the Elena call, officer left unnamed, shoes) — none alters canon, reveal order, or ranks, but the editor should rule on whether the weekday and the call-initiation beat count as durable."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third on Kade throughout, past tense; no villain or omniscient viewpoint; Sen's motives stay opaque. Receipts are concrete: 160 ms shoulder tell (line 69), disc-square timing, contract rows, symptom scores, six frames, 318 notifications. Wonder stays rule-bound (force must go somewhere; the wall takes load; cost follows immediately). Emotional grounding via the Elena calls and the 'divisions felt optional' scene. Caveat: because much phrasing is inherited from the source, the voice gain is mostly in paragraphing, connective tissue, and the added scenes rather than a full re-imagining."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "No profanity, no sexual content, no lingering gore (injury is described as pain scores, shaking hands, unequal pupils). Contact is controlled and consent/stop conditions are stated aloud before the match (lines 159, 169, 193). Audio: speakers are identifiable in exchanges (two-party alternation, tags at turns); on-screen text is short and read as words (MEASURED SAFE MAXIMUM: UNRESOLVED; DATA FLAGGED — RESTRICTED REVIEW; forum lines). Residual audio risks for the editor: the italic numbered messages ('Twelve.' line 3, 'Thirteen.' line 563) rely on the series device from ch4-5 rather than an in-line speaker cue; 'Five fifty.' (line 5) is a clock time that follows a message beginning 'Twelve.' and may momentarily read as another count."
+    },
+    {
+      "obligation": "Plants: preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
+      "status": "MET",
+      "evidence": "CLUE_LEDGER line 11 (Forty-Seven Second Fight proves consequence without a measurable transfer path): six-frame dropout + 'zero output' + wall load (lines 403-405, 525). Line 9 (Sen already has terminology): 'Not one I'm prepared to give you today' (line 605) without naming Boundary architecture. Line 10 (Kade perceives relationships without field): lines 289-293, 323-325, 679-689. Line 12 (Eli anomaly tracking): 'The gap is exactly six frames' (line 651). Line 17 (Taren access clues): 'House systems are porous' (line 659), his one-body suggestion and lingering look (lines 681, 691, 715, 807). REDEFINE is only recalled obliquely ('a word white on black', line 345) — not respent."
+    },
+    {
+      "obligation": "Payoffs: deliver all chapter-assigned payoffs without advancing later-book answers.",
+      "status": "MET",
+      "evidence": "No later answer is spent: Sen does not name the phenomenon, Aaron is not referenced, 'Boundary' is never used, Taren's role is only a reaction. Julian is not advanced beyond ch5. Chapter 7's suppression order is only set up ('Tomorrow we discuss training', line 609)."
+    },
+    {
+      "obligation": "Prohibited outcomes: no canon/reveal-order/outcome/rank change; no effortless dominance or removed cost; no profanity, explicit content, lingering gore, or new named character; no drafting notes or metadata in prose.",
+      "status": "MET",
+      "evidence": "Outcome is a loss with immediate neurological cost and a restriction. No new named characters — all names (Kade, Eli, Sera, Mara, Priya Shah, Anton Bell, Nessa Kim, Hale, Park, Sen, Taren Holt, Elena, Renn) exist in NAME_REGISTRY or prior rewrite chapters; the source's 'Okafor' was dropped rather than replaced. No drafting notes, counts, or metadata appear in the manuscript file."
+    }
+  ],
+  "inventions": [
+    "Automated 4 a.m. equipment-check failure notice with an overhead photograph of Kade's own sneakers, which is why he finally opens the academy shoebox from ch5 (lines 5-7). Replaces the source's 'borrowed training shoes'.",
+    "Drill staged in Bay One because Bay Two is still closed from Eli's ch5 drone incident; Eli awake with toast at 5:50 (lines 9-21).",
+    "Instructor Hale given a physical description and slate (line 219); the source only gives his voice.",
+    "Sen shown 'without a cup this time' in the booth and 'no cup, no lifted hand' on the floor, calling back the ch4 round room and elevator (lines 273, 367, 607).",
+    "Priya's flat-pinned braid and her way of moving through a crowded aisle without touching anyone (line 111); Priya's parting 'Different floor. Same House. Dinner's at seven.' (line 537).",
+    "The exit-door motif: the withdrawal option framed as 'a door in the wall with the handle on his side, offered before he had asked, the way this island kept doing' (line 171), echoing Sera's ch5 laundry-stair lesson.",
+    "Kade's cornering made semi-deliberate: he admits he does not know why he backed to the strip, and that part of him 'had picked the ground before the rest of him had voted' (lines 317-319). Source: 'He barely realized it himself.'",
+    "A supervised four-minute call to Elena from medical, initiated by Kade under the ch4/ch5 rule 'Cold goes at twenty hundred. Hurt goes right then', with Park's 'care, not evaluation' coverage line and a wall timer (lines 471-507). New scene.",
+    "Elena's 'Word.' ritual and Kade having written Park's discharge words on his hand; Elena writing them on the folder (lines 757-761).",
+    "Continuation of the numbered italic message device from ch4-5: 'Twelve. Today somebody gets to hit you and it counts as school...' (line 3) and 'Thirteen. Everybody's watched you fall over. I've watched it nine times. The wall is my favorite character.' (line 563).",
+    "Sera's 'You took Eli's roll last night' replacing the source's 'You stole my food yesterday', to match the ch5 rewrite (line 745).",
+    "Kade's memory of the anomaly rendered as 'a steel ball in a chamber, and a line through a platform, and a word white on black' (line 345) — a paraphrase of the source's 'The examination. The line through the platform. REDEFINE.' I did not re-verify the steel-ball image against the ch1 rewrite; editor should confirm it matches the examination staging there.",
+    "Unnamed background texture: the hand-lettered sign edit sequence attributed to Mara by handwriting (line 627); Elena's corridor echo and 'I'm on until six' shift detail (lines 479, 497)."
+  ],
+  "state_change_proposals": [
+    "Bell counter advances to 'fourteen months and ten days' on the assessment day (line 811), consistent with ch5's 'nine days' the previous night.",
+    "Kade has now disclosed a 'hurt' event to Elena in real time under the ch4/ch5 rule, and Elena holds Park's exact discharge wording plus the restriction terms; Park has Elena's page on file and covers the call as care rather than evaluation. This is a relationship advance relative to the source (where Elena had to call him at 21:10 after he forgot).",
+    "Kade is wearing academy-issued shoes; the ch5 unopened shoebox is resolved (line 7). Registry/state note: the source's 'borrowed training shoes' is superseded.",
+    "Priya Shah: same House, different floor, friendly; has extended a dinner invitation (line 537). No relationship beyond friendly rival/teammate is implied.",
+    "Kade restricted from unsupervised field activity until further notice, by Sen in person; combat rating remains unresolved; Sen has promised a training discussion the next day (lines 567-613). Same as source.",
+    "Eli's temporary House-system access to arena telemetry has been revoked; Eli and Taren gave 'suspiciously compatible answers' about how he had it (lines 543, 655-661). Same as source.",
+    "Assessment day is written as a Sunday (Kade says Saturday, Park corrects to Sunday; lines 431-435, 515). Source says Tuesday/Wednesday. If the editor keeps the draft's day, the state ledger should record it; if not, lines 433, 435, and 515 need the source weekdays restored.",
+    "The equipment officer is unnamed in the rewrite; NAME_REGISTRY row 'Equipment Officer Okafor | 6' would no longer be exercised by the rewritten chapter (this also sidesteps collision-docket item 2, but it was not an authorized rename decision on my part).",
+    "Hale's stated abort authority ('If an event occurs, Instructor Hale stops the assessment', line 159) is now explicit in ch6 and should be kept consistent with ch11's abort contract."
+  ],
+  "deviations": [
+    "Length: 6,736 words (whitespace-split) against target 5,600 with 12% tolerance (4,928-6,272). Draft is 464 words over the upper bound, 20.3% over target. The source is recorded at 5,668 in the state ledger. Primary overage sources: the added medical-bay Elena call (~330 words) and expanded equipment-bay/arena connective prose.",
+    "Freshness: beat order and a large fraction of dialogue are carried over from the frozen source verbatim or near-verbatim (see obligation 2). This is the most likely failing point on editor review.",
+    "Weekday changed from source: Kade's wrong answer 'Tuesday' / Park's 'It is Wednesday' became 'Saturday' / 'It is Sunday' (lines 431-435, 515). I did not find a locked weekday in the ledgers or ch5 seam; ch5 references a Thursday dining-close and 'Friday assessments', which the editor should reconcile against a Sunday assessment with an afternoon session and classes.",
+    "Elena call restructured: source has Elena calling at 21:10 before Kade remembered his promise; draft has Kade initiating a call from medical (new) and then calling at exactly twenty hundred from the roof (lines 471-507, 753-805). Motivated by the ch4/ch5 'hurt goes right then' rule, but it changes a small relational beat (Kade lapsing vs. Kade keeping the promise) and moves the call time.",
+    "Equipment officer Okafor (named in source and registry) left unnamed (line 137). Not a rename, but a dropped registry name.",
+    "Source's 'borrowed training shoes' replaced with academy-issued shoes from the ch5 box (lines 5-7).",
+    "Source's Taren introduction paragraph (met on the roof the previous night; talks easily, knows everyone, answers adjacent to the question) omitted, relying on the ch5 rewrite's roof scene (line 217 keeps only that he had no reason to be in the session).",
+    "Park's 'transient anisocoria' exchange simplified to 'your pupils are two different sizes' (line 395), dropping the 'What did you just call me?' joke.",
+    "Kade's choice to corner himself made slightly more intentional than the source's 'He barely realized it himself' (lines 317-319).",
+    "Minor omissions from source: sound-localization test, Kade re-watching the replay a second time, 'Kade hated Meridian before eight in the morning'."
+  ],
+  "blockers": []
+}

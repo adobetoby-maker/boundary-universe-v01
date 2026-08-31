@@ -1,0 +1,74 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch06-author-c2",
+  "scene_id": "book1-ch06",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-06-forty-seven-seconds.md",
+  "word_count": 6185,
+  "obligations": [
+    {
+      "obligation": "B1C06-E01-R1: materially re-stage medical aftermath, faculty response, Meridian interpretation, and closing relationship beats while preserving locked facts",
+      "status": "MET",
+      "evidence": "Medical: Park's rolling-chair door-count test (missed door replaces Tuesday/Wednesday as the transient processing symptom), Priya sharing the observation room with an iced shoulder, hidden-tremor honesty beat with Park's 'two becomes four' arithmetic, Park calling Elena directly. Faculty: Sen walks Kade to the Meridian bridge; restriction shown as band change to SUPERVISED ONLY; she concedes a name exists and withholds it; new exit line. Meridian: no-screens human replay in Bay One with Mara/Eli/Taren/drone; Taren's 'one body' clue kept as a physical move; Sera ends it on tremor; Dining Close Thursday beat. Closing: Elena's 19:59 call with the 'what didn't you tell her' admission; pencil's first written line is the question. Drone drill, equipment bay, arena retained as instructed."
+    },
+    {
+      "obligation": "B1C06-E03-R1: reduce manuscript to 6,272 words or fewer",
+      "status": "MET",
+      "evidence": "Whitespace-token count via ripgrep pagination = 6,185 (no shell available; method equivalent to wc -w). Verifier should confirm with their counter."
+    },
+    {
+      "obligation": "B1C06-E04: fix 'two days ago' shoe-box seam",
+      "status": "MET",
+      "evidence": "Line 15 now reads 'exactly as he had put it yesterday'. Remaining 'Two days ago, in an elevator' refers to the Chapter 4 elevator, which is two days before Chapter 6."
+    },
+    {
+      "obligation": "Chapter function: first combat assessment, Kade loses, impossible-looking momentum routing in final seconds, faculty quietly flag footage",
+      "status": "MET",
+      "evidence": "Arena section unchanged: loss at 0:47, wall takes the load, DATA FLAGGED — RESTRICTED REVIEW, Eli's telemetry access revoked."
+    },
+    {
+      "obligation": "Preserve durable facts: symptoms, restriction, Sen's withheld word, Taren access/timing clues, Elena reporting rule, pencil, bell count, forum name, 318 notifications, Priya lunch, no conventional discharge",
+      "status": "MET",
+      "evidence": "Headache 4→3→2, nausea 2→3 corrected, unequal pupils matched by third hour, intermittent tremor, one orientation miss; SUPERVISED ONLY until understood; Sen: 'Does it have a name?' 'Yes.' 'Not from me today'; Taren's 'House systems have gaps' arriving with Eli's answer and his 'one body' suggestion; 'Twenty hundred / hurt right then' honored via Park's call and the 19:59 call; pencil written with on the roof; fourteen months and ten days; THE FORTY-SEVEN SECOND FIGHT / ZERO IS CHEATING; 318 notifications; Priya lunch tomorrow; Park: 'No conventional discharge from him or from anything in the room.'"
+    },
+    {
+      "obligation": "Do not spend later reveals; no Boundary terminology; no new named characters",
+      "status": "MET",
+      "evidence": "Sen never gives the term; Kade's description stays experiential; no new names introduced. Dropped the unverifiable 'Renn' reference."
+    },
+    {
+      "obligation": "Family-clean and audio readability",
+      "status": "MET",
+      "evidence": "No profanity; band text rewritten as spoken words (LOSS. FORTY-SEVEN SECONDS. CONTACT: NOVICE.); the human replay is staged with named positions so a listener can track who stands where."
+    },
+    {
+      "obligation": "Chapter-end state and pull into Chapter 7",
+      "status": "MET",
+      "evidence": "Kade medically restricted, connected to people who model the event without overriding his limits, Sen meeting tomorrow ('Tomorrow Sen would tell him what he was not allowed to do')."
+    }
+  ],
+  "inventions": [
+    "Park's sensor chair and corridor door-count as the lived orientation test (Kade misses one door).",
+    "Priya Shah checked in the same observation room with an ice sleeve under Sen's 'anyone who touches a load event' rule.",
+    "Park calling Elena directly and handing Kade the phone for two minutes.",
+    "Kade's band updating to LOSS. FORTY-SEVEN SECONDS. CONTACT: NOVICE. and ACTIVE FIELD AUTHORIZATION: SUPERVISED ONLY.",
+    "Sen walking Kade to the Meridian bridge instead of a bedside interview; her noticing Sera's foot correction.",
+    "Bay One human replay: Mara as Priya, Eli as Kade, Taren as the wall, the drone as the load; Mara lifting her heel to remove the foot/floor line.",
+    "Sera's 'Kitchen owed me / Thursday' plate and the Dining Close reminder.",
+    "Elena's 'What didn't you tell her?' and the pencil writing 'Forty-seven. Wall held. I want to know what I did.'"
+  ],
+  "state_change_proposals": [
+    "Kade's band combat line now reads a 47-second loss under novice contact; field authorization is SUPERVISED ONLY until faculty understand the event.",
+    "Kade has a meeting in Sen's office the next morning to discuss training limits (feeds Chapter 7).",
+    "Kade and Eli owe Dining Close on Thursday (tomorrow), implying Chapter 6 falls on a Wednesday.",
+    "Priya Shah has a lunch with Kade the next day; her shoulder was iced after the wall event.",
+    "Kade has written with Aaron's pencil for the first time: a note on the back of a Meridian duty sheet.",
+    "Elena holds Park's full symptom sentence directly from Park, plus Kade's own report."
+  ],
+  "deviations": [
+    "The day-of-week orientation error (Tuesday/Wednesday) was replaced by a missed-door error to satisfy the freshness finding; the symptom category (transient processing miss) is preserved and Wednesday is still implied via Dining Close Thursday.",
+    "The unverifiable 'Renn' reference from the prior draft was dropped rather than carried.",
+    "Word count was verified by ripgrep whitespace-token pagination because no shell was available in this session; the verifier's deterministic counter should confirm 6,185."
+  ],
+  "blockers": []
+}

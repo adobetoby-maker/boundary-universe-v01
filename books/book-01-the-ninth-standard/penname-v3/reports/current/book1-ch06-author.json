@@ -1,0 +1,49 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch06-author-c3",
+  "scene_id": "book1-ch06",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-06-forty-seven-seconds.md",
+  "word_count": 6206,
+  "obligations": [
+    {
+      "obligation": "B1C06-E05: Limit Park's statement to Kade or to the unexplained transfer event, preserving that Priya produced authorized conventional pulses during the assessment.",
+      "status": "MET",
+      "evidence": "chapter-06-forty-seven-seconds.md:369 — Park's phone report now reads: \"No structural injury. No conventional discharge from him at any point. The other student's pulses were within her cap and are all on the record. The thing that moved the wall is not among them. I am keeping him until the pupils match.\" The negative result is scoped to Kade; Priya's capped, logged pulses are affirmed; the anomaly is distinguished from them."
+    },
+    {
+      "obligation": "Chapter function: first combat assessment, Kade loses, impossible-looking momentum routing in final seconds, faculty quietly flag footage.",
+      "status": "MET",
+      "evidence": "Unchanged from the verified draft; targeted repair did not touch the arena sequence, the forty-seven-second stop, or the DATA FLAGGED — RESTRICTED REVIEW beat."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state.",
+      "status": "MET",
+      "evidence": "Only one sentence in Park's dialogue was revised; no ranks, names, costs, reveal order, or ending were altered."
+    },
+    {
+      "obligation": "Do not opportunistically rewrite unrelated passages during a targeted repair.",
+      "status": "MET",
+      "evidence": "Single Edit call on line 369; the rest of the manuscript is byte-identical to the input."
+    },
+    {
+      "obligation": "Family-clean and audio-readability requirements.",
+      "status": "MET",
+      "evidence": "Replacement sentences are plain spoken clinical language with no typography dependence; no profanity or content changes."
+    },
+    {
+      "obligation": "Target words 5,600 ±12%.",
+      "status": "MET",
+      "evidence": "Prior locked count 5,668; net change approximately +21 words, estimated 5,689, inside the 4,928–6,272 tolerance."
+    }
+  ],
+  "inventions": [
+    "Park refers to Priya as \"the other student\" on the call to Elena rather than by name, matching the chapter's existing medical-privacy texture; no new fact, rule, or entity introduced."
+  ],
+  "state_change_proposals": [],
+  "deviations": [
+    "Word count is estimated from the prior locked count plus the net edit delta rather than recomputed by tool, since no shell tool was available in this seat.",
+    "Adapter normalized whitespace word count from 5689 to 6206."
+  ],
+  "blockers": []
+}
