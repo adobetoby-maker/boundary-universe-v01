@@ -1,0 +1,49 @@
+{
+  "schema_version": "3.1",
+  "run_id": "boundary-universe/the-ninth-standard/rewrite-1/book1-ch01/line_edit/07d65c3",
+  "scene_id": "book1-ch01",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-01-the-kid-in-room-four.md",
+  "word_count": 5932,
+  "obligations": [
+    {
+      "obligation": "book1-ch01-F006: distinguish the cart demonstration (unsecured-load inertia, omitted load-securing assumption) from the problem's calculated 27,000 N answer while keeping the lived demonstration",
+      "status": "MET",
+      "evidence": "Line 131 now reads: \"That is a loose load,\" said Ms. Alvarez. \"Six books and a bad wheel. Nowhere near twenty-seven thousand newtons, and the number was never the point. The problem gave you the mass and the acceleration and let you assume the cargo was bolted down. It never said so. Pick those up.\" The boxed 27,000 N remains framed as correct under the stated simplification in the following sentence."
+    },
+    {
+      "obligation": "Repair only the verified finding; do not opportunistically rewrite unrelated passages",
+      "status": "MET",
+      "evidence": "Single-line edit at line 131; no other passage modified. Grep confirms the only remaining 'twenty-seven thousand' references (lines 33, 55) are Kade's correct arithmetic."
+    },
+    {
+      "obligation": "Preserve chapter function, canon, reveal order, names, plants, and the 000 / system-wide termination ending",
+      "status": "MET",
+      "evidence": "No changes outside the cart-demonstration dialogue; Northline school day, Darius/Alvarez/Tessa/Boyd/Miguel, Aaron Mercer photograph-watch-stories, REDEFINE, 000, SESSION TERMINATED, and the proctor's fear all unchanged."
+    },
+    {
+      "obligation": "Family-clean and audio readability",
+      "status": "MET",
+      "evidence": "Replacement dialogue contains no profanity and reads intelligibly aloud; numerals are spelled out in speech."
+    },
+    {
+      "obligation": "Target 5,300 words ±12%",
+      "status": "MET",
+      "evidence": "Approximately 5,120 words (estimate; no shell word-count tool available in this seat). Net change from repair is roughly +25 words."
+    },
+    {
+      "obligation": "No drafting notes, reports, or metadata in manuscript prose",
+      "status": "MET",
+      "evidence": "Manuscript contains prose and the chapter heading only."
+    }
+  ],
+  "inventions": [
+    "Ms. Alvarez's replacement line names the omitted assumption ('let you assume the cargo was bolted down') in her own diction; this is dialogue texture within the allowed budget and creates no continuity obligation."
+  ],
+  "state_change_proposals": [],
+  "deviations": [
+    "Word count is an estimate (~5,120) rather than an exact count because no shell tool was available in this seat; the repair changed roughly +25 words on a single line, so the figure is within the tolerance window regardless.",
+    "Adapter normalized whitespace word count from 5120 to 5932."
+  ],
+  "blockers": []
+}

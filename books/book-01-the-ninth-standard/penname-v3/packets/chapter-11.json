@@ -1,0 +1,144 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "book1-ch11",
+  "project": "boundary-universe/the-ninth-standard/rewrite-1",
+  "pen_name": "fantasy-author-a",
+  "job": "draft",
+  "revisions": {
+    "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
+    "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
+    "arc": "099e8f5f04548e60600658083ef9b0539cce0965d42431ddd362ca0df6f75450",
+    "state": "3d4a6c2e87b8399ad78443c6323ad3df804388daab23d717f2edca53c0f50f29",
+    "registry": "9cab5f30f45e9eed7c8aa1de28e37a1d6c60398a136f17005abf3ba50594b43a"
+  },
+  "modules": [
+    "combat",
+    "progression",
+    "moral-choice",
+    "litrpg"
+  ],
+  "pov": {
+    "character": "Kade Mercer unless the locked chapter evidence explicitly assigns Mara or Sen",
+    "mode": "close third person, past tense",
+    "knowledge_boundary": [
+      "Reveal only what the viewpoint character knows at this point in the locked reveal order.",
+      "No villain viewpoint and no omniscient explanation of concealed motives.",
+      "Treat registry role descriptions as naming aids, not story authority."
+    ]
+  },
+  "purpose": "Freshly re-author Chapter 11, The Broken Floor. Locked chapter function: Ranked bout against #2,301. Kade redefines opponent-floor-arena boundary and dumps force into structure. Floor fractures. Match frozen.",
+  "scene_shape": {
+    "opening_state": "Preserve the incoming physical, relational, rank, and knowledge state established by the prior chapter and ledgers.",
+    "pov_goal": "Give the viewpoint character an immediate, concrete objective that delivers this chapter function: Ranked bout against #2,301. Kade redefines opponent-floor-arena boundary and dumps force into structure. Floor fractures. Match frozen.",
+    "opposition": "Use the source chapter's causal obstacles and social pressures; make resistance active rather than summarized.",
+    "turn": "Preserve the locked decisive reversal or discovery, but stage it freshly with visible cause and consequence.",
+    "choice": "Make the viewpoint character choose under pressure; do not let power, coincidence, or an authority figure make the emotional decision for them.",
+    "outcome": "Fulfill the architecture card and all plants/payoffs without spending a later reveal.",
+    "closing_state": "Match the source chapter's durable state delta and end on changed pressure that pulls into the next chapter."
+  },
+  "obligations": {
+    "must_include": [
+      "Ranked bout against #2,301. Kade redefines opponent-floor-arena boundary and dumps force into structure. Floor fractures. Match frozen.",
+      "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "Pass family-clean and audio-readability requirements in the production specification."
+    ],
+    "plants": [
+      "Preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter."
+    ],
+    "payoffs": [
+      "Deliver all chapter-assigned payoffs without advancing later-book answers."
+    ],
+    "prohibited_outcomes": [
+      "Do not change canon, reveal order, chapter outcome, rank arithmetic, or downstream Book Two facts.",
+      "Do not make Kade effortlessly dominant or remove the physical and relational cost of Boundary use.",
+      "Do not add profanity, explicit sexual material, lingering gore, or a new named character.",
+      "Do not include drafting notes, reports, word counts, or metadata in manuscript prose."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Fresh sensory detail, physical business, clean humor, transitions, and dialogue consistent with established character voices.",
+      "Unnamed background texture that does not create a continuity obligation.",
+      "Scene-level staging improvements that preserve all locked causes and outcomes."
+    ],
+    "approval_required": [],
+    "forbidden": [
+      "New named characters, powers, factions, relationships, backstory, rules, ranks, clues, or future answers.",
+      "Changes to a locked ledger, architecture card, or source manuscript."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Locked universe rules",
+      "path": "penname-v3/context/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book and chapter architecture",
+      "path": "CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Book One state ledger",
+      "path": "STATE_LEDGER.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Canonical name registry",
+      "path": "penname-v3/context/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Book One bible",
+      "path": "BOOK_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible",
+      "path": "penname-v3/context/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Mystery and reveal ledger",
+      "path": "CLUE_LEDGER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Rewrite production specification",
+      "path": "penname-v3/PRODUCTION_SPEC.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Frozen source chapter; preserve facts, not sentences",
+      "path": "manuscript/chapter-11-the-broken-floor.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Previous rewritten chapter seam",
+      "path": "penname-v3/manuscript/chapter-10-vector-class.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [],
+  "exceptions": [],
+  "output": {
+    "draft_path": "penname-v3/manuscript/chapter-11-the-broken-floor.md",
+    "report_path": "penname-v3/reports/current/book1-ch11-author.json",
+    "editor_report_path": "penname-v3/reports/current/book1-ch11-editor.json",
+    "verifier_report_path": "penname-v3/reports/current/book1-ch11-verifier.json",
+    "target_words": 5900,
+    "tolerance_percent": 12
+  }
+}

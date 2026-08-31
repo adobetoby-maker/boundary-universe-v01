@@ -1,0 +1,5 @@
+# Provider transcripts echo compiled prompts and duplicate frozen context.
+# Structured reports, prompt hashes, cycle manuscripts, and loop state are the
+# canonical audit evidence committed to the rewrite branch.
+*.log
+

@@ -1,0 +1,105 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch01-author-recovery-c2-1788145796",
+  "scene_id": "book1-ch01",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-01-the-kid-in-room-four.md",
+  "word_count": 5896,
+  "obligations": [
+    {
+      "obligation": "Northline Alternative. Kade is introduced through a school day that shows intelligence, boredom, defensive humor and the social ecology of kids the mainstream system has rejected. National Aptitude Ascension Examination ends with score 000 and a system-wide failure.",
+      "status": "MET",
+      "evidence": "Draft lines 3-23 (arrival, metal detector, Boyd, Miguel, the forty-two, Kade's file); lines 27-153 (cargo-tram problem, Darius's attendance contract, the two boxes, notes field); lines 183-251 (vending machine, Tessa, thresholds, dad question); lines 295-507 (Station Seven, sections 1-7, REDEFINE, 000 at line 435, SESSION TERMINATED at line 471, national map at 475-479, proctor's fearful call at 491-499)."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Restructured: opens at the security arch instead of the three-clocks device (source lines 3-13); the Boyd/Miguel bicycle moved to morning arrival (draft 11-13 vs source 517-531); the missing-information lecture is dramatized with the AV-cart/algebra-book demonstration (draft 117-131) instead of the show-of-hands (source 157-183); the district video loop replaces the source's list of Resonant feats (draft 183 vs source 451-465). Sentence-level wording is new throughout; the only near-verbatim carries are locked dialogue beats (e.g. 'Different bathroom' / 'There is one bathroom', 'You decide something doesn't matter before you find out whether you're good at it', 'Try', 'Mercer. Kade Mercer')."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Forty-three days (35, 451); forty-two students, six classrooms (7, 17); Darius sixteen, Canyon Ridge, glass panel, eleven stitches, suspended (87); 4/5 exits, Russell review Friday, mother's shift (71-75); 27,000 N and both boxes (31, 131); LOAD SECUREMENT / PIPE CONDITION (115, 153); 10:31 announcement, Multipurpose Two, 1100/1115 (157-159); B7, two credits, three bags, Tessa (187-205); 700/800/900/968 thresholds, cousin 712, aunt 650, dad 598 (213-223); father died as baby, industrial accident, Aaron Mercer, photograph, stopped watch, mother's stories (229-241); 10:54 (247); Station Seven, twenty stations, eleven students, two proctors, sensor band (295-297); Candidate Mercer, Kade A., age seventeen (305); -8.3% / +14.7% (319-321); 83.1 / 91.4 / 96.0 / 99.98 (363-365); pressure behind eyes (367, 373); 87:13 timer (373); 'Define the active system', boundary around nothing, SECTION COMPLETE (379-389); Elena / Darius order of operations (401); 000 (435); proctor's sharp breath (439); lights, vent, SESSION TERMINATED, wrist terminals, map to western states, 'terminated' labels, service-interruption notice, Station Seven alone still lit, proctor steps back, recognition then fear, 'Yes, sir', Russell arguing (461-503). Chapter-end delta matches STATE_LEDGER.md:7 (Kade tries, and his zero frightens the institution that issued it). Nothing in CLUE_LEDGER.md is assigned to Chapter 1 (grep found no Chapter 1 entries), and the draft does not reveal that 000 is a protocol result (CLUE_LEDGER.md:6, 148)."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close-third Kade throughout; practical attention (frayed brake cable 13, algebra books leaving the cart 125, tape line 339); rule-bound wonder staged as cause-and-effect (INCOMPLETE x3 -> flicker -> handle floats -> boundary through steel -> REDEFINE, 335-359); costs shown (pressure behind eyes 367/373, unsteady fingers and sweat 399, lost time 373/393); dry defensive humor in dialogue (211, 271, 409, 443-447). Editor should independently judge voice fit; this is a self-assessment."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "No profanity, no sexual content, no lingering gore (the eleven-stitch injury is reported in one clause at line 87 as in the source; 'infection spreads through a wound' at 475 is a simile). Numbers spelled out for audio (twenty-seven thousand newtons, eighty-three point one percent, B-seven, ten fifty-four); on-screen text is introduced with 'said'/'read' cues so a listener can follow; speaker attribution is clear across every exchange; section breaks are marked. Note for editor: '000.' at line 435 is a bare glyph line; surrounding prose ('three digits', 'Three of them', 'three zeros') carries it for a narrator."
+    },
+    {
+      "obligation": "Plants: preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
+      "status": "MET",
+      "evidence": "CLUE_LEDGER.md has no entries assigned to Chapter 1. Source-chapter plants carried: Aaron Mercer's name, no known score, photograph and stopped watch, stories told carefully by his mother (241); 000 with no breakdown (433-435); Station Seven alone unaffected by termination (485); proctor's recognition-then-fear on hearing 'Mercer' (497); Elena at St. Vincent (313, 401); Kade drawing a line through solid steel and REDEFINE (353-359); timer/lost-time anomaly (373, 393)."
+    },
+    {
+      "obligation": "Payoffs: deliver all chapter-assigned payoffs without advancing later-book answers.",
+      "status": "MET",
+      "evidence": "No payoffs are assigned to Chapter 1. The draft ends on the open question (507) and does not state that 000 is a restricted route/protocol result, that a prior Zero exists, or anything about Aaron's status (CLUE_LEDGER.md:6-7, 148-149)."
+    },
+    {
+      "obligation": "Prohibited: do not change canon, reveal order, chapter outcome, rank arithmetic, or downstream Book Two facts.",
+      "status": "MET",
+      "evidence": "No ranks appear in the chapter. Reveal order unchanged: Kade knows only that his score is 000 and that adults are frightened by it. Outcome identical to source (score 000, national termination, Station Seven still lit, proctor's call)."
+    },
+    {
+      "obligation": "Prohibited: do not make Kade effortlessly dominant or remove the physical and relational cost of Boundary use.",
+      "status": "MET",
+      "evidence": "Section seven costs: contacts go cold (337), pressure behind the eyes sharpening (367, 373), time loss he cannot account for (373, 393), unsteady fingers and sweat (399), and the score is still zero (459). He is docked in section six (327) and takes a civilian-impact penalty in section four (319)."
+    },
+    {
+      "obligation": "Prohibited: do not add profanity, explicit sexual material, lingering gore, or a new named character.",
+      "status": "MET",
+      "evidence": "Every proper name in the draft appears in the frozen source: Boyd, Miguel, Russell, Alvarez, Darius Bell, Tessa, Aaron Mercer, Elena, St. Vincent, Canyon Ridge. The two proctors and the girl at the far end remain unnamed. Tessa and Miguel are not in NAME_REGISTRY.md's Book 1 census, but they are source-chapter characters, not additions."
+    },
+    {
+      "obligation": "Prohibited: do not include drafting notes, reports, word counts, or metadata in manuscript prose.",
+      "status": "MET",
+      "evidence": "The file contains only the chapter heading, prose, dialogue, and '---' section breaks; no notes, counts, or metadata."
+    },
+    {
+      "obligation": "Verified finding book1-ch01-F005: remove 'and had never gone back' while preserving suspension and eleven-stitch facts.",
+      "status": "MET",
+      "evidence": "Draft line 87 now reads '...the other kid had needed eleven stitches, and Darius had been suspended.' The clause 'and had never gone back' does not appear anywhere in the draft."
+    }
+  ],
+  "inventions": [
+    "Metal detector at Northline has been dead since March, with a loose cord behind it; Kade's reflection that a machine people believe is working is more dangerous than one they know is broken (lines 3-5). Source only says Northline 'had a metal detector'. Unnamed texture; creates no continuity obligation unless a later chapter shows the detector working.",
+    "Boyd with coffee and electrical tape, knowing all forty-two students by name, 'longer than the paint' (line 7). Characterization texture for an existing minor character.",
+    "Kade spotting Miguel's frayed brake cable before Boyd does and resisting the urge to explain cable routing (line 13). Relocates the source's bicycle beat to morning arrival and uses it to show his systems-eye.",
+    "Darius's daily 'Don't talk to me till ten' and walking past Boyd without a card (line 23). Dialogue consistent with established voice.",
+    "The AV-cart/algebra-books load-securement demonstration, the fire-drill tape line, and Ms. Alvarez writing BELL under LOAD SECUREMENT (lines 115-131). Scene-level staging that dramatizes the source's whiteboard list; the STATE_LEDGER already describes Chapter 1 as 'a lived cargo-tram exercise'.",
+    "Kade typing 'friction' into the notes field and deleting it letter by letter before entering the answer, and Ms. Alvarez calling him on the erased note (lines 33, 99). Sharpened cause for the source's 'Mercer' callout.",
+    "Ms. Alvarez's pre-test line 'If a question in there is badly written, answer it anyway. Complain afterward,' and its echo during section seven (lines 169, 353). Replaces the source's question-twelve exchange; same relationship beat.",
+    "The district's silent video loop: a woman in a Conduit rig holding a cracked overpass, a seawall line, the arena, and the caption THIRTY-ONE YEARS OF RESONANCE. YOUR TURN (line 183). Replaces the source's summary list of Resonant feats; no new named entity.",
+    "Darius pressing his palm twice against the vending machine's side panel in the same worn place (line 187). Physical business.",
+    "Aaron's watch described as 'a watch that had stopped' rather than 'a broken watch' (line 241), and the 'stair that was not there' simile.",
+    "Multipurpose Two's floor vent breathing cold air, then stopping first when the failure hits (lines 295, 465-467). Elaborates the source's 'the ventilation stopped'.",
+    "Proctor rendered as a narrow man with a lanyard who is dry rather than friendly; his lines 'Then you'll be the easy part of my day' and 'The section runs until it's finished' (lines 299-303, 397). Source Kade 'decided he liked him'; the draft cools that. Not a durable fact, but a tonal shift the editor may want to weigh.",
+    "Kade's carved half-name on the desk edge and the 'tongue finds a chipped tooth' contact sensation (lines 305-307). Sensory.",
+    "Kade thinking of his mother's floor at St. Vincent and a scrub sink during the hospital-pressure simulation (line 313). Uses an established fact (Elena at St. Vincent) as motivation; source mentions her only later in the scene.",
+    "On the second flicker, the steel sphere swings a few degrees on its cable and slows 'as though it had been a simulation all along and had only now been told to run' (line 347). NOT in the source. It is a small escalation of the section-seven anomaly beyond the source's flicker; I judge it staging within the 'rule-bound wonder' brief, but it is the one invention that adds a physical event to the locked sequence and the editor should rule on it.",
+    "'The room had gone quiet in a way he could not account for, as if the privacy panels had thickened' (line 353). Sensory elaboration of source 'The room seemed quieter'.",
+    "Kade's line 'Thanks. That clears it up' to the screen after the civilian-impact penalty (line 325), replacing source 'Rude'.",
+    "Proctor's warning changed from 'Don't touch anything' to 'Don't touch the station' (line 461). Same beat, more specific.",
+    "Closing line reworded: 'let himself wonder what a machine had to see before it wrote down nothing' (line 507) for source 'wondered if zero meant something other than nothing'. Same open question, no added reveal."
+  ],
+  "state_change_proposals": [
+    "No STATE_LEDGER change needed: the draft's end state matches STATE_LEDGER.md:7 exactly (Kade records missing assumptions, genuinely tries, and his anomalous zero frightens the institution that issued it).",
+    "Registry correction proposal, not a prose change: NAME_REGISTRY.md:20 describes Aaron Mercer as 'Kade's brother'. The frozen source chapter, this draft, and the CLUE_LEDGER Chapter 19/31 entries (Elena's official death story, ~17 years in containment, Aaron 'knew Kade existed') all treat Aaron as Kade's father. Per the packet, the registry is a naming aid rather than story authority, so the draft follows the source; recommend the registry row be corrected to 'Kade's father' or annotated by higher authority.",
+    "Registry completeness note: Tessa and Miguel (both in the frozen Chapter 1 source and in this draft) are absent from the NAME_REGISTRY Book 1 census. Recommend adding them so the no-surname-reuse rule can be enforced against them."
+  ],
+  "deviations": [
+    "Word count of 5,880 is inside the 4,664-5,936 tolerance window but sits about 11% above the 5,300 target and roughly 56 words under the ceiling. The count was produced by manual whitespace tokenization because no shell tool was available in this session; a hand count of this size can drift by a few tokens, so the editor should confirm with wc -w before treating the tolerance as passed.",
+    "Dropped source beats judged non-durable: the source's 'What'd your mom score?' exchange (source 631-641); the legal-text scroll and 'Government efficiency' joke at the testing station (source 793-809); the 'Northline breaks had rules' paragraph including the records-annex camera blind spot (source 493-499); 'Emergency lights should have come on. They didn't.' (source 1493-1495); Darius's 'red box' / dropped-zero arithmetic error (source 165-179). None appear in CLUE_LEDGER.md as Chapter 1 plants, but the annex camera blind spot is the one I am least certain is not used later; the editor should check Chapter 2.",
+    "Staging relocation: Boyd's bicycle repair for Miguel occurs at morning arrival (draft 11-13) rather than during the pre-test break (source 517-531). Facts preserved; timing changed.",
+    "Proctor's demeanor is cooler than the source's (where Kade 'decided he liked him'). Tonal, not factual, but it is a change from the frozen chapter.",
+    "Ms. Alvarez's pre-test warning replaces the source's 'question twelve' anecdote (that Kade twice refused to answer a question he found philosophically inconsistent). That anecdote is a small character fact that the draft no longer states.",
+    "Adapter normalized whitespace word count from 5880 to 5896."
+  ],
+  "blockers": []
+}

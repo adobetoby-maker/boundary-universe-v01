@@ -1,0 +1,98 @@
+{
+  "schema_version": "3.1",
+  "loop_id": "the-ninth-standard-rewrite-1",
+  "project": "boundary-universe/the-ninth-standard/rewrite-1",
+  "pen_name": "fantasy-author-a",
+  "scope": "book",
+  "phase": "SCENE_CLOSED",
+  "max_repair_cycles": 3,
+  "repair_cycle": 0,
+  "scenes_total": 33,
+  "scenes_closed": 1,
+  "active_scene_id": "book1-ch01",
+  "last_finding_fingerprint": null,
+  "repeat_count": 0,
+  "blocker": null,
+  "repair_origin": null,
+  "human_gate": null,
+  "history": [
+    {
+      "event": "start_scene",
+      "from": "PROJECT_READY",
+      "to": "PACKET_READY",
+      "note": "Begin Chapter 1"
+    },
+    {
+      "event": "packet_validated",
+      "from": "PACKET_READY",
+      "to": "AUTHORING",
+      "note": "Packet and frozen contexts validated"
+    },
+    {
+      "event": "author_done",
+      "from": "AUTHORING",
+      "to": "EDITING",
+      "note": "Fable produced validated draft and author report"
+    },
+    {
+      "event": "editor_findings",
+      "from": "EDITING",
+      "to": "VERIFYING",
+      "note": "Proposed findings require evidence verification"
+    },
+    {
+      "event": "verification_repair",
+      "from": "VERIFYING",
+      "to": "REPAIRING",
+      "note": "4 verified findings require repair"
+    },
+    {
+      "event": "repair_done",
+      "from": "REPAIRING",
+      "to": "EDITING",
+      "note": "Recovered report for completed Fable repair"
+    },
+    {
+      "event": "editor_findings",
+      "from": "EDITING",
+      "to": "VERIFYING",
+      "note": "Proposed findings require evidence verification"
+    },
+    {
+      "event": "verification_repair",
+      "from": "VERIFYING",
+      "to": "REPAIRING",
+      "note": "1 verified findings require repair"
+    },
+    {
+      "event": "repair_done",
+      "from": "REPAIRING",
+      "to": "EDITING",
+      "note": "Recovered report for completed Fable repair"
+    },
+    {
+      "event": "editor_findings",
+      "from": "EDITING",
+      "to": "VERIFYING",
+      "note": "Proposed findings require evidence verification"
+    },
+    {
+      "event": "verification_repair",
+      "from": "VERIFYING",
+      "to": "REPAIRING",
+      "note": "1 verified findings require repair"
+    },
+    {
+      "event": "repair_done",
+      "from": "REPAIRING",
+      "to": "EDITING",
+      "note": "Fable repaired only verified findings"
+    },
+    {
+      "event": "editor_pass",
+      "from": "EDITING",
+      "to": "SCENE_CLOSED",
+      "note": "Sol editor found no repairable defect"
+    }
+  ]
+}
