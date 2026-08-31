@@ -117,12 +117,6 @@
       "required": true
     },
     {
-      "kind": "reference",
-      "label": "Frozen source chapter; preserve facts, not sentences",
-      "path": "manuscript/chapter-03-asterion.md",
-      "required": true
-    },
-    {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-02-zero-protocol.md",

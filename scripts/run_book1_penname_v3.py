@@ -88,6 +88,44 @@ def normalize_report_word_count(report_path: Path, actual: int) -> dict:
     return report
 
 
+def synthesize_interrupted_author_report(
+    packet_path: Path, report_path: Path, actual: int, cycle: int, reason: str
+) -> dict:
+    """Create transparent navigation metadata when prose survives a seat interruption."""
+    packet = load_json(packet_path)
+    obligations = []
+    for obligation in (
+        packet["obligations"]["must_include"]
+        + packet["obligations"]["plants"]
+        + packet["obligations"]["payoffs"]
+    ):
+        obligations.append(
+            {
+                "obligation": obligation,
+                "status": "NOT_APPLICABLE",
+                "evidence": (
+                    "Author self-report was interrupted after prose write; Sol editor must "
+                    "verify this obligation directly from the manuscript."
+                ),
+            }
+        )
+    report = {
+        "schema_version": "3.1",
+        "run_id": run_id(packet["scene_id"], "author-interrupted", cycle),
+        "scene_id": packet["scene_id"],
+        "status": "DONE",
+        "draft_path": packet["output"]["draft_path"],
+        "word_count": actual,
+        "obligations": obligations,
+        "inventions": [],
+        "state_change_proposals": [],
+        "deviations": [reason],
+        "blockers": [],
+    }
+    write_json(report_path, report)
+    return report
+
+
 class Runner:
     def __init__(self, args: argparse.Namespace):
         self.args = args
@@ -174,12 +212,24 @@ class Runner:
         print(result.stdout.strip(), flush=True)
 
     def compile_prompt(self, role: str, packet: Path, cycle: int, report: Path | None = None) -> str:
+        compile_packet = packet
+        if role == "author":
+            author_packet = load_json(packet)
+            author_packet["context_files"] = [
+                item
+                for item in author_packet["context_files"]
+                if item["label"] != "Frozen source chapter; preserve facts, not sentences"
+            ]
+            author_packet_dir = WORK / "author-packets"
+            author_packet_dir.mkdir(parents=True, exist_ok=True)
+            compile_packet = author_packet_dir / packet.name
+            write_json(compile_packet, author_packet)
         argv = [
             sys.executable,
             str(self.scripts / "build_prompt.py"),
             role,
             "--packet",
-            str(packet),
+            str(compile_packet),
             "--root",
             str(BOOK),
         ]
@@ -498,16 +548,23 @@ deviations, and blockers. The editor will independently verify everything.
                     existing.get("scene_id") == scene_id
                     and existing.get("draft_path") == packet["output"]["draft_path"]
                     and existing.get("status") == "DONE"
+                    and report_path.stat().st_mtime >= (BOOK / packet["output"]["draft_path"]).stat().st_mtime
                 ):
                     normalize_report_word_count(report_path, draft_words)
                     self.validate("author-report.schema.json", report_path)
                 else:
-                    self.recover_author_report(packet_path, state["repair_cycle"])
+                    synthesize_interrupted_author_report(
+                        packet_path,
+                        report_path,
+                        draft_words,
+                        state["repair_cycle"],
+                        "Fable session limit interrupted the structured self-report after the prose write; acceptance is delegated to independent Sol review.",
+                    )
+                    self.validate("author-report.schema.json", report_path)
                 self.advance("repair_done", note="Recovered report for completed Fable repair")
             else:
-                raise LoopError(
-                    f"{scene_id}: REPAIRING state has no evidence of a newly completed draft"
-                )
+                self.author(packet_path, state["repair_cycle"], repair=True)
+                self.advance("repair_done", note="Fable completed verified repair after resume")
             state = load_json(STATE)
         if state["phase"] == "PACKET_READY":
             self.validate("scene-packet.schema.json", packet_path)

@@ -1,0 +1,48 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch02-structural-repair-c2",
+  "scene_id": "book1-ch02",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-02-zero-protocol.md",
+  "word_count": 5670,
+  "obligations": [
+    {
+      "obligation": "book1-ch02-E001 (HIGH, reveal_order): withhold predecessor's gender and any explicit Zero–Aaron link while preserving the ~three-decade precedent",
+      "status": "MET",
+      "evidence": "Vale's line now reads 'the receiving program was classified, and so was the candidate' (no gendered pronoun); her later 'for his protection' was changed to 'for your son's protection' so no pronoun can be read as the predecessor. Elena's kitchen exchange no longer contains 'Around research. Around your father's work.' Kade now asks about her hand stopping in Room Four; she answers 'Things stop my hands. I don't always get told why, and I'm not going to invent a reason for you tonight,' followed by the retained non-denial ('That's not no.' / 'No. It isn't.'). Grep for 'received him|so was he|father's work|Around research' returns no matches; 'Zero' now appears only in the chapter title and the transport message. The three-decade timing beat (Vale: 'Three.' / Kade's subtraction) is unchanged."
+    },
+    {
+      "obligation": "book1-ch02-E002 (LOW, production_length): remove at least 36 counted words without weakening the turn, clue trail, or duffel-repair ending",
+      "status": "MET",
+      "evidence": "Whole-file whitespace-token count (ripgrep -o '\\S+', equivalent to wc -w) is 5,670, down from 5,748 (−78), inside the 4,488–5,712 range. Trims were connective tissue only: redundant clock timestamp, an unused tablet in Renn's case, 'and why I've been on an aircraft', 'They have the whole speech ready', 'because she had never needed to push', the suitcase 'looking exactly like what it was', a slider-testing clause, and a tightened MANDATORY-page sentence. Car-ride turn, VAL E MAR packet discovery, page-eleven clause, suitcase refusal, the box of Aaron's effects, the 9:41 transport message, and the socks ending are intact."
+    },
+    {
+      "obligation": "Preserve chapter function: government response before midnight, restricted officials instead of discipline, Elena forcing the fear-of-a-real-chance issue",
+      "status": "MET",
+      "evidence": "Renn and Vale arrive at 6:51 p.m.; Kade's four-line confession is refused; the car-ride confrontation ('a real chance walked into Room Four... and you tried to hand it back') is untouched."
+    },
+    {
+      "obligation": "Preserve durable facts, ranks, clues, and chapter-end state from frozen evidence",
+      "status": "MET",
+      "evidence": "Repairs touched no rank, name, reveal, or outcome. Retained subtle Elena discontinuities (hand stopping on 'zeros', pallor at 'three decades', 'That part is true', the second photograph) remain as permitted clue base without an explicit Zero–Aaron statement; this is also more consistent with the STATE_LEDGER note that Elena did not know Aaron's formal Zero classification."
+    },
+    {
+      "obligation": "Family-clean and audio readability",
+      "status": "MET",
+      "evidence": "No profanity or new terms introduced; replacement lines are plain spoken dialogue. 'the candidate' is used instead of a pronoun so the neutral reference survives aloud."
+    },
+    {
+      "obligation": "Do not rewrite unrelated passages during targeted repair",
+      "status": "MET",
+      "evidence": "All edits are either the two finding sites or word-level trims that remove clauses without altering meaning, staging, or order."
+    }
+  ],
+  "inventions": [
+    "Elena's replacement deflection: 'I've been a nurse a long time. Things stop my hands. I don't always get told why, and I'm not going to invent a reason for you tonight.' (dialogue within established voice; no new fact, no duration stated)"
+  ],
+  "state_change_proposals": [],
+  "deviations": [
+    "Word count was verified with ripgrep whitespace tokenization rather than a literal wc -w invocation, because no shell tool was available in this run or to the delegated agent. The definitions match (whitespace-delimited tokens, heading and scene-break markers included), and the result (5,670) agrees with the arithmetic from the prior verified count (5,748 − 78)."
+  ],
+  "blockers": []
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch03-author-interrupted-c1-1788150384",
+  "scene_id": "book1-ch03",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-03-asterion.md",
+  "word_count": 6287,
+  "obligations": [
+    {
+      "obligation": "Arrival by sea/air. Sensory immersion in campus, rankings, spectacle and class disparity. Kade's belongings feel painfully small next to elite peers.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    },
+    {
+      "obligation": "Preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    },
+    {
+      "obligation": "Deliver all chapter-assigned payoffs without advancing later-book answers.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [],
+  "deviations": [
+    "Fable session limit interrupted the structured self-report after the prose write; acceptance is delegated to independent Sol review."
+  ],
+  "blockers": []
+}

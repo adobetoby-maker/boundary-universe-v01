@@ -1,6 +1,6 @@
 {
   "schema_version": "3.1",
-  "scene_id": "book1-ch03",
+  "scene_id": "book1-ch02",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
   "job": "structural_repair",
@@ -24,10 +24,10 @@
       "Treat registry role descriptions as naming aids, not story authority."
     ]
   },
-  "purpose": "Freshly re-author Chapter 3, Asterion. Locked chapter function: Arrival by sea/air. Sensory immersion in campus, rankings, spectacle and class disparity. Kade's belongings feel painfully small next to elite peers.",
+  "purpose": "Freshly re-author Chapter 2, Zero Protocol. Locked chapter function: Government response arrives before midnight. Kade expects discipline and instead meets restricted officials. His mother forces the emotional issue: he has demanded a real chance for years; now he is afraid to take one.",
   "scene_shape": {
     "opening_state": "Preserve the incoming physical, relational, rank, and knowledge state established by the prior chapter and ledgers.",
-    "pov_goal": "Give the viewpoint character an immediate, concrete objective that delivers this chapter function: Arrival by sea/air. Sensory immersion in campus, rankings, spectacle and class disparity. Kade's belongings feel painfully small next to elite peers.",
+    "pov_goal": "Give the viewpoint character an immediate, concrete objective that delivers this chapter function: Government response arrives before midnight. Kade expects discipline and instead meets restricted officials. His mother forces the emotional issue: he has demanded a real chance for years; now he is afraid to take one.",
     "opposition": "Use the source chapter's causal obstacles and social pressures; make resistance active rather than summarized.",
     "turn": "Preserve the locked decisive reversal or discovery, but stage it freshly with visible cause and consequence.",
     "choice": "Make the viewpoint character choose under pressure; do not let power, coincidence, or an authority figure make the emotional decision for them.",
@@ -36,7 +36,7 @@
   },
   "obligations": {
     "must_include": [
-      "Arrival by sea/air. Sensory immersion in campus, rankings, spectacle and class disparity. Kade's belongings feel painfully small next to elite peers.",
+      "Government response arrives before midnight. Kade expects discipline and instead meets restricted officials. His mother forces the emotional issue: he has demanded a real chance for years; now he is afraid to take one.",
       "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
       "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
       "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
@@ -117,41 +117,43 @@
       "required": true
     },
     {
-      "kind": "reference",
-      "label": "Frozen source chapter; preserve facts, not sentences",
-      "path": "manuscript/chapter-03-asterion.md",
-      "required": true
-    },
-    {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
-      "path": "penname-v3/manuscript/chapter-02-zero-protocol.md",
+      "path": "penname-v3/manuscript/chapter-01-the-kid-in-room-four.md",
       "required": true
     },
     {
       "kind": "reference",
       "label": "Current rewrite to repair",
-      "path": "penname-v3/manuscript/chapter-03-asterion.md",
+      "path": "penname-v3/manuscript/chapter-02-zero-protocol.md",
       "required": true
     }
   ],
   "verified_findings": [
     {
-      "id": "book1-ch03-F003",
+      "id": "book1-ch02-E001",
       "severity": "HIGH",
-      "gate": "fresh_reauthoring",
-      "evidence": "penname-v3/manuscript/chapter-03-asterion.md:9-15: “That thing looks fake,” Darius said. … “It looks like a lunchbox for rich people.” Verification: The cited passages exist in the frozen evidence and accurately show the same distinctive comic construction with only superficial wording changes. The additional cited markers recur through the same departure, flight, arrival, orientation, dinner, demonstration-refusal, maternal-call, and closing progression. Because the packet requires a genuinely fresh chapter while preserving facts rather than sentences, this overlap sufficiently verifies the finding and its stated reader consequence.",
-      "consequence": "The repair still reads as a close paraphrase of the source rather than a genuinely fresh chapter. Beyond this exact opening construction, it preserves distinctive markers and sequence at draft/source lines 155/485 (“nineteen seconds”), 171/583 (three anonymous seconds after arrival), 289/869 (“West academic bridge”), 347/1085 (Elena's note), 365/1133 (“routing code”), 429/1295 (“operationally significant”), 515/1491 (“provisional…unresolved”), and 565/1633 (“wanted to stay”). A reader comparing editions will encounter substantially the same scene architecture, jokes, connective beats, and emotional landing.",
-      "repair_target": "Reconceive the chapter's dramatic route and interaction design while preserving locked facts and outcomes. Replace the source-derived airfield banter, flight acquaintance progression, orientation-map sequence, provisional-table structure, and closing realization with materially different staging, dialogue strategy, and connective causality—not sentence-level substitutions."
+      "gate": "reveal_order",
+      "evidence": "penname-v3/manuscript/chapter-02-zero-protocol.md:179-179: “The last time a candidate produced a valid route through it, the program that received him was classified, and so was he.” Verification: The quotations are accurate. Line 179 identifies the historical Zero candidate as male and classified; line 467 explicitly associates Kade's father's work with “Zero.” Together they allow a strong inference that Aaron was the prior Zero candidate, whose confirmation is reserved for Chapter 19. The claimed reveal-order consequence follows.",
+      "consequence": "Together with Elena’s statement at line 467 that she heard “Zero” around her husband’s work, the masculine predecessor reference lets readers identify Aaron as the prior Zero candidate well before the Chapter 19 payoff.",
+      "repair_target": "Preserve the existence and approximate age of the historical precedent while withholding the predecessor’s gender and any explicit link between Zero and Aaron’s work."
+    },
+    {
+      "id": "book1-ch02-E002",
+      "severity": "LOW",
+      "gate": "production_length",
+      "evidence": "penname-v3/manuscript/chapter-02-zero-protocol.md:1-507: Whole-file `wc -w`: 5,748 words. Verification: The independent whole-file count reproduces 5,748 words. The permitted range for a 5,100-word target with 12 percent tolerance is 4,488–5,712, so the chapter exceeds the ceiling by 36 words.",
+      "consequence": "The chapter misses the deterministic acceptance range by 36 words.",
+      "repair_target": "Remove at least 36 counted words without weakening the chapter turn, clue trail, or duffel-repair ending."
     }
   ],
   "exceptions": [],
   "output": {
-    "draft_path": "penname-v3/manuscript/chapter-03-asterion.md",
-    "report_path": "penname-v3/reports/current/book1-ch03-author.json",
-    "editor_report_path": "penname-v3/reports/current/book1-ch03-editor.json",
-    "verifier_report_path": "penname-v3/reports/current/book1-ch03-verifier.json",
-    "target_words": 5700,
+    "draft_path": "penname-v3/manuscript/chapter-02-zero-protocol.md",
+    "report_path": "penname-v3/reports/current/book1-ch02-author.json",
+    "editor_report_path": "penname-v3/reports/current/book1-ch02-editor.json",
+    "verifier_report_path": "penname-v3/reports/current/book1-ch02-verifier.json",
+    "target_words": 5100,
     "tolerance_percent": 12
   }
 }

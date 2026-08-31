@@ -1,0 +1,78 @@
+{
+  "schema_version": "3.1",
+  "run_id": "the-ninth-standard-rewrite-1/book1-ch02-author-c0",
+  "scene_id": "book1-ch02",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-02-zero-protocol.md",
+  "word_count": 5690,
+  "obligations": [
+    {
+      "obligation": "Chapter function: government response before midnight; Kade expects discipline and instead meets restricted officials; his mother forces the emotional issue (demanded a real chance for years, now afraid to take one).",
+      "status": "MET",
+      "evidence": "Office scene establishes Kade's private theory that he broke the national network and will be disciplined; the 12:48 instruction, unmarked vehicle, brass key, ZERO PROTOCOL header, and Vale stepping away from the door reverse that expectation. Renn (IRA) and Lt. Cmdr. Nia Vale (Federal Resonance Security) arrive at ~3 p.m.; academy transport message arrives at 20:43. Elena's car scene delivers 'You performed refusal' / 'You can be difficult when you are scared' / 'You have spent years demanding that somebody give you a real chance' / 'Do not get scared now that somebody has finally asked you the right question.'"
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "New staging throughout: Kade counting tiles and timing Russell's circuit; the 'expects discipline' private theory as the office spine; the 12:48 timestamp reframed as evidence that this is not discipline; the brass key compared to Mr. Boyd's supply-closet ring; Elena's hallway lie caught by the absence of her usual pause; the store terms found by a reader trained by district paperwork; 'This was where the water pooled'; 'two histories on the table.' A handful of pivotal lines are preserved in substance (routing code, 'You did not score zero', 'You performed refusal', 'Preparing is not consenting') because they carry locked meaning, but surrounding prose is re-authored."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Preserved: not-detained-by-four-people opening; two black vehicles plus one unmarked; network back after nineteen minutes; RESULT WITHHELD / AUTHORIZED REVIEW; forty-seven/forty-eight messages; Russell called Elena's ED floor; Elena's three texts and the 'no punching' reply; 12:48 secure-room instruction, superintendent, district counsel, federal office; Renn and Vale descriptions, agencies, and rank; Darius dismissed as 'Mr. Bell'; 'You good?' / 'No idea' / 'Text me'; 'That depends on how much of today you remember' / 'All of it'; exam designed to stop; Alvarez 'three holes'; tablet, two folders, metal key; ZERO PROTOCOL failsafe; 000 as routing code to a restricted review; diagnostic branch absent from public spec for decades; 'What if I answered wrong?' / 'You didn't' / 'Nia' / 'He's owed that much'; Elena in navy scrubs, gray coat, hair loose, St. Vincent badge; headache 'normal little'; Elena silent when angry; atypical Resonance profile; no evidence of danger; last valid route was classified; three decades; Asterion folder and classified admissions authority; Kade's refusal; permitted home but required at Asterion within seventy-two hours under federal Resonance safety statutes; Elena's four written conditions including informed consent while a minor; hallway account of the seventh section; lost-time question and eighty-seven-minute timer; vision/numbness/nausea negatives; Elena's too-fast 'No' and 'years ago'; Darius in the lot, educationally kidnapped, 'Posture', 'You coming back?' / 'Yeah'; car conversation and 'Then they should not have asked you'; discount store with VALUE AR sign; $28 shirt rejected, $11 gray clearance shirt with long sleeves; equipment list contents; section sixteen academy-property clause on page eleven vs. list on page three; trousers removed, shirt kept; blue hard-plastic rolling suitcase; duffel with missing zipper tooth, older than the basil plant; 'It looks like I expect to stay' / 'Preparing is not consenting'; Alvarez texted Elena; conspiracy/community; suitcase bought, duffel still coming; national news red map and Northline hallway footage, MYSTERY FAILURE HALTS NATIONAL APTITUDE EXAM, no name yet; cashier recognition and shirt over folder; 'I do want to know' / 'reasons to go, not promises to stay'; kitchen-table folder, soup, provisional institutional jurisdiction; Darius/Tessa/unknown-number texts and phone surrendered ('Authoritarian' / 'Put it on my evaluation'); Aaron's box with non-running watch, two photographs, mechanical pencil, industrial-systems badge; Aaron at 23–24 beside a workbench; Kade has Aaron's eyes; 'words I have not heard in a very long time' / 'I don't know what is connected' / 'That is true'; 20:43 transport message with 15:30 departure in two days to Asterion Island; hoodie with repaired cuff and the old duffel; curiosity as the frightening discovery. Kade's headache pressure persists from Chapter 1; no new capability is shown or used."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third on Kade throughout; attention is to exits, counts, timing, latches, and small print; humor grows from coping and is allowed to fail ('Kade had the word ready. Fine.'); the chapter's win is a bounded choice (suitcase in cart, duffel still coming) rather than a power display; sentence cadence varies with pressure rather than relying on one-line paragraphs."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "Whole-word scan for common profanity returned no matches; no sexual content or gore. Screen text, captions, and text messages are narrated in prose ('The first said call me, in capitals'; 'Value Ar'; the 20:43 message rendered as spoken lines) so meaning survives without typography; only two named officials are introduced and each is tagged by role on first speech."
+    },
+    {
+      "obligation": "Plants: preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
+      "status": "MET",
+      "evidence": "Zero Protocol has a roughly three-decade precedent ('Three.' set against the thirty-one-years loop); the last valid route belonged to a classified program; 000 is a routing code, not a score; Vale confirms Kade did not answer wrong without saying what he answered; Elena's too-fast denial of having heard the term and her admission she heard 'zero' around Resonance research years ago; Elena's pallor at 'three decades'; Aaron's box brought out unprompted and the over-careful 'Your father worked in industrial systems. That is true.'; REDEFINE and the free-floating boundary recalled from Kade's viewpoint only; headache pressure and possible lost time recorded as unresolved medical questions."
+    },
+    {
+      "obligation": "Payoffs: deliver all chapter-assigned payoffs without advancing later-book answers.",
+      "status": "MET",
+      "evidence": "Chapter 1's SESSION TERMINATED shutdown and the proctor's fear are paid by the 12:48 secure-and-hold instruction and the withheld result; no later answer is spent: Sen is not named, Aaron's Zero status is not stated, Asterion's hidden purpose is not hinted beyond 'classified admissions authority', and Elena's knowledge stays at the level of a word heard years ago."
+    },
+    {
+      "obligation": "Prohibited outcomes: no canon, reveal-order, outcome, or rank changes; no effortless dominance; no profanity, explicit content, gore, or new named character; no drafting metadata in prose.",
+      "status": "MET",
+      "evidence": "Only characters named are those already in the source chapter and Chapter 1 (Kade, Elena, Darius, Russell, Ms. Alvarez, Mr. Boyd, Tessa, Renn, Vale, Aaron). Kade uses no ability in-chapter. Manuscript file contains only the chapter title and prose; scans for bold markup, secondary headings, and metadata strings returned nothing."
+    },
+    {
+      "obligation": "Word target 5,100 with 12 percent tolerance (4,488–5,712).",
+      "status": "MET",
+      "evidence": "Body word count 5,680 (5,690 whitespace tokens in file minus six title tokens and four scene-break markers). Verified by ripgrep per-token pagination probes because no shell was available in this session; final probe at offset 5,660 returned exactly 30 remaining tokens."
+    }
+  ],
+  "inventions": [
+    "Kade's private theory that drawing the line through the steel ball caused the national shutdown and that the officials are here to discipline him for it; used as the office scene's spine so the 'expects discipline' function is dramatized rather than stated.",
+    "Kade timing Russell's pacing circuit and treating the 12:48 timestamp as proof that this is not how discipline works.",
+    "The brass key compared to the supply-closet ring carried by Mr. Boyd (established in the Chapter 1 rewrite); no new character.",
+    "Vale stepping aside from the door reframed as the first room in Kade's experience where the exit was left clear.",
+    "Elena's cold hands from the car, her badge turned backward, and Kade catching her lie by the absence of the pause she normally takes before telling a waiting room how long the wait will be.",
+    "Renn writing the consent language on the inside cover of the second folder while Elena reads over his shoulder.",
+    "'This was where the water pooled' image tying the flooding intersection to home versus broadcast Asterion.",
+    "Aaron's two photographs described as one that lived in the front room and one that did not, reconciling the Chapter 1 rewrite's 'one photograph' with the source box's two.",
+    "The 'two histories on one table' closing image of the folder beside the closed box.",
+    "Text messages, captions, and the burned-out store sign rendered as narrated speech-friendly prose rather than typographic blocks."
+  ],
+  "state_change_proposals": [
+    "Ledger clarification only (no canon change): Aaron Mercer's personal effects include two photographs; one has been displayed in the Mercer front room throughout Kade's life and one has stayed in the storage box. This reconciles the Chapter 1 rewrite ('one photograph') with the Chapter 2 box contents.",
+    "Ledger clarification only: Kade takes both the repaired duffel and the newly purchased blue rolling suitcase into the departure sequence; the duffel remains his chosen bag, matching the Chapter 3 arrival and Chapter 20 payoff."
+  ],
+  "deviations": [
+    "Length ran to 5,680 words, near the upper edge of tolerance; three trimming passes removed texture only.",
+    "Several source-chapter comic beats were dropped or compressed to hold length: the students-filmed-the-map exchange (the fact is carried instead by the national news footage at the store), Darius's 'emotional support' lines, Kade's 'philosophically inconsistent' aside, the mirror try-on of the shirt, and the vision/numbness questions merged into one line. None carry ledger facts.",
+    "Word count was verified by ripgrep token probes rather than wc because this session exposed no shell; count is exact to the token but the editor may wish to confirm with wc -w.",
+    "Adapter normalized whitespace word count from 5680 to 5690."
+  ],
+  "blockers": []
+}
