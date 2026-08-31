@@ -1,0 +1,78 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch05-author-repair-c1",
+  "scene_id": "book1-ch05",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-05-house-meridian.md",
+  "word_count": 5951,
+  "obligations": [
+    {
+      "obligation": "F001 — Restore a seam-consistent Room 814 pencil encounter supporting Chapter 29 line 95",
+      "status": "MET",
+      "evidence": "Draft lines 151-169: Kade turns the duffel over to inspect the handle seam Sera flagged; the pencil (silver, refillable, tooth marks in the barrel — matching rewritten ch2:457 and source ch19:637) slides in the lining's unused key pocket; he infers Elena put it there while the bag sat on the kitchen table beside Aaron's open box (rewritten ch2:483-495) and reasons that she told him about the note (rewritten ch3:229-235) but not this. He sets it on the desk; Eli picks it up from the desk, thumb on the tooth marks; Kade says 'It was my father's'; Eli puts it back exactly, says 'Sorry', does not ask, and Kade watches him visibly not take the breath before the question. This matches every element of ch29:95-105 (picked up from Kade's desk / belonged to his father / put it down, apologized, did not ask / wanted to). Pencil goes into the desk drawer (line 169), consistent with source ch20:1385. Confirmed by Elena at the 20:00 call (lines 399-409) and pre-seeded by Darius message Eleven (line 211) using the ch3 pattern where Elena tells Darius in advance."
+    },
+    {
+      "obligation": "F002 — Reconceive staging, conversational routes, and beat transitions rather than synonym-swap",
+      "status": "MET",
+      "evidence": "Cited paraphrase (seventeen switch requests / most interesting person / unrelated facts) is gone; the seventeen-requests fact now belongs to Sera, who reveals she personally told housing to lock the room because she 'doesn't trade people' (125-129). Eli is met not by a courtyard collision but with his drone jammed in the bell frame; Kade arrives to be handed a broom (19-27) and makes a first observation from the ground ('every time it tries to get away from the steel, it goes into the steel', 55-61) that seeds the later diagnosis; Sera catches the falling drone in a sweep bin. Mara's introduction inverts the prior draft's exchange ('You've been reading' / 'It's on a wall. I walk past walls', 79-83) and she admits she helped close the roster and does not know who reopened it. Sera walks him up the laundry stair instead of the elevator and infers Northline from him counting doors (95-123). The drone diagnosis is staged from the drone's own log plus Kade's ground view rather than a stair-rail simulation crash (173-201). Dinner stand-up: Kade's joke fails, the fourth-year's lands ('It can. We've done it.'), and Eli's vote of faith becomes 'He can see where a thing thinks it is' / 'Provisional. Like the rest of him' (255-281). Hereditary-Zero question replaces 'Your dad Resonant too?' (289-295). Sera's catch is now 'That word's carrying a lot... exactly the way you said no' (331). Taren's texts, roof opening, and forum-pool framing are rewritten (359-433). Retained near-verbatim only where a line is a locked clue or ledger anchor: 'They keep pretending the fighter is the system', the 38-second bout clock beats (7/11/19/24/31/38), 'fourteen months and nine days', 'House schedule access' exchange."
+    },
+    {
+      "obligation": "F003 — Bring the chapter to 6,048 words or fewer",
+      "status": "MET",
+      "evidence": "5,951 whitespace-delimited tokens (equivalent to wc -w). Method: no shell was available in this seat or its subagents, so I paginated ripgrep -o over \\S+ and located the final token at offset 5,950 (0-based), giving 5,951. Target 5,400 +/-12% = 4,752-6,048; draft is +10.2% of target. Editor should confirm with wc -w."
+    },
+    {
+      "obligation": "Dorm ensemble chapter. Eli, Mara, Sera, Taren. Dining hall, house traditions, first glimpse of Julian and a Standard Six duel. Kade begins wanting what he insists he does not need.",
+      "status": "MET",
+      "evidence": "Eli courtyard/room (35-209); Mara courtyard and napkin (69-91, 315-349); Sera sweep, stair, corridor, dinner catches (19-33, 95-139, 289-297, 331); Taren texts and roof (359-373, 415-543). Dining ritual: recorded bell, boo, 'fourteen months and nine days', three notices, TOP HALF ADJACENT, name/rank/one-thing stand-up (225-283). Standard Six duel Dai v. Tomas on the House feed with partition/redirect into three floor panels and the east brace (299-335). Julian #1 v. #61, thirty-eight seconds, three exchanges (445-505). Wanting: 'Worse, there were people he wanted to go through the door with' (355); 'Something in him had leaned forward instead' (533); 'he had started counting' (543)."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Ranks: Kade 10,482; Eli 8,911 (1,571 below him); Mara 7; Taren 34; Julian 1; opponent 61; fourth-year 612. Meridian twelfth of twenty; bell silent fourteen months nine days; Room 814; DINING CLOSE THURSDAY with Navarro; seventeen switch requests, housing lock; 32 ms rotating-reference error; Bay Two closed; combat assessment tomorrow via Taren's schedule access before Kade has it (515-527); Kade sees transfer relationships, not the field (307-309); boundary question 'Where does this thing end, and who decided?' (309); cold thumb at base of skull after a screen-only bout, reported at 20:00 under the ch4 rule (311, 387-395); Sera registers the too-fast 'No' about family (289-297); COMBAT UNRATED pull into ch6 (531). Knee from the ch4 plank carried (217). Eleven-dollar shirt, photograph from ch3, one-drawer unpack, duffel handle seam all continuous."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Receipts: drone fix shown as a rule applied ('It's fixing where it used to be', 181-187); Julian's win itemized as three purchased pieces of information and one certain decision (497-509); Taren's ladder explanation counts output/control/record (505). Cost: cold thumb, hand to neck, reported to Elena. Close third on practical attention: broom vs. bag decision (23), bag seam 'stretched white' (129), key pocket never used (155), counting exits (111). Self-assessment; editor to confirm."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "Regex sweep for profanity, drafting notes, and metadata returned no matches; full read found no sexual content, gore, or stand-in exclamations. Speakers tagged at every exchange longer than two lines; scene breaks marked; the fourth-year is referred to as 'the fourth-year' in narration with 'Six hundred twelve' spoken once from his wrist to answer the editor's audio concern about 'Six-twelve'. No headings, word counts, or notes in the manuscript."
+    }
+  ],
+  "inventions": [
+    "Eli's drone wedged in the bell frame a meter under the bronze; Kade is handed a broom for the courtyard sweep before anyone greets him (Sera: 'Mercer. Eight fourteen. Broom.').",
+    "Kade's ground observation that the drone leans into the steel whenever it tries to lean away, and his 'it's in a cage, it can only fall down' call; Sera catches the dropped drone in the sweep bin.",
+    "Sera personally told housing to lock Room 814 because Eli asked for a roommate in July, was told nobody was coming, and 'I don't trade people'.",
+    "Sera walks Kade up the laundry stair on his first day 'so their feet know it when the alarm does' and infers Northline from him counting doors; 'You just told me.'",
+    "Sera's rank answer: 'Not the thing that carried your bag.'",
+    "Pencil route: the duffel's unused interior key pocket; Kade infers Elena placed the pencil while the bag sat beside Aaron's open box on the kitchen table (ch2 seam) as she did the note (ch3 seam). Darius message Eleven relays 'Mom says there's a pencil. She says don't be strange about it.' Elena confirms at the 20:00 call: 'It's been in a box for seventeen years. Somebody should write with it.'",
+    "Drone diagnosis staged from the drone's flight log plus Kade's ground view rather than a simulated stair-rail crash.",
+    "Dinner stand-up: Kade's joke ('the only person whose rank can't get worse') gets no laugh; the fourth-year's reply ('It can. We've done it.') does; Eli's 'He can see where a thing thinks it is' / 'Provisional. Like the rest of him.'",
+    "Nessa's hereditary-Zero question as the trigger for Kade's too-fast 'No'; Sera's 'That word's carrying a lot... exactly the way you said no a minute ago.'",
+    "Eli's bread-engineered-by-someone-who-hates-jaws rescue.",
+    "Taren's texts ('Bring the face you make when someone tells you something for free' / 'The face is correct. Keep it. Come anyway.'), the forum pool tying back to the ch4 Arrival boy who lost money on Kade, 'for free, different preposition', and 'The ones who tell you they aren't are selling that.'",
+    "Closing image: the pencil in the drawer eight floors down, 'his mother had decided it was time somebody wrote with it', paired with the bell count.",
+    "Unnamed background texture only: west-tower group, elevator fourth-year, sweep crew. No new named characters; Dai and Tomas are source-ch5 names retained."
+  ],
+  "state_change_proposals": [
+    "Aaron Mercer's mechanical pencil (silver, refillable, tooth marks in the barrel) is now in Kade's desk drawer in Room 814 as of the ch5 first afternoon, placed in the duffel's interior pocket by Elena without asking; Elena confirmed this on the 20:00 call and had told Darius in advance. This supports source ch20:51/1385 and ch29:95-105. STATE_LEDGER / CLUE_LEDGER should record it. The rewritten ch19 will need to reconcile source ch19:633-637 (Elena inventorying the effects at home, pencil included) with the pencil now being at Asterion — e.g., Elena names the pencil from memory or Kade recognizes the ch19 description from the object already in his drawer.",
+    "Kade is resident in House Meridian Room 814 with Elias 'Eli' Navarro (#8,911); duty grid lists MERCER + NAVARRO under DINING CLOSE, THURSDAY; Sera keeps the eighth-floor grid and personally requested the housing lock after seventeen switch requests.",
+    "Meridian stands twelfth of twenty; bell silent fourteen months and nine days as of this evening; Training Bay Two closed pending Navarro's cleanup; the fourth-year who runs dinner notices is #612 (unnamed).",
+    "Relationship movement: Eli = first working collaboration (rotating-reference fix from Kade's ground observation) plus public provisional vote of faith, and the first person on the island to visibly choose not to ask about Kade's father; Sera = gave him the laundry-stair evacuation route, inferred Northline, registered the too-fast 'No' about family and flagged 'Nothing' as the same evasion; Mara = admits she helped close the roster and does not know who reopened it; one expressionless turn-back at dinner that Kade counts; Taren (#34) = roof contact with demonstrated House schedule access before Kade has it (reveal-order clue preserved).",
+    "Third cold-thumb event, triggered by watching a Standard Six bout on a screen with no field in the room; reported to Elena at 20:00; Elena's folder log gains the entry.",
+    "Julian Cross (#1) is a concrete competence target: beat #61 in 38 seconds by buying three pieces of information and deciding once; Kade's first combat assessment is tomorrow; band combat line still UNRATED.",
+    "Darius message counter stands at Eleven at chapter end."
+  ],
+  "deviations": [
+    "WORD COUNT METHOD: no Bash/shell was available to this seat or its subagents, so 5,951 was derived by paginating ripgrep -o over \\S+ to the final token (offset 5,950, 0-based). This is the same tokenization as wc -w; the editor should confirm with wc -w.",
+    "Elena secretly placing the pencil in the duffel is a staging inference not present in the frozen source (source ch5 has Kade simply 'bringing' it). It is built from two rewritten seams (ch2: box open on the table, not put away; ch3: Elena hid a photograph and note in the same bag) and creates no new rule, power, or named entity, but it is a small new fact about Elena's action that the ledgers should record.",
+    "Sera, not Eli, now delivers the seventeen-requests fact and owns the housing lock; the source's 'most interesting person in the incoming class' exchange is dropped in service of F002.",
+    "Source-ch5 fourth-year 'Rowan Beck' remains unnamed (#612); Tomas's surname and Dai's first name remain unused; the eleven-dollar shirt / one-charger / cold-thumb seam alignments from the prior draft are carried forward.",
+    "The prior draft's two-line 'brace failed / remove the last word' Sera-Eli exchange, the serving-line strategy, the stair-vaulting boy, the scorch-mark line, and the 'lunch people' banter were cut for length and freshness; no locked fact depended on them.",
+    "Retained near-verbatim from the prior rewrite where the line is a clue or anchor: 'They keep pretending the fighter is the system'; the bout clock sequence; 'fourteen months and nine days'; the 'House schedule access' exchange; 'Cold goes at twenty hundred. Hurt goes right then.'"
+  ],
+  "blockers": []
+}

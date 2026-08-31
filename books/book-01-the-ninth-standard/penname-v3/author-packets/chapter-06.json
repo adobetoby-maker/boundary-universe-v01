@@ -1,9 +1,9 @@
 {
   "schema_version": "3.1",
-  "scene_id": "book1-ch05",
+  "scene_id": "book1-ch06",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "structural_repair",
+  "job": "draft",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -12,9 +12,9 @@
     "registry": "9cab5f30f45e9eed7c8aa1de28e37a1d6c60398a136f17005abf3ba50594b43a"
   },
   "modules": [
+    "combat",
     "progression",
-    "moral-choice",
-    "litrpg"
+    "moral-choice"
   ],
   "pov": {
     "character": "Kade Mercer unless the locked chapter evidence explicitly assigns Mara or Sen",
@@ -25,10 +25,10 @@
       "Treat registry role descriptions as naming aids, not story authority."
     ]
   },
-  "purpose": "Freshly re-author Chapter 5, House Meridian. Locked chapter function: Dorm ensemble chapter. Eli, Mara, Sera, Taren. Dining hall, house traditions, first glimpse of Julian and a Standard Six duel. Kade begins wanting what he insists he does not need.",
+  "purpose": "Freshly re-author Chapter 6, Forty-Seven Seconds. Locked chapter function: First combat assessment. Kade loses but performs impossible-looking momentum routing in the final seconds. Faculty quietly flag the footage.",
   "scene_shape": {
     "opening_state": "Preserve the incoming physical, relational, rank, and knowledge state established by the prior chapter and ledgers.",
-    "pov_goal": "Give the viewpoint character an immediate, concrete objective that delivers this chapter function: Dorm ensemble chapter. Eli, Mara, Sera, Taren. Dining hall, house traditions, first glimpse of Julian and a Standard Six duel. Kade begins wanting what he insists he does not need.",
+    "pov_goal": "Give the viewpoint character an immediate, concrete objective that delivers this chapter function: First combat assessment. Kade loses but performs impossible-looking momentum routing in the final seconds. Faculty quietly flag the footage.",
     "opposition": "Use the source chapter's causal obstacles and social pressures; make resistance active rather than summarized.",
     "turn": "Preserve the locked decisive reversal or discovery, but stage it freshly with visible cause and consequence.",
     "choice": "Make the viewpoint character choose under pressure; do not let power, coincidence, or an authority figure make the emotional decision for them.",
@@ -37,7 +37,7 @@
   },
   "obligations": {
     "must_include": [
-      "Dorm ensemble chapter. Eli, Mara, Sera, Taren. Dining hall, house traditions, first glimpse of Julian and a Standard Six duel. Kade begins wanting what he insists he does not need.",
+      "First combat assessment. Kade loses but performs impossible-looking momentum routing in the final seconds. Faculty quietly flag the footage.",
       "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
       "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
       "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
@@ -120,49 +120,18 @@
     {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
-      "path": "penname-v3/manuscript/chapter-04-ten-thousand-four-hundred-eighty-two.md",
-      "required": true
-    },
-    {
-      "kind": "reference",
-      "label": "Current rewrite to repair",
       "path": "penname-v3/manuscript/chapter-05-house-meridian.md",
       "required": true
     }
   ],
-  "verified_findings": [
-    {
-      "id": "book1-ch05-editor-F001",
-      "severity": "HIGH",
-      "gate": "Plants and downstream continuity",
-      "evidence": "penname-v3/manuscript/chapter-05-house-meridian.md:295-315: The unpacking exchange inventories Kade's belongings and substitutes a photograph; Eli declines to ask about Kade's absent father, but no mechanical pencil is present or handled. Verification: The rewritten Room 814 unpacking substitutes a photograph and contains no pencil encounter, while Chapter 29 relies on Eli recalling that exact first-afternoon encounter as identity evidence. Chapter 2 leaves the pencil among Aaron's effects at home, so the downstream recollection is unsupported.",
-      "consequence": "Chapter 29's identity-verification memory refers to a specific first-afternoon event that no longer happens, turning a crucial proof that Eli is alive into an unsupported recollection. The rewritten Chapter 2 also leaves the pencil in Aaron's box at home.",
-      "repair_target": "Restore a seam-consistent Room 814 pencil encounter that supports the locked Chapter 29 recollection, or obtain an approved higher-authority change to the downstream payoff and affected ledgers."
-    },
-    {
-      "id": "book1-ch05-editor-F002",
-      "severity": "HIGH",
-      "gate": "Fresh re-authoring",
-      "evidence": "penname-v3/manuscript/chapter-05-house-meridian.md:285-293: “I should tell you,” Eli said, “that after your assignment posted, seventeen people asked housing to switch into this room. Seventeen. Then housing locked the form.” ... “Because you're the most interesting person in the incoming class.” ... “Those are unrelated facts.” Verification: The cited exchange and many scene beats closely track the source, but the draft also contains substantial new narration and staging. Whether cumulative reuse crosses the contractual originality threshold is an aesthetic/originality judgment; the evidence supports concern but not an objective verified defect.",
-      "consequence": "The draft does not reliably satisfy the explicit requirement for a genuinely fresh chapter: it follows the source scene-for-scene and repeatedly retains dialogue and exchange construction with only localized rewording. A reader comparing editions is likely to experience it as an expanded close paraphrase rather than a fresh re-authoring.",
-      "repair_target": "Reconceive staging, conversational routes, and beat transitions while preserving locked facts, causes, and outcomes; do not merely synonym-swap retained exchanges."
-    },
-    {
-      "id": "book1-ch05-editor-F003",
-      "severity": "HIGH",
-      "gate": "Word-count acceptance",
-      "evidence": "penname-v3/manuscript/chapter-05-house-meridian.md:1-887: Actual `wc -w` count over the complete manuscript file: 7,984 words. Verification: The repeated full-file count is 7,984 words. The permitted range is 4,752–6,048, so the chapter exceeds the ceiling by exactly 1,936 words; the stated production-length consequence follows.",
-      "consequence": "The chapter exceeds the maximum by 1,936 words, materially breaking the declared production target and slowing an intended ensemble-introduction chapter before the combat assessment.",
-      "repair_target": "Bring the chapter to 6,048 words or fewer while preserving the ensemble introductions, House ritual, both bout functions, cold-thumb cost, Taren clue, emotional turn, and downstream pencil plant."
-    }
-  ],
+  "verified_findings": [],
   "exceptions": [],
   "output": {
-    "draft_path": "penname-v3/manuscript/chapter-05-house-meridian.md",
-    "report_path": "penname-v3/reports/current/book1-ch05-author.json",
-    "editor_report_path": "penname-v3/reports/current/book1-ch05-editor.json",
-    "verifier_report_path": "penname-v3/reports/current/book1-ch05-verifier.json",
-    "target_words": 5400,
+    "draft_path": "penname-v3/manuscript/chapter-06-forty-seven-seconds.md",
+    "report_path": "penname-v3/reports/current/book1-ch06-author.json",
+    "editor_report_path": "penname-v3/reports/current/book1-ch06-editor.json",
+    "verifier_report_path": "penname-v3/reports/current/book1-ch06-verifier.json",
+    "target_words": 5600,
     "tolerance_percent": 12
   }
 }

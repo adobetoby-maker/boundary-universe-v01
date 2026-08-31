@@ -8,8 +8,8 @@
   "max_repair_cycles": 3,
   "repair_cycle": 0,
   "scenes_total": 33,
-  "scenes_closed": 4,
-  "active_scene_id": "book1-ch05",
+  "scenes_closed": 5,
+  "active_scene_id": "book1-ch06",
   "last_finding_fingerprint": null,
   "repeat_count": 0,
   "blocker": null,
@@ -339,6 +339,48 @@
       "from": "SCENE_CLOSED",
       "to": "PACKET_READY",
       "note": "Begin Chapter 5"
+    },
+    {
+      "event": "packet_validated",
+      "from": "PACKET_READY",
+      "to": "AUTHORING",
+      "note": "Packet and frozen contexts validated"
+    },
+    {
+      "event": "author_done",
+      "from": "AUTHORING",
+      "to": "EDITING",
+      "note": "Fable produced validated draft and author report"
+    },
+    {
+      "event": "editor_findings",
+      "from": "EDITING",
+      "to": "VERIFYING",
+      "note": "Proposed findings require evidence verification"
+    },
+    {
+      "event": "verification_repair",
+      "from": "VERIFYING",
+      "to": "REPAIRING",
+      "note": "3 verified findings require repair"
+    },
+    {
+      "event": "repair_done",
+      "from": "REPAIRING",
+      "to": "EDITING",
+      "note": "Fable repaired only verified findings"
+    },
+    {
+      "event": "editor_pass",
+      "from": "EDITING",
+      "to": "SCENE_CLOSED",
+      "note": "Sol editor found no repairable defect"
+    },
+    {
+      "event": "next_scene",
+      "from": "SCENE_CLOSED",
+      "to": "PACKET_READY",
+      "note": "Begin Chapter 6"
     },
     {
       "event": "packet_validated",

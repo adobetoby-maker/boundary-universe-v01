@@ -1,0 +1,78 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch05-author-recovery-c0-1788172901",
+  "scene_id": "book1-ch05",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-05-house-meridian.md",
+  "word_count": 7984,
+  "obligations": [
+    {
+      "obligation": "Dorm ensemble chapter. Eli, Mara, Sera, Taren. Dining hall, house traditions, first glimpse of Julian and a Standard Six duel. Kade begins wanting what he insists he does not need.",
+      "status": "MET",
+      "evidence": "Eli courtyard collision and Room 814 drone repair (draft lines 35-389); Mara courtyard and lobby (79-153), napkin analysis (569-589); Sera lobby/corridor orientation (155-261), fork line (543-547); Taren messages and roof (617-887). Dining hall ritual: recorded bell, 'fourteen months and nine days', three notices, name/rank/one-thing stand-up (421-489). Standard Six duel Dai vs Tomas on the House feed (505-553). Julian Cross #1 vs #61, 38-second bout (773-857). Wanting: 'Worse: there were people he wanted to learn it with' (615); 'Something in him had leaned forward instead' (877); 'he had already started counting' (887)."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Narration is fully re-authored with new staging: gate-reader callback opening (5-9), Cole's walk and 'one pace of following' (11-19), Darius numbered messages Ten/Eleven (3, 389), photograph and Eli's not-asking (303-315), Elena 20:00 call on the laundry stair (647-681), Six-twelve left unnamed, bell stay-cable on the roof (685). Caveat for the editor: the beat order tracks the source scene-for-scene and a substantial share of the source's dialogue lines are retained verbatim or near-verbatim (e.g. 'I respect the messaging', 'Open question', 'High enough not to tell you', 'For now', 'Remove the last word', 'Those were mine'/'Past tense', 'To last place'/'Only if you plan on staying there'). I judged this within the 'preserve facts, not sentences' brief because those lines are character-voice anchors, but the retention rate is high enough that the editor should rule on it."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MISSED",
+      "evidence": "Preserved: ranks 10,482 / 8,911 / Mara 7 / Taren 34 / Julian 1 / opponent 61 / Six-twelve; Meridian 12th of 20; bell silent fourteen months nine days; Room 814; seventeen switch requests; Thursday dining-close duty with Navarro; 32 ms rotating-reference error; bout clock 7/11/19/24/31/38 s; combat assessment tomorrow; Sera registers Kade's too-fast 'No' about his father (493-499); Taren's schedule-access clue (861-873); Kade sees transfer relationships not the field (517); boundary question 'Where does this thing end, and who decided?' (517); cold-thumb cost after the screen bout (519-521). MISSED: the source's mechanical-pencil beat ('That was my dad's', source ch5 lines 541-555) is replaced by the photograph of Kade and Elena. That beat is a downstream anchor: manuscript/chapter-29-ghost-protocol.md:95 (Eli: 'Our first afternoon in Room 814, I picked up a mechanical pencil from Kade's desk. He said it belonged to his father'), chapter-19-aaron-mercer.md:633-637, chapter-20-run.md:51/1385. The rewritten ch2 leaves the pencil in Aaron's box at home (penname-v3 ch2:457) and the rewritten ch3 bag inventory (ch3:21) omits it, so the draft is seam-consistent but the ch29 payoff is currently unsupported. Minor: Rowan Beck is unnamed ('Six-twelve'; name appears only in source ch5), Tomas's surname Kessler and Dai's first name Lin are dropped (both ch5-only in source)."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Receipts: the drone fix is shown as a rule applied ('It's fixing where the drone used to be', 349-355) and Julian's win is itemized as three pieces of information bought at a price (823-835); Taren's ladder explanation counts output/control/record (851). Cost preserved: cold thumb at base of skull, hand to neck, reported to Elena (519-521, 671-679). Close third stays on Kade's practical attention (bag seam stretched white, 233; knee from yesterday's plank, 405; fastest way out, 225-231). Self-assessment only; editor to confirm."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "No profanity, sexual content, gore, or invented stand-in exclamations found on full read. Speakers are tagged at every exchange longer than two lines; scene breaks are marked with '---'; the italic numbered messages continue the device already established in ch3-4 so a listener has heard it before. One audio watch-point for the editor: 'Six-twelve' is used as a spoken-name label for the unnamed fourth-year (435, 485), which is clear on the page and probably clear aloud but is a judgment call."
+    }
+  ],
+  "inventions": [
+    "Opening gate-reader callback: the Meridian reader that refused Kade's band in ch3 now shows 'MERCER, K. — RESIDENT' (lines 5-9).",
+    "Cole walks Kade from Arrival C and delivers the bell fact on the walk; 'one pace of following' callback to ch3 (11-19).",
+    "Darius numbered messages *Ten.* and *Eleven.* continuing the established ch3-4 device (3, 389).",
+    "Eli's drone described as 'a drone the way a spilled drawer is a desk'; research into 'safety limiters on the House flight bays' (35, 75).",
+    "Sera identifies the duffel by its re-sewn handle (ch2/ch3 seam) and the seam 'stretched white' (165, 233).",
+    "Sera's 'You owe them what everybody on this floor owes. Thursday.' and the 'predictable, different word' exchange (245-249).",
+    "Photograph of Kade and Elena (found in the bag in ch3) placed on the desk; Eli visibly declines to ask about the absent father (303-315). This replaces the source's mechanical-pencil beat — see obligations/deviations.",
+    "Eli's teaching style shown as backing up three steps rather than getting louder; Kade bracing for impatience that never comes (381).",
+    "Dinner: 'a boot found the leg of his chair from two seats down' (Sera implied, not named) (457); Six-twelve's bedsheet tie-in (435).",
+    "Kade's cold tell rendered as the ch3/ch4 'cold thumb at the base of his skull' with a hand to the back of the neck, instead of the source's temple pressure (519-521).",
+    "New scene: 20:00 call to Elena from the laundry-stair landing, reporting the screen-triggered cold event under the ch4 rule 'Cold goes at twenty hundred. Hurt goes right then.' (647-681).",
+    "Roof texture: chess table bolted against the wind, hammock between pipe and railing, bell stay-cable anchored in the parapet, thirty meters of night at Taren's back (685-687).",
+    "Taren lines: 'I'm thirty-four. I prefer games I can lean on'; 'Facts walk. Rumor sprints'; 'Context' as his product (735-771, 873).",
+    "Kade's band line 'COMBAT, UNRATED' from ch4 used as the pull into ch6 (875).",
+    "Closing image extended: Kade knows he will carry the bell count 'for as long as he lived here, and that he had already started counting' (887).",
+    "Unnamed background texture only: west-tower group, fourth-year holding the elevator, stair-vaulting boy, 'someone down the table' who asks about Kade's father. No new named characters."
+  ],
+  "state_change_proposals": [
+    "Kade is resident in House Meridian, Room 814, roommate Elias 'Eli' Navarro (#8,911); duty grid lists MERCER + NAVARRO under DINING CLOSE, THURSDAY.",
+    "Meridian stands 12th of 20 Houses; the bell has not rung for fourteen months and nine days as of this evening; Training Bay Two closed pending Navarro's cleanup.",
+    "Relationship movement: Eli = first working collaboration (rotating-reference fix) and public 'For now' vote of faith; Sera = unranked-to-Kade fourth-year-ish figure who gave him the evacuation route and the 'no shame for a different road' line, and has registered his too-fast 'No' about his father; Mara = one small nod, one 'Meaning what?' she did not get answered; Taren (#34) = roof contact with demonstrated schedule access before Kade has it (reveal-order clue preserved).",
+    "Kade has now had a third cold-thumb event, triggered by watching a Standard Six bout on a screen with no field in the room, and has reported it to Elena at the 20:00 call; Elena's folder log gains that entry.",
+    "Julian Cross (#1) is now a concrete competence target: Kade watched him beat #61 in 38 seconds by buying three pieces of information and deciding once.",
+    "Kade's first combat assessment is tomorrow; his band's combat line still reads UNRATED.",
+    "Darius message counter stands at Eleven at chapter end.",
+    "Ledger decision needed (not made by this draft): either (a) the rewrite adds Aaron's mechanical pencil to Kade's belongings in ch5 so the ch19/ch20/ch29 anchors hold, or (b) CLUE_LEDGER/STATE_LEDGER record that the ch29 Room-814 memory re-anchors to the photograph. The draft currently implies (b) without recording it.",
+    "Registry note: the fourth-year 'Rowan Beck' (source ch5 only) is unnamed in the rewrite as 'Six-twelve'; 'Kessler' and 'Lin' surnames/first names are unused. No registry additions required."
+  ],
+  "deviations": [
+    "WORD COUNT: 7,982 words by whitespace against target 5,400 with 12% tolerance (4,752-6,048). The draft is roughly 48% over target. This is the largest deviation and almost certainly needs a cut pass.",
+    "WORD COUNT METHOD: no shell was available in this session (Bash absent for me and for a delegated subagent), so the 7,982 figure is a manual line-by-line whitespace count of the file, not a `wc -w` result. I expect it to be within about 1% of `wc -w`; the editor should confirm with `wc -w penname-v3/manuscript/chapter-05-house-meridian.md`. Even at the outer edge of that error the count remains far outside tolerance.",
+    "PLANT: source mechanical-pencil beat replaced by the mother photograph and Eli's not-asking; this leaves manuscript/chapter-29-ghost-protocol.md:95 (and ch19/ch20 pencil references) unsupported unless a ledger decision re-anchors them. Flagged as MISSED under the durable-facts obligation.",
+    "Kade's cost tell relocated from the source's 'pressure behind his eyes / two fingers to one temple' to the rewritten ch3/ch4 'cold thumb at the base of his skull' — intentional seam alignment, but it differs from frozen source ch5.",
+    "Kade owns one charger (per rewritten ch3:21) rather than the source ch5's three chargers — seam alignment, differs from frozen source ch5.",
+    "Added a scene not in the source: Elena's 20:00 call (about 255 words). It obeys the ch3/ch4 call rule and adds no new fact beyond reporting the cold event, but it is new structure.",
+    "The fourth-year announcer is unnamed ('Six-twelve') instead of 'Rowan Beck'; Tomas Kessler appears as 'Tomas' only and Lin Dai as 'Dai' only. None of these names recur outside source ch5 or appear in the registry.",
+    "Source 'Zero Mercer' nickname exchange omitted; source line 'Perhaps you find information threatening' replaced with 'You seem to have trouble telling them apart.'",
+    "Dialogue retention: a high proportion of the source's spoken lines are kept verbatim or near-verbatim while narration is re-authored; disclosed so the editor can judge it against the 'not a line-by-line paraphrase' bar.",
+    "Pre-existing source collision noted for awareness, not introduced here: Lieutenant Commander Nia Vale (source and rewritten ch2) shares a surname with Sera Vale, whom Kade addresses as 'Vale' in this chapter; the registry does not list Nia Vale.",
+    "Adapter normalized whitespace word count from 7982 to 7984."
+  ],
+  "blockers": []
+}
