@@ -1,565 +1,413 @@
 # Chapter 3 — Asterion
 
-The aircraft had no wings, and Kade Mercer took that personally.
+Darius's first insult arrived at three minutes past three, while Kade Mercer was still trying to work out what held the aircraft up.
 
-He stood on a restricted pad at the far end of the municipal airfield, past the hangars where the crop sprayers and the sheriff's helicopter lived, with his mother on one side and a chain-link gate on the other, and looked at the thing that was supposed to carry him to the ocean. It was long and matte gray and shaped roughly like a jet that had lost an argument. No wings. No engines he could find. Four rings set flush into the underside glowed the pale blue of a stove burner on low, and the concrete beneath them was clean in four circles, as if the aircraft had been quietly refusing to let dust land there.
+*One. Your hair.*
 
-He had spent seventeen years learning how things stayed up. Lift over a wing, thrust from behind, load paths you could follow with a finger. He looked for the load path on the gray aircraft and could not find one, and something under his ribs did not like that at all.
+He had asked for forty, spaced out, and Darius, who had never followed an instruction he could improve on, had apparently started the clock at the airfield gate. Kade put the phone away. Answering would have been coaching.
 
-"That thing looks fake," Darius said.
+The aircraft sat on a restricted pad past the crop sprayers and the sheriff's helicopter. It had the proportions of a jet, and somebody had taken the wings off it. No engines either. Four rings sat flush in its belly, each the width of a truck tire, glowing the pale blue of a pilot light, and under each ring the concrete was scrubbed clean in a perfect circle while the rest of the pad wore its skin of dust. He found that more unsettling than the missing wings.
 
-He was on Kade's phone, propped in Kade's hand, sitting on the front steps of Northline with the blue wall behind him and somebody out of frame slapping the vending machine in the same worn place. Kade turned the phone so the camera faced the pad.
+"Stop trying to see it," Elena said. "You'll pull something."
 
-"Helpful."
+She was in jeans and the gray coat, not scrubs. She had traded a day shift to be here and would pay it back at St. Vincent tonight, which he knew from the schedule on the fridge and not from her.
 
-"It looks like a lunchbox for rich people." Darius squinted into the screen. "You got everything?"
+"Everything pushes on something," he said.
 
-"One bag."
+"Then it pushes on something you can't see." She crouched and ran the duffel's slider open and shut, twice, listening to the teeth mesh. He had squeezed the plate closed with pliers two nights ago and tested it forty times since. She tested it anyway. It was how she loved things.
 
-"Not what I asked."
+"It holds," she said, and stood, and did not let go of the strap.
 
-Kade looked down. The duffel sat against his shin, green canvas, the re-sewn handle, the slider he had squeezed closed two nights ago and tested forty times since. Three shirts, two pairs of jeans, socks, a charger, and an eleven-dollar collared shirt with the tag still on, because taking a tag off felt like agreeing to something. Everything else on the academy's list, the formal sets and training sets and the weather shell, page eleven said they would hand him at the door. He had believed page eleven enough to leave the list unbought, and he was about to find out whether page eleven believed him back.
+Inside the bag: three shirts, two pairs of jeans, socks, a charger, and an eleven-dollar collared shirt with the tag still on. Everything else on the academy's list was page eleven's problem. *Property and financial responsibility of the academy.* He was about to find out whether one sentence in small type was load-bearing.
 
-"Probably," he said.
+She held up her own phone: a photograph of the inside of a silver folder, her square chart print, four conditions, three signatures.
 
-A flight officer in a gray coverall was crossing the pad toward them with a tablet under one arm. "Mercer? Four minutes."
+"That's in your messages. Anybody hands you anything with a place to sign, you find this first and read them side by side. If they don't match, you don't sign, you call. And you call. Not text. Every day this week."
 
-Kade looked at the screen. Darius had his hood up and no joke ready, which was twice in one week.
+He looked at the aircraft so he would not have to look at her doing this.
 
-"Don't come back normal," Darius said.
+"He used to say—" Elena said.
 
-"Not a risk."
+She stopped.
 
-Darius put two fingers up, and Kade ended the call before either of them had to find out what came after that.
+Kade kept his eyes on the rings. In seventeen years his mother had never once started a sentence with those three words. His father was a photograph, a stopped watch, an industrial accident, a *that part* that had never grown a *this part*. He was not somebody who *used to say*.
 
-Elena was not in scrubs, which was how he knew she had traded a shift for this instead of coming from one. She looked at him the way she looked at everything that came through the double doors, head, hands, color of the face, and then she crouched and ran the duffel's slider open and shut twice herself, listening to the teeth.
+"Say what."
 
-"It holds," he said.
+"Nothing useful." She was working the strap's webbing between two fingers. "Kade. Look at me."
 
-"I heard it hold." She stood. "Headache?"
+He looked.
 
-"No."
+"If you want to come home after the evaluation, you come home. If they tell you the evaluation has turned into something with a different name, you call me before you agree to the name. And if it's good there, you're allowed to say so."
 
-"If one comes back, you tell whoever's closest. Then me." She hugged him then, and it was not the shoulder squeeze she used on her way out to a shift. It was the whole thing, arms and weight, and he stood in it for half a second like a man deciding whether a floor would hold and then put his arms around her too.
+"Mercer." The flight officer, from the foot of the stairs. "Two minutes."
 
-"You call me," she said into his shoulder. "Not text."
+She hugged him. Not the squeeze she gave him going out the door to a shift. The whole thing, arms and weight, and he stood in it the way you stand on a floor you are not sure about, and then he put his arms around her and stopped testing.
 
-"People still call?"
+"Go," she said into his shoulder. "Before I say something else that isn't useful."
 
-"Every day the first week."
-
-"Once is generous."
-
-"Then twice." She let go and held him at arm's length and her face changed, the way it did when the joking part of a conversation had used up its time. "If you want to come home after the evaluation, you come home. No matter what they tell you it means. And if mandatory evaluation starts turning into mandatory anything else—"
-
-"I call you."
-
-"You call me."
-
-She reached out and straightened the cuff of his hoodie, the one with the staple through it, and her hand stopped there, thumb on the staple.
-
-"Your father would have—"
-
-The sentence ran out of road. He watched her look for the rest of it and fail to find a version she could say on an airfield.
-
-"Would have what?"
-
-"Hated that bag."
-
-"Plausible."
-
-She said it lightly and let go of the cuff, and her eyes went to the aircraft before his did, and he filed the unfinished sentence in the place where he kept a hand that had stopped on a word and a *that part* that had never gotten a *this part*. The drawer was getting full. He picked up the duffel.
+He did not look back from the top of the stairs. Whatever her face was doing, he would have had to carry it on board with everything else.
 
 ---
 
-The cabin had twelve seats and five people in them. Three wore dark Asterion jackets with the silver crest at the collar. Kade took the seat farthest from all of them and put the duffel under it, and one of the jackets across the aisle watched the bag go under and then looked at his face, and Kade knew the look. He had gotten it in school offices and scholarship interviews. Not hostile. Sorting.
+Twelve seats, four other people. Three wore dark jackets with a small silver crest at the collar, and one of those, a broad young man across the aisle with a nose that had been broken once, watched the duffel go under Kade's seat, looked at Kade's face, and went back to his reader without any change of expression at all. Kade had braced for the other look, the file opening behind somebody's eyes. This was the most restful thing anyone had done in his direction since Tuesday.
 
-"Null-lift departure," the flight officer said. "Stay secured until your indicator clears."
+"Null-lift departure," the flight officer said. "Harness stays on until your seat light clears. Symptoms go to the call panel, not to your neighbor."
 
-No roll. No whine. The aircraft rose from the concrete without any part of it seeming to push against anything, and Kade's stomach stayed on the pad for a long second before it caught up with him. His hand had found the armrest on its own. The airfield fell away under the window, hangars, gate, the small gray coat of a woman not moving, and then the city, flat and brown and stitched with roads, and he forgot to look unimpressed, and the jacket across the aisle saw him forget.
+*Symptoms.* Kade filed it.
 
-"First null-lift?"
+There was no roll, no whine building behind him. The floor simply decided it was somewhere else, and his stomach stayed on the pad for one long second before it caught up. Through the window the airfield fell away, hangars, the gate, a gray coat with a woman in it not moving, then the city flat and brown and stitched with roads, and the whole time nothing pushed. He listened for it. Nothing pushed.
 
-Kade turned. The student was nineteen or so, wide through the shoulders, with a face that had been hit at least once in a way that had taught it something. "First one that wasn't a building elevator."
+The floor tilted as the aircraft banked toward the coast, he could feel it in the seat, and the drawstring of his hood did not swing. It hung straight toward the deck as if the deck were still level. The bank ended. The string had never moved.
 
-"Rian Okafor."
+"Which one of you is lying," he said, to the string and the floor.
+
+"Neither." The broad student had not looked up. "The cabin gets told where down is. Your ears aren't in the cabin. They're in you."
+
+"So it lies to the cabin."
+
+"It decides what the cabin's allowed to feel. Different thing."
+
+Kade looked at the string again and did something he could not have described. An inward shift of attention, not toward the string but toward the gap between the string and the floor, the place where a rule was being applied. He was thinking *somebody decided where that goes*, and precisely as he thought it a pressure arrived at the base of his skull, small and cold and exact, like a thumb pushed against the bone through a glove. It lasted a breath. Then the aircraft leveled and there was nothing there, and there had, plausibly, never been anything there.
+
+The call panel was above the seat, a white button with a picture of a hand on it. He put his fingers on it and did not press. One breath of pressure during a turn, gone now, was not a symptom. It was a boy who had flown twice in his life and once today.
+
+He took his hand back and kept the other half of the deal, the half made in a kitchen: if it came back, he would press, and he would not wait to be told.
+
+"You were going to use the panel." The student had looked up at last.
+
+"I thought about it."
+
+"Most new ones don't. If it comes back, press it. They can't fix what they didn't hear." A hand across the aisle, briefly. "Rian Okafor."
 
 "Kade."
 
-Rian's eyes did a small, quick thing. "Mercer."
+He waited for what came after the name, the eyes changing, the wrist coming up, *Zero*. Rian nodded once and went back to his reader, and Kade understood that Rian had known who he was since the bag went under the seat, and had decided it was Kade's business.
 
-There it was. "Unfortunately."
+*Two. You're about to make friends with the one person on that plane who doesn't want any.*
 
-Rian lowered his voice. "You're Zero."
+The desert went gray and then white at its edge, and then the edge was the Pacific, and the aircraft came down.
 
-The internet had taken a day and a half to connect the outage to a school and the school to a name. He had been Zero Boy for about eleven minutes, then Zero Mercer, then just Zero, which he preferred, since it sounded like a breakfast cereal for people who had given up.
+It came down early, out over open water, until the sea was wrinkled steel close under the window, and then it flew straight at a wall. A white line on the horizon thickened into twenty meters of pale seawall taking the swell on its face, and the aircraft did not climb until he could see the tide stains, and then the wall dropped under them and the island was simply there, all at once, the way a room is there when a light comes on.
 
-"That isn't my score."
+A crescent six kilometers or so from horn to horn with a harbor held in the bend. On the northern arm, towers, glass and pale stone with the afternoon on them. Along the southern arm, set into the ground like coins pressed into wet clay, a chain of silver discs with their roofs shut. Arenas. He had watched bouts from inside those discs since he was six, on a cracked wall screen in a district gym.
 
-"That's what the site says."
+And the Spire. Dark glass, a lattice climbing it like ivy drawn by an engineer, the top widening instead of tapering, a fist on the end of an arm. Around its foot the buildings were older and lower, stone gone the color of bread crust.
 
-"What do you say?"
+Below them, close enough to see faces, a student stepped off the roof of a tower and walked down its face. Walked. Boots on the glass, body out level with the ground, hands in her jacket pockets, as if the wall were a road and she had somewhere to be at the bottom of it.
 
-Rian shrugged. "I say nobody shuts down a national network over a bad test."
+Kade's hand had flattened against the window without permission. He took it back.
 
-Kade looked out the window. "Neither do I."
+"You'll get the look at the foot of the stairs," Rian said, not unkindly. "About a week and it stops."
 
-That should have ended it. Instead Rian said, "You know there's a pool on you. Campus-wide."
+"What look?"
 
-"I'm not livestock."
-
-"Livestock has more public data." He turned his wrist over, and a display woke on the inside of it, and he thumbed to a forum and read aloud, flat as a menu. "*Zero lasts under seventy-two hours.* *Mercer baselines top one hundred.* *No output, administrative error.* *Classified Standard.*" He stopped. "And the favorite."
-
-"Go on."
-
-"*He is literally just some kid.*"
-
-"Smart money."
-
-"Odds are terrible."
-
-Kade should have found it funny, and he did, and he also read the list twice off Rian's wrist before Rian turned it face down, and that bothered him more than the pool did.
-
-The flight leveled. For a while the window was desert going pale toward the coast, and then the aircraft banked, and Kade stopped watching the ground because something on the tray table across from him had refused to happen.
-
-A paper cup sat there, half full of water. The floor tilted through the turn. The horizon stayed exactly where it was, and the water in the cup did not so much as lean.
-
-"How," he said.
-
-Rian followed his eyes. "Local inertial redirection."
-
-"That's a phrase, not an answer."
-
-"You want the math version?"
-
-"No."
-
-"Then it's an answer."
-
-Kade watched the cup. The turn happened. The cup did not experience all of it. Somewhere between the airframe and the water, something had decided where the force would resolve and where it would not, and as he thought that, precisely as he thought it, a pressure touched the base of his skull, small and cold and specific, like a thumb pressed there through a glove. Then it was gone. He could not have sworn it had been there.
-
-He looked away from the cup.
-
-"You all right?" Rian said.
-
-"Fine." It came out automatic, and he heard it come out that way, and he thought about a woman saying *you do not get to use fine today.* "Actually. A headache. Small one. Gone now."
-
-Rian nodded at the call panel above the seat. "Tell the crew if it comes back. They log it. Then it's theirs to worry about, not yours." No curiosity in it. No Zero question hiding behind it. Kade liked him more than he had planned to.
-
-A tray slid out of the seat console, sandwich, fruit, a protein bar in a crested wrapper, and he ate, because resentment had never once done anything for hunger.
-
-Then the desert ended and the ocean began. He had seen the Pacific twice, from public beaches. From two thousand meters it stopped being water and became a fact. Wrinkled steel in the light. Too big to argue with.
-
-"Two minutes," Rian said.
-
-Kade set himself to not care and lasted about nineteen seconds. Then the clouds opened, and Asterion Island lay under him like a thing someone had built to settle a debate.
-
-It was a crescent, six kilometers or so across the horns, white seawalls cutting hard clean edges into dark water. Towers along the northern arc, glass and pale stone taking the afternoon. Green terraces stepping down between the academic blocks. Along the southern half, the training arenas, silver discs pressed flat into the ground like coins somebody very rich had dropped and not bothered to pick up. And at the center of all of it the Spire, which he knew from every broadcast the country stopped for: dark glass, a lattice climbing it, and at the top the whole tower widening instead of tapering, as if gravity had been consulted and told no.
-
-The aircraft came down through a long slow spiral, over bridges and running tracks and courtyards, over people small as seeds moving in streams that all knew where they were going.
-
-Above the western shore, two figures rose off a terrace into open air.
-
-No aircraft. No cable. Two students, one going straight up in a clean arc and the other cutting sideways, boots skimming the face of a tower before both dropped out of sight behind it.
-
-Kade's hand had flattened on the window. He took it back.
-
-"Yeah," Rian said softly, and left it there.
+"The one I've been not giving you for an hour."
 
 ---
 
-The doors opened on warm air that smelled of salt and cut grass and some flowering thing he had no name for. Kade stepped down onto Asterion Island, and for three whole seconds nobody there knew who he was.
+The doors opened on warm air that smelled of salt and cut grass and some flowering thing he had no name for. He came down the stairs onto Asterion Island with a grocery-store duffel on his shoulder and, for a length of time he did not try to measure, was nobody at all.
 
-It was the best three seconds of the week.
+It did not last. A girl at the edge of the pad glanced at the inside of her wrist and her face changed; she said something to the boy beside her and his wrist came up; and it went across the pad like streetlights coming on down a road. Nobody stared. Everybody looked. Rian passed him, said, "The panel's a clinic here. Same rule," and was gone into the crowd.
 
-Then a girl thirty meters off glanced at him, glanced at her wrist, and glanced back. Her friend turned. Then a third. He picked up the duffel and let the week go back to normal.
+The man waiting at the pad's edge wore a gray uniform with blue trim and had close-cut hair, a tablet, and no display lit on his wrist at all.
 
-The man waiting at the edge of the pad wore a gray academy uniform with blue trim and had the close-cut hair and level expression of somebody who considered a schedule a moral document. "Mr. Mercer. Welcome to Asterion. I'm Enrollment Officer Cole." He held out a thin slate. "Your evaluation packet."
+"Mr. Mercer. Enrollment Officer Cole." He handed Kade a slate. "Your evaluation packet. Medical intake tomorrow at zero six fifteen. Baseline at zero seven hundred. Dinner in the arrival residence from eighteen hundred."
 
 The top line read MERCER, KADE — PROVISIONAL FIRST-YEAR.
 
-"I'm not enrolled."
+"That's not the word I came with."
 
-"Provisional."
+"It is the word the statute uses. A provisional student is a student under evaluation. It is a container, not a verdict. Page three."
 
-"That word is carrying more than it weighs."
-
-Cole did not smile. "Medical intake at zero six fifteen tomorrow. Baseline evaluation at zero seven hundred."
-
-"Tomorrow."
-
-"Yes." Cole started walking, and Kade followed, because the alternative was standing on a landing pad being looked at.
-
-He read while he walked. Page three began CONSENT TO BASELINE EVALUATION, and clipped to the top of it, scanned in her square chart print, were the four conditions his mother had written inside the cover of a silver folder in Room Four, with two signatures under them and hers on top.
+He found page three walking, because Cole had started walking. CONSENT TO BASELINE EVALUATION. His mother's voice said *find it first*, so he skipped the academy's paragraph and went to the end of the page, and there they were: four conditions in square chart print, scanned in, three signatures under them, clipped to the consent like the seal on a jar.
 
 "You attached her page."
 
-"She attached her page," Cole said. "It reached our office before your transport left the ground."
+"Your mother attached her page. It reached the enrollment office nine minutes after the transport request cleared. She then called to confirm that it had been received. Twice."
 
-The consent listed what the baseline would do to him: blood, imaging, physical measures, passive field exposure while he stood in a room. Nothing that asked him to produce anything. At the bottom, in type one size smaller than the rest, a line said *further evaluation stages require separate consent.* It was the first small print he had ever seen that made a thing narrower instead of wider. He signed for the baseline, only the baseline, and handed the slate back.
+He read the consent against the photograph on his phone, side by side, on a moving walkway with the ocean going by. Blood. Imaging. Physical measures. Passive field exposure while standing in an instrumented room. Nothing that asked him to produce anything. At the bottom, in smaller type: *further evaluation stages require separate consent.* It was the first fine print he had ever met that made a thing narrower instead of wider.
 
-The landing complex opened onto a plaza, and the plaza made him stop walking.
+He signed for the baseline. Only the baseline.
 
-Trees he did not know lined it, gray-barked, with leaves that turned silver when the wind came off the water. Channels of moving water were cut into the black stone underfoot. Students crossed in every direction, none of them looking for a sign. Nobody was lost. He distrusted all of them at once.
+The walkway ended in a plaza, and the plaza was where Asterion stopped being a broadcast.
 
-A panel rose out of the plaza floor as they approached, clear as a window, and he took it for an advertisement until the names started to move.
+In the center a column of water rose out of a basin, thick as a tree trunk and three meters tall, and it stood there, it did not fall, and six students in training gray stood in a ring around it with their eyes shut. The column wavered, and one of the six said "Mine, sorry," in a strained voice, and the water sagged a meter and climbed again.
 
-Thousands of them, scrolling. ASTERION COMBAT LADDER. Rank, name, year, House, Standard classification, a number here and there flickering up or down like something breathing. At the top, steady:
+"Introductory coupled control," Cole said. "Six of them holding one boundary. When one loses it, the others take the load without being told. You would be assigned to it in the spring. If you are here in the spring."
+
+Past the fountain a clear panel stood up out of the paving like a sheet of ice, and Kade took it for signage until the names began to move. ASTERION COMBAT LADDER. Thousands of lines scrolling: rank, name, year, House, a column of Roman numerals he had no key for yet. At the top, unmoving, as if bolted:
 
 1 — CROSS, JULIAN — YEAR 1.
 
-"A freshman?"
+He stopped. Cole came back, and Kade suspected Cole had known which panel it would be.
 
-Cole glanced at it. "Yes."
+"First in the whole school. A first-year."
 
-"He's first in the whole academy?"
+"The board shows a visitor what it believes the visitor is." Cole touched his tablet and the header changed. INCOMING FIRST-YEAR COHORT — 10,482 STUDENTS. "This is the ladder you would be measured against. If you were measured."
 
-"First among incoming first-years. The board shows you your own cohort."
+Ten thousand four hundred eighty-two. Northline had forty-two students, and he had known the name of every one, and their siblings, and which of them had somewhere to sleep.
 
-"Oh." He hated how much the answer let him down, and hated more that he had wanted the other thing.
+He put a finger on the glass and pulled toward the bottom. The numbers went by like mile markers, four thousand, seven, nine, and somewhere in the nine thousands he took his hand off the glass, because every line was somebody's name, and he had been the name on enough lists.
 
-Cole touched his slate, and the board changed. INCOMING FIRST-YEAR COHORT — 10,482 STUDENTS.
+"It's public. Even down there."
 
-"Ten thousand."
+"Especially down there, Mr. Mercer. Nobody checks the top. They already know who is on it."
 
-"Ten thousand four hundred eighty-two." Cole was already moving.
-
-Kade followed him across the plaza and tried to look at one thing at a time, and failed, because the island would not hold still. Students in training grays sprinted uphill with weighted sleds floating behind them at knee height on nothing. A maintenance crew was replacing a cracked walkway slab, and one student had the whole slab hovering a hand's width off the ground while another argued with an engineer about how much of the load path she was actually carrying. Nobody looked twice. Kade looked at all of it and kept his face still.
-
-"There is a bench," Cole said, without turning.
-
-Kade stopped with his shin against it. "I saw it."
-
-"You saw the slab." Cole waited while Kade stepped around it. "Nothing on this island moves out of your way, Mr. Mercer. Better to learn that from furniture."
-
-They passed a courtyard where twenty students stood in a ring around a hovering steel hoop while an instructor called numbers. Each number sent a different student a step forward to do a different thing to the hoop: slow it, bend its path, split its spin, hold it dead in the air. Kade stopped. The hoop accelerated toward a wall. Three students moved at once, and it curved, and stopped, and settled onto a stand like a hat onto a hook.
-
-"What class is that?"
-
-"Introductory coupled control."
-
-"At Northline the introductory unit was a cart on a track."
-
-"The cart is still on the syllabus here," Cole said. "It is simply no longer the ceiling."
+*Three. Bet you're already looking for your name on something.*
 
 ---
 
-Under a blue sign that said ARRIVAL ORIENTATION, six wall displays showed the island from six angles. Families crowded five of them while staff talked residence access and meal times and weather shelters, and the list of rules ran long enough that Kade suspected being new had been made a violation. The sixth display was empty. Cole tapped his slate against it, and a map spread up the wall.
+Cole took him as far as the landing-complex desk, where a woman scanned his band and dealt across the counter, like cards, a meal card, a folded paper map, and a lanyard of blue cloth with PROVISIONAL on it in white.
 
-Rendered in colored blocks and arrows, the crescent got less impressive fast. Three layers of movement: a lower transit ring curving under the courtyards, an academic level crossing between buildings on enclosed bridges, and a service level threaded through the foundation in gray lines that dimmed whenever he tried to touch them. The Spire sat in the middle of all three like a nail through a stack of paper.
+"Key?"
 
-"You are here," Cole said. A blue point pulsed on the central academic level, east of the Spire.
+"Your band is the key," Cole said. "It becomes one when the slate is satisfied. Arrival Residence C, eighth floor. Find it. On the way, find the nearest hardened shelter, and then find it again with the first way closed. I will be one pace behind you. I will not speak. Go."
 
-"I'd gathered."
+So he went, with Cole's footsteps exactly where Cole had said they would be, onto a bridge the map called Central: glass on three sides, sixty meters above a planted court, wide enough for a truck. A number was stenciled at the threshold with the word PERSONS under it. He stepped over it and then went back and read it, because a bridge that told you how many people it would hold was a bridge somebody had imagined full.
 
-"Show me your assigned residence."
+Halfway across, through a long slot of glass set into the paving of the court below, a lit tube ran, and a platform slid through it with students on it, going home. LOWER TRANSIT, the map said: a ring under the courtyards. Where the tube opened into the station beneath the bridge, a door stood open in its track, steel, curved, a hand's width thick.
 
-Kade looked at him. Cole waited. Cole could wait the way a wall could.
+The map knew the door. It knew all of them. It drew the ring and cut it into segments with a small red mark at every cut, and the mark had a name.
 
-Residences climbed the eastern shoulder and the northern arc, close enough to the water that half the rooms probably existed to appear in brochures. He touched the biggest block near the eastern landing complex, and the map made a soft low tone at him.
+"Flood doors," he said. "A school with flood doors."
 
-HOUSE MERIDIAN — ASSIGNED RESIDENTS ONLY.
+Cole said nothing, as promised. Kade thought of the seawall and answered himself. Somebody had built this rock in the Pacific, had watched water win arguments, and had put doors in.
 
-"Not there."
+The map's emergency view stripped the academy's colors off the island and left it honest: bridges with numbers over them, the ring with its cuts, the Spire gone red with access he did not have, and a hardened room drawn under the northern towers, across the Spire from where he stood. NORTH SHELTER. Route one wrote itself: Central Bridge, straight through.
 
-"It knew before I did."
+With Central closed, the ring. Down a station stair, south under Meridian, north again at the Spire, up under the towers. He marked it. The slate did not release his band. It wanted a third, and Kade did the arithmetic the number on the bridge implied. Fire. Water. A crowd going the wrong way.
 
-Beyond Meridian was a smaller block marked ARRIVAL RESIDENCE C. The route from where they stood crossed something called Central Bridge, cut through a courtyard inside Meridian, and ended above the landing pads.
+The third was not on the pretty map at all. He went up a level, into the bread-crust stone at the Spire's foot, and found a narrower bridge curving west through the old classroom blocks and under the library itself: LIBRARY UNDERPASS, a gray passage that came up beneath the northern towers a hundred meters from the shelter door. Three ways to the same room, and none of them shared a wall.
 
-"There."
+"West academic," he said, and marked it, and the slate thought about it and let his band go warm.
 
-"Now the nearest hardened shelter."
+The clean line to Arrival C ran off the far end of Central and straight through a courtyard belonging to HOUSE MERIDIAN, the largest residence on the eastern shoulder. The gate was iron and standing open, with a reader beside it, and when the reader saw his band it made a low soft tone, once, the sound a machine makes when it is sorry but not very.
 
-He switched the map to emergency view, and the academy colors went away. Load ratings appeared over every bridge. Flood doors sectioned the lower ring. The Spire became a cluster of red access zones. A shelter icon blinked under the northern towers, on the far side of the whole central complex from Arrival C.
+ASSIGNED RESIDENTS ONLY.
 
-He traced the obvious line, Arrival C across Central Bridge. Green.
+He looked through the open gate at the courtyard, where a bell hung in a frame and three students sat on a wall eating something out of paper. Nothing physical stopped him. He backed up.
 
-"And if Central is closed?"
+The map, asked again with his band's limits switched on, went gray across Meridian and drew a thinner line around its outside: an exterior stair, metal, bolted to the flank of a long building called MERIDIAN DINING, down two flights to a service walk and up again on the far side. Longer. Outdoors. Nobody in academy blue was using it. A kitchen worker on the landing nodded at him the way you nod at somebody carrying their own bag.
 
-He dropped a level to the lower ring. The route ran south under Meridian and turned north at the Spire. "Lower transit."
+At the top of the second flight the map went green, and Arrival C stood in front of him, and Cole's footsteps stopped.
 
-"If the lower ring is closed."
+"You can talk now."
 
-"What closes both?"
+"Note the stair."
 
-"A fire that reaches the ring. Water. A field event. Six hundred people deciding the same door is the good one."
+"I noted the stair. I'll be noting it every time it rains." He turned around. "And the other direction. If I wanted the pad."
 
-His mother triaged like that: assume the first door is blocked. He went looking for a third route because Cole was going to stand there until he did. On the academic level, a narrower bridge swung west around the Spire through the old classroom blocks and joined a library underpass before it reached the northern towers.
+"Your band opens the transit desk. It requires your band and a departure time. The clinic reassigns the slot."
 
-"West academic bridge."
+"You're not going to tell me what I'd be throwing away."
 
-"Longer. Exposed to sea weather on the outer span."
-
-"But it doesn't share a failure with Central or the ring."
-
-Cole nodded once.
-
-He touched the route, and the map asked him for two assembly points and one route he could travel without academy access, and he found the landing complex before the question had finished appearing on the wall.
-
-Cole said nothing.
-
-"That's a route I can travel."
-
-"It is."
-
-Nothing followed. No speech about commitment. No suggestion that arriving had used up leaving. Kade marked it, and marked the silence too.
-
-The second route took longer. His provisional access barred the direct path through Meridian, so he walked it out along an exterior stair beside the dining hall, and when the display took both answers his slate vibrated once. EMERGENCY ORIENTATION COMPLETE.
-
-At the next panel over, a father reached past his daughter to touch the wall for her, and the staff member covered the screen. "She has to show me." The girl, fourteen at most, a rigid brace running up under her sleeve, found a route through a lift sized for stretchers and smiled at the map, not at anyone near it.
-
-At Northline the fire maps curled behind scratched plastic, and everyone knew which stairwell door stuck in winter, so it was almost the same as safe. Here the system knew exactly which doors his lanyard could open, and it had made him prove he could get out without somebody stronger deciding for him. The place had just gotten harder to dismiss. He was not sure he wanted it to.
+"I am not paid to hold opinions about what you would be throwing away, Mr. Mercer. I am paid to have you at a clinic door at six fifteen if you are on this island. Whether you are on this island is the one line on tomorrow's schedule that belongs to you and not to me. Eighth floor."
 
 ---
 
-The lobby of Arrival Residence C was bigger than Northline. Not Northline's lobby. Northline.
+Arrival Residence C had a lobby the size of Northline. Not Northline's lobby. Northline.
 
-Students moved through it with hard-shell cases on wheels, garment bags, instrument cases, an equipment trunk so large it had its own handler. Parents stood in knots, in suits, in uniforms with ribbons. One family had three assistants moving boxes on a floating pallet while a girl in academy blue explained to her mother that the ocean was on the wrong side of her room.
+There was a rail, and it came for his bag. A polished track ran along the lobby wall at hip height, and luggage rode it: hard-shell cases the color of expensive cars, garment bags, a trunk with brass corners and its own attendant walking beside it with one hand on the lid. A boy his age stood at intake with four matched pieces, watching a handler print a tag for each.
 
-Kade looked at the grocery-store duffel hanging off his shoulder, green canvas gone gray at the corners, the mismatched thread, and for the first time all day it embarrassed him. It lasted about five seconds. He hated it for every one of them, because the bag had not changed since the airfield and neither had he, which meant the only thing that had changed was what he was standing next to.
+The handler held out her hand for the duffel.
 
-Cole saw it. Of course Cole saw it. He said nothing, which was worse. Kade tightened the strap and went in.
+He gave it to her. She set it on a plate in the counter, and the plate said eight point one kilograms, and she looked at the number and then, briefly, at him, and looped a tag through the handle with the mismatched thread, and set the duffel on the rail between the brass-cornered trunk and a garment bag longer than he was.
 
-At the desk a staff member scanned the band on his wrist and dealt him a meal card, a temporary room key, a folded campus map, an emergency contact strip, and a lanyard of blue cloth that said PROVISIONAL in white. It kept him out of restricted training zones, she said. A student going by behind him looked at the lanyard, then at his face, and recognition went across her like a light switching on. Kade clipped it on anyway.
+"Is there a second piece?"
 
-Eighth floor. Two beds, two desks, and a glass wall with an ocean behind it that would have added several hundred dollars a month to the rent anywhere he had ever lived. On the near bed, stacked in clear packaging, lay two formal sets, three training sets, shoes, a weather shell, and a thing folded small enough to be the field underlayer. Page eleven had kept its word. He put the duffel down beside the stack, and the duffel looked like something the stack had been sent to replace.
+"That's the piece."
 
-The second bed was bare.
+She touched the rail, and the duffel went, green canvas gone gray at the corners, riding away between the trunk and the garment bag toward a door in the wall, and for about five seconds he was ashamed of it. A hot, specific thing up the back of the neck. The bag had not changed since the airfield. He had not changed. The only thing that had changed was what it was riding next to, and he stood in the lobby and hated the five seconds and did not get them back.
 
-"Temporary housing," Cole said. "House assignment follows baseline. Dinner from eighteen hundred, ground floor."
+Eighth floor. Two beds, two desks, a glass wall with the Pacific behind it, and on the near bed, stacked in clear packaging, two formal sets, three training sets, shoes, a weather shell, and a thing folded small enough to be an approved field underlayer. Page eleven had kept its word. Then a hatch he had not noticed opened in the wall and the duffel slid out of it onto the floor, tag fluttering, and lay there.
 
-Kade sat on the bed. "And if tomorrow comes back empty?"
+The second bed was bare. He was the only thing in the room that had not come in packaging.
 
-Cole paused with one hand on the door. "Empty is a result."
+He unpacked, because his mother would ask, and because leaving it zipped by the door would have been a statement, and he was tired of making statements to furniture. Three shirts, two pairs of jeans, socks: it filled the top drawer to a depth of about two fingers, and when he pushed it shut the room looked exactly the way it had before, except that the bag was empty. He folded it the way it had lived on the closet shelf at home, flat, in thirds, tag and all, and set it on the shelf above the drawers where he would see it.
 
-"Schools say that. Then they build a bottom onto the chart and put you under it."
-
-Cole looked at him for a moment, and it was not the sorting look. It was something plainer.
-
-"Nobody on this island is waiting to be shown that you belong here, Mr. Mercer." He let that sit. Kade put his tongue against the back of his teeth and kept the first answer there. "They want to know what you do."
-
-The door closed.
-
-He unpacked. It took four minutes. Three shirts in a drawer built for thirty. Two pairs of jeans. Socks. The eleven-dollar shirt on a hanger with its tag on. He left the academy stack where it was.
-
-In the side pocket of the duffel, where he kept nothing, his hand found a photograph. Him and Elena on the front step two summers ago, both squinting, her hand on the back of his neck. He had not packed it. Behind it was a note, folded once, in the square chart print.
+He went into the side pocket for the charger and found, on top of it, a photograph he had not packed: him and his mother on the front step two summers ago, her hand on the back of his neck. Behind it, a square of paper folded once, in the print she used for charts.
 
 *Call me. Eat food. Ask questions. You are allowed to leave. You are also allowed to stay. — Mom*
 
-He read the last two sentences twice. Then he put the note in the desk drawer, face down, where nobody could come across it and make the situation emotional, and sat on the bed with the empty duffel across his knees and his thumb on the slider.
+He read the last two lines again. The second was the one that was hard to look at. He put the note in the desk drawer, face down, under the paper map, and plugged in the phone.
+
+*Four. You found the note. She told me she was putting a note. Your face right now.*
+
+He typed *stop*, and sent it, which was a mistake.
+
+*Five. He answered. Thirty-five to go and he answered.*
 
 ---
 
-He went to dinner alone, because that was a thing he knew how to do.
+He went to dinner alone, because it was one of the things he was good at.
 
-The dining hall on the ground floor had eight food stations, two hundred seats, and more languages moving through the air than he had heard in one room in his life. He took a tray and got in line. The girl ahead of him, short, with a lot of curly hair pulled up off her neck and a blue lanyard the same color as his, turned around before he had settled the tray in his hands.
+The dining hall held two hundred seats and more languages than he had heard in one room in his life. He took a tray, and food, and a table by a pillar with his back to it, and had eaten a third of a meal better than any Northline had served when a girl with a blue lanyard sat down across from him without asking.
 
-"Two scanners at the end," she said. "Use the left one. The right one is faculty. It tells you that you don't exist, in red."
+"The site has you as a clerical error at three to one," she said. "I've decided to believe the site. It makes you restful."
 
-She looked at his lanyard, then his face, and did not do the thing with the wrist. "You're Zero."
+She was short, with a great deal of curly hair tied up off her neck, and she was already eating.
 
-"That's the site's opinion."
+"Imani Bell." She said it, and then said the next thing the way other people told you their town. "Heart surgery at fourteen. There's a device in my chest that keeps the rhythm honest, and nobody knows whether it argues with field coupling, because nobody's ever had one and tried. Tomorrow at seven they find out. Medical Coupling Review, Clinic Two. You?"
 
-"Imani Bell. Medical review." She said it the way other people said where they were from. "Heart surgery at fourteen. They want to know whether the implant argues with field coupling. Tomorrow they find out. What's yours?"
+"They haven't told me."
 
-"A routing code. Apparently."
+"They haven't told any of us. That's what the blue means." She pointed her fork at his lanyard, then her own. "White is enrolled. Blue is *we'll see.*"
 
-Imani nodded as if that were a common condition. "Left scanner."
+"And you sat here because."
 
-He used the left scanner. A green ring ran around its edge, RESIDENT MEAL — INCLUDED, and under it a list itemized his tray: dinner access, nutrition allocation, evaluation lodging, every line ending in a zero. That was somehow worse than a price.
+"Because you're eating alone by a pillar with your back to it like somebody's coming for the tray." She chewed. "Also, if you're a clerical error I want to have met you before they find the clerk."
 
-"What account is this charging?" he asked the woman behind the counter.
+Two more blue lanyards arrived and sat without ceremony: a tall boy in a knitted hat with two full trays, who started on the second without a word, and a girl with a stylus behind one ear who had her slate open before her tray touched the table. Nobody introduced anybody.
 
-She looked at his lanyard. "Provisional services."
+"He's banking," Imani said, of the boy with two trays. "Blood draw at six fifteen, nothing after midnight. You're six fifteen too. It was on the door list."
 
-"Who pays provisional services?"
+Kade set his sandwich down. He had read *zero six fifteen* on the slate and not the line under it. Nobody had ever written him a fasting instruction in his life.
 
-"The academy."
+"Then eat that," the boy said, the first thing he had said, "instead of looking at it."
 
-"The academy gets its money from somewhere."
+The girl with the stylus turned her slate around. Two columns of figures. "Regional certification, seven control bands. They can't convert my scores without watching me do it again, so I converted them myself in the lift. I'm not in the top thousand. I'd like to be told that by a person and not a lift."
 
-The line behind him stopped moving. Imani, already through, leaned back around his shoulder. "He's going to keep going. He has the face."
+Above the stations, the display strip changed. PROVISIONAL BASELINE GROUPS, names and places and times, and the table went quiet the way any table goes quiet when the sheet comes round. Imani's name under MEDICAL COUPLING REVIEW — CLINIC TWO, and she looked at it for a long second and went back to her food.
 
-The woman put both hands flat on the counter, which was how Kade knew she had been asked before. "Evaluation meals, lodging, medical intake. Covered whether you enroll or not. Nothing on that tray touches your family."
-
-"And if I enroll?"
-
-"Dining sits inside residence fees. Need-based aid buys the same plan. Same stations, same food."
-
-He had sat through enough scholarship presentations to distrust equality on a slide, so he looked past the register instead. Tailored jackets and mended sleeves carried identical trays away from identical scanners. It proved nothing. It made the claim something he could check.
-
-He took his tray. Imani fell in beside him. "You're going to be work," she said, without heat. "You want to sit with us?"
-
-He looked where she looked. Three blue lanyards at the far end of a long table. "Who's us?"
-
-"Blue. Nobody's told us anything yet, so we sit together."
-
-He followed her.
-
-Nobody at the table was talking, and everybody was busy. A tall boy in a rust-colored knit hat had two full trays in front of him and was working through the second at the pace of a man on a schedule. Across from him a girl with a tight braid and a stylus behind one ear was doing arithmetic by hand on her slate. The third, in a jacket so new it still held its fold lines, had taken the one seat that faced away from the window.
-
-Imani set her tray down. "This is Zero. Zero says he's a routing code." She did the names, quickly, and Kade lost two of the three at once and hung on instead to what their hands were doing, which was how he remembered anybody. "Kade," he said.
-
-"That too."
-
-The boy in the hat moved his first tray to make room without looking up.
-
-"Table rule," the girl with the stylus said. "Nobody says what they do until the academy's said it first."
-
-"It's not a rule," said the girl in the creased jacket. "It's a thing you said."
-
-"Nobody stopped me. That's a rule."
-
-Kade sat. "Then why are you here? That's not what you do. That's what they think you might do."
-
-The boy in the hat swallowed. "Late expression. First measurable event at eighteen. They want to know if I'm late or if I'm something else." He pointed his fork at the second tray. "Blood at six fifteen. Nothing after midnight. I'm banking."
-
-Kade looked at his own tray. Medical intake at zero six fifteen. He had read the time and not the fasting line under it, because nobody had ever written him a fasting line before.
-
-"I'm at six fifteen too," he said.
-
-"Then you're behind," the boy said, and pushed the bread basket across.
-
-The girl with the stylus tilted her slate. Seven columns of numbers on the left, one on the right. "Transfer certification. My regional program scores control on seven bands. Asterion says it can't convert my scores without watching me." She tapped the right-hand column. "It can. I did it in the lift."
-
-The girl in the creased jacket had not touched her food. "My field's fine until I cross a moving reference frame. Trains. Lifts. That aircraft." She tipped her head backward, at the window she had chosen not to face. "There's a moving walkway out there. I can feel it pulling on the wrong side of my head."
-
-Kade thought of a paper cup on a tray table, and a thumb pressed through a glove. "That sounds like a problem."
-
-"The academy called it operationally significant."
-
-"That's a problem in a nicer coat."
-
-Imani unwrapped a fork. "And my heart has aftermarket parts." Nobody at the table performed sympathy. Imani seemed to have chosen the table for that.
-
-Kade opened his water. "And if it does interfere?"
-
-"They map it. If it's stable, I train with limits. If it's not, they change the shielding and try again. If that fails, I go home with better data than I came with." Her voice did not move. The fork in her hand bent by a hair. She set it down and took another from the middle of the table. "I'd still hate it."
-
-"Reasonable," Kade said.
-
-The wall display over the stations changed from dinner hours to tomorrow's schedule. PROVISIONAL BASELINE GROUPS. Names appeared under locations, and the table went quiet in the way of people finding their own names.
-
-"Six forty," said the girl with the stylus. "Academic control."
-
-"Seven ten," said the boy in the hat. "South arena four."
-
-The girl in the creased jacket read hers off her slate. "Null-lift lab. Somebody thinks they're funny."
-
-Imani's name came up under MEDICAL COUPLING REVIEW — CLINIC TWO.
-
-Then Kade's name filled a line by itself.
+Then his own name, on a line by itself, with nobody under it.
 
 MERCER, KADE — CONTROLLED BASELINE — SUBLEVEL ACCESS.
 
-Conversation thinned at the tables around them the way air thins going uphill. The boy in the hat looked at the board, and then at Kade, and then went back to his tray, which was the kindest thing anybody had done for him since the airfield.
+The hall did not go silent. It went thin, the conversation at the nearest tables losing its middle, a wrist coming up here and there like a hand at the back of a classroom. The boy in the hat looked at the strip, and then at Kade, and then went back to his second tray, and Kade would remember later that this was the kindest thing anyone did for him that night, and that it had cost the boy nothing.
 
-Two white lanyards came over from the next table. Enrolled. The boy had the easy walk of somebody who had been good at something in public for years. The girl had a display lit on the inside of her wrist.
+The two who came over from the next table wore white lanyards. The boy walked like somebody who had been good at things in public for years. The girl with him had a display lit on the inside of her wrist.
 
-"Is it true you made the federal test read zero zero zero?"
+"Sublevel," the boy said, pleasantly. "That's where they put the ones who break the instruments. Look, I'll be straight with you." He sat on the end of the bench, uninvited, one leg out into the aisle. "There's a lot of money on you. Not mine, mostly. Everybody's guessing until seven tomorrow. I can save you the night." He laid one hand flat on the table between the trays, and the silver plate at his wrist caught the light. "Small field through this. Low. You tell me if it feels like anything. If it does, you're something. If it doesn't, you're not. Either way you know before they do."
 
-"It read that," Kade said. "I didn't make it."
+He had expected to be asked to *do* something, to make a fork turn. This was the reverse, and it was worse, because it was the exact shape of the thing he wanted. An answer that would be his. Tonight, at a table, from a person and not a lift, before anyone behind a glass wall could have it first.
 
-The boy set his fork on the table, tip down. It stood up. It stayed standing, balanced on one tine on a surface that should not have allowed it, and began, slowly, to turn.
+He felt himself lean in, an inch. He felt the boy see it.
 
-"They're saying you suppress fields," he said. "Kill it."
+"Not through this table," Imani said.
 
-The nearest tables were watching now. The girl's wrist display had stopped pretending to be a clock.
+She said it to her tray, not loudly.
 
-Kade looked at the fork.
+"It's low. You won't feel it."
 
-Part of him reached for it. Not because he thought anything would happen. Because if nothing happened it would be an answer, and an answer would be his, in a place where every other fact about him belonged to a board or a forum or a man with a slate. But the pressure at the back of his skull had come during a turn, when he was doing nothing. The sphere at Station Seven had moved only after he stopped treating it as the thing that mattered. He understood neither, and that afternoon he had signed a page saying the people who would find out had sensors and a sealed room. Not a fork and an audience.
+"There's a device in my chest that nobody has ever put a field through. That's a sentence I've said to four doctors this week, and I'm going to say it to a cardiologist at seven, and I'd like her to be the first one to try, and I'd like her to have a screen." She looked up, and her voice did not move at all. "So. Not through this table."
+
+The boy's hand stayed where it was. Kade looked at it, and at the field he could neither see nor feel, and thought about a pressure at the base of his skull that had come once, in the air, while he was thinking about a rule, and had not come back. He did not know what it was, or what a field through a table would do to it. That was two unknowns, and one of them was sitting across from him with a device in her chest.
 
 "No," he said.
 
-"You don't know if you can."
+"You don't want to know?"
 
-"That's the reason. Not the excuse." He picked up his sandwich. "I signed for a room with instruments in it. Tomorrow. This is a room with forks."
+"I want to know so badly I nearly let you." It cost him something to put that on the table where they could all see it. "But you'd know first. You'd have it on your wrist before I had it in my head, and then it'd be yours, and I'd be reading about myself again." He nodded at the girl's lit display. "That's recording."
 
-"Is that going anywhere?" Imani said to the girl with the wrist display, pleasantly.
+"That's a clock."
 
-"It's for me."
+"It's been the same time for a minute and a half," said the girl with the stylus, not looking up.
 
-"Then you don't need him in it."
+The boy in the hat stood. He was very tall, standing, and he did nothing with it except lift his empty first tray and set it down on the end of the bench where the enrolled boy's leg had been, so that the leg had to move.
 
-"What's your baseline slot?" the girl with the stylus asked the boy, not looking up from her columns.
+"Bench is full," he said, and sat down.
 
-"I'm enrolled."
+The enrolled boy took his hand off the table. His face did one brief honest thing before he put the public one back over it. "Seven o'clock, then. Everybody finds out."
 
-"Then you're not on the board. This end of the table is for people who are."
+"Not everybody," Kade said. "I signed for a room with a door."
 
-The boy in the hat, still chewing, slid his empty first tray across the gap until it sat between Kade and the fork, and went on eating as if he had simply needed the space.
+They went, and the hall found its noise, and Imani swallowed and said, "You'd have let him."
 
-"Your frame's off," said the girl in the creased jacket, quietly. "It's walking."
+"Yes." He looked at his sandwich. "He'd have told me. Nobody ever tells me. I'm the one line on that board I can't scroll to."
 
-The enrolled boy glanced down. The fork had drifted a finger's width across the table while everyone was looking at Kade. He caught it, and it dropped into his palm, and his face did something brief and honest before he put the easy walk back on.
+"Then tomorrow, when they tell you, it's yours. Not his. That's the whole difference. It isn't a small one." She set her fork down, and it was, he saw, slightly bent, and she took another from the middle of the table and did not comment. "I'd still hate going home. I might, though."
 
-"See you on the board," he said.
+The girl with the stylus turned her slate around a second time. Beneath the lowest of her seven bands she had added a line.
 
-"You'll see a line," Kade said. "I'll be somewhere under it."
+MERCER — 000 — PENDING.
 
-They went back to their table. The room found its noise again.
+"You're on my scale now. Tomorrow I'll put in what they say, and then what I saw, and if the two don't match I'll know something."
 
-Kade breathed out. "Thank you. All of you."
+"You don't know the zero's real."
 
-"I needed the space," the boy in the hat said.
+"It's what's in the column. Everybody at this table is a pending." She tapped the word. "You're the only one they put on the wall by yourself. That isn't the same as being alone. Learn the difference before seven."
 
-"You wanted to," said the girl with the stylus. Not an accusation. A column that had added up.
+The boy in the hat finished the second tray, said "Midnight," to Kade, tapped his band twice, and took both trays to the return.
 
-"I wanted to know."
+Kade took his own. The return was a slot in the wall with a reader over it, and the trays slid in and were gone, white lanyard and blue, a jacket that fit as if it had been sewn on and a sleeve that had been repaired twice, all into the same slot at the same speed. He held his card under the reader before he let the tray go. PROVISIONAL SERVICES — NO CHARGE. Under it, smaller: *evaluation meals, lodging, and medical intake are covered whether or not the student enrolls.*
 
-The boy in the hat considered that. "Same thing tomorrow. Different thing tonight."
+He did not entirely believe a wall. But the slot did not know whose tray it was eating, and he had a week of dinners to check the sentence against.
 
-Kade took a bite of the sandwich so he would not have to answer. The bread was warm. The cheese was real. The academy had put him on a testing line by himself and announced it to a dining hall, and it had also, without meaning to, sat him at a table with four strangers who would not help turn him into a demonstration. He had no category for a place that did both. Not yet.
+"You read the small print on a dish return," Imani said, beside him, with her own tray.
 
-They stayed through dessert. The girl in the creased jacket drew her route to the null-lift lab on the back of the paper map, rejected it for its three moving walkways, and drew another up two flights of stairs. Imani took Kade's protein bar off his tray without asking, and he let her, and it occurred to him that provisional did not mean unwanted. It meant unresolved. And unresolved was not a thing you had to carry alone in a hoodie with a staple in the cuff. It could be a table full of people arguing about stairs.
+"Somebody has to."
 
-At nineteen forty-five the others left to find clinics and arenas and one walkway that was going to be avoided on principle, and Kade took his water to the window end of the table and watched the room. Students eating, arguing, studying, flirting, stealing off each other's trays. A boy at the next table knocked a full cup off the edge with his elbow, and the cup stopped a finger above the floor, and rose, and settled back by his hand, and he did not pause in what he was saying.
+"I know. I watched you decide it was you." She slid her tray into the wall. "Six fifteen. Try to look like you slept."
 
-Kade laughed into his water.
+---
 
-At five past eight he called his mother. She picked up on the second ring. "Well?"
+He did not go back the way the map wanted. He went out the side door and around to the exterior stair, to see it in the dark once before he needed it in the dark.
 
-He had built several answers on the flight. Ridiculous. Pretentious. Probably a cult.
+The service walk at the bottom ran along the back of Meridian Dining past bins and a strip of grating, and through the grating, lit white, the ring went by underneath, four students on a platform sitting on their bags.
 
-"It's a school," he said.
+He stood on the grating, outside the wall of a place, with a band that would not open the gate beside him. And the place had made him prove, before it let him into his room, that he knew two more ways out of it than he had asked for. Northline had one fire exit onto a padlocked yard, and everybody knew where the key was except the people who would need it. This place had counted its doors, and made him count them too, and had not once asked him to promise to stay.
 
-"You say that like a complaint."
+He put that with his mother's stopped hand, in the place for later.
 
-"The fruit isn't waxed. Somebody caught a cup without looking at it. I nearly walked into a bench."
+*Six. That's you standing still somewhere thinking. Thirty-four left. Going to sleep. Eat something.*
 
-"That part I believe."
+---
 
-He leaned back and told her. Rian and the pool. The island from above. Two people rising off a terrace. A girl with a heart that had aftermarket parts. A man who could wait like a wall. He did not tell her about the five seconds in the lobby, or the base of his skull during the turn. He would have to. Not tonight.
+He called her at eight from the top of the stair, with the courtyard bell below him and the ladder scrolling across the way.
 
-"You're talking fast," Elena said.
+She picked up on the first ring, which meant she had been carrying the phone in her scrub pocket against policy.
 
-He stopped. "I'm tired."
+"Are you hurt."
 
-"You talk fast when you're tired and something's got hold of you. Has something got hold of you?"
+"No. I'm on an island. It has fruit."
 
-Out past the glass a student launched off a lower terrace and crossed the gap between two buildings in one long impossible step and was gone.
+He heard her breathe out. Then the phone went against her shoulder, something about a bed in four, and came back. "I've got two minutes. Talk fast."
 
-"Maybe," he said.
+So he talked fast. The seawall. The girl walking down the tower. A girl with a bent fork and a device in her chest, who had told an enrolled student *not through this table* in a voice that did not move. A slate that would not let him into his room until he could show it three ways to a shelter, under a school with flood doors.
 
-The word surprised both of them. She did not spoil it by saying so.
+"Flood doors," she said.
 
-"Call tomorrow. After testing."
+"On a school."
 
-"I will."
+"I like them better already."
 
-"And Kade. Nobody's asking you to know tonight."
+"Don't."
 
-His eyes went to the board across the courtyard. Ten thousand four hundred eighty-two first-years. Every one of them had gotten here by some road. His was only stranger than most.
+"I'm allowed to like a building that plans for the worst. I work in one." The intercom went behind her. "What else."
 
-"Good," he said. "Because I've got no data."
+He did not give her the five seconds in the lobby. Those were his. And he did not give her the pressure at the base of his skull, the one breath of it in the air, gone before he could decide what it was. She had a bed in four, and it had not come back, and at this distance all she could do with it was worry with no way to put a light in his eyes. Tomorrow night there would be a baseline to set beside it, and he would give it to her then, as a fact with a doctor's word next to it. He told himself that was the safe order and not the easy one, and was not sure, and let it stand.
+
+"I unpacked," he said instead.
+
+Silence on the line, of a particular kind. "Into what?"
+
+"A drawer. Two fingers of drawer."
+
+"And the bag?"
+
+"On a shelf. Folded. Where I can see it."
+
+"Good," she said, and did not say anything else about it. "Tomorrow night. Twenty hundred, I'm off. You call at twenty hundred. Exactly. I'll be sitting by it."
 
 "Exactly."
 
-They hung up. He stood at the window ten more minutes with the empty bottle in his hand.
+"Kade." The joking part had used its time. "You sound like somebody who's been counting doors."
 
-He had told the map he could leave, and the map had agreed, and he had marked the route. Upstairs in a drawer was a note that said the same thing in his mother's handwriting. On a bed was a duffel with nothing in it. All the exits were where he had left them.
+"That's a description, not a diagnosis."
 
-He had not told her the second thing. Not because it was a secret. Because saying it aloud would have made it something he could be held to, and he had wanted exactly nothing in front of witnesses for as long as he could remember.
+"It's the best one I've had all night."
 
-He wanted to stay. Not for good. Not even for certain. Long enough to find out what this place was going to ask him next, and whether he had an answer.
+The line went.
+
+---
+
+The room was dark when he got back to it, and the glass wall was full of the island lit at night. The Spire was a column of dim gold with the lattice black across it, and far down the southern arm one of the arenas had its roof open, light coming out of it like a lid off a pot.
+
+He set an alarm for five forty. He took the top training set off the stack on the bed, peeled the packaging off, and hung it on the back of the chair by the door, gray with a blue seam, the first thing with the academy's crest on it that he had touched meaning to put it on. Then he took the eleven-dollar shirt out of the drawer, tag and all, and hung it on the same chair, over the same rail, so that the two collars lay against each other. On the shelf above them the duffel sat folded in thirds with the handler's tag still through the handle.
+
+The academy on one side. The discount store beside the empty pet shop on the other, with his mother's stitching, and a bag that closed on the strength of eleven tries with a pair of pliers.
+
+Both true. He could carry both true as far as six fifteen. He had carried worse pairs than that for years without a chair to hang them on.
+
+After six fifteen there was a sealed room under the ground with instruments in it, and people behind glass who were going to find out what he was. And for once in his life, when somebody told Kade Mercer what he was, he intended to be standing in the room when they said it.

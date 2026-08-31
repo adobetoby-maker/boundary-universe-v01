@@ -1,0 +1,69 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch03-author-recovery-c2-1788162044",
+  "scene_id": "book1-ch03",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-03-asterion.md",
+  "word_count": 7544,
+  "obligations": [
+    {
+      "obligation": "Arrival by sea/air. Sensory immersion in campus, rankings, spectacle and class disparity. Kade's belongings feel painfully small next to elite peers.",
+      "status": "MET",
+      "evidence": "Null-lift departure and flight (draft 77-143); low sea approach over the seawall and island reveal with Spire, arenas, and a student walking down a tower face (145-161); plaza with alien trees, wheelless cart, standing water column, ASTERION COMBAT LADDER, 1 — CROSS, JULIAN — YEAR 1, INCOMING FIRST-YEAR COHORT — 10,482 (197-237); class disparity staged as the luggage rail: duffel weighed at 8.1 kg between a brass-cornered trunk and a garment bag, handler asks 'Is there a second piece?', Kade's five seconds of shame (285-297); issued kit stacked on the bed while his own bag is dropped through a hatch onto the floor (301-307)."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Every sequence F003 named was restaged: Darius video call → forty paced text insults; Rian's assessing look and 'You're Zero' → Rian refusing to look, no nickname spoken; paper-cup demo → hood-drawstring plumb line and a call-panel report; cloud-break reveal → seawall approach; hovering ring → six students holding a water column; orientation-map exercise → Meridian gate lockout, exterior stair, and Cole walking one pace behind in silence, then the transit-desk exchange; lobby parents → luggage rail and scale; unpacking → not unpacking; scanner comedy → card read privately; spoon demo → field-through-table offer refused after Imani's stake; Elena call reconceived from her shift with a two-minute window. RESIDUAL RISK the editor should weigh against the F003 threshold: dinner tail 433-463 keeps the source's beat order and jokes (source 1475-1523: 'They stayed through dessert', route rejected over moving walkways, protein-bar handoff, others leaving to find clinics and one thing to avoid, water carried to the end of the table, thrown object returning while nobody looks, 'laughed into his water', fruit line, ladder visible across the courtyard, 10,482 callback); plus retained markers 'five seconds' (297, 453 vs 1571), 'proved nothing / could check' (435 vs 1203-1205), the cart-on-the-syllabus joke (209 vs 769), hand flattening on the window (155 vs 533), 'It's just a school' (463 vs 1499-1501)."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MISSED",
+      "evidence": "Preserved: null-lift transport with four lift rings; Rian Okafor; Enrollment Officer Cole; PROVISIONAL FIRST-YEAR slate; 0615 medical intake / 0700 baseline / 1800 dinner; Combat Ladder with Julian Cross #1 Year 1; 10,482 cohort; Introductory coupled control; House Meridian assigned-residents-only; Central Bridge; exterior stair beside Meridian Dining; Arrival Residence C eighth floor, two beds, one empty; blue PROVISIONAL lanyard; meal card with no family liability whether or not he enrolls; Imani Bell, heart surgery at fourteen, Clinic Two, bent fork, 'I would still hate it'; provisional groups 0640 academic control and 0710 south arena four; MERCER, KADE — CONTROLLED BASELINE — SUBLEVEL ACCESS; refusal of a public demonstration before baseline; Elena's note verbatim and the unpacked photograph; pressure at the base of the skull during the bank; betting on him; departure route confirmed available without opposition (Cole, 265-281); ladger end-delta (stays for evidence without surrendering exit, 479-487). Narrowly missed: (1) draft has Kade NOT unpack (305-307, 481) while frozen ch5:527 recalls 'Unpacking took longer than it had in temporary housing' and source ch3:1065-1067 has him unpack in four minutes; (2) source ch3's emergency-orientation geography (west academic bridge 869, north shelter 841, lower transit ring 849, flood doors 841) is not planted; frozen ch30:67 relies on Kade having 'seen the same map during orientation'; (3) the in-flight pressure is now reported to crew, logged, and told to Elena (113-123, 453-455) where the source withheld it from Elena (1573-1575); (4) Nora, Tomas, and Yuki are present but unnamed (343); (5) Ms. Alvarez's 'Try' cameo (source 67-91) and the Zero-nickname origin (source 285-297) are dropped. Ranks and arithmetic are unchanged; no later reveal is spent."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Rule-bound wonder with mechanism: dust scrubbed in circles under the rings (9), the drawstring that will not swing and Rian's 'the cabin gets told where down is' (91-101), the water column that sags when one holder loses it (201). Receipts: page eleven's sentence tested and honored (27, 301), consent read side by side and signed for baseline only (183-191), 8.1 kg, 10,482, the meal card checked against who carries which tray (435). Grounded cost: the five seconds in the lobby, the note's second line, refusing the answer he most wants (381-399). Close-third discipline holds throughout; no villain or omniscient viewpoint. Caveat: at 7,544 words the chapter runs long for 'propulsive', and paragraphs such as 9, 189, and 297 are dense for audio."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "Case-insensitive regex sweep for profanity across the draft returned no matches; no sexual content; no gore (the only injury language is figurative, 'die trying', 89). Audio: every speaker is tagged or carries a stable handle ('the boy in the hat', 'the girl with the stylus', 'the enrolled boy'); Darius's texts are numbered so a listener can track them as messages; times are written in spoken form ('zero six fifteen'). Possible snag for the narrator: the italic text messages and italic thoughts share formatting (e.g., 83 vs 87), which a reader will distinguish visually but a listener must infer from the numbering."
+    }
+  ],
+  "inventions": [
+    "Darius's forty paced text insults as the chapter's running device (extends ch2 rewrite line 121 'I've got like forty'); ten arrive on-page.",
+    "Airfield texture: crop sprayers, a sheriff's helicopter, dust scrubbed into clean circles under the four lift rings.",
+    "Hood-drawstring plumb line during the bank; Rian's explanation 'the cabin gets told where down is'; a white call-panel button with a hand icon; the crew's 'Symptoms go to the call panel' line and a logged report from seat nine.",
+    "Low approach over a twenty-meter seawall; a student walking down a tower face with hands in pockets.",
+    "Plaza texture: gray-barked trees with white leaf undersides, silent water channels, a wheelless groundskeeper's cart, a standing three-meter water column held by six students with a chalk DO NOT CROSS line.",
+    "Cole walking one pace behind in silence; the Meridian gate reader's apologetic tone; a kitchen worker on the exterior stair landing; Cole's transit-desk procedure speech ('the one line on tomorrow's schedule that belongs to you').",
+    "Elena's chart page (four conditions, three signatures) attached to the baseline consent nine minutes after transport cleared, and the consent's line 'further evaluation stages require separate consent'; Kade signs for baseline only.",
+    "Arrival C luggage rail with a cello, a brass-cornered trunk with an attendant, and a counter scale reading eight point one kilograms; a wall hatch that delivers the duffel to the room; the issued kit stack (two formal, three training, shoes, weather shell, field underlayer).",
+    "Imani's 'clerical error at three to one' site odds and her 'white is enrolled, blue is we'll see' explanation; a fasting boy in a knitted hat 'banking' two trays before a 0615 blood draw; a stylus girl who converted her seven-band regional scores in the lift (fact drawn from source Nora).",
+    "An enrolled boy's offer to run a low field through the table and a companion's wrist display 'recording'; the hat boy's 'Bench is full' tray move; Kade's 'I signed for a room with a door.'",
+    "Elena taking the call on shift at St. Vincent with a two-minute window and setting a fixed 2000 call for tomorrow.",
+    "Night close: training set hung on the chair, duffel zipped beside it with the tagged eleven-dollar shirt inside; alarm at five forty."
+  ],
+  "state_change_proposals": [
+    "STATE_LEDGER ch3: Kade reported the in-flight skull pressure to transport crew (seat nine, onset on bank, resolved on level, logged) and told Elena the same night; the source had him tell only Rian and withhold it from Elena. Ch4 intake may now reasonably reference a transport log.",
+    "STATE_LEDGER ch3: Kade did not unpack in Arrival C; the duffel stays zipped beside the chair with the tagged shirt inside, and the academy-issued kit is on the bed. Either ch4 shows him unpacking or the ch5 rewrite must not recall 'unpacking took longer than it had in temporary housing' (frozen ch5:527).",
+    "CLUE_LEDGER / ch30 dependency: emergency-route geography (west academic bridge, north shelter, lower transit ring, flood doors) is no longer planted in ch3; only Central Bridge, the Meridian gate lockout, and the exterior stair by Meridian Dining are. Recommend planting the rest in ch4 or ch5 so frozen ch30:67 ('seen the same map during orientation, drills, and the night he had nearly left') still holds.",
+    "STATE_LEDGER ch3: Elena's consent conditions are attached to the baseline consent; Kade signed the baseline only, and the consent states further stages need separate consent.",
+    "STATE_LEDGER ch3: duffel weighed 8.1 kg at arrival; frozen ch20:767 weighs it at 8.3 kg 'plus two school shirts and a charging cable' — reconcile (draft already packs the charger).",
+    "NAME_REGISTRY: the provisional table-mates other than Imani are unnamed in the rewrite; Nora, Tomas, and Yuki (source-only, not in registry) can be retired unless a later chapter needs them.",
+    "STATE_LEDGER ch3: Elena works the night shift on arrival day; next call fixed for 2000 the following evening.",
+    "Ch5 seam: frozen ch5:15-17 recalls Cole giving Kade one fact about the Meridian bell; the draft shows the bell (259) but Cole says nothing — the ch5 rewrite must supply or drop that recollection."
+  ],
+  "deviations": [
+    "Length: 7,544 words against target 5,700 with 12% tolerance (5,016–6,384); the draft is 1,160 words over the ceiling and 32% over target. A cut pass is needed before close.",
+    "Fresh-reauthoring residue: dinner tail lines 433-463 still follows the source's beat order and jokes (source 1475-1523), and distinctive markers survive ('five seconds', 'proved nothing / could check', cart-on-syllabus joke, hand flat on window, 'It's just a school'). May not clear the F003 threshold.",
+    "Internal timeline: line 463 'I've been here five hours' at 20:00 implies a 15:00 arrival, but the ch2 rewrite fixes departure at 15:30 (ch2:487) and the draft's airfield scene begins at 15:03; even with a one-hour time-zone gain the figure should be about four.",
+    "Evaluation length: draft implies a week ('a week of dinners', 435; Elena's 'It's seven', 49) where the source states three days (source 627) and frozen ch5:809 has him 'at Asterion three days' at House assignment.",
+    "Dropped source beats: Ms. Alvarez's 'Try' cameo; Rian naming him 'Zero' and the nickname's origin; the Zero nickname appears only as Kade's anticipation (135). Whether the nickname was established in the ch2 rewrite was not verified from the seam section read (ch2:380-508).",
+    "Elena's 'four conditions, three signatures' chart page (39, 183) is treated as established; it was not confirmed in the ch2 rewrite section read and should be checked at the seam.",
+    "METHOD NOTE: no shell was available, so the count was made by enumerating \\S+ tokens with ripgrep and probing offsets (token 7543 = 'it.', 7544 = none). This equals wc -w unless the file contains Unicode whitespace, of which there is no sign."
+  ],
+  "blockers": []
+}

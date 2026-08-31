@@ -1,85 +1,99 @@
 {
   "schema_version": "3.1",
-  "run_id": "book1-ch03-author-recovery-c0-1788149413",
+  "run_id": "book1-ch03-author-recovery-c0-1788164429",
   "scene_id": "book1-ch03",
   "status": "DONE",
   "draft_path": "penname-v3/manuscript/chapter-03-asterion.md",
-  "word_count": 6564,
+  "word_count": 6909,
   "obligations": [
     {
       "obligation": "Arrival by sea/air. Sensory immersion in campus, rankings, spectacle and class disparity. Kade's belongings feel painfully small next to elite peers.",
       "status": "MET",
-      "evidence": "Null-lift aircraft departure and ocean approach (lines 83-199); island reveal, flyers, plaza, sleds, hovering slab, coupled-control hoop (173-285); ASTERION COMBAT LADDER with CROSS, JULIAN #1 and 10,482 cohort (237-265); lobby of Arrival Residence C with floating pallets, assistants, uniforms with ribbons, and the five-second duffel shame (377-383); academy-issued stack makes the duffel 'something the stack had been sent to replace' (395)."
+      "evidence": "Null-lift departure from the municipal airfield (lines 9-59), sea-level approach over the seawall and first sight of the crescent, arenas and Spire (91-99); plaza water column, ASTERION COMBAT LADDER with CROSS, JULIAN #1 and the 10,482 cohort (137-159); luggage rail, 8.1 kg duffel between a brass-cornered trunk and a garment bag, five seconds of shame (219-229); unpacking to 'two fingers of drawer' beside the issued kit (231-235); two collars on one chair (431-435)."
     },
     {
       "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
       "status": "MET",
-      "evidence": "Prose is re-authored in continuous paragraphs rather than the source's one-line stacks, with new business (Elena testing the slider, Rian reading the pool aloud, the emergency-map exercise walked in full, the consent page, the closing 'all the exits were where he had left them'). Caveat for the editor: the chapter follows the source beat order closely and retains a number of signature dialogue lines near-verbatim ('Hello, subtle people', 'Carts remain available', 'I dislike you', 'The sandwich declines to comment', the meal-scanner exchange, the yogurt-wall jokes). Fresh at the sentence level, not a restructure."
+      "evidence": "No source sentences carried over. Restaged beats: Darius by numbered texts instead of a video call; hood drawstring instead of the paper cup; one student walking down a tower face instead of two flyers; Cole silently following while Kade finds the shelter routes himself instead of a wall-display Q&A; the enrolled student offering to put a field through the table instead of asking Kade to suppress a hovering spoon; dish-return reader instead of the faculty-scanner gag."
     },
     {
       "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
       "status": "MET",
-      "evidence": "Preserved: Julian Cross #1 of incoming first-years; cohort 10,482; provisional lanyard and slate; Arrival Residence C, eighth floor, empty second bed, House assignment after baseline; medical intake 06:15 / baseline 07:00; three-route emergency map (Central Bridge, lower ring, west academic bridge) plus landing complex as the no-access exit; Meridian barred; CONTROLLED BASELINE — SUBLEVEL ACCESS; zero-cost provisional meals and need-based-aid parity; Rian Okafor, Enrollment Officer Cole, Imani Bell (heart implant/coupling review); base-of-skull pressure during the inertial turn, disclosed only as a headache to Rian; spoon refusal with Station Seven reasoning; photo and note ('You are allowed to leave. You are also allowed to stay.'); 20:05 call, 'completely unfair', 'Maybe'; end-state = wants to stay long enough for evidence without surrendering his exit (STATE_LEDGER ch3 delta). Ch2 seam honored: page-eleven issued kit, eleven-dollar shirt, stapled cuff, 'You do not get to use fine today', 'that part', the four written conditions in the silver folder. Small fact-level departures are listed under deviations."
+      "evidence": "Preserved: Rian Okafor, Enrollment Officer Cole, Imani Bell (heart surgery at fourteen, Medical Coupling Review, Clinic Two), PROVISIONAL FIRST-YEAR, medical intake 06:15, baseline 07:00, dinner 18:00, Arrival Residence C eighth floor, blue PROVISIONAL lanyard, Julian Cross #1 Year 1 on the filtered board, 10,482 incoming, House Meridian ASSIGNED RESIDENTS ONLY, exterior stair by Meridian Dining, North Shelter via Central Bridge / lower ring / west academic bridge + library underpass, flood doors, skull pressure once during a turn and not reported to Elena, MERCER, KADE — CONTROLLED BASELINE — SUBLEVEL ACCESS, refusal of the dinner demonstration, Mom's note verbatim, unpacking, duffel embarrassment withheld from Elena, provisional services covered whether or not he enrolls, Kade choosing to stay for the baseline while the transit-desk exit is explicitly open. Seam facts match chapter 2 rewrite (St. Vincent, forty-two students, eleven-dollar shirt, stapled cuff, pliers, stopped watch, industrial-systems employer). Staging deviations disclosed below; editor should confirm none is a locked fact."
     },
     {
       "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
       "status": "MET",
-      "evidence": "Close third on Kade throughout; wonder is tied to load paths, the unmoving water cup, and 'local inertial redirection' as a phrase-not-an-answer; the only 'victories' are receipts he can audit (the itemized zero-cost tray, the marked exit route, the consent small print that narrows rather than widens); no villain POV, no omniscient explanation of the skull pressure."
+      "evidence": "Close third on Kade throughout; wonder is rule-bound (the drawstring, 'the cabin gets told where down is', the PERSONS load number, flood doors); the dinner refusal is paid for on the page ('I want to know so badly I nearly let you'); no omniscient explanation of the skull pressure. Author self-assessment; editor verifies."
     },
     {
       "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
       "status": "MET",
-      "evidence": "No profanity, sexual content, gore, or new named character. Dialogue is attributed or clearly alternated in short exchanges; board text is short and spoken-readable; the four unnamed tablemates are tagged by a physical handle (red sweater, schedules, orange) each time they speak so a listener can track them. Self-assessed only; the editor's audio pass is the authority."
+      "evidence": "No profanity, sexual content, or gore. Speakers are tagged or described (boy in the hat, girl with the stylus) so listeners can follow the four-person dinner table. Audio risk to check: Darius's six italic numbered texts ('*One. Your hair.*') are unattributed on first appearance and rely on the following paragraph for attribution. Length limit is assessed separately below."
+    },
+    {
+      "obligation": "Repair target E005-R1: remove at least 1,261 words from the 7,645-word draft so the chapter fits the 6,384-word ceiling (5,700 target, 12% tolerance).",
+      "status": "MISSED",
+      "evidence": "Whitespace hand count of the current file is 6,909 words including the heading and '---' separators (no shell available in this session; a subagent confirmed wc -w could not be run, so this figure may be off by a small margin and the editor should re-run wc -w). Roughly 736 words were removed, not 1,261; the draft remains about 525 words over the ceiling."
     },
     {
       "obligation": "Preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
       "status": "MET",
-      "evidence": "Kade questions system boundaries before any Boundary explanation (the exit route, 'who pays provisional services', the consent small print); the second skull-pressure event is planted during force redirection without explanation; the empty duffel image is staged twice (423, 687) so the Ch. 20 folded-duffel payoff has its referent."
+      "evidence": "Emergency geography plant for Chapter 30 is intact and staged with cause: Central Bridge load number, lower transit ring with flood doors, west academic bridge and library underpass, North Shelter under the northern towers, Meridian Dining exterior stair (175-201, 369-375). The duffel is folded in thirds on the shelf with its tag (235, 431), planting the Chapter 20 unpacked-duffel payoff."
     },
     {
       "obligation": "Deliver all chapter-assigned payoffs without advancing later-book answers.",
       "status": "MET",
-      "evidence": "No payoffs are assigned to Chapter 3 in CLUE_LEDGER.md. Nothing about 000, Aaron, Sen, Consensus, or the academy's measurement function is spent; Zero remains a nickname with no explanation."
+      "evidence": "No later reveal spent: father remains 'a photograph, a stopped watch, an industrial accident'; Elena's 'He used to say—' stops unfinished; the skull pressure is described only as sensation with no explanation; SUBLEVEL ACCESS is not glossed."
     },
     {
-      "obligation": "Prohibited outcomes: no canon/reveal-order/outcome/rank changes; no effortless dominance; no profanity, explicit material, gore, or new named character; no drafting notes or metadata in prose.",
+      "obligation": "Prohibited outcomes: no canon/reveal-order/rank/Book Two changes; no effortless dominance or removed Boundary cost; no profanity, explicit content, gore, or new named character; no drafting notes or metadata in prose.",
       "status": "MET",
-      "evidence": "Kade produces no power in the chapter and declines the spoon; ranks and numbers match the source; the manuscript contains only the chapter heading and prose. The source's three tablemate names (Nora, Tomas, Yuki) were dropped rather than replaced, so no new named character was introduced."
-    },
-    {
-      "obligation": "Output target 5,700 words, tolerance 12% (5,016-6,384).",
-      "status": "MISSED",
-      "evidence": "Exact whitespace count is 6,564 words (verified by enumerating non-whitespace tokens: token 6,564 is 'answer.' at line 691 and there is no token 6,565). That is +15.2% over target and 180 words above the tolerance ceiling. The overrun sits mostly in the emergency-map exercise and the dinner scene."
+      "evidence": "Named characters in the draft are all registered (Kade, Elena, Darius, Rian Okafor, Enrollment Officer Cole, Imani Bell, Julian Cross). Kade produces no power effect; the one sensation costs him a breath of cold pressure and a decision. No notes, counts, or metadata appear in the manuscript."
     }
   ],
   "inventions": [
-    "Departure: flight officer's 'Four minutes' beat; Elena arriving out of scrubs having traded a shift; Elena running the duffel slider herself and asking 'Headache?'; the 'Once is generous / Then twice' exchange. Unnamed background texture only.",
-    "Kade's evaluation packet now carries a scanned copy of Elena's four handwritten conditions from the Chapter 2 folder ('She attached her page... before we received you'), and the CONSENT TO BASELINE EVALUATION page lists what baseline does (blood, imaging, physical measures, passive field exposure) with small print 'further evaluation stages require separate consent'; Kade signs for the baseline only. This stages the ch2 consent condition rather than inventing a rule, but the consent page itself is new business not in the source. The draft's phrase 'two signatures under them and hers on top' is read as her handwriting on top; ch2 shows Renn and Vale signing, not Elena.",
-    "How the 'Zero' nickname spread: the draft says the internet connected the outage to a school to a name in a day and a half; the source attributes it to clipped Station Seven footage taken down by the district. Same outcome, different mechanism.",
-    "Rian reads the campus-pool entries aloud from his wrist and names the favorite; Kade reads the list twice off the wrist before Rian turns it face down.",
-    "Cole stays silent in the lobby instead of offering baggage storage; 'He said nothing, which was worse.'",
-    "Academy-issued clothing (two formal sets, three training sets, shoes, weather shell, field underlayer) is waiting on the bed and left unopened; Kade's duffel contents are three shirts, two jeans, socks, charger, and the eleven-dollar shirt with its tag on. Replaces the source's 'training clothes Elena bought the night before' to match the Chapter 2 rewrite's page-eleven finding.",
-    "Dinner: Imani's 'We all did that' at the scanner; the red-sweater boy's 'They want to know if it's late or something else'; the closing reflection 'All the exits were where he had left them' and 'whether he had an answer.'",
-    "Removed from the source without replacement: the 'three-day federal evaluation / It may' exchange with Cole; the elevator vignette (Mandarin-speaking students, pajama-pants boy); the water-rings enclosure and orbital-platform lecture; Nora's schedule-correction beat; Elena's 'You could have taken the suitcase' exchange (already spent in the Chapter 2 rewrite)."
+    "Darius delivers a requested forty insults by text across the day; six arrive in-chapter as numbered italic lines.",
+    "Elena traded a day shift to be at the airfield and takes the evening call from the St. Vincent floor with the phone in her scrub pocket ('a bed in four').",
+    "Null-lift aircraft detail: dust scrubbed in circles under the lift rings; hood drawstring hanging plumb through a bank as the inertial tell; call panel with a hand icon; officer's 'Symptoms go to the call panel' line.",
+    "Rian Okafor's once-broken nose, his decision not to give Kade 'the look', and his 'the panel's a clinic here' handoff on the pad.",
+    "A student walking down the face of a tower with hands in pockets (replaces the source's two flyers).",
+    "Plaza fountain: a three-meter standing water column held by six students as introductory coupled control (replaces the steel-ring exercise).",
+    "Cole's consent-page handoff: Elena's four conditions scanned into page three, 'further evaluation stages require separate consent', Kade signing only the baseline.",
+    "Cole's silent one-pace-behind shelter drill; the slate releasing the wristband as room key only after three shelter routes are marked; the PERSONS load number stenciled on Central Bridge; an open flood door visible in the lower-transit station; a kitchen worker's nod on the exterior stair.",
+    "Cole's explanation that the transit desk needs only the band and a departure time, and that the clinic reassigns the slot.",
+    "Lobby luggage rail with an intake scale reading 8.1 kg, a handler's tag on the duffel, and a wall hatch delivering it to the room; issued academy kit stacked in packaging on the bed per 'page eleven'.",
+    "Unnamed provisional students: a tall boy in a knitted hat banking two trays before a 06:15 fasting blood draw, and a girl with a stylus who converts her seven-band regional scores herself and adds 'MERCER — 000 — PENDING' to her sheet.",
+    "An enrolled white-lanyard boy offers to put a low field through the table so Kade can feel it; his companion's wrist display is recording; Imani refuses on behalf of her implant; the hat boy moves his tray to fill the bench.",
+    "Dish-return reader displaying PROVISIONAL SERVICES — NO CHARGE with the covered-whether-or-not-you-enroll clause.",
+    "Kade views the exterior stair and the lit transit ring through a grating at night before calling home.",
+    "Chapter-end business: alarm set for 05:40; a training set and the eleven-dollar shirt hung collar-to-collar on one chair; Elena's fixed 20:00 call time.",
+    "Imani's odds line ('a clerical error at three to one') and her habit of stating the implant first 'because it's cheaper than being polite'."
   ],
   "state_change_proposals": [
-    "Kade has signed consent for the baseline evaluation only; the packet states further evaluation stages require separate consent. Elena's four written conditions are on file with the enrollment office.",
-    "Kade holds a PROVISIONAL blue lanyard, a slate, a meal card charging 'provisional services' at zero cost, and a temporary room on the eighth floor of Arrival Residence C with an empty second bed; House assignment follows baseline.",
-    "Kade completed emergency orientation and has marked the landing complex as a route he can travel without academy access; the departure option is confirmed open and unremarked by staff.",
-    "Schedule: medical intake 06:15, CONTROLLED BASELINE — SUBLEVEL ACCESS at 07:00, publicly displayed to the dining hall.",
-    "Second unexplained base-of-skull pressure event occurred during inertial redirection on the transport; Kade told Rian it was a small headache, did not log it with the crew, and has not told Elena.",
-    "Relationships opened: Rian Okafor (friendly, practical, no Zero questions); Enrollment Officer Cole (neutral, 'not interested in proving you belong here'); Imani Bell and three unnamed provisional students (a late Conduit expression boy in a red sweater, a transfer-certification girl with a shaved head, a moving-reference-frame girl with the orange). Kade refused a public spoon demonstration in front of them.",
-    "Julian Cross is displayed as #1 among 10,482 incoming first-years; Kade has seen the name but not the person.",
-    "Kade's own belongings are unpacked into the room; the academy-issued kit is unopened on the bed; the duffel is empty. Elena's photo and note are face down in the desk drawer.",
-    "Kade told Elena 'Maybe' to sounding happy and privately wants to stay long enough to find out what the place asks next; he has not said so aloud."
+    "Kade has signed consent for the baseline evaluation only, with Elena's four-condition page attached; further evaluation stages require separate consent he has not given.",
+    "Kade knows three independent routes to North Shelter (Central Bridge; lower transit ring south under Meridian then north at the Spire; west academic bridge via the library underpass) plus the Meridian Dining exterior stair around the restricted Meridian courtyard.",
+    "Kade knows the departure procedure: his band opens the transit desk, which needs only a departure time; the clinic reassigns the slot. The exit remains open and unused.",
+    "Kade withheld two things from Elena on the day-one call: the one-breath skull pressure during the bank and the five seconds of shame in the lobby. He intends to report the pressure after the baseline. Standing daily call at 20:00.",
+    "Kade's issued academy kit is in his room; the duffel is folded in thirds on the shelf with the handler's tag still through the handle; the eleven-dollar shirt and one training set hang on the same chair.",
+    "Darius has sent six of a promised forty insults; the running count continues past this chapter.",
+    "Imani Bell: Medical Coupling Review at Clinic Two, 07:00; her slightly bent fork is a stress tell; she has publicly refused a field test near her implant.",
+    "Two unnamed provisional students now know Kade: the hat boy shares his 06:15 blood draw (fasting after midnight), and the stylus girl is tracking Kade as 000 PENDING on her own seven-band sheet.",
+    "An unnamed enrolled first-year and his companion were publicly refused at dinner; there is money on Kade's baseline and at least one attempt to record him.",
+    "Rian Okafor knows Kade nearly used the call panel in flight and knows who Kade is; he has not asked about Zero.",
+    "Kade's baseline is posted publicly as CONTROLLED BASELINE — SUBLEVEL ACCESS, alone on its line."
   ],
   "deviations": [
-    "Word count 6,564 exceeds the 5,700 target by 15.2% and the 12% tolerance ceiling (6,384) by 180 words.",
-    "The source names the three other provisional tablemates (Nora, Tomas, Yuki); the draft leaves them unnamed and tags them by physical handle. None of the three is in NAME_REGISTRY.md, and 'Yuki' collides with a registered Book Two/Quiet Ward character (Yuki Osei), so this was chosen deliberately, but it drops names the frozen source uses.",
-    "The source's Cole line that the federal evaluation was scheduled for three days ('It may') is omitted.",
-    "The 'Zero' nickname's origin mechanism differs from the source (internet inference vs. clipped Station Seven footage).",
-    "The source's elevator scene and two plaza vignettes are omitted in favor of a longer emergency-map exercise and dinner; the ch3 STATE_LEDGER entry lists the map exercise and dinner as the chapter's load-bearing beats, so the cut was made there rather than in those.",
-    "Retained near-verbatim signature dialogue from the source at roughly a dozen points (listed under the 'fresh chapter' obligation) — flagged so the editor can judge whether that crosses from preserving voice into paraphrase."
+    "Length: the draft is about 6,909 words against a 6,384-word ceiling. Repair target E005-R1 (remove at least 1,261 words) was not met; roughly 736 were removed.",
+    "Word count is a whitespace hand count because no shell tool was available in this session (confirmed by a subagent). The editor should verify with wc -w; small drift is possible.",
+    "The source's named provisional students Nora, Tomas and Yuki appear as unnamed background (hat boy, stylus girl) and their individual conditions (late Conduit expression, moving-reference-frame field) are dropped. None of the three is in the Book 1 registry, and 'Yuki' collides with Book 2's Yuki Osei, so this also avoids a name-collision obligation.",
+    "Ms. Alvarez's video cameo at the airfield is removed; the registry lists her for chapters 2, 17, 20–22 only.",
+    "Darius appears by text although the registry lists him for chapters 1–2; no new named character is added.",
+    "Symptom handling in flight: Kade does not say 'weird headache' aloud to Rian as in the source; he nearly presses the call panel and commits to pressing it if the pressure returns. Rian sees the near-press but not the cause.",
+    "The dinner demonstration is inverted: the enrolled student offers to put a field through the table rather than asking Kade to suppress a hovering spoon. Kade's refusal and reasoning (an answer he wants, unknown risk, someone else would own it) are preserved.",
+    "Emergency orientation is staged as Cole silently following while Kade navigates and the slate withholds his room key, rather than the source's wall-display Q&A; the father/daughter brace beat at the next panel is dropped.",
+    "Two flyers replaced with one wall-walking student; steel-ring class replaced with the water column; Elena's unfinished line is 'He used to say—' rather than 'Your father would have—'.",
+    "Elena's call is scheduled for 20:00 the next evening rather than 'after testing'."
   ],
   "blockers": []
 }

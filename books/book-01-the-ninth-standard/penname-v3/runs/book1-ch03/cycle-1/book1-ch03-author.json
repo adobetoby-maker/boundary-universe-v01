@@ -1,51 +1,87 @@
 {
   "schema_version": "3.1",
-  "run_id": "book1-ch03-author-interrupted-c1-1788150384",
+  "run_id": "book1-ch03-author-recovery-c1-1788165899",
   "scene_id": "book1-ch03",
   "status": "DONE",
   "draft_path": "penname-v3/manuscript/chapter-03-asterion.md",
-  "word_count": 6287,
+  "word_count": 6242,
   "obligations": [
     {
       "obligation": "Arrival by sea/air. Sensory immersion in campus, rankings, spectacle and class disparity. Kade's belongings feel painfully small next to elite peers.",
-      "status": "NOT_APPLICABLE",
-      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+      "status": "MET",
+      "evidence": "Null-lift aircraft departure and low approach over the Pacific seawall (lines 55-91); island crescent, arenas, Spire, student walking down a tower face (93-97); water-column coupled-control exercise and ASTERION COMBAT LADDER with CROSS, JULIAN #1 and the 10,482 cohort (135-155); luggage rail with brass-cornered trunk and matched pieces versus the 8.1 kg duffel and the five seconds of shame (211-221); packaged academy kit versus two fingers of drawer (223-227); repaired sleeve and tailored jacket into the same tray slot (333)."
     },
     {
       "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
-      "status": "NOT_APPLICABLE",
-      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+      "status": "MET",
+      "evidence": "Structure and staging are new relative to the frozen source: Darius's numbered-insult thread as a spine, the hood-drawstring gravity experiment, Cole's silent one-pace-behind shelter drill, the Meridian gate refusal and exterior stair, the two-collars-on-one-chair ending. Source facts are preserved but no source sentences are reused. Editor should spot-check against manuscript/chapter-03-asterion.md."
     },
     {
       "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
-      "status": "NOT_APPLICABLE",
-      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+      "status": "MET",
+      "evidence": "Julian Cross #1 as a first-year and the 10,482 incoming cohort (141-149); Rian Okafor, Enrollment Officer Cole, Imani Bell with heart surgery at fourteen and an implant of unknown field-coupling behavior, bent fork (251, 319); MERCER, KADE — CONTROLLED BASELINE — SUBLEVEL ACCESS (275); Elena's aborted 'He used to say—' mirrors the source's 'Your father would have—'; father remembered as photograph, stopped watch, industrial accident consistent with the ch02 box of effects; unpacked/folded duffel per CLUE_LEDGER line 45; Kade chooses to stay for evidence without surrendering the departure route (201-205, 413), matching the STATE_LEDGER ch03 end-state delta. One staging substitution disclosed under deviations (band replaces key card)."
     },
     {
       "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
-      "status": "NOT_APPLICABLE",
-      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+      "status": "MET",
+      "evidence": "Close third on Kade throughout, past tense; wonder is always tied to a rule being tested (the drawstring, the seawall, the flood doors); the dinner refusal costs Kade an admitted want ('I want to know so badly I nearly let you', 301) rather than being a free win; practical attention to consent pages, fasting instructions, and route-counting. Editor to judge voice fidelity independently."
     },
     {
       "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
-      "status": "NOT_APPLICABLE",
-      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+      "status": "MET",
+      "evidence": "No profanity, sexual content, or gore found on full read. Speakers are attributed or unambiguous in every exchange; unnamed table characters are consistently tagged by a single physical handle (boy in the hat, girl with the stylus, enrolled boy). Italic phone-text lines carry a spoken ordinal ('One.', 'Two.') so they survive audio. Display strings are short and read aloud cleanly."
+    },
+    {
+      "obligation": "Verified finding book1-ch03-E005-R2: remove at least 525 words from the 6,909-word version while preserving the emergency-geography plant, luggage/class-disparity sequence, unpacking seam, symptom-knowledge boundary, dinner choice, open departure route, and revised ending.",
+      "status": "MET",
+      "evidence": "Manual whitespace count is 6,242 words, i.e. 667 words below 6,909 and 142 below the 6,384 ceiling (5,700 ±12%). All seven named preservation targets are present: shelter routes and flood doors (167-183), luggage rail (211-221), unpack and fold (227), skull-pressure kept private and off the call panel (71-75, 295, 379), dinner refusal (287-313), transit-desk departure route (201-205), two-collars ending (405-413). Count was done by hand because this session has no shell; editor should confirm with wc -w."
     },
     {
       "obligation": "Preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
-      "status": "NOT_APPLICABLE",
-      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+      "status": "MET",
+      "evidence": "CLUE_LEDGER line 45 plant (folded, unpacked duffel as the arrival image) is staged at 227 and paid forward at 407. Source father-line plant preserved at 29-33 and echoed at 351. Emergency-geography plant (Central Bridge, lower transit ring flood doors, North Shelter under the northern towers, Library Underpass/west academic, Meridian Dining exterior stair) preserved at 167-193 and 345-349, consistent with STATE_LEDGER ch30 evacuation geography. I did not have the full CLUE_LEDGER ch03 section open; editor should confirm no additional ch03-assigned plant exists."
     },
     {
       "obligation": "Deliver all chapter-assigned payoffs without advancing later-book answers.",
-      "status": "NOT_APPLICABLE",
-      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+      "status": "MET",
+      "evidence": "No later reveal is spent: Aaron is never named, the father remains a stopped watch and an official accident in Kade's knowledge, Sen and the Directorate are absent, the skull pressure is left unexplained, and Julian appears only as a name on a board."
+    },
+    {
+      "obligation": "Prohibited outcomes: no canon/reveal-order/outcome/rank changes; Kade not effortlessly dominant; no profanity, explicit content, gore, or new named character; no drafting notes or metadata in prose.",
+      "status": "MET",
+      "evidence": "Every proper name in the draft (Darius, Elena, Rian Okafor, Cole, Julian Cross, Imani Bell, Northline, St. Vincent) is in NAME_REGISTRY.md or the ch02 seam; all new table characters, the handler, the kitchen worker, and the flight officer are unnamed. Kade produces no power effect; the one sensation costs him doubt and a withheld disclosure. No notes or counts appear in the manuscript."
     }
   ],
-  "inventions": [],
-  "state_change_proposals": [],
+  "inventions": [
+    "Darius's running numbered-insult text thread (six of the forty promised in the ch02 seam), used as a comic through-line and section punctuation.",
+    "Hood-drawstring experiment in the null-lift cabin and Rian's 'the cabin gets told where down is' explanation; Rian given a once-broken nose and a reader.",
+    "Elena's photographed four-condition page attached to the baseline consent by the enrollment office, and Cole's report that she called twice to confirm.",
+    "Plaza water-column 'introductory coupled control' exercise with six students; Cole's line that Kade would be assigned to it in spring.",
+    "Cole's silent one-pace-behind shelter drill with a slate that withholds the room key until three routes are marked; PERSONS load numbers stenciled at bridge thresholds; Library Underpass as the third route.",
+    "House Meridian courtyard gate refusing a provisional band and the exterior metal stair along Meridian Dining as the workaround; unnamed kitchen worker's nod.",
+    "Luggage rail and weigh plate in Arrival Residence C lobby (8.1 kg readout), brass-cornered trunk with attendant, and the duffel arriving by wall hatch.",
+    "Two unnamed blue-lanyard tablemates: a tall boy in a knitted hat banking two trays before a fasting draw, and a girl with a stylus who keeps a seven-band regional scale and adds MERCER — 000 — PENDING.",
+    "Unnamed enrolled boy's offer to run a low field through the table and his companion's wrist display frozen at the same time for ninety seconds; the tray-move that ends it.",
+    "PROVISIONAL SERVICES — NO CHARGE reader on the dish return with the covered-whether-or-not-enrolled small print.",
+    "Elena's 20:00 call schedule and the 'counting doors' exchange; the closing image of the academy training set and the eleven-dollar shirt hung collar to collar on one chair."
+  ],
+  "state_change_proposals": [
+    "Kade has signed consent for the baseline evaluation only; further evaluation stages require separate consent, and Elena's four conditions are attached to his file.",
+    "Kade is scheduled for medical intake at 06:15 (fasting after midnight) and a controlled baseline with sublevel access at 07:00; he is housed in Arrival Residence C, eighth floor, second bed empty.",
+    "Kade experienced one breath of cold pressure at the base of his skull during the aircraft bank while attending to a rule; he did not press the call panel, has told no one, and has resolved to report it if it recurs and to tell Elena after the baseline.",
+    "Kade knows three routes to North Shelter (Central Bridge; lower transit ring with flood doors; Library Underpass via west academic) plus the Meridian Dining exterior stair; his provisional band is refused at the House Meridian courtyard gate.",
+    "Departure route is open and known: transit desk accepts his band plus a departure time, and the clinic reassigns the slot.",
+    "Kade and Elena have a standing call at 20:00 daily; Elena expects his call tomorrow at exactly 20:00.",
+    "Darius has sent six of the forty promised insults; thirty-four remain.",
+    "Imani Bell has a Medical Coupling Review at Clinic Two at 07:00 and has publicly refused a field through her table; she, the boy in the hat, and the girl with the stylus are Kade's provisional cohort.",
+    "The duffel is unpacked into one drawer and folded in thirds on the shelf with the handler's tag still on; one academy training set and the eleven-dollar shirt hang together on the chair for 06:15."
+  ],
   "deviations": [
-    "Fable session limit interrupted the structured self-report after the prose write; acceptance is delegated to independent Sol review."
+    "Word count is a manual whitespace count (6,242) because this session had no shell to run wc -w; a miscount of more than 142 words upward would breach the 6,384 ceiling, so the editor should verify with the tool.",
+    "The frozen source has Cole hand Kade a key card (source line 1025); the draft makes the wristband the room key, released only after the shelter drill. Staging change with a possible downstream key-card reference that I did not verify.",
+    "In the source the skull pressure is visible to Rian ('You okay?' / 'Tell the crew'); the draft keeps it private, with Kade declining the panel and Rian only inferring he considered it. This tightens the symptom-knowledge boundary named in the repair target but is a departure from source staging.",
+    "The source's Arrival Orientation wall displays with families and staff are compressed into Cole's solo walk and slate; the source's temporary-housing explanation is reduced to the residence name.",
+    "Kade's belief in an industrial accident and the stopped watch are carried from the ch02 seam and treated as his knowledge, not as authorial confirmation; if canon requires Kade not to hold a specific cause of death at this point, lines 33 and 409 need review."
   ],
   "blockers": []
 }

@@ -1,0 +1,68 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch04-cycle-2",
+  "scene_id": "book1-ch04",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-04-ten-thousand-four-hundred-eighty-two.md",
+  "word_count": 5862,
+  "obligations": [
+    {
+      "obligation": "Repair CANON-INV-001: replace the specific river-and-town feat with an established public appearance or a non-canonizing impression that preserves Kade's recognition of Sen",
+      "status": "MET",
+      "evidence": "Line 27 now reads: 'He knew the face. Everybody who had ever watched an Asterion broadcast on a cracked gym screen knew it: the Director, at the edge of the frame, behind whoever was holding the trophy, never the one talking. She was shorter than the footage.' No dated feat, no Sen history asserted; recognition and the 'shorter than the footage' beat are preserved. Grep for 'river' and 'when he was nine' returns no matches."
+    },
+    {
+      "obligation": "Baseline testing; nearly no measurable output; official last place; Zero Boy rumors become humiliation rather than mystique",
+      "status": "MET",
+      "evidence": "Unchanged from the reviewed draft: passive/control/produce/adaptive stages, OUTPUT ZERO POINT ZERO ZERO, FIRST-YEAR RANK 10,482 OF 10,482, dining-hall strip and forum link 'CLASSIFIED PRODIGY OR ADMINISTRATIVE ERROR?'"
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a paraphrase or recap",
+      "status": "MET",
+      "evidence": "Not touched by this repair; previously reviewed with no verified finding on this gate."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by frozen evidence",
+      "status": "MET",
+      "evidence": "Only one sentence changed; rank arithmetic (#10,482/10,482), 0.00 output, Sen's presence and withheld 'Boundary architecture' knowledge, Meridian assignment, interval-seven flicker, and the twenty-hundred call ending remain intact."
+    },
+    {
+      "obligation": "Fantasy Author A voice",
+      "status": "MET",
+      "evidence": "Replacement sentence stays in Kade's practical close-viewpoint attention (broadcast framing, who holds the trophy, who talks); no other prose altered."
+    },
+    {
+      "obligation": "Family-clean and audio-readability requirements",
+      "status": "MET",
+      "evidence": "Replacement contains no profanity or typography-dependent meaning; 'the Director' is intelligible aloud and matches the registry naming."
+    },
+    {
+      "obligation": "Preserve chapter-assigned plants (CLUE_LEDGER: baseline 0.00; Sen personally monitors him; Kade perceives something without ordinary field output)",
+      "status": "MET",
+      "evidence": "Sen still stands behind the console during stage one; certification review retains three instrument flickers versus one report; 0.00 certified and acknowledged."
+    },
+    {
+      "obligation": "Deliver chapter-assigned payoffs without advancing later-book answers",
+      "status": "MET",
+      "evidence": "Sen still declines to explain ('I know more than the wall does. I am not going to say it today.'); no later reveal spent."
+    },
+    {
+      "obligation": "Prohibited outcomes: no canon/reveal-order/rank changes, no effortless dominance, no profanity/gore/new named character, no metadata in prose",
+      "status": "MET",
+      "evidence": "Repair removes an unapproved canon fact rather than adding one; no new named entity; manuscript contains prose only."
+    },
+    {
+      "obligation": "Word count 5,300 ±12% (4,664–5,936)",
+      "status": "MET",
+      "evidence": "5,862 whitespace-separated tokens measured via ripgrep offset probes (Bash unavailable in this session); wc -w equivalent including heading and section rules."
+    }
+  ],
+  "inventions": [
+    "Non-canonizing impression of Sen as a familiar background presence in Asterion broadcasts ('at the edge of the frame, behind whoever was holding the trophy, never the one talking'), drawn from Kade's established habit of watching bouts on a cracked district-gym wall screen (Chapter 3). Asserts no dated event, feat, or history; within the allowed budget for unnamed background texture that creates no continuity obligation."
+  ],
+  "state_change_proposals": [],
+  "deviations": [
+    "Word count was measured with ripgrep pagination probes rather than wc, because Bash is disabled in this session and its subagents; a first haiku subagent returned a fabricated '10482' and was discarded. The 5,862 figure is from the direct probe method."
+  ],
+  "blockers": []
+}

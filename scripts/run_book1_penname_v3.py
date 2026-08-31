@@ -493,11 +493,14 @@ deviations, and blockers. The editor will independently verify everything.
 
     def set_repair_packet(self, packet_path: Path, findings: list[dict]) -> None:
         packet = load_json(packet_path)
-        packet["job"] = (
-            "structural_repair"
-            if any(item["severity"] in {"BLOCKER", "HIGH"} for item in findings)
-            else "line_edit"
-        )
+        if findings and all(item["gate"] == "production_hygiene" for item in findings):
+            packet["job"] = "compression"
+        else:
+            packet["job"] = (
+                "structural_repair"
+                if any(item["severity"] in {"BLOCKER", "HIGH"} for item in findings)
+                else "line_edit"
+            )
         packet["verified_findings"] = findings
         current_draft = packet["output"]["draft_path"]
         if not any(
@@ -513,6 +516,42 @@ deviations, and blockers. The editor will independently verify everything.
                 }
             )
         write_json(packet_path, packet)
+
+    def restart_with_fresh_approach(self, packet_path: Path) -> None:
+        state = load_json(STATE)
+        fresh_count = sum(1 for item in state["history"] if item["event"] == "fresh_approach")
+        if fresh_count >= 2:
+            raise LoopError(
+                f"{state['active_scene_id']}: two fresh approaches exhausted; preserve evidence for the next heartbeat"
+            )
+        packet = load_json(packet_path)
+        editor_path = BOOK / packet["output"]["editor_report_path"]
+        verifier_path = BOOK / packet["output"]["verifier_report_path"]
+        findings = self.verified_findings(load_json(editor_path), load_json(verifier_path))
+        if not findings:
+            raise LoopError("blocked state has no verified findings for a fresh approach")
+        self.set_repair_packet(packet_path, findings)
+        old_phase = state["phase"]
+        state["phase"] = "REPAIRING"
+        state["repair_cycle"] = 0
+        state["last_finding_fingerprint"] = None
+        state["repeat_count"] = 0
+        state["blocker"] = None
+        state["repair_origin"] = "VERIFYING"
+        state["history"].append(
+            {
+                "event": "fresh_approach",
+                "from": old_phase,
+                "to": "REPAIRING",
+                "note": (
+                    "Bounded cycle exhausted; reopened with a newly classified repair job "
+                    f"for {len(findings)} verified finding(s)."
+                ),
+            }
+        )
+        write_json(STATE, state)
+        self.validate("loop-state.schema.json", STATE)
+        print(f"[{packet['scene_id']}] fresh approach: {packet['job']}", flush=True)
 
     def reset_packet_after_close(self, packet_path: Path) -> None:
         packet = load_json(packet_path)
@@ -538,6 +577,9 @@ deviations, and blockers. The editor will independently verify everything.
             )
 
         state = load_json(STATE)
+        if state["phase"] == "BLOCKED" and state["blocker"] == "repair cycle budget exhausted":
+            self.restart_with_fresh_approach(packet_path)
+            state = load_json(STATE)
         if state["phase"] == "REPAIRING":
             report_path = BOOK / packet["output"]["report_path"]
             report_words = load_json(report_path).get("word_count", -1) if report_path.exists() else -1

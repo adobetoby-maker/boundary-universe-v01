@@ -3,7 +3,7 @@
   "scene_id": "book1-ch03",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "structural_repair",
+  "job": "draft",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -127,24 +127,9 @@
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-02-zero-protocol.md",
       "required": true
-    },
-    {
-      "kind": "reference",
-      "label": "Current rewrite to repair",
-      "path": "penname-v3/manuscript/chapter-03-asterion.md",
-      "required": true
     }
   ],
-  "verified_findings": [
-    {
-      "id": "book1-ch03-F003",
-      "severity": "HIGH",
-      "gate": "fresh_reauthoring",
-      "evidence": "penname-v3/manuscript/chapter-03-asterion.md:9-15: “That thing looks fake,” Darius said. … “It looks like a lunchbox for rich people.” Verification: The cited passages exist in the frozen evidence and accurately show the same distinctive comic construction with only superficial wording changes. The additional cited markers recur through the same departure, flight, arrival, orientation, dinner, demonstration-refusal, maternal-call, and closing progression. Because the packet requires a genuinely fresh chapter while preserving facts rather than sentences, this overlap sufficiently verifies the finding and its stated reader consequence.",
-      "consequence": "The repair still reads as a close paraphrase of the source rather than a genuinely fresh chapter. Beyond this exact opening construction, it preserves distinctive markers and sequence at draft/source lines 155/485 (“nineteen seconds”), 171/583 (three anonymous seconds after arrival), 289/869 (“West academic bridge”), 347/1085 (Elena's note), 365/1133 (“routing code”), 429/1295 (“operationally significant”), 515/1491 (“provisional…unresolved”), and 565/1633 (“wanted to stay”). A reader comparing editions will encounter substantially the same scene architecture, jokes, connective beats, and emotional landing.",
-      "repair_target": "Reconceive the chapter's dramatic route and interaction design while preserving locked facts and outcomes. Replace the source-derived airfield banter, flight acquaintance progression, orientation-map sequence, provisional-table structure, and closing realization with materially different staging, dialogue strategy, and connective causality—not sentence-level substitutions."
-    }
-  ],
+  "verified_findings": [],
   "exceptions": [],
   "output": {
     "draft_path": "penname-v3/manuscript/chapter-03-asterion.md",
