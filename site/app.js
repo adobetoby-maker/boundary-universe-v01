@@ -21,4 +21,14 @@ fetch('data.json').then(r=>r.json()).then(d=>{
     <article class="card"><div class="num">0${i+1}</div><h3>${x.title}</h3><p>${x.role}</p><div class="status">${x.status}</div></article>`).join('');
   document.getElementById('chapters').innerHTML=(d.chapters||[]).map(c=>`
     <article class="chapter"><div class="n">${String(c.n).padStart(2,'0')}</div><h4>${c.title}</h4><small>${c.words.toLocaleString()} words</small><p>${c.summary}</p></article>`).join('');
+  document.getElementById('preview-cards').innerHTML=(d.previews||[]).map(p=>{
+    const chapter=(p.chapters||[])[0];
+    return `<article class="card preview-card">
+      <div class="num">${p.label}</div>
+      <h3>${p.title}</h3><p class="eyebrow">${p.series}</p>
+      <p>${p.description}</p>
+      <div class="book-stats"><span>${chapter.words.toLocaleString()} words</span><span>${p.status}</span></div>
+      <a class="read-link" href="reader.html?id=${encodeURIComponent(chapter.id)}">Read Chapter ${chapter.n}: ${chapter.title}</a>
+    </article>`;
+  }).join('');
 });

@@ -1,6 +1,25 @@
 {
   "brand": "The Boundary Universe",
   "tagline": "Every force goes somewhere. Every boundary is a choice.",
+  "previews": [
+    {
+      "id": "farbound-accord",
+      "label": "DRAFT PREVIEW",
+      "title": "The Error That Crossed the Dark",
+      "series": "The Farbound Accord — Book 1",
+      "status": "Author Lab draft",
+      "description": "Jonah Vale has proved the signal is not noise. Now he must decide whether its vectors describe a target—or something broken asking the Solar System for help.",
+      "chapters": [
+        {
+          "id": "farbound-accord-ch05",
+          "n": 5,
+          "title": "Targeting Geometry",
+          "words": 3181,
+          "path": "previews/farbound-accord/chapter-05.md"
+        }
+      ]
+    }
+  ],
   "books": [
     {
       "id": "the-ninth-standard",
