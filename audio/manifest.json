@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-08-22T18:15:35-06:00",
+  "generated": "2026-09-12T10:20:00-06:00",
   "universe": "The Boundary Universe",
   "sourceBranch": "polish/second-half",
   "books": [
@@ -274,9 +274,237 @@
           ]
         }
       ]
+    },
+    {
+      "id": "driftwing-stable-book-01",
+      "title": "The Secret in the Fifth Stall",
+      "totalChapters": 11,
+      "renderedChapters": 11,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Night of the Cousins",
+          "manuscript": "books/driftwing-stable-book-01/manuscript/chapter-01-the-night-of-the-cousins.md",
+          "renders": [
+            {
+              "render": "australian-female",
+              "engine": "Qwen3-TTS via MLX",
+              "voice": "Monroe Australian female",
+              "file": "audio/driftwing-stable-book-01/chapter-01.mp3",
+              "bytes": 1924077,
+              "durationSec": 240.45,
+              "sha256": "b1aa2b57986428c8b971045b0f5f2b08dd5f91a5c9a3f58063c77dd989f10bae",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/driftwing-stable-book-01/chapter-01.mp3",
+              "note": "Australian female narrator preview. Whole-chapter Codex performance direction; listening QA and Whisper verified all 708 words, stable timbre, and the explicit 900 ms final landing."
+            },
+            {
+              "render": "cast",
+              "engine": "Qwen3-TTS via MLX",
+              "voice": "Full cast — narrator, Olivia, Hadley, Adelaide, and Miles",
+              "file": "audio/driftwing-stable-book-01/chapter-01.cast.mp3",
+              "bytes": 2454957,
+              "durationSec": 306.81,
+              "sha256": "39cc095b492375c5db6685e5e70ab16b1502d5be946a4c2d2b44f041c4c4454d",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/driftwing-stable-book-01/chapter-01.cast.mp3",
+              "note": "Full-cast audition. Codex assigned every spoken line after reading the whole chapter. Listening QA: about 138 words/minute, distinct stable voice bands, natural 0.18-second ordinary transitions, no omissions, additions, dead air, collisions, or narrator-return drift."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Two Driftwings and One Chore",
+          "manuscript": "books/driftwing-stable-book-01/manuscript/chapter-02-two-driftwings-and-one-chore.md",
+          "renders": [
+            {
+              "render": "australian-female",
+              "engine": "Qwen3-TTS via MLX",
+              "voice": "Monroe Australian female",
+              "file": "audio/driftwing-stable-book-01/chapter-02.mp3",
+              "bytes": 1799853,
+              "durationSec": 224.91,
+              "sha256": "b3b674e50088379febe8a2b84cbd1c42f0f1fc4f196232df6f685ccfb3708232",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/driftwing-stable-book-01/chapter-02.mp3",
+              "note": "Australian female narrator preview. Whole-chapter Codex performance direction; listening QA and Whisper verified all 688 words, stable timbre, and the explicit final landing. A full-cast edition is in production."
+            },
+            {
+              "render": "cast",
+              "engine": "Qwen3-TTS via MLX",
+              "voice": "Full cast — narrator and recurring Driftwing Stable characters",
+              "file": "audio/driftwing-stable-book-01/chapter-02.cast.mp3",
+              "bytes": 2507181,
+              "durationSec": 313.32,
+              "sha256": "13cfb18e0ce5c2de42bc25eca257b63617675ed008d9b536c8ca40856a75a3d0",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/driftwing-stable-book-01/chapter-02.cast.mp3",
+              "note": "Full-cast edition. Whole-chapter speaker assignment and line direction; listening gate passed with no omissions, additions, dead air, or collisions."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "A Reason to Go",
+          "manuscript": "books/driftwing-stable-book-01/manuscript/chapter-03-a-reason-to-go.md",
+          "renders": [
+            {
+              "render": "cast",
+              "engine": "Qwen3-TTS via MLX",
+              "voice": "Full cast — narrator and recurring Driftwing Stable characters",
+              "file": "audio/driftwing-stable-book-01/chapter-03.cast.mp3",
+              "bytes": 2489133,
+              "durationSec": 311.08,
+              "sha256": "8daa8cf6015fa0b443f353db5a8947f8f96a07cfa638a18e6b20cf0f5b3f0c34",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/driftwing-stable-book-01/chapter-03.cast.mp3",
+              "note": "Full-cast edition. Listening gate passed; no omissions, additions, dead air, or collisions."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "The One Who Draws",
+          "manuscript": "books/driftwing-stable-book-01/manuscript/chapter-04-the-one-who-draws.md",
+          "renders": [
+            {
+              "render": "cast",
+              "engine": "Qwen3-TTS via MLX",
+              "voice": "Full cast — narrator and recurring Driftwing Stable characters",
+              "file": "audio/driftwing-stable-book-01/chapter-04.cast.mp3",
+              "bytes": 2225325,
+              "durationSec": 278.09,
+              "sha256": "7e761cbee60d6d8e1db1d5ae279382ec5739fe4969b614173fba00384df259cb",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/driftwing-stable-book-01/chapter-04.cast.mp3",
+              "note": "Full-cast edition. Listening gate passed; about 152 words/minute with an 810 ms chapter landing."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "The Fifth Stall",
+          "manuscript": "books/driftwing-stable-book-01/manuscript/chapter-05-the-fifth-stall.md",
+          "renders": [
+            {
+              "render": "cast",
+              "engine": "Qwen3-TTS via MLX",
+              "voice": "Full cast — narrator and recurring Driftwing Stable characters",
+              "file": "audio/driftwing-stable-book-01/chapter-05.cast.mp3",
+              "bytes": 2220141,
+              "durationSec": 277.44,
+              "sha256": "662661efed73e38b3be2e7d334339b34632b29df3a4e913407e10b53cf40387d",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/driftwing-stable-book-01/chapter-05.cast.mp3",
+              "note": "Full-cast edition. Listening gate passed; no omissions, additions, dead air, or collisions."
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "title": "She Will Not Eat",
+          "manuscript": "books/driftwing-stable-book-01/manuscript/chapter-06-she-will-not-eat.md",
+          "renders": [
+            {
+              "render": "cast",
+              "engine": "Qwen3-TTS via MLX",
+              "voice": "Full cast — narrator and recurring Driftwing Stable characters",
+              "file": "audio/driftwing-stable-book-01/chapter-06.cast.mp3",
+              "bytes": 2521965,
+              "durationSec": 315.18,
+              "sha256": "12e01ef901268c7d7e08f0ad341b996754507b553554f01232e7444417207603",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/driftwing-stable-book-01/chapter-06.cast.mp3",
+              "note": "Full-cast edition. A generated-speech addition was caught and repaired; final gate aligned 680/680 words with no remaining failures."
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "title": "The Babies Laugh at Nothing",
+          "manuscript": "books/driftwing-stable-book-01/manuscript/chapter-07-the-babies-laugh-at-nothing.md",
+          "renders": [
+            {
+              "render": "cast",
+              "engine": "Qwen3-TTS via MLX",
+              "voice": "Full cast — narrator and recurring Driftwing Stable characters",
+              "file": "audio/driftwing-stable-book-01/chapter-07.cast.mp3",
+              "bytes": 2013933,
+              "durationSec": 251.67,
+              "sha256": "9d7f8f6342cb8822223b242ab7688d79d02f87092758a49388aea8855ca7232c",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/driftwing-stable-book-01/chapter-07.cast.mp3",
+              "note": "Full-cast edition. Listening gate passed; no omissions, additions, dead air, or collisions."
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "title": "Asking",
+          "manuscript": "books/driftwing-stable-book-01/manuscript/chapter-08-asking.md",
+          "renders": [
+            {
+              "render": "cast",
+              "engine": "Qwen3-TTS via MLX",
+              "voice": "Full cast — narrator and recurring Driftwing Stable characters",
+              "file": "audio/driftwing-stable-book-01/chapter-08.cast.mp3",
+              "bytes": 2203437,
+              "durationSec": 275.37,
+              "sha256": "b386579ece3003b1df9035c084b037282ebd70ab4088a407e08a8861ddc7b882",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/driftwing-stable-book-01/chapter-08.cast.mp3",
+              "note": "Full-cast edition. Listening gate passed; no omissions, additions, dead air, or collisions."
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "title": "What It Costs to Tell",
+          "manuscript": "books/driftwing-stable-book-01/manuscript/chapter-09-what-it-costs-to-tell.md",
+          "renders": [
+            {
+              "render": "cast",
+              "engine": "Qwen3-TTS via MLX",
+              "voice": "Full cast — narrator and recurring Driftwing Stable characters",
+              "file": "audio/driftwing-stable-book-01/chapter-09.cast.mp3",
+              "bytes": 2148333,
+              "durationSec": 268.47,
+              "sha256": "cc5a8ac1761efe87da6ee727e53eb9a67b4f2da25c460c5bada0c07e7a5ef3ff",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/driftwing-stable-book-01/chapter-09.cast.mp3",
+              "note": "Full-cast edition. Listening gate passed; no omissions, additions, dead air, or collisions."
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "title": "The Move",
+          "manuscript": "books/driftwing-stable-book-01/manuscript/chapter-10-the-move.md",
+          "renders": [
+            {
+              "render": "cast",
+              "engine": "Qwen3-TTS via MLX",
+              "voice": "Full cast — narrator and recurring Driftwing Stable characters",
+              "file": "audio/driftwing-stable-book-01/chapter-10.cast.mp3",
+              "bytes": 2449773,
+              "durationSec": 306.15,
+              "sha256": "6bdc189cfdce57458ef57ff3f75ee532f69b1c44e7df83e08f751e06464309d0",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/driftwing-stable-book-01/chapter-10.cast.mp3",
+              "note": "Full-cast edition. Listening gate passed; no omissions, additions, dead air, or collisions."
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "title": "Six People in a Warm Room",
+          "manuscript": "books/driftwing-stable-book-01/manuscript/chapter-11-six-people-in-a-warm-room.md",
+          "renders": [
+            {
+              "render": "cast",
+              "engine": "Qwen3-TTS via MLX",
+              "voice": "Full cast — narrator and recurring Driftwing Stable characters",
+              "file": "audio/driftwing-stable-book-01/chapter-11.cast.mp3",
+              "bytes": 2159661,
+              "durationSec": 269.89,
+              "sha256": "a78f7dd6c57db3609b0f281d8fc1dcdc9817c446ced0d21e8e25558ef7cc79ff",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/audio/driftwing-stable-book-01/chapter-11.cast.mp3",
+              "note": "Full-cast edition. Listening QA repaired a short narrator-to-Dad handoff; all 613 words align, no short-transition flags remain, and the final hold is present."
+            }
+          ]
+        }
+      ]
     }
   ],
   "audioBaseUrl": "https://media.githubusercontent.com/media/adobetoby-maker/boundary-universe-v01/main/",
-  "note": "Audio is Git LFS. Fetch via media.githubusercontent.com/media/... \u2014 raw.githubusercontent.com returns the LFS pointer text, not the MP3. Studio-Q renders for chapters 2-10 were made from the pre-expansion manuscript and have been withdrawn from renders[]; the files remain in the repository for comparison only.",
+  "note": "Audio is Git LFS. Fetch via media.githubusercontent.com/media/... — raw.githubusercontent.com returns the LFS pointer text, not the MP3. Studio-Q renders for chapters 2-10 were made from the pre-expansion manuscript and have been withdrawn from renders[]; the files remain in the repository for comparison only.",
   "productionVoice": "holden"
 }
