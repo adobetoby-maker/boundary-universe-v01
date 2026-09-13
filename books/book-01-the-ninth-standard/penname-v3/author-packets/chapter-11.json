@@ -3,7 +3,7 @@
   "scene_id": "book1-ch11",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "line_edit",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -119,19 +119,28 @@
       "required": true
     },
     {
-      "kind": "reference",
-      "label": "Frozen source chapter; preserve facts, not sentences",
-      "path": "manuscript/chapter-11-the-broken-floor.md",
-      "required": true
-    },
-    {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-10-vector-class.md",
       "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Current rewrite to repair",
+      "path": "penname-v3/manuscript/chapter-11-the-broken-floor.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
+  "verified_findings": [
+    {
+      "id": "F006",
+      "severity": "MEDIUM",
+      "gate": "Action-length policy",
+      "evidence": "penname-v3/manuscript/chapter-11-the-broken-floor.md:1-943: Deterministic scope: the full chapter contains 8,334 words. Verification: The repeated full-chapter count is 8,334 words. The authorized fight ceiling is 5,900 × 1.25 = 7,375 words, so the manuscript exceeds it by 959 words. The exception authorizes the 25 percent ceiling but does not waive it; repair is required.",
+      "consequence": "The chapter exceeds the expanded 7,375-word ceiling by 959 words, and repeated motive, warning, conservation, and accountability explanations slow its progression.",
+      "repair_target": "Compress at least 959 words while preserving the hand-to-hip choice, combat geography, costs, Hall clue, Taren clue, Elena honesty, and Sen reveal."
+    }
+  ],
   "exceptions": [
     {
       "id": "owner-action-length-policy-2026-09-13",

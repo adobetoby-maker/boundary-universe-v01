@@ -1,0 +1,76 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch11-author-c3",
+  "scene_id": "book1-ch11",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-11-the-broken-floor.md",
+  "word_count": 7257,
+  "obligations": [
+    {
+      "obligation": "F006 Action-length policy: compress at least 959 words to bring the chapter under the 7,375-word expanded ceiling",
+      "status": "MET",
+      "evidence": "Whitespace-token count of the repaired file is 7,243 words (counted via ripgrep -o '\\S+' with offset pagination; no shell tool available for wc -w). Reduction from 8,334 is 1,091 words. Cuts targeted repeated motive explanations (Hale gallery, prep bay, engineer, Elena), repeated warnings (Sera, calibration gallery), repeated conservation restatements (engineer ledger, Elena, Sen), and repeated accountability lines (Hale hip exchange, Elena, Mara kitchen), plus decorative texture (Rusk fuse recap, seal ribbon, floor lights, facilities cart, Sen's chalk/sensor-hole detail)."
+    },
+    {
+      "obligation": "Preserve the hand-to-hip choice",
+      "status": "MET",
+      "evidence": "Fight sequence retains the full beat: cold line, panel thirty meters away, hand rising to hip, card and Mara's warning recalled, hand going back down, 'There.' Hale's medical debrief ('Did the hand go up.' / 'It got to my hip.' / 'And I wanted to see. So I put it down.') and Mara's kitchen line ('Your hand got to your hip') both remain."
+    },
+    {
+      "obligation": "Preserve combat geography",
+      "status": "MET",
+      "evidence": "Arena layout, red strip, barrier, maintenance-plan subframe (ribs west to east, three dampers, barrier footings), all three exchanges, the drive toward the western third, west damper under heels, fracture path around the sensor panel to the ring edge, and the engineer's subframe load path all retained."
+    },
+    {
+      "obligation": "Preserve costs",
+      "status": "MET",
+      "evidence": "Cold line going hot, tremor, delayed speech, Park's pressure/number/hands check, late eye tracking, date check, slower tremor fade, arena closed three days with six sections relocated, no contest/no ladder movement, red-line restriction, physical restriction card, Elena's hand-shake observation all retained."
+    },
+    {
+      "obligation": "Preserve Hall of Standards clue",
+      "status": "MET",
+      "evidence": "Eleven bronzes, twelve bays, 'Legacy bay twelve. Access sealed.' tag read aloud by Eli, Mara's older-hall explanation, Eli's service-riser explanation, and Kade tying it to Amadi's twelfth column and the Meridian board recess all retained."
+    },
+    {
+      "obligation": "Preserve Taren clue",
+      "status": "MET",
+      "evidence": "Breakfast roommate/Kepler/Sol-thing sourcing chain and Sera's 'suspicious when you can say it that fast' retained; Commons scene retains Taren's knowledge of the sensor-trace lock timing, the Kepler-feed deflection, and Kade adding it to 'the file.'"
+    },
+    {
+      "obligation": "Preserve Elena honesty",
+      "status": "MET",
+      "evidence": "Stairwell call retains the trench put back in, the direct admission ('I wanted to be inside one and see if I could feel it coming' / 'Yes'), 'Thank you for saying it,' the since-you-were-nine deal, 'Stop at the warning next time, not after,' 'Authoritarian.' / 'Alive.', and 'You're allowed to stop before it breaks.'"
+    },
+    {
+      "obligation": "Preserve Sen reveal",
+      "status": "MET",
+      "evidence": "Night arena scene retains the perceived-in-order account, 'Boundary architecture,' 'Not a Standard,' produced-nothing/force-resolved-elsewhere statement, Kade recognizing she already had the name, 'Has somebody done this before?' / 'Tomorrow,' and the older-than-you danger line."
+    },
+    {
+      "obligation": "Chapter function: ranked bout vs #2,301, boundary redefinition, floor fracture, match frozen",
+      "status": "MET",
+      "evidence": "Open challenge accepted at #8,159, Hale review, calibration, three exchanges, seam selection, fracture, MATCH SUSPENDED, no contest ruling all retained."
+    },
+    {
+      "obligation": "Family-clean and audio readability",
+      "status": "MET",
+      "evidence": "No profanity or gore added or retained; all cuts removed prose only. Speaker attribution preserved at every trimmed dialogue seam (checked Hale 'Time' line, Sera prep-bay line, Elena video line)."
+    },
+    {
+      "obligation": "No drafting metadata in manuscript",
+      "status": "MET",
+      "evidence": "File contains chapter heading, Darius text interludes, section rules, and prose only."
+    }
+  ],
+  "inventions": [
+    "None. This was a compression-only line edit; no new details, dialogue, or staging were added. One Sera line was rephrased ('And you're being clever in a direction that ends in a chair. I've watched people do that.') to absorb a removed exchange without changing meaning."
+  ],
+  "state_change_proposals": [
+    "Update STATE_LEDGER.md Chapter 11 word-count line from 5,919 to the new rewritten count once the editor locks the manuscript (7,243 by whitespace-token count; confirm with wc -w in an environment that has a shell)."
+  ],
+  "deviations": [
+    "Word count was verified by ripgrep token pagination rather than wc -w because no shell tool was available in this session or to the spawned subagent. Method matches wc -w semantics (whitespace-separated tokens, including the heading and '---' rules) but the editor should confirm with wc -w.",
+    "Adapter normalized whitespace word count from 7243 to 7257."
+  ],
+  "blockers": []
+}
