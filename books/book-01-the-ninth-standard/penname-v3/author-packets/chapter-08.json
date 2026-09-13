@@ -119,12 +119,6 @@
       "required": true
     },
     {
-      "kind": "reference",
-      "label": "Frozen source chapter; preserve facts, not sentences",
-      "path": "manuscript/chapter-08-the-ladder.md",
-      "required": true
-    },
-    {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-07-the-suppression-order.md",

@@ -17,6 +17,7 @@ BOOK = REPO_ROOT / "books" / "book-01-the-ninth-standard"
 WORK = BOOK / "penname-v3"
 SOURCE = BOOK / "manuscript"
 ARCHITECTURE = BOOK / "CHAPTER_ARCHITECTURE.md"
+ACTION_LENGTH_CHAPTERS = {7, 8, 11, 13, 14, 15, 21, 22, 25, 26, 29, 30, 31, 32}
 
 
 def sha256(path: Path) -> str:
@@ -59,7 +60,7 @@ def source_files() -> list[Path]:
 
 def chapter_modules(number: int) -> list[str]:
     modules = ["progression", "moral-choice"]
-    if number in {6, 8, 11, 13, 14, 15, 21, 22, 25, 26, 29, 30, 31, 32}:
+    if number in ACTION_LENGTH_CHAPTERS or number == 6:
         modules.insert(0, "combat")
     if number in {1, 4, 5, 8, 9, 10, 11, 14, 15, 16, 21, 22, 33}:
         modules.append("litrpg")
@@ -93,6 +94,7 @@ def packet_for(card: dict[str, object], source: Path, head: str) -> dict:
         )
 
     summary = str(card["summary"])
+    action_length = number in ACTION_LENGTH_CHAPTERS
     return {
         "schema_version": "3.1",
         "scene_id": chapter_id,
@@ -157,14 +159,26 @@ def packet_for(card: dict[str, object], source: Path, head: str) -> dict:
         },
         "context_files": context,
         "verified_findings": [],
-        "exceptions": [],
+        "exceptions": (
+            [
+                {
+                    "id": "owner-action-length-policy-2026-09-13",
+                    "approver": "Toby Anderton (owner)",
+                    "scope": "Upper word-count tolerance for a fight or embodied-action chapter",
+                    "authority": "Direct owner instruction: scenes with fight or action scenes can be longer.",
+                    "reason": "Protect action geography, escalation, tactical reversals, cost, choice, and aftermath from arbitrary compression.",
+                }
+            ]
+            if action_length
+            else []
+        ),
         "output": {
             "draft_path": draft_rel,
             "report_path": f"penname-v3/reports/current/{chapter_id}-author.json",
             "editor_report_path": f"penname-v3/reports/current/{chapter_id}-editor.json",
             "verifier_report_path": f"penname-v3/reports/current/{chapter_id}-verifier.json",
             "target_words": int(card["target"]),
-            "tolerance_percent": 12,
+            "tolerance_percent": 25 if action_length else 12,
         },
     }
 

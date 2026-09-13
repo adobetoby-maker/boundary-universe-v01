@@ -21,6 +21,7 @@ STATE = WORK / "loop-state.json"
 DEFAULT_PENNAME = Path(
     "/Users/adobetoby/Documents/Codex/2026-08-30/i-wa/work/penname/pennamecodexv3"
 )
+ACTION_LENGTH_CHAPTERS = {7, 8, 11, 13, 14, 15, 21, 22, 25, 26, 29, 30, 31, 32}
 
 
 class LoopError(RuntimeError):
@@ -562,8 +563,38 @@ deviations, and blockers. The editor will independently verify everything.
         ]
         write_json(packet_path, packet)
 
+    def apply_action_length_policy(self, packet_path: Path, number: int) -> None:
+        """Apply the owner's action-length exception before compiling any seat prompt."""
+        if number not in ACTION_LENGTH_CHAPTERS:
+            return
+        packet = load_json(packet_path)
+        changed = False
+        if "combat" not in packet["modules"]:
+            packet["modules"].insert(0, "combat")
+            changed = True
+        if packet["output"]["tolerance_percent"] < 25:
+            packet["output"]["tolerance_percent"] = 25
+            changed = True
+        exception_id = "owner-action-length-policy-2026-09-13"
+        if not any(item.get("id") == exception_id for item in packet["exceptions"]):
+            packet["exceptions"].append(
+                {
+                    "id": exception_id,
+                    "approver": "Toby Anderton (owner)",
+                    "scope": "Upper word-count tolerance for a fight or embodied-action chapter",
+                    "authority": "Direct owner instruction: scenes with fight or action scenes can be longer.",
+                    "reason": "Protect action geography, escalation, tactical reversals, cost, choice, and aftermath from arbitrary compression.",
+                }
+            )
+            changed = True
+        if changed:
+            write_json(packet_path, packet)
+            self.validate("scene-packet.schema.json", packet_path)
+            print(f"[{packet['scene_id']}] action-length ceiling: 25%", flush=True)
+
     def run_chapter(self, number: int) -> None:
         packet_path = WORK / "packets" / f"chapter-{number:02d}.json"
+        self.apply_action_length_policy(packet_path, number)
         packet = load_json(packet_path)
         scene_id = packet["scene_id"]
         state = load_json(STATE)

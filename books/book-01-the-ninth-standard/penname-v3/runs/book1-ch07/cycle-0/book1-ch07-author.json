@@ -1,0 +1,51 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch07-author-interrupted-c0-1789282426",
+  "scene_id": "book1-ch07",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-07-the-suppression-order.md",
+  "word_count": 5395,
+  "obligations": [
+    {
+      "obligation": "Sen orders conservative training limits. Kade hears a distorted version. Campus interprets it as institutional suppression. End Act I: Kade decides if they want him last, he will climb anyway.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    },
+    {
+      "obligation": "Preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    },
+    {
+      "obligation": "Deliver all chapter-assigned payoffs without advancing later-book answers.",
+      "status": "NOT_APPLICABLE",
+      "evidence": "Author self-report was interrupted after prose write; Sol editor must verify this obligation directly from the manuscript."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [],
+  "deviations": [
+    "Fable session limit interrupted the structured self-report after the prose write; acceptance is delegated to independent Sol review."
+  ],
+  "blockers": []
+}

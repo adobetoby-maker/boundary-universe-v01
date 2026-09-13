@@ -12,6 +12,7 @@
     "registry": "9cab5f30f45e9eed7c8aa1de28e37a1d6c60398a136f17005abf3ba50594b43a"
   },
   "modules": [
+    "combat",
     "progression",
     "moral-choice"
   ],
@@ -130,13 +131,21 @@
     }
   ],
   "verified_findings": [],
-  "exceptions": [],
+  "exceptions": [
+    {
+      "id": "owner-action-length-policy-2026-09-13",
+      "approver": "Toby Anderton (owner)",
+      "scope": "Upper word-count tolerance for a fight or embodied-action chapter",
+      "authority": "Direct owner instruction: scenes with fight or action scenes can be longer.",
+      "reason": "Protect action geography, escalation, tactical reversals, cost, choice, and aftermath from arbitrary compression."
+    }
+  ],
   "output": {
     "draft_path": "penname-v3/manuscript/chapter-07-the-suppression-order.md",
     "report_path": "penname-v3/reports/current/book1-ch07-author.json",
     "editor_report_path": "penname-v3/reports/current/book1-ch07-editor.json",
     "verifier_report_path": "penname-v3/reports/current/book1-ch07-verifier.json",
     "target_words": 4900,
-    "tolerance_percent": 12
+    "tolerance_percent": 25
   }
 }

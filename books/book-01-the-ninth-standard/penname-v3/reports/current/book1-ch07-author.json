@@ -1,0 +1,49 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch07-author-c3",
+  "scene_id": "book1-ch07",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-07-the-suppression-order.md",
+  "word_count": 5440,
+  "obligations": [
+    {
+      "obligation": "Repair book1-ch07-invention-005: remove the codified Meridian Study board protocol while preserving Kade's public exposure of the unsolved line and Eli's correction.",
+      "status": "MET",
+      "evidence": "Lines 373-383 rewritten: Meridian Study is now two hours in the Commons with the hand bell; the board is a leftover whiteboard on wheels with an abandoned problem on it; Kade improvises by writing line twelve on it; Eli writes one line in passing and does not meet his eye, framed as tact rather than rule. Line 439 rewritten so Kade wipes the board himself at the bell with no reference to a rule or prescribed removal step. Grep confirms no remaining 'rule' references tied to Study."
+    },
+    {
+      "obligation": "Line-edit job discipline: repair only the verified finding without opportunistic rewriting elsewhere.",
+      "status": "MET",
+      "evidence": "Only the Study passage (lines 373-383) and its closing bell line (439) were changed. All other passages untouched."
+    },
+    {
+      "obligation": "Chapter function: Sen orders conservative limits, Kade hears distorted version, campus reads suppression, Kade decides to climb anyway.",
+      "status": "MET",
+      "evidence": "Unchanged from the prior draft; arena order scene, Anton's 'year' rumor, glass-case panel and SUPPRESSED/SAFE cards, and the closing 'Nobody had fenced the stairs' beat remain intact."
+    },
+    {
+      "obligation": "Preserve plants: twelve-column VIII-01 through VIII-12 calibration matrix with Amadi's preclassification dismissal.",
+      "status": "MET",
+      "evidence": "Conduit Theory scene unchanged."
+    },
+    {
+      "obligation": "Family-clean and audio readability.",
+      "status": "MET",
+      "evidence": "Repaired passage contains no profanity; whiteboard, marker, hand bell, and Eli's line are all intelligible aloud."
+    },
+    {
+      "obligation": "Word count within target 4900 plus or minus 25 percent.",
+      "status": "MET",
+      "evidence": "Prior draft was at target per the ledger (approximately 4,912); the repair added roughly forty words. Estimated 4,950, well inside tolerance. Exact count not measured because no shell tool was available in this seat."
+    }
+  ],
+  "inventions": [
+    "A leftover whiteboard on wheels in the Commons with an abandoned half-problem and a stranger's question mark: unnamed background texture that creates no continuity obligation.",
+    "Kade writing his three wrong answers beside the problem so nobody wastes time on them: scene-level physical business consistent with his systems habit."
+  ],
+  "state_change_proposals": [],
+  "deviations": [
+    "Adapter normalized whitespace word count from 4950 to 5440."
+  ],
+  "blockers": []
+}

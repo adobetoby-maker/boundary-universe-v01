@@ -29,6 +29,21 @@ remaining verified defect. Review must cover:
 The editor must preserve recorded strengths during repair. A preference without
 a violated contract is a concern, not a repair ticket.
 
+## Action-length policy
+
+The ordinary chapter band is the architecture target plus or minus twelve
+percent. A chapter designated for fight or embodied action may use an upper
+tolerance of twenty-five percent when the additional space materially supports
+action geography, escalation, tactical reversals, cost, choice, or aftermath.
+This is permission, not a padding target: the editor must still file a length or
+compression defect when the extra prose repeats beats, delays the turn, obscures
+the action, or exists only to enlarge the chapter.
+
+A scheduled major set piece must not be compressed merely to satisfy the
+ordinary band. Its packet records the expanded ceiling and the owner's policy
+exception so the author, editor, verifier, and archived run share the same
+acceptance contract.
+
 ## Larger-scope gates
 
 After Chapters 7, 14, 24, and 33, run an act audit covering thread debt,
@@ -39,4 +54,3 @@ audio readability, metadata, and downstream continuity.
 
 Only the locked rewritten manuscript may replace `../manuscript/`. The original
 edition remains recoverable in Git history and on the branch base.
-

@@ -3,7 +3,7 @@
   "scene_id": "book1-ch07",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "line_edit",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -12,6 +12,7 @@
     "registry": "9cab5f30f45e9eed7c8aa1de28e37a1d6c60398a136f17005abf3ba50594b43a"
   },
   "modules": [
+    "combat",
     "progression",
     "moral-choice"
   ],
@@ -121,16 +122,39 @@
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-06-forty-seven-seconds.md",
       "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Current rewrite to repair",
+      "path": "penname-v3/manuscript/chapter-07-the-suppression-order.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
-  "exceptions": [],
+  "verified_findings": [
+    {
+      "id": "book1-ch07-invention-005",
+      "severity": "MEDIUM",
+      "gate": "Invention budget",
+      "evidence": "penname-v3/manuscript/chapter-07-the-suppression-order.md:373-383: Meridian Study had a rule, and the rule had a board… “Stuck goes on the board. One line each, no talking, no exceptions.”… Anyone stuck put the problem up. Anyone passing could fix one line, in silence, and walk on. Verification: The cited passage accurately establishes a repeatable Meridian Study procedure: a scheduled bell, named board, mandatory silence, one-line contributions, and prescribed problem posting. The frozen source establishes Meridian Study and its bell, but not this multi-part board protocol. Because the packet expressly forbids new rules and permits background texture only when it creates no continuity obligation, the invention-budget breach and claimed continuity consequence follow. The required report could not be written to the declared path because the workspace is read-only.",
+      "consequence": "The academic-help beat remains a durable, codified House ritual with several explicit procedures, creating continuity obligations beyond the permitted scene-level texture.",
+      "repair_target": "Preserve Kade’s public act of exposing the unsolved line and Eli’s correction, but present the board interaction as ordinary or improvised activity without declaring a repeatable House rule, mandatory silence, or prescribed removal step."
+    }
+  ],
+  "exceptions": [
+    {
+      "id": "owner-action-length-policy-2026-09-13",
+      "approver": "Toby Anderton (owner)",
+      "scope": "Upper word-count tolerance for a fight or embodied-action chapter",
+      "authority": "Direct owner instruction: scenes with fight or action scenes can be longer.",
+      "reason": "Protect action geography, escalation, tactical reversals, cost, choice, and aftermath from arbitrary compression."
+    }
+  ],
   "output": {
     "draft_path": "penname-v3/manuscript/chapter-07-the-suppression-order.md",
     "report_path": "penname-v3/reports/current/book1-ch07-author.json",
     "editor_report_path": "penname-v3/reports/current/book1-ch07-editor.json",
     "verifier_report_path": "penname-v3/reports/current/book1-ch07-verifier.json",
     "target_words": 4900,
-    "tolerance_percent": 12
+    "tolerance_percent": 25
   }
 }
