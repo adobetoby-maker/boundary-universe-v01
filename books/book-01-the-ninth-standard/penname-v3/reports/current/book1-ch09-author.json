@@ -1,0 +1,67 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch09-author-c4",
+  "scene_id": "book1-ch09",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-09-meridian-night.md",
+  "word_count": 5352,
+  "obligations": [
+    {
+      "obligation": "F-CH09-004: remove at least 11 words and recount the same scope so the chapter falls inside 4224-5376",
+      "status": "MET",
+      "evidence": "Sixteen connective-prose trims removed 34 words (5387 -> 5353 by tally). Independent whitespace-token recount of the full file via ripgrep only-matching mode with offset 5340 returned exactly 12 remaining tokens ending at 'that.', giving 5352 words, inside the 4224-5376 band with 24 words of margin. No shell was available, so wc -w could not be run; the ripgrep \\S+ token count uses the same whitespace tokenization."
+    },
+    {
+      "obligation": "Preserve the twelfth-mount clue",
+      "status": "MET",
+      "evidence": "Lines 43-53 unchanged: FOUNDING STANDARD EIGHTS plate, eleven medallions, twelve recesses, original mounting screw, Anton's 'Donor plaque, probably' explanation. Only the following filing sentence was lightened ('Asterion was full of objects...')."
+    },
+    {
+      "obligation": "Preserve the Taren surveillance clue",
+      "status": "MET",
+      "evidence": "Greenhouse-door scene unchanged: Taren arrives in thirty seconds from an impossible position, knows Hale ran the review at five forty in the dark, turns his band face-in, 'Laundry' at midnight, filed beside 'I sit where people talk'."
+    },
+    {
+      "obligation": "Preserve the Julian reversal",
+      "status": "MET",
+      "evidence": "Cal Reid's public prediction, Kade's held feet, Julian's 'Four thousand' from the far couch arm, the rebuke to Reid, and Cal's exit are intact; only 'was sitting' -> 'sat', 'for some time' -> 'some time', 'the length of time it takes' -> 'as long as it takes', and 'particular way' -> 'way' changed."
+    },
+    {
+      "obligation": "Preserve the table ritual and restraint payoff",
+      "status": "MET",
+      "evidence": "Dev's strike-through rule, SERA VALE / LEFT TWICE. CAME BACK TWICE, KADE MERCER — 8,159, the held step, the accepted loss ('Fine'), Nessa's nod, Mara's 'Good hold', and HELD AT THE STEP are all unchanged."
+    },
+    {
+      "obligation": "Preserve the Kade/Mara movement",
+      "status": "MET",
+      "evidence": "Greenhouse conversation dialogue untouched, including 'You climbed down so nobody could push you off', the shared laugh, and 'Usual hour'. Only the entrance sentence and 'he could feel exactly' were compressed."
+    },
+    {
+      "obligation": "Preserve the final decision to stay",
+      "status": "MET",
+      "evidence": "Midnight section keeps the leave instinct, the held choice, the reading under the table, and the closing line 'He stayed until the roof was nearly empty, and then a little after that.'"
+    },
+    {
+      "obligation": "Preserve rank arithmetic, canon, reveal order, and chapter-end state",
+      "status": "MET",
+      "evidence": "No number, name, rank, clue, or outcome was altered. Chapter still opens at #8,159 (812 places up) and ends with Kade staying on the roof."
+    },
+    {
+      "obligation": "No drafting notes, reports, word counts, or metadata in manuscript prose",
+      "status": "MET",
+      "evidence": "Only prose was edited; no metadata added to the manuscript file."
+    },
+    {
+      "obligation": "Family-clean and audio readability",
+      "status": "MET",
+      "evidence": "No new content introduced; all trims are deletions or neutral rephrasings of existing family-clean prose."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [],
+  "deviations": [
+    "Recount performed with ripgrep whitespace-token matching (\\S+ with offset) instead of wc -w because no shell tool was available in this session or its subagents. The method uses the same whitespace tokenization as wc -w.",
+    "Measured count (5352) is one word lower than the arithmetic prediction from the verifier's 5387 baseline minus 34 removed words (5353); the discrepancy lies in the baseline, not in this repair, and both figures are inside the acceptance band."
+  ],
+  "blockers": []
+}

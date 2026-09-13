@@ -1,0 +1,89 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch09-author-recovery-c2-1789316738",
+  "scene_id": "book1-ch09",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-09-meridian-night.md",
+  "word_count": 5387,
+  "obligations": [
+    {
+      "obligation": "Social breathing room. Party, academy rituals, status anxiety, first real Kade/Mara conversation. Julian unexpectedly prevents Kade's public embarrassment.",
+      "status": "MET",
+      "evidence": "Draft lines 5-31 (Commons, ladder number, Sera's jobs board, Nessa explains Meridian Night); 35-83 (Kade goes up unasked, Sera's 'paying isn't a third option' read, status anxiety made physical: on his toes holding a ladder); 87-129 (table carry and underside-signing ritual with Dev Patel); 133-181 (rooftop party, Mina's First Impression game, Cal Reid publicly names Kade 'The Zero' and the yellow line; Julian's 'Four thousand' from the far couch arm cuts it off before Kade answers, lines 167-177); 231-301 (Settle the Table cup race; harmless competition, Kade's team loses); 307-357 (greenhouse: first real Kade/Mara conversation about why each did or did not write a rank)."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Staging is re-authored throughout: Sera's Commons jobs board, ribbon-line anchored on the founders' board, table carried up the tower stair with strike-only-on-Meridian-Night rule, Julian intervening as a guess in a game, 'Settle the Table' cup race replacing the source ribbon relay, greenhouse conversation, under-table coda with 'HELD AT THE STEP'. The source-echo dialogue flagged in the prior recovery report (Mara's 'inefficient' / 'delightful' father exchange) is no longer present; draft 321-323 restates the father fact in new words. The source's Mina-prompted signing (source line 279) is replaced by Dev's invitation during the carry (draft 97-117). Author self-assessment; editor should diff against the frozen source."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Rank 8,159 (draft 7, 121) matches STATE_LEDGER line 207 'Ch. 9: #8,159'; 812 places (draft 9) equals 8,971 (STATE_LEDGER line 206) minus 8,159. Twelfth Standard Eight clue 2 per CLUE_LEDGER line 20: eleven medallions, twelfth original recess, 'donor plaque, probably' (draft 43-57). Taren access clue: knows the five-forty review (ch08 line 513) he was not at, band turned face-in, 'Laundry' (draft 367-377), filed beside ch08's 'I sit where people talk' (ch08 line 321) and the nine-thousand-one-hundred-twelve note (ch08 line 327). Julian's father holding at the House office, second call (draft 207-211), unnamed. Mara rank seven and her father's 'acceptable' call (draft 319-323). Sera 'LEFT TWICE. CAME BACK TWICE.' (draft 119). Dev Patel 6,440 struck to 1,998 (draft 109-111) matches source lines 323-325. Cal Reid at 183 matches source line 431. Mira Chen in sixty-four seconds (draft 401) matches ch08 line 261. No Boundary use; yellow line and Sen's oversight referenced only as Cal's taunt (draft 159); ribs still cost on the tower stair (draft 13, 95). Kade's team loses (draft 275-287). Chapter-end: accepts the roof without paying for it, applies Mara's choose-before-planting correction in harmless competition (draft 103, 261, 273), chooses to stay after the party (draft 385-417)."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third, past tense, Kade throughout; no villain or omniscient viewpoint. Receipts: the race is lost, the ribs talk on the stair, Julian's rescue is framed as self-interest ('Selfish is reliable', draft 199), Mara's praise is limited to 'It was one step' (draft 347). Rule-bound texture: strike-only-on-Meridian-Night, 'never rub one out', Taren's 'It is now' rulings. Practical attention: feet, heels, the lip at the roof door, the cup's slope, Julian's flat feet on a couch arm (draft 185-187). Author self-assessment; editor verifies."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "Full read of draft lines 1-417: no profanity, sexual content, or gore; no drafting notes, counts, or metadata in prose. All named characters (Taren, Eli, Sera, Nessa Kim, Anton Bell, Dev Patel, Mina, Cal Reid, Julian Cross, Mara, Hale, Park, Sen, Mira Chen) pre-exist in the frozen source, prior rewritten chapters, or the registry. Two-person exchanges alternate cleanly and multi-speaker scenes are tagged. Numbers are spelled out in narration and dialogue except the three table inscriptions (draft 109, 111, 121) and the ladder figure at draft 7, which a narrator can read aloud. Scene breaks are plain '---'; italic sibling messages (draft 3, 303) continue the established device. Production spec not re-read this pass; assessed against the packet's stated requirements."
+    },
+    {
+      "obligation": "Plants: preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
+      "status": "MET",
+      "evidence": "Twelfth Standard Eight pre-payoff clue 2 (CLUE_LEDGER line 20) delivered at draft 43-57 through physical business (ribbon anchor on the twelfth screw) and dismissed in-scene as a donor plaque; Kade files it without pursuing it (draft 57). Taren information-access plant reinforced at draft 367-377. Julian family-pressure plant at draft 207-219. Mara's father and 'a system is honest when it agrees with him' at draft 323."
+    },
+    {
+      "obligation": "Payoffs: deliver all chapter-assigned payoffs without advancing later-book answers.",
+      "status": "MET",
+      "evidence": "Julian's reversal delivered at draft 167-177 and explained on his own terms at 189-199 with no hint about Lucian Cross beyond the unnamed father call. Nothing about the twelfth Standard Eight, Taren's handler, or Alaric Vey is explained. Julian's 'four thousand at midyear' is a character prediction, not a canon projection, and does not conflict with the ledger's later rank entries."
+    },
+    {
+      "obligation": "Word-count acceptance band: 4,224-5,376 words (target 4,800, tolerance 12%) per packet output and finding F-CH09-004.",
+      "status": "MISSED",
+      "evidence": "Exact whitespace-delimited count is 5,387, which is 11 words over the 5,376 ceiling and 587 over target. This resolves the bulk of F-CH09-004 (down from 6,539, a cut of 1,152 words) but does not clear the gate. Count method: no shell was available to this session or its subagent, so tokens were enumerated with ripgrep (-o on \\S+, one token per output line); offset 5386 returned the final token 'that.' on line 417, offset 5387 returned no entries, and offset 5373 returned 'He', the first of the 14 tokens on line 417, confirming the tail arithmetic. The count includes the title line and nine '---' separators, which wc -w also counts."
+    }
+  ],
+  "inventions": [
+    "Sera's hand-lettered Meridian Night jobs board in the Commons (HEATERS AND LIGHTS: BELL, FOOD: KIM, SOUND: ANYONE BUT NAVARRO, TABLE: PATEL); Kade's name deliberately absent to drive the 'paying isn't a third option' beat.",
+    "Meridian Night trigger as stated by Nessa: the House rose on the week's ladder (second in the engineering relay, three housemates placed) and Kade's climb counted toward it. House texture, not universe rule.",
+    "Light-ribbon line from the antenna mast to the greenhouse frame, anchored by Anton's carabiner to the original screw in the founders' board's empty twelfth recess. Staging for the locked clue, not a change to it.",
+    "Sera's 'Toes' read of Kade holding the ladder, and her 'Nobody sent you a bill' speech; 'carry the light end' / 'Find out'.",
+    "Table ritual details: the rank table is a non-folding iron-legged slab carried up the tower stair by two people; ranks may be struck only on a Meridian Night and never erased, new rank written beside the old; 'Meridian rounds up' for first-month eligibility; underside inscriptions of 'what they were bad at'; Dev sat on his May strike until September.",
+    "Sera's underside inscription 'LEFT TWICE. CAME BACK TWICE.' as the staging of her source 'left campus twice' history; other anonymous inscriptions (CHALLENGED SIX HUNDRED, WOKE UP IN MEDICAL, WRONG SEMINAR. STAYED ANYWAY, FAILED CONDUIT THEORY TWICE) are unnamed texture.",
+    "Mina's First Impression rank-guessing game as the opening Cal Reid uses; Cal's 'since last year' at 183 and 'He asked Nessa where the Meridian roof was' are new color, not ledger facts.",
+    "Julian's 'four thousand at midyear' prediction, his 'people who've finished improving are restful to be around and bad for me' rationale, dumplings on a paper plate, flat feet on the couch arm, and his 'I'll call at eleven. Eleven exactly' reply to the father message.",
+    "'Settle the Table' cup-carry race with Taren's invented rules and the recurring 'That's not a rule' / 'It is now' exchange; team composition (Mara, Nessa, Eli with Kade; Anton, Dev, Cal, Mina opposite); Kade holds at the terrace step and lets the cup choose his angle; his team loses by half a second on Taren's 'splash isn't a spill' ruling; Kade lets the argument go with 'Fine'.",
+    "Kade's greenhouse confession that at Northline he made his numbers bad on purpose, did not turn things in, left class, and quit before anyone could tell him to. This sharpens ch08's 'At Northline he had refused to care about anything' (ch08 line 275) into specific behavior. Disclosed for editor judgment as characterization that borders on backstory.",
+    "'A fall Hale had had to teach him at seventeen' (draft 401) as one of the things Kade was bad at. Implies Kade's current age is seventeen or that the Hale footwork happened at that age; editor should confirm against the bible.",
+    "Kade's underside inscription 'HELD AT THE STEP' and lying under the table at the end; Eli carrying Dev's marker; Eli asking to put it in the model.",
+    "Tableau of Julian holding Anton's ladder after the ribbon line drops onto the food; the simultaneous Kade/Mara laugh and mutual noticing, reset by Mara.",
+    "Taren turning his wrist band face-in and answering 'Laundry' at midnight; staging of the existing Taren access clue.",
+    "Sibling messages twenty-three and twenty-four, continuing the established device, including the 'She said she could hear a roof' line."
+  ],
+  "state_change_proposals": [
+    "Kade's rank at chapter 9 close remains #8,159 (no ledger change); the draft states the climb as 812 places from #8,971 and 'fifteen months, five days' as Taren's running count.",
+    "Kade has signed the underside of the Meridian rank table: 'KADE MERCER — 8,159' with 'HELD AT THE STEP' beneath it and no strike yet. Durable object fact available for later payoff.",
+    "Dev Patel struck 6,440 and wrote 1,998 on the table tonight (source fact restated).",
+    "Table ritual rule as staged: ranks may be struck only on a Meridian Night and are never erased; new rank written beside the old. Proposed as House texture, not universe canon.",
+    "Julian Cross publicly predicted Kade at four thousand by midyear, in front of Cal Reid, Mina, and the couch. Non-binding, but citable later.",
+    "Julian told the House office he would return his father's call at eleven exactly; second call of the night. Adds to the existing family-pressure trail without naming Lucian Cross.",
+    "Taren clue trail: Taren knows Hale ran Kade's review at five forty in the dark and turns his band face-in when it lights at midnight; Kade files it beside the ch08 'I sit where people talk' note and the nine-thousand-one-hundred-twelve note.",
+    "Kade/Mara movement: first real conversation completed; Mara states they are 'doing the same thing from different ends'; 'Bay One, usual hour' continues; a mutual laugh was noticed by both and reset by Mara; Kade no longer reads her exits as dislike.",
+    "Sera's 'left twice, came back twice' first-month history is now visible on the table underside rather than told as a story.",
+    "Kade's chapter-end delta: stays on the roof after the party, does not check the stair for over an hour, and has mathematics at eight."
+  ],
+  "deviations": [
+    "Word count 5,387 exceeds the 5,376 ceiling by 11 words; F-CH09-004 (HIGH) is substantially reduced (from 6,539) but not resolved by this draft.",
+    "Race team composition and format differ from the source relay (Nessa and Dev swap sides relative to source lines 649-651; cup-carry instead of ribbon relay); the locked outcome (Kade's team loses, Kade holds his rear heel and lets the approach choose the angle) is preserved.",
+    "Cal Reid and Mina are frozen-source chapter 9 names but do not appear in NAME_REGISTRY.md; treated as existing characters per the source, not as new named characters. Registry gap remains flagged for the editor.",
+    "Prior-report residuals (gray shirts anchor, notation-as-drawing callback, greenhouse-glass rule, near-verbatim Mara father exchange) are no longer present in the current draft; they were removed in the cut and are not carried as deviations here."
+  ],
+  "blockers": [
+    "The draft is 11 words over the acceptance ceiling and cannot pass the word-count gate as written. A trim of at least 11 words (candidates: the 'Four in the afternoon' sentence at draft 55, the 'He stood there being read' beat at 73, or one sentence of the under-table inscription list at 389) would clear it. This recovery pass was instructed not to edit any file, so no trim was applied.",
+    "No shell was available in this session or to a delegated subagent; the exact count was obtained by ripgrep token enumeration with boundary confirmation at offsets 5373, 5386, and 5387. The editor should confirm with wc -w or Python split()."
+  ]
+}

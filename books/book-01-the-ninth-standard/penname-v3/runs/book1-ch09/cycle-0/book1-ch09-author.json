@@ -1,0 +1,72 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch09-author-recovery-c0-1789304676",
+  "scene_id": "book1-ch09",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-09-meridian-night.md",
+  "word_count": 6281,
+  "obligations": [
+    {
+      "obligation": "Social breathing room. Party, academy rituals, status anxiety, first real Kade/Mara conversation. Julian unexpectedly prevents Kade's public embarrassment.",
+      "status": "MET",
+      "evidence": "Setup labor with Anton/Nessa/Sera (draft lines 43-143); table-signing ritual with Mina, Dev Patel, J. Ramos (153-187); Cal Reid (#183) needles Kade about the Shah fight and his drink, Kade's Northline reflex stalls one beat, Julian Cross breaks it with 'You're blocking the food' (227-261); no-field paper-cup relay (343-469); first-month stories including Sera's (473-557); Kade/Mara at the east rail, 'Why Northline?' through 'I like knowing where I stand' (563-685); Kade stays until the roof is nearly empty (729-731)."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MISSED",
+      "evidence": "Honest self-assessment: scene order is identical to the frozen source and a large share of dialogue is carried verbatim or near-verbatim (e.g. 'Blue case'/'Other blue'/'It was blue before the roof got to it'; 'Advanced technical assessment'; 'An invitation isn't a debt, Mercer'; 'Gravity reversed'; 'You're blocking the food'; 'I track anomalies'; 'That sounds exhausting'; 'Do not touch that wire'; the entire relay call-and-response). Narration and interiority are rewritten in Author A voice, and fresh material exists (breakfast opening with Eli's model, mother-note interstitials, Julian's 'on a floor it's on the record' beat, Taren absorbing Lio's role, the bell count), but the chapter is closer to a densified re-staging than a fresh re-authoring. Editor should judge whether the dialogue retention exceeds the production spec's no-paraphrase bar."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Rank #8,159 and 812-place climb from #8,971 (arithmetic checks; STATE_LEDGER progression list and chapter 8 seam line 537). Cal Reid #183; Julian rank one; Mara rank seven (line 675); Dev Patel 6,440 to 1,998; J. Ramos 9,882 to 114. CLUE_LEDGER Ch. 9 twelfth-mount clue preserved with the donor-plaque dismissal (189-207). Julian's father calling the House office (307-319). Taren's wrist display and smooth 'No' (709-715). Sera left campus twice (495-511). Bell count 15 months 5 days is exactly 7 days after chapter 8's 14 months 28 days. End state matches: name under the table, goes back up, stays until nearly empty. No Boundary use occurs; ribs still noted as a cost on the tower stair (line 9). Three callbacks are NOT established in rewritten chapters 1-8 and may dangle: 'the foam blocks' and 'the gray shirts' (line 541) and Sera saying something 'the way she said heels' (line 139); grep of penname-v3/manuscript chapters 1-8 finds none of them."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Self-assessment only; editor verifies. Receipts: the relay footwork is explicitly the heel-uncommitted correction Mara drilled in chapter 8 (draft 415-425; ch08 line 223 'Mara's shoe beside his had made him choose before he planted'); Anton owns the repair and Kade only held the frame (89); the team loses the relay through Eli, so no unearned win. Close-third attention throughout (Kade reading Julian's micro-reaction, 309; checking exits before the relay, 525). Interstitial mother notes continue the device established in chapters 5-8."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "No profanity, sexual content, or gore; drink is explicitly 'Legal' fizzy fruit. Audio risk to flag: several long untagged two-speaker runs (Cal/Kade 231-245, Kade/Julian 281-305, Kade/Mara 579-609 and 627-635, Kade/Taren 687-699) rely on alternation; the all-caps table inscriptions and italic mother notes read cleanly aloud."
+    }
+  ],
+  "inventions": [
+    "Opening breakfast scene: Eli's model announces 8,159 and the 812-place week; the off-page receipt 'seven ranked fights since the review, five wins, two losses' is invented to account for the locked climb from 8,971 (source only says 'this week').",
+    "Taren's 7:55 bell count 'Fifteen months, five days' (extends the chapter 8 device; arithmetic follows from 14 months 28 days plus one week).",
+    "Mother-note interstitials 'Twenty-three' and 'Twenty-four' (continuation of the numbered-note device from chapters 5-8, not in the source chapter), and 'His mother was counting the times he told the thing. That made three.'",
+    "Taren hosts first-month stories and the toast in place of the source's background fourth-year Lio (no new name; Lio removed).",
+    "Julian's added beat: 'Because on a floor it's on the record,' and Kade's later reflection that Julian 'put a plate in the way' as a deliberate choice.",
+    "Kade's inference that Julian's father has called before and the House office knows to tell him (grounded in the passing student's 'again').",
+    "Timeline lines 'You've been here four weeks' and 'known four weeks' (source says two weeks); aligned to the rewritten seam where chapter 8 already references 'two weeks ago' mid-chapter plus a further week.",
+    "Minor texture: Kade carried four tables; the fourth-year Dev's friends haul him up; Standard Five upper-year game detail; couches facing the water 'as if the water were a screen'; Mina's 'Room.'; 'Fifteen months, five days ... nobody up here was counting' closing image."
+  ],
+  "state_change_proposals": [
+    "Kade Mercer rank: #8,159 (up 812 from #8,971), consistent with STATE_LEDGER progression list.",
+    "Bell count at chapter open: 15 months, 5 days silent (chapter 8 close was 14 months, 28 days).",
+    "Kade signed the underside of the Meridian food table: 'KADE MERCER — 8,159' and 'WASHING MACHINE 1 — MERCER 0'; he knows crossing out is the ritual, erasing is not.",
+    "Kade has met Julian Cross in person; Julian stopped Cal Reid's needling by pretext ('blocking the food') and Kade read it as deliberate. Kade heard that Julian's father called the House office 'again' and saw Julian's controlled reaction.",
+    "Cal Reid (#183) is now a known hostile acquaintance who watched the end of the Shah bout and expects Sen to 'take it away'.",
+    "Kade observed the twelfth empty mounting recess on the Founding Standard Eights board; Mina dismissed it as a donor plaque; Kade filed it and dropped it (clue planted, not pursued).",
+    "Kade observed Taren dismiss a wrist message and answer 'No' too smoothly; Kade filed it alongside the earlier 9,112 note.",
+    "First honest Kade/Mara exchange: Kade told Mara he made school optional at Northline because 'I liked being the reason'; Mara answered 'That sounds exhausting' and 'I like knowing where I stand'; they laughed at the same moment, she reset and left. Taren has openly named Kade's interest in Mara.",
+    "Kade knows Sera left campus twice in her first month and stayed to deny an instructor the decision.",
+    "Kade told the roof his honest first-month line (bad at things feels like proof he shouldn't be here) under a joke; mother-note count advanced to 24.",
+    "Kade applied Mara's heel-uncommitted correction at speed in a no-field relay and chose not to argue the result.",
+    "Kade lost twenty minutes of self-monitoring at the party and stayed until the roof was nearly empty rather than leaving before attachment became a problem."
+  ],
+  "deviations": [
+    "LENGTH: draft is 6,281 words against a 4,800 target with 12% tolerance (band 4,224-5,376); it is roughly 31% over target. This is not a fight or embodied-action chapter, so the 25% upper tolerance does not apply, and even that ceiling (6,000) is exceeded.",
+    "FRESHNESS: obligation 2 self-reported as MISSED; heavy verbatim dialogue retention from the source across every scene (see obligation evidence).",
+    "Mara says Kade was 8,971 'last week' instead of the source's 'yesterday'; the opening frames the climb as a week of ranked fights. Internally consistent with chapter 8's close and the bell arithmetic, but differs from the source's phrasing.",
+    "'Four weeks' on campus replaces the source's 'two weeks' (Mara line 389, Taren line 703), following the rewritten chapter 8 timeline.",
+    "Background fourth-year Lio removed; his announcer and toast role given to Taren.",
+    "Third-year's starting rank rounded to 'nine thousand seven hundred' from the source's 9,744 (background texture, not a ledger fact).",
+    "Source's Ms. Alvarez memory ('Try.') replaced as the prompt for honesty by the mother-counting motif from the rewrite (ambulance-bay bench, chapter 8 line 423).",
+    "'Zero Protocol' rendered as 'Zero' (line 469), matching the rewrite's chapter 6 usage ('ZERO IS CHEATING').",
+    "Callbacks to 'the foam blocks', 'the gray shirts', and Sera saying something 'the way she said heels' have no antecedent in rewritten chapters 1-8; they trace to the source edition and may need cutting or re-anchoring.",
+    "Word count was computed as the number of whitespace-delimited tokens via ripgrep (pattern \\S+, 6,281 matches, confirmed by offset probes); no shell was available to run wc -w. The two methods agree unless the file contains non-ASCII Unicode whitespace, which I did not observe."
+  ],
+  "blockers": []
+}
