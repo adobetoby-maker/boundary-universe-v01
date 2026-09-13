@@ -3,7 +3,7 @@
   "scene_id": "book1-ch08",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "line_edit",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -123,9 +123,24 @@
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-07-the-suppression-order.md",
       "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Current rewrite to repair",
+      "path": "penname-v3/manuscript/chapter-08-the-ladder.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
+  "verified_findings": [
+    {
+      "id": "book1-ch08-length-005-c4",
+      "severity": "MEDIUM",
+      "gate": "Length and compression",
+      "evidence": "penname-v3/manuscript/chapter-08-the-ladder.md:1-565: Full declared manuscript scope: deterministic word_count=7283; approved 25% ceiling over the 5,800-word target=7,250. Verification: The count reproduces exactly and the arithmetic confirms a 33-word breach of the measurable maximum. Repair is required. The verifier report could not be written to its declared path because the workspace is read-only.",
+      "consequence": "The repair substantially resolves the earlier overlength defect, but the chapter still exceeds the explicit owner-authorized maximum by 33 words and therefore does not yet satisfy its measurable acceptance contract.",
+      "repair_target": "Remove at least 33 words without cutting fight geography, progression receipts, recovery costs, Eli's model, or the revised closing state."
+    }
+  ],
   "exceptions": [
     {
       "id": "owner-action-length-policy-2026-09-13",

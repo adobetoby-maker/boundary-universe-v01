@@ -1,0 +1,39 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch08-author-c4-length-repair",
+  "scene_id": "book1-ch08",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-08-the-ladder.md",
+  "word_count": 7231,
+  "obligations": [
+    {
+      "obligation": "book1-ch08-length-005-c4: remove at least 33 words without cutting fight geography, progression receipts, recovery costs, Eli's model, or the revised closing state",
+      "status": "MET",
+      "evidence": "22 line-level trims removing 52 words total (verifier baseline 7,283 minus 52 = 7,231, under the 7,250 ceiling by 19). Cuts are redundant intensifiers and restated clauses only: 'all his life that', 'it turned out', 'at all', 'with one hand', 'without a pause', 'every single thing'->'everything', 'truly', 'slowly', 'for a long moment', 'once', 'and did not look away', 'and it came', 'behind', 'what he was waiting for', 'where somebody had put it'->'from', 'when he got back', four instances of 'exactly'/'find out'->'see', leading 'And', 'had read'->'read'. Every fight exchange, score line, rank number, Park hand check, Eli model column, Taren note, Elena call, and the closing panel beat are unchanged in substance. Word count is arithmetic from the verifier baseline plus per-edit deltas; no shell tool was available in this seat for an independent machine count."
+    },
+    {
+      "obligation": "Chapter function: challenge rules, early climb, multiple short fights showing learning, Eli's private tactical model",
+      "status": "MET",
+      "evidence": "Untouched by this repair; all fight sequences (Cole simulation, Larson, Mills, Cole rematch, Chen, Knox, Rusk), Eli's band explanation, and the model's growth from six columns to version nine remain intact."
+    },
+    {
+      "obligation": "Preserve durable facts, rank arithmetic (#10,482 to #8,971), relationship movement, clues, power cost, chapter-end state",
+      "status": "MET",
+      "evidence": "No rank line, conditional-access notice, review clock, Taren note, TRANSFER OPPORTUNITIES boundary, or closing glass-case beat was altered."
+    },
+    {
+      "obligation": "Family-clean and audio-readability",
+      "status": "MET",
+      "evidence": "No new content added; only deletions of adverbs and redundant clauses. One comma added in 'Hale watched him wait, and understood.' for spoken rhythm."
+    },
+    {
+      "obligation": "Do not include drafting notes or metadata in manuscript",
+      "status": "MET",
+      "evidence": "Manuscript contains prose only."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [],
+  "deviations": [],
+  "blockers": []
+}

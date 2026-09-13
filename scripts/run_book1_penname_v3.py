@@ -520,7 +520,17 @@ deviations, and blockers. The editor will independently verify everything.
 
     def restart_with_fresh_approach(self, packet_path: Path) -> None:
         state = load_json(STATE)
-        fresh_count = sum(1 for item in state["history"] if item["event"] == "fresh_approach")
+        # Repair ceilings are scene-local.  Limit the count to history recorded
+        # after the most recent next_scene transition so a difficult earlier
+        # chapter cannot consume the recovery budget of every later chapter.
+        scene_history = state["history"]
+        for index in range(len(scene_history) - 1, -1, -1):
+            if scene_history[index]["event"] == "next_scene":
+                scene_history = scene_history[index + 1 :]
+                break
+        fresh_count = sum(
+            1 for item in scene_history if item["event"] == "fresh_approach"
+        )
         if fresh_count >= 2:
             raise LoopError(
                 f"{state['active_scene_id']}: two fresh approaches exhausted; preserve evidence for the next heartbeat"

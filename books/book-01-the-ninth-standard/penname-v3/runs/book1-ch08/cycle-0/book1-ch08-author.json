@@ -1,0 +1,63 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch08-author-recovery-c0-1789298622",
+  "scene_id": "book1-ch08",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-08-the-ladder.md",
+  "word_count": 7283,
+  "obligations": [
+    {
+      "obligation": "Challenge rules and early climb. Multiple short fights show learning, not effortless dominance. Eli starts keeping a private tactical model.",
+      "status": "MET",
+      "evidence": "Rules delivered on the bridge in Eli's dialogue (lines 43-61: bands, rerating, competitive confidence, open challenges). Climb runs unranked losses to Cole (78s), a Perception first-year (52s), and a third (91s) at lines 5-39; four days of unglamorous conditioning (81-101); first sim win at 105-113; ranked bouts vs Larson 10,401 (135-153), Mills 10,177 (157-183), Cole 9,982 (187-241); losses to Chen 9,721 (247-283), Knox 9,433 (289), Rusk 9,112 (327-413). Each win carries a receipt (Larson: be early; Mills: take his square; Cole: neither brace nor yield) and each loss carries a named cause. Eli's model appears as six columns at 123-131, gains LESSON TRANSFER (181), challenge selection (277-283), the axis change (393-401, 471), and reaches version nine with 23 columns and TRANSFER OPPORTUNITIES (475-509)."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Verified finding book1-ch08-freshness-004-c3 is repaired: the source closing (manuscript/chapter-08-the-ladder.md:1917-1925, 'A ladder was just a system with ordered connections... good at systems') is gone. The new close (545-565) reaches the same forward ambition through a different image and order: Mara's 'Still an answer' on the right hand, the exhibit card cleared for an unnamed first-year, the band on his wrist with faces put to names, Larson's nine thousand crossed 'in the dark, on a ramp', and a stranger eating breakfast who does not know his name yet. Fresh staging throughout: Cole's hand-on-the-gate opening, Mills's warm square, the Cole rematch as brace/yield/stay, Rusk's crowd leaving before the handshake, Elena's board-is-not-the-job speech, the review as a rerun of the 5:40 loop. Honest caveat for the editor: opponent order, rank ladder, and several exchanges track the source by necessity (the 'Nine percent' / 'I know' exchange at 263-273, 'Keep the observations' / 'Promise' / 'I promise' at 497-509, the laundry gag at 287, Taren's three notes at 311-315) because they are locked beats; wording there is re-authored, not copied."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Rank arithmetic matches source line for line: Cole 10,311 first sim; sim win over 10,205; Larson 10,401; Mills 10,177; Cole 9,982; Chen 9,721 loss in 64s; 9,604; Knox 9,433 loss then rematch win; Rusk 9,112 open challenge lost 3-1; weekly rerating to 8,971 (source 1855; STATE_LEDGER.md:21 and :206). Sen's no-reproduce order preserved (495); Eli keeps the anomaly observations under an explicit no-experiment promise (497-509), matching the ledger end-state delta. Ribs bruised, cleared, no event (425). Yellow conditional line and field-technique prohibition stay in force after review (525). Mara's wrist correction and 'no longer heard that as dislike' preserved (301-305). Eli's model, Taren's notes, and Rusk's publicity motive preserved. Two staging changes from the source are listed under deviations for the editor to rule on: the review is staged as the 5:40 loop rerun instead of a tablet conversation beside the lower arena, and the Bell Watch count uses the rewrite's months-and-days form."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third on Kade throughout; no villain viewpoint; Rusk's motive is inferred by Eli and Taren, not narrated omnisciently (315, 335). Every win names its mechanism (Larson 143, Mills 171-179, Cole 223-233, Knox 307) and every loss names its cost (Chen 261, Rusk 375-379, 'At the desk. Before the tone.' 407). Boundary use costs remain on the page: Park's hand checks, the yellow line, Hale's hand beside the abort panel, the four anomalous moments unflagged but recorded (489-491). Self-assessed; the editor should verify voice against chapters 5-7."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "No profanity, no sexual content, injury limited to bruised ribs and an ice pack, no lingering gore. Board lines are short capitals a listener can parse (117-119, 145, 177, 241). Speaker changes are anchored by action beats in most exchanges. Audio risk to flag: two-person runs at 263-273 and 293-299 go several lines without attribution, and the italic sibling notes (3, 243, 541) rely on typography a narrator will need to cue by tone."
+    }
+  ],
+  "inventions": [
+    "Loop run times as progression receipts: 12:51 first run and 11:20 cohort median (17), 12:33 at the review with 'eighteen seconds' (519-523). The frozen source has no run times; the 5:40 conditioning slot and cohort benchmark come from the chapter 7 rewrite seam (chapter-07:91, :503).",
+    "Review staged as Hale rerunning the 5:40 loop with Park at the bell court (513-533) rather than the source's tablet exchange beside the lower arena (source 1809-1841). Outcome preserved: cleared to continue, same conditions, no event, no unsupervised field activity, no prohibited experiments.",
+    "Unranked simulation detail: Mason Cole's hand-on-the-gate opening and the 78-second board, a Perception first-year at 52 seconds, a third loss at 91 seconds, Park's 'Steady' hand-check ritual and 'Six days' (5-39, 113).",
+    "Sibling notes in italics opening, midpoint, and end (3, 243, 541), continuing the numbered-note convention established at chapter-07:3. Text is fresh.",
+    "Eli's model labels SELF-INFLICTED (125), CROWD TAX (477), the SEATS cell and WHO'S BUYING axis (393-401, 471), and the ME row for the declined fight (471). LESSON TRANSFER, 'Mercer gets clever here', TRANSFER OPPORTUNITIES, and the 23-column version nine are from the source.",
+    "Mills bout mechanics: the warm 'own square' he refills on, the six-breath fill count, and Kade standing on the square (161-179). Source keeps the win and the lesson-transfer line; the geography is fresh.",
+    "Cole rematch staging: brace-and-be-turned versus yield-and-be-walked, the equipment-check pause with the blank COLE: line, and holding the blue mark so each drive has less floor (213-239).",
+    "Elena's call moved to the ambulance-bay bench with the nurse-who-takes-every-shift speech, the 'That's twice' count, and 'You'd round down' (423-469). Source has the call, the ribs, the ice, the spreading-bruise instruction, and the twenty-minute rule.",
+    "Exhibit-card removal from the Commons panel and the unnamed last-ranked first-year (555-561), carried from the prior rewrite pass and re-staged; the glass case itself is seeded at chapter-07:173.",
+    "Bell Watch numbers 'Fourteen months, fifteen days' and 'Fourteen months, twenty-eight days' (85, 553), keyed to the rewrite's ch05-07 count rather than the source's 428 and 441 days.",
+    "Minor texture: Nessa Kim on the zero-field mat winning by less each afternoon (83), Taren's 'Holt is right about once a week' callback (305), Mara's foot beside his on the mat in Bay One (101). All use registry names; no new named character."
+  ],
+  "state_change_proposals": [
+    "STATE_LEDGER: record Kade's cohort loop times if the editor accepts them as durable: 12:51 baseline (chapter 7 week), 12:33 at the chapter 8 review, cohort median 11:20. Otherwise treat them as chapter-local texture.",
+    "STATE_LEDGER: Bell Watch stands at fourteen months, twenty-eight days on the morning after the chapter 8 rerating, following ch05 (fourteen months, nine days) and ch06 (fourteen months, ten days).",
+    "STATE_LEDGER: Kade's conditional line after review reads RANKED CHALLENGE ACCESS: CONDITIONAL and FIELD-ACTIVE TECHNIQUES: PROHIBITED PENDING REVIEW, unchanged by the ten-day review; Park's clearance is 'same conditions'.",
+    "STATE_LEDGER (relationship): Mae Larson has set a nine-thousand rematch marker; Mara has reopened Bay One at the usual hour with the line 'The pattern doesn't need ribs. It needs the decision.'; Eli holds an explicit promise not to drill, test, or stage anything on the TRANSFER OPPORTUNITIES observations.",
+    "CLUE_LEDGER: the four unflagged transfer anomalies now on record in Eli's model are Priya's forty-one seconds plus three later ranked bouts (a stumble that traveled, a block that sent an opponent sideways, a collision that felt lighter than the acceleration said); Kade was thinking about connection, not force, in each. No new answer is given."
+  ],
+  "deviations": [
+    "Length: 7,283 words by whitespace against a 5,800 target and the owner-authorized 7,250 ceiling (25 percent). The chapter is 33 words over the ceiling. Finding book1-ch08-length-005-c3 asked for at least 751 words cut from 8,001; 718 were cut. The editor must rule whether the remaining 33 words fall inside the action-length policy or require a further trim.",
+    "Review scene staged as the 5:40 loop rerun (513-533) instead of the source's exchange beside the lower arena. All clearance facts preserved; the 'praise written by lawyers' exchange is dropped.",
+    "Bell Watch is spoken as months and days (85, 553) rather than the source's 428 and 441 days, to stay consistent with the already-locked ch05-07 rewrites. The thirteen-day gap between the two calls matches the source.",
+    "Mara's closing breakfast beat replaces the source's 'What's your rank' / 'You're learning' exchange with the right-hand callback 'Still an answer' (545-549), and the 'I contain multitudes' line is dropped. Relationship movement (first unqualified approval) is preserved by a different route.",
+    "Elena's 'Yes, Nurse Mercer' and the break-room setting are replaced by the ambulance-bay bench; the source's 'Show me the ribs tomorrow if the bruising spreads' becomes 'If the bruise spreads past the line the doctor drew, medical.'"
+  ],
+  "blockers": []
+}
