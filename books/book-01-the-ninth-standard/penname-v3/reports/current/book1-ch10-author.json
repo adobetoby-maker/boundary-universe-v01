@@ -1,0 +1,66 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch10-author-recovery-c0-1789326428",
+  "scene_id": "book1-ch10",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-10-vector-class.md",
+  "word_count": 5804,
+  "obligations": [
+    {
+      "obligation": "Formal physics instruction exposes gaps in Kade's education. He is brilliant conceptually but weak in notation. Mara reluctantly tutors him after he helps her see a practical flaw.",
+      "status": "MET",
+      "evidence": "Vector Analysis opening (draft lines 5-107): Kade sees the instability but cannot write it, Mara feeds him lambda-three and the index correction, he ends with four pages of corrections to her one. Amadi's transcript interrogation and supplemental-module 'invoice' (111-135). Bay One scene (291-383): Kade spots the ownership flaw in the faculty two-operator schematic on Mara's tablet; she saves it with a note and only then offers the library session, framed as 'I'm protecting an assignment' (359-367). Library tutoring follows (387-513). Order is flaw first, tutoring second, matching the locked function literally."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Prose is newly written in continuous close-third paragraphs rather than the source's one-line stack; staging is restructured (flaw discovered on the mat before the library instead of on the walk out after it; stair exchange replaces corridor thank-you; letter fragments 25 and 26 open and bridge; Kade's spoken table/mast/cup analogy from chapter 9). Caveat for the editor: a number of locked dialogue beats are retained verbatim or near-verbatim because they carry the chapter's fixed logic (e.g. 'Elegance is compression without losing truth', the 'maybe / dangerously / you say impossible too fast' ladder, 'Anyone reading shouldn't have to reconstruct your mood', 'movement with uniforms', 'shared isn't the same as ownerless', Amadi's red note). Full source-vs-draft comparison should confirm this stays on the fresh side of the line."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Preserved: Owen Park rank 2,804 and House Sol (69, 281); Batra as clinic tutor, third-year (201); Nessa Kim, Taren, Sera, Eli in the Meridian study scene; 'FOUNDATIONS ARE LOAD-BEARING' clinic behind glass (183); Amadi's exact red note (625); twelve percent team score and 'Dangerous if generalized' (629-635); timed recitation, 43 seconds, second place behind Mara's team, Owen's corrected sign, 'praising the system for not depending on your pride' (661-725); Elena's Aaron discontinuity (engineering school, hated notation, nobody had mentioned school, 161-177) without naming Aaron; Vey parents in coupled-field systems and rank seven at entry (377-379); CLUE_LEDGER line 13 'multiple operators sometimes must be modeled as one active system' delivered at 601-603; STATE_LEDGER chapter 10 end-state delta (revisable shared-state model he can write, team correction, 'shared isn't the same as ownerless') delivered at 751-777. No new rank arithmetic, no Boundary use, no reveal spent. Incoming state honored: ribs (293), Bay One usual hour (291, 775), ambulance-bay call (149), letter count continuing from 24. Omissions listed under deviations are not in CLUE_LEDGER, CHAPTER_ARCHITECTURE, or NAME_REGISTRY continuity rows."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Self-assessment only; editor verifies. Victories carry receipts throughout: the third-place pair result, the clinic proof at twice the model length, Mara's 'Provisionally', the two-page note coming back red, second place in the recitation with Owen's sign correction credited. Close-viewpoint physical attention (stylus warm from Amadi's hand, ribs on the mat, the candy bar, library lights warming). Wonder is rule-bound: every model gain is tied to a stated assumption change. No omniscient explanation of Mara's or Amadi's motives."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "Case-insensitive profanity scan of the draft returned no hits; harshest language is 'stupid' (65, 95) and 'crimes' as a joke (285). No sexual content, no gore, no new named character (the feeder-program first-year and the Sol fourth-year are unnamed). Audio: scene breaks are marked, speakers are tagged at each exchange start, technical terms are explained in dialogue. Audio risk for the editor: several two-person volleys run six to twelve untagged lines (321-343, 419-425, 429-441, 583-599, 695-701); the italic letter fragments (3, 179) and Amadi's italic note (625) rely on a narrator cue, as established in chapters 8 and 9."
+    }
+  ],
+  "inventions": [
+    "Letter fragments 'Twenty-five' and 'Twenty-six' (lines 3, 179), continuing the sibling-message device established in the chapter 8 and 9 rewrites; content only echoes known state (the table, the module list, math at eight).",
+    "Bay One conditioning scene (291-383) as the staging for Mara's faculty schematic and Kade's flaw discovery, replacing the source's walk-out-of-the-library placement; Mara bringing a tablet to the mat is new business.",
+    "Stair exchange after class (137-145) replaces the source's corridor thank-you; Mara says 'Usual hour' instead of setting the library there. Library is set at the end of the Bay One scene for the following evening.",
+    "Kade's spoken analogy tying the chapter 9 'Settle the Table' mast turn and full cup to coupled control (345-349, 583), drawing only on chapter 9 events.",
+    "Mara's 'Acceptable' landing as 'her father's word in her own mouth' (511-513) is a callback to chapter 9 line 323, not new backstory.",
+    "Mara's line 'Ask Navarro if you'd rather' uses Eli's registry surname; 'Under glass. With Batra.' assumes Mara knows Amadi's clinic assignment.",
+    "Amadi's dialogue now delivers the clinic time and place ('seventeen hundred under the mathematics wing. You will attend.') and the word 'invoice' (131-135); the module list is delivered to Kade's band rather than a physical list.",
+    "'Third of twenty pairs' (95) supplies a pair count the source leaves as 'third in the class'; 'forty' styluses (11) and 'fourteen students' (199, the latter from source).",
+    "Sensory texture: stylus warm from Amadi's hand, 'a room like this one remembered a stylus held too long', ambulance-bay light 'the color of old tape', the candy bar priced 'as an insult', library lights warming on their own, Taren's noodles.",
+    "Owen Park's House Sol affiliation is stated at pairing (69) rather than only at the clinic exit."
+  ],
+  "state_change_proposals": [
+    "Kade is assigned supplemental modules (vector notation, proof structure, tensor convention C) and daily Foundations Clinic at 17:00 under Batra; attendance ongoing at chapter end.",
+    "Mara is tutoring Kade in the library at 19:00 alongside the continuing Bay One 'usual hour'; her stated motive is protecting her coupled-field assignment, with the Vey-parents disclosure made on the record to Kade.",
+    "Kade's two-page note 'Dependent Correction in Coupled Operator Systems' has been submitted, returned red, and is under revision on Amadi's instruction ('Revise it'); Sera's success-condition line and Nessa's perception note are incorporated.",
+    "Owen Park and Kade now have a working mutual-correction relationship (Owen corrects Kade's signs, Kade corrects Owen's frames), available for chapters 27-28.",
+    "Batra forwarded the clinic's rescue-platform correction (load has hands at midpoint) to the Response faculty.",
+    "Aaron Mercer discontinuity advanced: Kade now holds 'engineering school' and 'hated notation' beside the industrial-accident story, unexplained.",
+    "Sibling letter count stands at twenty-six.",
+    "Timeline note: library tutoring occurs the evening after the Vector Analysis class (day two), the study session the same night, problem set returned day three, timed recitation two days after that."
+  ],
+  "deviations": [
+    "Event order restaged: the schematic flaw is found in Bay One before the tutoring, and the library session moves to the next evening; the source has tutoring arranged first and the flaw noticed while packing up.",
+    "Omitted from the source: the lunch scene with Eli ('romantically academic') and Sera's 'illegal drone calibration' hook; the Applied Mechanics / Conduit Theory / conditioning afternoon summary; the 'Fix the boring things' callback to chapter 8; Amadi's 'as if I need your permission'; the next-day lunch 'Evidence / teachable' exchange; the class laughing at 'Welcome to academia'; Owen's 'Are you enjoying this? / Immensely'; Kade's 'I'm a terrible influence / incomplete one'. None are ledger clues; drone parts recur later as Eli texture and are not plants.",
+    "The feeder-program first-year on the recitation team is unnamed; the source names her Leila Tran. She is not in NAME_REGISTRY continuity rows. The clinic tutor is 'Batra' only, without the source's first name Dev, to avoid audio collision with Dev Patel in chapter 9.",
+    "Length is 5,804 words against a 5,200 target: 11.6 percent over, inside the 12 percent band but within 20 words of its upper edge. No action-length allowance applies to this chapter.",
+    "Word count method: no shell was available in this session, so the count was produced by enumerating whitespace-separated tokens with ripgrep only-matching mode (offset probing to the last token). This equals a whitespace split and should match wc -w; editor should confirm.",
+    "Several locked exchanges are carried close to the source wording (see the fresh-chapter obligation evidence); flagged for editor judgment on paraphrase distance."
+  ],
+  "blockers": []
+}
