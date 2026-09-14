@@ -1,0 +1,95 @@
+{
+  "schema_version": "3.1",
+  "run_id": "rewrite-1/book1-ch15/author-c0",
+  "scene_id": "book1-ch15",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-15-house-trial-final.md",
+  "word_count": 8159,
+  "obligations": [
+    {
+      "obligation": "Large team set piece. Kade and Mara coordinate instinctively. Meridian wins. Kade jumps to #1,904. Midpoint: he becomes famous.",
+      "status": "MET",
+      "evidence": "Four-House final on a three-level field with rotating barriers and relay core; Mara looks down at Kade through the transparent platform, he calls Hold and then Drop, she steps off a level without a word and activates coupled scoring; final board MERIDIAN 87, ATLAS 84, KEPLER 73, HORIZON 69; recalculation display reads PREVIOUS RANK 8,159, PLUS 6,255, NEW RANK 1,904 OF 10,482; stands chant Mercer, interview clip goes online before the ceremony, unknown names and Student Media light his band at midnight."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Restaged from the ch14 seam: laundry scene opens off the plan room's shared wall, Darius day-count message frames Sunday, Nessa's three-word call format and Anton's switch rule carry forward, Park keeps her promised recovery-bay chair, and the match is written as continuous decision-under-time rather than the source's one-line beats. Source facts preserved, sentences not."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Meridian seeded third, Atlas first; scoring rules (outer node 1 per 20s, center 2, elimination +1, penalty -1, relay pays nothing, coupled scoring); score checkpoints 12/10/9/7 and 31/26/22/16; contingency B-seven; Kade eliminated at four minutes by Atlas targeting him; Anton self-eliminates at three, Nessa 2:40, Priya 2:00, Eli 1:40 after locking a gate, Taren 1:00; trailing by two at thirty seconds; synchronized relay contact +5 from the appendix rule Eli found; bell rings after fourteen months; Sera's hug that did not happen; Mara's one-word Yes; attribution audit with six manual flags and no single owner for the final two minutes; Julian in House Sol with the two-finger gesture; Anton's mother and his father's orbital-construction line; Sera's no-referee line; Eli's I was useful; Elena's You're happy / Yeah. No Boundary use, no cold line, no headache, stated on the page."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third on Kade's practical attention (reach limits, tick timing, brace readouts, choke points); every reversal has a visible cause (Nessa's early call, Eli spending the free command on barrier nine, Mara's platform rebound, Anton's ramp choke); rank jump explained by the model's missing team-event data; Mara's competence explicitly credited to practice rather than mystery."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "Grep for profanity returned nothing; no gore beyond a red brace line; all system displays rendered as spoken words (PLUS 6,255, OF 10,482); speakers tagged or distinguishable by priority; no em-dashes in body prose; timing counts and score checkpoints read aloud cleanly."
+    },
+    {
+      "obligation": "Preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
+      "status": "MET",
+      "evidence": "Taren's private message, twenty-minute absence, and six pastries; Taren's Atlas first-formation intelligence attributed to 'a friend of a friend'; both entered in Kade's suspicion file alongside the ch14 eleven seconds and three band lights. House Trial proving Kade strongest when others succeed without him is dramatized through the post-elimination rotation and the audit."
+    },
+    {
+      "obligation": "Deliver all chapter-assigned payoffs without advancing later-book answers.",
+      "status": "MET",
+      "evidence": "Bell rings and the fourteen-month count ends; Mara's ch14 'if present' pays off as the plan surviving Kade's absence; Anton's switch rule pays off as his chosen self-elimination; Sera's Disaster Response ambition restated without new detail. Nothing about Aaron, Sen, Contact Zero, or Taren's handlers is advanced."
+    },
+    {
+      "obligation": "Do not change canon, reveal order, chapter outcome, rank arithmetic, or downstream Book Two facts.",
+      "status": "MET",
+      "evidence": "All ranks, scores, eliminations, and outcomes match the frozen source; Park's red ladder bar remains in place per her ch14 ruling."
+    },
+    {
+      "obligation": "Do not make Kade effortlessly dominant or remove the physical and relational cost of Boundary use.",
+      "status": "MET",
+      "evidence": "Kade is eliminated with four minutes left after being targeted; his contribution is two calls and standing where the team is thinnest; he uses no Boundary architecture and says so; his tremor fingers are observed by Park afterward."
+    },
+    {
+      "obligation": "Do not add profanity, explicit sexual material, lingering gore, or a new named character.",
+      "status": "MET",
+      "evidence": "No new names introduced; Atlas captain, fourth-year, steward, medics, and Anton's mother remain unnamed."
+    },
+    {
+      "obligation": "Do not include drafting notes, reports, word counts, or metadata in manuscript prose.",
+      "status": "MET",
+      "evidence": "File contains title and prose only."
+    },
+    {
+      "obligation": "Length: target 6,700 with 25 percent tolerance under owner exception owner-action-length-policy-2026-09-13.",
+      "status": "MET",
+      "evidence": "8,159 words including title line, under the 8,375 ceiling; above the ordinary 12 percent band (7,504), which the packet exception permits for a fight or embodied-action chapter."
+    }
+  ],
+  "inventions": [
+    "Opening Darius message numbered Forty-one continuing the ch14 day-count device; Kade's closing reply to Darius with the rank and 'Bell, day zero'.",
+    "Laundry scene staged directly off the plan room's shared wall from the ch14 seam; Anton keeps two fresh seals from the equipment cage beside him.",
+    "Park occupies the recovery-alcove chair she promised in ch14 and checks number and hand; she observes the two-finger tremor and confirms nothing went on the card.",
+    "Atlas wears green; Atlas's captain is a tall third-year; the fourth-year's old competition brace and the jacket exchange follow the source.",
+    "Julian's two-finger gesture glossed as two minutes, the longest Kade has held a line against him as of their Thursday sessions; Kade's one finger means next Thursday.",
+    "Kade turns his band face-in against his arm at midnight after it lights with unknown names and a Student Media request, mirroring Taren's habit without commenting on it.",
+    "Unnamed background texture: Anton's mother in a too-warm coat, roof vents, dust from the ventilation grille, the mended banner."
+  ],
+  "state_change_proposals": [
+    "Kade Mercer rank: #8,159 to #1,904 of 10,482 via House Trial team-event recalculation (+6,255); Park's medical red bar on the ladder remains in place.",
+    "Meridian wins the House Trial final 87-84-73-69 over Atlas, Kepler, Horizon; the bronze bell rings for the first time in fourteen months and the Bell Watch count resets.",
+    "Kade's interview clip ('People got better at changing my plans') is public before the medal ceremony; strangers and Student Media begin contacting him directly, seeding ch16.",
+    "Anton Bell: red brace line on left forearm under the seal, fresh brace fitted; his mother attended and heard him say his father is not here.",
+    "Nessa Kim: carries a blue dampening band given by a first-year, refastened by Mara after the match.",
+    "Taren Holt: keeps the fourth-year's jacket 'until the bell stops'; Kade's suspicion file now includes the midnight private message, twenty-minute absence, six pastries, and unexplained Atlas formation intelligence.",
+    "Attribution audit recorded six manual flags and no single tactical owner for the final two minutes; steward states the team-performance coefficient captures distributed contribution 'better than it used to'.",
+    "Kade/Mara: Mara answered 'Yes' to trusting him; both stayed beside each other through the celebration.",
+    "Kade tells Elena he is happy without deflecting; ends the night without checking the stairs."
+  ],
+  "deviations": [
+    "Length is 8,159 words, above the ordinary 12 percent band but inside the 25 percent ceiling recorded in the packet's owner exception for fight and embodied-action chapters. Trims were applied to non-action passages; remaining length carries locked beats and action geography.",
+    "Julian is placed with House Sol at the exit tunnel per the frozen source chapter; the rewritten chapters 5 through 14 never name his House, so this is the first rewritten-edition mention."
+  ],
+  "blockers": []
+}
