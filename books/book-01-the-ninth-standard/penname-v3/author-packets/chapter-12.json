@@ -3,7 +3,7 @@
   "scene_id": "book1-ch12",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "structural_repair",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -117,19 +117,36 @@
       "required": true
     },
     {
-      "kind": "reference",
-      "label": "Frozen source chapter; preserve facts, not sentences",
-      "path": "manuscript/chapter-12-boundary-conditions.md",
-      "required": true
-    },
-    {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-11-the-broken-floor.md",
       "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Current rewrite to repair",
+      "path": "penname-v3/manuscript/chapter-12-boundary-conditions.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
+  "verified_findings": [
+    {
+      "id": "book1-ch12-f004",
+      "severity": "HIGH",
+      "gate": "authority_continuity",
+      "evidence": "penname-v3/manuscript/chapter-12-boundary-conditions.md:221-243: The last few months he was sent somewhere that wasn't a port. He called it the site... They took some papers out of the apartment and left me a box... He counted stairs... Nine to the apartment. Fourteen at my mother's. Verification: The cited passage adds Aaron's non-port site, removal of papers by badge-holders, and stair-counting habit. The frozen source establishes only the industrial-controls history, while the packet forbids new backstory and clues. The additions create durable continuity and interpretive obligations, so the authority violation and claimed reader consequence follow.",
+      "consequence": "The repair creates new Aaron backstory, a new research-site clue, a confiscated-records event, and a potentially inherited character trait. These are durable facts outside the packet's invention budget and can constrain Chapters 19, 24, and 31 or alter how readers interpret the later investigation.",
+      "repair_target": "Remove the unapproved site, confiscated-papers, and stair-counting material, or replace it with already frozen Aaron/Elena facts that preserve Elena's partial disclosure and Kade's emotional connection without adding new clues or backstory."
+    },
+    {
+      "id": "book1-ch12-f003",
+      "severity": "MEDIUM",
+      "gate": "production_length",
+      "evidence": "penname-v3/manuscript/chapter-12-boundary-conditions.md:1-545: Complete manuscript scope: 6,118 words by `wc -w`; declared ceiling: 5,712. Verification: A repeated wc -w count over the complete manuscript is 6,118 words. The ordinary ceiling is 5,100 × 1.12 = 5,712 words; no action-length designation or length exception applies. The chapter is therefore 406 words over the declared ceiling.",
+      "consequence": "The chapter remains 406 words beyond the ordinary acceptance ceiling and cannot pass the declared production band without compression or an approved exception.",
+      "repair_target": "Compress at least 406 words while preserving the tape lesson, Sen's lie, Eli's consent decision, Kade's successful stop, Elena disclosure, Taren clue, and shared-investigation ending."
+    }
+  ],
   "exceptions": [
     {
       "id": "owner-ch12-boundary-architecture-sequence-2026-09-14",

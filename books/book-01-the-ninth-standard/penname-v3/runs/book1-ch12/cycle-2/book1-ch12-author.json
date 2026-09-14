@@ -1,0 +1,74 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch12-author-repair-2026-09-13",
+  "scene_id": "book1-ch12",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-12-boundary-conditions.md",
+  "word_count": 5679,
+  "obligations": [
+    {
+      "obligation": "book1-ch12-f004 (HIGH, authority_continuity): remove unapproved Aaron non-port site, confiscated-papers visit, and stair-counting material; replace with frozen Aaron/Elena facts",
+      "status": "MET",
+      "evidence": "Elena call rewritten. Aaron material now limited to facts already frozen in the source Chapter 12 and rewritten Chapters 2/5: industrial-controls contractor on pay stubs (ports, power routing, automatic shutoffs); 'worked around people connected to early Resonance research'; told by phone callers after his death that parts of his work were classified, names not kept; the refrigerator repair anecdote, diagrams at dinner, 'patient with machines and not with people', 'reading the instructions after a thing broke counted as planning', 'him at twenty-six'. No site, no visit, no removed papers, no badges, no stair-counting. Kade's resemblance beat now rests on the frozen Chapter 2 duffel slider and Sera's frozen Chapter 5 duffel-handle warning. Roof recap and closing pencil paragraph updated to match. Grep for 'wasn't a port|the site|badges|papers|counted stairs' returns no hits."
+    },
+    {
+      "obligation": "book1-ch12-f003 (MEDIUM, production_length): compress at least 406 words to at or below 5,712",
+      "status": "MET",
+      "evidence": "Whitespace-token count of the full manuscript is 5,679 (probed via ripgrep offsets; no shell available for wc -w). Reduction from 6,118 is 439 words. Cuts came from the clinic opener, Sen-scene connective tissue, the Elena call, Mara's two-piles drill, Eli's CONTEXT-column bit, the platform drill, and roof texture; no locked beat removed."
+    },
+    {
+      "obligation": "Preserve tape lesson, Sen's boundary architecture explanation, and Sen's lie ('No' then 'Nobody has learned this at Asterion')",
+      "status": "MET",
+      "evidence": "Teaching-arena scene intact: blue tape around Priya, yellow around Pike, 'whatever is inside the line when it falls is what pays', full Standards-as-operations explanation, 'named architecture, a long time ago', 'No', 'Nobody has learned this at Asterion', too-fast 'No' to 'Did you know my father?'"
+    },
+    {
+      "obligation": "Preserve Eli's consent decision on the observation data",
+      "status": "MET",
+      "evidence": "Commons scene intact: Kade withholds argument, Eli sets terms (bouts only, version number, hear it from her first), Sen accepts terms and credits Navarro."
+    },
+    {
+      "obligation": "Preserve Kade's successful stop (bench) under Park",
+      "status": "MET",
+      "evidence": "Assessment Floor Two scene intact: rehearsal 'bench' for nothing, shared-picture platform observation, wrong-corner test, threshold stop with loop in the six, 'you have now had exactly two'."
+    },
+    {
+      "obligation": "Preserve Elena disclosure and 'not alone / you hear it first' promise",
+      "status": "MET",
+      "evidence": "Elena call retains partial disclosure using frozen facts only, 'I don't know what she was to him', two conditions stated and repeated back by Kade."
+    },
+    {
+      "obligation": "Preserve Taren clue",
+      "status": "MET",
+      "evidence": "Roof scene: Taren reports Pike pulling the open an hour before Meridian's wall updated, attributes it to Kepler's feed; Kade files it with the roommate, Sol thing, and Kepler feed."
+    },
+    {
+      "obligation": "Preserve shared-investigation ending and closing pressure",
+      "status": "MET",
+      "evidence": "Nessa's catalog query returns zero, Mara's second list, 'I'm going to find out where somebody learned it. Not alone.', card inscription 'Nobody has learned this at Asterion. / Then where.'"
+    },
+    {
+      "obligation": "No new named characters, powers, rules, clues, backstory, or future answers; reveal order preserved",
+      "status": "MET",
+      "evidence": "No new names. Sen's visit to Elena (Chapter 19) remains unspent; Elena refers only to unnamed phone callers. Early-Resonance-research association is already in the frozen source Chapter 12 disclosure."
+    },
+    {
+      "obligation": "Family-clean and audio readability",
+      "status": "MET",
+      "evidence": "No profanity or gore; speaker attribution preserved in trimmed exchanges; Mara's 'that second part is a decision' lines merged into one paragraph to avoid ambiguous consecutive speaker turns."
+    },
+    {
+      "obligation": "No drafting metadata in manuscript",
+      "status": "MET",
+      "evidence": "Manuscript contains title, prose, and section breaks only."
+    }
+  ],
+  "inventions": [
+    "Sera's roof line about the duffel handle ('That's not a prophecy. It's thread.') as the resemblance echo, built on her frozen Chapter 5 warning that the handle would tear.",
+    "Kade privately recalling the eleven-try duffel slider repair from Chapter 2 when Elena describes Aaron not leaving broken things alone."
+  ],
+  "state_change_proposals": [],
+  "deviations": [
+    "Word count was verified by ripgrep token-offset probing rather than wc -w because no shell tool was available in this session; the two methods count whitespace-separated tokens identically, but the editor should confirm with wc -w."
+  ],
+  "blockers": []
+}

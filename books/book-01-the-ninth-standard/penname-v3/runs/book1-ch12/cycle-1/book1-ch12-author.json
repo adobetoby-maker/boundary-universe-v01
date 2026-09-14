@@ -1,0 +1,96 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch12-author-recovery-c1-1789349835",
+  "scene_id": "book1-ch12",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-12-boundary-conditions.md",
+  "word_count": 6118,
+  "obligations": [
+    {
+      "obligation": "Sen gives Kade the first full explanation of boundary architecture after Chapter 11's term plant, and lies when he asks if anyone has done it before.",
+      "status": "MET",
+      "evidence": "Lines 81-89: Sen names the term ('the way she had said them over the crack'), frames the eight Standards as operations on a supplied system and architecture as the decision layer beneath them, and says it was named 'a long time ago.' Lines 111-115: 'Has anyone done this before?' / 'No.' Lines 127-137: after Kade recalls the Zero Protocol failsafe, she narrows to 'Nobody has learned this at Asterion,' which Kade hears as 'smaller than no.' Lines 147-151: she denies knowing his father before he finishes the word, then hesitates in the doorway."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap (repair target f002).",
+      "status": "MET",
+      "evidence": "The source's glass/box display, SOURCE/PATH/SINK diagram, three disks, medical-transport patient, courtyard textbook, red button, 'verified modern training program,' and Bell Watch dinner are all gone. Replaced by: tape-the-shape lesson in the teaching arena with Priya and Pike inside the lines (39-79), Park's three-signature and tone-battery cost receipts (7-19, 97-103), Elena in her car at St. Vincent with the stairs memory (159-269), Mara's walking two-piles method in Bay One (273-339), Eli's version-numbered file and CONTEXT column (343-411), Park's load-calling job with the rehearsed stop word 'bench' (417-483), the roof with Nessa's catalog result (487-535), and the pencil note on the card (537-545). Residual sentence-level correspondences remain in three places and are listed under deviations for the editor to rule on."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Verified against Chapter 11 seam and earlier chapters: restriction card with four triggers and thumbprint (43, 537); Sen's 'tomorrow' answer (117-119); Elena's 'call me after Sen, a call, not three words' (159); two-finger tremor (5, 169); Bay One four-steps-and-a-turn drill (279); the roommate/Sol thing/Kepler feed file from Ch11 (529); Darius numbered texts continuing from Twenty-nine (3, 415); rank 8,159 RESTRICTED (343); Priya bout and clear wall from Ch6 (39, 51); Aaron's stopped watch and tooth-marked pencil from Ch2/5/6 (155, 539); Renn's 'Don't build on that' from Ch2 (231); Zero Protocol failsafe kept in code and prior candidate classified, as Vale told Kade in Ch2 (129). Observation-only rule with Park present, team briefed, load mapped (103) matches source line 285. Chapter-end state matches STATE_LEDGER line 29: safe vocabulary, stopping as correct outcome (465-481), evidence separated from anger (287-317), shared investigation not alone (533-535). One precision risk ('thirty-one years') is disclosed in deviations."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third past tense on Kade throughout; no Sen interiority. Every gain has a receipt: the tape lesson ends with 'the edge of the card had gone damp' (79); the observation insight costs a pen loop and a headache of two and ends in a voluntary stop (463-481); Eli's yes is won by silence Kade finds harder than the tape (365). Humor is clean and character-specific (Eli 377, 391; Elena 251; Taren 519-527)."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "Case-insensitive word-boundary search for profanity (damn, hell, shit, fuck, ass, bastard, crap, goddamn, jesus, christ, bitch, piss) returned no matches. No sexual content or gore; the physical cost is tremor, missed tones, a headache. The only em-dash in the file is in the title line. All-caps display text (343, 437, 477) is short and reads aloud as labels; speakers are tagged or distinguishable by turn."
+    },
+    {
+      "obligation": "f003: compress at least 316 words so the chapter sits inside the 4,488 to 5,712 band.",
+      "status": "MISSED",
+      "evidence": "Whitespace token count of the complete file is 6,118 (title line and scene-break markers included, as wc -w counts them). That is 406 words above the 5,712 ceiling and 1,018 above the 5,100 target. Chapter 12 is not designated for embodied action, so the 25 percent action tolerance does not apply, and the packet records no length exception. This run was instructed not to edit files, so the overage stands."
+    },
+    {
+      "obligation": "Preserve chapter-assigned plants: Sen's false denial of knowing Aaron with a visible tell; Taren information-access clue register; Zero Protocol precedent left as 'decades ago' knowledge.",
+      "status": "MET",
+      "evidence": "Father denial and tell at 147-151 (answer arrives before the word is finished, then a half-second in the doorway); Kade logs it at 155 and 205-207. Taren's Kepler-wall timing slip at 519-529, filed with the Ch11 clues. Zero Protocol recalled from Ch2 at 129; Sen ends the session rather than answering (139)."
+    },
+    {
+      "obligation": "Deliver chapter-assigned payoffs without advancing later-book answers.",
+      "status": "MET",
+      "evidence": "The lie and the narrowed denial land without confirmation. Elena says 'I don't know what she was to him' (229) and does not mention a body, a visit from Sen, or Asterion research. Nessa's catalog search returns zero (497), keeping the term unpublished rather than located. No Contact Zero, Project Continuity, twelfth Standard Eight, or alive-Aaron material appears."
+    },
+    {
+      "obligation": "Prohibited outcomes: no canon/reveal-order/outcome/rank changes; no effortless dominance or removed cost; no profanity, explicit material, gore, or new named character; no drafting metadata in prose.",
+      "status": "MET",
+      "evidence": "Every named person in the draft exists in the registry or earlier rewritten chapters: Nessa Kim, David Renn, Rusk, Darius Bell, Priya Shah, Jonah Pike, Instructor Hale, Owen Park's House Sol, Kepler, St. Vincent. No Boundary use occurs; Kade watches, stops, and pays (5-19, 97-103, 463-481). The file contains title and prose only; the 'Sol thing' at 529 is a Ch11 story reference, not a seat-name leak."
+    },
+    {
+      "obligation": "Opening state preserves the incoming physical, relational, rank, and knowledge state from Chapter 11.",
+      "status": "MET",
+      "evidence": "Morning after the night arena scene; Kade restricted, two-finger tremor, card in pocket; Sen owes 'tomorrow'; Elena owes a call; Mara's Bay One session stands; Eli holds the tactical file; Kade knows Sen had the term before the floor (Ch11 741-747) and that Zero Protocol has a classified precedent (Ch2 179)."
+    }
+  ],
+  "inventions": [
+    "Park's three-signature handwriting comparison against intake day, and a twenty-tone reaction battery (one missed the previous evening, six this morning) as the cost receipt; numeric headache scale with 'one and a half' as yesterday's number.",
+    "Teaching-arena tape exercise: Kade lays blue tape for the Priya bout's shape and yellow for Arena Four, discovering both Priya and Pike stood inside the lines; Sen stands on Pike's mark.",
+    "Sen's framing of the eight Standards as operations performed on a system that contact, Conduit, or room supplies, with boundary architecture as the decision layer that 'moved' for Kade; her statement that it was named 'a long time ago' and is structure, not force.",
+    "Sen's narrowed denial wording 'Nobody has learned this at Asterion' (replacing the source's 'verified modern training program'), and her tell on the father question changed from an unfinished breath to an answer that arrives before the word is finished, followed by a doorway hesitation.",
+    "Elena taking the call in her car in the St. Vincent parking structure at shift change; Aaron counting stairs aloud on every flight ('nine to the apartment, fourteen at my mother's'); Aaron's last months at a place he called 'the site' that was not a port; badge-holders who took papers from the apartment and left the box; Elena's two conditions (no doors alone; she hears it first, from Kade).",
+    "Mara's walking-and-talking method in Bay One with tape at four-step intervals; the two piles ('saw' versus 'decided'); Mara's remark that her father asks her the same thing every Sunday; the two-lists exercise with the second list brought first.",
+    "Commons ladder wall showing 'MERCER, KADE. 8,159. RESTRICTED'; Eli's CONTEXT mood column; version number and initials in the file header; Sen's reply 'Terms accepted. Tell Navarro the version is his. Thank him.' after seven minutes; Eli lowering confidence on the two rows he liked most.",
+    "Assessment Floor Two staged as a cable-hung platform with clip-on weights; Kade's job calling loads from behind a painted line; the stop word 'bench' rehearsed once for nothing; the deliberate wrong-corner call; Kade's voluntary stop at headache two with a pen loop and edged light; Park's record 'STOP CALLED BY SUBJECT AT THRESHOLD. NO EVENT. SESSION COMPLETE.'; Park's line that he has now had 'exactly two' rehearsals.",
+    "Kade's remark that he did observation duty for Instructor Hale in his second week (not supported by earlier rewritten text; unnamed background texture).",
+    "Roof scene: Nessa running the catalog query from the perception lab so it looks like coursework; zero hits across Academy catalog, standards literature, and founding index; Sera hearing Kade count the Meridian stairs his first night; Taren knowing Pike pulled the open 'an hour ago' from the Kepler wall before Meridian's updated.",
+    "Pike withdrawing his open challenge from the wall with the note 'Rematch when there's a floor.'",
+    "Darius texts numbered Thirty and Thirty-one continuing the Ch11 device; Elena's 'Call Darius, he's unbearable.'",
+    "Closing image: Kade writes 'Nobody has learned this at Asterion. / Then where.' on the blank back of the restriction card with Aaron's tooth-marked pencil."
+  ],
+  "state_change_proposals": [
+    "State ledger: Pike has withdrawn his open challenge from the wall and posted 'Rematch when there's a floor'; the Arena Four rematch remains pending on repair.",
+    "State ledger: Kade's first voluntary stop at threshold occurred in Park's Assessment Floor Two observation session (headache two, pen loop, no event), recorded as complete; the stop word 'bench' is now an agreed protocol between Kade and Park.",
+    "State ledger: Elena's conditions are on record: Kade opens no door alone (records, rooms, Sen) and Elena hears any finding first, from Kade. Elena disclosed that Aaron's last months were at a place he called 'the site,' that badge-holders took papers and left the box, and that she does not know what Sen was to him.",
+    "State ledger: Nessa Kim ran a catalog search for 'boundary architecture' (Academy catalog, public standards literature, founding index) with zero hits; Meridian holds Mara's two expectation lists.",
+    "State ledger / character note: Aaron counted stairs aloud, and Kade shares the habit; if kept, later Aaron chapters should honor it.",
+    "Clue ledger: add this chapter's Taren information-access instance (knows the Kepler wall updated before Meridian's, deflects when asked how) to the existing register.",
+    "Production: either the next cycle compresses at least 406 words to reach the 5,712 ceiling, or the owner records a length exception for Chapter 12. Compression is recommended; the roof scene and the Eli cleaning passage carry the most removable texture.",
+    "Editor ruling requested: soften 'thirty-one years' (lines 129, 501) to 'decades' or 'thirty-odd years' unless canon confirms Kade was given the exact figure before Chapter 12."
+  ],
+  "deviations": [
+    "Length: 6,118 whitespace words against a 5,100 target and 5,712 ceiling; finding f003 is not repaired and the overage grew from 316 to 406 words relative to the ceiling.",
+    "Word count method: no shell was available, so the count was taken by paging ripgrep only-matching output for the pattern of non-whitespace runs; token index 6100 is 'sheet,' and 18 tokens follow. A search for non-breaking and thin spaces found none, so this equals wc -w.",
+    "Knowledge-boundary risk: Kade says the failsafe was 'kept in the code for thirty-one years' (129) and Mara repeats 'thirty-one-year-old failsafe' (501). Chapter 2 gave Kade only 'decades' and the clue ledger says 'roughly three decades'; the exact figure is first pinned in Chapter 19. The rest of Kade's Zero Protocol recall matches Vale's Ch2 statement.",
+    "Residual source correspondence for editor review: Sen's closing lines at 143 ('Whatever happened on that floor happened through you... I am going to teach you carefully, and I am not going to assume that being new makes you safe') closely track source 475-483; the Eli scene's reasons-behind-his-teeth beat, 'smaller and stronger' column list, and the 'did not make her honest... cruelty' coda (365, 393, 411) track source 765-775, 813, 865-871; Elena's 'old records on your own' / 'very specific' exchange, 'That sounds like me' reply, and the Mara/Eli/Sera thought (209-215, 241-243, 253) track source 1133-1137, 1241-1243, 1295. Staging around them is new, but the sentence shapes are recognizable.",
+    "Elena's new specifics ('the site' that was not a port; papers taken by badge-holders) go beyond the source's Elena disclosure and could be read as pre-echoing the Chapter 19 and later research-site material; no later fact is stated.",
+    "Mara's line about her father asking the same question every Sunday touches Director Vey ahead of Chapter 18; it establishes only that they speak regularly.",
+    "Sen's tell on the father question was changed from the source's unfinished breath to an answer delivered too fast; the clue function (Kade registers a lie) is preserved.",
+    "No report file was written to penname-v3/reports/current/book1-ch12-author.json, because this recovery run was instructed not to edit any file; the report is returned inline only."
+  ],
+  "blockers": []
+}

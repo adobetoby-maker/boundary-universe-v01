@@ -1,0 +1,90 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch12-author-recovery-c0-1789348061",
+  "scene_id": "book1-ch12",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-12-boundary-conditions.md",
+  "word_count": 6028,
+  "obligations": [
+    {
+      "obligation": "Sen gives Kade a partial explanation (chapter function, part 1 of 3).",
+      "status": "MET",
+      "evidence": "Sen's office scene runs draft lines 9-267: glass/coaster system-boundary exercise, redirected-sphere footage, ledger of Pike/Kade/building energy contributions, 'conventional output' adjective, SOURCE/PATH/SINK relabeling, three-disk medical-transport thought experiment, and the observation-only rule. She explicitly withholds the definition that made the arrangement available ('We do not know what definition made that arrangement available to you', line 189) and ends the session when Kade reaches Zero Protocol (lines 233-241)."
+    },
+    {
+      "obligation": "First use of term 'boundary architecture' (chapter function, part 2 of 3).",
+      "status": "MISSED",
+      "evidence": "The term is spoken and formally defined in this draft (line 157 'Boundary architecture.', lines 161 provisional-term definition), but it is not the first use in the manuscript. The locked rewrite of chapter 11 already contains it at penname-v3/manuscript/chapter-11-the-broken-floor.md lines 733 and 789, and the frozen source chapter 11 also uses it (manuscript/chapter-11-the-broken-floor.md lines 1867, 1907, 1967). The draft acknowledges this seam in-scene ('You said it last night', line 201; 'I said it last night because you needed a word', line 203; Mara 'I searched for the term after you told me last night', line 321). What chapter 12 delivers is the first definition and explanation of the term, not its first utterance. This is inherited from the frozen source and chapter 11 seam, not introduced by this draft."
+    },
+    {
+      "obligation": "She lies when he asks if anyone has done it before (chapter function, part 3 of 3).",
+      "status": "MET",
+      "evidence": "Lines 206-217: 'Has anyone done this before?' / 'No.' / 'Never.' / 'Not in any verified modern training program.' Kade reads the lawyered narrowing (lines 219-233), and the chapter closes on it: 'Floor. Somebody's done it before. She said no.' (line 757). The narrator also names it directly as a lie from Kade's viewpoint (line 255). Sen's motive is never explained omnisciently."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Staging is re-authored: the water glass and coaster opening, the redirected-sphere footage with the flinching student, the three-disk medical-transport problem, the crane over Arena Four, Park's red button and 'artificial orange' baseline, the platform role-swap sequence with predicted overcorrection, Eli's ALTERNATE EXPLANATIONS column and 'slander against a building', the bell argument in days versus months. Sentence-level carryovers from the frozen source are limited to short locked lines of dialogue that carry clue value (SOURCE/PATH/SINK definition, 'Not in any verified modern training program', 'Did you know my father?', Elena's 'worked around people connected to early Resonance research', the refrigerator anecdote, 'The refrigerator knows too much', Park's 'non-provocative boundary observation session'). Editor should confirm the paraphrase ratio against the source at manuscript/chapter-12-boundary-conditions.md; I did not run a full diff."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Grep of the frozen source confirms the locked beats are present: consent principle and 'first shortcut is someone else's data' (source 173/181, draft 93); SOURCE/PATH/SINK relabeling (source 315-321, draft 155-161); 'verified modern training program' (source 417, draft 217); Zero Protocol connection ending the session (source 447, draft 233-237); 'Did you know my father?' with Sen's flinch (source 499, draft 257-265); Mara's catalog search and 'Absence proves very little' (source 635, draft 321-329); Park's non-provocative observation session (source 875, draft 439-563); 'Is that boundary architecture?' deflection (source 1095, draft 555-557); Elena's early Resonance research and classified disclosures (source 1155-1169, draft 593-601); refrigerator anecdote (source 1207-1211, draft 621-625); 'Did you obtain consent?' fish joke (source 1345, draft 707); dinner disclosure and Taren's line (source 1381-1398, draft 733-739). STATE_LEDGER chapter 12 end-state delta (safe vocabulary, stopping as correct outcome, evidence separated from anger, investigating without isolating or claiming others' data) is delivered by the Park session, courtyard, Eli consent, and Elena promise beats. Power cost preserved: headache 1.5 rising to 2, four missed tones of nineteen, tremor in right hand, observation-only restriction. No rank arithmetic appears in the chapter. I did not re-verify every ledger line item by item; editor verification is expected."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third past tense on Kade throughout; short exchange-driven scenes; the 'victory' of the observation session is explicitly a receipt ('one accurate record', 'Park called it a successful result', lines 563); rule-bound wonder in the relabeling and the three-disk problem; physical attention to the hand, the crane, the coaster, the dry fish. Emotional grounding in the father thread and the bridge call."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "No profanity, sexual content, or gore. Injuries are limited to headache score and finger tremor. Audio note for the editor: the draft uses several all-caps on-screen labels (SOURCE. PATH. SINK.; ALTERNATE EXPLANATIONS; THIS MAKES NO SENSE UNLESS THE FLOOR IS LYING; FIELD STABILITY UNDER RECURSIVE COUPLING) and italic message/diary lines; these read aloud as plain words but the caps styling should be checked against the production specification. I did not re-read PRODUCTION_SPEC.md during this recovery."
+    },
+    {
+      "obligation": "Plants: preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
+      "status": "MET",
+      "evidence": "Plants present: Sen had the term before the floor; denial narrowed to 'verified modern training program'; session ended at Zero Protocol; Sen's face on the father question; term absent from catalog and standards literature; Aaron Mercer's link to early Resonance research and classified work through a renamed industrial contractor; Elena's evasion about who called her; Eli's data conditions and Sen's 'Conditions honored' reply; the pencil with tooth marks and the duty-sheet lines. CLUE_LEDGER.md returned no direct 'Chapter 12' match on grep, so I could not confirm the ledger's exact chapter-12 plant list; editor should verify against the ledger's own indexing."
+    },
+    {
+      "obligation": "Payoffs: deliver all chapter-assigned payoffs without advancing later-book answers.",
+      "status": "MET",
+      "evidence": "Payoffs delivered: Kade tells Elena rather than repeating the adults' silence; Kade asks Eli instead of taking the data; Kade sits in the chair and learns without the cold line. No later answer is spent: Sen's actual history with Aaron, what Zero Protocol was built for, and who called Elena remain unresolved. Elena states 'I don't know what she was to him' (line 611)."
+    }
+  ],
+  "inventions": [
+    "Sen's office staging: single window over arena roofs, crane lifting a section of Arena Four's floor composite, desk-surface display, glass of water on a wooden coaster used as the opening system-boundary exercise.",
+    "Redirected training-sphere footage with a second student inside the diverted path, used to show that the reason for solving the equations changes the system.",
+    "Three-disk thought experiment (copper power cell, black composite damaged conduit, steel containment shell, then a medical transport with a patient on an implanted field regulator) as Sen's illustration that a boundary cannot be chosen without knowing what each connection does.",
+    "Park's reaction-test detail: four missed tones of nineteen this morning versus one the prior evening; headache scored one and corrected to one and a half, rising to two after the session.",
+    "Observation-room detail: reinforced chest-height window, single chair, unlabeled red stop button, baseline drills, 'artificial orange' electrolyte drink, three stations (rolling mass on rail, impact rig on damping block, suspended platform with clipped load weights) and the platform role-swap with announced ownership of corrections.",
+    "Eli's data-cleaning business: dorm motion readings from the night Kade's hands shook, three sleep guesses, a note about Sera checking the door, a chart of Taren's lateness against dessert, the ALTERNATE EXPLANATIONS column, and the 'floor is lying' note removed as 'slander against a building'. Sen's reply text 'Accepted. Thank him. Conditions honored.'",
+    "Mara's library-band textbook titled FIELD STABILITY UNDER RECURSIVE COUPLING with a marked passage on recursive coupling as an observation problem; the 'textbook to a stakeout' exchange.",
+    "Elena call texture: wind on the bridge, cart passing behind her, mask mark on her nose, wet towels and overloaded shelves as Aaron traits, 'reading the instructions after something broke counted as planning'.",
+    "Dinner texture: the bell argument in 448 days versus fourteen months, covered plate with dry fish, Sera timing stretches, Taren appealing the bell ruling to an upper-year who refuses jurisdiction.",
+    "Diary-style italic entries numbered Thirty and Thirty-one, and the duty-sheet back-page lines 'Forty-seven. Wall held. I want to know what I did.' and 'Floor. Somebody's done it before. She said no.' (the second is new to this chapter; the first is treated as previously written).",
+    "Kade's tremor stopping in the courtyard and being noticed silently by Mara."
+  ],
+  "state_change_proposals": [
+    "Kade is under an observation-only restriction: no deliberate attempt to reproduce the floor effect unless Park is present, a safety team is briefed, and the structural load path is mapped in advance; if it happens in a match he stops.",
+    "Kade's post-floor cost: headache reported 1.5 rising to 2 after Sen's session; missed four of nineteen reaction tones the morning after; right-hand tremor in the last two fingers, which stops in the courtyard scene and has not returned by dinner.",
+    "Sen has now used and defined 'boundary architecture' for Kade as a provisional term (source/path/sink relabeling) and stated that Pike, Kade's body, and the lattice participated, while withholding what definition made it available.",
+    "Sen has denied to Kade that anyone has done this before, then narrowed the denial to 'not in any verified modern training program', and ended the session when Kade linked it to Zero Protocol. Kade now treats her as having lied and believes it has happened before.",
+    "Sen denied knowing Aaron Mercer with a visible loss of composure; Kade believes she lied. This is unresolved.",
+    "Eli has shared his anomaly observations file with Sen under stated conditions (observations only, no private notes, no raw dorm sensor logs, notice before any restriction breach so he can delete). Sen accepted in writing: 'Accepted. Thank him. Conditions honored.' The file no longer contains data on Sera or Taren.",
+    "Park's non-provocative boundary observation session completed with no anomaly, no button press, and one accurate record; Kade observed the platform Coupling students' role-swap failure and predicted the overcorrection without any Boundary sensation.",
+    "Elena has told Kade that Aaron worked around people connected to early Resonance research through an industrial controls contractor, that parts of his work were declared classified after his death, that the contractor has since changed its name, that she does not remember everyone who called her, and that she does not know what Sen was to Aaron. She has never heard Aaron say 'Zero Protocol' or 'boundary architecture'.",
+    "Kade promised Elena he will tell her before confronting anyone and that he will not search alone; Elena implicitly conceded he will look.",
+    "Kade disclosed the Aaron/Resonance-research link and Sen's denial to Mara, Eli, Sera, and Taren at dinner; the team now knows.",
+    "Mara confirmed the term 'boundary architecture' is absent from her coupling textbook's current edition, the academy catalog, and the public standards literature back to the founding.",
+    "Kade added a second line to the back of the duty sheet in Aaron's pencil: 'Floor. Somebody's done it before. She said no.'"
+  ],
+  "deviations": [
+    "Word count is 6028 by whitespace against a target of 5100 with 12 percent tolerance (allowed ceiling 5712). The draft is 316 words over the ceiling, about 18.2 percent over target.",
+    "The chapter-function phrase 'First use of term boundary architecture' is not literally satisfied: the term already appears in the locked chapter 11 rewrite (lines 733 and 789) and in the frozen source chapter 11 (lines 1867, 1907, 1967). This draft treats chapter 12 as the first definition and explanation of the term and refers back to the prior-night utterance. The architecture card wording and the frozen manuscript disagree; no change was made to either, and no edit is proposed here.",
+    "Sen's lie is staged as a flat 'No' first, followed by the source's narrowed 'Not in any verified modern training program'. The source opens with the narrowed answer. Same locked outcome, different staging.",
+    "The draft's Sen dialogue includes the line 'It is the one that lets you say true sentences to your mother' and the 'Science is a small number of sentences and possibly is most of them' aphorism; both are new lines in character, disclosed here in case the editor considers them tonal overreach for Sen.",
+    "This report was produced in recovery mode after drafting. I re-read the packet and draft in full, grepped the frozen source chapter, chapter 11 rewrite, STATE_LEDGER, CLUE_LEDGER, and CHAPTER_ARCHITECTURE for verification, but did not re-read CANON_RULES, NAME_REGISTRY, BOOK_BIBLE, UNIVERSE_BIBLE, or PRODUCTION_SPEC during this recovery pass."
+  ],
+  "blockers": []
+}
