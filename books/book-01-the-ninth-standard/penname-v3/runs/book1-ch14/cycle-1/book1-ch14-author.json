@@ -1,0 +1,39 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch14-author-c3",
+  "scene_id": "book1-ch14",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-14-house-trial-qualifiers.md",
+  "word_count": 7704,
+  "obligations": [
+    {
+      "obligation": "book1-ch14-length-002-r5: cut at least 205 words to bring the chapter within the 4650-7750 authorized ceiling, preferably from repeated setup or aftermath interpretation",
+      "status": "MET",
+      "evidence": "Cut 251 words across twenty targeted edits; count moved from 7,955 to 7,704 (measured by whitespace-token enumeration of the repaired file). Cuts: second restatement of plate/baton geography before Round One; second capsule description before Round Two; redundant square-defender and sweep inventory; Kade's reflection on never asking Sera what she was for; 'only call Kade had made since the horn' gloss; Nessa 'building the part of the system' interpretation; 'tape had been wasted' line; 'opened it only long enough to make them commit'; Faraday-reshape double framing; respawn-arithmetic paragraph trims; second 'for the first time' bell realization in the plan room; small trims in roster description, Bell Watch paragraph, Eli fall-training rationale, tunnel bell feed, Taren baton handoff, Eli booth-edge wait, Nessa towel discovery, and Commons banter."
+    },
+    {
+      "obligation": "book1-ch14-combat-count-001: state the correct participant count at the Round Three center rush or identify the excluded roster member",
+      "status": "MET",
+      "evidence": "Line 337 now reads 'Meridian took the center at the horn, all eight of them, at a run.' All eight roster members participate in Tactical Elimination (Eli is at the center console, not in a booth), so the correct count is eight."
+    },
+    {
+      "obligation": "Preserve every protected tactical, score, cost, clue, token, qualification, and Mara-ending beat",
+      "status": "MET",
+      "evidence": "Round One board 114/100/94; Round Two second in heat on time and sensor penalties; Round Three third overall and qualification for the final; first token spent on Nessa, last token unspent in Mara's hand; ten-second RESPAWN ELIGIBLE prompt with no call; Anton's switch line and both switch calls; Priya's twenty-six seconds and Taren's fourteen seconds; Mara's plum forearm, Priya's calf, Anton's amber brace seals, Nessa's light sensitivity and towel/banner beat, Kade's back scrape and hip pulse; Park's signing, corner chair, Number/Hand check; Taren's eleven-second Kepler correction, three face-in band lights, and unopened band in the prep room; Sera's Disaster Response disclosure; Kade declining Boundary use against Faraday's captain and holding the line for the fourth beat; Eli's Bay One fall training paying off at the drop and the west port; Taren's column with the '3'; Mara's 'if present' closing line. All remain in the repaired text."
+    },
+    {
+      "obligation": "Do not change canon, reveal order, chapter outcome, rank arithmetic, or downstream facts; no new named characters; family-clean; no metadata in prose",
+      "status": "MET",
+      "evidence": "Edits were deletions and compressions only; no new facts, names, ranks, or outcomes introduced; Kade remains #8,159 with red bar; no profanity or gore added; manuscript contains prose only."
+    },
+    {
+      "obligation": "Targeted repair discipline: repair only verified findings without opportunistic rewriting of unrelated passages",
+      "status": "MET",
+      "evidence": "Every edit is a compression serving the length finding or the single count correction; no passage was rewritten for voice, structure, or content beyond removal of the flagged repetition categories."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [],
+  "deviations": [],
+  "blockers": []
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch14-author-c3",
+  "scene_id": "book1-ch14",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-14-house-trial-qualifiers.md",
+  "word_count": 7704,
+  "obligations": [
+    {
+      "obligation": "Repair verified finding book1-ch14-roster-line-003: closing clipboard callback names the seventh line while Mercer is eighth on the opening roster",
+      "status": "MET",
+      "evidence": "penname-v3/manuscript/chapter-14-house-trial-qualifiers.md:461 now reads 'pointed the stylus at the eighth line, where his name was'. The opening roster (Vey, Holt, Vale, Bell, Shah, Kim, Navarro, Mercer) places Mercer eighth, so the callback geography now matches."
+    },
+    {
+      "obligation": "Line-edit job: repair only the verified finding; do not opportunistically rewrite unrelated passages",
+      "status": "MET",
+      "evidence": "Single one-word substitution at line 461. No other passage was altered."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state",
+      "status": "MET",
+      "evidence": "No content beyond the ordinal at line 461 changed; scores, placements, Taren's band clues, token arithmetic, and the 'if present' ending are intact."
+    },
+    {
+      "obligation": "Family-clean and audio-readability requirements",
+      "status": "MET",
+      "evidence": "The substituted word 'eighth' reads cleanly aloud and introduces no new content."
+    },
+    {
+      "obligation": "No drafting notes, reports, or metadata in manuscript prose",
+      "status": "MET",
+      "evidence": "Only prose was edited; the report is returned as this structured response."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [],
+  "deviations": [],
+  "blockers": []
+}
