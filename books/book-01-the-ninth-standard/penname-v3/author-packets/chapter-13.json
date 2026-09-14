@@ -3,7 +3,7 @@
   "scene_id": "book1-ch13",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "line_edit",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -118,19 +118,36 @@
       "required": true
     },
     {
-      "kind": "reference",
-      "label": "Frozen source chapter; preserve facts, not sentences",
-      "path": "manuscript/chapter-13-cross-examination.md",
-      "required": true
-    },
-    {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-12-boundary-conditions.md",
       "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Current rewrite to repair",
+      "path": "penname-v3/manuscript/chapter-13-cross-examination.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
+  "verified_findings": [
+    {
+      "id": "book1-ch13-editor-003",
+      "severity": "MEDIUM",
+      "gate": "Authority conflicts: timeline",
+      "evidence": "penname-v3/manuscript/chapter-13-cross-examination.md:175-175: Tomorrow you'll be tired and you'll need a day. The day after, six. Verification: The first session schedules the next meeting after one recovery day, meaning two days later. Kade identifies that meeting as Thursday, but the second-session narration says the first session occurred four days earlier. Those intervals cannot both be true. The later Thursday invitation can reasonably mean the following Thursday, but it does not resolve the two-day/four-day contradiction.",
+      "consequence": "The later claim that the second session is four days after the first, followed by Julian scheduling Thursday again, makes the chapter’s day sequence impossible to reconcile and jars the reader out of an otherwise carefully tracked recovery schedule.",
+      "repair_target": "Choose one coherent calendar and align the recovery interval, Kade’s Thursday preparation, the 'four days ago' reference, and Julian’s next-session day without changing the eleven-loss/nine-loss progression."
+    },
+    {
+      "id": "book1-ch13-editor-004",
+      "severity": "LOW",
+      "gate": "Word-count policy",
+      "evidence": "penname-v3/manuscript/chapter-13-cross-examination.md:1-491: Full declared manuscript scope: 7,198 words. Verification: The independent full-manuscript count reproduces 7,198 words. Applying the approved 25 percent action tolerance to the 5,700-word target gives a ceiling of 7,125 words, so the manuscript exceeds the deterministic limit by 73 words.",
+      "consequence": "The draft exceeds the approved 7,125-word action ceiling by 73 words; this is small but remains a deterministic acceptance miss.",
+      "repair_target": "Remove at least 73 words without compressing action geography, the medical stop, reciprocal diagnosis, or closing relationship turn."
+    }
+  ],
   "exceptions": [
     {
       "id": "owner-action-length-policy-2026-09-13",

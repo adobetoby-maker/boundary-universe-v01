@@ -1,0 +1,75 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch13-author-recovery-c0-1789358923",
+  "scene_id": "book1-ch13",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-13-cross-examination.md",
+  "word_count": 6908,
+  "obligations": [
+    {
+      "obligation": "Julian privately spars with Kade and repeatedly destroys him. Rival becomes mentor-peer. Kade learns rare does not mean skilled.",
+      "status": "MET",
+      "evidence": "Side Room B: eleven straight losses timed per reset (19s, 23s, 15s, 11s, 14s, 31s, 42s), then replay-room analysis where Julian makes Kade find the loss point in each recording; two more sessions that week, a Thursday three-fall format where Kade takes one clean point, and a Saturday rematch. Mentor-peer turn: Julian sits against the wall and explains 'Everybody here needs somebody who can beat them,' asks Kade to 'Bring me an answer to that next time,' concedes 'You were right' at the clinic, and closes with a challenge rather than charity. Rare-vs-skilled is explicit: 'The rare thing he could do was worth exactly nothing against a person who never handed him a load to redraw' and, on the first clean point, 'nothing in it had been rare. That was the point.' Julian never uses fields; Kade's Conduit is locked at the door."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "New framing: Park signs Kade into a contact tier and reads it aloud; Julian has countersigned Kade's card. New geography (Side Room B off the service corridor behind Arena Two, blue square with four padded columns, wired 'bench' word). Julian's motive is re-grounded in his Chapter 9 roof prediction ('Four thousand at midyear, ordinary climb') and his 'I'd like something to scare me' line. Interiority expanded throughout (Kade bracing for 'the cold line' that never comes; reading promises rather than attacks). Darius epigraphs Thirty-two and Thirty-three continue the rewrite's device. Caveat disclosed under deviations: scene order follows the source and many dialogue exchanges are retained closely, so the editor should judge the freshness threshold."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Preserved: eleven losses then nine; reset-nine wide step at 26s; 'legible and dangerous anyway'; Grae removes highest-ranked students, Sera's team is the only one to finish (0.8s left), Kade's rebuilt run finishes with four seconds left, Mara/Sera margin argument and Grae's ruling; open clinic with the second-year under six thousand; breakfast with Eli's ninety-millisecond discontinuity resolved by the rear-heel lift two hundred milliseconds earlier, Navarro outcome-training warning, Sera's smoke-filled-hall ranking argument, Taren's junior-regional story, 07:42 family notification and Taren reading Julian's face; father call ('thirty-one seconds', 'not an answer a Cross gives', 'rank is a moral category', 'understanding for pity'); Thursday seven losses, plan holds forty seconds, Julian stops smiling at two minutes, first clean point at three, trapped at 3:51; Mara's 'Learn everything' / 'Progress'; Saturday challenge; closing respect line. Kade remains RESTRICTED with the red bar at 8,159; no ladder movement; no Boundary use and no new power cost (Conduit locked, tremor in two fingers still present). CLUE_LEDGER item 'Julian identifies Kade's overreliance on improvisation' is delivered ('the most confident wrong sentence I've heard this month'; 'refusing your own'). Julian's father pressure is staged at the same depth as the frozen source, not advanced. Back-references verified against rewritten chapters 1, 8, 9, and 12 (Alvarez on answering vs understanding, Sera on feet, Bay One taped mat, dumplings on the couch arm, House office message, laundry, Hale's review in the dark, Pike pulling the open, Mara's father and systems that agree with him). Disclosed deviations: 'Voss' unnamed, Julian's Redirection pulse removed, one dining-hall beat omitted."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third on Kade throughout with no villain or omniscient viewpoint. Victories carry receipts: the single point is timed, replayed, and costed ('It had cost him nothing he had not planned to spend'); the clinic win is 'Social victory. Not recognized by the ladder.' Rule-bound wonder is kept in the mechanics of promises, lanes, and heel lifts rather than in fields. Practical detail: mat cleaner and warm composite, the orange and white replay lines, one foot in by three centimeters, the 'bench' word wired into the room. Humor is clean and character-driven ('I exhaust people through manners'; 'Spiritually out'). Author self-assessment; editor to confirm."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "No profanity, no sexual content, no lingering gore, no new named character (the source's 'Voss' was dropped rather than introduced). Falls are non-injurious by design ('the room made no sound about it, because nothing about it was an injury'). Times and numbers are spoken ('seven forty-two', 'six point four seconds'). Section breaks and location sentences open each movement for listeners. Risk disclosed: the breakfast scene has five speakers with several unattributed short lines; the editor should check speaker tracking on read-aloud."
+    }
+  ],
+  "inventions": [
+    "Park signs Kade into a 'contact tier': one named partner, fields locked at the door, room records position and impact only, the 'bench' word wired so the room repeats it and opens the door for Park. This reconciles the Chapter 11/12 restriction (no unsupervised combat until Park clears him) with the source's private sparring. It is institutional mechanism, not a Standard or power rule, but the editor should confirm it does not read as a new rule.",
+    "Julian has read Kade's four-trigger card and countersigned it (CROSS, J.) as the condition for Park opening the door.",
+    "Side Room B: a twelve-meter side room off the service corridor behind Arena Two, with a painted blue square and a padded column at each corner (source: blue line and corner columns, unnamed room).",
+    "Julian's stated motive now cites his Chapter 9 roof prediction ('I said a number on a roof. Four thousand at midyear') and his 'I'd like something to scare me' line; Kade's recognition of the 'reason for the invitation' points back to that roof moment.",
+    "Darius epigraphs Thirty-two and Thirty-three (contact tier explained by Elena; 'thrown thirty times this week'), continuing the rewrite's numbered-message device from Chapters 10 and 12.",
+    "Mara's closing message names Taren as her source ('Taren. He is very good. Learn everything.') and adds 'Bay One is still the usual hour.' The source had only 'He is very good. Learn everything.'",
+    "The Storage specialist on Kade's team is placed in House Sol (source: unhoused).",
+    "The open clinic on Field Three is described as running on a locked field under Hale's sign-off, which is what places it inside the tier; Kade checks the card in his pocket.",
+    "Julian's father's line 'You lost thirty-one seconds to a fourth-year' replaces the source's 'to Voss'.",
+    "Kade braces for 'the cold line' during the sparring and it never comes; the explicit sentence that the rare thing is worth nothing against Julian, and that the first clean point contained nothing rare.",
+    "Julian's ambition framing 'I don't say numbers I don't mean' and the father's 'Do not discover humility now' phrasing.",
+    "Kade's Taren file gains the entry 'A face Taren could name from across a table' and the line 'The file had a spine now, and he still could not read the title.'",
+    "Minor business: Julian felt the two fingers tremor while shaking Kade's hand and did not look down; the second-year at the clinic leaves 'with her head up, and the bands followed her for a different reason' (source: cameras)."
+  ],
+  "state_change_proposals": [
+    "Kade holds a Park-signed contact tier: private one-partner sparring with Julian Cross in Side Room B, fields locked, 'bench' wired to the room. Red RESTRICTED bar at 8,159 remains; challenge restriction and Sen's review remain open; no ladder movement.",
+    "Julian Cross has read and countersigned Kade's four-trigger card.",
+    "Standing private sparring arrangement between Kade and Julian: three sessions the first week (11 then 9 losses), Thursday three-fall format in which Kade takes his first clean point from rank one, Saturday session agreed.",
+    "Julian sent the reset-nine frame (his own wide step at 26 seconds) to Kade's band and asked for an answer to those three seconds.",
+    "Kade's Taren file now includes Taren correctly reading Julian's family notification from across the table, alongside laundry at midnight, Hale's review timing, and Pike's pulled challenge.",
+    "Mara knows about the Cross sessions via Taren and endorses them; Bay One at the usual hour continues.",
+    "Kade overheard Julian's father's call; Julian knows Kade overheard and asked him not to go easy; Julian's father equates rank with moral standing (staged at source depth, not advanced).",
+    "Eli's public acceleration model has been corrected to key on the opponent's rear-heel lift rather than movement onset; Eli invited Julian to the Meridian breakfast table.",
+    "Kade's Tactical Systems lesson: he stops rewriting everyone's job under failure and builds condition-based plans; Julian names it ('You stopped treating every failure as a reason to become the whole plan')."
+  ],
+  "deviations": [
+    "Length: 6,908 words against a 5,700 target (about 21 percent over). This exceeds the ordinary 12 percent band and relies on the owner exception for fight and embodied-action chapters (upper limit 7,125).",
+    "Word count method: no shell tool was available in this session, so wc -w could not be run. The count was obtained by enumerating non-whitespace tokens with ripgrep (\\S+), which is equivalent to a whitespace split; the last token is index 6907, giving 6,908.",
+    "The source names the fourth-year Julian lost time to as 'Voss'. The draft leaves him unnamed because Voss is not in NAME_REGISTRY and the packet forbids new named characters.",
+    "The source has Julian use 'a small Redirection pulse' in reset four. The draft locks all fields at the door, so Julian wins every exchange with footwork and weight alone. Editor should confirm no ledger depends on Julian using Redirection in this chapter.",
+    "Omitted source beat: the first-year who stops Julian at the dining-hall entrance and Julian's 'A weak ladder makes the top meaningless' line.",
+    "Omitted source lines: the explicit statement that Julian invited Kade after the Broken Floor video escaped, and Julian's 'you still solve the problem you are currently in instead of the next one.' The invitation is instead conveyed by Park ('He did. I did not go looking') and the 'next problem' idea survives in the corridor exchange.",
+    "Device usage: Julian sends the frame to Kade's band and Mara messages his band, not a tablet, matching the rewritten Chapters 11 and 12.",
+    "'Already getting punched efficiently' became 'Already getting thrown efficiently' to match the no-strike sparring.",
+    "Freshness caveat: scene order mirrors the source, and a number of dialogue exchanges are retained nearly verbatim (the wall exchange, 'I exhaust people through manners', the replay-room questions, 'Spiritually out', much of the clinic and breakfast banter, the father call). The editor should judge whether this clears the 'not a line-by-line paraphrase' bar.",
+    "Audio risk: the breakfast scene has five speakers with several unattributed short lines.",
+    "The author report was not written to penname-v3/reports/current/book1-ch13-author.json because this recovery run was instructed not to edit any file; it is returned here only."
+  ],
+  "blockers": []
+}

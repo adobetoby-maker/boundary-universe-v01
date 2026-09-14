@@ -1,0 +1,67 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch13-author-recovery-c1-1789360076",
+  "scene_id": "book1-ch13",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-13-cross-examination.md",
+  "word_count": 8423,
+  "obligations": [
+    {
+      "obligation": "Julian privately spars with Kade and repeatedly destroys him. Rival becomes mentor-peer. Kade learns rare does not mean skilled.",
+      "status": "MET",
+      "evidence": "Side Room B private sessions with fields locked and no spectators (lines 23-91): eleven falls the first morning, nine the third, first-to-three points on Thursday with Julian taking the match (643-673). Mentor-peer turn: Julian sets homework on the three seconds (151-161), gives the written-plan lesson (215-257), concedes 'That was right' at the clinic (413-425), and Kade improves Julian's teaching method (381-411). 'Rare does not mean skilled' is stated in Kade's own reckoning at line 47 ('Two floors and a wall had made him a curiosity. In this room his curiosity was worth exactly nothing') and paid again when his one point comes with 'nothing rare in it' (655)."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MISSED",
+      "evidence": "Partially repaired only. Genuinely restaged against the frozen source: the Park stop-condition card opening (3-19), Side Room B with the counter turned off and posts instead of columns (23-91), the sort-by-when-you-lost replay exercise (95-161), the father call staged at a logged door with Kade admitting he stayed to listen (583-639), and the Thursday points format (643-673). Still tracking the source's beat order and dialogue turns with local rephrasing: the Tactical Systems exercise (261-359) keeps the same assignments, nine-second failure cascade, two markers lost, Sera's green/amber/red, the Mara/Sera thirty-percent argument at eight tenths of a second, the same three conditions, west amber at fifteen, four seconds remaining, and 'You talked less' / 'Cruel. Accurate.'; the clinic (363-439) keeps the same second-year, the same square-of-tape fix, 'Say that near a recording device', 'I improved your clinic', 'Your feet crossed twice'; the breakfast (443-577) substitutes toast for orange and keeps the ninety-millisecond/two-hundred-millisecond exchange, Navarro line, smoke-stairwell speech, junior-regional vomiting anecdote, 'Were you?' 'Of course', and the family-face exchange nearly turn for turn; the Mara messages and Saturday close (675-711) keep the source's sequence and lines. The editor's cited region (the sparring) is fixed; roughly half the chapter still meets the editor-001 description."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Eleven losses then nine (83, 443); the six-second commitment and twenty-six-second wide step with three seconds assigned as homework (115-161); Julian's why (steep curve, wants to understand Kade before a bracket, does not enjoy losing to upper-years) at 67-77; Grae's exercise outcome, Sera's team succeeding, Mara vs Sera on reserve, Kade's team succeeding on the second run (261-339); clinic and 'You didn't beat me' (413-439); breakfast with Eli's telemetry, Navarro warning, Sera's ladder critique, Taren's face-read logged in Kade's file (481-577); father call content preserved including 'That is not an answer a Cross gives' and 'Today' (587-609); Mara's 'Learn everything' and Saturday (677-711). Rank display MERCER, KADE. 8,159. RESTRICTED. matches ch12 (457). Card, four triggers, two fingers, stop word said twice for nothing, Bay One usual hour, Pike's load, Reid at 183 and 'four thousand at midyear' all trace to ch9-ch12 rewrites. No Boundary use by Kade; his one point is explicitly non-rare. Small fact-level departures are listed under deviations."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third on Kade throughout; every win carries a receipt (the replay drawing at 107-125, the heel on the paint by less than the width of the paint at 251, the point 'off a number that had never given him one before' at 655). Emotional grounding through the Northline plan-sheet admission (197) and the eavesdropping self-indictment (593). Rule-bound: contact-only lock, wired stop word, Park's fourth-trigger question (13-17)."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "No profanity, no sexual content, no gore; the only bodily detail is a reported junior-regional vomiting anecdote (517). Speakers are tagged or alternated in two-person exchanges; the Grae classroom uses named speakers; the replay drawing is described in orange/white lines a listener can follow. One risk for audio: the long two-hander runs in 49-91 and 105-159 rely on alternation with sparse tags."
+    }
+  ],
+  "inventions": [
+    "Julian reading and countersigning Kade's stop-condition card at Park's clinic, producing a fifth line 'Read and accepted. J. Cross.' and a contact-only room (Side Room B) with fields locked and the stop word wired to the room (lines 5-19, 23). Extends ch12's card without adding a trigger.",
+    "Side Room B behind Arena Two, its blue square, four padded posts, and a counter Julian turns off; the sort-by-earliest-loss replay exercise (23-31, 95-103). Staging only.",
+    "Julian asks about the two-finger tremor and Kade names it a 'weather report' Park already tracks (49-61). No new medical fact.",
+    "Kade's Northline line about plans as sheets in someone else's handwriting (197). Backstory texture consistent with ch1-2, no new event.",
+    "Grae's exercise is given four supports and Sera's field is described from Kade's viewpoint; Priya 'had not forgiven him the wall' (275). Attitude inferred from ch6/ch12, not a new relationship fact.",
+    "Clinic runs 'under Hale's sign-off and a locked field' with fourteen spectators rather than twelve (363-365).",
+    "Taren's anecdotes changed from the source's 'Marseille podium incident' and 'the mascot' to 'the thing with the trophy' and 'the coach you thanked who wasn't your coach' (539-549). Unnamed texture.",
+    "Father call: the fourth-year opponent is unnamed (source named 'Voss', who is not in the name registry); added line 'It will look like a decision'; Kade deliberately stays outside to listen and the door log records him at 6:02, which Julian raises (583-621).",
+    "Thursday session uses a first-to-three points format instead of a count of falls; Kade scores one point and they run a single extra point (643-673).",
+    "Mara's first message attributes her knowledge to Taren ('Taren says you have been in Side Room B every morning this week') and adds 'Bay One is still the usual hour' (677-683).",
+    "Numbered italic letter epigraphs (Thirty-two, Thirty-four, Thirty-eight) continuing the device from ch12."
+  ],
+  "state_change_proposals": [
+    "Ch13 state: Kade's stop-condition card now carries a fifth line signed by Julian Cross; Kade is cleared for one-partner contact-only sparring in Side Room B with fields locked, stop word wired to the room, and Park's door auto-unlock. Not a clearance change to his RESTRICTED rank status.",
+    "Ch13 state: Kade trains with Julian mornings in Side Room B while keeping Bay One with Mara at the usual hour; Mara has explicitly endorsed it ('Learn everything').",
+    "Ch13 state: Kade owes Julian an answer to 'the three seconds' by Saturday; Julian has made Kade move his feet once and been scored on once under a locked field with no Boundary use.",
+    "Ch13 state: Kade overheard Julian's father's call and Julian knows he did (door log 6:02); Julian asked him not to mistake understanding for pity. Father's pressure is shown, not explained, preserving the later ledgered payoff.",
+    "Ch13 clue: Taren correctly read 'family' off Julian's face at breakfast; Kade adds it to his file of things Taren knows too easily, alongside the roommate, Sol, Kepler feed, and Pike's note.",
+    "Ch13 end-state delta (unchanged from STATE_LEDGER): Kade stops treating improvisation as freedom from commitment and learns to hold an adaptive plan long enough for others to act inside it; Julian becomes a rival whose methods Kade can improve as well as imitate."
+  ],
+  "deviations": [
+    "Length: 8,423 words against a target of 5,700 with a 25 percent fight-chapter tolerance (ceiling 7,125). The draft is roughly 1,300 words over the ceiling and 48 percent over target.",
+    "Freshness obligation only partially repaired; the Tactical Systems, clinic, breakfast, and closing sections still follow the source's beat order and dialogue turns with local rephrasing (see obligation 2 evidence).",
+    "Source has Julian use 'a small Redirection pulse' during the sparring; the draft locks all fields in Side Room B so the sparring is purely physical. Done to fit Kade's ch12 restriction; changes how Julian wins, not the outcome.",
+    "Source's Thursday session is seven falls plus one four-minute bout with a positional point at three minutes; the draft uses a first-to-three points format and closes with 'another nine?' instead of 'another seven wins?'.",
+    "Source names the fourth-year opponent 'Voss' in the father call; the draft leaves him unnamed because the name is absent from the registry.",
+    "Source's junior-regional anecdotes ('Marseille podium incident', 'the mascot') replaced with a trophy and a wrongly thanked coach.",
+    "Source's wrist notification at 07:42 becomes 'a little before eight'; source's twelve spectators becomes fourteen; source's father scene occurs while returning wraps, draft moves it to the Thursday 6:02 arrival.",
+    "The word count was obtained by counting non-whitespace runs with ripgrep in a read-only session with no shell; this equals wc -w unless the file contains non-ASCII whitespace, which was not observed."
+  ],
+  "blockers": []
+}

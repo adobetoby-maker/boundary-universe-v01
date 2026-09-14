@@ -1,0 +1,36 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch13-author-c3",
+  "scene_id": "book1-ch13",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-13-cross-examination.md",
+  "word_count": 7090,
+  "obligations": [
+    {
+      "obligation": "book1-ch13-editor-003: align recovery interval, Thursday preparation, 'four days ago' reference, and next-session day into one coherent calendar without changing the eleven-loss/nine-loss progression",
+      "status": "MET",
+      "evidence": "Line 175 now reads 'Tomorrow you'll be tired. Take the days you need. Thursday. Six.' First session is therefore Sunday; second session Thursday matches line 317 ('hand it to Julian on Thursday morning') and line 401 ('four days ago'). Line 223 Eli says 'Roster meeting is next Sunday' (spoken Sunday evening) so it agrees with Sera's weeknight 'Roster meeting Sunday' (305) and Julian's 'Sunday's the roster' (477). Line 469 now 'Next Thursday' so the closing invitation is unambiguous. Fall counts eleven and nine unchanged."
+    },
+    {
+      "obligation": "book1-ch13-editor-004: remove at least 73 words without compressing action geography, the medical stop, reciprocal diagnosis, or closing relationship turn",
+      "status": "MET",
+      "evidence": "Net 108 words removed (110 cut, 2 added for calendar clarity): line 7 crowd clause (13), line 31 'He settled back in the seat' (6), line 41 'It did not sound like kindness' (6), line 55 'and because Park would have told her anyway' (8), line 67 'Not a form his House sends over' (7), line 163 'and he saw that land' (5), line 175 rephrase (2), line 209 'It took less time than the falls had' (8), line 211 House-account sentence (18), line 245 'because the first had not been enough' (7), line 247 Sera manner clause (19), line 299 towel business (11). All cuts are in stands, clinic, dorm, and laundry passages; both Rehab Two sessions, the bench stop, Park's record, the heel diagnosis, and the hand/Mara ending are unaltered. Estimated 7,090 words against the 7,125 ceiling, derived from the verified 7,198 baseline."
+    },
+    {
+      "obligation": "Line-edit discipline: no opportunistic rewriting of unrelated passages",
+      "status": "MET",
+      "evidence": "Only the twelve listed micro-edits plus one punctuation merge (line 31 quote join) were made; no other sentences changed."
+    },
+    {
+      "obligation": "Preserve canon, reveal order, rank arithmetic, family-clean text, and Chapter 14 seam",
+      "status": "MET",
+      "evidence": "No ranks, names, clues, or outcomes touched; roster Sunday and qualifiers-the-week-after seam retained; no new content added beyond two calendar words."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [],
+  "deviations": [
+    "Word count is an arithmetic estimate (verified baseline 7,198 minus counted net removals of 108) rather than a tool-run count; no shell tool was available in this run. Cushion below the 7,125 ceiling is roughly 35 words."
+  ],
+  "blockers": []
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch13-author-recovery-c2-1789361171",
+  "scene_id": "book1-ch13",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-13-cross-examination.md",
+  "word_count": 7198,
+  "obligations": [
+    {
+      "obligation": "Julian privately spars with Kade and repeatedly destroys him. Rival becomes mentor-peer. Kade learns rare does not mean skilled.",
+      "status": "MET",
+      "evidence": "Private: Rehab Two behind Park's clinic, fields locked at the door, no footage, record to Park's desk only (63, 75-79, 167). Repeatedly destroyed: eleven falls the first morning (99-157, counted through 'Ten' at 127 and 'The eleventh' at 143), nine the second (361-411). Rival to mentor-peer: Julian's 'fee' offer (31-49), the withheld hand becoming the offered hand (381, 467), 'That's what a rival's for. I'd forgotten. Nobody here has been one' (473), standing Thursday session and Kade owing 'a heel' (469-481). Rare does not mean skilled: 'Two floors and a wall had made him the strangest object on the island. On this mat he was a first-year with slow feet, and the mat did not know his name' (105); Julian: 'It's a fact about the island. It isn't a fact about your feet' (181); the cold line never comes because nothing loads (105)."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Organizing spine rebuilt per editor-001 repair target. Source spine: replay-grid diagnosis, Grae's Tactical Systems exercise, Field Three clinic, Commons breakfast with telemetry, overheard father call, Thursday bout, Mara texts. Draft spine: Kade scouts Julian in the Arena Two stands and Julian sets a 'fee' (5-51); Elena and Park negotiation with Julian countersigning the card (55-71); Rehab Two eleven falls with no replay footage (75-181); Eli's narrative reconstruction and the eleven-row 'see' table (185-231); laundry scene with Sera, Taren, Mara (237-317); second session where Kade announces every plan aloud, forces Julian's first plant, and calls the stop word at threshold (323-483). Payoff mechanism changed from Julian assigning the plan drill to Kade proposing it as his fee. Editor should note deliberately retained source turns: plan-said-aloud lesson (source 571-665 vs draft 339-401), guard rising 'so plainly it was a dare' (source 609 vs draft 365), 'Don't go easy on me' (source 1523 vs draft 335), upper-years beat me (source 171 vs draft 459), tired people learn the wrong thing (source 111 vs draft 141), Julian having to move his own feet (source 543 vs draft 385)."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Eleven then nine losses (157, 457). Julian's motive matches STATE_LEDGER 143 and ch9 roof ('Since the roof. I said a number to you up there' at 49 pays ch9 line 221 'Four thousand'). Restriction preserved: 'You're restricted' (13), red bar/clipboard (305, 479); Director's 'watch anything you like' (15) matches ch12 line 97. Card with four triggers in Park's and Hale's hands (ch12 501) extended by Julian's line (67, 87). Stop word 'Bench' and two prior rehearsals (ch12 445) become 'That's three' (439). Eli's 8,911 (219) matches ledger; 'thirty-one years' (219) matches ch12 line 123. Sera's 'It's thread' (ch12 479) paid at 301. Taren file carries roommate, Sol thing, Kepler feed, Pike's note (271) from ch11-12. Bay One usual hour (293, 487). Father pressure shown as disclosed weekly review (167-171, 331-337) without naming Lucian or explaining his philosophy, consistent with STATE_LEDGER 144 and the ledger note about not spending the later family payoff. No Boundary use; physical cost visible (155, 391, 413). Roster Sunday and qualifiers pull into ch14 (223, 305, 477). End-state delta from STATE_LEDGER 31 delivered at 399-411 and 481. CLUE_LEDGER assigns no chapter-13-numbered plants; the general Taren information-access clue is preserved in changed form (257-271). Dropped source scenes and the Taren clue content change are itemized under deviations for editor ruling."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third on Kade throughout; no Julian viewpoint. Receipts: each fall numbered and diagnosed, Eli's eleven rows with nine 'see' entries (211), Park's written record (437), the plant timed as a quarter second on the left heel and read against Pike's lead leg (405). Rule-bound: field lock at the door, wired stop word, Park's fourth-trigger condition (63-71, 83-91). Emotional grounding: Julian's diagnosis of why Kade abandons a working plan (135), Eli's 'You'd have been alone in there with me' (219), the mirror Kade will not look at (485). Propulsion: each section ends on changed pressure (51, 71, 181, 231, 317, 491)."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "Profanity sweep of the draft returned no matches; no sexual content; injury is limited to bruising and a hip on a rail (245, 381); the threshold stop at 413-437 is symptom-level, not gore. Audio: two-person exchanges alternate with regular tags; three- and four-person laundry scene names every speaker (237-305); fall counts are spoken as words a listener can track. Risk for editor: the stands dialogue (13-51) and the Rehab Two exchange (83-181) run long stretches of untagged alternation."
+    }
+  ],
+  "inventions": [
+    "Arena Two upper-year open challenges at seven in the evening and Julian's fourth-row habit of watching whoever is losing (5-11). Unnamed venue texture; Arena Two does not appear in ch1-12.",
+    "Julian's 'fee' framing: he cannot model Kade's curve and wants Kade to find the thing he is bad at; 'Nobody's hit it in two years' (31-49). Extends STATE_LEDGER 143 motive. The two-year tenure is not established anywhere in ch1-12 or the ledgers; ch9 only says he has tracked the top two hundred 'for a year'.",
+    "Rehab Two: a clinic rehabilitation room with field lock at the door, mirror wall, handrail, harness trolley, wired stop word that unlocks Park's door, and records to Park's desk only (63, 75-79). Carries the prior draft's locked contact-only room forward but relocates it inside the clinic.",
+    "Julian reads and countersigns Kade's card under the fourth trigger, 'Read and accepted. J. Cross.' (67, 87). Extends ch12's four-trigger card without adding a trigger.",
+    "Kade calls Elena first and Darius spreads the news (55, 253). Consistent with their ch11-12 roles; no new fact.",
+    "Julian's public bouts are reviewed weekly by someone who pays to review them and asked about a Saturday bout finished in thirty-one seconds with four seconds off center (167, 331). Reframes the source's father call as disclosed pressure; Lucian is not named and the fourth-year 'Voss' is dropped.",
+    "Eli's eleven-row reconstruction table with nine rows reading 'see' and the tenth revised to 'center, two seconds, abandoned' (185-231). Staging only.",
+    "Meridian basement laundry with four machines and two dryers; Sera doubling the duffel handle through the old stitching (237-307). Pays ch12's 'It's thread' line.",
+    "Taren knows the Rehab Two room number without being told and offers the physio booking board and an old shoulder injury as explanation (257-271). New Taren information-access instance replacing the source's face-read at breakfast.",
+    "Mara's prompt 'Try what he's never had to do' as the hinge for Kade's diagnosis (283-293).",
+    "Second-session mechanics: Kade announces each plan aloud before moving; Julian plants his left heel for a quarter second on the ninth fall; Kade sees it and is too slow (339-411).",
+    "Kade calls 'Bench' at threshold during purely physical exertion with the Conduit locked, Park logs it as the third rehearsal with no event, and Park witnesses Julian stop mid-throw (413-443). Precedent for symptoms without field use exists in ch12's clipboard session.",
+    "Julian's parting advice to tell teammates the plan and hold it long enough for them to be useful (481). Seeds ch14 without stating its outcome.",
+    "Numbered italic letter epigraphs Thirty-two, Thirty-four, Thirty-seven (3, 235, 321), continuing the ch12 device."
+  ],
+  "state_change_proposals": [
+    "Ch13 state: Kade's stop-condition card carries a fifth line signed by Julian Cross under Hale's; Kade is cleared by Park for one-partner, field-locked, contact-only sparring in Rehab Two with records to Park's desk only. RESTRICTED rank status unchanged.",
+    "Ch13 state: Kade has now had three stop-word rehearsals; the third was called at threshold (headache two, larger tremor, light edge) with no event, and Park holds the record that Julian stopped mid-throw when the room repeated the word.",
+    "Ch13 relationship: Julian and Kade are mentor-peers with a standing Thursday session; Kade gave Julian the diagnosis that he has never practiced committing and recovering; Julian planted once under a held plan and Kade 'owes him a heel'.",
+    "Ch13 lesson: Kade states a plan aloud and holds it through the part that works; he carries this to Mara at Bay One ('Telling you first') and Julian has told him to do the same with teammates on a House Trial floor.",
+    "Ch13 clue: Taren's file gains the Rehab Two room-number knowledge with a physio-board explanation Kade records beside it, alongside the roommate, the Sol thing, the Kepler feed, and Pike's note.",
+    "Ch13 state: Julian has told Kade that his public bouts are reviewed weekly by a paying family party and asked Kade not to go easy on him because of it; Lucian Cross is not named and his philosophy is not explained.",
+    "Ch13 calendar: Meridian roster meeting is Sunday and qualifiers post the week after; Kade will attend on a clipboard while restricted.",
+    "Ch13 end-state delta unchanged from STATE_LEDGER line 31: Kade stops treating improvisation as freedom from commitment and holds an adaptive plan long enough for others to act inside it; Julian becomes a rival whose methods Kade can improve as well as imitate, here by diagnosing Julian's untrained commit rather than by fixing his clinic."
+  ],
+  "deviations": [
+    "Length: 7,198 words against a 5,700 target and a 7,125 ceiling at the 25 percent action tolerance. The draft is 73 words over the ceiling and about 26 percent over target. The excess sits in the second-session escalation (falls five through nine, 375-411) and the threshold stop aftermath (413-443); the owner exception for action chapters applies but the editor should rule on the overage.",
+    "Source scenes not carried into the draft: Grae's Tactical Systems exercise (source 669-965), Julian's Field Three clinic with the second-year (969-1149), the Commons breakfast with Eli's telemetry, the Navarro warning, Sera's ladder critique, Taren's anecdotes and his 'Family?' face-read (1153-1433), the overheard father call (1437-1549), the Thursday seven falls plus four-minute bout (1553-1609), and Mara's 'Learn everything' messages (1613-1693). Replaced under editor-001's instruction to choose different secondary scenes; the ledger end-state delta and repair-target facts are preserved.",
+    "Taren clue content changed: the source's read of 'family' off Julian's face becomes knowledge of the Rehab Two room number. The clue's function (Taren knowing slightly too much, Kade filing it) is preserved; its content is not.",
+    "Father pressure is delivered by Julian's own disclosure rather than a call Kade overhears; the source lines 'That is not an answer Crosses give' and the name 'Voss' are not used.",
+    "The nine-loss session is the second session rather than the source's third, and the source's seven-fall Thursday is removed; the counts eleven and nine are preserved.",
+    "Julian's small Redirection pulse in the source sparring is removed because the room's fields are locked; how Julian wins changes, the outcomes do not.",
+    "Internal timeline inconsistency for the editor: Julian schedules the second session for 'the day after' tomorrow (175), Kade plans to present the plan 'Thursday morning' (317), the second session is described as 'four days' after the first (401), and Julian then names 'Thursday' as the next session (469). These cannot all hold.",
+    "Julian's line 'I've had upper-years beat me several times this term' (459) sits beside 'nobody has got center on me in this building since the spring' (175); reconcilable as beaten from above versus center taken, but the editor should confirm.",
+    "Word count method: whitespace-token count via ripgrep over the draft, 7,198 tokens including the title line and five '---' separators; this equals wc -w unless the file contains non-ASCII whitespace, which was not observed. A delegated shell count was attempted and failed because the sub-agent had no shell, so its estimate was discarded."
+  ],
+  "blockers": []
+}
