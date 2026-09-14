@@ -1,0 +1,74 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch16-author-c2",
+  "scene_id": "book1-ch16",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-16-famous-for-tuesday.md",
+  "word_count": 5023,
+  "obligations": [
+    {
+      "obligation": "book1-ch16-f002: remove exact photograph census and unestablished bench photograph; retain only that Aaron disliked photographs and used the camera/performance phrase",
+      "status": "MET",
+      "evidence": "Elena call now reads: \"He said it every time I pointed a camera at him.\" ... \"He hated being photographed.\" Kade's pile line is now \"A man who turned his face from a camera and had a sentence ready for why.\" Grep for 'photographs', 'looking away', and 'bench beside' returns no matches."
+    },
+    {
+      "obligation": "book1-ch16-f003: cut at least 670 words to reach production ceiling (5,152)",
+      "status": "MET",
+      "evidence": "Whitespace-token count is 5,023 (verified by ripgrep offset probing: last token at index 5,023; offset 5,100 empty). Down 799 from the flagged 5,822. Inside the 4,600 +/-12% band."
+    },
+    {
+      "obligation": "Preserve Hale drill",
+      "status": "MET",
+      "evidence": "Walk-back drill with the Atlas third-year intact: three reps, foot/boundary line, hold, Park's-card tremor, 'Nobody record that.'"
+    },
+    {
+      "obligation": "Preserve Northline consent pressure",
+      "status": "MET",
+      "evidence": "Alvarez call with regional van, Boyd at the desk, Kade's 'No', Darius's vending-machine hold line, and Tessa's whiteboard photo all retained."
+    },
+    {
+      "obligation": "Preserve contract choice",
+      "status": "MET",
+      "evidence": "Printed contract scene retained: telemetry retention, 'authentic outsider' label, Kade names what he wants, Taren's terms sheet, mutual termination, three-day approval window, 'No zero to hero', terms sent to student advocate."
+    },
+    {
+      "obligation": "Preserve Aaron clue",
+      "status": "MET",
+      "evidence": "'Cameras make people perform themselves' said at the gate, then Elena identifies it as Aaron's and that he hated being photographed; Kade files it with the notation and engineering-school details; Elena's 'Kade.' warning stands."
+    },
+    {
+      "obligation": "Preserve Eli opportunity",
+      "status": "MET",
+      "evidence": "Kade redirects the distributed-control study group to Eli in person at the Vector Analysis door; Friday corridor beat has Eli asking for error logs and 'The answer was Eli's.'"
+    },
+    {
+      "obligation": "Preserve fading-fame admission",
+      "status": "MET",
+      "evidence": "Sera soup scene retained: 3.2 million refresh, 'Some small part of me minds,' 'Applause is the noise people make when they've finished watching,' the chair."
+    },
+    {
+      "obligation": "Preserve roof seam and final invitation",
+      "status": "MET",
+      "evidence": "Roof/table scene unchanged: KADE MERCER, 8,159 / HELD AT THE STEP, marker kept capped, closing Darius message 'Alvarez says when are you coming... So. Asking.'"
+    },
+    {
+      "obligation": "Do not alter canon, ranks, reveal order, or introduce named characters",
+      "status": "MET",
+      "evidence": "Line edit only. No new names; the Cal Reid beat (an unnecessary named cameo) was removed. Rank 1,904, sixty-one/eighty-four proof scores, Amadi's note, and Eli's Tuesday prediction all unchanged."
+    },
+    {
+      "obligation": "Family-clean and audio readability",
+      "status": "MET",
+      "evidence": "No profanity or explicit material added; cuts removed no clarifying attribution. Merged Alvarez line and shortened Sera line were reread in context and speaker alternation is unambiguous."
+    }
+  ],
+  "inventions": [
+    "Replacement clue phrasing 'A man who turned his face from a camera and had a sentence ready for why' restates only what Elena says on the page; no new Aaron facts."
+  ],
+  "state_change_proposals": [],
+  "deviations": [
+    "Beyond the two findings, only compression cuts were made: removed the Cal Reid band message, the Commons podcast/supplement exchange with Taren, the 'unmeasured' bench-interview exchange, the Thursday arena-screen proposal, Sera's injury-exclusion clause line, the vault-key exchange at the gate, and assorted single sentences. No scene, turn, or state delta was removed.",
+    "Word count was measured with ripgrep whitespace-token probing because no shell was available in this session; this matches wc -w semantics but is not literal wc output."
+  ],
+  "blockers": []
+}

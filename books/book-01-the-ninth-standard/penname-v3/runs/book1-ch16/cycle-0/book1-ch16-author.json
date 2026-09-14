@@ -1,0 +1,75 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch16-author-draft-rewrite-1",
+  "scene_id": "book1-ch16",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-16-famous-for-tuesday.md",
+  "word_count": 5045,
+  "obligations": [
+    {
+      "obligation": "Interviews, sponsorships, memes, social consequences; humor and discomfort; success alienates as effectively as failure",
+      "status": "MET",
+      "evidence": "Looping fall clip with caption and ZERO TO 1904 trend; Student Media long-form interview; national sports FROM ZERO TO HERO declined; glove-company sponsor meeting and 26-page contract; saved seat with collar camera, professor who never learned his name, Atlas review invitation, training group that rejected Eli; friendly laughter described as more dangerous than hostile laughter; gallery leaves after conventional loss."
+    },
+    {
+      "obligation": "Fresh chapter, not paraphrase",
+      "status": "MET",
+      "evidence": "Restaged: Taren's post-Bell-Watch vacuum replaces the timestamp opening; Vector Analysis moved to Amadi's projected wall with Kade's finger tremor as cost receipt; Student Media framed as follow-up to the ch15 tunnel interview; the source's unplanted message-wall ending replaced with the ch9 rank-table ritual and Meridian Night strike rule; Darius italic day-count messages open and close; Cal Reid message tied to his ch9 roof prediction."
+    },
+    {
+      "obligation": "Preserve durable facts, rank, relationships, clues, power cost, and end state",
+      "status": "MET",
+      "evidence": "Rank 1,904 unchanged; Park's card/restriction respected (drill is conventional only, 'nothing on the card was in play'); Mara wins drill 5-3; 61 then 84 on proofs; Alvarez consent policy and reporters at Northline; Taren's 'House team schedule permissions' calendar access clue preserved verbatim in function; BREAK THE BOUNDARY slide and Kade's flinch preserved without explanation; contract conditions list preserved (Northline approval, no other students, no biometric retention, no ownership of 'Boundary', no zero-to-hero, mutual termination, three days); Kade redirects training group to Eli and Eli answers on his own terms; Elena's Aaron line ('cameras make people perform themselves') preserved, restaged so Kade attributes it to his mother first, consistent with rewrite ch3/ch10 where Elena only rarely quotes Aaron; Kade pushes once and lets it go."
+    },
+    {
+      "obligation": "Fantasy Author A voice",
+      "status": "MET",
+      "evidence": "Close third on Kade's practical attention (angles, lenses, feet, fingers); victories with receipts (boring correct proof, patient 2-1 point); dry humor grown from character; distinct speaker strategies for Taren, Sera, Eli, Mara, Amadi, Alvarez, Elena; ending on changed pressure via Alvarez's invitation."
+    },
+    {
+      "obligation": "Family-clean and audio readability",
+      "status": "MET",
+      "evidence": "No profanity, sexual content, or gore; captions and displays rendered as spoken-intelligible capitals; speakers tagged or distinguishable by strategy; no meaning depends on typography beyond italics for messages already conventional in the rewrite seam."
+    },
+    {
+      "obligation": "Preserve chapter-assigned plants (CLUE_LEDGER and source)",
+      "status": "MET",
+      "evidence": "Aaron/Elena discontinuity beat (photography aversion) preserved; Taren information-access clue preserved (calendar permissions, waiting outside the meeting); Kade's Boundary-word sensitivity preserved as a private note, not a new fact."
+    },
+    {
+      "obligation": "Deliver payoffs without advancing later reveals",
+      "status": "MET",
+      "evidence": "No new Aaron facts beyond source's 'hated being photographed'; Elena declines further questions; sponsor phrase left as probable coincidence; no Directorate or Consensus material."
+    },
+    {
+      "obligation": "Length 4,600 words, plus or minus 12 percent",
+      "status": "MET",
+      "evidence": "Approximately 5,045 words after trim; band is 4,048 to 5,152. Count verified at 5,064 by whitespace-token count before a 19-word trim; no shell available for a literal wc after the trim."
+    }
+  ],
+  "inventions": [
+    "Taren filling the gap left by the ended Bell Watch ritual with a media strategy (character business, no continuity obligation).",
+    "Kade's residual finger tremor on the stylus at the wall, as a small persistent Boundary-use cost receipt consistent with ch15 Park exam.",
+    "Bay One gallery as the venue for the open drill (staging; Bay One exists in the rewrite, the gallery is unnamed texture).",
+    "Amadi's returned-proof note wording (EVERY TERM CARRIED. BORING. CORRECT.) in her established voice.",
+    "Priya reporting that Mara declined three requests, instead of Kade discovering it unprompted.",
+    "Eli noting Julian's ch9 midyear prediction of 4,000 as an early-beaten rival benchmark.",
+    "Nessa at lunch with eyes shut over tea, 'counting nothing' (callback to ch15).",
+    "Kade checking the rank table under the Meridian roof and choosing to wait for a Meridian Night to strike 8,159, per the ch9 rule.",
+    "Darius's opening message hedges the day count ('Forty-two. Or three.') because the ch15 seam is ambiguous about which weekday the final fell on; Friday's message uses Forty-five."
+  ],
+  "state_change_proposals": [
+    "Ledger note: Kade's 8,159 line under the rank table remains unstruck at chapter end; the strike is due at the next Meridian Night (a small future beat available to a later chapter, not required).",
+    "Ledger note: Alvarez has, via Darius, asked when Kade is coming to Northline; ch17 may treat the visit as invited rather than self-initiated.",
+    "Ledger note: Kade has sent the sponsorship conditions to the student advocate's office; outcome remains open as in the source."
+  ],
+  "deviations": [
+    "Vector Analysis is taught by Professor Amadi, not Professor Chao as in the source chapter, because the rewritten ch7 and ch10 establish Amadi as the Vector Analysis instructor.",
+    "The source's closing image (a message wall with 'ZERO NEEDS TRAINING WHEELS' crossed out) was not planted in the rewritten chapters 1 to 15, so it was replaced with the ch9 rank-table ritual rather than pretending the wall existed.",
+    "Kade attributes 'cameras make people perform themselves' to his mother rather than his father when speaking to the Phoenix student, because rewritten ch3 establishes Elena never quoted Aaron aloud until ch10; Elena then reveals the line was Aaron's, preserving the source's Aaron beat.",
+    "The source's 'He worked in industrial systems / I know the official sentence' exchange was replaced by 'What else did he say?' / 'Kade.' because rewritten ch2 and ch12 already have Elena admit more than the official sentence.",
+    "The Student Media interviewer, sponsor representative, second-year, and Phoenix student are left unnamed; source's 'Lena Cho' was dropped because the packet forbids new named characters and the name is absent from the registry.",
+    "Kade's class-size and room details follow rewritten ch10 (forty students, projected wall, stylus) rather than the source's twenty-four faces and chalk."
+  ],
+  "blockers": []
+}

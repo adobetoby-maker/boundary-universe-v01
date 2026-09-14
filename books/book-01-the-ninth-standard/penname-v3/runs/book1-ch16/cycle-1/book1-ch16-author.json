@@ -1,0 +1,105 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch16-author-recovery-c1-1789392354",
+  "scene_id": "book1-ch16",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-16-famous-for-tuesday.md",
+  "word_count": 5822,
+  "obligations": [
+    {
+      "obligation": "Interviews, sponsorships, memes, social consequences. Humor and discomfort. Kade discovers success can alienate as effectively as failure.",
+      "status": "MET",
+      "evidence": "Memes: the forty-frame rail clip loops on the Commons wall and in the hospital break room; Eli plots views-per-hour decay and predicts fame ends Tuesday (lines 5-17, 481-489). Interviews: Student Media drone interview on the Meridian bench (177-205); national channel FROM ZERO TO HERO declined in front of four people (207-215); regional van at Northline refused by Alvarez (127-165). Sponsorship: glove-company store meeting with box mock-up and the twenty-six page contract dealt out at dinner (259-313, 375-419). Social consequences: first-year with two coffees, Vector Analysis crowd and recording, eight tablets along Hale's wall, Cal Reid's message, study-group invitation offered to Kade and not Eli. Humor: Darius's vending-machine hold line, Eli's dentist on the House calendar, Sera's 'threaten it upward'. Alienation: 'Friendly was worse' (109), the study-group refusal that 'curdled' (123), 'no to twelve million people and yes to twenty' (371), and 'Some small part of me minds' when the audience leaves (529)."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Repair target for finding book1-ch16-f001 was addressed at scene-construction level. The flagged drill (source lines 533-651: Grae, Mara, four silver zones, five-three, 'So is oxygen', 'Asterion education remains unmatched') is replaced by Hale's zero-field walk-back drill against the unnamed Atlas third-year, two losses and one hold, with no scoreboard and none of the source lines (219-255). Vector Analysis now turns on Kade refusing to offer the dark-node shortcut as the third conservation step, plus Amadi deleting a classmate's recording (69-123). Northline is staged as a live call from the loading zone with the van, Tessa's whiteboard photo, and Darius's hold-line confession. The interview moves to the bench with a drone and the 'unmeasured' answer. The sponsor scene is in the academy store with a box mock-up and a licensed Northline door image. The contract is dealt as printed pages under the ladder wall. Elena's call is from the laundry-room dryer. The chapter opens and closes on Darius day-count messages and the under-table rank ceiling. Lines retained from the source in near-identical wording, disclosed for the editor: 'cameras make people perform themselves' and 'He hated being photographed' (locked Aaron clue), Taren's whistle and 'How much?', the Cal Reid message beat, and the contract conditions list. The title phrase 'famous for Tuesday' is now Eli's prediction."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Rank 1,904 of 10,482 unchanged and stated (21, 163, 343, 553); previous rank 8,159 still unstruck under the table per the Meridian Night rule (549-555). Park's restriction respected: the only drill is conventional, 'Nobody lights anything' (229), and the right-hand tremor persists as cost (253). Proof scores 61 then 84 (77, 493). Alvarez declines the regional crew and asks Kade first; Boyd blocks the door; Tessa and Miguel are not filmed. Kade redirects the study group to Eli and Eli answers on his own terms (111-123, 497-515). Sponsorship conditions match the source list: Northline written approval, no students, no biometric retention, Boundary not licensed, mutual termination, three-day approval window, no zero-to-hero; sent to the student advocate (413-419). Elena reveals the camera line was Aaron's, adds only that he hated being photographed, and shuts the line of questioning with 'Kade.' (457-471). Chapter ends on Alvarez's invitation via Darius (559). Two source-scene facts were changed rather than preserved and are listed under deviations: the drill partner and score, and the mechanism of Taren's calendar knowledge. Two new specifics near the Aaron mystery are listed under inventions for editor ruling."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third on Kade's practical noticing: the lens pointed at him, the red marks where the shortcut cost him, his rear foot lifting 'without consulting him', the two fingers on the walk to water. Receipts rather than spectacle: a sixty-one with a reason, an eighty-four with 'NOBODY WATCHING', a hold on the third rep that Hale writes down 'with no drama in it at all'. Rules held visibly: no lighting anything on the mat, the Meridian Night strike rule, Amadi's consent-to-record line. Dry character humor from Taren, Sera, Eli, Darius, Alvarez, and Elena in distinct registers. Emotional movement from comfort in the decay curve, through the curdle of refusing, to 'Less like being watched. More like being kept', to choosing the chair."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "No profanity, sexual content, or gore; the only violence is a shoulder push in a zero-field drill. Displays and captions are rendered as spoken-intelligible capitals (MERCER, 1,904; STILL OWES ME CHIPS; BOUNDARIES ARE FOR OTHER PEOPLE; EVERY TERM CARRIED. NOBODY WATCHING. GOOD.). Numbers are spelled for the ear where spoken ('nineteen hundred and four', 'three point two million'). Speakers are tagged or distinguishable by strategy in every exchange longer than two lines. Italic message framing is the convention already used in the chapter 15 seam. No drafting notes or metadata in prose."
+    },
+    {
+      "obligation": "Preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
+      "status": "MET",
+      "evidence": "Aaron/Elena discontinuity preserved: the camera line is revealed as Aaron's, Elena volunteers only that he hated being photographed, and refuses more (455-471). Kade's private flinch at the word Boundary on the mock-up is preserved as an unexplained note placed 'on the shelf where the twelfth things went' (263-275). Taren's information-access texture is present: he pre-declines requests before Kade wakes, is waiting outside the sponsor meeting Kade did not tell him about, and looks in through the laundry window. Caveat for the editor: the source's specific clue, Taren reading Kade's private calendar through 'House team schedule permissions', is replaced by Taren attributing it to Eli putting everything on the House calendar (299-307). This gives the clue an innocent surface explanation and is weaker than the source; CLUE_LEDGER.md does not list a chapter 16 entry, so I could not confirm the ledger requires the exact mechanism. Listed under deviations."
+    },
+    {
+      "obligation": "Deliver all chapter-assigned payoffs without advancing later-book answers.",
+      "status": "MET",
+      "evidence": "No Directorate, Consensus, Sublevel, or Taren-assignment material. Aaron material is limited to the photograph aversion and Elena's refusal to continue. The sponsor's use of 'Boundaries' is left as probable coincidence (275). Cal Reid's message is not answered. Study group outcome is left as 'maybe' pending error logs."
+    },
+    {
+      "obligation": "Length: 4,600 words, tolerance 12 percent (4,048 to 5,152).",
+      "status": "MISSED",
+      "evidence": "Exact whitespace-token count is 5,822, which is 670 words over the ceiling and 26.6 percent over target. Count method: no shell was available in this session, so every non-whitespace run in the file was enumerated with ripgrep and the last match confirmed at index 5,822 with no entry at 5,823; this is equivalent to a whitespace split. The repair added the Hale drill, the visitor-gate scene, and the Alvarez live call without removing enough elsewhere. This seat was instructed not to edit, so no trim was applied."
+    }
+  ],
+  "inventions": [
+    "Eli's views-per-hour decay curve and the prediction that the clip is 'famous for Tuesday', later checked at eight percent under.",
+    "A first-year bringing Kade two coffees; Sera's 'Drink both' response.",
+    "Taren pre-declining a podcast and a supplement seller, and Kade telling him to relay rather than decide.",
+    "Priya reporting that Mara was asked three times and Mara's 'I hadn't finished finding out'.",
+    "Amadi's roster count of forty-one in a thirty-two seat room, the offer to leave, and her deleting a second-year's recording with the 'Conduct is a form' line.",
+    "Kade refusing to present the dark-node shortcut as the third conservation step; Nessa Kim supplying the correct four terms.",
+    "The Thursday distributed-control study group card, its faculty sponsor, and Eli's later evaluation of their sensor model's unsynchronized node clocks.",
+    "Alvarez calling live from the Northline loading zone with a regional van present; Tessa telling a reporter Kade is barred from county property; Darius giving the press a vending-machine hold line; Tessa's whiteboard photo reading MERCER, 1,904 and STILL OWES ME CHIPS.",
+    "Cal Reid's message text 'Good week to have. They're short.' and Taren's advice not to answer.",
+    "Student Media interview conducted on the bench outside Meridian with a silent drone; Kade's answer 'Unmeasured' and the 'it wasn't a plan, it was me' line.",
+    "Hale's zero-field walk-back drill in a twelve-person room with thirty at the door, pairing Kade with the unnamed Atlas third-year who eliminated him in the Final; two losses, one hold; their short exchange afterward. This replaces the source's Mara five-three drill under Grae.",
+    "Glove-company representative meeting Kade beside the store display; a box mock-up reading BOUNDARIES ARE FOR OTHER PEOPLE; a licensed news image of Northline's door with Boyd visible.",
+    "Taren's 'Money makes people fast. You're bad at fast' and Eli putting Taren's dentist on the House calendar.",
+    "A visiting school group at the gate; an unnamed girl from a continuation school outside Fresno whose building was a former bank with a keyless vault; the photograph with the group and alone.",
+    "The contract printed and dealt out six pages each under the ladder wall; Eli's 'That's a moral position. I've written it anyway.'",
+    "Elena taking the call from the hospital break room while Kade sits on a laundry-room dryer; Eli's face at the window removed by Sera's hand.",
+    "FLAG FOR EDITOR: Elena states her age as forty-four (439). I did not verify this against BOOK_BIBLE.md or STATE_LEDGER.md; if canon fixes a different age this is a conflict.",
+    "FLAG FOR EDITOR: Elena says 'There are eleven photographs of the man in existence and he's looking away in nine' (461). This is a new countable fact about Aaron beyond the source's 'hated being photographed' and could create a continuity obligation; the packet forbids new backstory and clues, so the editor should rule whether it is texture or a new fact.",
+    "FLAG FOR EDITOR: Kade recalls 'a man who looked away from a camera on a bench beside a woman who had not' (463), implying a specific photograph of Aaron and Elena. I did not verify that an earlier rewritten chapter establishes such a photograph.",
+    "Wednesday's Kepler relay-wall record and Thursday's refused arena-screen proposal as the news that displaces the clip.",
+    "The kiosk barista charging full price and using 'Mercer' rather than the House Trial nickname.",
+    "Amadi's returned-proof note EVERY TERM CARRIED. NOBODY WATCHING. GOOD.",
+    "Sera's 'Applause is the noise people make when they've finished watching' and the fry off Kade's tray.",
+    "Anton with the brace off and a new seal under his shirt; Nessa with eyes shut over tea.",
+    "Sample lines on the under-table rank ceiling: CHALLENGED SIX HUNDRED, WOKE UP IN MEDICAL, LEFT TWICE, CAME BACK TWICE; Kade's own HELD AT THE STEP under 8,159.",
+    "Darius day-count messages Forty-two (opening) and Forty-six (closing)."
+  ],
+  "state_change_proposals": [
+    "Ledger note: Kade's 8,159 line under the Meridian rank table remains unstruck at chapter end; he has decided to wait for the next Meridian Night and carries the marker.",
+    "Ledger note: Alvarez, via Darius, has asked when Kade is coming to Northline; chapter 17 may treat the visit as invited.",
+    "Ledger note: Kade has sent the sponsor's campaign summary and the House-drafted terms sheet to the student advocate's office; the sponsor's answer is open.",
+    "Ledger note: the regional broadcast request to film Northline was declined by Alvarez with Kade's agreement; no Northline students were filmed.",
+    "Ledger note: the Thursday distributed-control study group has approached Eli in person at Kade's direction and sent error logs; Eli's answer is 'maybe'.",
+    "Ledger note: Kade's right-hand tremor from the Final persists through this chapter; Park's conventional-only restriction was observed.",
+    "Ledger note: the fall clip peaked at about 3.2 million views and stopped growing by Friday.",
+    "Ledger note: Kade has declined to answer Cal Reid's message on Taren's advice."
+  ],
+  "deviations": [
+    "Length: 5,822 words against a 4,048 to 5,152 band. Over the ceiling by 670 words. Requires a trim pass; this seat did not edit.",
+    "Drill scene replaced: the source has Instructor Grae pair Kade with Mara for a four-zone boundary-control drill that Mara wins five-three. The draft has Instructor Hale run a zero-field walk-back drill pairing Kade with the Atlas third-year who eliminated him; Kade loses two reps and holds the third with no score kept. This was done to satisfy the originality repair target for finding book1-ch16-f001. It changes the drill partner, instructor, and result; I judged none of these to be ledger-durable facts, but the editor should confirm. Grae is registry-listed only for chapters 30-31 and Hale for chapters 6, 21, 28, so the swap is also registry-consistent.",
+    "Taren calendar clue softened: the source has Taren admit to reading Kade's private calendar via 'House team schedule permissions'. The draft has Taren say the meeting was on the House calendar because Eli puts everything there. The suspicious-access flavor survives in Taren pre-declining requests and waiting unannounced, but the specific mechanism is now innocent.",
+    "Vector Analysis is taught by Professor Amadi rather than the source's Professor Chao, following rewritten chapters 7 and 10 (carried from the prior draft).",
+    "The source's closing message wall with ZERO NEEDS TRAINING WHEELS crossed out was not planted in rewritten chapters 1 to 15 and is replaced by the chapter 9 rank-table ritual (carried from the prior draft).",
+    "The source's Vector Analysis beat is a public board error corrected on repetition; the draft stages it as Kade declining to offer the wall-trick shortcut and admitting he does not have the step. The 61 then 84 scores are preserved.",
+    "The camera line's attribution path differs from the source: Kade tells the visiting girl that somebody said it to him when he was small; Elena then reveals it was Aaron's. The source has Elena volunteer that Aaron thought it. The Aaron beat and Elena's refusal to say more are preserved.",
+    "Money framing: the source measures the offer in months of Elena's rent; the draft measures it as replacing the car and taking Elena off night shifts for a season. Elena rejects the shift framing on-page.",
+    "The source's named interviewer Lena Cho is unnamed, per the no-new-named-character rule and her absence from the registry. The source's visiting student is restaged as an unnamed continuation-school student from outside Fresno at the visitor gate.",
+    "The source's sponsor slide BREAK THE BOUNDARY is restaged as a box mock-up reading BOUNDARIES ARE FOR OTHER PEOPLE; Kade's private flinch at the word is preserved."
+  ],
+  "blockers": [
+    "The draft exceeds the length ceiling by 670 words and this seat was instructed not to edit any file, so the length gate cannot pass without a further trim pass by an author seat.",
+    "Two new Aaron-adjacent specifics (eleven photographs, looking away in nine; a bench photograph) and Elena's stated age of forty-four were not verified against canon in this recovery session and need an editor ruling before the chapter closes.",
+    "No shell was available; the word count was obtained by ripgrep token enumeration rather than wc. The method is equivalent to a whitespace split, but the editor should confirm with wc -w."
+  ]
+}
