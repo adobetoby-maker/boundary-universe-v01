@@ -1,0 +1,39 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch17-author-c3",
+  "scene_id": "book1-ch17",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-17-home.md",
+  "word_count": 6217,
+  "obligations": [
+    {
+      "obligation": "book1-ch17-F002: cut at least 257 words (preferably 300-400) to bring the chapter under the 6,272-word ceiling while preserving the failed/rebuilt drill, Darius confrontation, teacher encounters, invitation decision, visitor-tag image, and final same-minute message",
+      "status": "MET",
+      "evidence": "wc -w now reports 6,217 words (was 6,529), a 312-word cut. Cuts compressed repeated counting/returning/two-homes interpretation in the car-ride paragraphs, removed the Elena exchange restating that Kade could not count the two new students, dropped the grocery-store robot memory, and trimmed reflective restatements in the egress-form, Darius corridor, Hensley, Alvarez apology, and Marcus beats. All locked beats remain verbatim in function: drill at 46 seconds then 1:51, Darius 'Same minute' promise, Hensley credit claim and Rook apology, Alvarez apology, twelve ferry seats and the room-built selection rule, Boyd refusing the lanyard, and the closing message."
+    },
+    {
+      "obligation": "Visit Northline. Mixed reactions from teachers/students. Former teacher claims credit; another apologizes. Kade invites Northline students to Asterion. Emotional midpoint.",
+      "status": "MET",
+      "evidence": "Unchanged chapter function; Room Four session, Miguel/Darius/Marcus/Tessa reactions, Hensley claim, Rook and Alvarez apologies, Meridian Exhibition Night invitation, and the counted-by-name midpoint all remain."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state",
+      "status": "MET",
+      "evidence": "Rank 1,904 on the board, tremor in last two fingers since the final, Park's three-line card, forty-four students and four staff, twelve visitor seats, Julian and Mara notes on the letter, visitor tag good for the year, and the 'One.' closing message are all intact."
+    },
+    {
+      "obligation": "Family-clean and audio-readability requirements",
+      "status": "MET",
+      "evidence": "No profanity added or present (grep for common profanity returns 0); no new names, typographic tricks, or unspoken-only meaning introduced. Edits were deletions and small rephrasings only."
+    },
+    {
+      "obligation": "Do not modify a different scene or chapter; no reports or metadata in manuscript",
+      "status": "MET",
+      "evidence": "Only penname-v3/manuscript/chapter-17-home.md was edited; the file contains prose only."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [],
+  "deviations": [],
+  "blockers": []
+}

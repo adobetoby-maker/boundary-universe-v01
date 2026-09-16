@@ -1,0 +1,105 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch17-author-recovery-c2-1789576131",
+  "scene_id": "book1-ch17",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-17-home.md",
+  "word_count": 6529,
+  "obligations": [
+    {
+      "obligation": "Visit Northline. Mixed reactions from teachers/students. Former teacher claims credit; another apologizes. Kade invites Northline students to Asterion. Emotional midpoint.",
+      "status": "MET",
+      "evidence": "Draft lines 5-35: Kade arrives by the number fourteen bus and is issued a district VISITOR lanyard by Boyd. Lines 39-77: mixed student reactions in Room Four (Darius refuses to turn around, Marcus watches him like something that might go off, Miguel demands he 'bend the door' and says 'because we're not worth it', Alvarez makes him explain 1,904 at the board). Lines 203-229: Hensley claims credit ('I flagged you... It's in the record') and Kade refutes it with the file. Lines 231-251: Rook apologizes for having stopped calling on him. Lines 331-343: Alvarez apologizes for her half. Lines 255-327: the Meridian exhibition letter, twelve ferry seats, and the student-built selection rules deliver the invitation. Lines 383-421: the two-homes car ride and Kade's first counted message to Darius carry the emotional midpoint."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap (repair target F001).",
+      "status": "MET",
+      "evidence": "Scene architecture differs from the source at paragraph scale. The evacuation is no longer a butcher-paper project: Alvarez hands Kade a district egress form and he signs a three-minute plan himself (lines 81-91), the plan fails on a Thursday warehouse truck blocking the north door and on a headcount of 46 against a roster of 48 with two students Kade cannot name (lines 95-115), and the rebuild routes through the dock ramp with a paper roll call by name that ends at 1:51 with Kade answering 'Here' under a ruled VISITOR line (lines 169-199). The F001-cited three-door 78-second run and the 'morale'/'lying' exchange are gone. The Darius confrontation is staged at the blocked north door rather than at lunch (lines 119-165). Hensley is confronted through the wording of the file (lines 209-223). Rook's apology is restaged as her having stopped calling on him (lines 237-247). The ending is built around Boyd's sign-out binder and the year-long visitor tag instead of the 'you called Northline home' beat (lines 369-381). Several sentence-level echoes of the source remain and are listed under deviations for the editor to rule on."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Preserved: rank 1,904 and 'nineteen hundred and three sums bigger than mine' (line 51); Zero as the unmeasurable first test (line 65); Kade refuses to demonstrate the Boundary and names the cost (lines 69-73); the last-two-fingers tremor and Park's card carried from rewritten ch15 line 295 and ch16 line 215; twelve ferry seats, one staff escort, readiness/attendance/behavior criteria and Kade's refusal of them (lines 277-283); Julian's signature in eleven minutes with route plan and head-count note, and Mara's 'Darius Bell is not permitted to challenge anyone' (line 261); Omondi's powered chair, level north door with manual bar, dock person door, Lacey's brother in a chair, Marcus and the stopwatch (lines 97-115, 171-185); Marcus's 'schools like this' question with Alvarez's aptitude calendar and fee waivers (lines 347-361); stream to Room Four tablets via Eli and returning twelve run stations (lines 311-315); Darius's promise to hear it first (lines 155-163); two homes and fear no longer a reason to leave (lines 405-407). Seam facts from rewritten ch16 hold: message counter 47 follows ch16's 46 (line 3 vs ch16 line 503), board MERCER 1,904 / STILL OWES ME CHIPS (line 49 vs ch16 line 143), Boyd's coffee and tape, the halyard, the van, Miguel's coat, the Fresno girl. File adjectives and Russell's retirement-party story match rewritten ch1 line 19 and ch2 line 357. Miguel is established in rewritten ch1 and ch16. Staging deviations from the source are disclosed under deviations."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third on Kade throughout, past tense, no other viewpoint. Victories carry receipts: 46 seconds with three people unaccounted for versus 1:51 with every name answered (lines 113, 193-199); 'THE SECOND ONE COUNTS' written on the board (line 343); Kade's own plan struck through with Alvarez's signature below (line 327). Wonder stays rule-bound: the rank explained as a weighted sum of sixty numbers (line 51), the doctor's three-line rule as the reason he will not perform (line 73). Physical business anchors emotion: feet finding the two spots that stop the chair, the lanyard against his chest above the band, the fingers doing their separate thing against his leg (lines 21, 43, 141). This is the author's own assessment; the editor should confirm."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "A grep for profanity across the draft returns no hits; no sexual material, no gore. The roughest lines are 'I'm not an animal' (line 159) and a shoulder shove (line 383). Dialogue is attributed or cued by established voice; written artifacts (the board, the egress form, the letter, Boyd's binder) are rendered in short capitalized lines that read aloud cleanly. Scene breaks are marked. A few rapid two-speaker exchanges run without tags (lines 143-153, 263-271, 349-351) and rely on alternation; flagged for the editor's audio pass. No drafting notes, counts, or metadata in the prose."
+    },
+    {
+      "obligation": "Plants: preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
+      "status": "MET",
+      "evidence": "CLUE_LEDGER.md lines 3-22 assign no chapter-17-specific plant; the base clue 'Kade's attachment to Northline and Asterion is established before institutional betrayal begins' is delivered by the two-homes ending (lines 405-407). Marcus's private aptitude interest and Alvarez's calendar/waiver offer are carried from the source (lines 347-361). No later-book clue is touched."
+    },
+    {
+      "obligation": "Payoffs: deliver all chapter-assigned payoffs without advancing later-book answers.",
+      "status": "MET",
+      "evidence": "The Darius silence confrontation, the teacher credit/apology beats, and the constrained invitation all land (lines 119-165, 203-251, 255-327, 331-343). No Book Two fact, concealed motive, Aaron, Sen, or Taren material appears; no villain viewpoint."
+    },
+    {
+      "obligation": "Prohibited outcomes: no canon/reveal-order/rank change, no effortless dominance, no profanity or new named character, no metadata in prose.",
+      "status": "MET",
+      "evidence": "No Boundary use occurs; the tremor and the doctor's limit keep the cost visible (lines 73, 141-151). Kade's own plan fails in front of the school (lines 95-115). Every named person traces to the frozen source (Lacey, Marcus, Tessa, Omondi, Hensley, Rook, Russell, Boyd), the registry, or rewritten ch1/ch16 (Miguel); the new girl in Room Two and the truck driver stay unnamed. Rank 1,904 unchanged. No notes or counts in the manuscript."
+    },
+    {
+      "obligation": "Production length policy: 4,928-6,272 words (target 5,600, tolerance 12 percent) per verified finding F002.",
+      "status": "MISSED",
+      "evidence": "Whitespace word count of penname-v3/manuscript/chapter-17-home.md is 6,529 (wc -w and a Python split agree). That is 257 words over the 6,272 ceiling and 929 over target. F002 is reduced from 7,223 but not closed. No packet exception applies. This recovery run was report-only, so no compression was performed."
+    }
+  ],
+  "inventions": [
+    "Kade arrives alone on the number fourteen bus at the tire-warehouse stop; he counts forty-two windows, eleven painted shut; the platform lift beside the steps carries an inspector's yellow tag from Tuesday (lines 5-27).",
+    "District visitor rule: anyone not on the roster wears a blue VISITOR lanyard, the security arch was fixed 'the week the van came', and visitors sign out in Boyd's binder with a bootlace pen; the lanyard is good for the year and Boyd refuses to take it back (lines 19-21, 369-381).",
+    "Tessa closes the chip debt and claims 'interest' (lines 29-35).",
+    "Boyd repairing Miguel's bicycle wheel with electrical tape; Miguel arriving late with grease to the wrists (lines 11, 23, 67, 381).",
+    "Alvarez's router-outage board session: Kade explains the rank as a weighted sum of about sixty numbers and writes THE MONTH IT DIDN'T MOVE / THE NIGHT I PACKED / WHO HELD THE DOOR (lines 47-59).",
+    "Miguel's demand that Kade 'bend the door' because he was filmed behind it in his coat, and 'because we're not worth it' (lines 67-75).",
+    "Park's rule rendered as 'writes three things about me every day and stops me at two' (line 73); the tremor itself is carried from rewritten ch15/16.",
+    "The district EMERGENCY EGRESS PLAN annual-revision form with a ten-day resubmission note; Kade draws and signs a three-minute plan (lines 81-91).",
+    "A warehouse truck parked against the north door every Thursday, the driver eating lunch in the cab at eleven; the north door opens eighteen inches and stops (lines 97-99, 119-121).",
+    "Northline's roster as forty-four students and four staff, two students added since Kade left; the first-run count of forty-six with Miguel in the bike cage and an unnamed new girl from Room Two at the warehouse fence; Marcus's forty-six-second time (lines 105-115).",
+    "Omondi 'evacuated to a step', 'pushed into a hedge by enthusiasm before', and 'write down hold the door and nothing else' (lines 101-103, 175).",
+    "Darius's account: nine sea photos and one 'later' in reply to forty-seven messages, learning the rank off a pharmacy television behind his mother, and the 'same minute' protocol; Marcus's noodles theory (lines 125-165, 363-365, 421).",
+    "Tessa's pencil roll sheet with Kade under a ruled VISITOR line; the second run at 1:51; Marcus crossing out his own time; THE SECOND ONE COUNTS copied onto Alvarez's board in place of MERCER, 1,904 (lines 169-199, 343).",
+    "Russell arriving with a phone for the district newsletter; Hensley's claim to have kept Kade in an 'aptitude pool' when the district wanted his file pulled; Kade's rebuttal that six teachers are in the file and none wrote 'watch this one', and 'I failed his class on purpose' (lines 203-229).",
+    "Rook's apology restaged as having stopped calling on him that spring and looking at the board when he noticed; 'You look like you've been counted' (lines 231-251).",
+    "Alvarez's apology specifics: telling Darius the night the cars came that kids who go there don't come back, and telling Elena in a meeting Kade walked out of that he'd be fine if he'd hand it in (lines 333-337); 'apologized to by two adults before today, and now it was four' (line 339).",
+    "The Meridian House exhibition letter with 'Visitor seating, Northline Alternative, by request of', Darius reading Julian's note in a wrong voice, and Darius finding it by going through Kade's bag for chips (lines 255-271).",
+    "Student-generated selection rules from the floor: Tessa's rules-on-paper-and-names-read-aloud, Marcus proposing and then crossing out aptitude scores ('the same sum in a different coat'), Lacey's draw and return stations, Miguel's mother refusing to sign 'anything with the word ocean on it', Alvarez telling Kade to ask for more seats (lines 291-325).",
+    "Elena arriving at three in scrubs off the floor, waiting outside the arch, 'eleven meetings in that building', and 'Names come back. That's what going back is for' (lines 369, 389-417).",
+    "Kade's closing message: 'One. You're right, I never knew what I was... Tell Marcus noodles was a lie and it's mostly oats. Same minute.' (line 421)."
+  ],
+  "state_change_proposals": [
+    "Kade/Darius contact protocol 'same minute': Kade tells Darius before anything about him reaches a screen, wall, or television. Kade's message counter to Darius starts at one; Darius's forty-eighth message will concern the ocean consent form.",
+    "Northline visitor selection for the Meridian exhibition: twelve ferry seats plus one staff escort; rules written on paper before anyone applies and every name read aloud against them; no selection by attendance/behavior or by aptitude score; a mix of interest seats (Response/Resonance), staff picks, and a draw among students who complete safety prep; exhibition streamed to Room Four tablets (Eli to be asked); the twelve run stations on return; Darius assigned the safety-prep station; Kade will request more seats but has promised nothing unsigned; Miguel is likely stream-only because his mother will not sign an ocean form.",
+    "Northline evacuation plan revised on the district egress form: Rooms One to Three by the front; Rooms Four to Six by the dock person door and delivery ramp; nobody touches Mr. Omondi's chair and somebody holds the door; Marcus walks the west side last (bike cage, restrooms, empty rooms); names read from paper at the flagpole. Kade's signed plan is struck through with Alvarez's signature below. Recorded times 0:46 (failed) and 1:51 (complete).",
+    "Alvarez's Room Four board now shows the two drill times and THE SECOND ONE COUNTS where MERCER, 1,904 was.",
+    "Northline physical/roster state: the platform lift is tagged out by an inspector; a warehouse truck blocks the north door on Thursdays; the roster is forty-four students and four staff, two students new since Kade left (Marcus and an unnamed girl in Room Two); the district requires visitor lanyards and a sign-out binder; Kade signed out at 3:04 and kept the year-long visitor tag.",
+    "Tessa's chip debt is closed; she has claimed interest.",
+    "Alvarez keeps the regional aptitude calendar and fee waivers in her top drawer for students to ask about privately; Marcus has asked how people from schools like Northline get in.",
+    "Kade has acknowledged the last-two-fingers tremor to Darius as Park's 'second line', present since the final.",
+    "Rook and Alvarez have apologized to Kade; Hensley's credit claim was refuted on the front steps in front of the school; Russell recorded nothing for the newsletter."
+  ],
+  "deviations": [
+    "Length: 6,529 words by whitespace against a 6,272 ceiling (target 5,600, 12 percent tolerance). Over by 257 words. F002 is improved from 7,223 but not resolved; this run was report-only and performed no compression.",
+    "Elena is absent from the school day. In the source she drives Kade in, greets Alvarez, and witnesses the Hensley exchange; here Kade arrives by bus and Elena collects him at three in scrubs. The source's vending-machine Elena/Kade exchange ('your method was louder') is not carried; its substance moves to the car (lines 389-417).",
+    "The source's Kade-slips-and-says-'home' beat and Elena's 'You called Northline home' are replaced by the visitor tag and Boyd's 'It says you came back' (lines 375-381); the two-homes realization itself is preserved (lines 405-407).",
+    "The source's admission to Darius of having been knocked unconscious once is omitted; the source's Conduit-port ache ('Does that hurt?') is replaced by the finger tremor from rewritten ch15/16. No Conduit port location is stated anywhere in the draft.",
+    "Headcount arithmetic: the source uses a scenario card of 43 students and 7 staff; the draft treats 44 students and 4 staff as the real roster. Not a ledger fact, but the editor should confirm no earlier chapter fixes Northline's size.",
+    "Message device: the draft follows rewritten ch16's counter (forty-seven) rather than the source's eleven messages, and describes Kade's replies as nine sea photos and one 'later' rather than one laughing face. Chapter 16 does not establish the sea-photo replies; they are new.",
+    "Alvarez says 1,904 has been on her board 'three weeks' (line 47). The interval between the House Trial final and this Thursday should be checked against chapters 15-16 for timeline plausibility.",
+    "Hensley's 'aptitude pool' / 'file pulled' claim is invented and refuted; Kade's 'I failed his class on purpose' sharpens the source's 'wanted the zero more than I wanted somebody else deciding' into a stated deliberate act (line 223).",
+    "Alvarez's apology substance shifts from the source's 'make yourself fit better' to 'hand it in' / wrong about 'fine' (line 337). Same admission, different wording.",
+    "Kade signs his own evacuation plan and it fails publicly, rather than the source's Kade withholding the marker so students solve it. The 'do not take over' lesson is delivered through the strike-through and the VISITOR line instead.",
+    "The Darius confrontation happens before the rebuild in the north corridor; there is no lunch scene.",
+    "Sentence-level echoes of the source remain and the editor should rule whether they are preserved durable beats or residual paraphrase: 'That part I'll take' (line 227); 'I made it easy' / 'You did' (lines 241-243); 'It was not a promise to be good at staying in touch... a promise to stop using...' (line 161); 'a roommate who can make anything talk to anything, and asking will offend him' (line 313); 'Regional aptitude calendar... fee waivers... ask me without announcing it to a room' and Marcus's shoulders coming down with 'the offer inside the offer' (lines 359-361); 'Can mine be combat' / safety prep / 'my weakest event' (lines 317-321); the door 'into a ladder' (line 275); the rule set of interest seats, staff pick, and a draw among safety-prep completers (lines 295-305); 'Two places was twice the number of places that could go wrong' (line 407); the drive past the security-robot grocery store, the second-suspension bus stop, and the Canyon Ridge street in the source's order (line 389); 'First I hated it there. Then I didn't' and 'told everybody for four years I didn't need a school to want me' (line 135); Alvarez's 'secretly fine... Hensley's story with a nicer ending' and 'used the first thing as a permit for the second' (lines 337, 343)."
+  ],
+  "blockers": [
+    "The chapter cannot close at its current length: a compression pass of at least 257 words is required to reach the 6,272-word ceiling, and this report-only run was not permitted to edit the draft."
+  ]
+}
