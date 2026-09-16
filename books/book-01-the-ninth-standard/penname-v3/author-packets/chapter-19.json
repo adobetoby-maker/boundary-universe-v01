@@ -1,0 +1,175 @@
+{
+  "schema_version": "3.1",
+  "scene_id": "book1-ch19",
+  "project": "boundary-universe/the-ninth-standard/rewrite-1",
+  "pen_name": "fantasy-author-a",
+  "job": "line_edit",
+  "revisions": {
+    "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
+    "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
+    "arc": "099e8f5f04548e60600658083ef9b0539cce0965d42431ddd362ca0df6f75450",
+    "state": "3d4a6c2e87b8399ad78443c6323ad3df804388daab23d717f2edca53c0f50f29",
+    "registry": "9cab5f30f45e9eed7c8aa1de28e37a1d6c60398a136f17005abf3ba50594b43a"
+  },
+  "modules": [
+    "progression",
+    "moral-choice"
+  ],
+  "pov": {
+    "character": "Kade Mercer unless the locked chapter evidence explicitly assigns Mara or Sen",
+    "mode": "close third person, past tense",
+    "knowledge_boundary": [
+      "Reveal only what the viewpoint character knows at this point in the locked reveal order.",
+      "No villain viewpoint and no omniscient explanation of concealed motives.",
+      "Treat registry role descriptions as naming aids, not story authority."
+    ]
+  },
+  "purpose": "Freshly re-author Chapter 19, Aaron Mercer. Locked chapter function: Kade finds archived record of a Zero candidate from 31 years earlier: his father. Industrial-accident story begins collapsing.",
+  "scene_shape": {
+    "opening_state": "Preserve the incoming physical, relational, rank, and knowledge state established by the prior chapter and ledgers.",
+    "pov_goal": "Give the viewpoint character an immediate, concrete objective that delivers this chapter function: Kade finds archived record of a Zero candidate from 31 years earlier: his father. Industrial-accident story begins collapsing.",
+    "opposition": "Use the source chapter's causal obstacles and social pressures; make resistance active rather than summarized.",
+    "turn": "Preserve the locked decisive reversal or discovery, but stage it freshly with visible cause and consequence.",
+    "choice": "Make the viewpoint character choose under pressure; do not let power, coincidence, or an authority figure make the emotional decision for them.",
+    "outcome": "Fulfill the architecture card and all plants/payoffs without spending a later reveal.",
+    "closing_state": "Match the source chapter's durable state delta and end on changed pressure that pulls into the next chapter."
+  },
+  "obligations": {
+    "must_include": [
+      "Kade finds archived record of a Zero candidate from 31 years earlier: his father. Industrial-accident story begins collapsing.",
+      "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "Pass family-clean and audio-readability requirements in the production specification."
+    ],
+    "plants": [
+      "Preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter."
+    ],
+    "payoffs": [
+      "Deliver all chapter-assigned payoffs without advancing later-book answers."
+    ],
+    "prohibited_outcomes": [
+      "Do not change canon, reveal order, chapter outcome, rank arithmetic, or downstream Book Two facts.",
+      "Do not make Kade effortlessly dominant or remove the physical and relational cost of Boundary use.",
+      "Do not add profanity, explicit sexual material, lingering gore, or a new named character.",
+      "Do not include drafting notes, reports, word counts, or metadata in manuscript prose."
+    ]
+  },
+  "invention_budget": {
+    "allowed": [
+      "Fresh sensory detail, physical business, clean humor, transitions, and dialogue consistent with established character voices.",
+      "Unnamed background texture that does not create a continuity obligation.",
+      "Scene-level staging improvements that preserve all locked causes and outcomes."
+    ],
+    "approval_required": [],
+    "forbidden": [
+      "New named characters, powers, factions, relationships, backstory, rules, ranks, clues, or future answers.",
+      "Changes to a locked ledger, architecture card, or source manuscript."
+    ]
+  },
+  "context_files": [
+    {
+      "kind": "canon",
+      "label": "Locked universe rules",
+      "path": "penname-v3/context/CANON_RULES.md",
+      "required": true
+    },
+    {
+      "kind": "arc",
+      "label": "Book and chapter architecture",
+      "path": "CHAPTER_ARCHITECTURE.md",
+      "required": true
+    },
+    {
+      "kind": "state",
+      "label": "Book One state ledger",
+      "path": "STATE_LEDGER.md",
+      "required": true
+    },
+    {
+      "kind": "registry",
+      "label": "Canonical name registry",
+      "path": "penname-v3/context/NAME_REGISTRY.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Book One bible",
+      "path": "BOOK_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "canon",
+      "label": "Universe bible",
+      "path": "penname-v3/context/UNIVERSE_BIBLE.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Mystery and reveal ledger",
+      "path": "CLUE_LEDGER.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Rewrite production specification",
+      "path": "penname-v3/PRODUCTION_SPEC.md",
+      "required": true
+    },
+    {
+      "kind": "previous_scene",
+      "label": "Previous rewritten chapter seam",
+      "path": "penname-v3/manuscript/chapter-18-the-vey-problem.md",
+      "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Current rewrite to repair",
+      "path": "penname-v3/manuscript/chapter-19-aaron-mercer.md",
+      "required": true
+    }
+  ],
+  "verified_findings": [
+    {
+      "id": "book1-ch19-f005",
+      "severity": "MEDIUM",
+      "gate": "Length and compression",
+      "evidence": "penname-v3/manuscript/chapter-19-aaron-mercer.md:1-643: Deterministic run diagnostic: word_count=7402; target_range=5104-6496; word_target_state=OUTSIDE_TARGET. Verification: The reported count exceeds the ceiling by 906 words, but the read-only environment prevented an independent recount of the frozen file. The asserted pacing consequence is also partly qualitative.",
+      "consequence": "The chapter exceeds its authorized ceiling by 906 words. Repeated interpretation in the archive, Elena call, and closing evidence table slows the turn and gives the discovery less propulsion than the production contract requires.",
+      "repair_target": "Compress to 6,496 words or fewer without removing the 000 roster, twenty-three-day transfer, A. Sen/reauthorized-consent fields, Elena's no-body/Sen account, ordinary Aaron memories, Mechanics consequence, Taren clue, or final loss of trust. Prioritize duplicated explanations of what records prove, repeated formulations of restraint, and Commons-table restatement."
+    },
+    {
+      "id": "book1-ch19-f006",
+      "severity": "MEDIUM",
+      "gate": "Assigned chapter function, plants, payoffs, and prohibited outcomes",
+      "evidence": "penname-v3/manuscript/chapter-19-aaron-mercer.md:621-625: The black box, lid off. The cardboard insert lifted and set aside. Under it, a brown government envelope, the seal across the flap unbroken. “When you come home. We open it together. Not before. Not alone.” Verification: The envelope is a new physical clue with an explicit deferred payoff, creating a continuity obligation forbidden by the packet.",
+      "consequence": "The sealed envelope creates a new physical clue and promised future opening that is absent from the frozen downstream state. It adds a continuity obligation the packet expressly forbids and risks reader expectation of a payoff that Chapters 20–33 do not supply.",
+      "repair_target": "Remove the newly sealed-envelope clue and close on already authorized evidence or an existing source/canon object that creates no new future obligation."
+    },
+    {
+      "id": "book1-ch19-f007",
+      "severity": "LOW",
+      "gate": "Authority conflicts: canon, timeline, and frozen state",
+      "evidence": "penname-v3/manuscript/chapter-19-aaron-mercer.md:271-271: And a report I have never let you read, because it's under the insert in the box and you never lifted the insert. Verification: No evidence explains how Elena knows the sealed envelope contains a report, so the manuscript's descriptions conflict.",
+      "consequence": "Elena identifies the unopened contents as a report despite the seal being unbroken, giving her knowledge the chapter's own staging says she cannot possess.",
+      "repair_target": "If the envelope remains, describe it only as an unopened envelope or explain how its contents are known without breaking the seal; removal is preferable because finding f006 independently rejects the new clue."
+    },
+    {
+      "id": "book1-ch19-f008",
+      "severity": "LOW",
+      "gate": "Authority conflicts: canon, timeline, and frozen state",
+      "evidence": "penname-v3/manuscript/chapter-19-aaron-mercer.md:171-173: In the same hour she had first said the word boundary to him, Sen had told him that the observations had to come from Eli and not from him. Verification: The claim is plausible, but verifying the exact timing requires the missing frozen Chapter 12 passage.",
+      "consequence": "The rewrite repairs the earlier speaker/material conflation but still asserts a precise same-hour timing not established by the frozen Chapter 12 evidence, making the recollection more certain than the record supports.",
+      "repair_target": "Delete the same-hour timing claim and preserve only the supported facts: Sen required Eli's consent for Eli's observations, and Kade later carried that condition to Eli."
+    }
+  ],
+  "exceptions": [],
+  "output": {
+    "draft_path": "penname-v3/manuscript/chapter-19-aaron-mercer.md",
+    "report_path": "penname-v3/reports/current/book1-ch19-author.json",
+    "editor_report_path": "penname-v3/reports/current/book1-ch19-editor.json",
+    "verifier_report_path": "penname-v3/reports/current/book1-ch19-verifier.json",
+    "target_words": 5800,
+    "tolerance_percent": 12
+  }
+}

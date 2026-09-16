@@ -1,0 +1,91 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch19-author-recovery-c1-1789588100",
+  "scene_id": "book1-ch19",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-19-aaron-mercer.md",
+  "word_count": 7402,
+  "obligations": [
+    {
+      "obligation": "Kade finds archived record of a Zero candidate from 31 years earlier: his father. Industrial-accident story begins collapsing.",
+      "status": "MET",
+      "evidence": "Site-history desk puts the undispositioned precursor media box on a legacy reader (lines 113-121). Movement order names MERCER, A. J. SYSTEMS ANALYST with a date twenty-three days before the accident (123-139). Roster fragment: MERCER, AARON J., age at entry twenty-two, systems analyst, subject/participant, Aptitude route 000, tied explicitly to the thirty-one-year Zero Protocol failsafe Kade described to Sen in chapter 12 (143-157; chapter 12 line 123 verified). PROJECT CONTINUITY card with MEDICAL OVERSIGHT: A. SEN and CONSENT STATUS: REAUTHORIZED (163-167). Elena confirms Aaron worked here, never saw a body, received emptied-pocket effects, and that Amara Sen sat in her waiting room three weeks later asking for silence for Kade's sake (249-297). Collapse is staged with visible cause and consequence, not summarized."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Repair of finding f001. Scene construction is changed, not just re-worded: evidence is reached through a paper request form at a records counter with a clerk, a disposition ledger, and a closing notice (59-121), not the source's compatibility terminals and thermal printer; Kade declines a Director's-office escalation on-page (181-191); the Elena call moves to Meridian's drying room with a four-minute clock and the offered 'part that isn't evidence' (229-387); Mechanics becomes a hidden-load cover-plate exercise ending in Kade's honest 'No' (431-493); the Taren audit adds the form-receipt glance (549-555); the Commons table puts people in the rows and leaves the third column empty (599-619); the closing photograph is the sealed envelope, not the source's handwritten aphorism (621-625). Retained close to source where the fact or established voice is the line: record field text, DIRECTOR UNAVAILABLE. SECURITY SESSION., the House notice text, the What Directarate / No Directorate exchange, rice and 'water and patience', 'younger than I was', the fries-and-four-hours headache line, and 'one question that proved he'd heard every word'. The editor should weigh those retained lines."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "All CLUE_LEDGER chapter-19 items present (000 roster 143-153; twenty-three-day transfer 129-135; Elena's confirmation and no body 249-267; young Sen's visit and warning 283-297; Project Continuity trail 163-179; ordinary day continuing 431-493, 595-597). Rank 1,904 (637) matches chapters 16-17. Right-hand tremor check (111) and copper-taste memory plus Park's four-trigger card (339) preserve cost continuity from chapters 11-12. Seam with chapter 18 verified: carrel at the top of the east stair (3), two identical tablets with Kade's record row deleted (5-9), Sera's winning condition (37), Sunday call and 'structural event' in her father's words (27; chapter 18 lines 51-61), the container-dinner promise 'two nights ago' (49; chapter 18 line 311 on Sunday evening, breakfast Tuesday), 'Tuesday morning' (85) consistent with chapter 18's Sunday-Monday-Tuesday run. Chapter 2 box opened once at eleven (19; chapter 2 line 449). Chapter 12 doorway denial kept as the lie (405; chapter 12 lines 141-145). End state matches the ledger delta: proof of Aaron's Zero/Continuity history, Sen's deception, ordinary memories, and Kade unable to tell which system holds the whole (641-643). Two soft points disclosed under deviations: the 'same hour' placement of Sen's consent condition and Elena calling the sealed contents 'a report'."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third on Kade throughout; every discovery has a receipt (paper form, logged request, disposition ledger, eleven-second page draws, identifiers hashed in three places at 567) and an explicit rule that bounds it (Eli's counter rules 77, 'It goes under my name or it doesn't go' 97, 'Somebody hears it before her' 191). Emotion lands through physical business: back against the running machine (229), sliding down to the concrete (329), the step above Mara not touching (409). Power is cost and evidence, never a shortcut: no Boundary use in the chapter; Aaron's shelf redirection is paired with nosebleed and headaches (337-343)."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "Profanity scan of the draft returns nothing; no sexual content; the only violence is a remembered shelf and a nosebleed; 'stories with blood in them' (297) is a register description, not gore. Record text is spoken as capitals and interpreted in narration (123-157, 163-175, 199). Audio caveat for the editor: the Elena call has runs of short unattributed lines (249-267, 287-293, 303-321, 367-385); the two voices are distinct in register, but a listener may want an occasional attribution."
+    },
+    {
+      "obligation": "Plants: preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
+      "status": "MET",
+      "evidence": "Project Continuity and the governing-instrument reference (163-179), A. Sen medical oversight and reauthorized consent (165-167), Contact Zero as a restricted term declined at counter (195-199), Eli's identifier and hash copies (211, 567), Taren's unsourced 'Continuity Directorate', locked screen, and glance at the form receipt (517-555), Elena's unopened envelope under the box insert (271, 623), and Alaric Vey's improper classification in the Commons table (607) are all planted without explanation. Dropped source details that are not in the ledger and have no downstream references: the data-dictionary stubs, the SYSTEMS ARE JUST AGREEMENTS photograph, the notebook in the freezer and thumb burn, and the 'Did she say Directorate?' question (dropped deliberately for knowledge boundary, since Kade first hears the word from Taren at 517)."
+    },
+    {
+      "obligation": "Payoffs: deliver all chapter-assigned payoffs without advancing later-book answers.",
+      "status": "MET",
+      "evidence": "Sen's chapter-12 denial is proven false by Elena's account and the second list (283-301, 397-407). Elena is established as partly deceived and morally responsible rather than complicit (283, 323-327). Aaron's survival, the nature of Contact Zero, and the twelfth-name reveal are not spent: Elena's 'I asked whether she'd been there when he died' / 'there when it ended' mirrors the source's exact exchange (303-311; source lines 785-793), the Contact Zero query returns only a declined restricted term (199), and Elena never heard 'Zero' before the test (333)."
+    },
+    {
+      "obligation": "Prohibited outcomes: no change to canon, reveal order, outcome, rank arithmetic, or downstream facts; no effortless dominance; no profanity, explicit content, lingering gore, or new named character; no drafting notes or metadata in prose.",
+      "status": "MET",
+      "evidence": "Rank stays 1,904; Kade uses no Boundary power and fails the Mechanics exercise; the clerk and the Sol second-year partner remain unnamed; every named person (Kade, Mara, Eli, Elena, Aaron, Amara Sen, Amadi, Taren, Sera, Park, Alvarez, Pike, Alaric Vey) already exists in the rewrite or registry; St. Vincent appears in rewritten chapters 1-3 and 7. File begins with the chapter heading in the same format as chapter 18 and ends on prose; scene-break rules are the only non-prose lines. No drafting metadata found."
+    },
+    {
+      "obligation": "Point of view: close third on Kade, past tense, within the locked knowledge boundary.",
+      "status": "MET",
+      "evidence": "Kade is the viewpoint throughout; Sen's and Taren's motives are never explained from the inside (503, 547-555); Kade marks what is proven, inferred, and unknown (137, 171-175, 603-619)."
+    },
+    {
+      "obligation": "Length: architecture target 5,800 words within twelve percent tolerance (5,104 to 6,496); packet records no exception.",
+      "status": "MISSED",
+      "evidence": "wc -w and a Python whitespace split both report 7,402 words: 1,602 over target and 906 over the ceiling. Chapter 19 is not an action chapter, so the twenty-five percent policy does not apply, and even that ceiling (7,250) would be exceeded. Section counts for the editor's compression pass: breakfast 994, records desk 1,999, Elena call 1,700, basement stairs 339, Mechanics 658, Spire and Taren 584, seawall 311, Commons 810. The records desk and the Elena call carry most of the growth from the f001 restaging and are the natural trim targets; the Commons table can also lose a row's worth of restatement."
+    }
+  ],
+  "inventions": [
+    "Access path restaged from the source's compatibility terminals to a site-history records desk in the old administration wing: a paper request form with an untick box for unreconciled legacy media, an unnamed clerk, a disposition ledger (seven boxes: five water-destroyed, one moved to an unnamed classified repository, one with no disposition), an eleven-second legacy reader, and an external-security-review closing notice (59-121). Locked facts and record contents are unchanged; only the container is new.",
+    "Kade files the request under his own name and House with purpose 'family history', declines Mara's scholar co-sign, and the clerk states twice that the request and the Contact Zero query are logged where the Director's office can read them (87-109, 181-207). This is new institutional knowledge of Kade's search; flagged under state proposals.",
+    "Kade refuses the clerk's offer to route the governing-instrument reference through the Director's office, citing his promise that Elena hears it first (181-191).",
+    "Eli's counter rules spoken on the covered way, his prior use of the desk for a duct route, and his identifier copies in three places including a pencil page in Kade's notation book (65-77, 211, 567).",
+    "Meridian's basement drying room as the location for the Elena call, with the running machine as physical business, and Elena's supply room with the chair nobody sits in (229-237).",
+    "Elena's four-minute clock, her explicit division between what she can answer and where she is choosing not to, the 'part that isn't evidence' offer, and new ordinary memories: the hummed tune as a draft, two photographs of him and forty of her, and 'He'd have asked your questions in the order you asked them' (239, 355-363). Source memories retained: rice, camera, fixing things unasked, the one listening question, the box drawn around distrusted equations.",
+    "Sen's waiting-room visit given as a four-hour night-shift wait with an undrunk paper cup, replacing the source's rain; Elena says Sen warned the file would be watched for anyone who refused the story (283, 297).",
+    "Elena's message and photograph at the end: the box open, insert lifted, a brown government envelope with an unbroken seal, and 'When you come home. We open it together. Not before. Not alone.' (621-625). This replaces the source's photograph of Aaron with the handwritten SYSTEMS ARE JUST AGREEMENTS line, which has no downstream references.",
+    "Mechanics restaged as a hidden-load frame with a bolted cover plate and four gauges; Kade's answer 'Whoever drew it' and Amadi's 'Are you able to continue?' leading to his honest 'No' (431-493).",
+    "Taren staged on the forum steps with a sandwich in the one place a person leaving the Spire must pass, and his eye movement to Kade's pocket where the folded form receipt is (505-555).",
+    "Commons table with people in the rows and an empty third column; Taren's bell-rope naming campaign continuing in his absence, consistent with chapter 18 line 405 (595-619).",
+    "Unnamed background texture: the old wing 'keeping its windows the way an old man keeps a good coat', two architecture students arguing a seawall permit, a pan dropped downstairs with applause, the Sol second-year partner who labels her gauges."
+  ],
+  "state_change_proposals": [
+    "Record in STATE_LEDGER (if the editor keeps the staging): on the Tuesday after chapter 18, Kade Mercer filed a logged site-history request under his own name and House with purpose 'family history', ticked 'include unreconciled legacy media', and a Contact Zero term query was logged as declined at the counter. The Director's office can read that log. Downstream chapters may treat Sen or the visiting officials as able to know Kade searched.",
+    "Record (if kept): Elena has told Kade that a sealed government envelope sits under the box insert and has proposed opening it together when he comes home. Nothing in the frozen chapters 20-33 pays this off, so the editor should either accept it as a Book Two-compatible open thread or revert to the source's photograph.",
+    "Record: Eli holds the precursor media identifiers and hash strings in three places (maintenance binder, his band, a pencil page in Kade's notation book), consistent with chapter 23's independent identifier verification.",
+    "Record: the legacy disposition ledger shows one precursor media box transferred to an unnamed classified repository; downstream archive scenes (chapters 23, 25) should not contradict this.",
+    "Once locked, the STATE_LEDGER chapter-19 word count and manuscript blob should be updated by the pipeline to the rewrite's values."
+  ],
+  "deviations": [
+    "Length overage: 7,402 words against a 5,800 target and 6,496 ceiling, with no packet exception. The f001 restaging grew the records-desk and Elena scenes. Compression is required; suggested targets are listed in the length obligation.",
+    "Residual from finding f004: line 171 says Sen gave the Eli-observations consent condition 'in the same hour she had first said the word boundary to him'. Chapter 12 shows Sen saying 'Boundary architecture' at line 75 and shows Kade relaying the condition to Eli at line 327, but does not show Sen stating the condition inside that scene. The material and the speaker are now correct; the timing clause is unsupported. Recommended fix: drop 'In the same hour she had first said the word boundary to him'.",
+    "Line 313 calls Sen's 'there when it ended' a sentence 'exactly like' one she handed Kade inside the blue line. The chapter-12 blue-line sentence is 'nobody has learned this at Asterion' (chapter 12 line 184), a true-along-an-edge evasion rather than the same words. This is an interpretive callback, not a quote; editor may soften 'exactly like it'.",
+    "Line 271: Elena calls the contents under the insert 'a report I have never let you read', while line 623 shows the envelope's seal unbroken and the source has Elena say she never opened it. Calling it a report implies knowledge she cannot have. Recommended fix: 'an envelope I have never let you see'.",
+    "Source's closing photograph of Aaron with the handwritten SYSTEMS ARE JUST AGREEMENTS line is replaced by Elena's sealed-envelope photograph and message. No ledger or downstream chapter references the aphorism, so no locked fact is lost, but it is a distinctive source image the editor may want restored.",
+    "Source details dropped without ledger consequence: data-dictionary stubs, rain during Sen's visit, the notebook in the freezer and thumb burn, and Kade's 'Did she say Directorate?' (dropped for knowledge boundary).",
+    "Registry note, not a text deviation: NAME_REGISTRY lists Aaron Mercer as 'Kade's brother' and Amadi as 'Vector Analysis professor'. The draft follows the architecture card, source chapter, and clue ledger (Aaron as father; Amadi teaching Mechanics at thirteen hundred as in source line 1199), per the packet's instruction to treat registry role descriptions as naming aids only."
+  ],
+  "blockers": []
+}

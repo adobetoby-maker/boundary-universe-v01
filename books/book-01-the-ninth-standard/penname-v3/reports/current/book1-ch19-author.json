@@ -1,0 +1,71 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch19-author-lineedit-c2-20260916",
+  "scene_id": "book1-ch19",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-19-aaron-mercer.md",
+  "word_count": 6456,
+  "obligations": [
+    {
+      "obligation": "Kade finds archived record of a Zero candidate from 31 years earlier: his father. Industrial-accident story begins collapsing.",
+      "status": "MET",
+      "evidence": "Site-history desk scene: movement order MERCER, A. J. dated twenty-three days before the accident; roster fragment MERCER, AARON J., age twenty-two, subject/participant, Aptitude route 000; Elena confirms no body was shown."
+    },
+    {
+      "obligation": "Repair f005: compress to 6,496 words or fewer without removing locked beats.",
+      "status": "MET",
+      "evidence": "wc -w reports 6456 words (was 7402). Preserved: 000 roster, twenty-three-day transfer, A. SEN and REAUTHORIZED fields, Contact Zero counter refusal, Elena no-body and Sen waiting-room account, ordinary Aaron memories, Mechanics consequence, Taren Directorate slip, final loss of trust under the ladder wall."
+    },
+    {
+      "obligation": "Repair f006: remove the sealed-envelope clue and close on already authorized evidence.",
+      "status": "MET",
+      "evidence": "Kitchen-table photograph and 'we open it together' message deleted. Closing sequence now uses only the notation-book table, the 1,904 ladder line, the Mechanics frame, and Sen's 'there when it ended' sentence. grep for 'envelope' and 'insert' returns nothing."
+    },
+    {
+      "obligation": "Repair f007: Elena must not know contents of an unopened envelope.",
+      "status": "MET",
+      "evidence": "Bag inventory line now reads: 'His watch. The pencil. His badge. You've seen all of it. That's the whole of what they gave me.' No report reference remains."
+    },
+    {
+      "obligation": "Repair f008: delete same-hour timing claim about Sen's consent instruction.",
+      "status": "MET",
+      "evidence": "Passage now reads: 'Sen had told him, inside the blue line, that Eli's observations had to come from Eli, and he had carried that to the long table and said it in her words.' No same-hour claim."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state.",
+      "status": "MET",
+      "evidence": "Rank 1,904 unchanged; Kade's finger-tremor check and nosebleed memory retained as Boundary cost; Elena promise (hear it first, not alone, not angry) retained; Mara equal-ownership of evidence retained; Taren Continuity Directorate slip and locked-screen delay retained; chapter ends undecided for one night."
+    },
+    {
+      "obligation": "Preserve CLUE_LEDGER chapter-19 plants: 000 record, twenty-three-day transfer, Elena confirmation, Sen visit urging silence, Project Continuity trail.",
+      "status": "MET",
+      "evidence": "All five appear in scene: roster card, movement order subtraction, Elena's supply-room account, Amara Sen waiting-room visit three weeks after, PROJECT CONTINUITY card heading with A. SEN oversight."
+    },
+    {
+      "obligation": "Do not spend later reveals (Aaron alive, twelfth Standard Eight, Contact Zero nature).",
+      "status": "MET",
+      "evidence": "Contact Zero term query returns RESTRICTED SUBJECT TERM, REQUEST DECLINED AT COUNTER. Elena asked only whether Sen was there when he died; Sen's answer 'there when it ended' preserved as narrow truth without confirming survival."
+    },
+    {
+      "obligation": "Fantasy Author A voice, family-clean, audio-readable.",
+      "status": "MET",
+      "evidence": "Profanity scan clean; no em dashes outside chapter title; speakers tagged or distinguishable by strategy; record text rendered as spoken-intelligible capitalized lines."
+    },
+    {
+      "obligation": "No new named characters.",
+      "status": "MET",
+      "evidence": "Clerk, Sol second-year partner, and two men in suits remain unnamed; no new names introduced relative to the frozen input."
+    }
+  ],
+  "inventions": [
+    "None beyond the frozen input. Compression removed material; it did not add new sensory detail, business, or dialogue."
+  ],
+  "state_change_proposals": [
+    "None. Chapter-end state matches the frozen ledger: Kade holds proof of Aaron's Zero/Continuity history and Sen's deception, has ordinary memories of Aaron, and cannot trust which system holds the whole truth."
+  ],
+  "deviations": [
+    "Removed a few non-locked texture lines to reach the ceiling: the old-administration-wing 'good coat' image, the carrel pan-drop beat, Taren offering half a sandwich, and the 'small mean satisfaction' aside in Mechanics. None carried plants, clues, or state.",
+    "Closing paragraph no longer references the black box on a closet shelf, since the prior draft placed it at an unverified distance from campus; the box remains referenced earlier in the chapter as established in the frozen input."
+  ],
+  "blockers": []
+}
