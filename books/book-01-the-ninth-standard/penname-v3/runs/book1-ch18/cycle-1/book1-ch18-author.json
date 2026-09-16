@@ -1,0 +1,67 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch18-author-recovery-c1-1789578755",
+  "scene_id": "book1-ch18",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-18-the-vey-problem.md",
+  "word_count": 5867,
+  "obligations": [
+    {
+      "obligation": "Mara-focused material. Her father asks specific questions about Kade he should not know to ask. She begins investigating independently.",
+      "status": "MET",
+      "evidence": "Close-third on Mara throughout. Alaric uses the restricted heading 'structural event' (lines 51-69), goes still at Aaron's name and tells her to leave the family alone (79-99), dodges whether Sen knows (101-109). Mara defines a stopping condition with Sera (229), builds the CLAIM/SOURCE/WRONG IF table (239-249), finds MERCER, A. RESEARCH CLEARANCE RESTRICTED and ASTERION PRECURSOR PROGRAM (257-265), the Research Annex accession sheet and cut page 214 (361-395), CONTACT EVENT and CONTACT ZERO (433-439), and shares equal ownership with Kade (455-473)."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Every scene was re-staged at scene scale: the Alaric call opens on a replay of the final and a Mechanics exam, the warning is reworded ('some doors are load-bearing'), Chen's drill is a false-cue lane with a palm-on-pivot rule, the Sera scene is set in the equipment cage with her response application, Kade brings food to the reading room, Liang's 'blade' exchange is new, the Commons dispute is about naming the bell rope. My own normalized comparison (lowercased alphanumeric tokens, matching blocks of 6 or more) finds 482 of 5,885 draft tokens matching the frozen source, 8.2 percent, against the 52.8 percent the editor measured on c0. The largest remaining matches are locked record strings (ASTERION PRECURSOR PROGRAM, ASTERION RESEARCH ANNEX, DISCONTINUED AFTER CONTACT EVENT, the photo metadata dates). Tokenizer differs from the editor's; the editor should re-measure."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "All CLUE_LEDGER ch18 items present: Alaric's restricted knowledge, his Aaron reaction and explicit warning, MERCER, A. tied to the precursor program, CONTACT EVENT marker, Taren's premature dinner knowledge (403-415), Mara as independent investigator. Mara's rank stays seven (173). Kade's two-finger tremor and Park's red bar cost are preserved (119). LEGACY BAY 12 re-observed as in ch11, not spent. Chapter ends on the breakfast message with 'I have enough' (461-475). Aaron's survival and Contact Zero's nature are not revealed. Kade's answer about his father departs from the frozen source line; see deviations."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Short causal beats, clean humor in the Alaric and Kade exchanges, concrete costs (four seconds over her own time with the timer blanked, CALIBRATING on the band), and the win is a table with a WRONG IF column and a defined stopping condition rather than a feeling. Self-assessment only; the editor judges voice."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "No profanity, sexual material, or gore; the worst physical event is a safety-field catch. Speakers are attributed or alternate in short two-person exchanges; scene breaks are marked; record strings are set as full capitalized lines so a listener hears them as documents. No drafting notes or metadata in prose."
+    }
+  ],
+  "inventions": [
+    "Alaric calls on a booked Sunday-nine link in the east-stair study carrel; his 2 a.m. four-line message with replay time stamps; the specific replay beat at four fifty-one where Mara moved Shah off the west post to the east side of the crown. I did not verify that exact Shah move against rewritten chapter 15; it is consistent with Shah's runner role but the editor should check.",
+    "A Mechanics exam on 'the nineteenth' and Alaric's note that Mara leads with the right shoulder past four moves.",
+    "Alaric's joke-of-record: 'you once told me the Kepler captain was harmless.' Implies one past Alaric assessment; no named person, no continuity obligation intended.",
+    "The absent-versus-missing lesson taught at age nine over archive folders forty-one and forty-three (extends the Vey Foundation memory used in c0).",
+    "Chen's false-cue drill: every third sequence carries a false cue since a course change 'yesterday'; the palm-on-pivot-mark rule; the timer blanked; four reduced-speed runs. CALIBRATING and the run record beside the coupled-field notes are source facts.",
+    "Sera's STUDENT INCIDENT RESPONSE observation rotation application with two clinic shifts, a Park reference, and an empty 'experience under live conditions' box; her line 'They feel the same from inside.' Chen-would-sign-the-reference is source.",
+    "Mara watching Julian's clinic from the acceleration lanes, Kade calling his own hand and Julian honoring it in front of about forty unnamed students.",
+    "Liang's 'scissors'/'a blade' exchange and the foam wedge (wedge is source; blade correction is new).",
+    "Taren on the couch arm proposing a name for the bell rope now that Bell Watch is over; Eli using the wrong hand for soup.",
+    "Kade bringing a dining-hall container so he can tell Eli she had food in front of her; 'doors that turn out to hold up walls'; 'Patience was still a theory he was testing.'",
+    "Mara making two identical copies of the table and deleting the row summarizing Kade's student record.",
+    "Sensory texture: the safety field setting her down 'like a book being returned to a shelf'; the twelfth bay known 'the way she knew where the fire doors were'; three dots lasting longer than usual."
+  ],
+  "state_change_proposals": [
+    "STATE_LEDGER ch18: update the length entry from 4,955 to the new count and blob once frozen; record that Mara now holds photographs of the ASTERION RESEARCH ANNEX accession sheet, the page-214 removal register entry, and the LEGACY BAY 12 plate, plus an offline copy of the cached CONTACT ZERO title fragment.",
+    "STATE_LEDGER ch18: record that Kade tells Mara Elena's chapter 12 account (industrial systems work, proximity to early Resonance research, 'classified' after death) and his promise that Elena hears anything first; Mara enters the breakfast knowing that constraint and has made an identical copy of the evidence for him.",
+    "STATE_LEDGER ch18: record that Sera has applied for the student incident response observation rotation with Park as her requested faculty reference (only if the editor accepts this invention as durable).",
+    "NAME_REGISTRY: add chapter 18 to Priya Shah's appearance list (surname only, in Alaric's replay line).",
+    "Timeline note: the Alaric call is the Sunday one week after the House Trial final; the Spire archive visit and Taren's message are the following day.",
+    "CLUE_LEDGER ch18: note the twelfth bay (planted ch11) is re-observed by Mara as reinforcement; Taren's premature 'skipped dinner' message is preserved exactly as the ledger requires."
+  ],
+  "deviations": [
+    "Length: 5,867 words by whitespace against a 4,900 target. That is 19.7 percent over, outside the 12 percent band (ceiling 5,488) but inside the 25 percent extended tolerance the production spec allows when the space materially supports the chapter. The growth came from re-staging every scene to clear the freshness finding. If the editor files a length finding, the Chen drill runs (lines 165-171) and the Liang caption exchange (353-359) are the first cuts.",
+    "Continuity-002 repair: Mara's memory now cites Kade holding out his hand when Park said 'Hand' in the medical corner after the final (draft 119, 149), grounded in rewritten chapter 15 lines 293-295 where the winning House was held on the field for eleven minutes with Park in the corner chair. Mara was captain on that field, so she plausibly witnessed it. The invented House-wide fear admission is gone. The phrase 'in front of the entire House' is my characterization of that scene; the editor should confirm it is not an overstatement.",
+    "Kade's answer about his father's work departs from the frozen source ('No... He died when I was a baby'). He relays Elena's chapter 12 account and his door promise because rewritten chapter 12 established that knowledge; keeping the source line would contradict upstream canon. Carried over from c0.",
+    "The source's display of eleven Standard Eight portraits with an empty panel is replaced by the Hall of Standards bronzes and sealed twelfth bay from rewritten chapter 11 (same clue function). Carried over from c0.",
+    "The source's 'Day Three of the New Era' Commons argument is replaced with a dispute over naming the bell rope, with no explicit day count, because rewritten chapters 16 and 17 occupy the intervening week.",
+    "Alaric's warning wording ('some doors are load-bearing') and Mara's retort replace the source's 'histories that do not improve through curiosity' exchange that the freshness finding cited; the locked function (explicit instruction not to investigate) is preserved.",
+    "Seam: chapter 17 ends with Kade at the ferry terminal on an unspecified day; chapter 18 has him in Julian's clinic on the island on Sunday morning. Not contradicted by chapter 17 text, but the return day is unverified."
+  ],
+  "blockers": []
+}

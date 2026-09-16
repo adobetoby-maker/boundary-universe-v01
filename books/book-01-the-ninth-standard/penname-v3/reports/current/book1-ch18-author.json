@@ -1,0 +1,56 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch18-author-c2",
+  "scene_id": "book1-ch18",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-18-the-vey-problem.md",
+  "word_count": 5457,
+  "obligations": [
+    {
+      "obligation": "book1-ch18-length-003: compress at least 379 words to bring the chapter under the 5,488-word ceiling",
+      "status": "MET",
+      "evidence": "wc -w now reports 5,457 words, down from 5,867 (410 words removed). The acceleration-drill sequence was cut from 1,093 to roughly 830 words by merging the lane description, removing the spectator-reaction beat, collapsing the four reduced-speed attempts into one detailed run plus the fourth-run summary, and tightening Chen's dialogue. Remaining cuts came from phrase-level trims in the Sunday call, the Sera cage scene, the public-file section, the reading-room scene, and the paper archive."
+    },
+    {
+      "obligation": "Preserve fresh scene construction and Mara's false-cue learning delta",
+      "status": "MET",
+      "evidence": "Lane rules, the false-cue crash at the forty-first run, Chen's diagnosis (likely answer promoted to fact), the reduced-speed flat-hand condition, the blanked timer, and the CALIBRATING record all remain at lines 115-169."
+    },
+    {
+      "obligation": "Preserve Sera's independent purpose",
+      "status": "MET",
+      "evidence": "STUDENT INCIDENT RESPONSE observation rotation, the empty live-conditions box, Sera reading past the selection notes, and her choice of Park over Chen as reference all remain; only the four-line reference exchange was merged into two lines."
+    },
+    {
+      "obligation": "Preserve every assigned clue",
+      "status": "MET",
+      "evidence": "'structural event' (lines 51, 61), Alaric's stillness at Aaron's name and 'Leave the Mercer family where they are' (line 87), MERCER, A. RESEARCH CLEARANCE RESTRICTED, ASTERION PRECURSOR PROGRAM, the Research Annex accession sheet, the cut page, LEGACY BAY 12 count, Taren's 'skipped dinner' message, DISCONTINUED AFTER CONTACT EVENT, and CONTACT ZERO. COMPATIBILITY STUDY are all intact."
+    },
+    {
+      "obligation": "Preserve the equal-ownership decision and final breakfast message",
+      "status": "MET",
+      "evidence": "The two identical copies, the deleted student-record row, and the 'Breakfast. I have enough.' / 'Enough that it's yours too.' exchange are unchanged at the chapter end."
+    },
+    {
+      "obligation": "Do not touch canon, reveal order, rank arithmetic, names, or downstream facts",
+      "status": "MET",
+      "evidence": "No factual content was added or altered. Mara remains rank seven, Kade's hand tremor continuity from Chapter 17 is preserved, Instructor Chen and Mr. Liang remain distinct, and no new named entity appears."
+    },
+    {
+      "obligation": "Family-clean and audio-readability requirements",
+      "status": "MET",
+      "evidence": "grep for profanity returns nothing; all cuts removed or shortened prose rather than introducing typographic dependence. Speaker attribution in the drill scene was clarified ('Chen killed the lane and walked over' / 'he said')."
+    },
+    {
+      "obligation": "No drafting notes, reports, word counts, or metadata in the manuscript",
+      "status": "MET",
+      "evidence": "File begins with the chapter heading and ends with the final prose sentence; seven scene-break rules are the only non-prose lines."
+    }
+  ],
+  "inventions": [],
+  "state_change_proposals": [],
+  "deviations": [
+    "Compression was not confined to the cited drill sequence. About 260 words came from lines 115-173 and about 150 from phrase-level trims elsewhere (opening call, Sera scene, public file, reading room, archive), because cutting the full 379 from the drill alone would have removed the fourth-run footwork delta or Chen's diagnosis. No beat, clue, or relationship movement was removed; only redundant phrasing and one decorative spectator line."
+  ],
+  "blockers": []
+}
