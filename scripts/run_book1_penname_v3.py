@@ -7,6 +7,7 @@ import argparse
 import hashlib
 import json
 import os
+import signal
 import shutil
 import subprocess
 import sys
@@ -156,15 +157,33 @@ class Runner:
         log_path: Path | None = None,
         timeout: int | None = None,
     ) -> subprocess.CompletedProcess[str]:
-        result = subprocess.run(
+        process = subprocess.Popen(
             argv,
-            input=stdin,
             text=True,
             cwd=cwd,
-            capture_output=True,
-            timeout=timeout or self.args.timeout,
+            stdin=subprocess.PIPE,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
             env={**os.environ, "NO_COLOR": "1"},
+            start_new_session=True,
         )
+        try:
+            stdout, stderr = process.communicate(
+                input=stdin,
+                timeout=timeout or self.args.timeout,
+            )
+        except subprocess.TimeoutExpired:
+            # Claude can launch MCP descendants that inherit its stdout/stderr.
+            # Killing only the CLI parent leaves those pipes open and causes
+            # communicate() to wait indefinitely, so terminate the full group.
+            os.killpg(process.pid, signal.SIGTERM)
+            try:
+                process.communicate(timeout=5)
+            except subprocess.TimeoutExpired:
+                os.killpg(process.pid, signal.SIGKILL)
+                process.communicate()
+            raise
+        result = subprocess.CompletedProcess(argv, process.returncode, stdout, stderr)
         if log_path:
             log_path.parent.mkdir(parents=True, exist_ok=True)
             log_path.write_text(
