@@ -1,0 +1,74 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch20-author-c0",
+  "scene_id": "book1-ch20",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-20-run.md",
+  "word_count": 5491,
+  "obligations": [
+    {
+      "obligation": "Kade attempts to leave; Sera calls out preemptive abandonment; he stays because he chooses his people, not because he trusts Asterion.",
+      "status": "MET",
+      "evidence": "Kade packs the green duffel, adds CONFIRM BY 18:00 to the duty board, is issued seat fourteen at the transit desk with no hold on his record, and cancels at Gate East Two. Sera occupies the doorway, says 'Leave before the place gets a vote,' and makes him name what leaving costs. Closing section states he stayed 'Not because he trusted Sen' but for Mara's evidence, Eli's future, Sera's honesty, and Meridian noticing whether he shows up."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a paraphrase or recap.",
+      "status": "MET",
+      "evidence": "New staging throughout: Sera runs a 'cost column' interrogation instead of only reasons; Kade calls Elena himself to honor the Chapter 19 'you hear it first' promise; Mara waits outside Sen's office so 'not alone' is kept; Cole's shelter-drill callback replaces the source's bench joke; the contested duty is Thursday kitchen close rather than bell watch because Bell Watch is Taren's ritual in this rewrite."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state.",
+      "status": "MET",
+      "evidence": "Duffel weighs 8.4 kg (8.1 on arrival), seat fourteen, Gate East Two, boarding 11:42, Elena's city as destination; Sen admits the lie, confirms Aaron was Zero, says 'I can't tell you yet,' releases academy file plus Asterion withholding index, denies asking anyone to stop him, apologizes and receives 'Okay'; Sen names the Directorate and Kade links it to Taren's word on the steps; Taren's half-second reaction at dinner filed as 'Later'; Mara's notes exchange ends 'still wrong on page fourteen'; Thursday duty confirmed at 17:46; boarding strip carries three lines; Elena's first-night note placed face up; duffel folded in thirds under the bed."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice with practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "Close third on Kade, past tense, medium-length sentences with short landings, attention on objects, weights, schedules, and exits; humor from Eli, Nessa, Anton, and Cole arises from character pressure and does not erase the cost."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements.",
+      "status": "MET",
+      "evidence": "Grep for profanity returned nothing; no gore or sexual content; message exchanges are short and read aloud without typography; all speakers are tagged or distinguishable by priority and rhythm; the only em dash is in the chapter heading, matching Chapter 19's format."
+    },
+    {
+      "obligation": "Plants: Sera's Disaster Response Corps goal and placement fire; Eli's civilian stabilization ambition; Kade reaches the terminal unobstructed; stays for chosen relationships; folded duffel pays off the Chapter 3 image.",
+      "status": "MET",
+      "evidence": "Sera names the Disaster Response Corps and the kitchen fire where staff froze and kids did not; Eli's Systems Lab fellowship projection with the red ring of parts, the stairwell, three minutes, and a five-day deadline; Cole confirms no travel restriction and prints the seat; closing reasons are people, not the institution; the duffel is folded in thirds, tag and all, and slid under the bed instead of the shelf."
+    },
+    {
+      "obligation": "Payoffs without spending later reveals.",
+      "status": "MET",
+      "evidence": "Cole's 'one line on the schedule that belongs to you' and shelter-drill lines from Chapter 3 pay off; Elena's note pays off; Sen withholds Aaron's present status; no Contact Zero content, twelfth-name material, or Taren's role is advanced."
+    }
+  ],
+  "inventions": [
+    "Thursday KITCHEN CLOSE as the contested House duty Kade traded from Nessa (replaces the source's 'bell watch,' which in this rewrite is Taren's morning count ritual, not a rota).",
+    "Sera's interrogation asks for the cost of each reason rather than the reason alone, forcing Kade to name Vector Class, the site-history desk, and the people in the room.",
+    "Kade calls Elena from the terminal himself, fulfilling the Chapter 19 promise that she hears it first; she is at home rather than on shift.",
+    "Mara waits on the reception bench outside Sen's office at Kade's request so the 'not alone' promise is kept while the Sen conversation stays one-on-one; Kade tells her everything on the walk back.",
+    "Cole's parting line reframes the departure as the first-night shelter drill: found the pad, then found it again.",
+    "Sera's second-placement friend is left unnamed (the source named her Imani, which collides with Imani Bell from Chapters 3 and 4 of this rewrite).",
+    "Unnamed background: a family farewelling a second-year, two first-years arguing over luggage weight, a sleeping upper-year, a card game in the common room."
+  ],
+  "state_change_proposals": [
+    "Sera's Disaster Response Corps ambition and the first-placement kitchen fire are now on page and known to Kade and Eli.",
+    "Eli's Systems Lab fellowship application (low-cost civilian field stabilizer, five days to deadline) is now known to Kade.",
+    "Kade holds his complete academy file and an Asterion-controlled withholding index with record identifiers and withholding authorities; historical answers remain withheld.",
+    "Sen has admitted the lie and Aaron's Zero status to Kade directly and has stated she searched records about him after the structural event to learn what the Directorate knew.",
+    "Kade has confirmed Thursday kitchen close and told Nessa and Anton he is back.",
+    "Elena knows Kade reached the transit gate, chose not to board, remains angry at her and Sen, and went to Sen afterward with Mara at the door.",
+    "Mara knows the full content of the Sen conversation.",
+    "Kade has filed Taren's half-second reaction at dinner as something to examine later.",
+    "The green duffel is now folded under the bed rather than on the visible shelf; the cancelled boarding strip with three written lines is propped on Kade's desk."
+  ],
+  "deviations": [
+    "Source chapter's physical room-key and door-hook business was dropped because Chapter 3 of this rewrite establishes the enrollment band as the key; the commitment beat is carried by the duffel, the duty confirmation, and the boarding strip instead.",
+    "Source's 'bell watch' duty replaced with kitchen close for consistency with this rewrite's Bell Watch ritual.",
+    "Source background names Mateo Ruiz and Renn omitted because neither appears in the canonical name registry; Ms. Alvarez reference omitted because the cited line is not established in the rewritten Chapter 17.",
+    "Sera's placement friend is unnamed rather than 'Imani' to avoid a collision with Imani Bell.",
+    "Word count is 5,486 prose words, at the top edge of the plus-or-minus twelve percent band; the editor may want a light compression pass in the Sera or Sen sections.",
+    "Adapter normalized whitespace word count from 5486 to 5491."
+  ],
+  "blockers": []
+}

@@ -3,7 +3,7 @@
   "scene_id": "book1-ch20",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "structural_repair",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -117,19 +117,36 @@
       "required": true
     },
     {
-      "kind": "reference",
-      "label": "Frozen source chapter; preserve facts, not sentences",
-      "path": "manuscript/chapter-20-run.md",
-      "required": true
-    },
-    {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-19-aaron-mercer.md",
       "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Current rewrite to repair",
+      "path": "penname-v3/manuscript/chapter-20-run.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
+  "verified_findings": [
+    {
+      "id": "F-CH20-001",
+      "severity": "HIGH",
+      "gate": "Fresh re-authoring rather than line-by-line paraphrase",
+      "evidence": "penname-v3/manuscript/chapter-20-run.md:3-9: The green duffel came down off the shelf above the drawers at six in the morning... Packing took eleven minutes. Most of that was socks. Verification: The cited files and opening quotations exist and are accurate. Full-chapter comparison confirms the same ordered construction: the eleven-minute/socks opening, Eli observing the packing and presenting his stabilizer application, Sera's doorway confrontation and placement-fire disclosure, the contested House duty, the unobstructed seat-fourteen terminal choice, Elena's call, the Sen confrontation and withholding index, unpacking, duty confirmation, annotated boarding strip, folded duffel, and clipped sit/stay/eat close. Repeated dialogue functions, jokes, object beats, and exact or near-exact phrases sufficiently support the claim that this is a recast rather than a genuinely fresh chapter.",
+      "consequence": "The opening reproduces the source’s distinctive duration, sock joke, duffel business, and departure setup; comparable correspondence continues through the ordered scenes, making the result a recast of the prior edition rather than the required fresh chapter.",
+      "repair_target": "Re-stage the chapter through materially different dramatic construction, not merely altered wording. Preserve the unobstructed terminal decision, Sen’s disclosure limits, assigned plants, and closing state while changing how pressures arrive and force Kade’s choice."
+    },
+    {
+      "id": "F-CH20-002",
+      "severity": "LOW",
+      "gate": "Word-count acceptance",
+      "evidence": "penname-v3/manuscript/chapter-20-run.md:1-1: Deterministic run diagnostic: word_count=5491. Verification: Repeating the count over the complete manuscript with wc -w yields 5,491 words. The declared upper bound is 4,900 × 1.12 = 5,488, so the chapter exceeds it by exactly three words. The required report file could not be written because the workspace is read-only.",
+      "consequence": "The chapter misses the declared production-length gate by three words.",
+      "repair_target": "Remove at least three counted words without changing a locked fact, obligation, or major-beat cadence."
+    }
+  ],
   "exceptions": [],
   "output": {
     "draft_path": "penname-v3/manuscript/chapter-20-run.md",

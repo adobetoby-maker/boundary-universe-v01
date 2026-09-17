@@ -1,0 +1,97 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch20-author-c1",
+  "scene_id": "book1-ch20",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-20-run.md",
+  "word_count": 5482,
+  "obligations": [
+    {
+      "obligation": "F-CH20-001: Re-stage the chapter through materially different dramatic construction, not merely altered wording",
+      "status": "MET",
+      "evidence": "New construction inverts the order of pressures: Kade tests the transit desk before packing and holds a seat on the twelve-ten from the first scene, so the chapter runs on a clock rather than a linear discovery. Eli's ambition arrives as a request for help on a deadline-bound application (section four, fail-safe language) rather than a projection Kade notices. Sera's confrontation happens on the Central Bridge while she times muster routes, and she walks him to the gate and leaves; her leaving story is a fire-drill exit at fourteen, not a note mailed back. The wait is filled by Kade paying the Mechanics model he owed from Chapter 19. He boards the aircraft, sits in seat eleven, calls Elena from the cabin, and steps off before the door seals. The Sen scene is a nine-minute stairwell conversation forced by a Room Four style sit-in at reception, framed through the Chapter 19 cover-plate metaphor. No opening duffel-at-six, no eleven-minute/socks joke, no Mara-delivered Sen message, no duty board, no bench-side Elena call, no office scene."
+    },
+    {
+      "obligation": "F-CH20-002: Word count within 4,900 ± 12% (4,312 to 5,488)",
+      "status": "MET",
+      "evidence": "wc -w on the complete manuscript file including the title line yields 5,482."
+    },
+    {
+      "obligation": "Kade attempts to leave; Sera calls out preemptive abandonment; he stays because he chooses his people, not because he trusts Asterion",
+      "status": "MET",
+      "evidence": "Sera on the bridge: 'You're leaving before. Before somebody here matters enough to lie to you.' Kade tells Elena the cost column by name (Eli's stabilizer, Mara's notes, Sera, Julian, the bell) and steps off the aircraft. To Sen: 'I got off for them. Not for the school. Not for you.' Closing line: 'That was not trust.'"
+    },
+    {
+      "obligation": "Kade physically reaches the departure terminal and confirms nobody is stopping him before choosing to stay",
+      "status": "MET",
+      "evidence": "Cole confirms no hold and no travel restriction and issues seat eleven; Kade later boards, sits, and notes 'nobody, at any point, had put a hand on his arm'; Sen confirms 'Not at my direction' when asked whether anyone was told to stop him."
+    },
+    {
+      "obligation": "Sera's independent goal: Disaster Response Corps, rooted partly in an earlier placement kitchen fire where authority failed",
+      "status": "MET",
+      "evidence": "Sera times muster routes for the Response application on the bridge; tells the grease-pan and curtain fire where two staff with keys froze and kids acted; 'They care whether I can get forty people out of a building that's coming down and lose none of them.'"
+    },
+    {
+      "obligation": "Eli's independent ambition: low-cost civilian field-stabilization hardware",
+      "status": "MET",
+      "evidence": "Systems Lab fellowship application on Eli's tablet: field stabilization for civilian response, rescue crews, rural clinics, costs less than a used car, carried down a stairwell; submitted at seven fifty-two."
+    },
+    {
+      "obligation": "Sen's disclosure limits: admits the doorway lie, confirms Aaron was Zero, withholds what happened to him, releases academy file and a withholding index for Asterion-controlled systems without spending Aaron's survival",
+      "status": "MET",
+      "evidence": "Stairwell scene: 'I lied to you.' 'He was.' 'I can't tell you that. Not yet.' Releases complete academy file and an index of withheld entries with the withholding authority against each, sources redacted, identifiers and authorities not."
+    },
+    {
+      "obligation": "Elena hears it first and answers with an ongoing relationship rather than clipped permission",
+      "status": "MET",
+      "evidence": "Called from seat eleven before the door closes; Elena gives two things that are neither stay nor go, defines running as 'leaving before you've found out what it costs,' accepts his continuing anger, and confirms 'That's both.'"
+    },
+    {
+      "obligation": "Folded, unpacked duffel as physical payoff to the Chapter 3 arrival image",
+      "status": "MET",
+      "evidence": "Kade unpacks, folds the duffel in thirds the way it lived since August, and returns it to the shelf above the drawers where he can see it from the pillow: 'It's a shelf. It's not a door.'"
+    },
+    {
+      "obligation": "Preserve knowledge boundary and reveal order (no villain viewpoint, no Aaron survival, Directorate only as a name Kade got from Taren)",
+      "status": "MET",
+      "evidence": "Kade tests the word Directorate on Sen using Taren's forum-steps source; Sen neither confirms nor denies. No new clues, no Aaron status, no Contact Zero content beyond what Chapter 19 established."
+    },
+    {
+      "obligation": "Family-clean and audio readability",
+      "status": "MET",
+      "evidence": "No profanity found by grep; no gore or sexual content; ticket text and messages are short capitalized lines that read aloud intelligibly; speakers are tagged by action and diction."
+    },
+    {
+      "obligation": "No drafting notes, metadata, or word counts in manuscript prose",
+      "status": "MET",
+      "evidence": "Manuscript contains only the chapter heading and prose."
+    },
+    {
+      "obligation": "Preserve Taren suspicion thread and Mara-as-far-as-the-door beat",
+      "status": "MET",
+      "evidence": "Taren's half-second unreadable face at dinner filed 'Later'; Mara waits on the reception bench by agreement and walks him to the bridge afterward."
+    }
+  ],
+  "inventions": [
+    "Kade tests the transit desk before packing and holds seat eleven on the twelve-ten shuttle for the whole chapter (background staging; no new rule)",
+    "Eli's fellowship application section four 'fail safe' language, Kade's correction that the unit should announce field loss aloud before it drops, and the 07:52 submission with Kade in the acknowledgments",
+    "Sera timing loaded and unloaded muster-route crossings with a stopwatch and a laminated map in grease pencil for her Response application",
+    "Sera's first-placement exit at fourteen during a fire drill, unnoticed for six hours (fresh, unnamed, no continuity obligation beyond her existing pattern)",
+    "Kade paying the Mechanics model he owed the unnamed Sol second-year from the terminal bench, including the cover plate modeled as a member",
+    "Kade boarding the aircraft and stepping off before the door seals, with the attendant's solid square going hollow",
+    "Room Four style sit-in at Spire reception and a nine-minute stairwell conversation with Sen during the external security review",
+    "Cover-plate metaphor for the withholding index ('the drawing with the plate on it')",
+    "Boarding strip repurposed with three lines including 'Every plate has a name on it'",
+    "Duffel returned folded to the shelf rather than hidden"
+  ],
+  "state_change_proposals": [
+    "Minor texture only: Eli's Systems Lab fellowship application was submitted this chapter with Kade named in the acknowledgments; consistent with Eli earning the fellowship by end of Book One.",
+    "Minor texture only: Sera has logged loaded and unloaded muster-route times for her Response application (bridge forty-one seconds unloaded; west route forty-nine seconds loaded)."
+  ],
+  "deviations": [
+    "Kade physically boards the shuttle and sits in his seat before stepping off, which intensifies rather than alters the locked beat of reaching an unobstructed gate; the outcome, cost, and reason for staying are unchanged.",
+    "The Sen conversation occurs in a stairwell off reception during the security review rather than in her office; disclosure limits and released documents are identical in substance to the prior state delta.",
+    "Sen's message via Mara, the House duty board deadline, and the Nessa/Anton duty-swap subplot from the prior draft were dropped as non-locked inventions to satisfy the fresh-construction finding; none were ledger obligations."
+  ],
+  "blockers": []
+}
