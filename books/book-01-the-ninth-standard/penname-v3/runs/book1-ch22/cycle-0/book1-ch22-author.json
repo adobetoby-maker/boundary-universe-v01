@@ -1,0 +1,79 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch22-author-c0",
+  "scene_id": "book1-ch22",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-22-midyear-mercer-v-vey.md",
+  "word_count": 7943,
+  "obligations": [
+    {
+      "obligation": "Kade faces Mara; she defeats him 4–1 by planning beyond his improvisational horizon",
+      "status": "MET",
+      "evidence": "Five scoring exchanges staged in scene: 1–0 (invitation lane, 'taken away the place he meant to stand'), 2–0 (two traps selecting his third recovery), 2–1 Kade (abandons feint mid-sequence, UNCLASSIFIED TRANSITION), 3–1 (pressure, shoulder bait, Boundary refusal, put over the strip), 4–1 ('she changed the future', hip throw). Board: WINNER VEY FOUR TO ONE. Pays off Julian's critique via 'a plan is a tool, not a vow' and 'You trusted one plan.'"
+    },
+    {
+      "obligation": "Mutual respect deepens; attraction undeniable to everyone but them",
+      "status": "MET",
+      "evidence": "Sera's 'Careful'; crowd noise at the post-match handclasp with Mara stepping back; Eli's face; Darius 'WHY DID THE WHOLE ARENA JUST GO OOOH'; semifinal replay scene with reciprocal analysis, 'You earned one point', 'He found that attractive. He decided immediately not to look into why.'"
+    },
+    {
+      "obligation": "Fresh chapter, not a paraphrase or recap",
+      "status": "MET",
+      "evidence": "Re-staged in paragraph-based Fantasy Author A prose; arena geometry harmonized to rewritten Ch21 ring/strip/band rules; new business (Kade's tick under VEY SCORES FIRST, bruised forearm exploited as a forced guard, straight-back retreat used as the discarded feint, 'You didn't wait for me' exchange, bridge cloth coming down at close)."
+    },
+    {
+      "obligation": "Preserve durable facts, ranks, relationship movement, clues, power cost, chapter-end state",
+      "status": "MET",
+      "evidence": "Projection 286 entering; #211 after recalculation; 1,904→211 = 1,693 places; record 4–1; Mara loses semifinal 3–4 to Julian after leading 3–2, heel over line, eight seconds; Julian wins final; Lucian Cross 'Exactly what was expected' / 'Ownership'; Park pupil-response ~2 seconds and 'Control may include choosing not to complete an event'; sixty-four-category audit, NONSTANDARD EVENT ABORT VOLUNTARY SAFE, Park note, forty-eight thousand events, COACHING ABSENT SELF CORRECTION, research exemption, 'aggregate capability forecasting', 'accredited institutional partners', Taren 'The document doesn't define it here', RESPONSE UNDER INFRASTRUCTURE INSTABILITY; closing 'One ladder that everyone can see' / hidden one."
+    },
+    {
+      "obligation": "Chapter-assigned plants (CLUE_LEDGER Ch21–22) and Taren access clue",
+      "status": "MET",
+      "evidence": "Taren reaches the permissions block 'without searching for it', stillness near restricted material, not-I-don't-know phrasing; ladder-as-sensor hypothesis; Sen observing from medical booth. No Ch23+ reveal spent: Aaron reference limited to the accident report and the 23-day transfer discrepancy known from Ch19."
+    },
+    {
+      "obligation": "Do not make Kade dominant; preserve cost and restraint around Boundary use",
+      "status": "MET",
+      "evidence": "Kade initiates perception near west barrier, releases it in stages because 'Mara was inside the system', loses the point for it; carries bruised forearm from Ch21; loses 4–1."
+    },
+    {
+      "obligation": "Family-clean and audio readability",
+      "status": "MET",
+      "evidence": "No profanity, gore, or sexual content; scores spoken as words ('Two to one'); displays rendered as readable caps sentences; time given as 'ten past six'; no meaning carried by bold/italic typography alone."
+    },
+    {
+      "obligation": "No new named characters; no metadata in manuscript",
+      "status": "MET",
+      "evidence": "All named persons are from registry/prior chapters (Armitage and Bisset referenced from Ch21; finalist, official, technicians unnamed). File contains heading and prose only."
+    },
+    {
+      "obligation": "Length within packet tolerance (6,400 ±25%, action exception)",
+      "status": "MET",
+      "evidence": "7,943 words by wc; ceiling 8,000 under owner action-length exception. Close to the ceiling; extra space spent on five-exchange fight geometry, semifinal, and audit aftermath."
+    }
+  ],
+  "inventions": [
+    "Quarterfinal floor staging harmonized to rewritten Ch21 rules: same ring/strip/bands, main-arena barrier close on east and west sides, four paces of dead floor north/south; scoring by band touch, over the strip, or controlled takedown (replaces the source's six-plane description).",
+    "Kade adds a tick under VEY SCORES FIRST on Taren's board (ties to Hale's prediction assignment).",
+    "Kade's bruised forearm from the Bisset bout is noticed by Mara and used to slow his guard in the second scoring exchange.",
+    "Kade's discarded feint in the third exchange is specifically his known straight-back retreat.",
+    "Short 'You didn't wait for me' / 'Six weeks' exchange after the 3–1 point.",
+    "Nessa (not Priya) holds up one finger for her correct one-point prediction; Priya declined to predict, as in source.",
+    "Text messages: Darius 'OOOH' line and Elena 'I SAW NOTHING. I WAS CHARTING'; Elena's closing message adds 'Also I watched the entire thing. Ice the arm.'",
+    "Closing image of second-years untying the bridge cloth from Ch21's opening.",
+    "Julian line: 'You have a habit, Mercer, of turning whatever you learned last into a point of honor.'",
+    "Thread color follows rewritten Ch21 (blue, on Kade's hand strap and Mara's glove seal) rather than the source's green wrist thread."
+  ],
+  "state_change_proposals": [
+    "STATE_LEDGER Ch22 entry: update word count to 7,943 and manuscript blob for the rewrite edition; no change to facts (4–1 loss, #211, audit discovery).",
+    "Note for continuity: rewrite edition uses blue Meridian Open thread (per rewritten Ch21), not green; Priya eliminated in third round by one point (margin is new, result matches source)."
+  ],
+  "deviations": [
+    "Arena scoring geometry restated to match the rewritten Chapter 21 (ring, lit strip, scoring bands, takedown) instead of the source chapter's six scoring planes/centerline; outcomes of every exchange preserved.",
+    "Source's fourth-wall joke ('Chapter Six of our friendship') replaced with an in-world line.",
+    "Source line about 'a public history with one person removed' / 'erased his father from history' softened to the Ch19-known accident-report and transfer-date discrepancy, to avoid pre-spending the Chapter 23 twelfth-name reveal.",
+    "Sera's departure to check a second-year's medical hold during the replay scene was cut for length; Sera remains active in the audit scene.",
+    "Length is 7,943, near the top of the 25% action tolerance (ceiling 8,000)."
+  ],
+  "blockers": []
+}

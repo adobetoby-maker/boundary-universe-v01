@@ -1,0 +1,67 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch22-author-c1",
+  "scene_id": "book1-ch22",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-22-midyear-mercer-v-vey.md",
+  "word_count": 7456,
+  "obligations": [
+    {
+      "obligation": "Kade faces Mara; she defeats him 4–1 by planning beyond his improvisational horizon",
+      "status": "MET",
+      "evidence": "Five staged exchanges: (1) she stands at the end of the angled correction she taught him; (2) she gives ground so his improvised stance 'works', then inverts his own Ortez sleeve-release to put him over the strip; (3) he scores by leaving an error uncorrected; (4) tempo pressure, drift-left habit, Boundary refusal at the east post, chest-band touch; (5) his bruised lead arm, struck once per exchange, arrives a quarter-beat late and she throws him. She reveals she planned it before the bracket posted."
+    },
+    {
+      "obligation": "Mutual respect deepens; attraction undeniable to everyone but them",
+      "status": "MET",
+      "evidence": "Shared warmup square; her pre-bout warning that she will not stop; thread-tucking on the arena display; exchange of Hale prediction forms in recovery hall; Nessa/Eli commentary ('I can't see and I can still see it'); reciprocal training offers."
+    },
+    {
+      "obligation": "Genuinely fresh chapter, not paraphrase (finding book1-ch22-editor-c0-f01)",
+      "status": "MET",
+      "evidence": "New spine (Hale's prediction/falsifier form) replaces betting-pool opening; House chant dispute replaces board; warmup-square scene replaces glass-tunnel banter; new arena geography (four anchor posts); new choreography and causal mechanisms for all five points; no 90-second hold; semifinal narrated aloud to Nessa in recovery hall; Lucian beat restaged at House dinner with new dialogue; audit discovered via Kade's own request in the laundry room; Elena voice call; closing image is a two-handed prediction form rather than the ladder metaphor."
+    },
+    {
+      "obligation": "Preserve durable facts, ranks, clues, power cost, end state",
+      "status": "MET",
+      "evidence": "4–1; Cross 4 Vey 3; #286 → #211 (1904−211=1693); SAFETY COMPLIANCE FULL; sixty-four-category audit incl. voluntary aborted Boundary event with Park's note; fourth policy research exemption 'aggregate capability forecasting' for undefined 'accredited institutional partners'; Taren knows document location and avoids 'I don't know'; Lucian ownership doctrine and Julian's public redistribution; Park: control includes not completing an event; Sen glimpsed; Elena/Darius/Alvarez watching; Aaron transfer-order thought; Kade treats ladder as measurement infrastructure."
+    },
+    {
+      "obligation": "Fantasy Author A voice; family-clean; audio readability",
+      "status": "MET",
+      "evidence": "Close third on Kade, no profanity, no gore, displays rendered in spoken-word capitals, compass-point geography restated at use, speakers attributed."
+    },
+    {
+      "obligation": "No new named characters",
+      "status": "MET",
+      "evidence": "Caught and removed one accidental first name for the unnamed finalist; all named persons are in the registry."
+    },
+    {
+      "obligation": "Plants/payoffs: Julian's critique paid off; weighted recalculation; audit clue",
+      "status": "MET",
+      "evidence": "Julian: 'You plan an exchange. Vey plans a match. I plan a bracket'; Eli restates recalculation factors; audit/policy scene."
+    }
+  ],
+  "inventions": [
+    "Kade voluntarily files Hale's prediction/falsifier form for every bout; Mara does too (extends Ch21 assignment; no new rule)",
+    "House Meridian chant with a name slot and Sera's one-night ruling to cheer the point (unnamed background texture)",
+    "Main-arena geography: four compass-point barrier anchor posts, north/south reset sectors, Meridian seated behind east post",
+    "Infrastructure-coupling rule shown as a newly printed line on the pre-bout slate",
+    "Crowd stamping rather than shouted demands during the Boundary moment",
+    "Mara's match-long plan of legal contacts on Kade's bruised lead forearm",
+    "Additional audit field names (prediction specificity, falsifier quality, behavior following successful technique, reset interval utilization); retained RESPONSE UNDER INFRASTRUCTURE INSTABILITY",
+    "Eighth-floor laundry room setting; Elena voice call during a hospital shift",
+    "Julian credits his unnamed finalist, Vey's 'fifty-two seconds', and the barrier crew"
+  ],
+  "state_change_proposals": [
+    "None beyond locked Ch22 delta: Kade #211, 4–1 loss, voluntary Boundary abort logged, audit/research-exemption discovery, Taren document-location oddity added to Kade's 'pile'."
+  ],
+  "deviations": [
+    "Word count 7,455 vs 6,400 target (+16.5%): above the ordinary ±12% band but inside the owner-approved 25% action-chapter ceiling (8,000).",
+    "Point methods reassigned versus prior draft (point 2 is a strip exit, point 4 a chest-band touch, point 5 a controlled takedown); score sequence and causal logic preserved.",
+    "The prior draft's ninety-second technical hold and iced-shoulder decoy were dropped as part of the freshness repair; the self-correction-without-coaching idea survives as the 'reset interval utilization' audit line.",
+    "Kade leaves his final prediction un-timestamped and unsent, to avoid creating a records-request continuity obligation for Chapter 23.",
+    "Adapter normalized whitespace word count from 7455 to 7456."
+  ],
+  "blockers": []
+}

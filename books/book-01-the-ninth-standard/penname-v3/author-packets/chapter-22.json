@@ -3,7 +3,7 @@
   "scene_id": "book1-ch22",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "structural_repair",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -119,19 +119,28 @@
       "required": true
     },
     {
-      "kind": "reference",
-      "label": "Frozen source chapter; preserve facts, not sentences",
-      "path": "manuscript/chapter-22-midyear-mercer-v-vey.md",
-      "required": true
-    },
-    {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-21-midyear-open-rounds.md",
       "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Current rewrite to repair",
+      "path": "penname-v3/manuscript/chapter-22-midyear-mercer-v-vey.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
+  "verified_findings": [
+    {
+      "id": "book1-ch22-editor-c0-f01",
+      "severity": "HIGH",
+      "gate": "assigned-obligations",
+      "evidence": "penname-v3/manuscript/chapter-22-midyear-mercer-v-vey.md:3-19: The quarterfinal was set for ten past six, which gave House Meridian ninety-three minutes to make it worse. Eli built a comparison model. Sera confiscated it. Taren...opened a betting pool...and renamed it a prediction exercise... Verification: The cited files and opening quotations exist and are accurate. Full-chapter comparison confirms that the rewrite preserves not merely locked facts but the source's distinctive scene order, comic mechanisms, dialogue turns, five-exchange tactical progression, semifinal replay analysis, Lucian interview, ranking audit, and closing metaphor, predominantly through sentence-level restyling and expansion. The explicit freshness obligation is therefore violated, and the stated reader-facing consequence follows.",
+      "consequence": "The replacement reads as a close prose expansion of the frozen source rather than the promised fresh edition. The same opening mechanism, scene sequence, jokes, tactical beats, dialogue turns, semifinal analysis, Lucian interview, ranking audit, and closing ladder metaphor recur in substantially the same order, so the chapter fails an explicit acceptance obligation even though its continuity and craft execution are strong.",
+      "repair_target": "Re-author the chapter from a genuinely different scene-level conception while preserving the locked 4–1 result, five-point causal logic, Boundary refusal, mutual respect and attraction movement, semifinal outcome, Lucian ownership beat, #211 recalculation, audit discovery, Taren clue, and final hidden-ladder pressure. Avoid retaining the source's exact sequence of comic setup, dialogue exchanges, tactical explanations, and aftermath transitions."
+    }
+  ],
   "exceptions": [
     {
       "id": "owner-action-length-policy-2026-09-13",
