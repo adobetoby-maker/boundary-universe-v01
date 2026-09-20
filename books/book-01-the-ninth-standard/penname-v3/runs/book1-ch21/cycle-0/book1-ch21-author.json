@@ -1,0 +1,74 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch21-author-c0",
+  "scene_id": "book1-ch21",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-21-midyear-open-rounds.md",
+  "word_count": 7734,
+  "obligations": [
+    {
+      "obligation": "Tournament begins. Multiple bouts show earned progression and persistent weaknesses.",
+      "status": "MET",
+      "evidence": "Four staged bouts (Armitage #1,611, Ortez #1,204, Min #883, Bisset #503). Progression receipts: pre-registered prediction abandoned on its own disproof condition; waiting five repetitions before using a pattern (Julian's training); heel-first recovery read (Mara's drilling); releasing Ortez's sleeve. Persistent weaknesses: straight-back retreat costs two points vs Armitage; reused false cue vs Ortez; impatience vs Min twice; drifting left when tired vs Bisset."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "Restaged from scratch in the rewrite's paragraphing and voice; new opening on the duffel coming off the shelf (ch20 seam), explicit arena geography and scoring, re-blocked exchanges, new closing beat tying Hale's 'favorite answer expires' to Mara having watched all four bouts."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state.",
+      "status": "MET",
+      "evidence": "2,048 entrants cut to 128; seed #1,904; four weighted wins incl. #503; live projection #286 marked PROVISIONAL and subject to recalculation; no Boundary use; near-reach against Ortez and Min with cost named (tremor, visual lag, misdirected force) and a point lost while setting it down; Nessa overload withdrawal; Eli loses 91.4 to 88.7 and pivots to a recovery metric; Sera's Response observation slot; Taren clues (ankle tape note, interior-door 'air', unrequested correct coffee, locating them unprompted); Elena/Darius/Alvarez messages; quarterfinal Vey #7 v Mercer ending."
+    },
+    {
+      "obligation": "Fantasy Author A voice.",
+      "status": "MET",
+      "evidence": "Close-third practical attention (feet, lanes, strip), victories with receipts, dry humor from character pressure, ensemble with independent goals."
+    },
+    {
+      "obligation": "Family-clean and audio-readable.",
+      "status": "MET",
+      "evidence": "No profanity (partner's under-breath line removed), no gore; displays rendered as spoken-number capitals, no bold/typography-dependent meaning; speakers attributed."
+    },
+    {
+      "obligation": "Plants: preserve chapter-assigned plants in CLUE_LEDGER.",
+      "status": "MET",
+      "evidence": "Rules paragraph establishes weighted live projections and full recalculation at close; Kade refuses unsafe Boundary use for spectacle ('Use it!' beat, Park exchange); academy-wide event with Meridian/Northline/family spectators; Taren surveillance clues retained without resolution."
+    },
+    {
+      "obligation": "Payoffs without advancing later answers.",
+      "status": "MET",
+      "evidence": "Pays Julian's improvisation critique and Hale's abort contract; does not spend the ch22 sixty-four-category audit, Taren's assignment, or any Aaron/Contact Zero material."
+    },
+    {
+      "obligation": "Prohibited outcomes avoided.",
+      "status": "MET",
+      "evidence": "Kade is outclassed by Bisset and wins 4-3 with six seconds left; two 3-2 wins on time; no new named characters (Armitage, Ortez, Min, Bisset all from source); no metadata in manuscript."
+    }
+  ],
+  "inventions": [
+    "Explicit bout format: eleven-meter ring, lit boundary 'strip', one point per scoring-band touch or ring-out, first to four or lead at five minutes (made consistent with Mara's 4-0 here and 4-1 in ch22).",
+    "House affiliations for source-named opponents whose Houses the source left blank: Ortez (Horizon), Min (Sol), Bisset (Atlas). Armitage remains Kepler per source.",
+    "Kade's pool record (third of sixteen, five wins, two losses) and intermediate projections (#1,370, #912, #461) between the locked #1,904 seed and locked #286.",
+    "Eli's unnamed engineering partner described as a ninth-floor second-year with a soldering scar; still unnamed.",
+    "Eli's self-diagnosis that he scored a civilian unit 'like an arena' and the 'time to safe / time back from safe' phrasing for his recovery metric.",
+    "Gate check uses the four abort triggers from rewritten ch11 (visual lag, tremor, cold line, uncommanded anomaly).",
+    "Mara's fourth-round result stated as 4-1, forty minutes before Kade's."
+  ],
+  "state_change_proposals": [
+    "Kade live projection #286 after four weighted wins (matches STATE_LEDGER).",
+    "Sera holds a Disaster Response observation slot for one coastal-response drill (matches ledger).",
+    "Eli begins rebuilding his fellowship model around a recovery metric instead of peak retention.",
+    "Nessa withdrawn from the Open on Perception overload; Priya advances from round one.",
+    "Record for registry/continuity: Ortez=Horizon, Min=Sol, Bisset=Atlas if the lead accepts the affiliation inventions."
+  ],
+  "deviations": [
+    "House colors follow the rewritten manuscript (Meridian blue, Kepler white, Horizon red) rather than the source chapter's green Meridian; the first-year Open thread is therefore blue.",
+    "Sera's kitchen-fire account is not retold in the source's form, because rewritten ch20 already gave a different, now-authoritative version (second placement, grease pan and curtain, back door). The lunch scene alludes to it in terms compatible with ch20 and keeps the 'right decision made badly' motive.",
+    "Julian takes the next four points (source: three) and Priya's bout stands at 3-3 before her winning touch (source: 2-2), to fit the explicit first-to-four format. Armitage and Ortez bouts end 3-2 on time; the Armitage trap still lands at four minutes.",
+    "Meridian's unattributed banner and the 'Mara reads the rules paragraph four times' exchange were cut for length.",
+    "Word count 7,734 (about 7,718 of prose) uses the owner action-length exception; ceiling is 7,750, so there is almost no headroom for additive repairs."
+  ],
+  "blockers": []
+}

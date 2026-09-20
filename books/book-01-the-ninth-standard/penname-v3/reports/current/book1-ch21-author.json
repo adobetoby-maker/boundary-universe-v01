@@ -1,0 +1,49 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch21-author-c2",
+  "scene_id": "book1-ch21",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-21-midyear-open-rounds.md",
+  "word_count": 7724,
+  "obligations": [
+    {
+      "obligation": "F-001: remove newly specified Open rules and restore source-compatible scores",
+      "status": "MET",
+      "evidence": "Arena paragraph now gives only geography (ring, lit strip, two center marks) and the source-attested scoring means (scoring-band touch, putting opponent over the strip); ring diameter, stride spacing, first-to-four threshold and five-minute limit removed. Julian now 'took the next three points'; Priya's bout now 'Two all, and under a minute'. Armitage bout no longer depends on a five-minute clock: trap is 'On the last exchange' and ends 'Three to two, and the horn came down on top of it', matching the source's point-then-buzzer ending. Min line 'One more and it was over' replaced with 'He could not afford another.'"
+    },
+    {
+      "obligation": "F-002: remove pool record and exact intermediate projections; keep #1,904 seed, opponent ranks, #286 endpoint",
+      "status": "MET",
+      "evidence": "'third of sixteen on five clean wins and two losses' replaced with qualitative line; #1,370 and #912 board readings made qualitative; #461 replaced with 'had climbed under five hundred' (source: 'moved below five hundred'). Seed nineteen hundred and four, ranks 1,611 / 1,204 / 883 / 503, and LIVE PROJECTION TWO HUNDRED AND EIGHTY-SIX unchanged."
+    },
+    {
+      "obligation": "F-003: remove invented House affiliations for Ortez, Min, Bisset",
+      "status": "MET",
+      "evidence": "'of Horizon', 'House Sol', and 'House Atlas' deleted from the three introductions; grep confirms no remaining affiliation for those characters. Armitage/House Kepler retained (source and registry)."
+    },
+    {
+      "obligation": "Targeted repair only; preserve four-bout structure, action geography, plants and chapter-end state",
+      "status": "MET",
+      "evidence": "Thirteen localized string replacements; no other passages altered. Taren surveillance clues, Nessa withdrawal, Eli engineering loss, Sera observation slot, restraint against Min, quarterfinal draw vs Mara all intact."
+    },
+    {
+      "obligation": "Length within action-exception ceiling (6,200 +25% = 7,750)",
+      "status": "MET",
+      "evidence": "wc -w reports 7,724."
+    },
+    {
+      "obligation": "Family-clean, audio-readable, no metadata in manuscript",
+      "status": "MET",
+      "evidence": "No content added beyond the replacements; prose only."
+    }
+  ],
+  "inventions": [
+    "Qualitative replacement beats only: Kade declining to memorize a provisional number; board moving his line 'past a great many names he did not know'. No new facts, names, rules, or numbers."
+  ],
+  "state_change_proposals": [],
+  "deviations": [
+    "Kade's own bout scores (3-2, 3-2, 4-3, 4-3) were retained without a stated victory rule: the source gives Min 3-1 then a comeback win, a Bisset tie broken with six seconds left, Priya winning a match from 2-2, and Mara's canon 4-0 / 4-1, so the totals are source-compatible while the threshold itself is no longer asserted.",
+    "Not flagged and left untouched: Armitage's post-bout exchange reads 'three exchanges' / 'Five' where the source has 'three' / 'Four'; House cloth colors follow the rewrite's established Meridian-blue/Horizon usage (chapters 14-15) rather than the source's green. Editor may wish to rule on these."
+  ],
+  "blockers": []
+}

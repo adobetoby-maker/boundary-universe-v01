@@ -3,7 +3,7 @@
   "scene_id": "book1-ch21",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "structural_repair",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -119,19 +119,44 @@
       "required": true
     },
     {
-      "kind": "reference",
-      "label": "Frozen source chapter; preserve facts, not sentences",
-      "path": "manuscript/chapter-21-midyear-open-rounds.md",
-      "required": true
-    },
-    {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-20-run.md",
       "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Current rewrite to repair",
+      "path": "penname-v3/manuscript/chapter-21-midyear-open-rounds.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
+  "verified_findings": [
+    {
+      "id": "F-001",
+      "severity": "HIGH",
+      "gate": "authority_and_continuity",
+      "evidence": "penname-v3/manuscript/chapter-21-midyear-open-rounds.md:209-209: The arena was the standard Open floor: a ring eleven meters across... First to four, or whoever led when five minutes ran out. Verification: The draft adds exact arena dimensions, scoring bands, a four-point threshold, and a five-minute rule despite the packet forbidding new rules. It also changes the source’s three unanswered Julian points and Priya’s 2-2 score to four unanswered points and 3-3, respectively, producing direct scoring-continuity violations.",
+      "consequence": "The draft canonizes an exact arena size, scoring-band scheme, victory threshold, and time rule despite the packet explicitly forbidding new rules. It then changes source scores to fit that invented format: Julian takes four unanswered points and Priya reaches three-all, where the frozen source records three unanswered points and a two-all score.",
+      "repair_target": "Remove or obtain approval for the newly specified Open rules, and restore source-compatible score descriptions without disturbing the clear action geography or four-bout structure."
+    },
+    {
+      "id": "F-002",
+      "severity": "MEDIUM",
+      "gate": "authority_and_continuity",
+      "evidence": "penname-v3/manuscript/chapter-21-midyear-open-rounds.md:15-15: Kade had come out of his pool third of sixteen on five clean wins and two losses he could still feel in his forearms. Verification: A repeated count confirms one new qualifying-pool record and exactly three unauthorized intermediate projections: #1,370, #912, and #461. Frozen evidence authorizes the #1,904 seed and #286 endpoint but not these added backstory and rank-arithmetic facts.",
+      "consequence": "The chapter adds a qualifying-pool record and three exact intermediate projections (#1,370, #912, and #461) that are absent from the locked state, creating new rank arithmetic and durable tournament history beyond the authorized #1,904 seed and #286 endpoint.",
+      "repair_target": "Keep the locked seed, opponent ranks, weighted-win progression, and #286 endpoint; make intermediate movement qualitative unless exact values and the pool record receive approval."
+    },
+    {
+      "id": "F-003",
+      "severity": "LOW",
+      "gate": "authority_and_continuity",
+      "evidence": "penname-v3/manuscript/chapter-21-midyear-open-rounds.md:421-421: Round two was rank twelve hundred and four, Luis Ortez of Horizon... Verification: The draft assigns Ortez to Horizon, Min to Sol, and Bisset to Atlas, while the frozen source provides no such affiliations. The author report identifies all three as inventions requiring continuity acceptance; they create durable character-to-House facts outside the allowance for unnamed background texture.",
+      "consequence": "Assigning Ortez to Horizon, Min to Sol, and Bisset to Atlas creates three new character–House continuity facts not present in the frozen source and explicitly requires registry acceptance in the author report.",
+      "repair_target": "Remove the three invented House affiliations or secure explicit approval and record them in continuity state."
+    }
+  ],
   "exceptions": [
     {
       "id": "owner-action-length-policy-2026-09-13",
