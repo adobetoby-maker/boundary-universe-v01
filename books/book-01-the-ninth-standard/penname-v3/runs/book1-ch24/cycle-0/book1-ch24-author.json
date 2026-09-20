@@ -1,0 +1,84 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch24-author-c0",
+  "scene_id": "book1-ch24",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-24-the-quiet-war.md",
+  "word_count": 6267,
+  "obligations": [
+    {
+      "obligation": "Sen gives partial truth: Contact Zero, nonhuman technology, academies as more than sport.",
+      "status": "MET",
+      "evidence": "Office scene: damaged nonhuman object found beyond Neptune's orbit by a multinational survey consortium; 'We did not invent Resonance'; academies founded to find, measure and distribute capability; the ladder confirmed as 'one of several instruments that help to find unusual interaction profiles'; Sen explicitly withholds the object's fate, Aaron's present status, and when/where she saw him."
+    },
+    {
+      "obligation": "Kade realizes the institution can be both home and machine.",
+      "status": "MET",
+      "evidence": "Walk back to Meridian: the late kitchen's soup under a cloth set against the sixty-four-category audit: 'It was his home and it was a machine, and he would not get to pick one and be angry at the other.' Reprised in the dining-hall close."
+    },
+    {
+      "obligation": "Fresh chapter, not a paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "New staging throughout: four chairs already set out, Sen routing the refusal through the Ch20 withholding index under her own name, Halden's question reused as the header of Kade's audit, Amadi telling Kade the question 'belongs to the room now'. The source's one-line fragment cadence is replaced with continuous close-third prose."
+    },
+    {
+      "obligation": "Preserve every durable fact, clue, power cost and chapter-end state.",
+      "status": "MET",
+      "evidence": "Retained: 31 years; twelve-person coupled trials; 11.4 seconds of stable coupling then failure; several injured and one later death; Aaron altered the boundary of the coupled system (CATEGORY INVALID telemetry); Mara reads distinctness, Eli the boundary failure, Sera the medical cost; Directorate origin and drift; Sen's and Aaron's former membership; Sen saw Aaron after the official accident; fewer than two hundred know the full history; Alaric's improper knowledge; temporary know/think/do protocol dissolved in tea; 00:47 call to Elena with bounded truth and an owned reason; Amadi's twelve-column audit; Taren lunch with rank #211 and 'I saw you'. There is no Boundary use in this chapter, so no power cost is shown or contradicted."
+    },
+    {
+      "obligation": "Fantasy Author A voice; family-clean; audio-readable.",
+      "status": "MET",
+      "evidence": "Practical close-third attention (Kade counts chairs, returning traces and columns); clean humor from Sera and Eli; no profanity, gore or romance content. Display text is always introduced in a sentence, dialogue is tagged, and only two em dashes appear in the body, both for interrupted speech."
+    },
+    {
+      "obligation": "Plants: preserve the chapter-assigned plants (CLUE_LEDGER Ch24).",
+      "status": "MET",
+      "evidence": "All Ch24 ledger items are present, including the point that the revelations carry consequences for what Kade himself tells Elena. The 'share control' line seeds Consensus without being explained."
+    },
+    {
+      "obligation": "Payoffs without advancing later answers.",
+      "status": "MET",
+      "evidence": "Pays off Sen's Ch12 lie ('I chose every word so that you would hear it'), the Ch22 ladder-as-sensor suspicion and the Ch23 twelfth identifier. It does not reveal Aaron's location or survival, the Refuge Node's fate, the Quieters, or Taren's assignment."
+    },
+    {
+      "obligation": "Prohibited outcomes avoided.",
+      "status": "MET",
+      "evidence": "No new named characters. Only registry names are used (Halden, Amadi, Alaric Vey). Ranks are unchanged, and Kade is neither dominant nor using power."
+    },
+    {
+      "obligation": "Target length 5,600 words, plus or minus twelve percent.",
+      "status": "MET",
+      "evidence": "6,262 words of prose (6,267 with the title line), against a ceiling of 6,272. The first draft ran to about 7,500 and was compressed in five passes. The edited file was not re-read end to end after the final cuts."
+    }
+  ],
+  "inventions": [
+    "Staging: Sen has four chairs set out, having counted contributors from the attachments to Kade's filing.",
+    "Sen says Eli's oversight notice 'comes to my desk' and that she cannot promise it comes only to hers. This follows up the Ch23 bell without naming any recipient.",
+    "Sen says she called Aaron 'subject' in reports for six years, and that his cross-category trace was filed as instrument error for two years. The six years is consistent with Mara's Ch23 finding of six years of restricted listings.",
+    "Sen says she was twenty-five at the time of Contact Zero, consistent with the bronze showing her at twenty-six.",
+    "Mara knows the Directorate's name from a routing stamp in the precursor cards. The source has only 'I read.'",
+    "Sen tells Kade to enter the 'is Aaron alive' refusal on his Ch20 withholding index with 'Amara Sen' as the withholding authority.",
+    "Elena's inspectable-limit exchange: disclosure must be in person and carry no signal; they review it at the kitchen table when Kade is home at the break; any change about Aaron is shared the same day.",
+    "Elena's lines about giving death news 'the other way round' and building seventeen years on a cardboard box, drawing on the canonical box of effects with no body.",
+    "Kade heads his audit with Halden's Ch23 question. Amadi assigns the audit in pairs and tells Kade the question belongs to the room.",
+    "A House custom of leaving soup out for late returns, as unnamed background texture supporting the home/machine realization."
+  ],
+  "state_change_proposals": [
+    "Kade, Mara, Eli and Sera now know: Contact Zero is nonhuman; Resonance science derives from it; the academies and the ladder have a strategic measurement function; the Continuity Directorate's origin and Sen's former membership; the 11.4-second twelve-person coupling and Aaron's boundary alteration; Sen saw Aaron after the official accident.",
+    "Kade's withholding index gains one entry, Aaron's present status, with Sen herself as the withholding authority.",
+    "Elena knows Aaron was Standard Eight, that Zero came from the same program, and that Sen saw him alive after the certificate date. She knows more exists, that the limit is Kade's own decision, and the conditions under which he will tell her.",
+    "Group protocol: no full disclosure without returning to the group first; no promise of permanent silence; Eli will not copy Sen's files; Mara will separate Alaric's facts from inference before contacting him.",
+    "Kade has begun deliberately withholding from Taren out of caution; Taren is visibly aware of it.",
+    "Amadi's class has an open audit of the twelve-source calibration set, with Kade assigned the sealed-attribution problem."
+  ],
+  "deviations": [
+    "In the source, Sen says 'I do not know whether the official event killed him' and Kade tells Elena 'She says she does not know.' This draft has Sen state that the accident did not kill him, because she saw him afterward, and explicitly refuse to say whether he is alive now. This avoids an outright lie that Ch29–31 would contradict and keeps the alive/unknown tension the ledger requires. The editor should confirm it is acceptable.",
+    "Elena's first line in the source ('I was scared') is replaced by an echo of her rewritten Ch23 line, 'small felt safe', to match the rewritten seam.",
+    "The Julian disclosure-risk entry on the paper protocol was cut for length. The source's chronologically impossible aside about a Julian line Kade 'had not heard yet' was dropped.",
+    "The source's 'Do you practice being infuriating? / Long career' exchange and the soup small talk about Sera's Response observation and Mara's paper were cut for length.",
+    "Taren's 'I saw you' is left ambiguous ('It might even have been true'), where the source has 'True enough.' No new clue is asserted.",
+    "Adapter normalized whitespace word count from 6262 to 6267."
+  ],
+  "blockers": []
+}

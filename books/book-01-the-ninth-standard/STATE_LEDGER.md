@@ -173,6 +173,7 @@
 
 ## Asterion / hidden history
 - Contact Zero: damaged nonhuman artificial system found in outer solar system ~31 years before Book 1.
+- Canon ruling (2026-09-20): `Contact Zero` names that original discovery. Aaron's later array encounter is the `Mercer Array Contact`, a second encounter with the already-discovered Refuge Node; it does not move the discovery or duplicate the Contact Zero designation.
 - Public Resonance history is incomplete; modern human Resonance science grew from study of Contact Zero emissions.
 - Asterion was built around precursor/containment infrastructure; the school is real, but the site predates the academy identity.
 - Refuge Node had been attempting to suppress/avoid transmission and is understood to have been hiding from something capable of hearing it.

@@ -47,10 +47,14 @@ Studying its emissions leads to modern Resonance science.
 
 Public history calls this the Resonance Discovery.
 
-(Clarified 2026-08-25: the Contact Zero events — Aaron Mercer's array contact,
-roughly two decades before Book 1 — are a second, separate contact, not this
-Discovery. Resonance science, the Standards taxonomy, and coupling
-infrastructure already exist mature in Contact Zero's opening chapters.)
+(Canon ruling 2026-09-20: **Contact Zero** is the secret in-world designation
+for this thirty-one-year-old Refuge Node discovery. Aaron Mercer's later array
+event, roughly two decades before Book 1, is the **Mercer Array Contact**: a
+second encounter with the already-discovered Refuge Node, not a second event
+named Contact Zero. The novel/project title *Contact Zero* may encompass that
+later event, but the in-world historical label remains attached to the original
+discovery. Resonance science, the Standards taxonomy, and coupling
+infrastructure are therefore already mature by the later Mercer Array Contact.)
 
 Secret history calls it **Contact Zero**.
 

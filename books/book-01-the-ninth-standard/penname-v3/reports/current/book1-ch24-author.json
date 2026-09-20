@@ -1,0 +1,53 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch24-author-c2",
+  "scene_id": "book1-ch24",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-24-the-quiet-war.md",
+  "word_count": 6268,
+  "obligations": [
+    {
+      "obligation": "Repair book1-ch24-f003: remove claim that Sen stood beside Aaron when his classification was issued",
+      "status": "MET",
+      "evidence": "Line 19 now reads: \"I knew his classification. That is a smaller thing than what you asked, and I know it.\" The eyewitness claim is gone; only her established knowledge of the classification remains, and the added clause states no new fact (it characterizes her narrow-truth habit, already canon)."
+    },
+    {
+      "obligation": "Repair book1-ch24-f004: replace exact age 'twenty-five' with non-exact 'young'",
+      "status": "MET",
+      "evidence": "Line 223 now reads: \"I was young, and frightened, and quite sure the secrecy was temporary.\" grep for 'twenty-five' returns 0 matches."
+    },
+    {
+      "obligation": "Sen gives partial truth: Contact Zero, nonhuman technology, academies as more than sport; Kade realizes institution is both home and machine",
+      "status": "MET",
+      "evidence": "Untouched by this targeted repair; office scene and the Meridian soup passage ('It was his home and it was a machine') remain intact."
+    },
+    {
+      "obligation": "Preserve durable facts, clues, plants/payoffs, chapter-end state",
+      "status": "MET",
+      "evidence": "Only two sentences changed; eleven-point-four seconds, Sen saw Aaron after the accident, Directorate involvement, Elena call, Amadi audit, and Taren lunch are unchanged."
+    },
+    {
+      "obligation": "Family-clean and audio readability",
+      "status": "MET",
+      "evidence": "Replacement lines contain no profanity and no typography-dependent meaning."
+    },
+    {
+      "obligation": "Do not opportunistically rewrite unrelated passages during targeted repair",
+      "status": "MET",
+      "evidence": "Diff is confined to lines 19 and 223."
+    },
+    {
+      "obligation": "No drafting metadata in manuscript",
+      "status": "MET",
+      "evidence": "File contains prose only."
+    }
+  ],
+  "inventions": [
+    "One line of Sen dialogue at line 19 acknowledging that knowing his classification is a narrower answer than Kade asked for; consistent with her established narrow-truth pattern, asserts no new history."
+  ],
+  "state_change_proposals": [],
+  "deviations": [
+    "Word count is 6,268 against the 5,600 target (+11.9%), inside the 12% tolerance (ceiling 6,272); the repair added a net four words. The STATE_LEDGER figure of 5,907 refers to a different counting or earlier blob and was not modified."
+  ],
+  "blockers": []
+}

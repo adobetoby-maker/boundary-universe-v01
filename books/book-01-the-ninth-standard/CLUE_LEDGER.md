@@ -62,6 +62,7 @@
 
 ## Chapter 24 — The Quiet War
 - Contact Zero is revealed as damaged nonhuman artificial technology found in the outer solar system.
+- Canon ruling (2026-09-20): this is the original thirty-one-year-old Refuge Node discovery; Aaron's later `Mercer Array Contact` is a follow-up encounter with the same already-discovered system, not another event bearing the Contact Zero designation.
 - Human Resonance science grew from studying its emissions.
 - Early twelve-person coupled experiments precede public academy history.
 - Final precursor event produced eleven-point-four seconds of stable coupling before failure.

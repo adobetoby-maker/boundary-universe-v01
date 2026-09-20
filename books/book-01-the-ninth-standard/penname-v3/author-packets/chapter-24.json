@@ -3,7 +3,7 @@
   "scene_id": "book1-ch24",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "line_edit",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -117,19 +117,36 @@
       "required": true
     },
     {
-      "kind": "reference",
-      "label": "Frozen source chapter; preserve facts, not sentences",
-      "path": "manuscript/chapter-24-the-quiet-war.md",
-      "required": true
-    },
-    {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-23-the-twelfth-name.md",
       "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Current rewrite to repair",
+      "path": "penname-v3/manuscript/chapter-24-the-quiet-war.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
+  "verified_findings": [
+    {
+      "id": "book1-ch24-f003",
+      "severity": "MEDIUM",
+      "gate": "invention_budget",
+      "evidence": "penname-v3/manuscript/chapter-24-the-quiet-war.md:19-19: “I knew his classification. I was standing beside him when it was issued.” Verification: The draft adds that Sen stood beside Aaron when his classification was issued. The frozen source establishes only that she knew his classification; the checked ledgers and bible do not place her at that event. This is an unsupported historical continuity fact outside the invention budget.",
+      "consequence": "The added eyewitness claim fixes Sen's location and participation at Aaron's classification, creating a new historical continuity obligation not established by the frozen source or ledgers.",
+      "repair_target": "Remove the claim that Sen stood beside Aaron when his classification was issued, retaining only her established knowledge of the classification."
+    },
+    {
+      "id": "book1-ch24-f004",
+      "severity": "MEDIUM",
+      "gate": "invention_budget",
+      "evidence": "penname-v3/manuscript/chapter-24-the-quiet-war.md:223-223: “I was twenty-five, and frightened, and quite sure the secrecy was temporary.” Verification: The draft assigns Sen the exact age twenty-five during her Directorate involvement. The frozen source says only that she was young, and no checked authority supplies that age. The number therefore creates an unsupported birth-year and timeline constraint outside the invention budget.",
+      "consequence": "The exact age creates a new birth-year and historical-timeline constraint where the frozen evidence establishes only that Sen was young.",
+      "repair_target": "Replace “twenty-five” with the established non-exact description “young” or equivalent phrasing that does not create new canon."
+    }
+  ],
   "exceptions": [
     {
       "id": "codex-canon-ruling-contact-zero-2026-09-20",

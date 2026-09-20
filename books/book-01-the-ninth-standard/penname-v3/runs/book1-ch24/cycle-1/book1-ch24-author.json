@@ -1,0 +1,52 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch24-author-c1",
+  "scene_id": "book1-ch24",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-24-the-quiet-war.md",
+  "word_count": 6264,
+  "obligations": [
+    {
+      "obligation": "Repair f001 (authority_conflicts): align chapter chronology with the 2026-09-20 canon ruling that Contact Zero is the thirty-one-year-old Refuge Node discovery and Aaron's work came later",
+      "status": "MET",
+      "evidence": "Sen now separates the events on the page: \"Not at the discovery. Contact Zero is the finding itself. Aaron came afterward, as one of the program's first compatible subjects.\" and, of the coupling trials, \"They came later, when Resonance was already a science.\" Removed three statements that dated Aaron's trials/footage/calibration data to the discovery year: \"the laugh, thirty years ago\", \"met the same shape again thirty-one years later\", and \"Students had learned from that data for thirty years.\" Remaining thirty-one-year references (lines 69, 77, 519, 583) attach only to the discovery/public history. The term 'Mercer Array Contact' is deliberately not named in the chapter to avoid planting a new clue."
+    },
+    {
+      "obligation": "Repair f002 (invention_budget): remove unsupported exact six-year and two-year durations",
+      "status": "MET",
+      "evidence": "grep for 'six years' and 'two years' returns nothing. Text reads \"I called him that myself, in reports with my name at the bottom.\" and \"At first we filed that as instrument error.\" Established facts (Aaron called a subject in reports; trace first treated as instrument error) retained."
+    },
+    {
+      "obligation": "Sen gives partial truth: Contact Zero, nonhuman technology, academies as more than sport; Kade realizes the institution can be both home and machine",
+      "status": "MET",
+      "evidence": "Unchanged from prior draft: Contact Zero reveal, nonhuman emission beyond Neptune, academies/ladder as measurement instruments, and the Meridian late-kitchen passage: \"It was his home and it was a machine, and he would not get to pick one and be angry at the other.\""
+    },
+    {
+      "obligation": "Preserve chapter-assigned plants/payoffs and durable state (11.4-second coupling, Aaron altered system boundary, Directorate history, Sen saw Aaron after accident, bounded disclosure to Elena, Amadi audit, Taren timing clue)",
+      "status": "MET",
+      "evidence": "All passages untouched by the targeted repair; telemetry scene, 'CATEGORY INVALID', Sen's 'I saw him after it', the three-column table, Elena call, column-twelve audit and Taren lunch remain intact."
+    },
+    {
+      "obligation": "No new named characters, powers, factions, rules, ranks, or later-book answers; family-clean; no metadata in manuscript",
+      "status": "MET",
+      "evidence": "Edits add no names or terms; manuscript is prose only. Aaron's present status and the object's location remain withheld."
+    },
+    {
+      "obligation": "Length within 5600 ±12% (4928–6272)",
+      "status": "MET",
+      "evidence": "wc -w reports 6264 including heading and scene-break markers."
+    }
+  ],
+  "inventions": [
+    "Two short lines of Sen dialogue clarifying sequence (discovery first, Aaron afterward, coupling trials later when Resonance was already a science). These restate the canon ruling and universe-bible note; no durations, names, or new facts added."
+  ],
+  "state_change_proposals": [
+    "STATE_LEDGER.md Chapter 24 entry cites word count 5,907 and a frozen blob hash for an earlier manuscript; orchestrator should refresh count/blob after this repair closes. No story-state change proposed."
+  ],
+  "deviations": [
+    "To stay inside the length band after adding the chronology clarification, three small non-finding cuts were made: the sentence \"It was harder to fight than an excuse would have been.\" (beat duplicated at lines 35 and the later 'simple enough to hate' line), \"People were paying attention now.\", and the section opener \"Sen gave them the rest of it quickly.\" (folded into \"Sen showed them a map...\"). No facts, clues, or beats were lost.",
+    "f002 durations were already absent from the on-disk draft when this run began; verified rather than re-edited.",
+    "run_id taken from the existing author report (book1-ch24-author-c1); orchestrator may renumber the cycle."
+  ],
+  "blockers": []
+}
