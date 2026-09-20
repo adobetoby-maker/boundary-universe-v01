@@ -1,0 +1,82 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch25-author-c0",
+  "scene_id": "book1-ch25",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-25-taren-holt.md",
+  "word_count": 7084,
+  "obligations": [
+    {
+      "obligation": "Taren helps break into restricted archive, then traps Kade; reveal that original friendship was an assignment; later friendship became real.",
+      "status": "MET",
+      "evidence": "Taren's local infrastructure identity opens the maintenance route; the silent red-light isolation and partition drop follow because 'every door I opened for you, I opened as me'. Crane's live call names his 'observation status' and 'personal attachment'; Taren refuses the green route, confesses assignment since before Kade arrived, the House Trial leverage question, thinned reporting, withholding the shuttle-gate night ('that one was yours'), then burns credentials in the eight-second override."
+    },
+    {
+      "obligation": "Genuinely fresh chapter, not a paraphrase or recap.",
+      "status": "MET",
+      "evidence": "New opening device (Kade's mental 'file' built from rewrite-specific clues in Ch.5/14/18/19/21/23), restaged roof scene echoing the rewritten Ch.5 two-cans image, alarm-tone plant paid off as silent red lights, new Boundary-restraint beat at the partition, rewritten dialogue throughout. Source one-line-fragment style replaced by continuous close-third prose matching rewritten Ch.24."
+    },
+    {
+      "obligation": "Preserve durable facts, ranks, relationship movement, clues, power cost, and chapter-end state.",
+      "status": "MET",
+      "evidence": "Preserved: Sen's limited historical permission; two tested exits and abort point; hardline Directorate mark; CONSENSUS APPLICATION STUDY quotes (centralized command, autonomy degradation, command-node stability over subjective continuity); FIELD IDENTITY REVIEW; under-ninety-second response; run east not west / Taren helped write the response map; rotated archive grid; dead credential and Eli's manual bus; Sera's slap; handler Marisol Crane; wafer with three records (Midyear update, return after Run, today's unsent); custody to Mara, nobody opens alone; Kade as 'possible command node'; precautions (middle of group, tablet to Eli, House access pulled, no meeting alone); student lowering greeting; 'Sen first', six minutes to secure room, heading to engineering transit — matches Ch.26 opening."
+    },
+    {
+      "obligation": "Fantasy Author A voice; progression with receipts; Boundary cost not removed; Kade not effortlessly dominant.",
+      "status": "MET",
+      "evidence": "Kade feels the partition/frame/floor load path, recalls the broken floor's cost and poor aim, and chooses not to reach with five people in range; later notes steady hands and clear head as the receipt of that choice. His initial 'Then we don't go' is credited to Julian's plan-holding training. No Boundary use occurs."
+    },
+    {
+      "obligation": "Moral-choice module: Kade chooses under pressure; consequence carried forward.",
+      "status": "MET",
+      "evidence": "Kade decides to proceed only after route disclosure and both exit checks, refuses a clean verdict ('I don't know what that means yet'), declines to take custody of the wafer, and accepts the no-meeting-alone rule rather than 'cashing an injury in for authority'. Taren's rescue does not erase betrayal; trust 'would have to start... with a zero beside its name'."
+    },
+    {
+      "obligation": "Plants and payoffs per CLUE_LEDGER Ch.25; no later reveals spent.",
+      "status": "MET",
+      "evidence": "Family security/analysis connection, House Trial turning point, reduced report usefulness, credential burn, hindsight legibility of access/timing clues, and multiple explicit chances to keep cover (staff-stair route, 'recoverable' status) all on page. Aaron's status, Eli/Lab Six, Ghost Protocol and Sublevel Nine untouched."
+    },
+    {
+      "obligation": "Family-clean and audio readability.",
+      "status": "MET",
+      "evidence": "No profanity or gore; one open-handed slap as in source. System displays are introduced by narration and rendered as short spoken-friendly caps phrases; speakers tagged in group dialogue; the 'Consensus' term is introduced aloud by Eli and Mara."
+    },
+    {
+      "obligation": "No new named characters; no metadata in manuscript.",
+      "status": "MET",
+      "evidence": "Only source-established names used (Marisol Crane is from the locked source chapter). Unnamed background: two second-years, a faculty assistant, 'a Kepler boy'. Manuscript contains title and prose only."
+    },
+    {
+      "obligation": "Length within target 5,700 with owner-approved 25% action ceiling (7,125).",
+      "status": "MET",
+      "evidence": "7,084 words by wc after a compression pass from 7,490. This sits near the ceiling; the editor should judge whether the plan-room negotiation justifies it."
+    }
+  ],
+  "inventions": [
+    "Opening framing of Kade's mental 'file' on Taren, assembled only from clues already on the page in rewritten chapters.",
+    "Roof staging: parapet by the bell anchor, two cans echoing Ch.5, the can being 'the kind he liked'.",
+    "Plan-room setting reused from rewritten Ch.14 (laundry pipes, Taren's pinned column).",
+    "Ceiling slot above the reading-room doorway noticed before the partition drops.",
+    "Kade's silent Boundary-restraint beat at the partition (no power used).",
+    "Taren's line that stopping reports would cause the Directorate to 'put someone on you that you didn't know about'.",
+    "Eli bridging the hatch contacts with a metal-edged map tab; tunnel smell of wet iron; exit via a plant-room door.",
+    "The greeting student rendered as an unnamed Kepler boy."
+  ],
+  "state_change_proposals": [
+    "Taren Holt: Directorate credential revoked; openly burned asset; personal tablet held by Eli; removed from Meridian shared schedule, training archive, and room controls pending Sen.",
+    "Evidence: Directorate wafer (three records: Midyear update, return after Run, unsent archive-search draft) shielded and in Mara's custody; to be opened only with all present before Sen.",
+    "Group rule: Kade does not meet Taren alone; precautions explicitly not a verdict.",
+    "Kade knowledge: term 'Consensus' and the Directorate's centralized command-node objective; handler name Marisol Crane; Crane regards Kade as a possible command node.",
+    "Eli holds the data slate that was bridged to the archive terminal."
+  ],
+  "deviations": [
+    "Dropped the source's claim that Kade had seen the Directorate emblem on a black government folder at Northline: rewritten Ch.2 contains no such plant, so the emblem is instead recognised from the hardline call-point mark seen minutes earlier.",
+    "Dropped the source's 'Julian's father planned long-term' aside: Kade has not met Lucian Cross at this point in the rewrite.",
+    "Corrected the source's 'six students sprinting' to five (Kade, Mara, Eli, Sera, Taren).",
+    "Mara's search list uses 'COUPLING TRIALS, APPLICATION' instead of 'Project Consensus', because the word 'Consensus' has not appeared in rewritten Chapters 1-24; Kade first meets it in the archive file header, and his later reaction to Crane using it is adjusted accordingly.",
+    "Taren takes position in the middle of the group at the close (per Sera's stated rule) rather than 'behind' as in the source's final image.",
+    "Source references to 'pastries' replaced with the rewrite's established nine-minute coffee disappearance from Ch.21.",
+    "Made the trap's causation explicit (Taren's identity on every door flagged the group; he knew it might) rather than leaving it implied."
+  ],
+  "blockers": []
+}

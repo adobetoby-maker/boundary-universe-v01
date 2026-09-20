@@ -8,8 +8,8 @@
   "max_repair_cycles": 3,
   "repair_cycle": 0,
   "scenes_total": 33,
-  "scenes_closed": 24,
-  "active_scene_id": "book1-ch24",
+  "scenes_closed": 25,
+  "active_scene_id": "book1-ch25",
   "last_finding_fingerprint": null,
   "repeat_count": 0,
   "blocker": null,
@@ -1665,6 +1665,30 @@
       "from": "REPAIRING",
       "to": "EDITING",
       "note": "Fable repaired only verified findings"
+    },
+    {
+      "event": "editor_pass",
+      "from": "EDITING",
+      "to": "SCENE_CLOSED",
+      "note": "Sol editor found no repairable defect"
+    },
+    {
+      "event": "next_scene",
+      "from": "SCENE_CLOSED",
+      "to": "PACKET_READY",
+      "note": "Begin Chapter 25"
+    },
+    {
+      "event": "packet_validated",
+      "from": "PACKET_READY",
+      "to": "AUTHORING",
+      "note": "Packet and frozen contexts validated"
+    },
+    {
+      "event": "author_done",
+      "from": "AUTHORING",
+      "to": "EDITING",
+      "note": "Fable produced validated draft and author report"
     },
     {
       "event": "editor_pass",
