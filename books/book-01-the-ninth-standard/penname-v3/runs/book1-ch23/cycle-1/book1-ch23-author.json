@@ -1,0 +1,89 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch23-author-c1",
+  "scene_id": "book1-ch23",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-23-the-twelfth-name.md",
+  "word_count": 5261,
+  "obligations": [
+    {
+      "obligation": "Kade/Eli investigation reveals only eleven Standard Eights publicly, but twelve historical identifiers. Aaron is the missing twelfth.",
+      "status": "MET",
+      "evidence": "Kade counts twelve registry lines (eight-dash-one through eight-dash-twelve) against eleven names during Halden's Hall practical; his solo cross-reference resolves 'MERCER, AARON J. HISTORICAL CLASSIFICATION: STANDARD VIII. STATUS: SEALED.' Eli independently confirms via the legacy calibration schema and the checksum-validated cache."
+    },
+    {
+      "obligation": "Finding F01: re-conceive dramatic staging and causal route; fresh re-authorship, not paraphrase",
+      "status": "MET",
+      "evidence": "New route: class is a footnote-the-plaque practical held inside the Hall; Kade (not Eli) finds the gap and runs the lookup alone on the bench opposite bay twelve; resistance now comes from Halden's good-faith 'legacy schema' answer and Kade's own urge to run to Sen; corroboration is obtained by blind three-road replication (Eli technical, Mara printed index, Sera the wall) plus a non-leading question to Elena before she sees the record; reveal is four screens turned over together; Taren beat moved to the Hall at noon; tour-guide scene, Commons 'do you want me to stop' exchange, Sen's unprompted summons, and the 'rank they deleted' closing line are gone; new ending on Kade counting his people against the names."
+    },
+    {
+      "obligation": "Finding F02: 'sound anchors' -> 'load anchors'",
+      "status": "MET",
+      "evidence": "Only 'four load anchors' / 'It's got its anchors' appear; grep for 'sound anchors' returns nothing."
+    },
+    {
+      "obligation": "Preserve CLUE_LEDGER Chapter 23 clues: twelve sequential slots; COUPLED STABILITY / MULTI-SUBJECT TRANSFER / COHERENCE DURATION; covered, powered twelfth portrait recess; Elena's 'twelve people in the room when everything changed'; Taren's suspicious timing",
+      "status": "MET",
+      "evidence": "All three headings shown in Eli's schema; Sera's public maintenance register shows a twelfth device address labelled ARCHITECTURAL FILL with zero draw, conduit terminating behind the panel, renovation ledger 'one assembly removed, disposition sealed' dated to the same two-year gap; Elena volunteers 'twelve people in the room when everything changed. Those words.'; Taren arrives minutes after the lookup with the right coffee, pointedly never asks what Kade is reading, face slips on a band buzz, and his Priya explanation does not hold."
+    },
+    {
+      "obligation": "State ledger: live public-history source audit makes heroic compression and erased agency inspectable before the reveal",
+      "status": "MET",
+      "evidence": "Chen Wei/Lanzhou plaque footnoting exercise: 'There are two verbs up there and he's got both'; unnamed dispatcher with only a desk number; Halden on edges and who was charged."
+    },
+    {
+      "obligation": "Eli, Mara, and Sera independently verify without violating the archive",
+      "status": "MET",
+      "evidence": "Sera's rule 'Public doors only. The first time anything tells you no, you stop'; Eli stops at ACCESS DENIED / QUERY LOGGED; recess is not energized; all sources are open registry, public archive, public facilities records."
+    },
+    {
+      "obligation": "End state: Kade chooses to confront Sen without surrendering evidence standards or ownership of his father's story",
+      "status": "MET",
+      "evidence": "Kade stops at the east door with one cached record, writes a three-falsifier form, waits for replication, then files against Sen's index himself ('I AM NOT ASKING WHETHER. I AM ASKING WHY.'); ownership beat staged with Elena ('Everybody gets the bronze before I've got the man' / 'Then get the man first'). Four arrive at Sen's building in rain, matching the Chapter 24 seam (Kade, Mara, Eli, Sera)."
+    },
+    {
+      "obligation": "Choice under pressure made by viewpoint character; no effortless dominance; no Boundary shortcut",
+      "status": "MET",
+      "evidence": "Kade deletes the message asking Eli to run the lookup and types it himself; declines to go straight to Sen; takes his own hand off the panel rather than waking the recess; no Boundary use in chapter."
+    },
+    {
+      "obligation": "Fantasy Author A voice; family-clean; audio readability; no metadata in prose",
+      "status": "MET",
+      "evidence": "Close third past tense on Kade throughout; identifiers rendered speakably ('eight-dash-twelve'); no profanity; manuscript contains prose only."
+    },
+    {
+      "obligation": "No new named characters",
+      "status": "MET",
+      "evidence": "Only registry names used (Halden, Amadi, Chen Wei, Nadia Okonkwo, Sen, Priya, Julian, Taren, Elena, Aaron, cast). Kepler partner, archive librarian remain unnamed."
+    },
+    {
+      "obligation": "Length within 5,300 ±12%",
+      "status": "MET",
+      "evidence": "wc -w reports 5,261 including title."
+    }
+  ],
+  "inventions": [
+    "Halden's practical is held in the Hall of Standards as a footnote-the-plaque exercise with an unnamed Kepler partner who had Chen Wei's poster on his wall",
+    "Halden admits he learned the 'reserved block / legacy schema' explanation in a corridor as a graduate student and has repeated it for nineteen years (good-faith transmission of the clean version; replaces the tour-guide beat)",
+    "Open registry has a cross-reference field; Eli keeps Aaron's archive-card identifiers in a file labelled AARON, VERIFIED",
+    "Kade's blind-replication protocol with a nine o'clock end time, and the four-screens-turned-over reveal",
+    "Text-message exchange summoning the three to the room; Sera's sandwich; Taren's coffee, Kepler rooming dispute, fish remark, knocking on the bench",
+    "Priya having lab across the island until two (soft, hedged in Kade's inference)",
+    "Elena takes the call from the ambulance bay at St. Vincent; 'I remember numbers that people say at night'",
+    "Call staged on Meridian's roof at the founders' board with eleven medallions and a bare mount (uses existing Ch. 9 clue object)",
+    "Printed rule wording in the bound index (issued once, not reissued on death, retirement, revocation, or reclassification); drafts of the first public list on deposit",
+    "Bell timed at twenty to eight; Kade files his request against Sen's Chapter 20 index and Sen replies 'I AM IN MY OFFICE. BRING WHOEVER HELPED YOU.'",
+    "Closing image of Kade counting his people against the names"
+  ],
+  "state_change_proposals": [
+    "STATE_LEDGER Chapter 23 summary wording may need refresh on promotion: verification is now a Kade-initiated blind replication; Kade performs the first lookup alone; Sen's message is a reply to Kade's filed request rather than an unprompted summons. Durable facts and end-state delta unchanged.",
+    "Chapter 24 rewrite should note that Sen already holds Kade's attached form, Eli's graph, Mara's printed page, and Sera's ledger when the scene opens, and that Eli's logged query occurred at about 7:40 p.m."
+  ],
+  "deviations": [
+    "Sen's unprompted priority summons (present in the prior rewrite and source) is replaced by Kade filing a request against Sen's index, to which she replies immediately; done to keep the confrontation decision with the viewpoint character and to vary the causal route per F01. The logged-query bell is retained so Sen's Chapter 24 knowledge of the calibration route remains explained.",
+    "The Hall tour-guide/child beat and the source's closing 'rank they deleted' line were dropped as source-distinctive beats; their thematic function (honest tellers of the clean version; changed pressure at the door) is carried by Halden's admission and the new ending.",
+    "Taren's encounter moved from the rainy walk to the Hall at noon; the 'headed to Sen' line is not used. Suspicious timing/awareness clue is preserved in a different form.",
+    "The blank slot is explicitly the twelfth identifier (consistent with source 'The twelfth was blank' and Ch. 7 VIII-01..VIII-12); twelfth device address is placed at the end of the run, matching the Chapter 11 rewrite's bay position."
+  ],
+  "blockers": []
+}

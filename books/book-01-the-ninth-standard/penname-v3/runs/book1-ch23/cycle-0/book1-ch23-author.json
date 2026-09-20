@@ -1,0 +1,81 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch23-author-c0",
+  "scene_id": "book1-ch23",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-23-the-twelfth-name.md",
+  "word_count": 5849,
+  "obligations": [
+    {
+      "obligation": "Kade/Eli investigation reveals only eleven Standard Eights publicly, but twelve historical identifiers; Aaron is the missing twelfth",
+      "status": "MET",
+      "evidence": "Commons scene: Eli shows the open Authority identifier registry with eleven names and twelve sequential, never-reused slots. After Eli asks 'Do you want me to stop?' and Kade says 'Open it', the cache resolves to 'MERCER, AARON J. HISTORICAL CLASSIFICATION: STANDARD VIII. STATUS: SEALED.' Kade says 'Standard Eight' aloud for audio."
+    },
+    {
+      "obligation": "Fresh chapter, not a paraphrase or abbreviated recap",
+      "status": "MET",
+      "evidence": "Halden's exercise is restaged as a read-aloud recall test (the dispatcher is forgotten within sixty seconds) instead of a class vote. Mara's verification reuses the Hale prediction/falsifier form from Ch22. The Hall scene is rebuilt on the rewrite's own Ch11/Ch18 staging (curved wall of bronzes, LEGACY BAY 12 panel). Kade's refusal to wake the panel is tied to the east-post refusal in Ch22. New closing beat uses Sen's Ch20 index. Dialogue and prose are new throughout. 5,849 words, inside the 12% band (4,664–5,936)."
+    },
+    {
+      "obligation": "Preserve durable facts, clues, costs and chapter-end state from frozen evidence",
+      "status": "MET",
+      "evidence": "Preserved: twelve permanent identifier slots; the sealed Standard VIII record; six years under a generic subject code, references stop, public list two years later; provenance (three migrations, two obsolete signatures, printed checksum); the twelfth trace labeled CONTROL ARTIFACT that responds to the other eleven; headings COUPLED STABILITY / MULTI-SUBJECT TRANSFER / COHERENCE DURATION; ACCESS DENIED followed by QUERY LOGGED, OVERSIGHT NOTIFICATION GENERATED; Hall bay twelve with device address ARCHITECTURAL FILL at zero draw, anchors and conduit retained; renovation ledger (eleven assemblies transferred, one removed under sealed disposition) dated to the same two-year gap; Elena's 'they couldn't classify him' and 'twelve people in the room when everything changed'; Sen's summons naming Navarro and Vey but not Sera; Taren's band buzz and 'headed to Sen?'. Rank #211 and the still-bruised forearm carry over from Ch22. No Boundary use occurs. Chapter ends at Sen's door."
+    },
+    {
+      "obligation": "Chapter-assigned plants (CLUE_LEDGER Ch23)",
+      "status": "MET",
+      "evidence": "All six ledger items are on the page: twelve slots; Aaron sealed as Standard VIII; the pre-Consensus table headings; physical evidence of erasure in the Hall; Elena's independent corroboration of twelve; Taren's too-precise timing and his answering a question nobody asked. Kade recalls the Ch7, Ch9 and Ch11 twelves as a stack he had avoided looking at."
+    },
+    {
+      "obligation": "Payoffs delivered without spending later reveals",
+      "status": "MET",
+      "evidence": "Pays off the Ch7/Ch9/Ch11 twelfth-slot clues and Halden's 'records leave shapes'. Does not reveal Contact Zero, the 11.4-second event, Aaron's survival, the Directorate, Taren's assignment, or what the twelve people did. Kade's closing questions ('who had decided the world would count to eleven', 'what twelve people had done in a room') hand off to Ch24."
+    },
+    {
+      "obligation": "Viewpoint character chooses under pressure; no power, coincidence or authority decides for him",
+      "status": "MET",
+      "evidence": "Kade makes five choices: (1) he tells Eli to open the record; (2) he accepts Mara's falsifier test over his need for the match to be true; (3) he takes his hand off the panel instead of energizing it; (4) he closes his mouth instead of correcting the tour guide in front of a child, because he would be handing her 'a short version of his own, with himself holding every verb in it'; (5) he goes to Sen with three independent sources and says 'I want to know who he was before somebody tells me what he represents.' Sen's summons arrives only after the group has already decided to go."
+    },
+    {
+      "obligation": "Fantasy Author A voice; progression on visible and human tracks; moral-choice module",
+      "status": "MET",
+      "evidence": "Visible track: rank #211 shown through a classmate's reaction. Human track: evidence discipline learned from Hale's forms, restraint at the panel echoing the east post, and recognizing himself in Elena's 'I let the story get smaller'. Competing goods: a true statement versus its timing at the school tour; the public truth versus private ownership of his father; the accusation against Elena, his apology, and her unexcused answer ('I would probably do it again, with you in the next room')."
+    },
+    {
+      "obligation": "Family-clean and audio-readability",
+      "status": "MET",
+      "evidence": "No profanity, gore or sexual content. Displays are plain capitals inside sentences, with the Roman numeral restated in speech as 'Standard Eight'. Dialogue is attributed or clear by turn. The only typographic dash is in the chapter title, matching prior chapters."
+    },
+    {
+      "obligation": "No new named characters; no canon, reveal-order or rank changes",
+      "status": "MET",
+      "evidence": "Named cast is limited to Kade, Eli, Mara, Sera, Taren, Anton, Halden, Sen, Elena, Aaron, Amadi, Hale, Julian (footage mention), Chen Wei and Nadia Okonkwo, all in the registry. Rafael Ibanez from the source is omitted. Students at the table, the tour guide and the child are unnamed. Houses used are Meridian, Sol and Kepler only."
+    }
+  ],
+  "inventions": [
+    "Halden's exercise is graded by a read-aloud recall test. The neighboring table remembers the Chen plaque word for word but forgets the dispatcher within a minute. This is staging only; the Lanzhou facts are unchanged.",
+    "Halden's closing slide of the Hall is cropped a hand's width short of bay twelve.",
+    "Eli's motive for finding the registry: he was tidying Aaron's Ch19 identifiers and checking what else used that number format. The registry is described as open to any student login.",
+    "Texture details: the lecture hall has no field dampers; Halden lectures with his hands in his cardigan pockets; Anton drops a tray; the tour is a visiting-school group in matching jackets, late off the last ferry.",
+    "Kade ties his restraint at the panel to the Ch22 east-post refusal. Mara frames verification in Hale's prediction/falsifier format. Eli asks to retract his Ch11 'utilities' explanation.",
+    "Elena's added lines: 'He thought it was funny at first' and 'I would probably do it again, with you in the next room.' Both are characterization; no new facts.",
+    "Sen's summons arrives 'a little under forty minutes' after the oversight notification.",
+    "The closing beat references Sen's Ch20 stairwell index. Kade's intended questions are who decided the world would count to eleven and what twelve people did in a room."
+  ],
+  "state_change_proposals": [
+    "Kade, Eli, Mara and Sera know Aaron Mercer holds the sealed twelfth Standard Eight identifier. The match is verified by archive provenance, the responsive 'CONTROL ARTIFACT' trace, the Hall bay-twelve renovation record, and Elena's independent recollection of twelve.",
+    "Elena now knows Aaron was internally classified Standard Eight. She has told Kade that Aaron said he could not be classified and that 'twelve people were in the room when everything changed.'",
+    "An oversight notification was generated by Eli's permitted but denied study request. Sen has summoned Kade, Eli and Mara. Sera is accompanying them uninvited.",
+    "Taren clue added: he read the priority header from a distance, his band buzzed, and he knew the group was headed to Sen. Kade and Mara both noticed and said nothing.",
+    "Kade has promised to call Elena after the Sen meeting (continuity obligation for Ch24).",
+    "Kade's stated position: he wants to know who Aaron was before the public learns what he represents, and he has made no decision about going public."
+  ],
+  "deviations": [
+    "I read the original source chapter (manuscript/chapter-23-the-twelfth-name.md) and the rewritten Ch7, Ch9, Ch11, Ch18, Ch19 and Ch20 for clue-staging continuity. The source chapter was not among the packet's listed context files, but the packet's obligations refer to it.",
+    "The Hall is staged per the rewrite's own Ch11/Ch18 continuity: eleven bronzes on a curved wall, twelve bays, and a painted panel tagged LEGACY BAY 12, ACCESS SEALED. The source's three-row illuminated portraits with a smooth slab are not used. The three-row arrangement appears only on Halden's lecture slide.",
+    "The source's Bell Watch reference was dropped because the rewrite ended Bell Watch after House Trial. The source's Rafael Ibanez mention was dropped because he is not in the name registry.",
+    "Section order was adjusted: Mara's provenance check now comes right after the reveal and before the identifier history, table headings and oversight notification. All the same beats are present.",
+    "Word count is 5,849 against a 5,300 target. That is inside the 12% band but near its ceiling (5,936)."
+  ],
+  "blockers": []
+}
