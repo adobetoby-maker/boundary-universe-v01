@@ -1,0 +1,58 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch28-author-c2",
+  "scene_id": "book1-ch28",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-28-memorial.md",
+  "word_count": 5149,
+  "obligations": [
+    {
+      "obligation": "Repair f01: rebuild post-memorial delivery of Ortiz and fellowship obligations with a new dramatic vehicle, participant arrangement, order, and conversational progression",
+      "status": "MET",
+      "evidence": "The two consecutive handoffs (Ortiz/Sera in courtyard, then Kim/Kade over chairs) are replaced by one four-person scene at the blue cloth inside the emptied Hall while Kade and Sera collect Meridian's chairs. It opens on a Kim-vs-Ortiz custody dispute over the housing (custody limits, thirty-day hold, 'Suspended. It is not closed.' now come first, as contested dialogue Kade overhears). Sera's diagnosis arrives as an unsolicited contradiction ('The housing didn't fail'); Kade finds and reads the etched line himself; Kade asks a live system-boundary question (is the rig inside the costing?) which triggers Kim's collaborator disclosure and wafer; Sera asks for the shift herself and Ortiz, having just been held to the custody line, enforces it on the connector plans."
+    },
+    {
+      "obligation": "Preserve Denver failure facts, custody boundaries, Sera opportunity, Kade collaborator duty, suspended status",
+      "status": "MET",
+      "evidence": "Retained: six housings/four good cables, proprietary discontinued connector, cracked locking collar, two working sensors, bridge collapse outside Denver, failure during aftershock monitoring, cable under west slab with responder recovered alive, Eli's ceramic replacement part, 'Test to failure. Then test the failure.', nineteen-line cost comparison, unaffordable certification rig plans, Ortiz keeps/tests her unit but may not pass the pattern on, plans released to her department in writing, family decides, thirty days or longer, working group technical access only, committee must notify working group before striking cost assumptions, 'Asks annoying system-boundary questions', green-striped wafer, 'Do nothing with it today', supervised unpaid working shift starting this month per assessment lead, plans only with family and fellowship committee consent, failure report sent to Sera's tablet."
+    },
+    {
+      "obligation": "Repair f02: remove the claim Taren was barred from Meridian",
+      "status": "MET",
+      "evidence": "Replaced with: 'He had stood on Meridian's landing yesterday and asked for nothing. Priya's pen had answered him once in that House already, and he had evidently decided not to put a second question to it indoors. So he had picked the most public place on the island...' — consistent with Ch27 landing scene and struck-through HOLT; framed as Kade's inference."
+    },
+    {
+      "obligation": "Kade speaks publicly and admits Eli mattered; end beat dead-channel message",
+      "status": "MET",
+      "evidence": "Speech, NULL-7 exchange and ending untouched by this targeted repair."
+    },
+    {
+      "obligation": "Family-clean, audio-readable, no new named characters, no metadata in prose",
+      "status": "MET",
+      "evidence": "No new names; dialogue attributed at each speaker change in the four-person scene; no profanity; prose only."
+    },
+    {
+      "obligation": "Length within 4,600 ±12% (max 5,152 by wc)",
+      "status": "MET",
+      "evidence": "wc -w = 5149 (prior cycle 5141)."
+    },
+    {
+      "obligation": "Do not opportunistically rewrite unrelated passages",
+      "status": "MET",
+      "evidence": "Edits confined to the Taren access sentence(s), the post-memorial Ortiz/Kim movement, and a five-word transition clause ('When the chairs were out,') on the following Taren paragraph."
+    }
+  ],
+  "inventions": [
+    "Staging: Kim and Ortiz dispute custody of the housing at the blue cloth while Kade and Sera collect chairs",
+    "Ortiz writes her contact number on the back of her memorial program (replaces the plain paper card)",
+    "Kade's spoken question whether the certification rig sits inside Eli's costing, and Kim's reply that Eli had noticed it was outside so far",
+    "Kade's inference about why Taren chose the Hall steps rather than asking inside Meridian"
+  ],
+  "state_change_proposals": [],
+  "deviations": [
+    "Sandwich business (Kade holding/eating Sera's sandwich) and the courtyard sighting of the orange-tool-case professor were dropped with the old staging; the 'suspended' echo is retained as Kade's memory of his doorway.",
+    "Sera's contact from Ortiz is now a number on a program rather than a paper card; if a later chapter references the card specifically, this needs reconciling.",
+    "Kim's closing custody recital is compressed to 'The rest you've just heard' because the limits are now dramatized earlier in the same scene within Kade's hearing."
+  ],
+  "blockers": []
+}

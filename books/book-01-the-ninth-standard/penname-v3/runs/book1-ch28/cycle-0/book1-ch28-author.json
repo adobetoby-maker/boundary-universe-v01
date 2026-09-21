@@ -1,0 +1,78 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch28-author-c0",
+  "scene_id": "book1-ch28",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-28-memorial.md",
+  "word_count": 5151,
+  "obligations": [
+    {
+      "obligation": "Kade speaks publicly and admits Eli mattered. End beat: dead-channel message—'DUDE. DO NOT FREAK OUT.'",
+      "status": "MET",
+      "evidence": "Hall scene: Kade's body plans the exit past Hale, then he stands at Sen's invitation and says 'Needing people isn't weakness. It's just expensive.' / 'Eli was worth it.' Final scene: NULL-7 gray window delivers 'DUDE.' then 'DO NOT FREAK OUT.', followed by the locked exchange (sensors, Sen knows, Mara can know, Sera after we move, classified alive, still watching, heard the speech, 'WORTH IT IS A LOT OF PRESSURE'). Kade chooses to find Mara rather than act alone."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "All four movements (House preparation, Hall, courtyard, room 814) are restaged in continuous scene with new physical business, seam from the chair-setting end of Chapter 27, and restructured dialogue; locked lines kept only where downstream text depends on them (program sentence, etched motto, key message texts)."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Preserved: checklist limits; 'promising'/'sacrifice' deletions; 'presumed dead'; NOT RELEVANT amber rank field; rotor chosen; Sera owns Taren's strip decision, Priya's absence-not-innocence framing, Taren ties it himself under two-officer escort; unmounted undated bronze name with family/Hall reasoning; attendee set (Amadi, Hale, Owen Park, facilities, Ortiz); Sen, Kim (43 credits), Ortiz (nine messages, housing, 'finishes that question'), Sera (public Response commitment, 'break every single one'), Mara (left-handed algorithm), Julian silent; Mara takes Kade's hand; Ortiz/Sera Denver housing, TEST TO FAILURE etching, supervised unpaid shift, plans need family/committee permission; Kim wafer, collaborator note, cost-assumption notice right, thirty days, suspended not closed; Taren deferred; NULL-7 route; tremor explicitly not Boundary-type."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice.",
+      "status": "MET",
+      "evidence": "Close third on Kade's practical attention (exits, who holds objects, knots, arm's-reach distance of escort); institutions act through forms, locked fields, custody and thirty-day holds; humor grows from character under pressure and does not erase cost."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements.",
+      "status": "MET",
+      "evidence": "No profanity, gore or sexual content. Messages are rendered as attributed all-caps lines with Kade's replies in italics and narration cueing each turn; speakers tagged in group scenes; 'null seven' established aloud in prior chapters."
+    },
+    {
+      "obligation": "Preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
+      "status": "MET",
+      "evidence": "Memorial forces Kade to state needing people is costly but worthwhile; other speakers establish Eli's impact beyond Kade; unresolved device ID and mirrored status traffic recalled without being resolved; room sensors/'still watching' planted for Ch. 29; Sen's knowledge planted; Eli's civilian-access question and Ortiz/Sera link advanced."
+    },
+    {
+      "obligation": "Deliver all chapter-assigned payoffs without advancing later-book answers.",
+      "status": "MET",
+      "evidence": "NULL-7 pre-payoff clue pays off as the message route; Ghost Protocol, the isolation pod, Eli's location and Sen's reasoning are not named or explained."
+    },
+    {
+      "obligation": "Target length 4,600 words within ±12% (4,048–5,152).",
+      "status": "MET",
+      "evidence": "wc -w reports 5,151 including heading and scene-break markers; prose approx. 5,143. Upper end of band."
+    }
+  ],
+  "inventions": [
+    "Opening seam: the chairs Kade helped set out at the end of Ch. 27 are for the House meeting, not the memorial.",
+    "Connector arrives 'on loan from Systems Lab' in a specimen bag; a folded napkin marks where the mug would have gone (honors Ch. 27 'not the mug').",
+    "Anton holds the cloth roll while Sera cuts (reconciles rewritten Ch. 27, where Anton keeps the bell cabinet, with the source, where Sera decides).",
+    "Kade feels the room lean toward him to settle Taren's request and deliberately stays silent.",
+    "Hale by the doors becomes the concrete exit Kade declines, echoing the unobstructed shuttle gate of Ch. 20.",
+    "Kade's speech adds a callback to Eli's countersigned complaints and an explicit refusal to promise Eli's work for him.",
+    "Mara's exit check: 'To sit in it or to pack it?'",
+    "Door card 'ENDS: ON RETURN, OR DAY SEVEN' re-seen on returning to 814.",
+    "Identity proof uses details actually planted in the rewritten manuscript: the lunch protein-powder/soldering-iron message answered with a picture of a shovel (Ch. 26) and the noodle label (Ch. 27).",
+    "Kade explicitly weighs confronting Sen or holding the secret alone before choosing Mara."
+  ],
+  "state_change_proposals": [
+    "Kade: has publicly named Eli worth the cost; holds Kim's fellowship wafer as listed collaborator with notice rights over cost assumptions (unopened); has credible but unverified evidence via NULL-7 that Eli is alive; knows Sen knows; is going to Mara.",
+    "Sera: has publicly committed to the accelerated Response Corps track; holds Captain Ortiz's card for a supervised unpaid mainland shift; will ask Eli's family/committee before bringing connector plans.",
+    "Taren: wears a self-tied Meridian strip under escort; no trust restored; Kade has explicitly deferred the question.",
+    "Eli's bronze name remains unmounted and undated; fellowship suspended with a thirty-day minimum before disposition."
+  ],
+  "deviations": [
+    "Identity proof changed from the source's 'panic geometry' column and '14 credits from Meridian Night': neither is planted anywhere in the rewritten Chapters 1–27 (grep-verified), so using them would pretend a plant existed. Replaced with the shovel reply and noodle label, which are on the page in rewritten Ch. 26–27. Ch. 29 should not reference the old proofs.",
+    "Professor Kim is written as a woman and identified with the unnamed Systems Lab professor who delivered the tool case in rewritten Ch. 27. The source Ch. 28 uses 'he' and treats them as two people, but source Ch. 33 uses 'her' for Professor Kim; I followed the downstream pronoun. Forenames 'Dae' and 'Janel' from the source are omitted; registry lists only 'Professor Kim' and 'Captain Ortiz'.",
+    "Source's 'Day four of seven' and 'three days' are omitted. By the rewritten Ch. 27 timeline the memorial falls on day three of the hold; rather than contradict either text I show the door card and give no day count. Kade's speech says 'Three nights ago'.",
+    "Eli's desk is dark and the fellowship model is not displayed, because rewritten Ch. 27 had the systems officer remove the dock and workstation core; Kade recalls the notebook line from memory. Likewise 'investigators took Eli's tablet' becomes 'Eli's tablet had gone into the spine with him' per rewritten Ch. 27.",
+    "Sera says she has been offered and is taking the accelerated Response track (consistent with rewritten Ch. 27) rather than 'applying'.",
+    "Length sits at the top of the band (approx. 5,143 of a 5,152 ceiling).",
+    "Adapter normalized whitespace word count from 5143 to 5151."
+  ],
+  "blockers": []
+}

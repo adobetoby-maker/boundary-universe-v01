@@ -3,7 +3,7 @@
   "scene_id": "book1-ch28",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "structural_repair",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -117,19 +117,36 @@
       "required": true
     },
     {
-      "kind": "reference",
-      "label": "Frozen source chapter; preserve facts, not sentences",
-      "path": "manuscript/chapter-28-memorial.md",
-      "required": true
-    },
-    {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-27-the-empty-bed.md",
       "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Current rewrite to repair",
+      "path": "penname-v3/manuscript/chapter-28-memorial.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
+  "verified_findings": [
+    {
+      "id": "book1-ch28-editor-c1-f01",
+      "severity": "HIGH",
+      "gate": "Fresh re-authoring",
+      "evidence": "penname-v3/manuscript/chapter-28-memorial.md:209-277: Captain Ortiz gives Sera the failed housing for diagnosis, discloses six housings/four cables and the responder recovery, reveals Eli’s replacement connector and unaffordable certification rig, then offers supervised unpaid work; Professor Kim immediately follows with the collaborator wafer, cost-assumption warning, family/working-group custody limits, thirty-day hold, and “suspended” fellowship. Verification: The cited correspondence is accurate and substantial: both versions use the same consecutive Ortiz/Sera housing diagnosis, Denver failure and certification problem, supervised unpaid-work offer, then Kim/Kade collaborator-wafer and custody-status handoff. Whether the changed language and surrounding restaging still fails the qualitative 'genuinely fresh' threshold is an originality judgment requiring human review.",
+      "consequence": "Although the chapter’s opening, Taren staging, testimony order, speech approach, and NULL-7 proof are fresher, this long post-memorial movement still reproduces the source’s scene order and nearly every dramatic beat. A reader comparing editions receives a reconstructed version of the same two conversations rather than genuinely fresh staging, so the verified freshness obligation remains materially unmet.",
+      "repair_target": "Rebuild the post-memorial delivery of the Ortiz and fellowship obligations. Preserve the Denver failure facts, custody boundaries, Sera opportunity, Kade collaborator duty, and suspended status, but change the dramatic vehicle, participant arrangement, order, and conversational progression rather than retaining two consecutive source-shaped handoffs."
+    },
+    {
+      "id": "book1-ch28-editor-c1-f02",
+      "severity": "MEDIUM",
+      "gate": "Authority conflicts: canon, timeline, state, viewpoint knowledge",
+      "evidence": "penname-v3/manuscript/chapter-28-memorial.md:70-72: He was cleared to attend under escort and not cleared to set foot in Meridian, so this was the first place he could have asked. Verification: Chapter 28's absolute statement that Taren was not cleared to set foot in Meridian conflicts with Chapter 27 placing him on Meridian's landing, and no supplied evidence establishes an intervening restriction. The claimed seam contradiction follows directly. The report could not be written to the declared path because the workspace is read-only.",
+      "consequence": "The newly asserted access restriction makes Taren’s presence on Meridian’s landing in the immediately preceding chapter impossible or unexplained, creating a visible seam contradiction introduced solely to support the relocated strip request.",
+      "repair_target": "Remove the absolute claim that Taren was barred from Meridian, or replace it with a motive consistent with his prior escorted presence, such as choosing not to enter the House or being asked to meet them at the Hall that morning."
+    }
+  ],
   "exceptions": [],
   "output": {
     "draft_path": "penname-v3/manuscript/chapter-28-memorial.md",

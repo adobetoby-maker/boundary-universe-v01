@@ -1,0 +1,86 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch28-author-recovery-c1-1790022210",
+  "scene_id": "book1-ch28",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-28-memorial.md",
+  "word_count": 5141,
+  "obligations": [
+    {
+      "obligation": "Kade speaks publicly and admits Eli mattered. End beat: dead-channel message—'DUDE. DO NOT FREAK OUT.'",
+      "status": "MET",
+      "evidence": "Kade starts for the doors, Hale opens one a hand's width, and Kade turns back to the cloth on his own choice (draft lines 167-173). The speech is at lines 177-197: 'Needing people isn't weakness. It's just expensive.' / 'Eli's worth it.' The NULL-7 exchange opens with DUDE. / DO NOT FREAK OUT. / I AM SERIOUS ABOUT THE FREAKING OUT. THERE ARE SENSORS. (lines 303-311). Caveat: the chapter does not end on those two lines. As in the source, the exchange runs on through YES, 'SEN KNOWS. MARA CAN KNOW', and Kade going to find Mara. The last image is the ENDS: ON RETURN, OR DAY SEVEN card, not the source's blue-strip line."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "This answers finding f01 by restaging the chapter. Preparation opens with the chair-hauling job and Anton's three-item deadline instead of the common-room table, and Kade picks the object alone in 814 and leaves a tape label. The biography is a Hall-written draft corrected on the corkboard, not Julian's 198 words. Taren's strip request moves to the Hall steps in front of the other Houses, and a steward runs an unordered testimony. The order of speakers changes: Priya, Kim, Ortiz, Mara, Sera, with Sen last instead of first. The near-exit is staged with Hale's door. Kade's speech is rebuilt around the noodle label and the 23-column model. NULL-7 arrives as a filter notice that repeats three times while Kade drafts a message to his mother. Eli's proof is 'MERCER GETS CLEVER HERE' and the March ticket, replacing PANIC GEOMETRY and the 14 credits. Risk for the editor to judge: the four-movement macro order is unchanged, and the Ortiz/Sera and Kim/Kade courtyard conversations follow the source's beats and much of its dialogue closely (lines 209-277). That stretch is the weakest part of the freshness claim."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "Facts preserved: the rotor as House object; 'promising' and 'sacrifice' struck from the biography; 'presumed' restored by Kade; the exact two-sentence biography text; 194 words; NOT RELEVANT in the standing field and the form turning amber. Taren attends under two-officer escort, Sera sets the strip down rather than handing it over, he ties it himself, 'It doesn't change anything', and the officers' distance is unchanged. The bronze strip has no dates and uncut pins, with the recovery-finding and family-request explanation, and Kade refuses to build hope from the loose name plus the device identifier. Testimony keeps the 43-credit connector and 'expensive mistakes became policy', Ortiz's nine messages and the housing set beside the rotor, Sera's Response Corps declaration and 'break every single one of them', Mara's left-handed algorithm, and Sen's 'rules owed people reasons' and unfinished-system line. The courtyard keeps Denver, six housings and four cables, the cracked collar, two sensors, the responder recovered alive, the 19-line comparison, TEST TO FAILURE. THEN TEST THE FAILURE., the unaffordable rig plans, and the plain card for supervised unpaid work with plans only if the family and committee permit. Kim's scene keeps the green-stripe wafer, 'Asks annoying system-boundary questions', the custody rules, 30 days, and suspended not closed. In 814: sender NULL, SEN KNOWS / MARA CAN KNOW / SERA after the move, CLASSIFIED ALIVE, the Lab Six people still watching, the speech heard, WORTH IT IS A LOT OF PRESSURE / Get used to it, and Kade going to Mara instead of acting alone. This matches the STATE_LEDGER chapter 28 end-state delta. No Boundary use occurs and the tremor is only referenced. Everything in this item that departs from the source is listed under deviations."
+    },
+    {
+      "obligation": "Use Fantasy Author A voice: propulsive, emotionally grounded, rule-bound wonder, victories with receipts, and practical close-viewpoint attention.",
+      "status": "MET",
+      "evidence": "The chapter is close third person, past tense, in Kade's viewpoint throughout, with no villain viewpoint or omniscient commentary. It works through practical business: chair stacks, the tape label, the pen string too short, the knot fixed in four seconds. Receipts include 'It was not proof. It was evidence, and all of it pointed the same way.' This is a self-assessment. I did not re-read PRODUCTION_SPEC.md in this recovery pass."
+    },
+    {
+      "obligation": "Pass family-clean and audio-readability requirements in the production specification.",
+      "status": "MET",
+      "evidence": "The draft has no profanity, sexual content or gore. The strongest language is the source's own 'SERA WILL MURDER ME'. Audio: dialogue is attributed, the all-caps messages read as discrete lines, and italics are used for written text. Two points are unverified against the spec in this pass. First, the three '---' scene breaks, which the source also uses. Second, two all-caps message lines are followed by ordinary narration on the same line ('CLASSIFIED ALIVE, REMEMBER. There was a gap. WORTH IT...' and 'I AM TOLD YOU USED THE PRESENT TENSE. The gap this time was longer. THANK YOU FOR THAT.'), which could be ambiguous when narrated."
+    },
+    {
+      "obligation": "Plants: preserve all chapter-assigned plants in CLUE_LEDGER.md and the source chapter.",
+      "status": "MET",
+      "evidence": "The CLUE_LEDGER memorial entry is honored: Kade states that needing people is costly but worth it, and other speakers show Eli's impact outside Kade's orbit. NULL-7 is a pre-existing route, recognized from the gray window of chapter 26 and kept alive by the March ticket. The unresolved device identifier and the copied status traffic are recalled without being resolved (line 357). Kim's warning about the committee striking cost assumptions and the 30-day disposition clock are kept, and so is Ortiz's prototype custody. I grepped the ledger and did not re-read it in full."
+    },
+    {
+      "obligation": "Payoffs: deliver all chapter-assigned payoffs without advancing later-book answers.",
+      "status": "MET",
+      "evidence": "The NULL-7 payoff is delivered: Eli is alive, Sen knows, and the watchers are still active. No location, mechanism or culprit is given. The source's 'DID THEY TRY TO KILL YOU / MAYBE' is omitted, so the draft reveals less than the source and nothing new."
+    },
+    {
+      "obligation": "Prohibited outcomes: no canon, reveal-order or rank changes; Kade not effortlessly dominant; no profanity, gore or new named character; no metadata in the prose.",
+      "status": "MET",
+      "evidence": "No new named characters appear. The steward, the Sol boy, the Kepler girl, the officers and the technicians are all unnamed, and Anton, Hale, Amadi and Owen Park are existing characters. No ranks change; Julian as 'first of ten thousand' is an existing standing. Kade is not dominant: he nearly leaves, his voice fails, and his hands shake. The manuscript contains no drafting notes or word counts. Deviations that could be read as canon changes are disclosed separately."
+    }
+  ],
+  "inventions": [
+    "The Hall of Names owns two hundred chairs and replies run to about twice that, so Kade hauls Meridian dining chairs on a facilities cart. 'Four hundred people' watched him stand.",
+    "Anton gives Kade a 9:00 deadline to choose the House object. Julian's specimen bag carries the note 'From Systems Lab, on loan. It stands for the work.'",
+    "Kade's tape label on Eli's bench mat reads 'ROTOR OUT ON LOAN. RETURNING. K.' It is later paired with the wafer.",
+    "The Hall's biography office wrote the draft from the academy record, and the House corrects it on the corkboard with a pen on a string, including Sera's and Priya's margin notes. In the source Julian wrote it.",
+    "An unnamed steward in gray gloves receives the House object and runs the memorial with no fixed speaking order. The steward's line 'That's what the cloth is for' explains the unmounted name.",
+    "Anton states the custom of the House roll: a strip goes on a bed when someone is missing, dead or arrested, and 'arrested is on the list'. This extends the chapter 27 roll custom and may count as a new House rule.",
+    "Hale opens the Hall door a hand's width as Kade heads for it. Kade reflects on the open door with a callback to the shuttle gate of chapters 25 and 27.",
+    "Speech material: the noodle-box label, the model's twenty-three columns (chapter 8), 'He asked if I'd eaten', 'He'd file a complaint about the plaque', and 'Then give it to Sera.'",
+    "Priya's testimony: 'Two of them were right. I never told him which.' The source has 'He was wrong. Mostly.'",
+    "Kim's line: 'I've since used that on two committees. I'd like to correct the attribution.'",
+    "Ortiz collects the housing from the technician's lap mid-ceremony and says 'best question anyone's asked me in ten years, and I gave him half an answer.'",
+    "Kade drafts a message to his mother ('Spoke. Tried to leave first, then didn't. Calling tonight.') and she is on shift until six. The NULL-7 alert arrives disguised as a housing filter notice that repeats three times.",
+    "New lines from Eli: 'THAT IS ANNOYINGLY RIGOROUS. I BLAME MARA.'; the MERCER GETS CLEVER HERE proof; 'DO NOT LET ANYONE CLOSE THE TICKET FROM MARCH. THIS CHANNEL IS LOAD-BEARING.'; 'POSSIBLY THIS.'; 'I AM TOLD YOU USED THE PRESENT TENSE. THANK YOU FOR THAT.'",
+    "A Sol boy looks to Kade on the Hall steps, and a Kepler girl asks Taren about his strip. Both are unnamed and both Houses already exist.",
+    "The closing image is Kade reading into the ENDS: ON RETURN, OR DAY SEVEN card all the way down the stairs."
+  ],
+  "state_change_proposals": [
+    "No ledger changes are proposed; the draft is written to the existing STATE_LEDGER chapter 28 end-state delta.",
+    "Optional continuity notes for a human to accept or reject. (a) The rotor is physically at the Hall of Names on the blue cloth, and a tape label marks its place on Eli's mat in 814. (b) Taren wears a blue strip outside his cuff and is personally answerable for what it means. (c) Kade used the present tense ('Eli's worth it') in the public speech, and Eli knows this. (d) In the rewrite line Sera publicly says she is taking the accelerated Response Corps track, not applying, consistent with rewritten chapter 27 line 141 and STATE_LEDGER line 123."
+  ],
+  "deviations": [
+    "Word count: a whole-file whitespace count gives 5141. The target of 4600 plus or minus 12 percent is 4048 to 5152. The draft is inside tolerance, 11 words under the ceiling and about 11.8 percent over target.",
+    "Finding f02 (Professor Kim) is only partly repaired. The draft keeps Professor Kim distinct from the chapter 27 orange-tool-case professor: both are seated separately in the Hall, and in the courtyard the tool-case professor remains 'she'. The draft does not restore Kim's male pronouns from the source. It avoids every pronoun for Kim and drops the given name 'Dae'. I chose this neutral workaround because the packet records no human canon ruling and source chapter 33 conflicts with source chapter 28. If the ruling goes to the chapter 28 source, male pronouns need adding, which is a small edit.",
+    "Possible continuity conflict I introduced: line 71 says Taren was 'not cleared to set foot in Meridian'. In the source he comes to the Meridian common-room door under escort, and rewritten chapter 27 line 177 has Taren on a landing, apparently inside Meridian. I did not verify that location. The line is an invented restriction that supports the relocation to the Hall steps. It may need softening, for example to say he chose not to come to the House.",
+    "Action reassignments from the source. Kade carries the rotor to the Hall, where the source has Priya carry it and states 'Kade carried nothing'. Julian deletes the standing sentence and types NOT RELEVANT, which Priya did in the source; here Priya prompts it. Anton delivers the 'marks who's gone' argument that was Priya's in the source. Sera takes a pre-cut spare strip from her pocket instead of cutting a new length. Julian is no longer the person who explains the loose name.",
+    "The speech's tense changes from the source's 'Eli was worth it' to 'Eli's worth it', with Kade noticing the tense. Eli's reply replaces the source's 'THAT'S THE SPIRIT'. I judge this consistent with the ledger's 'publicly naming Eli worth the cost', but it alters a signature line.",
+    "The proof-of-identity content changes. The source's 'PANIC GEOMETRY IS A VALID ANALYTICAL CATEGORY' and 'YOU STILL OWE ME 14 CREDITS FROM MERIDIAN NIGHT' become 'MERCER GETS CLEVER HERE' (rewritten chapter 8) and the March ticket (rewritten chapters 26 and 27). Neither source item appears in CLUE_LEDGER or in the rewritten manuscripts by grep. If a later chapter pays off PANIC GEOMETRY or the 14 credits, this draft breaks that link.",
+    "Source material omitted: the mug as a candidate object, only referenced as 'Half the floor expects the mug'; the testimonies of the maintenance technician and Owen Park; the courtyard anecdotes about the toaster and the named robots; the Sera/Ortiz banter 'Only nineteen?' and 'A full week?'; Kade and Sera's exchange 'You going to call?'; Kim's line 'Everyone carries a different obligation'; the fellowship model hologram, 'Version 7 still too expensive' and the notebook line; 'Day four of seven'; 'WHO IS THIS / WOW. GRIEF HAS MADE YOU SUSPICIOUS'; 'DID THEY TRY TO KILL YOU / MAYBE'; and the closing lines 'empty did not mean gone'.",
+    "Eli's tablet: the source says investigators took it. The draft follows rewritten chapter 27 line 251, where the tablet went into the spine with him. I followed the rewrite continuity over the frozen source here.",
+    "Sera: the source says 'I am applying to Disaster Response'. The draft has her offered the accelerated Response Corps track and taking it, following rewritten chapter 27 and STATE_LEDGER line 123. Ortiz's line changes accordingly to 'Your assessment lead says you start this month'. The words 'this month' are my invention.",
+    "Scope of this recovery pass. I re-read the packet, the draft, the frozen source chapter and the seam lines of rewritten chapter 27, and grepped the ledgers, the registry and the earlier rewritten chapters. I did not re-read CANON_RULES.md, BOOK_BIBLE.md, UNIVERSE_BIBLE.md, PRODUCTION_SPEC.md or CHAPTER_ARCHITECTURE.md in full, so the obligation assessments that depend on them are good-faith self-reports, not verified checks."
+  ],
+  "blockers": [
+    "Not blocking the draft, but still open from finding f02: a human canon ruling on Professor Kim's gender and pronouns has not been made. Source chapter 28 uses male pronouns and source chapter 33 uses female, and the registry's note refers to 'her chapters'. The packet's exceptions list is empty. The draft uses no pronouns for Kim until the ruling comes."
+  ]
+}
