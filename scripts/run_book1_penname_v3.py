@@ -673,6 +673,40 @@ deviations, and blockers. The editor will independently verify everything.
             self.author(packet_path, 0)
             self.advance("author_done", note="Fable produced validated draft and author report")
 
+        state = load_json(STATE)
+        if state["phase"] == "VERIFYING":
+            # Resume an interrupted verifier without repeating the independent
+            # editor pass whose report already advanced the durable state.
+            cycle = state["repair_cycle"]
+            editor_path = BOOK / packet["output"]["editor_report_path"]
+            if not editor_path.exists():
+                raise LoopError(f"{scene_id}: VERIFYING state has no editor report")
+            self.validate("editor-report.schema.json", editor_path)
+            editor = load_json(editor_path)
+            verifier = self.verify(packet_path, cycle, editor_path)
+            findings = self.verified_findings(editor, verifier)
+            if not findings:
+                self.archive(load_json(packet_path), cycle)
+                self.advance("verification_clear", note="No proposed finding survived verification")
+                self.reset_packet_after_close(packet_path)
+                print(f"[{scene_id}] CLOSED after resumed verification", flush=True)
+                return
+
+            fingerprint = self.fingerprint(findings)
+            self.advance(
+                "verification_repair",
+                fingerprint=fingerprint,
+                note=f"{len(findings)} verified findings require repair",
+            )
+            if load_json(STATE)["phase"] == "BLOCKED":
+                raise LoopError(f"{scene_id}: bounded repair ceiling reached")
+            cycle = load_json(STATE)["repair_cycle"]
+            self.archive(load_json(packet_path), cycle - 1)
+            self.set_repair_packet(packet_path, findings)
+            self.validate("scene-packet.schema.json", packet_path)
+            self.author(packet_path, cycle, repair=True)
+            self.advance("repair_done", note="Fable repaired only verified findings")
+
         cycle = load_json(STATE)["repair_cycle"]
         while True:
             state = load_json(STATE)
