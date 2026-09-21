@@ -1,0 +1,67 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch27-author-c1",
+  "scene_id": "book1-ch27",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-27-the-empty-bed.md",
+  "word_count": 5306,
+  "obligations": [
+    {
+      "obligation": "f001 — Fresh re-authorship: re-stage at scene-construction level (regroup material, change entrances and focal objects, rebuild conversational routes, new sentence architecture)",
+      "status": "MET",
+      "evidence": "Whole chapter rebuilt. Opens on the housing coordinator's four-item checklist as the entrance to Room 814 (room details now surface through her questions). The seven-day hold moves downstairs to the bell cabinet with Anton Bell, a roll of cloth, and a printed hold card whose third line reads ENDS: ON RETURN, OR DAY SEVEN (replaces Sera's 'Depends who comes back' and the second-knot ritual); Kade ties the strip alone with unsteady hands. The roster is a paper sheet on the corkboard with Priya taking the marker from Julian live on the page, a struck-through HOLT, and a row 'EIGHTH FLOOR, IF WANTED' (replaces SIT HERE IF HE ASKS and the DOOR OPEN/CLOSED control; the door choice is now Eli's printed wedge). Sera's scene is re-routed through the GO/NO-GO notebook page she is owed. Custody form and investigator visit are merged into one two-person scene. Mara's consent-bounded message sorting is merged into the empty-chair dinner. Vector exercise is solved by reassigning seats around the people present rather than by confidence bands. Near-regression is staged concretely via a temporary-single housing form and the unfolded duffel, which Kade deletes/pushes back himself before Sera arrives."
+    },
+    {
+      "obligation": "f002 — Production length: complete chapter at or under 5,376 words",
+      "status": "MET",
+      "evidence": "wc -w over the complete manuscript file returns 5,306 (ceiling 5,376; target 4,800 +12%)."
+    },
+    {
+      "obligation": "Grief chapter: dorm, funeral preparations, fractured friendships, no action; Kade nearly regresses completely",
+      "status": "MET",
+      "evidence": "All scenes are dorm, House common room, classroom, dinner. Memorial preparation appears via the hour-by-hour roster to the memorial, Anton's question about an object beside the name (left undecided; 'Not the mug'), and chairs being set out at the close. Taren struck from the roster and the landing exchange; Sera's guilt; Julian's control confession. Regression: the single-room request typed to the reason field and the duffel unfolded, then both reversed by Kade's own choice."
+    },
+    {
+      "obligation": "Preserve seven-day hold, evidence-threshold clue (unresolved device ID not converted to hope), fractured relationships, classroom adaptation without assigning another student Eli's role, decision to attend memorial",
+      "status": "MET",
+      "evidence": "Hold card and blue strip; systems officer's unresolved device identifier ('Different hardware... doesn't match anything in the registry'; 'Don't turn an incomplete log into a story') plus Sera's 'incomplete data' and Kade's refusal; Owen Park scene ('don't build this round a voice you haven't got' / 'So we build it not to need one'); Kade dresses and goes down to help set out chairs."
+    },
+    {
+      "obligation": "Preserve clues/plants: NULL-7 and March ticket, mirrored status traffic, fellowship suspended not rejected, Eli's civilian-stabilization ambition, Sera accelerated assessment, Julian's father pressure, Darius/Elena Northline ties, consent with Mara, unsent 'Spine C' message",
+      "status": "MET",
+      "evidence": "Each appears on the page: officer dialogue (null seven, mirror, unattributed), professor's 'Suspended is not rejected', notebook PROJECT pages, Sera's assessment-office line, Julian at the stairs, Darius call and text to Elena, 'Give me the limits first', unsent message neither sent nor deleted."
+    },
+    {
+      "obligation": "Power cost persists; no effortless dominance",
+      "status": "MET",
+      "evidence": "Hand tremor from the gray-door reach makes the knot take three attempts and unsteadies his signature; the wire behind his right eye pulls tight during the second Vector run. No Boundary use."
+    },
+    {
+      "obligation": "Family-clean, audio-readable, no new named characters, no metadata in prose",
+      "status": "MET",
+      "evidence": "No profanity; housing coordinator, Systems Lab professor, systems officer, and Sol student remain unnamed; all names are from the registry (Anton Bell, Priya, Nessa, Owen Park, Amadi, Darius, Taren Holt, Julian Cross). Signage rendered in caps is also described in narration. File contains prose only."
+    }
+  ],
+  "inventions": [
+    "Housing coordinator's four-category checklist as scene spine, and her mention of an entitlement to a temporary single-occupancy request (unnamed background procedure; used only as Kade's near-regression object and deleted on the page).",
+    "Printed hold card kept in the bell cabinet with lines HOLD PLACED BY / ACCEPTED BY / ENDS: ON RETURN, OR DAY SEVEN, with a handwritten 'leave the room twice a day' condition; roll of blue cloth cut with kitchen scissors by Anton Bell.",
+    "Paper roster on the common-room corkboard with a row 'EIGHTH FLOOR, IF WANTED' and Taren's name struck through by Priya.",
+    "Eli's printed gray rubber door wedge labeled DOOR, used as the open-door choice.",
+    "Vector exercise solution: Owen holds center by value, the unnamed Sol student (a rower) counts timing from instruments, Kade moves the outer plates on her count.",
+    "Amadi's extension delivered as a written note on Kade's tablet rather than spoken at the door.",
+    "Systems officer and Systems Lab professor arriving together as remover and faculty witness; the hovering application going dark when the workstation core is pulled.",
+    "Anton quietly having someone pass Kade's door hourly after learning the single-room form was in his folder.",
+    "Darius's framing: 'tell me something about him I can't stand... I can't miss a guy who's all good parts.'"
+  ],
+  "state_change_proposals": [
+    "None to canon. Ledger note only: rewritten Chapter 27 word count is 5,306; end-state delta unchanged (Kade refuses to make Eli replaceable or to treat the empty bed as proof belonging was a mistake; enters the memorial connected to his people and requiring evidence before hope).",
+    "Downstream seam note for Chapter 28: the memorial object is explicitly left undecided ('Nothing gets decided tonight'; Kade rules out only the mug), and Kade has committed to attending, not to speaking."
+  ],
+  "deviations": [
+    "Length is 5,306 words: inside the 5,376 ceiling required by f002 but above the 4,800 target; further cuts would have started removing required material.",
+    "Julian's House is not named (the prior draft's 'He isn't even in this House' / 'My House does three days' is preserved as 'You are not Meridian' / 'My House does three days') to avoid inventing an affiliation.",
+    "The hold is filed by Anton Bell and accepted by Kade rather than brought by Sera; Sera still touches the knot and carries the late-night exchange. Julian starting the roster and Priya taking it over is kept but dramatized rather than reported.",
+    "The frozen source chapter itself was not among the supplied context files; freshness was judged against the supplied current rewrite, which the verified finding describes as source-matched."
+  ],
+  "blockers": []
+}
