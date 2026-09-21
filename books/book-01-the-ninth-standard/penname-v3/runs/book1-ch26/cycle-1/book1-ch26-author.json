@@ -1,0 +1,80 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch26-author-c1",
+  "scene_id": "book1-ch26",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-26-lab-six.md",
+  "word_count": 7158,
+  "obligations": [
+    {
+      "obligation": "Attack/explosion. Eli listed dead. Kade believes his investigation killed his first real friend.",
+      "status": "MET",
+      "evidence": "Lab Six coolant chamber fails in two events after a lying valve board and mirrored status traffic; casualty page posts 'One missing, presumed dead. ELIAS NAVARRO'; kitchen and stairwell scenes end with Kade unable to add the night up in any way 'that did not begin with him'."
+    },
+    {
+      "obligation": "F-CH26-001: genuinely fresh re-authoring rather than close recasting",
+      "status": "MET",
+      "evidence": "Chapter re-staged from locked causal facts. Removed: pressure-first blast/rising floor, descending pressure door, gap conversation, thirty-centimeter gap, ninety-second question and unanswered-response beat, three pleas read as orders, wrist-grab restraint, fellowship last-line joke, bench/fire-hood/blue-line/pole rescue business, blood-type slate beat, 'less dead' line, steps-and-hand ending. New: physical slab-and-pin failure review inside Lab Five with Kade as test load; NULL-7 introduced as Eli's motivated file-move after Taren's disclosure; face-to-face departure through a service-spine door with Sera's 'what do you need from this side'; blast seen as crazed milk-white glass and isolation bolts; Eli's running intercom commentary cut off at the wheel; restraint chosen by Kade from his own load-path perception plus Eli's warning; forearm muster tally, stair-pressurization check, shared smoke-damper wheel; commander's suit-telemetry test of Sera; family-liaison scene; two-color search board; Kade refusing to give the House Taren as a target; Julian washing cups; Elena's silent call; unsent message on the eighth-floor landing."
+    },
+    {
+      "obligation": "Preserve durable facts, ranks, relationship movement, clues, power cost, and chapter-end state",
+      "status": "MET",
+      "evidence": "Stabilizer failure-mode review before blast (38 kg, staged failure, Sera's response critique); Lab Six occupants, controls and exits established before failure; compromised remote controller; Eli independently closes upper vent by hand, confirmed by responders; two booth students and technician recovered; five injured, two critical, one missing presumed dead; EXTERNAL ACCESS UNDER INVESTIGATION; Sera recognized and referred to Response assessment; Taren's supervised, checked usefulness; wafer sealed for Sen; Julian's father rule; Anton Bell, Priya, Nessa present; Boundary reach costs headache, doubled light edges, tremor; no rank change."
+    },
+    {
+      "obligation": "Plants: NULL-7 as Eli's legitimate abandoned local maintenance channel; Lab Six status traffic mirrored to unauthorized external endpoint before the attack",
+      "status": "MET",
+      "evidence": "Eli names null seven as a channel he set up last term and abandoned in spring, nothing logs or listens to it; side-by-side windows show every Lab Six status report leaving twice, second copy to an off-campus address; Taren identifies it as a passive status mirror. Channel restated as still open in closing passage."
+    },
+    {
+      "obligation": "Payoffs without advancing later reveals",
+      "status": "MET",
+      "evidence": "Sera's Disaster Response ambition pays off operationally; Eli's weeks-old surveillance suspicion surfaces; no Ghost Protocol, isolation pod, unresolved device ID, Sen involvement, or survival hint is spent. Eli's status left at 'not located' with cameras failed and audio cut mid-sentence."
+    },
+    {
+      "obligation": "Kade chooses under pressure; no effortless dominance; Boundary cost retained",
+      "status": "MET",
+      "evidence": "Kade lets go of the spine door when Eli asks for trust, withdraws from the Boundary reach after perceiving the load would land on the broken window or occupied hall, declines the evidence link, and publicly refuses to let the House blame Taren. He moves nothing with Boundary and still pays neurological cost."
+    },
+    {
+      "obligation": "Fantasy Author A voice, family-clean, audio-readable",
+      "status": "MET",
+      "evidence": "Close third on Kade, practical attention, humor from Eli under fear; no profanity, no gore; NULL-7 spoken as 'null seven'; display text glossed in narration; speakers attributed throughout."
+    },
+    {
+      "obligation": "No new named characters; no metadata in manuscript",
+      "status": "MET",
+      "evidence": "Technician, students, officer, commander, liaison, administrator, upper-year all unnamed; file contains prose only."
+    }
+  ],
+  "inventions": [
+    "Eli's motive for the Lab Five detour: pulling his project off the live network via null seven after learning of Directorate surveillance",
+    "Physical test rig of two borrowed concrete slabs on trestles; Kade stands on the slab while Eli pulls the red hinge pin",
+    "Sera's critique that the frame needs a spoken warning because people freeze and cannot read in smoke",
+    "Service-spine hall door opened by Eli's lab card, with a speaker grille carrying Eli's commentary until the second event",
+    "Blast rendered as the lab window crazing milk-white without falling, hall shutters dropping, spine door bolting ISOLATED",
+    "Building alarm as a mechanical pull handle at the central junction, pulled by Taren under Mara's observation",
+    "Sera's forearm muster tally (nineteen evacuees), central-stair pressurization detail verified on the posted plan, manual smoke damper wheel turned by Kade and Taren together",
+    "Booth screen message said 'please' the second time",
+    "Technician wearing ear protectors, trapped by the field shutter at the east stair; gloves frozen to his hands on recovery",
+    "Commander hands Sera the suit seal telemetry and has her call Team Two out",
+    "Family liaison with paper notebook asking Kade what Eli was like in the last hour; Kade does not know Eli's mother's name",
+    "Two-color search board distinguishing walked areas from sensor-cleared areas",
+    "Unnamed upper-year accuses Taren; Kade states only what Taren verifiably did tonight; Taren writes routing format on paper for Sen's bag",
+    "Julian washing unused cups in the House kitchen; Elena stays silently on the line during an eleven-minute break",
+    "Eli's lunchtime message about the Friday panel, protein powder and soldering iron; Kade's unsent reply about spine C"
+  ],
+  "state_change_proposals": [
+    "No ledger change required. Note for Ch27-29 continuity: Kade heard Eli reach and turn the upper-vent wheel over a spine intercom before audio cut; Eli's white lab card on an orange lanyard and orange tool roll are listed on the casualty slate; Kade has an unsent draft message to Eli on his phone; Taren's handwritten routing-format note is in the sealed evidence bag with the wafer for Sen.",
+    "Mara and Kade contact in this chapter is shoulder-to-shoulder only; hand-holding is left for its ledgered Chapter 33 payoff."
+  ],
+  "deviations": [
+    "Length 7,157 words against a 6,500 target; inside the owner-approved 25 percent action ceiling (8,125).",
+    "The frozen source chapter was not among the supplied context, so freshness was achieved by diverging from the flagged current rewrite and every correspondence listed in F-CH26-001; the editor should confirm divergence against the source directly.",
+    "Taren's prior-knowledge beat about the moved fellowship slot was dropped; the Friday panel is kept through Eli's own dialogue and message. Taren's surveillance history is carried by Chapter 25 and the mirror identification instead.",
+    "Timestamps from the prior rewrite (54 seconds, 17/33/38/41 minutes) were replaced with relative sequencing; rescue order and outcomes are unchanged.",
+    "The single low bell stroke is retained from the continuity-approved prior rewrite; if the Meridian bell is canonically non-functional before Chapter 33, that line needs an editor ruling.",
+    "Adapter normalized whitespace word count from 7157 to 7158."
+  ],
+  "blockers": []
+}

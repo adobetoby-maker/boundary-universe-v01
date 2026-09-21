@@ -1,0 +1,73 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch26-author-c2",
+  "scene_id": "book1-ch26",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-26-lab-six.md",
+  "word_count": 7791,
+  "obligations": [
+    {
+      "obligation": "Repair F-CH26-002: independently redesign the Lab Five setup (test problem, conversational route, beat order, imagery, joke construction) while preserving durable functions",
+      "status": "MET",
+      "evidence": "Lab Five section fully replaced. Device is now the lunch-tin-sized field stabilizer established in rewritten Ch20/21 (one-person carry, three-minute post-shock hold, speaks aloud), holding a sawn-through timber beam under four iron plates. Removed: 38 kg/two-carrier spec, red hinge, if/when exchange, staged drop under Kade's feet, amber arrows, 'needs a voice', 'Everything drops you eventually', Response 'break it properly'/'kindest thing' joke, private-ditch joke, cleaning-drone Taren beat. New beat order: trust beat first (Kade crawls under the cut beam on Eli's word) -> fellowship/Friday motive -> NULL-7 -> Mara on the mechanical tab and cost -> Sera's kick/shock test -> go/no-go critique -> Taren silence."
+    },
+    {
+      "obligation": "Establish Eli's civilian stabilizer ambition and failure-aware engineering",
+      "status": "MET",
+      "evidence": "'one nurse on a night shift with a ceiling coming down over a ward'; spring-and-latch tab that 'couldn't be told'; 'takes three readings and believes the worst'; post-shock reserve-only promise until a person inspects it; controlled let-down at zero."
+    },
+    {
+      "obligation": "Surface Sera's response expertise",
+      "status": "MET",
+      "evidence": "Sera kicks the unit as a responder would stumble on it, then reframes the countdown as a go/no-go for the rescuer ('Is there time to go in once more, and come out again?'), which also sets up the commander's later 'which one would you send' test."
+    },
+    {
+      "obligation": "Plant NULL-7 as Eli's legitimate abandoned local maintenance channel (pre-payoff clue 1)",
+      "status": "MET",
+      "evidence": "'Null seven. It's a maintenance channel. I registered it last term... There's a ticket for it, from March... Nothing logs it and nothing listens to it.' Chapter-end reference updated to match."
+    },
+    {
+      "obligation": "Give Kade a concrete experience of trusting Eli",
+      "status": "MET",
+      "evidence": "Kade puts head and shoulders under eighty kilos on a severed beam without looking up; 'There were not many people whose word could stand in for looking.' Paid at the gray door ('you put your neck under my beam and you didn't look up first. Do that again.') and in the Julian kitchen scene."
+    },
+    {
+      "obligation": "Preserve mirrored-status clue, Eli's independent vent closure, missing/presumed dead listing, Sera recognition, Kade's refusal of unsafe Boundary use and of scapegoating Taren, chapter-end state",
+      "status": "MET",
+      "evidence": "All sections after the Lab Five setup are unchanged except four callback lines adjusted for consistency (hinge->housing x2, bridge->beam, slab->saw cut) and the closing NULL-7 sentence."
+    },
+    {
+      "obligation": "Targeted repair only; no opportunistic rewriting",
+      "status": "MET",
+      "evidence": "Edits confined to the flagged Lab Five block and its dependent callbacks."
+    },
+    {
+      "obligation": "Family-clean, audio-readable, no new named characters, prose-only manuscript",
+      "status": "MET",
+      "evidence": "No profanity, no new names, no metadata; spoken unit lines are short and attributed."
+    },
+    {
+      "obligation": "Length within action-chapter tolerance (6500 +25% = 8125)",
+      "status": "MET",
+      "evidence": "7,791 words under the owner action-length exception."
+    }
+  ],
+  "inventions": [
+    "Test rig: sawn-through timber beam on sawhorses loaded with four conditioning-hall plates; jack stand as backup",
+    "Stabilizer details within Ch20 canon: carry loop, mechanical spring-and-latch orange tab held by the field, three-sensor worst-case reading, inspect-to-reset after shock, controlled let-down at zero",
+    "Orange tool roll location and backup wafer (tool roll already appears in the casualty equipment list)",
+    "NULL-7 backstory texture: registered so the unit could report to Eli's desk; unclosed March ticket; 'dead-letter box'",
+    "Sera's go/no-go trip-time critique and 'send me that logic before Friday'",
+    "Eli's reflexive appeal to Taren and Taren's single careful reply",
+    "Kade's habit of checking ceilings/exits as characterization texture"
+  ],
+  "state_change_proposals": [
+    "STATE_LEDGER Ch26 note could record that the failure-mode review now centers on a post-shock reserve hold and a rescuer go/no-go, not a staged brace failure; no durable fact changes."
+  ],
+  "deviations": [
+    "Dropped the explicit 'bring it to Response' offer from the setup (flagged as part of the paraphrased sequence); replaced by Sera requesting the go/no-go logic before Friday. Ch33's Sera stress test remains compatible.",
+    "I did not have the frozen source chapter text in the prompt; redesign was driven by the finding's description of the retained sequence.",
+    "Manuscript edits were applied via a scripted in-place replacement (Bash/Python) rather than the Edit tool, to replace the large block exactly."
+  ],
+  "blockers": []
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": "3.1",
+  "run_id": "book1-ch26-author-c0",
+  "scene_id": "book1-ch26",
+  "status": "DONE",
+  "draft_path": "penname-v3/manuscript/chapter-26-lab-six.md",
+  "word_count": 7894,
+  "obligations": [
+    {
+      "obligation": "Attack/explosion. Eli listed dead. Kade believes his investigation killed his first real friend.",
+      "status": "MET",
+      "evidence": "Lab Six coolant valve is opened remotely and the chamber blasts twice. Eli runs back to isolate the upper vent by hand. The casualty page posts 'Five injured. Two critical. One missing, presumed dead. ELIAS NAVARRO.' In the common room and on the steps, Kade reasons that he found the twelfth name and the lab was triggered as they walked past. Julian contests it. The chapter ends with Kade unable to drop the belief that he drew it down on them."
+    },
+    {
+      "obligation": "Write a genuinely fresh chapter, not a line-by-line paraphrase or abbreviated recap.",
+      "status": "MET",
+      "evidence": "The chapter is restaged in the rewrite's prose register with new dialogue throughout. It adds a transit-hold reason for the pause, Taren's on-page slip about the fellowship slot, an evidence-bag custody beat for the ch25 wafer, and clearer east/west geography around the pressure door. At 7,894 words it is a full-length chapter. All source beats are dramatized in scene."
+    },
+    {
+      "obligation": "Preserve every durable fact, rank, relationship movement, clue, power cost, and chapter-end state required by the frozen evidence.",
+      "status": "MET",
+      "evidence": "All figures and beats are kept: 38 kg against 25/20; the four review notes; Friday 09:20; the Lab Six layout and its three occupants; ninety seconds; the 54-second response; the 17/33/38/41-minute beats; spine C; 'Candidate'; the upper vent manually isolated; the two-hour delay; the notice wording; EXTERNAL ACCESS UNDER INVESTIGATION; Sera's response card; Julian's line about his father; Mara taking Kade's hand; Elena's texts; the single bell stroke; Room 814, eight floors up. Boundary cost is shown as head pain and hand tremor from reaching alone. The ch25 seam state is honored: Taren's powered-down tablet, the wafer sleeve in Mara's pocket, and Sera's no-terminal rule with an explicit exception that Mara verifies from the log."
+    },
+    {
+      "obligation": "Plants: NULL-7 identified by Eli as his legitimate dead maintenance channel before the explosion",
+      "status": "MET",
+      "evidence": "Eli names NULL-7 ('Null seven. It's a dead channel... I send test packets down it') before the blast. The closing paragraph recalls it. It is spoken as 'null seven' so it survives audio."
+    },
+    {
+      "obligation": "Plants: Lab Six status traffic mirrored to unauthorized external endpoint before attack",
+      "status": "MET",
+      "evidence": "The second reply arrives 'from somewhere else', and Eli says 'Someone's mirroring the status traffic.' Taren explains the passive status mirror, and the notice line about external access reinforces it. Eli says he noticed the pings 'weeks' ago, and that tonight's rate is three times last week's, which is compatible with source ch29."
+    },
+    {
+      "obligation": "Payoffs/ledger: Eli's independent heroic choice, manual upper-vent isolation confirmed by responders, Sera's response competence recognized, Julian's father pressure",
+      "status": "MET",
+      "evidence": "At the pressure door Kade recognizes that every plea he could make is an order. A responder reports that 'Somebody isolated the upper vent by hand.' Sera runs the evacuation, advises the route in, takes the commander's priority lesson, and receives the contact card. Julian's speech about his father is delivered."
+    },
+    {
+      "obligation": "Do not make Kade effortlessly dominant or remove Boundary cost; the choice under pressure must be Kade's",
+      "status": "MET",
+      "evidence": "Kade reaches for the door/frame/anchor system and Sera argues against it. The narration marks that she 'could not hold the other thing. Only he could put that down.' He lets go, and pain and tremor follow. He refuses the same escape-through-action a second time, at the evidence link and with Taren."
+    },
+    {
+      "obligation": "Do not spend later reveals (Ghost Protocol, Eli's survival, unresolved device clue, Aaron)",
+      "status": "MET",
+      "evidence": "There is no hint of the hatch, the pod, or Sen's team. 'Not located' and 'presumed dead' carry the uncertainty. The unresolved device ID is left for Chapter 27."
+    },
+    {
+      "obligation": "Family-clean and audio-readability",
+      "status": "MET",
+      "evidence": "Eli's swear is reported but never rendered. There is no gore: the injuries shown are frost on boots, a bound arm, and an oxygen hood. Display text is kept short and introduced in the prose, and speakers are attributed during the crowd scenes."
+    },
+    {
+      "obligation": "No new named characters; no metadata in manuscript",
+      "status": "MET",
+      "evidence": "The students, technician, responders, commander, administrator, and communications officer are all unnamed. The file contains only the title and prose."
+    }
+  ],
+  "inventions": [
+    "Transit hold: the east engineering platform board shows the car held at the Spire for nine minutes. This gives the group a causal reason to wait in the camera-covered hall beside Lab Five, since ch25 of the rewrite ended with them hurrying to Sen.",
+    "Eli hands Taren's powered-down tablet to Sera at Lab Five, so it does not go into the lab with him.",
+    "Taren's slip is staged on the page: he says 'They moved it this morning. The panel chair had a conflict.' This replaces the source's off-page knowledge of the fellowship schedule change.",
+    "Eli notes that the ping rate is three times last week's. This is consistent with source ch29's 'packet frequency tripled'.",
+    "Geography: the central junction and alarm station are to the west and Lab Six is to the east. The pressure door has a view port, and Taren is already on the west side when it drops.",
+    "The blue floor line is defined as the hazard boundary for rooms that share a wall with the lab.",
+    "The ch25 wafer sleeve is sealed in a responder evidence bag. Mara and Sera sign across the seal, and the tag routes it to Director Sen's hand and records Taren's offer to translate. This replaces the source's burned-token tablet handoff.",
+    "A rescued student reports that the booth screen gave directions and told them twice not to wait for the lower chamber.",
+    "Minor texture: one red light still turning on the engineering wing roof, a cup rolling on the study room floor, and the line 'Don't stop to be impressed.'"
+  ],
+  "state_change_proposals": [
+    "The Directorate wafer from ch25 is now in the incident-command evidence chain. It is in a sealed bag signed by Mara and Sera and addressed to Director Sen, and it is no longer on Mara's person.",
+    "Taren's personal tablet, powered down, is held by Sera. Eli passed it to her before the blast.",
+    "Taren sent the building alarm and hazard code under Sera's explicit exception, and Mara verified it from the log. This is the first checked action he has been permitted after the archive.",
+    "Eli's status is missing, presumed dead. The upper vent was manually isolated. The two teaching-floor students and the technician were recovered alive. Sera holds a Response assessment office contact card."
+  ],
+  "deviations": [
+    "Length is 7,894 words against a 6,500 target. That is above the ordinary ±12% band but inside the 25% ceiling (8,125) permitted by exception owner-action-length-policy-2026-09-13. The extra space went to blast geography, the evacuation and rescue timeline, and the aftermath.",
+    "The source's 'six minutes after they left the archive' opening is replaced by the transit-hold staging. 'Six minutes' walk from that archive' is retained in Kade's reasoning.",
+    "The source's Taren-token-tablet evidence handoff is adapted to the rewrite's ch25 state, where the wafer sleeve is in Mara's custody and Taren's tablet is confiscated.",
+    "The source line placing the lighter alloy at 'House Helix' is changed to Kepler. Helix is a foreign academy in canon, and the rewritten ch25 uses Kepler."
+  ],
+  "blockers": []
+}

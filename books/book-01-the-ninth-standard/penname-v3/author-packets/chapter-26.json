@@ -3,7 +3,7 @@
   "scene_id": "book1-ch26",
   "project": "boundary-universe/the-ninth-standard/rewrite-1",
   "pen_name": "fantasy-author-a",
-  "job": "draft",
+  "job": "structural_repair",
   "revisions": {
     "input_commit": "07d65c33763b3e8368a76aa18ecfde051b72d852",
     "canon": "95e8222e3cf0e6c0866b19257503f3dd4122a7e63e3a297e98afd4fe08800159",
@@ -118,19 +118,28 @@
       "required": true
     },
     {
-      "kind": "reference",
-      "label": "Frozen source chapter; preserve facts, not sentences",
-      "path": "manuscript/chapter-26-lab-six.md",
-      "required": true
-    },
-    {
       "kind": "previous_scene",
       "label": "Previous rewritten chapter seam",
       "path": "penname-v3/manuscript/chapter-25-taren-holt.md",
       "required": true
+    },
+    {
+      "kind": "reference",
+      "label": "Current rewrite to repair",
+      "path": "penname-v3/manuscript/chapter-26-lab-six.md",
+      "required": true
     }
   ],
-  "verified_findings": [],
+  "verified_findings": [
+    {
+      "id": "F-CH26-002",
+      "severity": "HIGH",
+      "gate": "fresh_reauthoring",
+      "evidence": "penname-v3/manuscript/chapter-26-lab-six.md:35-97: \"What does it weigh?\" ... \"Thirty-eight kilos.\" ... \"Then it has cost you two people before it has helped one.\" ... \"What happens when the red hinge goes?\" ... \"If.\" / \"When.\" ... \"It fails in stages\" ... \"Everything drops you eventually. The engineering is in how much notice you get and which way it tells you to walk.\" Verification: The rewrite changes the demonstration from a projected model to physical slabs but retains a distinctive chain of non-mandatory creative choices in substantially the same order and with closely corresponding dialogue. The correspondence exceeds preservation of durable facts and supports the claimed reader consequence that the opening remains a conspicuous close recasting, violating the explicit genuinely-fresh re-authoring obligation. Writing the report to the declared path was attempted but blocked by the read-only filesystem.",
+      "consequence": "Although the blast-door sequence identified in F-CH26-001 was materially re-staged, the opening engineering review still reads as a close recasting of the frozen source: it preserves the same unusual specifications, objections, red-hinge exchange, failure demonstration, warning logic, fellowship discussion, Response offer, and joke progression in nearly the same order with closely corresponding lines. A reader comparing editions would still encounter a conspicuous paraphrase block, so the explicit genuinely-fresh-chapter obligation remains unsatisfied.",
+      "repair_target": "Independently redesign the Lab Five setup while preserving only its durable functions: establish Eli's civilian stabilizer ambition and failure-aware engineering, surface Sera's response expertise, introduce NULL-7, and give Kade a concrete experience of trusting Eli. Change the test problem, conversational route, beat order, imagery, and joke construction rather than translating the source's display review into a physical slab demonstration."
+    }
+  ],
   "exceptions": [
     {
       "id": "owner-action-length-policy-2026-09-13",
